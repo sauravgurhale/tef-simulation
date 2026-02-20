@@ -1,9 +1,7 @@
 import os
-from urllib.parse import quote
 
-import httpx
+import uvicorn
 from fastapi import FastAPI, HTTPException
-from fastapi.responses import StreamingResponse
 
 app = FastAPI(title="Supabase Audio Proxy")
 
@@ -23,3 +21,7 @@ async def health() -> dict:
 @app.get("/audio/{object_path:path}")
 async def fetch_audio(object_path: str):
     pass
+
+
+if __name__ == "__main__":
+    uvicorn.run("api.main:app", host="0.0.0.0", port=8000, reload=True)
