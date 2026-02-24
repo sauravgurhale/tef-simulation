@@ -27,7 +27,7 @@ class COAudioSegments:
         # TODO: Will have to play with the silence settings for CO audio
         # 10 sec of silence, works almost well
         # Try 8 seconds and you will have proper segments
-        min_silence_len_ms: int = 6000,
+        min_silence_len_ms: int = 3500,
         silence_thresh_db: int | None = None,
         keep_silence_ms: int = 500,
         downsample_rate_hz: int = 16000,
@@ -64,7 +64,7 @@ class COAudioSegments:
         silence_thresh = (
             self.silence_thresh_db
             if self.silence_thresh_db is not None
-            else int(audio.dBFS - 16)
+            else int(audio.dBFS - 50)
         )
         print("Silence threshold", silence_thresh)
         # start timer
@@ -132,10 +132,10 @@ class COAudioSegments:
 
 if __name__ == "__main__":
     try:
-        practice_id = "5ac85515-ca0c-404f-bc12-967713d9a884"
+        practice_id = "71d05eef-8b8f-4aaf-baa2-00bc38c8ce86"
         path = (
             "/Users/saurav.gurhale/Desktop/github/tef-simulation/"
-            "api/src/all_co_audio_segments/co_18_com"
+            "api/src/all_co_audio_segments/co_19_test_three_com"
         )
         supabase_client = SupabaseClient()
         segmenter = COAudioSegments(

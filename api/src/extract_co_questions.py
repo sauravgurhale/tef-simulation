@@ -18,8 +18,12 @@ class QuestionDOMParser(HTMLParser):
         self._current_question_id: Optional[str] = None
         self._current_options: List[Tuple[str, List[str]]] = []
         self._current_transcript_parts: List[str] = []
+        self._current_correct_index: Optional[int] = None
+        self._option_index = 0
 
         self._in_option_label = False
+        self._in_option_item = False
+        self._option_is_correct = False
         self._current_option_text_parts: List[str] = []
         self._current_option_img_urls: List[str] = []
 
@@ -32,12 +36,18 @@ class QuestionDOMParser(HTMLParser):
         class_attr = attrs_dict.get("class", "") or ""
 
         if tag == "div":
-            if not self._in_question and "question" in class_attr.split() and "data-id" in attrs_dict:
+            if (
+                not self._in_question
+                and "question" in class_attr.split()
+                and "data-id" in attrs_dict
+            ):
                 self._in_question = True
                 self._question_div_depth = 1
                 self._current_question_id = attrs_dict.get("data-id")
                 self._current_options = []
                 self._current_transcript_parts = []
+                self._current_correct_index = None
+                self._option_index = 0
                 return
 
             if self._in_question:
@@ -53,6 +63,10 @@ class QuestionDOMParser(HTMLParser):
             self._in_option_label = True
             self._current_option_text_parts = []
             self._current_option_img_urls = []
+
+        if tag == "li" and "answer-option" in class_attr:
+            self._in_option_item = True
+            self._option_is_correct = "answer-correct" in class_attr.split()
 
         if self._in_option_label and tag == "img":
             src = attrs_dict.get("src")
@@ -74,10 +88,18 @@ class QuestionDOMParser(HTMLParser):
         if tag == "label" and self._in_option_label:
             text = normalize_whitespace("".join(self._current_option_text_parts))
             self._current_options.append((text, self._current_option_img_urls))
+            if self._in_option_item:
+                if self._option_is_correct:
+                    self._current_correct_index = self._option_index
+                self._option_index += 1
             self._in_option_label = False
             self._current_option_text_parts = []
             self._current_option_img_urls = []
             return
+
+        if tag == "li" and self._in_option_item:
+            self._in_option_item = False
+            self._option_is_correct = False
 
         if tag == "strong" and self._in_strong:
             self._in_strong = False
@@ -93,12 +115,17 @@ class QuestionDOMParser(HTMLParser):
                     self._explanation_div_depth = 0
 
             if self._question_div_depth <= 0:
-                transcript = normalize_whitespace("".join(self._current_transcript_parts))
-                transcript = re.sub(r"^Transcription\s*-\s*", "", transcript, flags=re.IGNORECASE)
+                transcript = normalize_whitespace(
+                    "".join(self._current_transcript_parts)
+                )
+                transcript = re.sub(
+                    r"^Transcription\s*-\s*", "", transcript, flags=re.IGNORECASE
+                )
                 if self._current_question_id:
                     self.questions[self._current_question_id] = {
                         "options": self._current_options,
                         "transcript": transcript,
+                        "correct_index": self._current_correct_index,
                     }
                 self._in_question = False
                 self._current_question_id = None
@@ -220,6 +247,33 @@ def download_images(image_urls: List[str], output_dir: str) -> Dict[str, str]:
     return url_to_path
 
 
+def safe_dom_options(dom_data: object) -> List[Tuple[str, List[str]]]:
+    if not isinstance(dom_data, dict):
+        return []
+    options = dom_data.get("options")
+    if isinstance(options, list):
+        return options
+    return []
+
+
+def safe_dom_transcript(dom_data: object) -> str:
+    if not isinstance(dom_data, dict):
+        return ""
+    transcript = dom_data.get("transcript")
+    if isinstance(transcript, str):
+        return transcript
+    return ""
+
+
+def safe_dom_correct_index(dom_data: object) -> Optional[int]:
+    if not isinstance(dom_data, dict):
+        return None
+    correct_index = dom_data.get("correct_index")
+    if isinstance(correct_index, int):
+        return correct_index
+    return None
+
+
 def build_output(
     html_path: str,
     output_json_path: str,
@@ -246,7 +300,7 @@ def build_output(
         image_urls.extend(images)
 
     for question_id, dom_data in dom_parser.questions.items():
-        for _, img_urls in dom_data.get("options", []):
+        for _, img_urls in safe_dom_options(dom_data):
             image_urls.extend(img_urls)
 
     unique_image_urls = sorted(set(image_urls))
@@ -258,22 +312,37 @@ def build_output(
         title_html = question.get("title", "")
         question_text, _ = extract_text_and_images(title_html)
 
-        local_images = [url_to_local_path[url] for url in question_media.get(question_id, []) if url in url_to_local_path]
+        local_images = [
+            url_to_local_path[url]
+            for url in question_media.get(question_id, [])
+            if url in url_to_local_path
+        ]
         if local_images:
-            question_text = question_text + "\n" + "\n".join([f"[image] {path}" for path in local_images])
+            question_text = (
+                question_text
+                + "\n"
+                + "\n".join([f"[image] {path}" for path in local_images])
+            )
 
         dom_data = dom_parser.questions.get(question_id, {})
         options: List[str] = []
-        for option_text, img_urls in dom_data.get("options", []):
+        for option_text, img_urls in safe_dom_options(dom_data):
             if option_text:
                 options.append(option_text)
             elif img_urls:
                 img_url = img_urls[0]
-                options.append(url_to_local_path.get(img_url, img_url))
+                if img_url:
+                    options.append(url_to_local_path.get(img_url, img_url))
+                else:
+                    options.append("")
             else:
                 options.append("")
 
-        transcript = dom_data.get("transcript", "")
+        transcript = safe_dom_transcript(dom_data)
+        correct_index = safe_dom_correct_index(dom_data)
+        right_option = ""
+        if correct_index is not None and 0 <= correct_index < 4:
+            right_option = ["A", "B", "C", "D"][correct_index]
 
         output_questions.append(
             {
@@ -281,6 +350,7 @@ def build_output(
                 "question": question_text,
                 "options": options,
                 "audio_transcript": transcript,
+                "right_option": right_option,
             }
         )
 
@@ -288,9 +358,11 @@ def build_output(
         raise ValueError(f"Expected 40 questions, found {len(output_questions)}")
 
     for question in output_questions:
-        if len(question["options"]) != 4:
+        options_list = question.get("options")
+        if not isinstance(options_list, list) or len(options_list) != 4:
+            options_len = len(options_list) if isinstance(options_list, list) else 0
             raise ValueError(
-                f"Question {question['question_no']} has {len(question['options'])} options"
+                f"Question {question.get('question_no')} has {options_len} options"
             )
 
     with open(output_json_path, "w", encoding="utf-8") as file_handle:
