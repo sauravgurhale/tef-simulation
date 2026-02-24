@@ -1,7 +1,10 @@
 import os
+from dotenv import load_dotenv
 
 from supabase import create_client
 from pydantic import BaseModel
+
+load_dotenv()
 
 
 def get_env(name: str) -> str:

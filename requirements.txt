@@ -4,3 +4,5 @@ httpx
 supabase
 requests
 pydantic
+audioop-lts
+dotenv
