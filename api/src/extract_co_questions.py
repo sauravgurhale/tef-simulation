@@ -36,11 +36,7 @@ class QuestionDOMParser(HTMLParser):
         class_attr = attrs_dict.get("class", "") or ""
 
         if tag == "div":
-            if (
-                not self._in_question
-                and "question" in class_attr.split()
-                and "data-id" in attrs_dict
-            ):
+            if not self._in_question and "question" in class_attr.split() and "data-id" in attrs_dict:
                 self._in_question = True
                 self._question_div_depth = 1
                 self._current_question_id = attrs_dict.get("data-id")
@@ -115,12 +111,8 @@ class QuestionDOMParser(HTMLParser):
                     self._explanation_div_depth = 0
 
             if self._question_div_depth <= 0:
-                transcript = normalize_whitespace(
-                    "".join(self._current_transcript_parts)
-                )
-                transcript = re.sub(
-                    r"^Transcription\s*-\s*", "", transcript, flags=re.IGNORECASE
-                )
+                transcript = normalize_whitespace("".join(self._current_transcript_parts))
+                transcript = re.sub(r"^Transcription\s*-\s*", "", transcript, flags=re.IGNORECASE)
                 if self._current_question_id:
                     self.questions[self._current_question_id] = {
                         "options": self._current_options,
@@ -312,17 +304,9 @@ def build_output(
         title_html = question.get("title", "")
         question_text, _ = extract_text_and_images(title_html)
 
-        local_images = [
-            url_to_local_path[url]
-            for url in question_media.get(question_id, [])
-            if url in url_to_local_path
-        ]
+        local_images = [url_to_local_path[url] for url in question_media.get(question_id, []) if url in url_to_local_path]
         if local_images:
-            question_text = (
-                question_text
-                + "\n"
-                + "\n".join([f"[image] {path}" for path in local_images])
-            )
+            question_text = question_text + "\n" + "\n".join([f"[image] {path}" for path in local_images])
 
         dom_data = dom_parser.questions.get(question_id, {})
         options: List[str] = []
