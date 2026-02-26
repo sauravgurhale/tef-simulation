@@ -1,0 +1,1406 @@
+[
+  {
+    "practice_no": 1,
+    "heading_question": "Vous avez lu cette annonce et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "CLUB DE MARCHE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Durée ? – Quelle est la durée moyenne des randonnées proposées par le club, et varie-t-elle selon les saisons ?",
+      "Niveaux de difficulté ? – Proposez-vous différents niveaux de difficulté afin que chacun puisse marcher à son rythme ?",
+      "Tarifs ? – Pourriez-vous me préciser les tarifs et s’il existe une formule d’abonnement pour l’année ?",
+      "Assurance ? – L’assurance est-elle incluse dans l’inscription ou doit-on en souscrire une séparément ?",
+      "Guide ? – Les randonnées sont-elles encadrées par un guide qui commente les sites visités ?",
+      "Fréquences ? – À quelle fréquence organisez-vous les sorties au cours de l’année ?",
+      "Effectif par groupe ? – Combien de participants comptez-vous en moyenne par groupe de marche ?",
+      "Circuits ? – Pourriez-vous me décrire brièvement les types de circuits que vous proposez ?",
+      "Visites ? – Incluez-vous parfois des visites culturelles ou historiques dans vos parcours ?",
+      "Équipement ? – Quel type d’équipement recommandez-vous pour participer confortablement aux randonnées ?"
+    ],
+    "image_path": "eo_section_a_images/image_1.png"
+  },
+  {
+    "practice_no": 2,
+    "heading_question": "Vous avez lu cette publicité pour une agence évenementielle et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "FAITES LA FÊTE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "En appartement ? – Est-il possible d’organiser une fête dans un appartement, ou intervenez-vous seulement en salle ?",
+      "Horaires ? – Quels sont les horaires possibles pour les fêtes : plutôt l’après-midi, le soir, ou les deux ?",
+      "Décorations ? – Proposez-vous des décorations entièrement personnalisées selon le thème choisi ?",
+      "Formules ? – Quelles sont les différentes formules que vous offrez, et que comprennent-elles exactement ?",
+      "Musique ? – Peut-on choisir librement le style de musique ou faire appel à un DJ que vous proposez ?",
+      "Enfants ? – Prévoyez-vous des activités ou des animations spéciales pour les enfants ?",
+      "Réservation ? – Combien de temps à l’avance faut-il réserver pour être sûr d’avoir une date disponible ?",
+      "Boissons ? – Les boissons sont-elles incluses dans le buffet, ou faut-il les commander séparément ?",
+      "Ambiances ? – Quels types d’ambiances proposez-vous — plutôt conviviales, festives ou plus élégantes ?",
+      "Tarifs ? – Pourriez-vous me donner une idée des tarifs, et s’ils varient selon la formule choisie ?"
+    ],
+    "image_path": "eo_section_a_images/image_2.png"
+  },
+  {
+    "practice_no": 3,
+    "heading_question": "Vous avez lu cette publicité pour des cours de cuisine et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "PLATS TYPIQUES DU MONDE ENTIER – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se déroulent les cours exactement ? Dans une école de cuisine ou dans un atelier particulier ?",
+      "Réservation ? – Faut-il réserver à l’avance, et si oui, combien de temps avant le cours ?",
+      "Jours et horaires ? – Quels sont les jours et les horaires proposés pour les cours de cuisine ?",
+      "Durée ? – Quelle est la durée d’un cours en général ?",
+      "Spécialités ? – Quelles cuisines du monde proposez-vous d’apprendre ?",
+      "Visites ? – Les visites de magasins spécialisés sont-elles incluses dans le prix du cours ?",
+      "Enfants ? – Les enfants peuvent-ils participer à ces ateliers, ou sont-ils réservés aux adultes ?",
+      "Tarifs ? – Pourriez-vous me préciser les tarifs et s’il existe des forfaits pour plusieurs cours ?",
+      "Tenue ? – Y a-t-il une tenue particulière à prévoir pour participer aux ateliers ?",
+      "Ustensiles ? – Faut-il apporter ses propres ustensiles de cuisine ou tout est fourni sur place ?"
+    ],
+    "image_path": "eo_section_a_images/image_3.png"
+  },
+  {
+    "practice_no": 4,
+    "heading_question": "Vous avez lu cette publicité pour une formation au numérique et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "ONDL : OUTILS NUMERIQUES – DEMARCHES EN LIGNE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Formules ? – Quelles sont les différentes formules que vous proposez pour les cours de numérique ?",
+      "Emploi du temps ? – Quels sont les jours et horaires disponibles pour suivre ces cours ?",
+      "À domicile ? – Est-il possible de suivre les cours directement à domicile ?",
+      "Matériel ? – Faut-il disposer de son propre matériel, ou en prêtez-vous pendant les cours ?",
+      "Type de cours ? – S’agit-il de cours individuels ou en petits groupes ?",
+      "Durée ? – Quelle est la durée d’une séance de formation en général ?",
+      "Lieu ? – Où se déroulent les cours, dans un centre de formation ou dans une salle municipale ?",
+      "Test ? – Proposez-vous un petit test pour évaluer le niveau avant de commencer ?",
+      "Tarifs ? – Pourriez-vous m’indiquer les tarifs et s’il existe des réductions pour plusieurs séances ?",
+      "Connexion ? – Faut-il une connexion Internet personnelle pour certaines activités en ligne ?"
+    ],
+    "image_path": "eo_section_a_images/image_4.png"
+  },
+  {
+    "practice_no": 5,
+    "heading_question": "Vous avez lu cette publicité pour un club de lecture et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "CLUB DE LECTURE « CLAIR DE LUNE » – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Prochain rendez-vous ? – Quand aura lieu le prochain club de lecture ?",
+      "Lecteur amateur ? – Le club est-il ouvert aux lecteurs amateurs ou faut-il déjà avoir un bon niveau de lecture ?",
+      "Coût ? – La participation au club est-elle payante ou gratuite ?",
+      "Les documents à fournir ? – Faut-il fournir des documents particuliers pour l’inscription ?",
+      "Choix du livre ? – Comment se fait le choix du livre à lire chaque mois ?",
+      "Le livre du mois ? – Quel est le livre prévu pour la prochaine rencontre ?",
+      "Acheter ou emprunter le livre ? – Doit-on acheter le livre soi-même ou est-il possible de l’emprunter au club ?",
+      "Nourriture / boisson ? – L’apéritif est-il offert par le club ou chacun apporte quelque chose ?",
+      "Parking ? – Y a-t-il un parking à proximité pour les participants ?",
+      "Pause ? – Prévoyez-vous une petite pause pendant la séance de lecture ?"
+    ],
+    "image_path": "eo_section_a_images/image_5.png"
+  },
+  {
+    "practice_no": 6,
+    "heading_question": "Vous avez lu cette offre d’emploi et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "DEVENEZ CLIENT MYSTÈRE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Adresse de l’agence ? – Quelle est l’adresse exacte de votre agence pour les clients mystères ?",
+      "Contrat ? – Faut-il signer un contrat avant de commencer les missions ?",
+      "Genres de mission ? – Quels types de missions proposez-vous : magasins, restaurants, cinéma, autres ?",
+      "Compétences ? – Quelles compétences ou qualités sont nécessaires pour devenir client mystère ?",
+      "Matériel ? – Faut-il apporter un matériel particulier pour effectuer les missions, comme un appareil photo ou un carnet de notes ?",
+      "Durée ? – Quelle est la durée moyenne d’une mission ?",
+      "Fréquence ? – À quelle fréquence les missions sont-elles proposées ?",
+      "Rémunération ? – Comment est calculée la rémunération et varie-t-elle selon les missions ?",
+      "Délai de rémunération ? – Combien de temps faut-il attendre avant d’être payé après avoir complété une mission ?",
+      "Refus mission ? – Est-il possible de refuser une mission et y a-t-il des conséquences ?"
+    ],
+    "image_path": "eo_section_a_images/image_6.png"
+  },
+  {
+    "practice_no": 7,
+    "heading_question": "Vous avez lu cette publicité pour des randonnées en scooter des mers et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "SCOOTERS NAUTIQUES – Liste de questions possibles",
+    "questions_to_ask": [
+      "Tarif ? – Quels sont les tarifs et existent-ils des formules pour plusieurs sessions ?",
+      "Âge ? – Y a-t-il un âge minimum ou maximum pour participer à cette activité ?",
+      "Temps sur place ? – Combien de temps dure la séance, de l’accueil à la fin de l’activité ?",
+      "Lieu ? – Où se situe exactement le centre nautique et sur quels plans d’eau se pratique l’activité ?",
+      "Parcours ? – Quels types de parcours sont proposés : mer, lac ou rivière ?",
+      "Certificat médical ? – Faut-il fournir un certificat médical pour participer ?",
+      "Assurance ? – L’assurance est-elle incluse ou faut-il souscrire une assurance supplémentaire ?",
+      "Dangers ? – Quelles sont les principales précautions à prendre et les risques de l’activité ?",
+      "Vitesse atteinte ? – Quelle est la vitesse maximale que l’on peut atteindre sur le scooter nautique ?",
+      "Permis ? – Faut-il posséder un permis particulier pour conduire le scooter nautique ?"
+    ],
+    "image_path": "eo_section_a_images/image_7.png"
+  },
+  {
+    "practice_no": 8,
+    "heading_question": "Vous avez lu cette annonce pour du bénévolat et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "BÉNÉVOLAT À LA MAISON DES JOUETS – Liste de questions possibles",
+    "questions_to_ask": [
+      "Missions ? – Quelles sont les missions proposées aux bénévoles au sein de l’association ?",
+      "Lieu de l’organisme ? – Où se situe exactement l’association et ses locaux ?",
+      "Tâches ? – Quelles tâches concrètes sont confiées aux bénévoles au quotidien ?",
+      "Nombre d’heures ? – Combien d’heures par semaine ou par mois faut-il prévoir pour s’engager ?",
+      "Engagement ? – Y a-t-il un engagement minimum ou une durée spécifique requise pour devenir bénévole ?",
+      "Compétences recherchées ? – Quelles compétences ou qualités sont particulièrement appréciées chez les bénévoles ?",
+      "Besoin de références ? – Faut-il fournir des références ou des recommandations pour s’inscrire comme bénévole ?",
+      "Clientèle visée ? – À quel type de familles ou d’enfants les bénévoles s’adressent-ils principalement ?",
+      "Type de jouets ? – Quels types de jouets sont prêtés aux familles : éducatifs, ludiques, pour quels âges ?",
+      "Dons de jouets acceptés ? – L’association accepte-t-elle des dons de jouets, et si oui, quelles conditions ?"
+    ],
+    "image_path": "eo_section_a_images/image_8.png"
+  },
+  {
+    "practice_no": 9,
+    "heading_question": "Vous avez lu cette publicité pour un circuit en train et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LE PETIT TRAIN DU NORD – Liste de questions possibles",
+    "questions_to_ask": [
+      "Circuits ? – Quels sont les différents circuits proposés et quels paysages permettent-ils de découvrir ?",
+      "Durée ? – Quelle est la durée moyenne de chaque circuit à bord du train ?",
+      "Lieu de départ ? – Où se situe le point de départ exact pour embarquer ?",
+      "Horaires ? – Quels sont les horaires des départs tout au long de la journée ?",
+      "Tarifs ? – Quels sont les tarifs, et existent-ils des réductions ou forfaits famille ?",
+      "Escales ? – Y a-t-il des escales prévues pendant le trajet, et si oui, lesquelles ?",
+      "Menu ? – Quel type de restauration est proposé à bord et faut-il réserver à l’avance ?",
+      "Hébergement ? – Proposez-vous des forfaits incluant l’hébergement, et si oui, dans quels types d’établissements ?",
+      "Guide ? – Un guide accompagne-t-il les passagers pour commenter les paysages et points d’intérêt ?",
+      "Réservation ? – Comment effectuer une réservation et combien de temps à l’avance faut-il réserver ?"
+    ],
+    "image_path": "eo_section_a_images/image_9.png"
+  },
+  {
+    "practice_no": 10,
+    "heading_question": "Vous avez lu cette publicité sur une activité intéressante pour le week-end. Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "STAGE D’APICULTURE – Liste de questions possibles",
+    "questions_to_ask": [
+      "Le lieu ? – Où se déroule exactement le stage d’apiculture ?",
+      "La durée ? – Combien de temps dure le stage, de l’accueil à la fin de la session ?",
+      "L’âge minimum ? – Y a-t-il un âge minimum requis pour participer au stage ?",
+      "Le matériel ? – Faut-il apporter son propre matériel ou est-il fourni sur place ?",
+      "Le prix / tarif ? – Quels sont les tarifs et existe-t-il des réductions pour les enfants ou les groupes ?",
+      "La taille du groupe ? – Combien de participants sont accueillis par session ?",
+      "La réduction ? – Proposez-vous des réductions pour les familles ou les réservations en groupe ?",
+      "Dangereux ? – Y a-t-il des risques particuliers liés à la manipulation des abeilles ?",
+      "Accompagnateurs ? – Est-il possible de venir avec un accompagnateur et peut-il participer aux activités ?",
+      "Dégustation ? – Le stage inclut-il une dégustation de miel ou d’autres produits apicoles ?"
+    ],
+    "image_path": "eo_section_a_images/image_10.png"
+  },
+  {
+    "practice_no": 11,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "NOCTURNES AU MUSÉE D’ART CONTEMPORAIN – Liste de questions possibles",
+    "questions_to_ask": [
+      "Date ? – À quelle date aura lieu la Nocturne d’automne du musée ?",
+      "Horaires ? – Quels sont les horaires précis de la visite et des conférences jusqu’à minuit ?",
+      "Accès ? – Comment accéder au musée : transports en commun, parking, entrée principale ?",
+      "Réservation ? – Faut-il réserver à l’avance pour participer à la nocturne ?",
+      "Tarifs ? – Quels sont les tarifs et les offres spéciales pour cette soirée ?",
+      "Abonnement ? – Les abonnés du musée bénéficient-ils de réductions ou d’avantages particuliers ?",
+      "Expositions ? – Quelles expositions seront présentées pendant la nocturne ?",
+      "Conférences ? – Quelles conférences sont prévues et à quels horaires ?",
+      "Enfants ? – Les enfants peuvent-ils participer et y a-t-il des activités adaptées pour eux ?",
+      "Restauration ? – Le bar-restaurant est-il ouvert pendant la nocturne et faut-il réserver ?"
+    ],
+    "image_path": "eo_section_a_images/image_11.png"
+  },
+  {
+    "practice_no": 12,
+    "heading_question": "Vous avez lu cette publicité pour une activité originale dans votre ville et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "DECOUVREZ LE LANCER DE HACHE – Liste de questions possibles",
+    "questions_to_ask": [
+      "Lieu ? – Pourriez-vous me préciser où se déroule exactement l’activité de lancer de hache ?",
+      "Accès ? – Comment peut-on y accéder facilement : transports en commun, stationnement sur place ?",
+      "Prix ? – Quels sont les tarifs appliqués et proposez-vous des réductions pour les groupes ou les étudiants ?",
+      "Durée ? – Quelle est la durée habituelle d’une séance ou d’une initiation ?",
+      "Participants ? – Quel est le nombre maximum de participants par session ?",
+      "Âge minimum ? – Y a-t-il un âge minimum recommandé pour participer à l’activité ?",
+      "Équipement ? – Faut-il venir avec un équipement spécifique ou tout est-il fourni sur place ?",
+      "Forme physique ? – Est-ce une activité accessible à tous ou faut-il avoir une certaine condition physique ?",
+      "Encadrement ? – Les participants sont-ils encadrés par des professionnels durant toute l’activité ?",
+      "Sécurité ? – Quelles mesures de sécurité sont mises en place pour garantir la protection des participants ?",
+      "Réservation ? – Faut-il réserver à l’avance ou est-il possible de participer sans inscription préalable ?"
+    ],
+    "image_path": "eo_section_a_images/image_12.png"
+  },
+  {
+    "practice_no": 13,
+    "heading_question": "Vous avez lu cette publicité pour une vente de vêtements et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "GRAND SOLDE DE VÊTEMENTS – Liste de questions possibles",
+    "questions_to_ask": [
+      "Adresse ? – Pourriez-vous m’indiquer l’adresse exacte du centre communautaire où aura lieu le grand solde ?",
+      "Horaires ? – Quels seront les horaires d’ouverture pendant la semaine du solde ?",
+      "Origine des vêtements ? – Savez-vous d’où proviennent les vêtements mis en vente ?",
+      "Gamme de prix ? – Pouvez-vous me donner une idée de la gamme de prix proposée ?",
+      "Marques ? – Quelles marques ou créateurs seront représentés lors du solde ?",
+      "Types d’accessoires ? – Quels types d’accessoires seront disponibles : sacs, bijoux, chaussures… ?",
+      "Vêtements d’enfants ? – Y aura-t-il également des vêtements pour enfants ?",
+      "Tailles ? – Les vêtements seront-ils disponibles dans toutes les tailles ?",
+      "Modalités de paiement ? – Quels modes de paiement acceptez-vous : carte, espèces, virement ?",
+      "Organismes caritatifs ? – À quels organismes caritatifs seront versés les profits de la vente ?"
+    ],
+    "image_path": "eo_section_a_images/image_13.png"
+  },
+  {
+    "practice_no": 14,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "MÉDIATHÈQUE – Liste de questions possibles",
+    "questions_to_ask": [
+      "Adresse ? – Pourriez-vous me préciser l’adresse exacte de la bibliothèque municipale ?",
+      "Horaires ? – Quels sont les horaires d’ouverture de la bibliothèque ?",
+      "Tarifs et abonnement ? – Quels sont les tarifs d’abonnement et existe-t-il différentes formules ?",
+      "Pièces à fournir ? – Quelles pièces faut-il présenter pour s’abonner ?",
+      "Durée des prêts ? – Quelle est la durée de prêt des livres et autres documents ?",
+      "Pénalités de retard ? – Y a-t-il des pénalités en cas de retard dans la restitution des documents ?",
+      "CD, DVD ? – La bibliothèque propose-t-elle également des CD ou des DVD à emprunter ?",
+      "Livres pour enfants ? – Disposez-vous d’un espace ou d’une collection dédiée aux livres pour enfants ?",
+      "Conférences ? – Quelles sortes de conférences sont organisées et à quelle fréquence ?",
+      "Ateliers ? – Quels types d’ateliers proposez-vous au public ?"
+    ],
+    "image_path": "eo_section_a_images/image_14.png"
+  },
+  {
+    "practice_no": 15,
+    "heading_question": "Vous avez lu cette affiche et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "MUSEUM D’HISTOIRE NATURELLE – Liste de questions possibles",
+    "questions_to_ask": [
+      "Adresse ? – Pourriez-vous me donner l’adresse exacte du Muséum d’Histoire Naturelle ?",
+      "Jours ? – Quels jours cet atelier “découverte des animaux” est-il proposé ?",
+      "Âge des enfants ? – À partir de quel âge les enfants peuvent-ils participer à l’atelier ?",
+      "Durée ? – Quelle est la durée d’une séance de l’atelier ?",
+      "Prix ? – Quel est le tarif de participation et y a-t-il des réductions pour les familles ?",
+      "Encadrement ? – Les enfants sont-ils encadrés en permanence par des animateurs qualifiés ?",
+      "Animaux ? – Quels types d’animaux les enfants pourront-ils découvrir pendant l’atelier ?",
+      "Activités ? – Quelles activités sont prévues au cours de cet atelier ?",
+      "Matériel ? – Quel petit matériel scolaire faut-il apporter exactement ?",
+      "Parents ? – Les parents peuvent-ils assister à l’atelier ou doivent-ils attendre à l’extérieur ?"
+    ],
+    "image_path": "eo_section_a_images/image_15.png"
+  },
+  {
+    "practice_no": 16,
+    "heading_question": "Vous avez lu cette publicité pour cette exposition d’art culinaire et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LE PRINTEMPS DES CHEFS – Liste de questions possibles",
+    "questions_to_ask": [
+      "Lieu ? – Pourriez-vous me préciser où se trouve exactement le Parc des Expositions ?",
+      "Accès ? – Comment peut-on s’y rendre : en voiture, en transport en commun, parking disponible ?",
+      "Tarifs ? – Quels sont les tarifs d’entrée et y a-t-il des formules spéciales pour plusieurs jours ?",
+      "Horaires ? – Quels sont les horaires d’ouverture pendant la semaine de l’événement ?",
+      "Enfants ? – L’événement est-il accessible aux enfants ou réservé aux adultes ?",
+      "Chefs étoilés ? – Des chefs étoilés participeront-ils à cette édition ?",
+      "Nombre de chefs ? – Combien de chefs seront présents tout au long de la semaine ?",
+      "Dégustations ? – Quelles sortes de dégustations seront proposées au public ?",
+      "Boissons ? – Des boissons seront-elles incluses ou proposées en supplément ?",
+      "Site internet ? – Avez-vous un site internet où l’on peut consulter le programme complet de l’événement ?"
+    ],
+    "image_path": "eo_section_a_images/image_16.png"
+  },
+  {
+    "practice_no": 17,
+    "heading_question": "Vous avez lu cette annonce et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "MUSIMONDIAL – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pourriez-vous me préciser l’adresse exacte où se déroule la chorale Musimondial ?",
+      "Tarifs ? – Quels sont les tarifs d’inscription et existe-t-il des réductions pour étudiants ou groupes ?",
+      "Horaires ? – Quels sont les horaires des répétitions de la chorale ?",
+      "Âge ? – Y a-t-il une limite d’âge pour participer à la chorale ?",
+      "Répertoire ? – Quel type de répertoire est interprété : musiques traditionnelles, contemporaines ou des deux ?",
+      "Niveaux ? – La chorale accepte-t-elle tous les niveaux ou uniquement des participants expérimentés ?",
+      "Langues ? – Quelles langues sont utilisées dans les chants de la chorale ?",
+      "Nombre de participants ? – Combien de personnes peuvent rejoindre la chorale ?",
+      "Représentations ? – Y aura-t-il des concerts ou des représentations publiques prévues ?",
+      "Formation musicale ? – Faut-il avoir une formation musicale ou le chant est-il ouvert à tous ?"
+    ],
+    "image_path": "eo_section_a_images/image_17.png"
+  },
+  {
+    "practice_no": 18,
+    "heading_question": "Vous avez lu cette annonce sur une émission de radio et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "RADIO PORTES OUVERTES – Liste de questions possibles :",
+    "questions_to_ask": [
+      "L’âge ? – Y a-t-il une limite d’âge pour assister à l’enregistrement de l’émission ?",
+      "Le lieu ? – Pouvez-vous me préciser l’adresse exacte où se déroule l’enregistrement ?",
+      "Les tâches ? – Quelles seront les tâches ou les activités des participants pendant l’enregistrement ?",
+      "La durée ? – Combien de temps dure une séance d’enregistrement ?",
+      "Rémunération ? – Y a-t-il une rémunération prévue pour les participants ou est-ce gratuit ?",
+      "Cadeaux ? – Quels types de cadeaux peut-on gagner en participant ?",
+      "Possibilité de s’approcher des invités ? – Les participants peuvent-ils s’approcher des célébrités présentes ?",
+      "La pause ? – Y aura-t-il des pauses prévues pendant l’enregistrement ?",
+      "La tenue ? – Faut-il respecter un code vestimentaire particulier pour assister à l’émission ?",
+      "Des compétences pour être choisi ? – Faut-il posséder certaines compétences ou qualifications pour être sélectionné ?"
+    ],
+    "image_path": "eo_section_a_images/image_18.png"
+  },
+  {
+    "practice_no": 19,
+    "heading_question": "Vous avez lu cette annonce sur une émission de radio et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "ROLLER EN FAMILLE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pourriez-vous me préciser l’endroit exact où se déroulent les cours de roller ?",
+      "Dates ? – À quelles dates les sessions d’apprentissage sont-elles proposées ?",
+      "Horaires ? – Quels sont les horaires des cours de roller pour les participants ?",
+      "Tarifs ? – Quels sont les tarifs et existe-t-il des réductions pour les groupes ou les familles ?",
+      "Âge minimum ? – Y a-t-il un âge minimum requis pour participer aux cours de roller ?",
+      "Moniteurs ? – Les cours sont-ils encadrés par des moniteurs qualifiés ?",
+      "Matériel ? – Tout le matériel est-il fourni ou faut-il apporter quelque chose ?",
+      "Assurance ? – Une assurance est-elle incluse ou faut-il être assuré personnellement ?",
+      "Balades ? – Des sorties ou balades en groupe sont-elles organisées en complément des cours ?",
+      "Âge ? – Les cours sont-ils adaptés à tous les âges ou seulement aux enfants/adolescents ?"
+    ],
+    "image_path": "eo_section_a_images/image_19.png"
+  },
+  {
+    "practice_no": 20,
+    "heading_question": "Vous avez lu cette publicité pour une école de voile et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "FAITES DE LA VOILE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les tarifs des différentes formules de voile proposées ?",
+      "Lieux ? – Où se déroulent les sessions : mer, rivière ou lac ?",
+      "Bateaux ? – Quels types de bateaux sont utilisés pour les cours et sorties ?",
+      "Durée ? – Quelle est la durée des cours ou des sorties en voile ?",
+      "Moniteurs ? – Les cours sont-ils encadrés par des moniteurs expérimentés ?",
+      "Certificat ? – Un certificat ou diplôme est-il délivré à la fin de la formation ?",
+      "Équipement ? – Tout le matériel nécessaire est-il fourni ou faut-il apporter quelque chose ?",
+      "Assurance ? – Une assurance est-elle incluse pour les participants ?",
+      "Conditions médicales ? – Y a-t-il des conditions médicales particulières pour participer ?",
+      "Danger ? – Quelles mesures de sécurité sont mises en place pour prévenir les risques ?"
+    ],
+    "image_path": "eo_section_a_images/image_20.png"
+  },
+  {
+    "practice_no": 21,
+    "heading_question": "Vous avez lu cette publicité pour des stages d’escalade et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "STAGES D’ESCALADE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pourriez-vous me préciser l’endroit exact où se déroulent les stages d’escalade en montagne ?",
+      "Tarifs ? – Quels sont les tarifs des stages et existe-t-il des réductions pour les groupes ou familles ?",
+      "Transports ? – Comment peut-on se rendre sur le lieu du stage : transport en commun, navette ou parking disponible ?",
+      "Certificat médical ? – Faut-il fournir un certificat médical pour participer aux stages ?",
+      "Équipement fourni ? – Le matériel d’escalade est-il fourni ou faut-il apporter le sien ?",
+      "Encadrement ? – Les participants sont-ils encadrés par des moniteurs expérimentés tout au long du stage ?",
+      "Niveaux de difficulté ? – Les stages sont-ils adaptés à tous les niveaux ou seulement aux débutants/experts ?",
+      "Âge ? – Quel est l’âge minimum requis pour participer aux stages ?",
+      "En ville ? – Proposez-vous également des stages d’escalade en milieu urbain ou uniquement en montagne ?",
+      "Stages intensifs ? – Existe-t-il des stages intensifs pour progresser plus rapidement ?"
+    ],
+    "image_path": "eo_section_a_images/image_21.png"
+  },
+  {
+    "practice_no": 22,
+    "heading_question": "Vous avez lu cette publicité pour un concert et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "CONCERT EN PLEIN AIR – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’endroit exact où se déroulent les concerts en plein air ?",
+      "Groupes et artistes ? – Quels artistes et groupes seront présents pendant ces deux jours de concert ?",
+      "Fonctionnement des pass ? – Comment fonctionnent les pass : un jour ou deux jours, et que donnent-ils accès ?",
+      "Type de restauration ? – Quel type de restauration sera proposé sur place : food trucks, restaurants, boissons ?",
+      "Prix ? – Quels sont les tarifs des pass et y a-t-il des réductions pour les enfants ou les groupes ?",
+      "Parking ? – Y a-t-il des parkings disponibles à proximité et sont-ils gratuits ou payants ?",
+      "Type de stand ? – Quels types de stands artisanaux seront présents : artisanat local, produits alimentaires, souvenirs ?",
+      "Où dormir ? – Est-il possible de dormir sur place et quelles sont les conditions : tentes, camping, hébergements à proximité ?",
+      "Enfants ? – Les concerts sont-ils adaptés aux enfants ou y a-t-il des espaces spécifiques pour eux ?",
+      "Rencontrer des artistes ? – Y aura-t-il des occasions de rencontrer les artistes présents lors de l’événement ?"
+    ],
+    "image_path": "eo_section_a_images/image_22.png"
+  },
+  {
+    "practice_no": 23,
+    "heading_question": "Vous avez lu cette publicité pour une visite et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LE CHATEAU MEDIEVAL DE VALLON – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’adresse exacte du château médiéval de Vallon ?",
+      "Horaires ? – Quels sont les horaires d’ouverture pour les visites et les ateliers ?",
+      "Visite guidée ? – Des visites guidées sont-elles proposées et à quelles heures ?",
+      "Durée ? – Quelle est la durée approximative d’une visite guidée ou d’un atelier ?",
+      "Fonctionnement atelier ? – Comment fonctionnent les ateliers pour adultes et enfants : thèmes, inscription, matériel fourni ?",
+      "Prix ? – Quels sont les prix des visites et des ateliers ?",
+      "Époque château ? – De quelle époque date le château médiéval de Vallon ?",
+      "Tarifs ? – Y a-t-il des tarifs différents pour adultes, enfants ou étudiants ?",
+      "Tarifs spéciaux ? – Des réductions ou tarifs spéciaux sont-ils proposés pour les groupes ou les familles ?",
+      "Réservations ? – Faut-il réserver à l’avance pour les ateliers ou les visites guidées ?"
+    ],
+    "image_path": "eo_section_a_images/image_23.png"
+  },
+  {
+    "practice_no": 24,
+    "heading_question": "Vous avez lu cette publicité pour un service d’entretien de voitures et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "TRANQUILLE AUTOMOBILE A DOMICILE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Horaires ? – Quels sont les horaires d’intervention de Tranquille Automobile à domicile ?",
+      "Types ? – Quels types de prestations proposez-vous : réparation, carrosserie, entretien annuel, retouches peinture ?",
+      "Durée ? – Combien de temps durent généralement les interventions ?",
+      "Devis ? – Faut-il demander un devis avant chaque intervention et est-il gratuit ?",
+      "Assurances ? – Les réparations sont-elles couvertes par une assurance ou garantie ?",
+      "Interventions ? – Est-il possible d’intervenir sur toutes les marques et modèles de voiture ?",
+      "Tarifs ? – Quels sont les tarifs pour les différentes prestations ?",
+      "Variété ? – Proposez-vous différents types de pièces de rechange ou uniquement des pièces standard ?",
+      "Suivi ? – Y a-t-il un suivi après les réparations ou un contrôle de qualité effectué ?",
+      "Dossier ? – Faut-il constituer un dossier client ou fournir des informations sur le véhicule avant l’intervention ?"
+    ],
+    "image_path": "eo_section_a_images/image_24.png"
+  },
+  {
+    "practice_no": 25,
+    "heading_question": "Vous avez lu cette annonce pour louer un scooter sous-marin et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LOUEZ UN SCOOTER SOUS-MARIN – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les tarifs pour la location d’un scooter sous-marin et existe-t-il des réductions pour les groupes ?",
+      "Lieux ? – Dans quelles destinations peut-on louer et utiliser le scooter sous-marin ?",
+      "Durée de la location ? – Quelle est la durée maximale ou minimale de location pour cette activité ?",
+      "Formation ? – Faut-il suivre une formation ou un briefing avant de piloter le scooter sous-marin ?",
+      "Photos ? – Est-il possible de prendre des photos ou vidéos pendant la sortie ?",
+      "Âge minimum ? – Y a-t-il un âge minimum requis pour participer à cette activité ?",
+      "Tenue vestimentaire ? – Faut-il porter un équipement particulier ou une tenue spéciale pour utiliser le scooter ?",
+      "Préparation physique ? – L’activité demande-t-elle une bonne condition physique ou est-elle accessible à tous ?",
+      "En rivière ? – Peut-on utiliser le scooter sous-marin en rivière ou uniquement en mer/lac ?",
+      "Assurance ? – Une assurance est-elle incluse pour couvrir les participants et le matériel ?"
+    ],
+    "image_path": "eo_section_a_images/image_25.png"
+  },
+  {
+    "practice_no": 26,
+    "heading_question": "Vous avez lu cette publicité pour des randonnées en traîneau et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "TRAÎNEAU À CHIENS – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les tarifs pour conduire un attelage de chiens et existe-t-il des réductions pour les groupes ou familles ?",
+      "Accompagnement ? – Y a-t-il un accompagnement par un moniteur expérimenté pendant l’activité ?",
+      "Saison ? – À quelle période de l’année peut-on pratiquer cette activité : hiver uniquement ou toute l’année ?",
+      "Lieux ? – Où se déroulent les randonnées en traîneau à chiens : routes, chemins, neige ?",
+      "Nombre de personnes à bord ? – Combien de personnes peuvent participer par attelage ?",
+      "Vêtements spéciaux ? – Faut-il prévoir des vêtements spécifiques pour l’activité ?",
+      "Randonnées de nuit ? – Proposez-vous des randonnées en traîneau à chiens de nuit ?",
+      "Enfants ? – Les enfants peuvent-ils participer et y a-t-il un âge minimum requis ?",
+      "Conditions médicales ? – Y a-t-il des conditions médicales particulières pour pouvoir participer ?",
+      "Danger ? – Quelles mesures de sécurité sont mises en place pour limiter les risques pendant l’activité ?"
+    ],
+    "image_path": "eo_section_a_images/image_26.png"
+  },
+  {
+    "practice_no": 27,
+    "heading_question": "Vous avez lu cette publicité pour louer un orchestre et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "ORCHESTRE MARIAGES, ANNIVERSAIRES – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieux ? – Pouvez-vous me préciser où l’orchestre peut se produire : salles, lieux privés ou en extérieur ?",
+      "Tarifs ? – Quels sont les tarifs des différentes formules musicales et y a-t-il des réductions pour les réservations anticipées ?",
+      "Durée ? – Quelle est la durée des prestations de l’orchestre ?",
+      "Programme spécial ? – Peut-on demander un programme musical spécifique pour un mariage, anniversaire ou cocktail ?",
+      "Chanteurs ? – Combien de chanteurs font partie de l’orchestre et quels styles chantent-ils ?",
+      "Animations spéciales ? – Proposez-vous des animations particulières pendant la prestation, en plus de la musique ?",
+      "Répertoire ? – Quel est le répertoire de l’orchestre : tubes internationaux, classiques, variétés ?",
+      "Installation technique ? – Fournissez-vous le matériel technique et l’installation sonore ou faut-il prévoir quelque chose sur place ?",
+      "Assurance ? – L’orchestre est-il couvert par une assurance en cas de problème lors de la prestation ?",
+      "Karaoké ? – Est-il possible d’organiser des sessions de karaoké avec l’orchestre ?"
+    ],
+    "image_path": "eo_section_a_images/image_27.png"
+  },
+  {
+    "practice_no": 28,
+    "heading_question": "Vous avez lu cette publicité pour une activité en famille et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "DES VACANCES DANS UN ZOO – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu du zoo ? – Pouvez-vous me préciser l’adresse exacte du zoo où se déroulent ces vacances insolites ?",
+      "Comment s’y rendre ? – Comment peut-on accéder au zoo : en voiture, transports en commun, parking disponible ?",
+      "Prix pour une nuit ? – Quel est le tarif pour passer une nuit dans une cabine face aux animaux ?",
+      "Nombre de chambres ? – Combien de cabines sont disponibles pour les visiteurs ?",
+      "Restaurant ? – Y a-t-il un restaurant ou un service de restauration sur place ?",
+      "Âge minimum ? – Y a-t-il un âge minimum requis pour séjourner dans les cabines ?",
+      "Activités proposées ? – Quelles activités sont proposées aux visiteurs pendant leur séjour au zoo ?",
+      "Cabine protégée ? – Les cabines sont-elles sécurisées pour garantir la protection des visiteurs face aux animaux ?",
+      "Combien d’animaux présents ? – Combien d’animaux peut-on observer depuis les cabines ?",
+      "Comment réserver ? – Faut-il réserver à l’avance et comment procéder pour réserver une cabine ?"
+    ],
+    "image_path": "eo_section_a_images/image_28.png"
+  },
+  {
+    "practice_no": 29,
+    "heading_question": "Vous avez lu cette publicité pour faire garder votre animal de compagnie et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "ANIMAUX SERVICES – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les tarifs pour les différentes formules de garde d’animaux et existe-t-il des réductions pour plusieurs jours ?",
+      "Types d’animaux ? – Quels types d’animaux pouvez-vous accueillir : chiens, chats, rongeurs, oiseaux… ?",
+      "Familles d’accueil ? – Comment sont sélectionnées les familles d’accueil et combien d’animaux peuvent-elles recevoir ?",
+      "Nourriture ? – Faut-il fournir la nourriture pour l’animal ou est-elle incluse dans la formule ?",
+      "Espace ? – Quel espace est prévu pour le bien-être des animaux pendant la garde ?",
+      "Accident, maladie ? – Que se passe-t-il en cas d’accident ou de maladie de l’animal pendant la garde ?",
+      "Compagnie ? – Les animaux restent-ils seuls ou bénéficient-ils de compagnie régulière ?",
+      "Durée de garde ? – Quelle est la durée maximale ou minimale pour laquelle vous pouvez garder un animal ?",
+      "Assurance ? – Y a-t-il une assurance pour couvrir les incidents pendant la garde de l’animal ?",
+      "Personnel qualifié ? – Le personnel chargé de la garde est-il formé et qualifié pour s’occuper des animaux ?"
+    ],
+    "image_path": "eo_section_a_images/image_29.png"
+  },
+  {
+    "practice_no": 30,
+    "heading_question": "Vous avez lu cette publicité pour passer le permis moto et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "FORMATIONS MOTOS – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Forfaits ? – Quels sont les différents forfaits proposés (initiation, perfectionnement, permis complet) et leurs tarifs ?",
+      "Durée de la formation ? – Combien de temps dure la formation complète avant de pouvoir passer l’examen ?",
+      "Horaires et jours d’ouverture ? – Quels sont les jours et horaires disponibles pour les cours et les sessions pratiques ?",
+      "Durée des cours ? – Quelle est la durée moyenne d’un cours de conduite ou de code ?",
+      "Type de motos ? – Quels modèles ou cylindrées de motos sont utilisés pour la formation ?",
+      "Documents à fournir ? – Quels papiers sont nécessaires pour l’inscription (permis provisoire, pièce d’identité, justificatif de domicile, photo, etc.) ?",
+      "Simulateurs ? – Est-ce qu’il y a des simulateurs de conduite pour les débutants avant la pratique sur route ?",
+      "Inscription examen ? – L’auto-école s’occupe-t-elle de l’inscription à l’examen du permis moto ?",
+      "Entraînement au code ? – Est-ce qu’une préparation au code de la route (partie moto) est incluse dans la formation ?",
+      "Visite médicale ? – Faut-il passer une visite médicale avant de commencer ou pour obtenir le permis moto ?"
+    ],
+    "image_path": "eo_section_a_images/image_30.png"
+  },
+  {
+    "practice_no": 31,
+    "heading_question": "Vous avez lu cette publicité pour la garde de chats et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "AU BONHEUR DES CHATS – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Prix ? – Quels sont les tarifs pour les différentes prestations à domicile proposées par Au Bonheur des Chats ?",
+      "Formules ? – Quelles formules de garde ou de visite à domicile sont disponibles pour les chats ?",
+      "Nourriture ? – Faut-il fournir la nourriture du chat ou est-elle incluse dans le service ?",
+      "Durée ? – Quelle est la durée de chaque visite à domicile ?",
+      "Nombre de chats au maximum ? – Combien de chats peuvent être pris en charge simultanément à votre domicile ?",
+      "Personnes spécialisées ? – Les visites sont-elles effectuées par des personnes spécialisées dans le soin des chats ?",
+      "Soins médicaux ? – Pouvez-vous prodiguer des soins médicaux ou administrer des médicaments si nécessaire ?",
+      "Limite de visites par jour ? – Y a-t-il un nombre maximum de visites par jour pour chaque chat ?",
+      "Possibilité de jouer avec le chat ? – Est-il possible d’inclure du temps de jeu avec le chat pendant les visites ?",
+      "Possibilité de gérer un chat agressif ? – Êtes-vous capables de gérer un chat ayant un comportement agressif ou difficile ?"
+    ],
+    "image_path": "eo_section_a_images/image_31.png"
+  },
+  {
+    "practice_no": 32,
+    "heading_question": "Vous avez lu cette publicité pour un garage et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "GARAGE PARTICIPATIF – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu du garage ? – Pouvez-vous me préciser l’adresse exacte du garage participatif dans ma ville ?",
+      "Horaires ? – Quels sont les horaires d’ouverture pour accéder au garage et utiliser les outils ?",
+      "Fonctionnement ? – Comment fonctionne le garage participatif : libre accès, sessions encadrées, ou sur réservation ?",
+      "Pièce auto ? – Faut-il fournir ses propres pièces pour les réparations ou sont-elles disponibles sur place ?",
+      "Tenue ? – Y a-t-il une tenue spécifique recommandée pour travailler dans le garage ?",
+      "Équipements à disposition ? – Quels outils et équipements sont mis à disposition des participants ?",
+      "Participation/formation ? – Faut-il suivre une formation pour utiliser le garage ou peut-on participer directement ?",
+      "Personnel ? – Des professionnels sont-ils présents pour donner des conseils ou superviser les travaux ?",
+      "Prix ? – Quels sont les tarifs pour accéder au garage et aux formations ?",
+      "RDV/Inscription ? – Faut-il prendre rendez-vous ou s’inscrire à l’avance pour participer ?"
+    ],
+    "image_path": "eo_section_a_images/image_32.png"
+  },
+  {
+    "practice_no": 33,
+    "heading_question": "Vous avez lu cette publicité pour une initiation au parapente et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "PARAPENTE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les tarifs pour l’initiation au parapente et y a-t-il des offres spéciales ou réductions ?",
+      "Âge ? – Y a-t-il un âge minimum ou maximum pour participer à l’initiation ?",
+      "Saison ? – À quelle période de l’année peut-on pratiquer le parapente ?",
+      "Limites poids et taille ? – Y a-t-il des limites de poids ou de taille pour les participants ?",
+      "Assurance ? – Une assurance est-elle incluse pour couvrir les risques liés à l’activité ?",
+      "Des dangers ? – Quels sont les dangers éventuels et quelles mesures de sécurité sont mises en place ?",
+      "Saut à deux ? – Est-il possible de faire un saut en tandem avec un moniteur expérimenté ?",
+      "Autorisation parentale ? – Faut-il une autorisation parentale pour les participants mineurs ?",
+      "Cadre ? – Dans quel cadre se déroulent les vols : montagne, vallée, bord de mer ?",
+      "Annulation ? – Quelles sont les conditions d’annulation ou de report en cas de mauvais temps ?"
+    ],
+    "image_path": "eo_section_a_images/image_33.png"
+  },
+  {
+    "practice_no": 34,
+    "heading_question": "Vous avez lu cette publicité pour une ferme et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LA CUEILLETTE À LA FERME – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’adresse exacte de la Ferme de Ste Gaëlle ?",
+      "Accès ? – Comment peut-on accéder à la ferme : transports en commun, voiture, parking disponible ?",
+      "Horaires ? – Quels sont les horaires d’ouverture pour la cueillette selon la période de l’année ?",
+      "Saisons ? – Quelles périodes de l’année sont propices à la cueillette des différents fruits, légumes et fleurs ?",
+      "Produits ? – Quels types de fruits, légumes et fleurs peut-on récolter à la ferme ?",
+      "Quantité ? – Y a-t-il une limite de quantité à cueillir par personne ou par groupe ?",
+      "Prix ? – Quels sont les tarifs pour la cueillette et y a-t-il des réductions pour les familles ou groupes ?",
+      "Étiquette bio ? – Les produits sont-ils certifiés biologiques ou labellisés de manière spécifique ?",
+      "Équipement/outils ? – Faut-il apporter son propre équipement ou des outils sont-ils fournis sur place ?",
+      "Autres produits ? – Peut-on également acheter d’autres produits de la ferme : confitures, miel, œufs, etc. ?"
+    ],
+    "image_path": "eo_section_a_images/image_34.png"
+  },
+  {
+    "practice_no": 35,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "JOYEUSEVUE.COM – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Fonctionnement ? – Comment fonctionne l’achat de lunettes sur joyeusevue.com, de la commande à la réception ?",
+      "Prix ? – Quels sont les tarifs des différentes lunettes et verres proposés sur le site ?",
+      "Remboursements ? – Quelles sont les conditions pour bénéficier du service “satisfait ou remboursé” ?",
+      "Service après-vente ? – Existe-t-il un service après-vente pour les lunettes défectueuses ou ajustements nécessaires ?",
+      "Conseils ? – Peut-on obtenir des conseils pour choisir la monture ou les verres adaptés ?",
+      "Qualité ? – Quelle est la qualité des verres et des montures proposées ?",
+      "Choix ? – Quel est le choix de montures et de styles disponible pour les clients ?",
+      "Livraison ? – Quels sont les délais et conditions de livraison des lunettes commandées ?",
+      "Lunettes de soleil ? – Proposez-vous également des lunettes de soleil sur le site ?",
+      "Lunettes pour enfants ? – Peut-on commander des lunettes pour enfants et existe-t-il des modèles adaptés ?"
+    ],
+    "image_path": "eo_section_a_images/image_35.png"
+  },
+  {
+    "practice_no": 36,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "VENTE DE BIJOUX LINGOTS.COM – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’adresse exacte où se déroule le rachat de bijoux ?",
+      "Horaires ? – Quels sont les horaires d’ouverture pour effectuer le rachat ?",
+      "Temps de la transaction ? – Combien de temps dure en moyenne une transaction de rachat de bijoux ?",
+      "Types de bijoux ? – Quels types de bijoux sont acceptés pour le rachat : bagues, colliers, bracelets, montres ?",
+      "Montant maximum ? – Y a-t-il un montant maximum pour le rachat de bijoux ?",
+      "Rachat ? – Comment se déroule précisément le processus de rachat ?",
+      "Matériaux acceptés ? – Quels matériaux sont acceptés : or, argent, platine, pierres précieuses ?",
+      "Bijoux cassés ? – Les bijoux cassés ou endommagés sont-ils également acceptés ?",
+      "Envoi sécurisé ? – Comment fonctionne l’envoi sécurisé pour les bijoux si l’on ne se déplace pas sur place ?"
+    ],
+    "image_path": "eo_section_a_images/image_36.png"
+  },
+  {
+    "practice_no": 37,
+    "heading_question": "Vous avez lu cette publicité pour des circuits en bateaux et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LOCATION DE PETITS BATEAUX – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’adresse exacte ou les sites disponibles pour la location des bateaux ?",
+      "Réservation ? – Faut-il réserver à l’avance pour louer un bateau ou peut-on se présenter directement sur place ?",
+      "Durée ? – Quelle est la durée des locations : à l’heure, à la demi-journée ou à la journée ?",
+      "Saison ? – À quelle période de l’année peut-on louer ces bateaux électriques ?",
+      "Permis ? – Faut-il posséder un permis pour piloter les bateaux ou est-ce possible sans permis ?",
+      "Nombre de personnes ? – Combien de personnes peuvent embarquer sur chaque bateau ?",
+      "Assurance ? – Y a-t-il une assurance incluse pour couvrir les éventuels accidents ou dommages ?",
+      "Tarifs ? – Quels sont les tarifs pour la location et existe-t-il des réductions pour les groupes ou familles ?",
+      "Guide ? – Peut-on louer les bateaux avec un guide ou uniquement en autonomie ?",
+      "Enfants ? – Les enfants peuvent-ils participer et y a-t-il des conditions particulières pour eux ?"
+    ],
+    "image_path": "eo_section_a_images/image_37.png"
+  },
+  {
+    "practice_no": 38,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(é). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "AUTO-RÉTRO – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Adresse de l’agence ? – Pouvez-vous me préciser l’adresse exacte de l’agence Auto Rétro ?",
+      "Modèles / marques / couleurs ? – Quels modèles, marques et couleurs de voitures anciennes sont disponibles à la location ?",
+      "Durée de la location ? – Quelle est la durée minimale et maximale de location pour une voiture ?",
+      "Tarifs ? – Quels sont les tarifs pour la location et y a-t-il des formules spécifiques selon la durée ?",
+      "Supplément chauffeur ? – Y a-t-il un supplément si l’on souhaite louer la voiture avec un chauffeur ?",
+      "Rabais ? – Proposez-vous des réductions pour les événements spéciaux ou les réservations anticipées ?",
+      "Autres services ? – Quels autres services peuvent être inclus : décoration, accessoires, itinéraire guidé ?",
+      "Réservation ? – Faut-il réserver à l’avance et comment procéder ?",
+      "Catalogue en ligne ? – Peut-on consulter un catalogue en ligne des voitures disponibles ?",
+      "Assurances ? – L’assurance est-elle incluse dans la location ou faut-il souscrire séparément ?"
+    ],
+    "image_path": "eo_section_a_images/image_38.png"
+  },
+  {
+    "practice_no": 39,
+    "heading_question": "Vous avez lu cette publicité pour une école de voile et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "TESTEURS DE PRODUITS ALIMENTAIRES – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu du test ? – Pouvez-vous me préciser où se déroulent les tests de produits alimentaires : à domicile ou en laboratoire ?",
+      "Rémunération ? – Y a-t-il une rémunération pour participer aux tests et sous quelle forme : argent, cartes cadeaux ?",
+      "Nombre de produits par jour ? – Combien de produits peut-on tester par jour ou par session ?",
+      "Types de produits ? – Quels types de produits alimentaires sont proposés pour les tests ?",
+      "Qualité des produits ? – Les produits sont-ils garantis frais et de qualité ?",
+      "Allergies ? – Comment gérer les allergies ou restrictions alimentaires pendant les tests ?",
+      "Annulation ? – Peut-on annuler sa participation et quelles sont les conditions ?",
+      "Critères d’évaluation ? – Quels critères doivent être pris en compte pour donner son avis sur les produits ?",
+      "Choix des produits testés ? – Peut-on choisir les produits que l’on souhaite tester ou sont-ils imposés ?",
+      "Protection si maladie / indigestion ? – Y a-t-il une protection ou assurance en cas de malaise, indigestion ou réaction allergique ?"
+    ],
+    "image_path": "eo_section_a_images/image_39.png"
+  },
+  {
+    "practice_no": 40,
+    "heading_question": "Vous avez lu cette publicité pour des cours de guitare et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "COURS DE GUITARE À DOMICILE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les tarifs des cours de guitare à domicile et existe-t-il des formules pour plusieurs séances ?",
+      "Essai gratuit ? – Proposez-vous une séance d’essai gratuite avant de s’engager ?",
+      "Instrument personnel ? – Faut-il utiliser son propre instrument ou l’enseignant en fournit-il un ?",
+      "Niveau ? – Les cours sont-ils adaptés à tous les niveaux : débutant, intermédiaire, avancé ?",
+      "Enseignant ? – Qui dispense les cours : un professeur diplômé ou expérimenté ?",
+      "Cloisons ? – Est-il possible d’organiser des cours individuels ou en groupe, selon les besoins ?",
+      "Durée d’un cours ? – Quelle est la durée habituelle d’une séance de guitare ?",
+      "Étapes ? – Quelles sont les étapes d’apprentissage prévues dans les cours ?",
+      "Méthode ? – Quelle méthode ou approche pédagogique est utilisée pour enseigner la guitare ?",
+      "Cours en groupe ? – Proposez-vous également des cours en groupe et, si oui, comment sont-ils organisés ?"
+    ],
+    "image_path": "eo_section_a_images/image_40.png"
+  },
+  {
+    "practice_no": 41,
+    "heading_question": "Vous avez lu cette publicité pour une agence de bateaux et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "AGENCE DE LOCATION DE BATEAU SANS PERMIS – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’adresse ou le point de départ des balades en mer ?",
+      "Nombre de personnes ? – Combien de personnes peuvent embarquer sur chaque bateau ?",
+      "Facile à conduire ? – Les bateaux sont-ils faciles à piloter pour les débutants ?",
+      "Vitesse ? – Quelle est la vitesse maximale ou moyenne des bateaux proposés ?",
+      "Assurance ? – Une assurance est-elle incluse pour couvrir les participants et les bateaux ?",
+      "Équipements de sécurité ? – Quels équipements de sécurité sont fournis : gilets, balises, extincteurs ?",
+      "Enfants ? – Les enfants peuvent-ils participer et y a-t-il des restrictions d’âge ?",
+      "Durée ? – Peut-on louer les bateaux pour une demi-journée ou une journée complète ?",
+      "Prix ? – Quels sont les tarifs pour la location et existe-t-il des réductions pour les groupes ?",
+      "Réservation ? – Faut-il réserver à l’avance ou peut-on se présenter directement pour louer un bateau ?"
+    ],
+    "image_path": "eo_section_a_images/image_41.png"
+  },
+  {
+    "practice_no": 42,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LUDIVERSAIRE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’adresse exacte de Ludiversaire pour organiser l’anniversaire ?",
+      "Tarifs ? – Quels sont les tarifs pour les différentes formules proposées et y a-t-il des réductions pour plusieurs enfants ?",
+      "Horaires ? – Quels sont les horaires disponibles pour organiser les anniversaires ?",
+      "Différentes formules ? – Quelles sont les quatre formules disponibles et que comprennent-elles ?",
+      "Activités ? – Quelles activités sont proposées aux enfants pendant la fête ?",
+      "Nombre d’enfants maximum ? – Quel est le nombre maximum d’enfants par anniversaire ?",
+      "Âge maximum ? – Y a-t-il un âge maximum pour participer aux activités ?",
+      "Restauration ? – Quel type de restauration est proposé et faut-il la réserver à l’avance ?",
+      "Animateurs ? – Des animateurs encadrent-ils les enfants pendant toute la durée de la fête ?",
+      "Réservation ? – Faut-il réserver à l’avance pour organiser un anniversaire et comment procéder ?"
+    ],
+    "image_path": "eo_section_a_images/image_42.png"
+  },
+  {
+    "practice_no": 43,
+    "heading_question": "Vous avez lu cette publicité pour une agence de déménagement et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "EUROPE DEMENAGEMENT – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les tarifs pour les différents services de déménagement proposés par Europe Déménagement ?",
+      "Service ? – Quels services sont inclus : emballage, mise en carton, transport, déballage ?",
+      "Capacités ? – Quelle est la capacité de transport : volume, nombre de véhicules disponibles ?",
+      "Formules ? – Quelles sont les différentes formules proposées et que comprennent-elles ?",
+      "Déroulement ? – Comment se déroule un déménagement avec votre entreprise du début à la fin ?",
+      "Matériels ? – Fournissez-vous le matériel nécessaire : cartons, protections, sangles, chariots ?",
+      "Modalités financières ? – Quelles sont les modalités de paiement : acompte, paiement à la livraison, facilités de paiement ?",
+      "Assurances ? – Les biens transportés sont-ils assurés en cas de dommage ou perte ?",
+      "Temps ? – Combien de temps prend en moyenne un déménagement selon le volume et la distance ?",
+      "Déroulement ? – Y a-t-il un planning précis ou un suivi personnalisé du déménagement pour chaque client ?"
+    ],
+    "image_path": "eo_section_a_images/image_43.png"
+  },
+  {
+    "practice_no": 44,
+    "heading_question": "Vous avez lu cette publicité pour observer des baleines et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "OBSERVATION DES BALEINES – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Prix de l’excursion ? – Quel est le tarif pour participer à l’observation des baleines ?",
+      "Excursion guidée ? – L’excursion est-elle guidée par un spécialiste ou naturaliste ?",
+      "Réduction ? – Existe-t-il des réductions pour groupes, familles ou réservations anticipées ?",
+      "Réservation ? – Faut-il réserver à l’avance pour participer à l’excursion ?",
+      "Distance entre le bateau et les baleines ? – Quelle distance minimale doit être respectée entre le bateau et les baleines ?",
+      "Tarif spécial enfants ? – Y a-t-il un tarif réduit pour les enfants et jusqu’à quel âge ?",
+      "Règles de sécurité ? – Quelles mesures de sécurité doivent être respectées pendant l’excursion ?",
+      "Lieu pour le déjeuner ? – Y a-t-il un endroit prévu pour déjeuner pendant la journée sur le bateau ?",
+      "Lieu de départ ? – Quel est le point de départ de l’excursion en mer ?",
+      "Tenue ? – Quelle tenue ou équipement est recommandé pour cette activité en mer ?"
+    ],
+    "image_path": "eo_section_a_images/image_44.png"
+  },
+  {
+    "practice_no": 45,
+    "heading_question": "Vous avez lu cette publicité pour un musée et vous êtes intéressé(é). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "À LA DÉCOUVERTE DU MIEL – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’adresse exacte du Musée du Miel ?",
+      "Accès ? – Comment peut-on accéder au musée : transports en commun, voiture, parking disponible ?",
+      "Saisons ? – Quelles périodes de l’année sont propices pour visiter le musée et observer les ruches ?",
+      "Heures d’ouverture ? – Quels sont les horaires d’ouverture pour les visites et ateliers ?",
+      "Tarifs ? – Quels sont les tarifs d’entrée et y a-t-il des réductions pour les groupes ou enfants ?",
+      "Produits à déguster ? – Quels types de miels et autres produits sont proposés à la dégustation ?",
+      "Durée visite ? – Quelle est la durée moyenne d’une visite guidée du musée et des ruches ?",
+      "Ateliers ? – Quels ateliers sont proposés pour les enfants et comment s’inscrire ?",
+      "Boutique ? – Quels produits sont disponibles à la boutique et peut-on les acheter sur place ?",
+      "Réservation ? – Faut-il réserver à l’avance pour les visites guidées et les ateliers ?"
+    ],
+    "image_path": "eo_section_a_images/image_45.png"
+  },
+  {
+    "practice_no": 46,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "BALADES EN BÂTEAU – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les tarifs pour la location des bateaux et existe-t-il des promotions ou réductions ?",
+      "Lieux ? – Quels canaux ou endroits peuvent être visités avec les bateaux ?",
+      "Escales ? – Y a-t-il des escales prévues ou possibles pendant la balade ?",
+      "Durée ? – Quelle est la durée des locations : à l’heure, à la demi-journée ou à la journée ?",
+      "Caution ? – Faut-il verser une caution pour la location du bateau et quel est son montant ?",
+      "Sécurité ? – Quelles mesures de sécurité sont mises en place pour les passagers ?",
+      "Moniteurs ? – Y a-t-il la possibilité d’avoir un moniteur ou accompagnateur pendant la navigation ?",
+      "Repas ? – Peut-on prévoir des repas à bord ou existe-t-il des services de restauration sur place ?",
+      "Activités ? – Quelles activités sont proposées pendant la balade : pêche, baignade, visites ?",
+      "Nombre de personnes ? – Combien de personnes peuvent embarquer sur chaque bateau ?"
+    ],
+    "image_path": "eo_section_a_images/image_46.png"
+  },
+  {
+    "practice_no": 47,
+    "heading_question": "Vous avez lu cette annonce et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "TESTEURS D’ÉMISSIONS TÉLÉ – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser où se déroulent les tests d’émissions télé : studio ou autre lieu ?",
+      "À domicile ? – Est-il possible de visionner les programmes et donner son avis depuis chez soi ?",
+      "Déroulement ? – Comment se déroule la participation aux tests d’émissions : étapes, organisation ?",
+      "Encadrement ? – Y a-t-il un encadrement par des professionnels ou animateurs pendant le test ?",
+      "Durée ? – Quelle est la durée moyenne pour tester une émission ?",
+      "Choix des programmes ? – Peut-on choisir les émissions que l’on souhaite tester ou sont-elles attribuées ?",
+      "Types de programmes ? – Quels types de programmes sont proposés : divertissement, actualités, séries ?",
+      "Sélection ? – Y a-t-il un processus de sélection pour devenir testeur d’émissions télé ?",
+      "Bons d’achat ? – Sous quelle forme sont offerts les bons d’achat et quelles conditions s’appliquent ?",
+      "Contrat ? – Faut-il signer un contrat ou une autorisation pour participer aux tests d’émissions télé ?"
+    ],
+    "image_path": "eo_section_a_images/image_47.png"
+  },
+  {
+    "practice_no": 48,
+    "heading_question": "Vous avez lu cette annonce pour de l’aide aux devoirs et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "AIDES AUX DEVOIRS – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Adresse ? – Pouvez-vous me préciser l’adresse exacte de l’Association Partage Enfance ?",
+      "Jours ? – Quels jours de la semaine les séances d’aide aux devoirs sont-elles proposées ?",
+      "Horaires ? – Quels sont les horaires disponibles pour les séances d’aide aux devoirs ?",
+      "Matières ? – Quelles matières sont couvertes : français, mathématiques, sciences, langues étrangères ?",
+      "Durée ? – Quelle est la durée de chaque séance d’aide aux devoirs ?",
+      "Âge ? – Quels âges ou niveaux scolaires sont acceptés pour participer aux séances ?",
+      "Groupes ? – Quelle est la taille des groupes pour chaque séance : individuel, petit groupe, grand groupe ?",
+      "Professeurs ? – Qui dispense l’aide aux devoirs : enseignants diplômés, bénévoles qualifiés ?",
+      "Tarifs ? – Quels sont les tarifs pour les différentes formules et existe-t-il des réductions pour les fratries ?",
+      "Réservation ? – Faut-il s’inscrire à l’avance pour participer aux séances et comment procéder ?"
+    ],
+    "image_path": "eo_section_a_images/image_48.png"
+  },
+  {
+    "practice_no": 49,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "CENTRE ÉQUESTRE « CHEVAL CLUB » – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Pouvez-vous me préciser l’adresse exacte du Centre équestre Cheval Club ?",
+      "Tarifs ? – Quels sont les tarifs pour les cours et promenades à cheval et existe-t-il des réductions pour les groupes ou familles ?",
+      "Type d’activités ? – Quelles activités sont proposées : cours d’équitation, promenades, ateliers spécifiques ?",
+      "Formules proposées ? – Quelles sont les différentes formules de cours disponibles et que comprennent-elles ?",
+      "Âge ? – Quel âge minimum ou maximum est requis pour participer aux activités ?",
+      "Équipement ? – Faut-il apporter son propre équipement ou le centre fournit-il les chevaux et accessoires ?",
+      "Effectif des groupes ? – Combien de participants y a-t-il par groupe pour les cours et promenades ?",
+      "Niveaux ? – Les cours sont-ils adaptés à tous les niveaux : débutant, intermédiaire, confirmé ?",
+      "Formateurs ? – Les enseignants sont-ils qualifiés et expérimentés dans l’enseignement de l’équitation ?",
+      "Compétitions ? – Le centre propose-t-il la participation à des compétitions ou événements équestres ?"
+    ],
+    "image_path": "eo_section_a_images/image_49.png"
+  },
+  {
+    "practice_no": 50,
+    "heading_question": "Vous avez lu une annonce pour une location d’appartement et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LOGEMENT À LOUER – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Localisation ? – Pouvez-vous préciser l’adresse exacte ou le quartier de l’appartement à louer ?",
+      "Loyer ? – Quel est le montant du loyer mensuel et quelles charges sont incluses ?",
+      "Visite ? – Comment peut-on organiser une visite de l’appartement et sur rendez-vous seulement ?",
+      "Dossier ? – Quels documents ou informations sont nécessaires pour constituer le dossier de location ?",
+      "Disponibilité ? – À partir de quelle date l’appartement sera-t-il disponible à la location ?",
+      "Surface ? – Quelle est la superficie de l’appartement en mètres carrés ?",
+      "Équipements ? – Quels équipements sont inclus : cuisine équipée, chauffage, climatisation, lave-linge ?",
+      "Ascenseur ? – L’immeuble dispose-t-il d’un ascenseur pour accéder au dernier étage ?",
+      "Voisinage ? – Comment est le voisinage et le niveau de bruit dans l’immeuble ?",
+      "Quartier ? – Quels services et commodités se trouvent à proximité : commerces, transports, écoles ?"
+    ],
+    "image_path": "eo_section_a_images/image_50.png"
+  },
+  {
+    "practice_no": 51,
+    "heading_question": "Vous avez lu cette publicité pour un atelier et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "ATELIER DE FABRICATION DE LAMPES – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se déroule l’atelier (adresse exacte, ville, accès en transport ou parking) ?",
+      "Groupe ? – Combien de participants maximum par atelier ?",
+      "Matériel ? – Quels outils sont mis à disposition pendant l’atelier ?",
+      "Matériaux à recycler ? – Quels types d’objets peut-on apporter pour fabriquer sa lampe (bouteilles, bois, métal, etc.) ?",
+      "Tenue ? – Faut-il porter une tenue spéciale ou de protection (gants, lunettes, tablier) ?",
+      "Durée ? – Combien de temps dure chaque séance ou l’atelier complet ?",
+      "Type de matériaux fournis ? – Quels matériaux de base sont proposés sur place (ampoules, câbles, douilles, socles, etc.) ?",
+      "Formateurs ? – Qui encadre les participants (designers, artisans, professionnels du recyclage) ?",
+      "Inscription ? – Comment s’inscrire (par téléphone, en ligne, délai à respecter) ?",
+      "Prix ? – Quel est le tarif par personne, et le matériel est-il inclus dans le prix ?"
+    ],
+    "image_path": "eo_section_a_images/image_51.png"
+  },
+  {
+    "practice_no": 52,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "AGENCE DE VOYAGE TOURS AVENTURES – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Pays ? – Quelles sont les principales destinations proposées ?",
+      "Assurances ? – Quel type d’assurance voyage est inclus ou proposé (annulation, santé, bagages) ?",
+      "Moyens de paiement ? – Quels modes de paiement sont acceptés (carte, virement, chèques vacances, etc.) ?",
+      "Réductions ? – Existe-t-il des offres promotionnelles (famille, groupe, réservation anticipée) ?",
+      "Départ garanti ? – Les voyages sont-ils confirmés à partir d’un certain nombre de participants ?",
+      "Réservation ? – Comment réserver (en ligne, par téléphone, en agence) et quels documents fournir ?",
+      "Choix de l’hôtel ? – Peut-on choisir la catégorie d’hôtel (2★, 3★, 4★, etc.) ou une chaîne spécifique ?",
+      "Repas inclus ? – Quels repas sont compris (petit-déjeuner, demi-pension, pension complète) ?",
+      "Voyage en groupe ? – Les circuits se font-ils en groupe ou en formule individuelle ?",
+      "Guide ? – Les visites sont-elles accompagnées d’un guide local ou francophone ?"
+    ],
+    "image_path": "eo_section_a_images/image_52.png"
+  },
+  {
+    "practice_no": 53,
+    "heading_question": "Vous avez lu cette affiche pour ce théâtre et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LA PETITE MAISON DU THÉÂTRE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Jour ? – Quel jour ou quels jours le spectacle est présenté ?",
+      "Durée ? – Combien de temps dure le spectacle (et le goûter) ?",
+      "Lieu ? – Où se situe La Petite Maison du Théâtre ?",
+      "Âge minimum ? – À partir de quel âge les enfants peuvent assister ?",
+      "Parents ? – Les parents peuvent-ils assister au spectacle ou seulement les enfants ?",
+      "Tarifs ? – Quel est le prix individuel et le tarif de groupe ?",
+      "Abonnement ? – Existe-t-il une formule d’abonnement pour plusieurs spectacles ?",
+      "Annulation ? – Quelles sont les conditions en cas d’annulation ou de report ?",
+      "Nombre de spectacles ? – Combien de représentations sont prévues ?",
+      "Comédiens ? – Qui sont les acteurs ou la troupe qui jouent dans “Coussins-Croissants” ?"
+    ],
+    "image_path": "eo_section_a_images/image_53.png"
+  },
+  {
+    "practice_no": 54,
+    "heading_question": "Vous avez lu cette publicité pour une école de ski et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "SÉJOUR AU SKI – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Adresse ? – Où se situe l’École de ski Les Evettes ?",
+      "Tarifs ? – Quels sont les prix des cours selon le niveau ou la durée ?",
+      "Horaires ? – Quels sont les jours et heures d’ouverture ou des cours ?",
+      "Durée ? – Combien de temps dure chaque séance ou stage ?",
+      "Âge minimum ? – À partir de quel âge peut-on s’inscrire ?",
+      "Moniteurs ? – Qui sont les moniteurs et quelles sont leurs qualifications ?",
+      "Compétitions ? – L’école organise-t-elle des compétitions ou des évaluations ?",
+      "Équipement ? – Le matériel est-il fourni ou faut-il le louer ?",
+      "Repas-hébergement ? – Y a-t-il une option de repas ou d’hébergement sur place ?",
+      "Cours privés-groupe ? – Proposent-ils des cours individuels ou en groupe ?"
+    ],
+    "image_path": "eo_section_a_images/image_54.png"
+  },
+  {
+    "practice_no": 55,
+    "heading_question": "Vous avez lu cette publicité pour une agence évenementielle et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "OUVRIR UN COMPTE BANCAIRE EN LIGNE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Types de services ? – Quels services sont proposés : chéquier, carte bancaire, compte courant, retraits, virements gratuits, etc. ?",
+      "Tarifs ? – Y a-t-il des frais mensuels, de tenue de compte ou de carte ?",
+      "Horaires ? – Quels sont les horaires de disponibilité du service client ?",
+      "Numéro de téléphone / Mode de communication ? – Comment contacter la banque : téléphone, chat, e-mail, visioconférence ?",
+      "Formalités d’ouverture ? – Quels documents sont nécessaires pour ouvrir un compte (pièce d’identité, justificatif de domicile, revenu, etc.) ?",
+      "Conseiller ? – Chaque client dispose-t-il d’un conseiller attitré ?",
+      "Conditions d’accès ? – Le compte est-il accessible à tous (étudiants, étrangers, mineurs, etc.) ?",
+      "Possibilité de découvert / prêt ? – Le compte permet-il d’avoir un découvert autorisé ou un prêt personnel ?",
+      "Possibilité de déposer des espèces / chèques ? – Peut-on faire des dépôts physiques malgré la gestion en ligne ?",
+      "Autres avantages ? – Quels sont les avantages supplémentaires (cashback, parrainage, application mobile, assurances, etc.) ?"
+    ],
+    "image_path": "eo_section_a_images/image_55.png"
+  },
+  {
+    "practice_no": 56,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LOCATION DE COSTUMES – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Emplacement de la boutique ? – Où se trouve la boutique de location de costumes ?",
+      "Réservation ? – Faut-il réserver les costumes à l’avance ? Peut-on le faire en ligne ou par téléphone ?",
+      "Tarifs ? – Quel est le prix de location selon le type de costume ou la durée ?",
+      "Modes de paiement ? – Quels moyens de paiement sont acceptés (carte, espèces, virement, etc.) ?",
+      "Durée de la location ? – Combien de jours peut-on garder le costume ? Est-il possible de prolonger la durée ?",
+      "Costumes thématiques ? – Quels thèmes sont proposés : cinéma, époque, contes, professions, super-héros, etc. ?",
+      "Costumes enfants / bébés ? – La boutique propose-t-elle aussi des tenues pour enfants ou bébés ?",
+      "Accessoires ? – Peut-on louer ou acheter des accessoires assortis (chapeaux, masques, bijoux, armes factices, etc.) ?",
+      "Retouches ? – Y a-t-il un service d’ajustement ou de retouche sur place ?",
+      "Frais de nettoyage ? – Le nettoyage est-il inclus dans le prix ou à la charge du client ?"
+    ],
+    "image_path": "eo_section_a_images/image_56.png"
+  },
+  {
+    "practice_no": 57,
+    "heading_question": "Vous avez lu cette annonce et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "TECHNOLOGIE POUR TOUS – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se trouve l’association « Technologie Pour Tous » ?",
+      "Horaires ? – Quels sont les jours et heures d’ouverture de l’association ?",
+      "Durée du prêt ? – Combien de temps peut-on garder l’ordinateur prêté ?",
+      "Conditions ? – Quelles sont les conditions pour bénéficier du prêt (âge, résidence, statut, etc.) ?",
+      "Modalités d’inscription ? – Comment s’inscrire (en ligne, sur place, documents nécessaires) ?",
+      "Caution ? – Faut-il déposer une caution ou une garantie pour emprunter l’ordinateur ?",
+      "Logiciels fournis ? – Quels logiciels sont installés sur les ordinateurs (bureautique, antivirus, etc.) ?",
+      "Marques ? – Quelles marques ou modèles d’ordinateurs sont proposés ?",
+      "Type de bénévolat ? – Quel type d’activités bénévoles sont demandées en échange du prêt ?",
+      "Disponibilités ? – Combien d’ordinateurs sont encore disponibles ?"
+    ],
+    "image_path": "eo_section_a_images/image_57.png"
+  },
+  {
+    "practice_no": 58,
+    "heading_question": "Vous avez lu cette publicité pour des stages de pilotage et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "BUGGY – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quel est le prix du stage de pilotage en buggy ?",
+      "Caution ? – Faut-il verser une caution avant de conduire le buggy ?",
+      "Accompagnement ? – Y a-t-il un moniteur ou un guide qui accompagne pendant la conduite ?",
+      "Durée ? – Combien de temps dure le stage (en minutes ou en heures) ?",
+      "Âge limite ? – Quel est l’âge minimum ou maximum pour participer ?",
+      "Assurance ? – L’assurance est-elle incluse dans le tarif ?",
+      "Permis spécial ? – Faut-il un permis de conduire pour participer ?",
+      "Nombre de places ? – Combien de personnes peuvent monter dans un buggy ?",
+      "Vitesse maximum ? – Quelle est la vitesse maximale que le buggy peut atteindre ?",
+      "Danger ? – Y a-t-il des risques ou des consignes de sécurité particulières ?"
+    ],
+    "image_path": "eo_section_a_images/image_58.png"
+  },
+  {
+    "practice_no": 59,
+    "heading_question": "Vous avez lu cette publicité pour une école de ski et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "SKI ADULTES, SKI ADOS – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Forfaits ? – Quels sont les forfaits proposés pour les stages de ski adultes et ados et leurs tarifs ?",
+      "Âge minimum ? – Quel âge minimum est requis pour participer aux stages ?",
+      "Certificat médical ? – Faut-il fournir un certificat médical pour participer aux cours de ski ?",
+      "Assurance ? – L’assurance est-elle incluse dans le forfait ou faut-il la souscrire séparément ?",
+      "Essai gratuit ? – Est-il possible de bénéficier d’une séance d’essai gratuite avant de s’inscrire ?",
+      "Réservation annulée ? – Quelles sont les conditions en cas d’annulation ou de report de réservation ?",
+      "Équipement ? – Le matériel de ski est-il fourni ou faut-il l’apporter ?",
+      "Profil des moniteurs ? – Qui encadre les stages : qualifications, expérience, diplômes ?",
+      "Autorisation parentale ? – Faut-il une autorisation parentale pour les adolescents participants ?",
+      "Stages intensifs ? – Existe-t-il des stages intensifs ou sur plusieurs jours pour progresser rapidement ?"
+    ],
+    "image_path": "eo_section_a_images/image_59.png"
+  },
+  {
+    "practice_no": 60,
+    "heading_question": "Vous avez lu cette publicité pour des randonnées en quad et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "QUAD – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quel est le prix pour tester le quad et existe-t-il des tarifs pour groupes ou forfaits ?",
+      "Guide ? – Un moniteur ou guide accompagne-t-il les participants pendant la sortie ?",
+      "Caution ? – Faut-il verser une caution avant de prendre le quad ?",
+      "Condition physique ? – Y a-t-il des exigences particulières en matière de condition physique pour participer ?",
+      "Assurance ? – L’assurance est-elle incluse et couvre-t-elle les accidents ou dommages ?",
+      "Vitesse maximum ? – Quelle est la vitesse maximale autorisée pour les quads sur les pistes ?",
+      "Permis spécial ? – Faut-il posséder un permis de conduire spécifique pour piloter le quad ?",
+      "Vêtements spéciaux ? – Doit-on porter des vêtements ou équipements de protection particuliers ?",
+      "Dangers ? – Quels sont les risques ou consignes de sécurité à respecter ?",
+      "Réservation ? – Faut-il réserver à l’avance pour participer à l’activité et comment procéder ?"
+    ],
+    "image_path": "eo_section_a_images/image_60.png"
+  },
+  {
+    "practice_no": 61,
+    "heading_question": "Vous avez lu cette publicité pour faire du saut à l’élastique et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LE SAUT À L’ÉLASTIQUE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarif ? – Quel est le prix pour effectuer un saut à l’élastique et existe-t-il des tarifs réduits ?",
+      "Âge ? – Quel âge minimum ou maximum est requis pour participer ?",
+      "Saison ? – À quelles périodes de l’année l’activité est-elle disponible ?",
+      "Conditions physiques ? – Y a-t-il des exigences particulières en matière de santé ou de condition physique ?",
+      "Assurance ? – L’assurance est-elle incluse pour couvrir les participants en cas d’accident ?",
+      "Dangers ? – Quels sont les risques associés au saut et quelles mesures de sécurité sont prises ?",
+      "Réservation ? – Faut-il réserver à l’avance pour participer et comment procéder ?",
+      "Accompagnement des mineurs ? – Les mineurs doivent-ils être accompagnés et par qui ?",
+      "Formation ? – Une formation ou briefing est-il donné avant le saut ?",
+      "Lieu précis ? – Où se situe exactement le site de saut à l’élastique ?"
+    ],
+    "image_path": "eo_section_a_images/image_61.png"
+  },
+  {
+    "practice_no": 62,
+    "heading_question": "Vous recherchez un endroit pour organiser une fête . Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LE BUS-DISCOTHÈQUE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se situe le point de départ ou de prise en charge pour le bus-discothèque ?",
+      "Mobilité ? – Le bus se déplace-t-il sur tout le territoire ou seulement sur certaines zones ?",
+      "Prix ? – Quel est le tarif de location du bus-discothèque et selon quelle formule ?",
+      "Chauffeur ? – Le chauffeur est-il inclus dans la prestation ou faut-il le prévoir séparément ?",
+      "Caution ? – Faut-il verser une caution avant la location et quel en est le montant ?",
+      "Nombre d’invités ? – Combien de personnes peuvent être accueillies dans le bus-discothèque ?",
+      "Horaires ? – Quelles sont les plages horaires disponibles pour la location ?",
+      "Barman ? – Un barman est-il présent pour préparer les cocktails ou faut-il le prévoir soi-même ?",
+      "DJ ? – Y a-t-il un DJ inclus dans la prestation ou doit-on le fournir ?",
+      "Décoration ? – Le bus est-il décoré ou peut-on personnaliser la décoration pour l’événement ?"
+    ],
+    "image_path": "eo_section_a_images/image_62.png"
+  },
+  {
+    "practice_no": 63,
+    "heading_question": "Vous avez lu cette publicité pour un centre de formation en arts martiaux et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "ARTS MARTIAUX – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se situe le centre de formation aux arts martiaux ?",
+      "Tarifs ? – Quels sont les prix des cours selon la discipline et la durée ?",
+      "Horaires ? – Quels sont les jours et heures des cours et stages ?",
+      "Disciplines enseignées ? – Quelles disciplines ou sports de combat sont proposés ?",
+      "Âge minimum ? – Quel âge minimum est requis pour participer aux cours ?",
+      "Condition physique ? – Y a-t-il des exigences particulières en matière de condition physique ?",
+      "Essai gratuit ? – Est-il possible de bénéficier d’une séance d’essai gratuite ?",
+      "Achat d’équipement ? – Faut-il acheter son propre équipement ou est-il fourni ?",
+      "Formateurs ? – Qui sont les formateurs et quelles sont leurs qualifications ?",
+      "Championnat ? – Le centre propose-t-il la participation à des compétitions ou championnats ?"
+    ],
+    "image_path": "eo_section_a_images/image_63.png"
+  },
+  {
+    "practice_no": 64,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "VISITES DE LA VILLE À VÉLO – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Durée ? – Combien de temps dure chaque visite guidée à vélo ?",
+      "Tarifs ? – Quels sont les tarifs pour la visite et la location du vélo ?",
+      "Distance ? – Quelle est la distance moyenne parcourue lors d’une visite ?",
+      "Location de vélos ? – Peut-on louer un vélo sur place et quels types sont disponibles ?",
+      "Circuit personnalisé ? – Est-il possible de personnaliser le parcours selon ses préférences ?",
+      "Pistes cyclables ? – Les visites utilisent-elles des pistes cyclables sécurisées ?",
+      "Guide ? – Un guide accompagne-t-il les participants et fournit-il des explications historiques ou culturelles ?",
+      "Enfants ? – Les enfants peuvent-ils participer et y a-t-il des vélos adaptés pour eux ?",
+      "Assurance ? – Une assurance est-elle incluse en cas d’accident ou de vol du vélo ?",
+      "Groupes ? – Les visites acceptent-elles des groupes et existe-t-il des tarifs spécifiques pour eux ?"
+    ],
+    "image_path": "eo_section_a_images/image_64.png"
+  },
+  {
+    "practice_no": 65,
+    "heading_question": "Vous avez lu cette publicité pour des cours de danse et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "DANSE ACADÉMIE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Adresse ? – Où se situe l’école Danse Académie ?",
+      "Tarifs ? – Quels sont les prix des cours selon la danse ou la formule choisie ?",
+      "Jours ? – Quels jours les cours sont-ils proposés ?",
+      "Horaires ? – Quels sont les horaires disponibles et les plages flexibles ?",
+      "Durée ? – Combien de temps dure chaque cours ou séance ?",
+      "Types de danses ? – Quelles danses sont enseignées : classique, moderne, salsa, hip-hop, tango, etc. ?",
+      "Soirées ? – Quelles soirées à thème sont organisées et à quelle fréquence ?",
+      "Professeurs ? – Qui sont les enseignants et quelles sont leurs qualifications ?",
+      "Enfants ? – Y a-t-il des cours spécifiques pour les enfants et à partir de quel âge ?",
+      "Spectacle ? – L’école organise-t-elle des spectacles ou représentations pour les élèves ?"
+    ],
+    "image_path": "eo_section_a_images/image_65.png"
+  },
+  {
+    "practice_no": 66,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "VIVEZ L’AVENTURE EN FORÊT – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se situe le parc naturel du Beaupage ?",
+      "Accès ? – Comment peut-on se rendre au parc : voiture, transports en commun, parking disponible ?",
+      "Périodes de l’année ? – À quelles périodes ou saisons le parc est-il ouvert ?",
+      "Tarifs ? – Quels sont les prix pour accéder aux activités et existe-t-il des tarifs réduits ?",
+      "Durée ? – Combien de temps dure une visite ou une activité type ?",
+      "Services sur place ? – Quels services sont proposés : restauration, vestiaires, sanitaires, boutique ?",
+      "Âge requis ? – Quel âge minimum est nécessaire pour participer aux activités ?",
+      "Accompagnateurs ? – Faut-il être accompagné d’un adulte ou d’un guide pour certaines activités ?",
+      "Équipement ? – Faut-il apporter un équipement spécifique ou est-il fourni sur place ?",
+      "Consignes de sécurité ? – Quelles sont les règles à respecter pour assurer la sécurité des participants ?"
+    ],
+    "image_path": "eo_section_a_images/image_66.png"
+  },
+  {
+    "practice_no": 67,
+    "heading_question": "Vous avez lu cette publicité pour des stages d’escalade et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "UNE AUTRE FAÇON DE JOUER AU FOOT – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu du bubble-foot ? – Où se situe le terrain ou l’espace dédié au bubble-foot ?",
+      "Comment s’y rendre ? – Quels sont les moyens d’accès : transports en commun, parking, vélo, etc. ?",
+      "Prix ? – Quel est le tarif par personne ou par groupe pour participer ?",
+      "Durée ? – Combien de temps dure une partie ou une session de bubble-foot ?",
+      "Nombre de personnes ? – Quel est le nombre minimum et maximum de participants par partie ?",
+      "Âge minimum ? – À partir de quel âge peut-on participer ?",
+      "Équipements nécessaires ? – Faut-il apporter des chaussures ou vêtements spécifiques, ou le matériel est-il fourni ?",
+      "Forme physique ? – Y a-t-il des exigences particulières en termes de condition physique ?",
+      "Professionnels sur place ? – Des encadrants ou animateurs supervisent-ils les sessions ?",
+      "Danger ? – Quels sont les risques éventuels et quelles mesures de sécurité sont mises en place ?"
+    ],
+    "image_path": "eo_section_a_images/image_67.png"
+  },
+  {
+    "practice_no": 68,
+    "heading_question": "Vous avez lu cette publicité d’une agence de jardiniers et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "COINS VERTS – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Déplacement ? – Les jardiniers se déplacent-ils à domicile et sur quelle zone géographique ?",
+      "Des prestations ? – Quels services sont proposés : décoration, aménagement, plantation, entretien régulier ?",
+      "Mariages ? – Proposent-ils des décorations florales spécifiques pour mariages ou événements ?",
+      "Entrepôts ? – Peuvent-ils intervenir dans des espaces professionnels ou entrepôts ?",
+      "Conseils ? – Offrent-ils des conseils pour l’entretien des plantes et jardins ?",
+      "Entretien ? – Proposent-ils des services d’entretien régulier et à quelle fréquence ?",
+      "Tarifs ? – Quels sont les tarifs pour chaque type de prestation ou service ?",
+      "Propositions (devis) ? – Peut-on demander un devis personnalisé avant toute intervention ?",
+      "Horaires ? – Quels sont les horaires d’intervention ou de contact avec les jardiniers ?",
+      "Variétés ? – Quelles variétés de plantes et fleurs sont disponibles pour les aménagements ?"
+    ],
+    "image_path": "eo_section_a_images/image_68.png"
+  },
+  {
+    "practice_no": 69,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "ANNIVERSAIRE AU ZOO – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se situe le zoo pour organiser l’anniversaire ?",
+      "Tarifs ? – Quels sont les tarifs pour les groupes et pour les différentes tranches d’âge ?",
+      "Horaires ? – Quels sont les horaires disponibles pour organiser l’anniversaire ?",
+      "Durée ? – Combien de temps dure l’événement et les activités proposées ?",
+      "Animations ? – Quelles animations et jeux sont prévus pour les enfants ?",
+      "Nombre d’enfants ? – Quel est le nombre minimum et maximum d’enfants par anniversaire ?",
+      "Parents ? – Les parents peuvent-ils assister et participer aux activités ?",
+      "Goûter ? – Un goûter est-il inclus et que comprend-il ?",
+      "Moniteurs ? – Des animateurs ou moniteurs encadrent-ils les enfants ?",
+      "Sécurité ? – Quelles mesures de sécurité sont mises en place pendant la fête ?"
+    ],
+    "image_path": "eo_section_a_images/image_69.png"
+  },
+  {
+    "practice_no": 70,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "GOLF MINIATURE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se situe le golf miniature ?",
+      "Accès ? – Comment accéder au site : transports, parking, proximité des axes principaux ?",
+      "Tarifs ? – Quels sont les prix pour jouer seul, en famille ou en groupe ?",
+      "Abonnement ? – Existe-t-il des formules d’abonnement ou cartes de fidélité ?",
+      "Horaires ? – Quels sont les horaires d’ouverture tout au long de l’année ?",
+      "Temps d’un parcours ? – Combien de temps faut-il pour compléter un parcours ?",
+      "Âge minimum ? – À partir de quel âge peut-on participer au golf miniature ?",
+      "Restauration ? – Y a-t-il un service de restauration ou de boissons sur place ?",
+      "Cours ? – Proposez-vous des cours ou initiations au mini-golf ?",
+      "Privatisation ? – Est-il possible de privatiser le site pour un événement et quelles sont les conditions ?"
+    ],
+    "image_path": "eo_section_a_images/image_70.png"
+  },
+  {
+    "practice_no": 71,
+    "heading_question": "Vous avez lu cette publicité pour des stages de snowboard et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "STAGES DE SNOWBOARD – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Forfaits ? – Quels sont les forfaits proposés pour les stages de snowboard et leurs tarifs ?",
+      "Âge minimum ? – Quel âge minimum est requis pour participer aux stages ?",
+      "Conditions médicales ? – Faut-il fournir un certificat médical ou respecter certaines conditions de santé ?",
+      "Assurance ? – L’assurance est-elle incluse ou doit-elle être souscrite séparément ?",
+      "Lieux ? – Où se déroulent les stages : pistes, stations ou sites spécifiques ?",
+      "Achat d’équipement ? – Faut-il acheter son propre équipement ou peut-on le louer sur place ?",
+      "Moniteurs ? – Qui encadre les stages et quelles sont leurs qualifications ?",
+      "Autorisation parentale ? – Une autorisation parentale est-elle nécessaire pour les adolescents ?",
+      "Stages intensifs ? – Existe-t-il des stages intensifs pour progresser rapidement ?",
+      "Hébergement ? – Quelles options d’hébergement sont proposées et sont-elles incluses dans les forfaits ?"
+    ],
+    "image_path": "eo_section_a_images/image_71.png"
+  },
+  {
+    "practice_no": 72,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "DÉLICE MATINAL – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Produits ? – Quels produits sont proposés pour le petit déjeuner : croissants, pains au chocolat, viennoiseries, etc. ?",
+      "Tarifs ? – Quels sont les prix pour les différents produits ou formules ?",
+      "Entreprises ou particuliers ? – La livraison s’adresse-t-elle aux particuliers, aux entreprises ou aux deux ?",
+      "Abonnement ? – Existe-t-il des formules d’abonnement pour des livraisons régulières ?",
+      "Livraison gratuite ? – La livraison est-elle incluse dans le prix ou y a-t-il des frais supplémentaires ?",
+      "Horaires de livraison ? – Quels sont les horaires disponibles pour la livraison des petits déjeuners ?",
+      "Réductions ? – Y a-t-il des réductions pour les commandes groupées ou régulières ?",
+      "Fraîcheur ? – Comment est garantie la fraîcheur des produits livrés ?",
+      "Autres produits possibles ? – Peut-on commander d’autres produits que ceux proposés par défaut ?",
+      "Nombre de personnes ? – Les formules sont-elles adaptées à un nombre précis de personnes ?"
+    ],
+    "image_path": "eo_section_a_images/image_72.png"
+  },
+  {
+    "practice_no": 73,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "LES BEAUX JOURS ARRIVENT ! – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se situe le restaurant Le Déjeuner sur l’Herbe ?",
+      "Livraison à domicile ? – Proposez-vous la livraison à domicile et dans quelles zones ?",
+      "Horaires de livraison ? – Quels sont les horaires disponibles pour la livraison ou le retrait des paniers ?",
+      "Tarifs ? – Quels sont les prix des paniers garnis et des menus personnalisés ?",
+      "Composition du panier ? – Que contient un panier type et peut-on le personnaliser ?",
+      "Choix du menu ? – Est-il possible de composer son propre menu ou panier selon ses préférences ?",
+      "Boissons comprises ? – Les boissons sont-elles incluses dans les paniers ou à part ?",
+      "Variétés des paniers ? – Quelles sont les différentes variétés de paniers proposées ?",
+      "Menus spéciaux ? – Y a-t-il des options pour régimes particuliers : végétarien, sans gluten, enfants, etc. ?",
+      "Réductions ou offres spéciales ? – Quelles sont les offres spéciales ou promotions en cours, notamment pour le lancement ?"
+    ],
+    "image_path": "eo_section_a_images/image_73.png"
+  },
+  {
+    "practice_no": 74,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "VOL PERSONNALISÉ – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les prix des vols et existe-t-il des tarifs personnalisés selon les options choisies ?",
+      "Destinations ? – Quelles destinations sont proposées : Seychelles, Madagascar, Cuba, Hawaï, etc. ?",
+      "Bagages ? – Quelle est la franchise bagages et quelles sont les restrictions éventuelles ?",
+      "Échange et remboursement ? – Quelles sont les conditions pour modifier ou annuler un vol et obtenir un remboursement ?",
+      "Formalités ? – Quelles sont les formalités administratives et documents nécessaires pour embarquer ?",
+      "Animaux ? – Peut-on voyager avec des animaux et quelles sont les conditions ?",
+      "Sécurité ? – Quelles mesures de sécurité sont mises en place pour les passagers ?",
+      "Aéroports ? – Quels sont les aéroports de départ et d’arrivée pour ces vols ?",
+      "Repas ? – Les repas sont-ils inclus et quelles options sont disponibles à bord ?",
+      "Divertissements ? – Y a-t-il des options de divertissement pendant le vol : films, musique, jeux, Wi-Fi ?"
+    ],
+    "image_path": "eo_section_a_images/image_74.png"
+  },
+  {
+    "practice_no": 75,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "PARC ANIMALIER – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Lieu ? – Où se situe le parc animalier Saint Blaise ?",
+      "Accès ? – Comment peut-on accéder au parc : voiture, transports en commun, parking disponible ?",
+      "Horaires ? – Quels sont les horaires d’ouverture du parc selon la saison ?",
+      "Durée ? – Combien de temps dure une visite typique du parc ?",
+      "Saison ? – À quelles périodes de l’année le parc est-il ouvert et quelles sont les particularités saisonnières ?",
+      "Tarifs ? – Quels sont les prix d’entrée pour adultes, enfants, groupes ou scolaires ?",
+      "Animaux ? – Quelles espèces d’animaux sont présentes dans le parc ?",
+      "Parcours ? – Quels sont les parcours disponibles : sentiers, zones thématiques, ateliers interactifs ?",
+      "Animations ? – Quelles animations et activités sont proposées pour les visiteurs ?",
+      "Guide ? – Des visites guidées sont-elles proposées et par qui ?"
+    ],
+    "image_path": "eo_section_a_images/image_75.png"
+  },
+  {
+    "practice_no": 76,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "VÊTEMENTS D’OCCASION – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Adresse ? – Où se situe l’association Quartier Pluriel pour la soirée d’échange de vêtements ?",
+      "Accès ? – Comment accéder au lieu : transports en commun, voiture, vélo, etc. ?",
+      "Des dates ? – Quels mercredis sont concernés et existe-t-il un calendrier précis ?",
+      "Stationnement ? – Y a-t-il un parking disponible pour les participants ?",
+      "Types de vêtements ? – Quels types de vêtements peuvent être échangés : hommes, femmes, enfants, saisonniers ?",
+      "Accessoires ? – Peut-on également échanger des accessoires : chaussures, sacs, bijoux, ceintures ?",
+      "Valeur des vêtements ? – Y a-t-il une limite ou un critère de valeur pour les vêtements à échanger ?",
+      "Nombre d’inscrits ? – Combien de participants sont attendus par séance ?",
+      "Modalités et frais d’inscription ? – Faut-il s’inscrire à l’avance et y a-t-il des frais ?",
+      "Quantité minimum ? – Y a-t-il un nombre minimum de vêtements à apporter pour participer ?"
+    ],
+    "image_path": "eo_section_a_images/image_76.png"
+  },
+  {
+    "practice_no": 77,
+    "heading_question": "Vous avez lu cette publicité pour un musée et vous êtes intéressé(é). Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "COURS D’ŒUNOLOGIE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les prix des cours de œnologie selon la formule choisie ?",
+      "Lieu ? – Où se déroule l’atelier des sens pour les cours de dégustation ?",
+      "Formules ? – Quelles formules sont proposées : cours individuel, en groupe, stage intensif ?",
+      "Durée ? – Combien de temps dure chaque cours ou session ?",
+      "Expérience ? – Faut-il avoir une expérience préalable en œnologie pour participer ?",
+      "Repas ? – Un repas ou des accords mets-vins sont-ils inclus dans la session ?",
+      "Thèmes abordés ? – Quels sujets sont traités : cépages, terroirs, techniques de dégustation ?",
+      "Autres alcools ? – D’autres boissons alcoolisées sont-elles proposées à la dégustation ?",
+      "Origine des produits ? – D’où proviennent les vins utilisés : région, vignoble, pays ?",
+      "Visite du vignoble ? – Est-il possible de visiter le vignoble en complément du cours ?"
+    ],
+    "image_path": "eo_section_a_images/image_77.png"
+  },
+  {
+    "practice_no": 78,
+    "heading_question": "Vous avez lu cette publicité et vous êtes intéressé(e) pour faire un cadeau. Vous téléphonez pour avoir plus d’informations.",
+    "answer_heading": "OFFREZ UNE CHANSON PERSONNALISÉE – Liste de questions possibles :",
+    "questions_to_ask": [
+      "Tarifs ? – Quels sont les prix pour la création et l’enregistrement d’une chanson personnalisée ?",
+      "Style de musique ? – Quels styles musicaux sont proposés pour la chanson : pop, rock, jazz, classique, etc. ?",
+      "Langue ? – La chanson peut-elle être réalisée dans différentes langues ?",
+      "Chanteurs ? – Qui interprète la chanson : professionnels, artistes disponibles, voix au choix ?",
+      "Air connu ? – Peut-on choisir de reprendre un air connu ou uniquement créer une mélodie originale ?",
+      "Spectacle ? – La chanson peut-elle être présentée lors d’un spectacle ou événement en direct ?",
+      "Délais ? – Quel est le délai pour recevoir la chanson après la commande ?",
+      "Facilités de paiement ? – Quelles sont les options de paiement disponibles : carte, virement, paiement échelonné ?",
+      "Lieu de l’agence ? – Où se situe l’agence qui réalise les chansons personnalisées ?",
+      "Remboursement ? – Existe-t-il une possibilité de remboursement en cas d’insatisfaction ou d’annulation ?"
+    ],
+    "image_path": "eo_section_a_images/image_78.png"
+  }
+]
