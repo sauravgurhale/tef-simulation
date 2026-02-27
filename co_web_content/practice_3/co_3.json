@@ -1,5 +1,482 @@
-{
-  "practice": 3,
-  "title": "CO Practice 3",
-  "items": []
-}
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_3_images/co-3-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : — Tu as déjà réfléchi à un cadeau pour l’anniversaire de Thomas ? — Oui, peut-être un abonnement à un magazine de voyage. Il adore explorer de nouveaux endroits.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_3_images/co-3-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : — Je peux emprunter ton chargeur pour mon téléphone ? — Bien sûr. Il est sur la table basse du salon.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_3_images/co-3-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : — Tu savais que le musée fait des visites nocturnes cet été ? Ça te tente d’y aller un soir ? — Oui, avec plaisir.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_3_images/co-3-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : — Salut Emma, ça va ? — Pas vraiment. J’ai eu de la misère avec un client aujourd’hui, et en plus il était très agressif.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 5,
+    "question": "Ce message annonce que…",
+    "options": [
+      "le service de sécurité surveille les enfants.",
+      "les parents doivent empêcher leurs enfants de s'approcher des animaux.",
+      "les enfants s'approchent des animaux.",
+      "les enfants sont en sécurité."
+    ],
+    "audio_transcript": "Transcription : Mesdames et messieurs, pour votre sécurité, veuillez surveiller vos enfants et ne pas les laisser s’approcher des animaux. Merci pour votre attention.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 6,
+    "question": "Ce message annonce que…",
+    "options": [
+      "pendant la représentation on utilise des appareils électroniques.",
+      "les appareils électroniques sont interdits.",
+      "les appareils électroniques doivent être éteints durant la représentation.",
+      "la représentation est électronique."
+    ],
+    "audio_transcript": "Transcription : Nous vous rappelons que les appareils électroniques doivent être éteints pendant la représentation. Merci de votre coopération.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 7,
+    "question": "Dans ce message, on annonce…",
+    "options": [
+      "l'avion devrait arriver à l'heure à destination.",
+      "l'équipe est indisposée.",
+      "c'est l'heure de décoller.",
+      "les passagers doivent embarquer à l'heure."
+    ],
+    "audio_transcript": "Transcription : Mesdames et messieurs, le commandant de bord vous souhaite la bienvenue à bord de ce vol. Nous devrions arriver à destination à l’heure prévue. Notre équipage est à votre disposition pour toute demande.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 8,
+    "question": "Ce message annonce…",
+    "options": [
+      "tous les produits de jardinage sont à - 45%.",
+      "certains produits de jardinage peuvent atteindre 45%.",
+      "c'est le premier jour des soldes.",
+      "les plantes sont à -45%."
+    ],
+    "audio_transcript": "Transcription : Chers clients, c’est le dernier jour pour découvrir nos réductions incroyables au rayon jardinage, au sous-sol de notre centre commercial. Jusqu’à -45 % sur les outils de jardin, les plantes et les meubles d’extérieur. Faites vite, avant la fin des soldes !",
+    "right_option": "B"
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle…",
+    "options": [
+      "pour féliciter sa fille.",
+      "pour prendre des nouvelles de sa fille.",
+      "pour dire bonjour à sa maman.",
+      "pour aller à la poste."
+    ],
+    "audio_transcript": "Transcription : Salut Sonia, c’est maman. Je voulais juste vérifier si tout va bien pour toi. J’espère que ton nouveau poste te plaît. Appelle-moi quand tu pourras. Bisous.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle…",
+    "options": [
+      "pour organiser une réunion avec un client.",
+      "pour demander une réunion.",
+      "pour assister à une réunion.",
+      "pour prévenir qu'elle sera absente à une réunion."
+    ],
+    "audio_transcript": "Transcription : Bonjour Clara, j’espère que tu recevras ce message à temps. Malheureusement, je ne pourrai pas assister à la réunion ce soir car j’ai un imprévu. Désolé pour ce contretemps.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle…",
+    "options": [
+      "pour proposer un entretien d'embauche.",
+      "pour envoyer un CV.",
+      "pour travailler à la société TechnoServe.",
+      "pour licencier un technicien informatique."
+    ],
+    "audio_transcript": "Transcription : Bonjour, c’est Madame Lemoine de la société TechnoServe. Vous m’avez laissé votre CV pour le poste de technicien informatique. J’aimerais discuter d’une éventuelle entrevue avec vous. Merci de me rappeler au plus vite.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle…",
+    "options": [
+      "pour avertir un voyageur que le bus pourrait partir en retard.",
+      "pour annoncer la météo.",
+      "pour réserver un billet de bus.",
+      "pour parler à Pauline."
+    ],
+    "audio_transcript": "Transcription : Bonjour Monsieur Dupuis, ici Pauline de la compagnie Voyage Express. Je vous appelle concernant votre réservation de bus pour demain matin. En raison des prévisions météorologiques, il se pourrait que le départ soit décalé. Pouvez-vous me rappeler au 800 123 5987 ? Merci.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle…",
+    "options": [
+      "pour livrer un frigo.",
+      "pour modifier son adresse.",
+      "pour savoir pourquoi son frigo n'est toujours pas livré.",
+      "pour qu'on livre le frigo à 14 heures."
+    ],
+    "audio_transcript": "Transcription : Allô, c’est encore Monsieur Mbai à propos de la livraison de mon frigo, au 12 rue des Oliviers. Ça fait deux heures que j’attends, et toujours pas de nouvelles. Merci de me rappeler dès que possible.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 14,
+    "question": "La personne appelle…",
+    "options": [
+      "pour parler du compte-rendu avec Jessica.",
+      "pour que Sarah envoie une copie du compte-rendu à Jessica.",
+      "pour demander le compte-rendu à Sarah.",
+      "pour parler du compte-rendu avec Sarah."
+    ],
+    "audio_transcript": "Transcription : Oui Sarah, j’ai bien reçu le compte rendu de la réunion. Envoie une copie à Jessica, s’il te plaît. Merci d’avance.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée est…",
+    "options": [
+      "tout à fait pour.",
+      "plutôt favorable.",
+      "complètement contre.",
+      ""
+    ],
+    "audio_transcript": "Transcription : Les gens risquent de se plaindre juste parce que le médecin n’a pas donné le médicament qu’il préfère. Donc non, je suis pas d’accord. Ça pourrait mener à des dérives.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée est…",
+    "options": [
+      "tout à fait pour.",
+      "plutôt favorable.",
+      "complètement contre.",
+      ""
+    ],
+    "audio_transcript": "Transcription : Je pense que les patients peuvent donner un avis précieux, mais ça dépend aussi du contexte. Dans certains cas, ça pourrait même être bénéfique pour les médecins, donc, pourquoi pas.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée est…",
+    "options": [
+      "tout à fait pour.",
+      "plutôt favorable.",
+      "complètement contre.",
+      ""
+    ],
+    "audio_transcript": "Transcription : Les patients ont souvent un point de vue intéressant sur la manière dont ils sont pris en charge. Je crois que c’est une très bonne idée et que ça pourrait aider à améliorer les soins.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que c'est très important.",
+      "pense que ce n'est pas important.",
+      "n'a pas d'avis sur la question.",
+      ""
+    ],
+    "audio_transcript": "Transcription : Je n’ai jamais vraiment fait attention à ce que je mange et je me porte bien. Je ne pense pas que ce soit crucial.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que c'est très important.",
+      "pense que ce n'est pas important.",
+      "n'a pas d'avis sur la question.",
+      ""
+    ],
+    "audio_transcript": "Transcription : En tant que diététicienne, je dirais que oui, c’est absolument essentiel. Une alimentation équilibrée est la base d’une bonne santé, ça a été prouvé scientifiquement.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que c'est très important.",
+      "pense que c'est important mais pas primordial.",
+      "pense que ce n'est pas important.",
+      ""
+    ],
+    "audio_transcript": "Transcription : J’essaie de manger sainement, mais je pense qu’il faut aussi savoir se faire plaisir de temps en temps. Alors, c’est important, mais ce n’est pas la fin du monde si on fait quelques écarts.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 21,
+    "question": "Cette chronique présente une coopérative qui…",
+    "options": [
+      "récolte et recycle les plastiques de la région.",
+      "organise un service de compostage collectif pour les habitants et les restaurants.",
+      "développe un réseau d'énergie solaire pour les foyers locaux.",
+      "propose des cours de jardinage pour sensibiliser à l'écologie."
+    ],
+    "audio_transcript": "Transcription : Ce matin, je vous emmène en Bretagne pour découvrir une initiative écologique remarquable. Une coopérative locale a mis en place un service de compostage collectif accessible à tous les habitants des environs. Chaque semaine, un camion collecte les déchets organiques chez les particuliers et les restaurants, puis les transforme en compost de qualité distribué gratuitement aux jardiniers locaux. Cette initiative permet de réduire les déchets, d’enrichir les sols et de créer un véritable cercle vertueux dans la région. En période de crise environnementale, voilà une belle illustration de ce que l’on peut accomplir à l’échelle locale pour préserver notre planète et renforcer les liens entre les habitants.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 22,
+    "question": "Selon cette chronique…",
+    "options": [
+      "la lecture est devenue obsolète dans un monde hyperconnecté.",
+      "lire permet uniquement de s'évader et de se divertir.",
+      "la lecture offre des bienfaits cognitifs tels que l'amélioration de la mémoire et la réduction du stress.",
+      "la lecture n'a pas d'effet sur la concentration ni le stress."
+    ],
+    "audio_transcript": "Transcription : Chères auditrices, chers auditeurs, aujourd’hui je vous propose de redécouvrir la lecture, un plaisir simple qui semble parfois oublié dans notre monde hyperconnecté. Lire, ce n’est pas seulement s’évader, c’est aussi un excellent exercice pour le cerveau. Selon les neurologues, cela stimule la mémoire, améliore la concentration et réduit le stress. Mais ce n’est pas tout : la lecture a également des vertus méditatives. En prenant le temps de plonger dans un bon livre, on s’offre une pause bien méritée, un moment de calme dans un quotidien souvent trépidant. Alors, que vous soyez adeptes de romans, d’essais ou de poésie, n’hésitez pas à vous accorder ce petit plaisir régulièrement. C’est un cadeau que vous faites à votre esprit et qui vous accompagnera bien plus loin que vous ne le pensez.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 23,
+    "question": "Selon la personne invitée…",
+    "options": [
+      "Lyon est déjà devenue une ville complètement verte.",
+      "réduire la circulation automobile et améliorer les transports en commun sont des défis importants.",
+      "il n'y a plus de pollution urbaine à Lyon grâce à elle.",
+      "les véhicules doivent être interdits dans le centre-ville de Lyon."
+    ],
+    "audio_transcript": "Transcription : Ce soir, nous recevons la préfète de Lyon, Madame Isabelle Martin. — Bonsoir, Madame Martin. — Bonsoir, Monsieur Dupuis. — Alors que les manifestations contre la pollution urbaine se multiplient, vous avez récemment déclaré que Lyon est sur la bonne voie pour devenir une ville plus verte. Est-ce vraiment possible ? — Le véritable défi, c’est qu’il y a encore beaucoup à faire pour réduire la circulation automobile et améliorer les transports en commun. En allant dans cette direction, Lyon deviendra de plus en plus verte. — Pourquoi avez-vous choisi de ne pas interdire les véhicules diesel dans le centre-ville ? — Nous devons penser à une transition progressive. Interdire brutalement, c’est risquer de pénaliser des milliers de personnes. Il est essentiel d’investir d’abord dans des alternatives efficaces, comme des pistes cyclables et des transports électriques.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 24,
+    "question": "L’invitée indique que…",
+    "options": [
+      "les véhicules diesel ne seront jamais interdits à Lyon.",
+      "l'interdiction immédiate des véhicules diesel est la meilleure solution.",
+      "une transition progressive est nécessaire pour ne pas pénaliser les habitants.",
+      "les transports en commun actuels sont suffisants pour réduire la pollution."
+    ],
+    "audio_transcript": "Transcription : Ce soir, nous recevons la préfète de Lyon, Madame Isabelle Martin. — Bonsoir, Madame Martin. — Bonsoir, Monsieur Dupuis. — Alors que les manifestations contre la pollution urbaine se multiplient, vous avez récemment déclaré que Lyon est sur la bonne voie pour devenir une ville plus verte. Est-ce vraiment possible ? — Le véritable défi, c’est qu’il y a encore beaucoup à faire pour réduire la circulation automobile et améliorer les transports en commun. En allant dans cette direction, Lyon deviendra de plus en plus verte. — Pourquoi avez-vous choisi de ne pas interdire les véhicules diesel dans le centre-ville ? — Nous devons penser à une transition progressive. Interdire brutalement, c’est risquer de pénaliser des milliers de personnes. Il est essentiel d’investir d’abord dans des alternatives efficaces, comme des pistes cyclables et des transports électriques.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 25,
+    "question": "Selon l’invitée…",
+    "options": [
+      "l'art et la technologie n'ont aucun lien.",
+      "la créativité, stimulée par l'art, est essentielle même dans les domaines technologiques.",
+      "l'art est moins important que les matières techniques dans l'éducation.",
+      "l'art ne concerne que les personnes talentueuses."
+    ],
+    "audio_transcript": "Transcription : Professeur Sarah Ben Ali, vous animez une conférence à l’université de Tunis sur l’importance des arts dans l’éducation moderne. — Pourquoi mettre l’accent sur l’art dans un monde de plus en plus technologique ? — Le problème, c’est que nous orientons les jeunes vers des domaines techniques en oubliant que l’art stimule la créativité, qui est une compétence indispensable même en technologie. Je cite souvent l’exemple de Léonard de Vinci, dont les œuvres artistiques sont indissociables de ses inventions. — Est-ce difficile aujourd’hui de convaincre les institutions d’intégrer davantage l’art dans les programmes scolaires ? — C’est un défi, notamment dans les institutions scientifiques, qui tendent à voir l’art comme étranger à la science. Mais l’art n’est pas seulement une question de talent, c’est aussi un outil puissant pour comprendre et interpréter le monde. Encourager les jeunes à explorer ces domaines, c’est leur donner des clés pour innover.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 26,
+    "question": "D’après l’invitée, les institutions…",
+    "options": [
+      "intègrent facilement l'art dans leurs programmes scolaires.",
+      "voient l'art comme un outil important pour l'innovation scientifique.",
+      "ont du mal à intégrer l'art dans les programmes, surtout dans les disciplines scientifiques.",
+      "n'accordent aucune importance à l'enseignement des matières techniques."
+    ],
+    "audio_transcript": "Transcription : Professeur Sarah Ben Ali, vous animez une conférence à l’université de Tunis sur l’importance des arts dans l’éducation moderne. — Pourquoi mettre l’accent sur l’art dans un monde de plus en plus technologique ? — Le problème, c’est que nous orientons les jeunes vers des domaines techniques en oubliant que l’art stimule la créativité, qui est une compétence indispensable même en technologie. Je cite souvent l’exemple de Léonard de Vinci, dont les œuvres artistiques sont indissociables de ses inventions. — Est-ce difficile aujourd’hui de convaincre les institutions d’intégrer davantage l’art dans les programmes scolaires ? — C’est un défi, notamment dans les institutions scientifiques, qui tendent à voir l’art comme étranger à la science. Mais l’art n’est pas seulement une question de talent, c’est aussi un outil puissant pour comprendre et interpréter le monde. Encourager les jeunes à explorer ces domaines, c’est leur donner des clés pour innover.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 27,
+    "question": "La personne invitée pense que…",
+    "options": [
+      "Marseille est affectée par le trafic de drogue en raison de ses infrastructures portuaires modernes.",
+      "la position géographique de Marseille et le chômage élevé dans certains quartiers facilitent le développement des réseaux de trafic.",
+      "le trafic de drogue est un problème récent à Marseille.",
+      "le phénomène est causé uniquement par l'inaction des autorités locales."
+    ],
+    "audio_transcript": "Transcription : Aujourd’hui, nous recevons Antoine Leclerc, sociologue et spécialiste des questions de sécurité urbaine. Nous allons parler du trafic de drogue à Marseille. — Bonjour Monsieur Leclerc. — Bonjour, merci de m’avoir invité. — Pourquoi Marseille est-elle particulièrement affectée par ce phénomène ? — C’est une ville portuaire, au carrefour de l’Europe et de la Méditerranée, ce qui en fait un point stratégique pour le commerce, y compris le commerce illicite. Cette position géographique, combinée à des quartiers où le chômage est élevé et les perspectives économiques sont limitées, crée un environnement propice à l’implantation des réseaux de trafic de drogue. — La violence liée à ce trafic semble s’intensifier. À quoi attribuez-vous cette escalade ? — La concurrence entre réseaux s’est accrue ces dernières années. De nouveaux acteurs, souvent très jeunes, tentent de se faire une place, ce qui engendre une augmentation de la violence. De plus, l’organisation des réseaux est devenue plus morcelée, avec des petites bandes qui se disputent le contrôle du territoire, ce qui accroît les conflits. — Les forces de l’ordre intensifient leurs opérations pour contrer ce phénomène. Est-ce suffisant, selon vous ? — Les efforts policiers sont essentiels et doivent se poursuivre. Mais la répression, à elle seule, ne résoudra pas tout. Il est crucial d’accompagner ces mesures par des politiques de prévention. Les jeunes doivent avoir des alternatives viables au trafic de drogue pour réellement réduire l’attractivité de ce milieu.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 28,
+    "question": "Pour l’invité…",
+    "options": [
+      "la répression policière est suffisante pour résoudre le problème du trafic de drogue à Marseille.",
+      "seule la prévention permettra d'éradiquer le trafic de drogue.",
+      "les efforts policiers doivent être accompagnés de politiques de prévention et de création d'alternatives pour les jeunes.",
+      "les jeunes de Marseille ne sont pas impliqués dans les réseaux de trafic de drogue."
+    ],
+    "audio_transcript": "Transcription : Aujourd’hui, nous recevons Antoine Leclerc, sociologue et spécialiste des questions de sécurité urbaine. Nous allons parler du trafic de drogue à Marseille. — Bonjour Monsieur Leclerc. — Bonjour, merci de m’avoir invité. — Pourquoi Marseille est-elle particulièrement affectée par ce phénomène ? — C’est une ville portuaire, au carrefour de l’Europe et de la Méditerranée, ce qui en fait un point stratégique pour le commerce, y compris le commerce illicite. Cette position géographique, combinée à des quartiers où le chômage est élevé et les perspectives économiques sont limitées, crée un environnement propice à l’implantation des réseaux de trafic de drogue. — La violence liée à ce trafic semble s’intensifier. À quoi attribuez-vous cette escalade ? — La concurrence entre réseaux s’est accrue ces dernières années. De nouveaux acteurs, souvent très jeunes, tentent de se faire une place, ce qui engendre une augmentation de la violence. De plus, l’organisation des réseaux est devenue plus morcelée, avec des petites bandes qui se disputent le contrôle du territoire, ce qui accroît les conflits. — Les forces de l’ordre intensifient leurs opérations pour contrer ce phénomène. Est-ce suffisant, selon vous ? — Les efforts policiers sont essentiels et doivent se poursuivre. Mais la répression, à elle seule, ne résoudra pas tout. Il est crucial d’accompagner ces mesures par des politiques de prévention. Les jeunes doivent avoir des alternatives viables au trafic de drogue pour réellement réduire l’attractivité de ce milieu.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 29,
+    "question": "Ce reportage traite…",
+    "options": [
+      "de la gestion des dépenses publiques en France.",
+      "des inquiétudes liées à la sécurité dans les stades.",
+      "de l'enthousiasme national suscité par les Jeux Olympiques de Paris 2024.",
+      "de la difficulté à organiser des événements sportifs en France."
+    ],
+    "audio_transcript": "Transcription : Dans les stades, sur les écrans géants installés dans les parcs, ou encore dans les bars, l’ambiance est à la fête. Les performances des athlètes français, qui ont déjà décroché plusieurs médailles, suscitent des vagues d’enthousiasme à travers le pays. Les supporters, vêtus de bleu, blanc, rouge, se rassemblent par milliers pour encourager leur champion. Pourtant, il y a quelques mois, ce même événement suscitait des inquiétudes chez certains responsables politiques, notamment aux extrêmes de l’échiquier. On parlait alors de dépenses publiques excessives, de risques pour la sécurité et d’une possible fracture sociale. Certains craignaient que ces Jeux ne profitent qu’à une élite, laissant de côté les préoccupations des Français les plus modestes. Mais force est de constater que depuis le début des Jeux, le scénario est bien différent. Les dispositifs de sécurité, scrutés de près, se sont révélés efficaces, et les événements se déroulent sans incident majeur. Les coûts, bien que conséquents, sont compensés par les retombées économiques et touristiques considérables. Le public, lui, est au rendez-vous, et les critiques se sont en grande partie tues devant l’évidence du succès populaire. Nadia, expatriée au Canada, a posé un congé à la dernière minute pour rentrer en France et participer à l’effervescence des Jeux : « C’est magnifique de voir les Français fiers de leurs athlètes. Tout le monde est joyeux, c’est incroyable. Franchement, c’est génial. J’étais à l’étranger et je suis rentrée à Paris exprès, je ne voulais pas rater ça. » En ce mois de juillet 2024, les Jeux olympiques de Paris ne sont plus seulement une compétition internationale, mais bien un moment de liesse partagé par toute une nation. Un pari réussi, malgré les doutes initiaux. Georges Altice, Paris, Radio Française",
+    "right_option": "C"
+  },
+  {
+    "question_no": 30,
+    "question": "Selon le journaliste…",
+    "options": [
+      "les Jeux Olympiques de Paris 2024 ont causé une fracture sociale importante.",
+      "les inquiétudes initiales concernant la sécurité et les coûts des Jeux se sont révélées fondées.",
+      "les jeux ont permis de rassembler la nation, malgré les critiques initiales.",
+      "les événements sportifs en France se déroulent avec plusieurs incidents."
+    ],
+    "audio_transcript": "Transcription : Dans les stades, sur les écrans géants installés dans les parcs, ou encore dans les bars, l’ambiance est à la fête. Les performances des athlètes français, qui ont déjà décroché plusieurs médailles, suscitent des vagues d’enthousiasme à travers le pays. Les supporters, vêtus de bleu, blanc, rouge, se rassemblent par milliers pour encourager leur champion. Pourtant, il y a quelques mois, ce même événement suscitait des inquiétudes chez certains responsables politiques, notamment aux extrêmes de l’échiquier. On parlait alors de dépenses publiques excessives, de risques pour la sécurité et d’une possible fracture sociale. Certains craignaient que ces Jeux ne profitent qu’à une élite, laissant de côté les préoccupations des Français les plus modestes. Mais force est de constater que depuis le début des Jeux, le scénario est bien différent. Les dispositifs de sécurité, scrutés de près, se sont révélés efficaces, et les événements se déroulent sans incident majeur. Les coûts, bien que conséquents, sont compensés par les retombées économiques et touristiques considérables. Le public, lui, est au rendez-vous, et les critiques se sont en grande partie tues devant l’évidence du succès populaire. Nadia, expatriée au Canada, a posé un congé à la dernière minute pour rentrer en France et participer à l’effervescence des Jeux : « C’est magnifique de voir les Français fiers de leurs athlètes. Tout le monde est joyeux, c’est incroyable. Franchement, c’est génial. J’étais à l’étranger et je suis rentrée à Paris exprès, je ne voulais pas rater ça. » En ce mois de juillet 2024, les Jeux olympiques de Paris ne sont plus seulement une compétition internationale, mais bien un moment de liesse partagé par toute une nation. Un pari réussi, malgré les doutes initiaux. Georges Altice, Paris, Radio Française",
+    "right_option": "C"
+  },
+  {
+    "question_no": 31,
+    "question": "D’après cette chronique…",
+    "options": [
+      "le film Ray sera diffusé sur France 2 ce soir.",
+      "Ray est un documentaire sur la musique soul.",
+      "Jamie Foxx joue le rôle de Ray Charles dans le film diffusé ce soir sur Arte.",
+      "le film Ray se concentre uniquement sur la carrière musicale de Ray Charles, sans mentionner ses luttes personnelles."
+    ],
+    "audio_transcript": "Transcription : Et pourquoi ne pas finir ce dimanche en musique avec Ray Charles ? Ce soir à 21h, Arte diffuse Ray, un film qui retrace la vie du légendaire pianiste et chanteur. Ce biopic explore son parcours, ses batailles personnelles et sa contribution immense à la musique soul. Jamie Foxx incarne Charles avec brio, livrant une performance mémorable tant sur le plan vocal qu’artistique.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 32,
+    "question": "Selon cette information…",
+    "options": [
+      "Clean Earth est une organisation gouvernementale en Allemagne.",
+      "Clean Earth demande aux entreprises de réduire leurs émissions de CO2 de 45% en un an.",
+      "Clean Earth exige que les entreprises publient leurs plans de réduction d'émissions de CO2.",
+      "Clean Earth félicite ces entreprises pour leurs efforts écologiques."
+    ],
+    "audio_transcript": "Transcription : En Allemagne, l’ONG Cleaner a envoyé ce jeudi une lettre à vingt-cinq grandes entreprises dénonçant leur impact environnemental. L’organisation demande à ces compagnies de publier d’ici le 15 mars leur plan pour réduire de quarante-cinq pour cent leurs émissions de CO₂ sur une période de cinq ans. Selon le porte-parole de Cleaner, ces entreprises ont trop longtemps ignoré leurs responsabilités, mettant en danger la planète au profit de leur croissance économique. Elles doivent désormais agir pour préserver un environnement sain pour les générations futures.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 33,
+    "question": "Le gestionnaire…",
+    "options": [
+      "commence par un point détaillé sur les ventes trimestrielles.",
+      "informe que Michel va parler en premier de la refonte du site web.",
+      "invite l'équipe à poser des questions après la présentation.",
+      "prévoit de discuter du partenariat avec GreenTech en premier."
+    ],
+    "audio_transcript": "Transcription : Bonjour à tous, merci d’être présents ce matin. À l’ordre du jour, nous avons plusieurs points à aborder. D’abord, un retour rapide sur l’e-mail de Marie concernant le partenariat avec Greentech. Ensuite, nous passerons en revue les chiffres des ventes pour le trimestre en cours, suivis d’un point sur la communication interne. Enfin, Michel nous présentera les dernières mises à jour sur le projet de refonte du site web. Si vous avez des questions avant de commencer, n’hésitez pas.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 34,
+    "question": "Selon cette information…",
+    "options": [
+      "Bordeaux a été élue ville la plus verte d'Europe.",
+      "Julie Lefebvre est la candidate aux prochaines élections municipales.",
+      "la ville de Bordeaux a mis en place un plan pour doubler les espaces verts.",
+      "le plan écologique de Bordeaux a été reconnu récemment."
+    ],
+    "audio_transcript": "Transcription : Bordeaux a récemment été élue ville la plus verte de France. Cette reconnaissance fait la fierté de la maire, Julie Lefebvre, qui a mis en place un ambitieux plan pour doubler les espaces verts en milieu urbain. Ce projet, bien que coûteux, a permis à la ville de se démarquer, notamment en matière de qualité de vie. À l’approche des élections municipales, tous les candidats s’engagent désormais à poursuivre ces efforts et à aller encore plus loin pour faire de Bordeaux un modèle de ville durable.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 35,
+    "question": "D’après cette chronique…",
+    "options": [
+      "l'exposition met en lumière l'art des jeunes issus de l'immigration dans les années 90.",
+      "l'exposition \"Nouvelle Vague\" est dédiée à la musique classique des années 90.",
+      "MC Solaar est le seul artiste présenté dans l'exposition.",
+      "l'exposition se concentre uniquement sur les défis de l'intégration sans aborder les discriminations."
+    ],
+    "audio_transcript": "Transcription : L’exposition Nouvelle Vague explore l’effervescence artistique de la jeunesse urbaine des années 80 à 90. Cette époque est marquée par les influences du hip-hop américain chez les jeunes de banlieue française, en particulier chez ceux issus de l’immigration. Le titre fait écho à la mouvance culturelle de ces décennies, où des artistes comme MC Solaar ont utilisé la musique pour exprimer leur identité et leur place dans la société française. Leur travail a été une réponse aux défis de l’intégration et aux discriminations, affirmant que les jeunes issus de l’immigration avaient autant leur place dans le paysage culturel français que quiconque.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 36,
+    "question": "Selon ce message…",
+    "options": [
+      "la direction générale des transports a décidé de supprimer les sanctions liées aux infractions routières.",
+      "le permis à points a déjà été mis en place par la direction générale des transports.",
+      "la suspension des sanctions pour le retrait de permis est temporaire, en attendant la mise en place du permis à points.",
+      "la suspension des permis ne concerne pas les conducteurs professionnels."
+    ],
+    "audio_transcript": "Transcription : La Direction générale des transports a décidé de suspendre temporairement les sanctions liées au retrait des permis de conduire, en attendant la mise en place du permis à points. Cette décision vise à alléger les procédures administratives et à se concentrer sur la prévention des accidents de la route. La suspension des permis entraîne souvent des conséquences disproportionnées, notamment pour les conducteurs professionnels qui risquent de perdre leur emploi pour des infractions mineures.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 37,
+    "question": "D’après cette chronique…",
+    "options": [
+      "le \"Marché Express\" propose uniquement des plats végétariens.",
+      "le concept du \"Marché Express\" cherche à remplacer les chaînes de fast-food internationales.",
+      "le \"Marché Express\" offre des plats préparés à partir de produits locaux pour promouvoir l'agriculture française.",
+      "le projet est limité à Lyon et ne sera pas étendu à d'autres villes."
+    ],
+    "audio_transcript": "Transcription : Afin de promouvoir les produits locaux et soutenir l’agriculture française, la ville de Lyon a inauguré le premier Marché Express, un concept de restauration rapide où les clients peuvent déguster des plats préparés à partir de produits locaux. Ce projet vise à offrir une alternative aux chaînes de fast-food internationales, qui dominent le paysage urbain. Le responsable du Marché Express explique : « Nous ne cherchons pas à concurrencer les géants du fast-food. Nos produits sont frais, locaux et issus d’une agriculture raisonnée. Nous souhaitons simplement offrir une option saine et authentique aux habitants de Lyon. » Ce modèle pourrait être étendu à d’autres villes françaises dans les mois à venir.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 38,
+    "question": "Selon ce message…",
+    "options": [
+      "la France a déjà atteint ses objectifs en matière d'énergies renouvelables.",
+      "le principal obstacle à la transition énergétique en France est l'absence de technologies solaires et éoliennes.",
+      "l'Agence nationale de l'énergie ne propose aucune solution pour simplifier l'accès aux énergies renouvelables.",
+      "le coût élevé des installations et la complexité administrative freinent l'adoption des énergies renouvelables en France."
+    ],
+    "audio_transcript": "Transcription : Nous allons nous pencher ce matin sur le rapport de l’Agence nationale de l’énergie concernant la transition vers les énergies renouvelables en France. Le document révèle que, malgré les efforts déployés pour encourager l’installation de panneaux solaires et d’éoliennes, le pays est encore loin d’atteindre ses objectifs. L’un des principaux obstacles est le coût initial des installations, qui reste prohibitif pour de nombreuses familles. De plus, la complexité des démarches administratives décourage les particuliers. Pour que la France devienne un leader en matière d’énergies renouvelables, il est essentiel de simplifier l’accès à ces technologies et de réduire leurs coûts pour les ménages.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 39,
+    "question": "D’après le journaliste…",
+    "options": [
+      "les jeunes Français préfèrent les plateformes de streaming à la télévision traditionnelle.",
+      "la télévision traditionnelle est en hausse d'audience chez les 18-30 ans.",
+      "les jeunes Français regardent de plus en plus la télévision traditionnelle.",
+      "les chaînes de télévision ne prévoient pas de changements face à cette tendance."
+    ],
+    "audio_transcript": "Transcription : Les jeunes Français délaissent-ils la télévision traditionnelle ? La question se pose alors que les chiffres montrent une baisse continue de l’audience chez les 18-30 ans. Beaucoup préfèrent désormais les plateformes de streaming et les contenus disponibles à la demande. Selon certains analystes, cette désaffection télévisuelle pourrait bouleverser l’industrie médiatique française. Le modèle classique de la télévision, avec ses horaires fixes et ses publicités, semble de moins en moins en phase avec les attentes d’une génération habituée à la flexibilité et à l’absence d’interruption publicitaire. Certains prédisent que si cette tendance se poursuit, les chaînes devront radicalement repenser leur offre pour rester pertinentes.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 40,
+    "question": "Selon cette information…",
+    "options": [
+      "les commerçants respectent toujours la réglementation sur les prix.",
+      "il est facile pour les consommateurs de prouver que le prix initial est artificiellement élevé.",
+      "certains commerçants augmentent artificiellement les prix initiaux pour simuler des remises importantes.",
+      "les remises sont toutes, vous avez juste besoin d'un surplus de stock."
+    ],
+    "audio_transcript": "Transcription : Imaginez une paire de chaussures de sport annoncée à 200 euros, puis soldée à 120 euros, pour finir bradée à 70 euros. Une réduction impressionnante, mais est-ce vraiment une bonne affaire ? Dans certains cas, le produit est de qualité et la baisse de prix s’explique par un surplus de stock. Cependant, il n’est pas rare que le prix initial soit artificiellement élevé pour simuler une remise importante. Cette pratique, bien que courante, est contraire à la réglementation sur la protection des consommateurs, qui stipule que le prix de départ doit être justifié et avoir été appliqué sur une période raisonnable. Le problème pour les acheteurs, c’est de déterminer si le prix de départ était légitime. Les commerçants utilisent souvent cette zone grise pour attirer les clients, mais prouver cette manipulation peut s’avérer compliquée.",
+    "right_option": "C"
+  }
+]

@@ -1,5 +1,482 @@
-{
-  "practice": 10,
-  "title": "CO Practice 10",
-  "items": []
-}
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_10_images/co-10-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "– Salut Louise, comment ça va ? – Salut Marie, ça va bien, merci. Et toi ? – Ça va, merci. Dis, tu es allée voir le spectacle de théâtre hier soir ? – Oui, j'y étais, c'était vraiment impressionnant. – Vraiment ? Ça t’a plu ? – Oh oui, ça m’a beaucoup plu.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_10_images/co-10-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "– Salut, est-ce que tu peux m'aider avec mes devoirs de mathématiques ? – Bien sûr. – J'ai du mal avec ces équations, elles sont si complexes. – Ne t’inquiète pas, je vais t’expliquer étape par étape. – Merci beaucoup, tu es vraiment doué en maths.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_10_images/co-10-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "– Bonjour. Comment vas-tu ? – Très bien, merci. Et toi ? – Très bien. Je suis contente de te voir. Tu as du temps, là ? – Oui, je ne travaille pas aujourd’hui. – Tu veux aller boire un café ? – Avec plaisir.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_10_images/co-10-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "– Bonjour monsieur, je voudrais quelque chose pour la toux, s’il vous plaît. – Des pastilles ou du sirop ? – Les deux. Il me faudrait aussi de l’aspirine en comprimé. – Oui monsieur, ce sera tout ? – Non, je voudrais aussi des gouttes pour les yeux. J’ai attrapé un rhume en attendant le bus dans le froid.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 5,
+    "question": "Ce message…",
+    "options": [
+      "appelle le personnel sur le quai",
+      "informe d'un léger retard du train",
+      "s'excuse de l'interruption du service",
+      "annonce une annulation de train"
+    ],
+    "audio_transcript": "En raison de difficultés d'acheminement du personnel, le train grande ligne première classe à supplément, place couchée numéro trois-mille-six-cent-quatre-vingt-quatre (3684), à destination de Bruxelles-Midi, départ initialement prévu à vingt-trois heures seize, est supprimé. Nous vous prions d’accepter nos excuses. Merci de votre compréhension.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 6,
+    "question": "Ce message…",
+    "options": [
+      "indique un changement d'horaire",
+      "répète les horaires d'ouverture",
+      "annonce le début de l'exposition",
+      "souhaite la bienvenue aux clients"
+    ],
+    "audio_transcript": "Mesdames, mesdemoiselles, messieurs, bienvenue à notre exposition. Nous vous rappelons que nous fermerons aujourd’hui à dix-sept heures au lieu de dix-huit heures.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 7,
+    "question": "Ce message…",
+    "options": [
+      "indique l'emplacement du rayon librairie",
+      "renseigne les clients sur un évènement",
+      "fait la promotion d'un auteur connu",
+      "rappelle l'horaire du magasin"
+    ],
+    "audio_transcript": "Mesdames, messieurs, Monsieur Amine Habib viendra dédicacer son dernier roman au rayon librairie à 15 heures. Nous vous invitons à nous rejoindre au deuxième étage à cette occasion.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 8,
+    "question": "Ce message…",
+    "options": [
+      "donne les modes de paiement acceptés",
+      "répète les heures de fermeture du magasin",
+      "invite les clients à terminer leurs achats",
+      "annonce un problème technique aux caisses"
+    ],
+    "audio_transcript": "Mesdames, messieurs, nous allons bientôt fermer. Nous vous prions de bien vouloir vous rendre à la caisse.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle pour…",
+    "options": [
+      "confirmer un examen médical",
+      "prévenir d'une urgence",
+      "proposer une nouvelle date",
+      "planifier une consultation"
+    ],
+    "audio_transcript": "Bonjour Madame Marchand, C’est la Clinique du Lac. Je vous appelle au sujet de votre rendez-vous de 11 heures avec le Docteur Bertrand. Malheureusement, il a une urgence et ne pourra pas assurer ses consultations aujourd’hui. Seriez-vous disponible demain à 14 heures ? Merci de me rappeler le plus vite possible au 04 62 10 00 95. Bonne journée.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour…",
+    "options": [
+      "signaler un accident",
+      "prendre rendez-vous",
+      "organiser une réunion",
+      "annoncer un retard"
+    ],
+    "audio_transcript": "Oui, bonjour, c’est Madame Garcia. Alors je suis bloquée sur l’autoroute à cause d’un accident, et donc c’était pour dire que j’allais être en retard à mon rendez-vous avec Monsieur Java. Si c’est possible de l’informer avant 14 heures, avant le début de la réunion, voilà, merci beaucoup.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle pour…",
+    "options": [
+      "lancer une invitation",
+      "confirmer sa présence",
+      "commander un gâteau",
+      "annoncer son arrivée"
+    ],
+    "audio_transcript": "Salut Justine, j’espère que tu vas bien. J’ai vu ton email pour l’anniversaire de Lucas le week-end prochain. C’est bon pour moi. Je viendrai avec Simon, ce sera l’occasion de vous le présenter enfin. Je m’occupe du gâteau et des bougies. Il y a une super pâtisserie dans mon quartier. Bisous.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle pour…",
+    "options": [
+      "demander des renseignements",
+      "inscrire sa fille à un cours de conduite",
+      "effectuer un paiement pour un cours",
+      "confirmer un rendez-vous"
+    ],
+    "audio_transcript": "Bonjour, Je suis la maman d’Aline. Elle est inscrite chez vous en conduite accompagnée, et elle vient de parcourir 3000 kilomètres. Voilà, elle a fini il n’y a pas très longtemps. Je voudrais donc prendre rendez-vous, vous savez, pour le rendez-vous pédagogique des 3000 kilomètres. Et donc voilà, si on pouvait me rappeler pour prendre ce rendez-vous et aussi en même temps m’indiquer, me rappeler le prix de ce rendez-vous et combien de temps ça dure. Voilà, merci beaucoup pour votre rappel. À bientôt, au revoir.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle pour…",
+    "options": [
+      "annoncer son absence à un évènement",
+      "féliciter un ami pour son mariage",
+      "annoncer son départ imminent",
+      "planifier un voyage entre amis"
+    ],
+    "audio_transcript": "Coucou Bastien, c’est Lisa. J’ai bien reçu ton faire-part de mariage, mais nous ne pourrons pas venir. C’est vraiment dommage. Alex et moi, on sera en Argentine à cette date. C’est un voyage qu’on avait prévu depuis longtemps et qui avait été annulé à cause de la Covid l’année dernière. En tout cas, je suis super heureuse pour vous deux, et j’ai hâte de voir les photos et les vidéos de la cérémonie.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 14,
+    "question": "La personne appelle pour…",
+    "options": [
+      "offrir des renseignements",
+      "demander conseil",
+      "acheter un produit",
+      "planifier des rénovations"
+    ],
+    "audio_transcript": "Du café-restaurant Les 3 Brasseurs à Blagnac. Voilà, je voudrais avoir des renseignements sur les produits que je dois utiliser pour rénover mes décorations en laiton, là, dans mon restaurant. Voilà, donc est-ce qu’un spécialiste des peintures peut me rappeler ?",
+    "right_option": "B"
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense qu'on apprend très bien l'anglais à l'école",
+      "pense qu'on apprend l'anglais correctement à l'école",
+      "pense qu'on n'apprend pas bien l'anglais à l'école",
+      ""
+    ],
+    "audio_transcript": "Parce que pour moi, il faut beaucoup pratiquer, et qu’aujourd’hui les profs à l’école se s’axent sur beaucoup de théories, sur des termes en effet généraux. Mais le mieux, c’est de pouvoir aller dans des pays étrangers pour pouvoir pratiquer au maximum, et pour justement apprendre l’anglais.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense qu'on apprend très bien l'anglais à l'école",
+      "pense qu'on apprend l'anglais correctement à l'école",
+      "pense qu'on n'apprend pas bien l'anglais à l'école",
+      ""
+    ],
+    "audio_transcript": "Je trouve qu’en France, le système global d’apprentissage des langues présente pas mal de lacunes, et que c’est pour ça que nous, les Français, avons du mal à parler anglais ou même d’autres langues. Je trouve qu’on a investi beaucoup de temps, surtout à l’école très jeune, sur du vocabulaire qui ne va pas nécessairement nous servir par la suite. Moi, j’ai des souvenirs au collège d’avoir passé plusieurs mois sur le vocabulaire de la trousse, qui ne m’a pas forcément été utile, et je me rends compte d’avoir appris finalement beaucoup plus à travers les musiques, les séries, les films.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense qu'on apprend très bien l'anglais à l'école",
+      "pense qu'on apprend l'anglais correctement à l'école",
+      "pense qu'on n'apprend pas bien l'anglais à l'école",
+      ""
+    ],
+    "audio_transcript": "Tout de suite, si on est dans le privé ou le public, ça n’a pas du tout la même éducation. Si on a la chance d’être dans des sections européennes ou pas… Et même dans les sections européennes, moi, j’étais… j’avais des professeurs qui ne parlaient pas du tout bien anglais, qui allaient rechercher sur Google Trad des mots. Donc je pense qu’il y a vraiment un problème dans l’éducation, surtout par rapport à d’autres pays.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que les jeunes ne veulent plus travailler",
+      "pense que les jeunes veulent travailler parfois",
+      "pense que les jeunes veulent travailler",
+      ""
+    ],
+    "audio_transcript": "Franchement, je ne suis pas d’accord. C’est juste qu’ils sont plus sélectifs, on va dire. Maintenant, les jeunes ne veulent pas faire un métier qui ne leur plaît pas, du coup ils ont plus de critères. Mais après, oui, c’est vrai, il y a une partie de la jeunesse qui ne veut pas travailler non plus — on ne va pas se mentir. Parce qu’il y a des aides, il y a des trucs… Du coup, on attend qu’on nous aide. Mais c’est comme toujours : tout le monde, il y a des flemmards, il y a des gens qui aiment travailler, voilà.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que les jeunes ne veulent plus travailler",
+      "pense que les jeunes veulent travailler parfois",
+      "pense que les jeunes veulent travailler",
+      ""
+    ],
+    "audio_transcript": "C’est pas qu’on ne veut plus travailler, on veut travailler dans de meilleures conditions. Mais c’est-à-dire déjà augmenter les salaires, parce que ceux qui, en général, disent que les jeunes sont des fainéants, on n’a pas eu le même système économique. Donc nous, on a moins de pouvoir d’achat. Tout augmente sauf nos salaires. Même si maintenant vous validez les diplômes, le nombre de gens qui ont des bac +5 sur le marché, ce n’est plus autant valorisé. Moi j’en connais plein, des gens qui sont diplômés mais qui n’arrivent pas à accéder au marché de l’emploi par manque d’expérience, etc. Donc c’est facile de dire qu’on est fainéants.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que les jeunes ne veulent plus travailler",
+      "pense que les jeunes veulent travailler parfois",
+      "pense que les jeunes veulent travailler",
+      ""
+    ],
+    "audio_transcript": "« Les jeunes ne veulent plus travailler », c’est faux. Parce qu’en vrai, au final, on est la génération auto-entrepreneur. Et donc, du coup, si on ne trouve pas de travail, on se le crée nous-mêmes. Du coup, on est plus débrouillards que les anciens.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 21,
+    "question": "L’activité physique…",
+    "options": [
+      "donne des résultats visibles en peu de temps",
+      "permet de maintenir un équilibre physique et mental",
+      "doit être pratiquée uniquement par les athlètes",
+      "a des effets différents selon les individus"
+    ],
+    "audio_transcript": "Faut pas arrêter, parce qu’effectivement, lorsque l’activité physique fait partie de notre équilibre, finalement, le fait de l’arrêter, ça va favoriser ce déséquilibre. Et puis finalement, ça va favoriser l’accélération, pourquoi pas, de la pathologie. On sait que le fait de pratiquer une activité physique régulière, c’est intéressant, parce que ça améliore la condition physique. Et ça, d’une manière générale, c’est toujours mieux quand on a une bonne condition physique pour pouvoir lutter contre une pathologie. C’est bon pour le moral, ça lutte contre l’anxiété, la dépression, et ça, c’est aussi quelque chose qui est extrêmement important pour pouvoir lutter contre les pathologies. Mais même plus spécifiquement, sur certaines pathologies, on sait que ça joue pour éviter la récidive de cancer, par exemple, pour lutter contre le diabète, l’hypertension artérielle, l’asthme… Eh bien, on sait que tout cela, l’activité physique régulière sera bénéfique.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 22,
+    "question": "Les fautes dans la langue…",
+    "options": [
+      "deviennent souvent des normes linguistiques",
+      "sont systématiquement perçues comme incorrectes",
+      "n'ont aucune influence sur l'évolution d'une langue",
+      "constituent l'unique domaine d'étude en grammaire"
+    ],
+    "audio_transcript": "On va parler des fautes et des règles, parce qu’en grammaire, on a l’habitude — c’est logique — d’opposer les règles et les fautes. Mais savez-vous qu’il y a plein de fautes qui deviennent des règles, et que ça fait partie de l’évolution logique d’une langue ? Je vais vous donner quelques exemples, empruntés en partie au linguiste Henri Frei dans La Grammaire des fautes. Alors, par exemple, du point de vue de la phonétique, on peut citer les métathèses, c’est-à-dire les modifications phonétiques d’un mot par le changement de place d’un ou de plusieurs sons. Par exemple, fromage, ça vient du latin formaticum, formatio en italien, et on le prononçait formage, puis, par erreur, fromage. Et finalement, la forme fautive…",
+    "right_option": "A"
+  },
+  {
+    "question_no": 23,
+    "question": "L’invité décrit sa démarche comme",
+    "options": [
+      "un ensemble de disciplines distinctes",
+      "un rejet de la poésie au profit de la science",
+      "une simple analyse des faits scientifiques",
+      "une exploration des liens entre la science et l'art"
+    ],
+    "audio_transcript": "Bonjour. Merci à vous d’être avec nous. Merci. Le philosophe que vous êtes, entre les sciences naturelles et la poésie, comment définir votre démarche ? Comment vous la qualifiez-vous ? Est-ce qu’on vous présente déjà comme un philosophe de la nature, du vivant aujourd’hui ? C’est une bonne question, et en effet, ça révèle qu’il y a une sorte de point aveugle ici, à l’intérieur, dans les creux de ces disciplines. À mon sens, c’est un endroit qui mérite d’être travaillé, parce que justement, je crois que la culture du vivant dont on a besoin ne peut pas se contenter d’être une science du vivant. En même temps, elle a besoin des sciences, et donc ça exige de créer ces chimères étranges entre la poésie, la littérature, l’éthologie, l’écologie scientifique. Après, on verra si quelqu’un veut me trouver un nom, il trouvera. Et vous racontez souvent qu’il vous faut, et qu’il vous a fallu, essayer de trouver le bon équilibre entre la raison et les sensations. On l’évoquait peut-être entre les sciences et la poésie, les qualités nécessaires. Vous n’aimez pas forcément ce mot d’« émerveillement », mais vous dites en tout cas qu’il faut quand même éprouver une certaine fascination, c’est-à-dire savoir ouvrir les yeux grands, regarder, et admirer ce que l’on a autour de nous. Absolument. C’est vrai que j’ai l’impression que le mot « émerveillement » dans la culture dont on hérite a malheureusement, je dirais, été épointé dans sa capacité de politisation et dans sa capacité à restituer de l’importance. C’est comme s’il avait été repoussé dans un champ esthétique, et était ce faisant, je dirais, désengagé.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 24,
+    "question": "II regrette…",
+    "options": [
+      "que la poésie ne soit pas suffisamment valorisée",
+      "que la raison prenne le pas sur les sensations",
+      "le sens qu'a pris le mot <<émerveillement>>",
+      "que les gens ne soient pas assez ouverts"
+    ],
+    "audio_transcript": "Bonjour. Merci à vous d’être avec nous. Merci. Le philosophe que vous êtes, entre les sciences naturelles et la poésie, comment définir votre démarche ? Comment vous la qualifiez-vous ? Est-ce qu’on vous présente déjà comme un philosophe de la nature, du vivant aujourd’hui ? C’est une bonne question, et en effet, ça révèle qu’il y a une sorte de point aveugle ici, à l’intérieur, dans les creux de ces disciplines. À mon sens, c’est un endroit qui mérite d’être travaillé, parce que justement, je crois que la culture du vivant dont on a besoin ne peut pas se contenter d’être une science du vivant. En même temps, elle a besoin des sciences, et donc ça exige de créer ces chimères étranges entre la poésie, la littérature, l’éthologie, l’écologie scientifique. Après, on verra si quelqu’un veut me trouver un nom, il trouvera. Et vous racontez souvent qu’il vous faut, et qu’il vous a fallu, essayer de trouver le bon équilibre entre la raison et les sensations. On l’évoquait peut-être entre les sciences et la poésie, les qualités nécessaires. Vous n’aimez pas forcément ce mot d’« émerveillement », mais vous dites en tout cas qu’il faut quand même éprouver une certaine fascination, c’est-à-dire savoir ouvrir les yeux grands, regarder, et admirer ce que l’on a autour de nous. Absolument. C’est vrai que j’ai l’impression que le mot « émerveillement » dans la culture dont on hérite a malheureusement, je dirais, été épointé dans sa capacité de politisation et dans sa capacité à restituer de l’importance. C’est comme s’il avait été repoussé dans un champ esthétique, et était ce faisant, je dirais, désengagé.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 25,
+    "question": "Le projet présenté…",
+    "options": [
+      "implique la création d'une série télévisée",
+      "est une série de livres avec des personnages originaux",
+      "se concentre sur des programmes pour enfants",
+      "a été imaginé par une photographe amateur"
+    ],
+    "audio_transcript": "D'abord, parle-nous un petit peu de comment tout ça est arrivé, parce que tu as tout quitté pour créer et mettre sur pied ce projet-là. Oui, oui, moi, je suis une fille de vente et marketing. J'ai travaillé pendant 10 ans dans l'industrie, puis je voyageais pour mon travail, puis j'amenais mes 2 peluches avec moi, Biscuit et Cassonade. Puis je les ai pris en photo pendant une bonne dizaine d'années, puis j'ai eu l'opportunité de réorienter ma carrière, puis je me suis demandée ce que j'aimais vraiment faire. Quand on parle de passion, je me suis dit c'est complètement fou, mais j'aime ça, faire des photos de mes toutous. Puis je me suis dit, j'aimerais ça partager ces belles photos-là. Donc, j'ai commencé à imaginer un modèle d'affaires avec Biscuit et Cassonade. Donc là, je voyais des livres, je me suis dit bon, ce sont des photos, donc les jeunes vont vouloir les peluches. Ils ont tous imaginé un programme de merchandising, la télévision éventuellement. Ça fait que je me suis lancée, puis là, ça fait 3 ans, on a lancé 8 livres. Puis là, on a un beau coffret chez Costco, d'ailleurs, qu'on présente aujourd'hui. Ah oui, avec la peluche. Oui. Et ce, c'est assez content. Ce qui est assez impressionnant, c'est que les peluches sont petites, mais les lieux sont réels. Ce ne sont pas des endroits qui ont été créés spécialement pour prendre les photos pour faire les livres. Ce sont les, tu sais, si on est à Paris, on voit la Tour Eiffel, la vraie Tour Eiffel. C'est ça, parce que c'est un projet d'initiation à la découverte du monde. Donc Biscuit et Cassonade, ils voyagent. Ici, ils sont à Paris, ils sont à New York, ils sont au Mexique. Donc ça, ce sont des lieux réels, ce qui fait qu'ils ne se sentent pas dénaturés dans l'environnement. C'est la perspective. Je me couche vraiment au sol pour faire les photos.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 26,
+    "question": "Selon l’invitée, l’objectif de ce projet est de…",
+    "options": [
+      "créer des histoires courtes et réalistes",
+      "vendre son produit à l'échelle mondiale",
+      "voir la vie avec une nouvelle perspective",
+      "encourager l'exploration du monde"
+    ],
+    "audio_transcript": "D'abord, parle-nous un petit peu de comment tout ça est arrivé, parce que tu as tout quitté pour créer et mettre sur pied ce projet-là. Oui, oui, moi, je suis une fille de vente et marketing. J'ai travaillé pendant 10 ans dans l'industrie, puis je voyageais pour mon travail, puis j'amenais mes 2 peluches avec moi, Biscuit et Cassonade. Puis je les ai pris en photo pendant une bonne dizaine d'années, puis j'ai eu l'opportunité de réorienter ma carrière, puis je me suis demandée ce que j'aimais vraiment faire. Quand on parle de passion, je me suis dit c'est complètement fou, mais j'aime ça, faire des photos de mes toutous. Puis je me suis dit, j'aimerais ça partager ces belles photos-là. Donc, j'ai commencé à imaginer un modèle d'affaires avec Biscuit et Cassonade. Donc là, je voyais des livres, je me suis dit bon, ce sont des photos, donc les jeunes vont vouloir les peluches. Ils ont tous imaginé un programme de merchandising, la télévision éventuellement. Ça fait que je me suis lancée, puis là, ça fait 3 ans, on a lancé 8 livres. Puis là, on a un beau coffret chez Costco, d'ailleurs, qu'on présente aujourd'hui. Ah oui, avec la peluche. Oui. Et ce, c'est assez content. Ce qui est assez impressionnant, c'est que les peluches sont petites, mais les lieux sont réels. Ce ne sont pas des endroits qui ont été créés spécialement pour prendre les photos pour faire les livres. Ce sont les, tu sais, si on est à Paris, on voit la Tour Eiffel, la vraie Tour Eiffel. C'est ça, parce que c'est un projet d'initiation à la découverte du monde. Donc Biscuit et Cassonade, ils voyagent. Ici, ils sont à Paris, ils sont à New York, ils sont au Mexique. Donc ça, ce sont des lieux réels, ce qui fait qu'ils ne se sentent pas dénaturés dans l'environnement. C'est la perspective. Je me couche vraiment au sol pour faire les photos.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 27,
+    "question": "Selon l’invité, la fiction…",
+    "options": [
+      "renforce les préjugés des troubles psychiques",
+      "éclaircit les idées préconçues sur la santé mentale",
+      "reste neutre sans influencer les perceptions",
+      "s'éloigne trop de la réalité des jeunes"
+    ],
+    "audio_transcript": "Est-ce que la fiction a plutôt tendance à alimenter les préjugés sur la maladie mentale ou, à l’inverse, à clarifier les choses ? Je trouve qu’actuellement, on est à un moment où elle tend à clarifier les choses, puisqu’on a de plus en plus de modèles, comme par exemple la série française Mentale, extrêmement récente, de modèles de manière de parler de la santé mentale de manière positive et aussi de manière plus variée. Donc ça peut aller de la série sur des ados au documentaire, en passant par des films dramatiques ou des comédies, et que tous ces exemples, dans la polyphonie autour du sujet, on peut trouver des exemples positifs qui aident à dédramatiser, à faire mieux comprendre la santé mentale. Est-ce que le fait qu’une célébrité assume publiquement son trouble psychique, eh bien là encore, ça peut aider à déconstruire certaines idées reçues ? Effectivement, on est dans une société où les médias, les personnages publics ont beaucoup de place et ont beaucoup de déco au niveau mondial dans les médias et dans notre société, et donc ils s’emparent de beaucoup de sujets, que ce soit la politique, que ce soit l’art, que ce soit des sujets de société. Et que la santé mentale en fasse partie, c’est finalement un reflet assez juste de la grande prévalence des troubles psychiques dans notre société. Et donc ça, ça peut être une très bonne entrée dans le sujet, un très bon moyen de décoder, de décomplexer aussi vis-à-vis de la maladie mentale, qui reste encore malheureusement trop souvent stigmatisée.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 28,
+    "question": "La discussion sur la santé mentale…",
+    "options": [
+      "est souvent marginalisée par les grands médias",
+      "ne concerne qu'une minorité de la population",
+      "bénéficie de l'engagement des personnalités influentes",
+      "reste un sujet délicat lorsqu'elle concerne les célébrités"
+    ],
+    "audio_transcript": "Est-ce que la fiction a plutôt tendance à alimenter les préjugés sur la maladie mentale ou, à l’inverse, à clarifier les choses ? Je trouve qu’actuellement, on est à un moment où elle tend à clarifier les choses, puisqu’on a de plus en plus de modèles, comme par exemple la série française Mentale, extrêmement récente, de modèles de manière de parler de la santé mentale de manière positive et aussi de manière plus variée. Donc ça peut aller de la série sur des ados au documentaire, en passant par des films dramatiques ou des comédies, et que tous ces exemples, dans la polyphonie autour du sujet, on peut trouver des exemples positifs qui aident à dédramatiser, à faire mieux comprendre la santé mentale. Est-ce que le fait qu’une célébrité assume publiquement son trouble psychique, eh bien là encore, ça peut aider à déconstruire certaines idées reçues ? Effectivement, on est dans une société où les médias, les personnages publics ont beaucoup de place et ont beaucoup de déco au niveau mondial dans les médias et dans notre société, et donc ils s’emparent de beaucoup de sujets, que ce soit la politique, que ce soit l’art, que ce soit des sujets de société. Et que la santé mentale en fasse partie, c’est finalement un reflet assez juste de la grande prévalence des troubles psychiques dans notre société. Et donc ça, ça peut être une très bonne entrée dans le sujet, un très bon moyen de décoder, de décomplexer aussi vis-à-vis de la maladie mentale, qui reste encore malheureusement trop souvent stigmatisée.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 29,
+    "question": "Ce reportage illustre…",
+    "options": [
+      "les difficultés à concilier travail et vie familiale",
+      "les conditions de travail des emplois actuels",
+      "l'importance de faire des études supérieures",
+      "la pression financière ressentie par des parents"
+    ],
+    "audio_transcript": "Après 9 heures de travail, Andrea quitte la station-service qu’il emploie. Un poste à plein temps pour un salaire modeste, environ quatre-mille-cinq-cent francs bruts par mois, allocation familiale comprise. « Je ne gagne pas énormément vu que je n’ai pas un diplôme. C’est tout basé sur mon expérience. Donc je gagne le salaire minimum, même que je suis responsable ici à la station, et puis ça m’oblige à travailler à 100 % sinon je n’arrive pas à entretenir moi mes enfants et puis avoir un peu du plaisir, on va dire ça comme ça. » Cette jeune trentenaire établie dans le Chablais vaudois s’est séparée de son ex-conjoint il y a un peu plus de 2 ans. Le changement de vie est radical. — Coucou. — Coucou. — Ça va ? — Ça va, et toi ? — Tu fais tes devoirs à l’Uni ? — Ouais. « Que là tu es toute seule, tu dois tout payer avec ton salaire, le loyer, le manger et tout. Donc pour moi ce qui est prioritaire, c’est les enfants. Aux enfants, il ne peut pas manquer quelque chose. Moi après, ce n’est pas grave. Mais je… tu arrives à gérer ? Je serre un peu les dents, puis on gère. » Serrer les dents, d’autant qu’Andrea héberge sa sœur depuis le début de l’année dernière. Étudiante en lettres à l’Université de Lausanne, impossible pour Lydia de vivre seule. « C’est un peu une bénédiction de pouvoir être là, de pouvoir payer que cinq-cents francs de loyer entre guillemets, et d’avoir, de savoir qu’en fait, si j’ai faim, si je suis dehors et que je n’ai pas, je n’ai pas assez d’argent, si je rentre ici, peu importe ce que c’est, j’aurai de la nourriture sur la table, et ouais. Ma sœur m’est vraiment venue en aide sur ce coup-là quoi. Je pourrais pas, je pourrais pas survivre sans elle vraiment. » Un soulagement pour Lydia, même si vivre à Roche implique 2 heures de trajet quotidien pour se rendre aux cours. Pour financer ses études, la jeune femme travaille à temps partiel, ses revenus fluctuent beaucoup, mille-cinq-cents francs par mois en moyenne, insuffisant pour subvenir à ses besoins. « Cinq-cents francs ça part directement au loyer, je te laisse quatre-cent francs pour la nourriture et le reste ça va être tout ce qui est téléphone, assurance, abonnement de train, souvent des amendes de train parce que voilà. Du coup, les mois où je suis à six-cents francs, je ne vais pas me permettre de prendre un abonnement à cent-huit-cent-cinq francs au CFF. Donc ma foi, je… enfin, je suis obligée de frauder quoi. Ce n’est même pas que j’ai envie et que je me dis, c’est vraiment que je n’ai pas le choix que de me déplacer, et je ne peux pas faire rush rush Lausanne à pied. »",
+    "right_option": "D"
+  },
+  {
+    "question_no": 30,
+    "question": "Selon ce reportage, Lydia…",
+    "options": [
+      "dispose d'un abonnement de train avantageux",
+      "marche pour éviter les frais de transport chaque mois",
+      "ne paie pas toujours pour les services de transport",
+      "a élaboré un budget strict qui couvre tous ses besoins"
+    ],
+    "audio_transcript": "Après 9 heures de travail, Andrea quitte la station-service qu’il emploie. Un poste à plein temps pour un salaire modeste, environ quatre-mille-cinq-cent francs bruts par mois, allocation familiale comprise. « Je ne gagne pas énormément vu que je n’ai pas un diplôme. C’est tout basé sur mon expérience. Donc je gagne le salaire minimum, même que je suis responsable ici à la station, et puis ça m’oblige à travailler à 100 % sinon je n’arrive pas à entretenir moi mes enfants et puis avoir un peu du plaisir, on va dire ça comme ça. » Cette jeune trentenaire établie dans le Chablais vaudois s’est séparée de son ex-conjoint il y a un peu plus de 2 ans. Le changement de vie est radical. — Coucou. — Coucou. — Ça va ? — Ça va, et toi ? — Tu fais tes devoirs à l’Uni ? — Ouais. « Que là tu es toute seule, tu dois tout payer avec ton salaire, le loyer, le manger et tout. Donc pour moi ce qui est prioritaire, c’est les enfants. Aux enfants, il ne peut pas manquer quelque chose. Moi après, ce n’est pas grave. Mais je… tu arrives à gérer ? Je serre un peu les dents, puis on gère. » Serrer les dents, d’autant qu’Andrea héberge sa sœur depuis le début de l’année dernière. Étudiante en lettres à l’Université de Lausanne, impossible pour Lydia de vivre seule. « C’est un peu une bénédiction de pouvoir être là, de pouvoir payer que cinq-cents francs de loyer entre guillemets, et d’avoir, de savoir qu’en fait, si j’ai faim, si je suis dehors et que je n’ai pas, je n’ai pas assez d’argent, si je rentre ici, peu importe ce que c’est, j’aurai de la nourriture sur la table, et ouais. Ma sœur m’est vraiment venue en aide sur ce coup-là quoi. Je pourrais pas, je pourrais pas survivre sans elle vraiment. » Un soulagement pour Lydia, même si vivre à Roche implique 2 heures de trajet quotidien pour se rendre aux cours. Pour financer ses études, la jeune femme travaille à temps partiel, ses revenus fluctuent beaucoup, mille-cinq-cents francs par mois en moyenne, insuffisant pour subvenir à ses besoins. « Cinq-cents francs ça part directement au loyer, je te laisse quatre-cent francs pour la nourriture et le reste ça va être tout ce qui est téléphone, assurance, abonnement de train, souvent des amendes de train parce que voilà. Du coup, les mois où je suis à six-cents francs, je ne vais pas me permettre de prendre un abonnement à cent-huit-cent-cinq francs au CFF. Donc ma foi, je… enfin, je suis obligée de frauder quoi. Ce n’est même pas que j’ai envie et que je me dis, c’est vraiment que je n’ai pas le choix que de me déplacer, et je ne peux pas faire rush rush Lausanne à pied. »",
+    "right_option": "C"
+  },
+  {
+    "question_no": 31,
+    "question": "De nouveaux billets circulent grâce…",
+    "options": [
+      "à une décision prise en décembre dernier",
+      "au comité ministériel de l'Union monétaire",
+      "à une initiative des banques de l'Afrique centrale",
+      "à l'approbation des chefs d'État de la région"
+    ],
+    "audio_transcript": "De nouveaux billets de banque circulent depuis ce jeudi dans les pays de la Communauté économique de l'Afrique centrale. Leur mise en circulation fait suite à la décision prise le 7 novembre dernier à Douala par le comité ministériel de l'Union monétaire de l'Afrique centrale. Outre cette gamme dite de 2020, les billets en circulation depuis 2002 conservent leur cours légal dans la zone CEMAC.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 32,
+    "question": "La classe régulière est décrite comme…",
+    "options": [
+      "un environnement d'apprentissage motivant et stimulant",
+      "une classe pour les élèves particulièrement talentueux",
+      "un regroupement d'élèves ayant des niveaux différents",
+      "un modèle de discipline et de réussite académique"
+    ],
+    "audio_transcript": "'obtiennent pas l'aide dont ils ont besoin et se ramassent à l'école publique dans ce qu'on appelle la classe régulière. La classe régulière n'a rien de régulier. Elle est formée des laissés-pour-compte, de ceux qui restent entre guillemets, des élèves qui n'ont pas réussi à se qualifier au projet pédagogique particulier, à ceux qui ne sont pas nés dans une bassine de chance et ceux qui voudraient bien apprendre, mais qui doivent patienter le temps que leurs profs finissent d'aider ceux qui traînent la patte ou qui plantent leurs poings dans le mur. La voilà la classe de madame Isabelle, celle qui manque de discipline.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 33,
+    "question": "Ce document met en lumière…",
+    "options": [
+      "les bienfaits souvent négligés du journal intime",
+      "la tendance des jeunes vers des activités superflues",
+      "l'inefficacité évidente des innovations technologiques",
+      "l'idée d'un journal intime moderne sur écran"
+    ],
+    "audio_transcript": "Je ne coûte quasiment rien, je suis très écologique, accessible à tout le monde. Les études scientifiques montrent que je fais un bien fou à la main et au corps, et pourtant, de moins en moins d'humains s'intéressent à moi et encore moins me fréquentent. Qui suis-je ? Le journal intime. Oui, je sais, le journal intime, c'est ringard, c'est daté, ces fleurs bleues, c'est plein de clichés, à l'opposé de la modernité des écrans imbéciles bleutés branchés. Je m'en fous. Tenir un journal, c'est peut-être une activité vieillotte et à contre-courant, mais après tout, marcher ou jardiner aussi, c'est vieillot et à contre-courant. Or, nous savons aujourd'hui quelques bonnes raisons de nous méfier de tout ce qui est moderne et dans le courant. Souvent, ça n'est là que pour manipuler nos cerveaux.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 34,
+    "question": "Ce document traite de…",
+    "options": [
+      "l'impact économique de la crise énergétique en Afrique",
+      "l'ascension du Sénégal en tant que puissance pétrolière",
+      "les retombées géopolitiques de la production de pétrole",
+      "des pays africains les plus riches en ressources gazières"
+    ],
+    "audio_transcript": "Le vingtième membre de l'organisation, qui comportera désormais huit pays africains dont le Nigeria et l'Angola. Le GECF, encore appelé l'OPEP du gaz, n'est pas aussi puissant que sa cousine pétrolière, mais en pleine crise énergétique mondiale, son poids géopolitique ne fait que se renforcer. Les GECF pèsent soixante-dix pour cent des réserves mondiales de gaz et quarante-trois pour cent de la production. Avec ces deux millions et demi de tonnes de gaz qui sortiront chaque année dès l'an prochain de son sous-sol, le Sénégal sera un petit producteur, mais il pourra peser sur les décisions du cartel.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 35,
+    "question": "La manifestation s’est tenue en réponse à…",
+    "options": [
+      "la réponse de la Ville concernant une statue dans un parc",
+      "une décision politique du Premier ministre du Canada",
+      "une campagne pour ériger de nouveaux monuments",
+      "des propositions de réconciliation avec les Autochtones"
+    ],
+    "audio_transcript": "Et des manifestants ont déboulé cet après-midi la statue de John A. McDonald dans un parc d'Hamilton. Les manifestants ont utilisé une corde qu'ils ont attachée autour du cou de la statue avant de la faire tomber au sol. Le rassemblement était organisé pour protester contre le vote du conseil municipal en faveur du maintien de cette statue dans le parc. Je vous rappelle que l'ancien Premier ministre du Canada, John A. McDonald, est décrié en raison de son rôle dans la fondation des pensionnats pour autochtones au pays.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 36,
+    "question": "Le chroniqueur se moque…",
+    "options": [
+      "de la créativité des artistes contemporains",
+      "du vandalisme spontané d'oeuvres célèbres",
+      "de l'empreinte environnementale de l'art",
+      "des méthodes des militants pour le climat"
+    ],
+    "audio_transcript": "C'est juste avant de se coller les mains au mur que deux activistes climatiques britanniques ont jeté une soupe à la tomate sur les tournesols de Vincent Van Gogh. Ah ça, ça m'a irrité, moi j'aime bien la soupe à la tomate, quel gâchis ! Puis si tu lances la soupe sur une toile blanche, du coup c'est un happening d'art contemporain, tu peux revendre ça 500 000 balles facilement et ensuite planter quelques arbres dans la foulée. En tout cas, ça a beaucoup fait parler cette histoire. Pourtant, ce n'est pas la première fois que les activistes ciblent une œuvre d'art. Par exemple, ici même au musée des beaux-arts à Lausanne, il y a un mois, deux militants se sont collés la main à un tableau de Giovanni Giacometti.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 37,
+    "question": "L’analogie utilisée montre…",
+    "options": [
+      "l'inefficacité des discours politiques",
+      "la nature hypocrite de certains dirigeants",
+      "le danger de la dépendance aux ressources",
+      "la détermination des jeunes activistes"
+    ],
+    "audio_transcript": "Donc à Davos, avec Vanessa, il y avait Greta Thunberg, d'autres jeunes militants écologistes de divers pays. Ces jeunes ne sont venus rappeler aux vieux qui dirigent notre monde que leur mauvaise gestion hypothèque sévèrement notre avenir à tous avec les pillages des ressources, les pollutions, l'accroissement des inégalités, les évasions fiscales et j'en passe. C'est quand même curieux comme démarche, non ? C'est un peu comme aller voir un mafieux pour lui dire : « Arrêtez de vendre de la drogue, ça rend vos clients dépendants et malheureux. » Ou aller voir un marchand d'armes pour lui dire : « Arrêtez de vendre des armes, ça alimente les conflits et ça tue les gens. » Non mais c'est sûr que le dealer ou le marchand d'armes va répondre : « Mais justement, c'est ça le but, mon coco. »",
+    "right_option": "B"
+  },
+  {
+    "question_no": 38,
+    "question": "Les activités du projet doivent…",
+    "options": [
+      "être conçues par des jeunes motivés et brillants",
+      "être basées sur des modèles éducatifs approuvés",
+      "refléter les réalités socioculturelles des participantes",
+      "être obligatoires pour toutes les jeunes filles de la région"
+    ],
+    "audio_transcript": "C'est le projet Émeraude. Pierre Antoine, qui est un projet à part entière dans l'organisme Motivation, justement, qui a pour mission de prévenir le décrochage scolaire, la sédentarité et la délinquance chez les jeunes en milieu défavorisé. Et donc le projet Émeraude pour ce cas-ci est dédié aux jeunes filles et femmes de 10 à 25 ans dans ces milieux d'intervention-là. On a pour but de promouvoir les activités qui sont adaptées à leurs réalités, leurs intérêts et pour vraiment développer leur potentiel.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 39,
+    "question": "Le temps est décrit comme…",
+    "options": [
+      "gris et nuageux",
+      "clément et agréable",
+      "pluvieux et doux",
+      "venteux et sec"
+    ],
+    "audio_transcript": "Ce jeudi, une zone de basse pression circulera près de la Suisse, sa trajectoire passera par le sud de l'Allemagne et le nord de la France, mais elle aura également un impact sur les conditions météorologiques dans nos régions. Le temps sera plutôt maussade avec des précipitations à prévoir. La limite de la neige sera d'environ 1000 mètres dans le nord du Jura le matin et 2500 mètres dans les Alpes. Au lever du jour, la température sera de 4 à 5 degrés, voire 6 autour du Léman et en Valais.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 40,
+    "question": "Ce document aborde…",
+    "options": [
+      "l'absence prolongée des vedettes du tennis",
+      "la préparation d'un tournoi de tennis majeur",
+      "une compétition de tennis amateur",
+      "la fermeture de l'Omnium Banque nationale"
+    ],
+    "audio_transcript": "Après une année d'absence, les grandes vedettes de la scène mondiale du tennis sont de retour à l'omnium Banque Nationale. Ce week-end, ce sont les qualifications et les matchs du premier tour du tournoi, eux débuteront lundi. Cinq mille spectateurs pourront y assister par séance, et certains attendaient ce moment depuis longtemps.",
+    "right_option": "B"
+  }
+]

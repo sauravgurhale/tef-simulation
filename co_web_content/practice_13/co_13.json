@@ -1,5 +1,482 @@
-{
-  "practice": 13,
-  "title": "CO Practice 13",
-  "items": []
-}
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_13_images/co-13-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Salut, tu es où en ce moment ? Je suis au café près du parc, et toi ?",
+    "right_option": "D"
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_13_images/co-13-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Qu'est-ce qu'on pourrait offrir à Julie pour son anniversaire ? J'ai pensé à un livre, mais elle en a déjà beaucoup. Dans ce cas, pourquoi pas un téléphone portable ? Pulcia est gâtée en ce moment.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_13_images/co-13-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Ça fait longtemps qu'on ne s'est pas vu. Tu fais quoi comme boulot maintenant ? J'ai travaillé comme serveur pendant 4 ans, mais maintenant, je suis chef cuisinier dans un grand hôtel de la place.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_13_images/co-13-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "As-tu vu la nouvelle émission sur les chiens et les chats hier soir ? Non, par contre, j'ai regardé un documentaire sur la fabrication des médicaments et je l'ai trouvé très intéressant.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 5,
+    "question": "D’après l’annonce…",
+    "options": [
+      "Le parc est très bien sécurisé.",
+      "Les visiteurs ne doivent pas donner à manger aux bêtes.",
+      "Les visiteurs ne doivent pas courir dans le parc.",
+      "Les animaux présents au parc sont en santé."
+    ],
+    "audio_transcript": "Attention, chers visiteurs. Pour la sécurité de tous et la santé des animaux, merci de ne pas les nourrir. Votre coopération est essentielle. Nous vous souhaitons de passer d'agréables moments dans nos locaux, tout en vous remerciant pour votre compréhension.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 6,
+    "question": "Le message annonce…",
+    "options": [
+      "La fermeture du pavillon.",
+      "Le début de la conférence.",
+      "Un changement de salle.",
+      "La fin de la conférence."
+    ],
+    "audio_transcript": "Mesdames, messieurs. Veuillez noter que la conférence sur les innovations technologiques, censée se tenir au pavillon central, se tiendra plutôt au pavillon B. Merci de votre attention et bonne participation.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 7,
+    "question": "Ce message annonce que…",
+    "options": [
+      "Le stand proposera d'autres attractions.",
+      "Le stand ne sera pas opérationnel pendant une heure.",
+      "Le stand fermera définitivement à partir de 15 heures.",
+      "Les opérations de maintenance sont reportées."
+    ],
+    "audio_transcript": "Chers visiteurs, veuillez noter que le stand d'exposition temporaire fermera ses portes en maintenance à partir de 15 heures et rouvrira à 16 heures. Nous vous remercions de votre compréhension et vous invitons à profiter des autres attractions en attendant.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 8,
+    "question": "Les visiteurs sont invités à…",
+    "options": [
+      "Prendre part à un voyage",
+      "Découvrir la région.",
+      "Sortir du hall principal",
+      "Participer à une dégustation."
+    ],
+    "audio_transcript": "Bonjour à tous. Vous êtes tous conviés dans le hall principal, pour découvrir de délicieuses spécialités de notre région. Ne manquez pas cette opportunité, de prendre part à ce voyage culturel aux 1000 saveurs.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Annoncer l'arrivée des clients.",
+      "Demander de traduire des documents",
+      "Planifier un déplacement à l'est.",
+      "Demander le document d'un projet en urgence."
+    ],
+    "audio_transcript": "Bonjour Adrien, c'est Gérald. Peux-tu t'occuper de la traduction de la documentation du projet communautaire de l'Est ? Nos clients espagnols arrivent d'après-demain, c'est urgent. Merci d'avance et bonne journée.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Féliciter Sylvia.",
+      "Prendre des nouvelles.",
+      "Lire un livre.",
+      "Découvrir un travail."
+    ],
+    "audio_transcript": "Salut Sylvia, comment vas-tu ce matin ? Je t'appelle pour te dire bravo pour la sortie de ton nouveau livre. C'est une belle réussite et je suis très fière de toi. J'ai hâte de le lire et de découvrir ton travail. À bientôt.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Réserver un vol pour Istanbul.",
+      "Organiser un conseil d'administration.",
+      "Donner une instruction.",
+      "Proposer à son ami de visiter Istanbul."
+    ],
+    "audio_transcript": "Bonsoir Stéphane. Merci de réserver les places pour le vol de 4 heures demain matin pour Istanbul. Il est crucial que nous arrivions tôt pour ne pas manquer le début du conseil d'administration.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Savoir où se trouve le centre sportif.",
+      "Obtenir des renseignements.",
+      "Commencer des cours d’haltérophilie.",
+      "Proposer un service urgent."
+    ],
+    "audio_transcript": "Bonjour, je suis intéressé par vos cours d'haltérophilie, mais j'aimerais en savoir davantage, notamment le prix et le lieu exact. Pouvez-vous me les communiquer urgemment ? Merci.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Planifier une sortie entre amis.",
+      "Inviter son mari à un dîner spectacle.",
+      "Savoir comment vont les enfants.",
+      "Informer d'un retour tardif."
+    ],
+    "audio_transcript": "Salut mon chéri. Comment vas-tu ? Juste pour te dire que je vais rentrer à la maison aux alentours de minuit. En fait, mes amis viennent de m'inviter à un dîner spectacle, et je compte m'y rendre directement après le travail. Bisou aux enfants.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 14,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Récupérer son colis.",
+      "Expédier un colis.",
+      "Connaître une localisation.",
+      "L'accompagner au bureau de postes."
+    ],
+    "audio_transcript": "Salut Jérôme, c'est Sacha. Dis-moi où se trouve exactement le bureau de poste du sixième arrondissement ? Je voudrais urgemment retirer un colis ce matin. J'attends ton appel.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est pour la suppression des émissions de téléréalité.",
+      "Est contre la suppression des émissions de téléréalité.",
+      "Suggère une diffusion vraiment limitée des émissions de téléréalité.",
+      "A du mal à se prononcer sur la question."
+    ],
+    "audio_transcript": "Les émissions de téléréalité sont critiquées pour leur impact négatif sur les valeurs sociales et la santé mentale des participants, mais elles sont populaires, offrent une diversité de contenus et créent des emplois. Donc, supprimer ces émissions limiterait la liberté de choix des téléspectateurs.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est pour la suppression des émissions de téléréalité.",
+      "Est contre la suppression des émissions de téléréalité.",
+      "Suggère une diffusion vraiment limitée des émissions de téléréalité.",
+      "A du mal à se prononcer sur la question."
+    ],
+    "audio_transcript": "Il faut supprimer les émissions de téléréalité car elles promeuvent des valeurs superficielles, elles ont un impact néfaste sur la santé mentale des participants et dégradent la qualité des contenus télévisuels. Cela influence négativement les jeunes.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est pour la suppression des émissions de téléréalité.",
+      "Est contre la suppression des émissions de téléréalité.",
+      "Suggère une diffusion vraiment limitée des émissions de téléréalité.",
+      "A du mal à se prononcer sur la question."
+    ],
+    "audio_transcript": "La question de supprimer les émissions de téléréalité est complexe. D'un côté, elles ont des effets négatifs sur les valeurs sociales, mais de l'autre, elles sont populaires et génèrent des emplois. Il est donc difficile de trancher sans tous les aspects.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est totalement pour la présence des animaux de compagnie au bureau.",
+      "Est totalement contre la présence des animaux de compagnie au bureau.",
+      "Serait pour la présence des animaux de compagnie au bureau sous certaines conditions.",
+      "Ne se prononce pas sur la question."
+    ],
+    "audio_transcript": "Je suis fermement opposé à la présence des animaux de compagnie au bureau. Ils peuvent causer des allergies, des distractions, des conflits entre collègues, et créer un environnement de travail moins professionnel.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est totalement pour la présence des animaux de compagnie au bureau.",
+      "Est totalement contre la présence des animaux de compagnie au bureau.",
+      "Serait pour la présence des animaux de compagnie au bureau sous certaines conditions.",
+      "Ne se prononce pas sur la question."
+    ],
+    "audio_transcript": "Je suis totalement pour la présence des animaux de compagnie au bureau. En fait, ils réduisent le stress, augmentent la productivité et améliorent très bien le moral de l'équipe, sans oublier qu'ils favorisent un environnement de travail plus détendu et plus convivial.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est totalement pour la présence des animaux de compagnie au bureau.",
+      "Est totalement contre la présence des animaux de compagnie au bureau.",
+      "Serait pour la présence des animaux de compagnie au bureau sous certaines conditions.",
+      "Ne seprononce pas sur la question."
+    ],
+    "audio_transcript": "Je suis pour la présence des animaux de compagnie au bureau, à condition que des mesures soient prises comme des zones dédiées, des règles de propreté strictes et le consentement de tous les employés. Cela garantirait un environnement harmonieux et sans stress pour tout le monde.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 21,
+    "question": "D’après cette chronique…",
+    "options": [
+      "Aujourd'hui, le chat cause moins de dégâts à la biodiversité.",
+      "Les chats bien nourris ne sont pas intéressés par la chasse.",
+      "Les français démontrent une certaine baisse d'intérêt pour les chats.",
+      "Les chats causent une mortalité de la faune considérablement élevée."
+    ],
+    "audio_transcript": "C'est l'animal préféré des Français, le chat. On compte 12 000 000 de petits félins dans les foyers, mais le chat est un redoutable prédateur. Pour évaluer les dégâts qu'il cause à la biodiversité, le Muséum national d'histoire naturelle lance une enquête participative sur internet. Observez le comportement de votre animal, comptabilisez le nombre de proies qu'il rapporte à la maison et, si vous voulez aller plus loin, votre compagnon pourra être équipé de traceurs GPS pendant quelques jours et de caméras miniaturisées. Il s'agit de mieux connaître son territoire et son comportement de prédation, car même bien nourri, le chat chasse et, bien souvent, il ne mange pas ses proies. Alors on connaît son appétit pour les rongeurs. C'est d'ailleurs pour cette raison que les agriculteurs du Moyen Âge lui ont ouvert les portes de leurs fermes pour veiller aux grains, pour protéger leurs récoltes de céréales, mais il tue aussi des insectes, des oiseaux, on estime que plus de 50 espèces peuvent figurer à son menu en Europe occidentale.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 22,
+    "question": "Cette chronique révèle que…",
+    "options": [
+      "Le beurre a perdu sa place de symbole culinaire en France.",
+      "L'augmentation du prix du beurre a fait chuter sa consommation.",
+      "Le beurre est en perte de vitesse dans l'Hexagone.",
+      "Le beurre est remplacé par des alternatives beaucoup moins coûteuses."
+    ],
+    "audio_transcript": "Bonjour à tous. Aujourd'hui, nous allons parler de la relation des Français avec le beurre. Traditionnellement, le beurre est un pilier de la cuisine française, utilisé dans une multitude de plats et pâtisseries. Cependant, ces dernières années, sa consommation a diminué. Plusieurs facteurs expliquent cette tendance : une prise de conscience accrue des préoccupations de santé, des changements de régime alimentaire vers des options perçues comme plus saines et l'essor des alternatives comme les margarines et les huiles végétales. Malgré cela, le beurre reste un symbole culinaire en France, apprécié pour son goût et son rôle dans la gastronomie. Il demeure essentiel, mais sa consommation s'adapte aux nouvelles habitudes alimentaires.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 23,
+    "question": "Quel thème convient le mieux à cet entretien ?",
+    "options": [
+      "L'éducation autoritaire et ses conséquences sur les adolescents.",
+      "Comment remettre les mineurs délinquants dans le droit chemin.",
+      "L'autorité parentale et ses effets pervers sur la délinquance des mineurs.",
+      "Chercher des distractions pour éviter les émotions."
+    ],
+    "audio_transcript": "Une partie de notre jeunesse est malade et bascule dans une délinquance devenue incontrôlable, c'est l'inquiétude numéro un, l'urgence absolue du moment. Pour y remédier, vous ambitionnez, vous la ministre de la Ville et de la Citoyenneté, de rétablir l'autorité des parents sur les adolescents. Comment comptez-vous y répondre ? J'ambitionne surtout de rénover cette stratégie de la prévention de la délinquance qui n'a pas été faite depuis maintenant quelques années, ça c'est la première chose. J'ambitionne, et ce n'est pas seulement la ministre qui parle, c'est aussi la maman du nadeau. J'ambitionne de dire aux parents : parents, reprenez confiance en l'autorité, c'est vous l'autorité. Le premier visage d'autorité qu'un adolescent envoie et qu'un enfant voit ce sont les parents. Donc, reprendre confiance dans l'autorité, c'est-à-dire savoir dire : c'est bien, c'est mal, tu as le droit, tu n'as pas le droit. Je veux revenir sur quelque chose qui me frappe ces dernières années, c'est de penser qu'un adolescent a une vie privée. Un adolescent est un mineur, donc les parents ont le droit de fouiller dans le téléphone, de chercher quelque chose dans la chambre si jamais il y a des stupéfiants par exemple. Je crois qu'on doit se mêler plus de la vie de leurs enfants. Ils doivent s'occuper plus. Non seulement se mêler plus, mais pour les protéger. Ce n'est pas se mêler pour se mêler, bien sûr que chacun a droit à son petit jardin secret. Alors on parle de jardin secret ? Oui, il n'y a pas de problème. Non, mais moi, non seulement je surveille, non seulement je me mêle, non seulement je protège et non seulement je sanctionne s'il y a un problème.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 24,
+    "question": "Selon l’invité, quelle mesure prendre pour éviter la délinquance chez les adolescents ?",
+    "options": [
+      "Laisser les adolescents jouir d'une totale vie privée",
+      "Restaurer la discipline parentale auprès des adolescents.",
+      "Confisquer leurs téléphones et contrôler leurs chambres.",
+      "Moins sanctionner les adolescents pour ne pas affecter leur santé mentale."
+    ],
+    "audio_transcript": "Une partie de notre jeunesse est malade et bascule dans une délinquance devenue incontrôlable, c'est l'inquiétude numéro un, l'urgence absolue du moment. Pour y remédier, vous ambitionnez, vous la ministre de la Ville et de la Citoyenneté, de rétablir l'autorité des parents sur les adolescents. Comment comptez-vous y répondre ? J'ambitionne surtout de rénover cette stratégie de la prévention de la délinquance qui n'a pas été faite depuis maintenant quelques années, ça c'est la première chose. J'ambitionne, et ce n'est pas seulement la ministre qui parle, c'est aussi la maman du nadeau. J'ambitionne de dire aux parents : parents, reprenez confiance en l'autorité, c'est vous l'autorité. Le premier visage d'autorité qu'un adolescent envoie et qu'un enfant voit ce sont les parents. Donc, reprendre confiance dans l'autorité, c'est-à-dire savoir dire : c'est bien, c'est mal, tu as le droit, tu n'as pas le droit. Je veux revenir sur quelque chose qui me frappe ces dernières années, c'est de penser qu'un adolescent a une vie privée. Un adolescent est un mineur, donc les parents ont le droit de fouiller dans le téléphone, de chercher quelque chose dans la chambre si jamais il y a des stupéfiants par exemple. Je crois qu'on doit se mêler plus de la vie de leurs enfants. Ils doivent s'occuper plus. Non seulement se mêler plus, mais pour les protéger. Ce n'est pas se mêler pour se mêler, bien sûr que chacun a droit à son petit jardin secret. Alors on parle de jardin secret ? Oui, il n'y a pas de problème. Non, mais moi, non seulement je surveille, non seulement je me mêle, non seulement je protège et non seulement je sanctionne s'il y a un problème.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 25,
+    "question": "Selon ces chercheurs…",
+    "options": [
+      "Les poules ont des réponses émotionnelles visibles et mesurables.",
+      "La théorie selon laquelle les poules sont dotées d'émotions est absurde.",
+      "La peau de certaines poules rougit généralement sous les plumes lorsqu'elles sont au repos.",
+      "Les poules n'ont aucune réaction émotionnelle face au stress."
+    ],
+    "audio_transcript": "Les poules aussi rougissent, et lorsqu'elles ressentent des émotions, c'est le constat très sérieux établi par les chercheurs de l'INRA, l’Institut National de Recherche sur l’Environnement, l’Agriculture et l’Alimentation. Et oui, le rose qui monte aux joues, ça n'arrive pas qu'aux humains, les poules aussi peuvent changer de couleur au niveau de la crête ou autour du bec. En cas d'émotions fortes, elles peuvent ainsi rougir de plaisir face à certains aliments appétissants ou devenir écarlates quand on les capture ou lorsqu'elles se retrouvent en présence d'un être humain inconnu. En revanche, dans un contexte de repos, leur peau apparaît beaucoup plus claire. C'est ce qu'ont très sérieusement établi des chercheurs Inrahe de l'unité du Centre-Val de Loire. Alors, comment les chercheurs se sont-ils aperçus de ce rougissement sous les plumes ? Eh bien, ces chercheurs ont été aidés par un logiciel d'analyse d'image qui a calculé le taux de rouge sur la peau des poules là où il y a moins de plumes. Pour alimenter ce logiciel, l'équipe a filmé le comportement de 6 poules domestiques dans un verger durant 3 semaines, et les chercheurs ont ainsi pu isoler dix-huit mille images de ces poules dans différents contextes de calme ou de stress. Mais alors, quelles peuvent être les applications de ces travaux de recherche ? À quoi ça sert de savoir que les poules changent de couleur en cas d'émotions fortes ? C'est une bonne question. Eh bien, ça peut servir à améliorer le bien-être animal. La semaine dernière, souvenez-vous, l’ANSES, l’Agence Française de Sécurité Sanitaire de l’Alimentation, a proposé la mise en place d'un nouvel étiquetage pour informer les consommateurs sur les conditions d'élevage de la viande qu'ils achètent, une sorte de triscore avec des lettres de A à E pour noter le bien-être animal dans la filière de production. Et bien justement, des critères comme le rougissement des volailles pourraient aider à la mise en place de conditions d'élevage vertueuses. D'ailleurs, depuis quelques années, d'autres équipes de chercheurs ont aussi travaillé sur le cri des chèvres ou encore le grognement des cochons, et ils ont réussi grâce à l'intelligence artificielle à repérer les vocalises qui expriment de la faim, de la douleur, de la rivalité ou au contraire de la complicité entre congénères.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 26,
+    "question": "Les résultats de cette recherche permettront…",
+    "options": [
+      "D'améliorer le comportement des animaux dans les fermes.",
+      "De déterminer un nouvel indicateur du bien-être animal.",
+      "La mise sur pied de techniques visant à promouvoir un élevage écoresponsable.",
+      "De faciliter la domestication des animaux."
+    ],
+    "audio_transcript": "Les poules aussi rougissent, et lorsqu'elles ressentent des émotions, c'est le constat très sérieux établi par les chercheurs de l'INRA, l’Institut National de Recherche sur l’Environnement, l’Agriculture et l’Alimentation. Et oui, le rose qui monte aux joues, ça n'arrive pas qu'aux humains, les poules aussi peuvent changer de couleur au niveau de la crête ou autour du bec. En cas d'émotions fortes, elles peuvent ainsi rougir de plaisir face à certains aliments appétissants ou devenir écarlates quand on les capture ou lorsqu'elles se retrouvent en présence d'un être humain inconnu. En revanche, dans un contexte de repos, leur peau apparaît beaucoup plus claire. C'est ce qu'ont très sérieusement établi des chercheurs Inrahe de l'unité du Centre-Val de Loire. Alors, comment les chercheurs se sont-ils aperçus de ce rougissement sous les plumes ? Eh bien, ces chercheurs ont été aidés par un logiciel d'analyse d'image qui a calculé le taux de rouge sur la peau des poules là où il y a moins de plumes. Pour alimenter ce logiciel, l'équipe a filmé le comportement de 6 poules domestiques dans un verger durant 3 semaines, et les chercheurs ont ainsi pu isoler dix-huit mille images de ces poules dans différents contextes de calme ou de stress. Mais alors, quelles peuvent être les applications de ces travaux de recherche ? À quoi ça sert de savoir que les poules changent de couleur en cas d'émotions fortes ? C'est une bonne question. Eh bien, ça peut servir à améliorer le bien-être animal. La semaine dernière, souvenez-vous, l’ANSES, l’Agence Française de Sécurité Sanitaire de l’Alimentation, a proposé la mise en place d'un nouvel étiquetage pour informer les consommateurs sur les conditions d'élevage de la viande qu'ils achètent, une sorte de triscore avec des lettres de A à E pour noter le bien-être animal dans la filière de production. Et bien justement, des critères comme le rougissement des volailles pourraient aider à la mise en place de conditions d'élevage vertueuses. D'ailleurs, depuis quelques années, d'autres équipes de chercheurs ont aussi travaillé sur le cri des chèvres ou encore le grognement des cochons, et ils ont réussi grâce à l'intelligence artificielle à repérer les vocalises qui expriment de la faim, de la douleur, de la rivalité ou au contraire de la complicité entre congénères.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 27,
+    "question": "Quel est l’avis général de l’invité sur la suppression des emplois aidés ?",
+    "options": [
+      "Elle pense que c'est une décision justifiée.",
+      "Elle trouve que c'est une résolution contestable.",
+      "Elle est totalement en faveur de cette suppression.",
+      "Elle n'a pas d'avis sur la question."
+    ],
+    "audio_transcript": "Bonjour Blandine Meryl, merci de nous rejoindre. Aujourd'hui, nous allons parler de la suppression des emplois aidés. En quelques mots, quel est votre avis général sur cette suppression ? Bonjour, merci de m'accueillir. La suppression des emplois aidés est une décision controversée. Ces dispositifs ont été essentiels pour aider des personnes en difficulté à retrouver un emploi et pour soutenir des secteurs comme les associations et les collectivités locales. Leur disparition risque de créer un vide important, surtout pour les structures qui dépendent fortement de ce soutien pour fonctionner. Alors, nous sommes curieux de savoir quelles alternatives proposez-vous pour compenser la suppression des emplois aidés ? Pour compenser cette suppression, il est crucial de mettre en place des politiques d'emploi plus durables. Cela pourrait inclure des programmes de formation professionnelle adaptés aux besoins du marché du travail, des incitations pour les entreprises qui embauchent des personnes en difficulté, et un soutien accru aux petites et moyennes entreprises locales. Il est également important de développer des solutions spécifiques pour les associations et les collectivités, peut-être sous forme de subventions ou de nouveaux types de contrats aidés, pour qu'elles puissent fournir leurs services essentiels. Merci beaucoup Blandine Meryl pour ces réponses, ce fut un plaisir.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 28,
+    "question": "Quelle alternative propose Blandine Meril pour compenser la suppression des emplois aidés ?",
+    "options": [
+      "Abandonner toute forme de soutien aux associations et collectivités.",
+      "Investir dans des secteurs porteurs, susceptibles de créer de nombreux emplois.",
+      "Réduire les subventions gouvernementales.",
+      "La mise en œuvre de politiques d'emploi pérennes."
+    ],
+    "audio_transcript": "Bonjour Blandine Meryl, merci de nous rejoindre. Aujourd'hui, nous allons parler de la suppression des emplois aidés. En quelques mots, quel est votre avis général sur cette suppression ? Bonjour, merci de m'accueillir. La suppression des emplois aidés est une décision controversée. Ces dispositifs ont été essentiels pour aider des personnes en difficulté à retrouver un emploi et pour soutenir des secteurs comme les associations et les collectivités locales. Leur disparition risque de créer un vide important, surtout pour les structures qui dépendent fortement de ce soutien pour fonctionner. Alors, nous sommes curieux de savoir quelles alternatives proposez-vous pour compenser la suppression des emplois aidés ? Pour compenser cette suppression, il est crucial de mettre en place des politiques d'emploi plus durables. Cela pourrait inclure des programmes de formation professionnelle adaptés aux besoins du marché du travail, des incitations pour les entreprises qui embauchent des personnes en difficulté, et un soutien accru aux petites et moyennes entreprises locales. Il est également important de développer des solutions spécifiques pour les associations et les collectivités, peut-être sous forme de subventions ou de nouveaux types de contrats aidés, pour qu'elles puissent fournir leurs services essentiels. Merci beaucoup Blandine Meryl pour ces réponses, ce fut un plaisir.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 29,
+    "question": "Que s’est-il passé dans cette région, des années auparavant ?",
+    "options": [
+      "Des atrocités ont été commises.",
+      "Une évasion massive de prisonniers de guerre.",
+      "Une catastrophe naturelle a détruit le village.",
+      "Les petits-enfants des martyrs ont organisé un mémoriel."
+    ],
+    "audio_transcript": "Mon grand-père faisait des gâteaux. Quand il est sorti, il y avait un Allemand, un SS, dans la porte. Il lui a dit : « Ouais, mais moi, j'ai des gâteaux au four, qu'est-ce qu'on en fait ? » Et le SS lui a répondu en français : « Ne vous inquiétez pas, vous, bientôt, on s'en occupe. » Et puis mon grand-père a été avec les autres hommes, il a été fusillé. L'église a été brûlée. On est juste en face là, de la pâtisserie du café Quentin, qui étaient mes grands-parents, face donc à ce qu'il reste de la façade. — Oui, de la façade, oui. Il n'y a que le vent pour troubler le silence des ruines de retour sur Glane. La nature et le temps sont à l'œuvre sur ce qu'il reste de l'ancien café des grands-parents de Maurice Gautier, où des fissures, les arbres de la devanture. Façades ne tiennent plus, les murs sur les côtés tiennent à peine. Enfin, la tempête à quatre-vingt-dix-neuf a fait énormément de mal. Donc, comme celle-ci, là, il y en avait plein dans le pot. Celle-là a résisté, mais il y en a beaucoup qui sont tombés ce jour-là. C'est pour cette raison qu'un appel au don a été lancé il y a un an par la Fondation du Patrimoine. L'argent récolté devrait en priorité permettre de restaurer les façades des habitations, explique Benoît Sannery, président de l'Association Nationale des Familles des Martyrs de Ralent-sur-Glane. Conserver les bâtiments en élévation parce que ce n'est pas seulement un village avec une église et dix maisons en tout, c'était un village où il y avait trois cents bâtiments, parmi lesquels cent vingt maisons d'habitation. Donc c'est aussi l'un des choix qui explique le choix d'Oradour par les nazis aujourd'hui. On a l'exemple, par exemple, de Litchi en République tchèque, un village à peu près aussi important qu'Oradour, mais il ne reste absolument rien. Et en fait, la mémoire a plus de mal à se faire puisque il n'y a plus de traces physiques. Conserver la mémoire du massacre dans la pierre est d'autant plus important que le dernier survivant est mort l'année dernière. Je m'appelle Agathe Ebraz, je suis la petite-fille de Robert Ebraz, qui était le dernier témoin du massacre d'Oradour. Je me souviens l'avoir entendu dire : « Ah tiens, ça, c'est ce mur-là, il est tombé, cet objet-là, je ne le vois plus. » Et donc, on va dire, sur les dix dernières années, il a souvent alerté sur le fait qu'il fallait qu'on fasse attention aux ruines. Les ruines tombent en ruines, la difficulté est donc de réparer sans dénaturer. On ne peut pas reconstruire parce que ça n'a pas de sens de reconstruire une ruine. Donc il faut conserver un bâtiment en ruine dans le meilleur état de destruction possible. Donc il va falloir faire des choix, bâtiment par bâtiment, pour savoir si dans certains cas, on ne fait pas un peu de reconstruction pour pouvoir maintenir un îlot. Mais c'est vraiment une question de conservation qui est extrêmement délicate, le cas de la ville. Des travaux vont commencer, car huit cent mille euros de dons ont déjà été collectés sur les vingt millions que coûte la restauration du site. La différence sera prise en charge par l'État.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 30,
+    "question": "Quel est l’objectif principal de la collecte lancée par la Fondation du patrimoine ?",
+    "options": [
+      "Construire un nouveau mémorial à Oradour-sur-Glane.",
+      "Financer des projets éducatifs pour les écoles locales d'Oradour-sur-Glane.",
+      "Stabiliser et rénover certaines parties des ruines d'Oradour-sur-Glane.",
+      "Organiser des événements culturels dans la région."
+    ],
+    "audio_transcript": "Mon grand-père faisait des gâteaux. Quand il est sorti, il y avait un Allemand, un SS, dans la porte. Il lui a dit : « Ouais, mais moi, j'ai des gâteaux au four, qu'est-ce qu'on en fait ? » Et le SS lui a répondu en français : « Ne vous inquiétez pas, vous, bientôt, on s'en occupe. » Et puis mon grand-père a été avec les autres hommes, il a été fusillé. L'église a été brûlée. On est juste en face là, de la pâtisserie du café Quentin, qui étaient mes grands-parents, face donc à ce qu'il reste de la façade. — Oui, de la façade, oui. Il n'y a que le vent pour troubler le silence des ruines de retour sur Glane. La nature et le temps sont à l'œuvre sur ce qu'il reste de l'ancien café des grands-parents de Maurice Gautier, où des fissures, les arbres de la devanture. Façades ne tiennent plus, les murs sur les côtés tiennent à peine. Enfin, la tempête à quatre-vingt-dix-neuf a fait énormément de mal. Donc, comme celle-ci, là, il y en avait plein dans le pot. Celle-là a résisté, mais il y en a beaucoup qui sont tombés ce jour-là. C'est pour cette raison qu'un appel au don a été lancé il y a un an par la Fondation du Patrimoine. L'argent récolté devrait en priorité permettre de restaurer les façades des habitations, explique Benoît Sannery, président de l'Association Nationale des Familles des Martyrs de Ralent-sur-Glane. Conserver les bâtiments en élévation parce que ce n'est pas seulement un village avec une église et dix maisons en tout, c'était un village où il y avait trois cents bâtiments, parmi lesquels cent vingt maisons d'habitation. Donc c'est aussi l'un des choix qui explique le choix d'Oradour par les nazis aujourd'hui. On a l'exemple, par exemple, de Litchi en République tchèque, un village à peu près aussi important qu'Oradour, mais il ne reste absolument rien. Et en fait, la mémoire a plus de mal à se faire puisque il n'y a plus de traces physiques. Conserver la mémoire du massacre dans la pierre est d'autant plus important que le dernier survivant est mort l'année dernière. Je m'appelle Agathe Ebraz, je suis la petite-fille de Robert Ebraz, qui était le dernier témoin du massacre d'Oradour. Je me souviens l'avoir entendu dire : « Ah tiens, ça, c'est ce mur-là, il est tombé, cet objet-là, je ne le vois plus. » Et donc, on va dire, sur les dix dernières années, il a souvent alerté sur le fait qu'il fallait qu'on fasse attention aux ruines. Les ruines tombent en ruines, la difficulté est donc de réparer sans dénaturer. On ne peut pas reconstruire parce que ça n'a pas de sens de reconstruire une ruine. Donc il faut conserver un bâtiment en ruine dans le meilleur état de destruction possible. Donc il va falloir faire des choix, bâtiment par bâtiment, pour savoir si dans certains cas, on ne fait pas un peu de reconstruction pour pouvoir maintenir un îlot. Mais c'est vraiment une question de conservation qui est extrêmement délicate, le cas de la ville. Des travaux vont commencer, car huit cent mille euros de dons ont déjà été collectés sur les vingt millions que coûte la restauration du site. La différence sera prise en charge par l'État.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 31,
+    "question": "L’association s’investit dans la lutte contre…",
+    "options": [
+      "La délinquance en milieu scolaire.",
+      "L'arrêt de la scolarité par abandon.",
+      "Le phénomène d'analphabétisation des jeunes.",
+      "Le manque de pertinence de certaines formations."
+    ],
+    "audio_transcript": "La mission de lutte contre le décrochage scolaire, LMALDS, vise à prévenir le décrochage solaire, faciliter l'accès au diplôme et à la qualification des jeunes en situation de décrochage et sécuriser les parcours de formation.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 32,
+    "question": "Malgré le plan de sauvegarde…",
+    "options": [
+      "Les saumons sauvages envahissent la rivière Allié",
+      "Les saumons sauvages se reproduisent à grande vitesse.",
+      "Les saumons sauvages se font de plus en plus rares.",
+      "Les saumons d'élevage ont tendance à disparaître."
+    ],
+    "audio_transcript": "Où sont passés les saumons sauvages de l'Allier La situation est préoccupante. Ils ne sont plus qu'une petite centaine à venir se reproduire dans la rivière Allier, en dépit d'un plan de sauvegarde mis en place par le ministère de l'environnement en mille-neuf-cent-quatre-vingt-quatorze et du financement de la plus grande salmoniculture de repeuplement d'Europe.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 33,
+    "question": "Quel constat est dressé sur la sieste en entreprise ?",
+    "options": [
+      "Elle constitue une forme de paresse.",
+      "Elle gagne du terrain.",
+      "Elle a du plomb dans l'aile.",
+      "Elle peine à être acceptée par les professionnels."
+    ],
+    "audio_transcript": "Un bureau dans une chambre et pourquoi pas l'inverse, les entreprises sont de plus en plus nombreuses à installer des lits dans leurs locaux, car la sieste est devenue incontournable pour améliorer la productivité. Autrefois, si elle est aujourd'hui utilisée par les professionnels, elle est même devenue un business à part entière.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 34,
+    "question": "Quel fait inquiétant pour le futur est relevé dans cet extrait ?",
+    "options": [
+      "Plusieurs agglomérations urbaines s'affaissent.",
+      "Les pluies torrentielles augmentent les inondations.",
+      "Les mégalopoles sont de plus en plus surpeuplées.",
+      "Les pluies sont omniprésentes en raison du changement climatique."
+    ],
+    "audio_transcript": "La Chine est actuellement victime de pluies torrentielles et d'inondations. Une autre menace pèse sur certaines villes pour les années à venir. Des mesures satellites montrent que de nombreuses mégalopoles chinoises s'enfoncent, s'enfoncent dangereusement dans le sol.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 35,
+    "question": "Quel a été l’impact du combat d’Alice Milliat sur le sport ?",
+    "options": [
+      "Réduction des compétitions sportives féminines.",
+      "Ouverture de nouvelles compétitions sportives pour hommes.",
+      "Une meilleure représentation des femmes dans le domaine sportif.",
+      "Suppression des Jeux mondiaux féminins."
+    ],
+    "audio_transcript": "Alice Milliat était une pionnière du sport féminin au début du vingtième siècle. Elle a fondé la Fédération sportive féminine début du vingtième siècle. Elle a fondé la Fédération sportive féminine internationale en mille-neuf-cent-vingt-et-un, et a organisé les premiers jeux mondiaux féminins en mille-neuf-cent-vingt-deux, offrant aux femmes des compétitions sportives internationales longtemps réservées aux hommes. Son combat a ouvert la voie à une plus grande inclusion des femmes dans le sport.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 36,
+    "question": "Quel est le principal défi pour les transports franciliens lors des Jeux olympiques ?",
+    "options": [
+      "La réduction des coûts de transport.",
+      "La sécurité pour un grand nombre de passagers.",
+      "L'accès pour les personnes ayant une autonomie de déplacement limitée ou nulle.",
+      "L'augmentation du nombre de lignes de métro."
+    ],
+    "audio_transcript": "Au moment des Jeux Olympiques, les transports franciliens sont eux aussi mis à l'épreuve. Au coeur de ce défi, l'accessibilité pour les personnes à mobilité réduite. D'après les estimations des organisateurs, près de quatre-mille trajets seront effectués chaque jour en fauteuil roulant. Paris deux-mille-vingt-quatre a promis la présence de 1000 taxis adaptés à ces personnes. Un service de navette reliant les grandes gares parisiennes aux sites de compétition sera aussi mis en place durant les jeux.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 37,
+    "question": "Quel est le constat fait dans le texte ?",
+    "options": [
+      "Les ventes de logements en France ont augmenté de plus de 20% l'an dernier.",
+      "La Banque centrale européenne maintient des taux d'intérêts négatifs.",
+      "Le marché de l'immobilier de l'Union européenne est prometteur.",
+      "L'industrie immobilière de l'Union européenne se porte mal."
+    ],
+    "audio_transcript": "En l'espace de moins de 3 ans, la banque centrale européenne est passée de taux d'intérêt négatif à des taux d'intérêt record 4 pour 100 aujourd'hui. Si on ajoute à cela l'inflation liée au Covid et à la guerre en Ukraine, le résultat est clair, le marché de l'immobilier ralentit dans toute l'Union européenne. En France, les ventes de logements neufs et anciens ont reculé de plus de 20 pour 100 l'an dernier par rapport à deux-mille-vingt-deux.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 38,
+    "question": "D’après cet extrait…",
+    "options": [
+      "Le nord du pays fait face à une pénurie de thermomètres.",
+      "Des températures modérées sont enregistrées dans tout le pays.",
+      "Une vague de chaleur est observée sur toute l'étendue du territoire.",
+      "Le nord du pays traverse un épisode de températures élevées."
+    ],
+    "audio_transcript": "Le thermomètre s'affole dans le nord de la Chine avec une alerte pour forte chaleur en vigueur, notamment pour la capitale Pékin. Les températures ont dépassé les 40 degrés mercredi 12 juin dans certaines villes du Hebei, la province autour de la capitale chinoise.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 39,
+    "question": "Selon l’annonce, aujourd’hui…",
+    "options": [
+      "Les denrées de première nécessité sont plus abordables.",
+      "La cherté de la vie est totalement résorbée.",
+      "Le discours d'investiture du président est attendu.",
+      "Les produits de consommation courante sont rares."
+    ],
+    "audio_transcript": "La baisse du prix des produits les plus consommés était l'annonce la plus attendue par les Sénégalais depuis l'arrivée au pouvoir de Bassiru Diomaye Fay. Le jeune président avait promis de s'attaquer à la cherté de la vie dès son discours d'investiture. Des premières mesures ont été annoncées ce jeudi 13 juin pour les produits de consommation courante comme le riz, l'huile et le pain.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 40,
+    "question": "À la suite de la diffusion du documentaire sur la cruauté des animaux, le gouvernement va…",
+    "options": [
+      "Faire la lumière sur ces exactions.",
+      "Augmenter les subventions pour les courses hippiques.",
+      "Réguler l'exploitation des abattoirs.",
+      "Fermer l'abattoir incriminé."
+    ],
+    "audio_transcript": "Un nouveau scandale de maltraitance d'animaux secoue l'Irlande, le pays des chevaux. À la suite d'un documentaire diffusé par la télévision publique irlandaise, le gouvernement a promis d'enquêter sur de graves abus dans un abattoir envers des chevaux, notamment des purs sang ayant participé à des courses hippiques.",
+    "right_option": "A"
+  }
+]

@@ -1,5 +1,482 @@
-{
-  "practice": 6,
-  "title": "CO Practice 6",
-  "items": []
-}
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_6_images/co-6-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription – Mon chien a l'air malade, il a du mal à respirer. Il est aussi très fatigué et ne mange presque plus depuis hier. – D'accord, nous allons le prendre en charge tout de suite. Je vais examiner ses poumons et voir s'ils présentent d'autres symptômes.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_6_images/co-6-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription – Depuis quelques semaines, j'ai des maux de tête en fin de journée. Je pense que mes lunettes ne sont plus adaptées. Ma vision devient floue, surtout pour lire. – D'accord, nous allons faire un contrôle visuel complet. – Si nécessaire, nous ajusterons la correction. Cela arrive souvent après quelques années, surtout si vous travaillez sur écran.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_6_images/co-6-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "– Excusez-moi, je cherche la farine complète bio. Je ne la trouve pas dans le rayon habituel, seulement la farine blanche classique et la semoule. – Elle a été déplacée temporairement à côté des produits sans gluten, juste en face du rayon confiture. – Je peux vous y accompagner si vous voulez.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_6_images/co-6-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "– Ce trimestre, on doit vraiment améliorer notre suivi budgétaire. Les écarts entre prévisionnels et réalisés sont encore trop importants. – On pourrait faire une revue mensuelle avec chaque chef de département pour ajuster en temps réel. Ça éviterait les mauvaises surprises.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 5,
+    "question": "Ce message concerne :",
+    "options": [
+      "La gestion dynamique des risques à travers des modèles économiques avancés.",
+      "Une offre d'investissement avec une gestion du portefeuille adaptée.",
+      "La maximisation des rendements d'un portefeuille avec des solutions de risque.",
+      "Une solution d'investissement flexible pour maximiser les rendements."
+    ],
+    "audio_transcript": "Nous vous proposons une solution d'investissement flexible permettant de maximiser le rendement de votre portefeuille, tout en réduisant les risques grâce à une gestion dynamique basée sur des modèles économiques avancés.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 6,
+    "question": "Ce message concerne :",
+    "options": [
+      "L'optimisation de la progression des étudiants via des modules interactifs.",
+      "La personnalisation des parcours éducatifs sur la plateforme d'e-learning.",
+      "Une plateforme d'e-learning avec des évaluations en temps réel.",
+      "L'adaptation des cours en fonction des besoins des étudiants sur une plateforme en ligne."
+    ],
+    "audio_transcript": "Notre plateforme d'e-learning permet une personnalisation poussée des parcours éducatifs, avec des modules interactifs et des évaluations en temps réel, afin d'assurer une progression optimale des étudiants tout au long de leur formation.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 7,
+    "question": "Ce message concerne :",
+    "options": [
+      "La procédure en cas de bagage abandonné.",
+      "La surveillance des bagages par les passagers.",
+      "La sécurité des passagers dans l'aéroport.",
+      "Les restrictions sur les objets dans les zones publiques."
+    ],
+    "audio_transcript": "Nous vous rappelons que, pour votre sécurité et le bon déroulement de vos voyages, il est strictement interdit de laisser vos bagages sans surveillance dans les zones publiques de l'aéroport. Si vous apercevez un objet abandonné, merci de prévenir immédiatement un membre du personnel de sécurité.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 8,
+    "question": "Ce message concerne :",
+    "options": [
+      "Les retards possibles liés aux travaux de maintenance.",
+      "L'entretien régulier des infrastructures de métro.",
+      "Les excuses pour les perturbations des transports en commun.",
+      "Les ajustements des horaires des trains en raison de travaux."
+    ],
+    "audio_transcript": "Veuillez prêter attention aux prochaines annonces concernant les ajustements de l'horaire des trains en raison des travaux de maintenance. Nous nous excusons pour tout inconvénient et vous remercions de votre compréhension et de votre patience.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Contester un contrat.",
+      "Demander des clarifications sur des documents.",
+      "Annuler la réunion de vendredi.",
+      "Transmettre un dossier urgent."
+    ],
+    "audio_transcript": "Bonjour Monsieur Lemoine, C'est Claire Béranger du service juridique de Novalex. Je souhaitais faire un point rapide sur les documents que vous avez transmis hier. Certains éléments nécessitent clarification avant notre réunion prévue vendredi. Pourriez-vous me rappeler dès que possible ?",
+    "right_option": "B"
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Convertir un portefeuille inactif en cash.",
+      "Clôturer un produit d'épargne.",
+      "Redéployer un capital en gestion active.",
+      "Optimiser une fiscalité successorale."
+    ],
+    "audio_transcript": "Bonjour, Je vous contacte pour reconsidérer une configuration patrimoniale en lien avec un portefeuille dormant, lequel pourrait être réaffecté selon une approche opportuniste, mais toujours dans le respect d'une logique de préservation du capital initial.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Vérifier un audit externe.",
+      "Revoir une stratégie d'investissement.",
+      "Réajuster un plan de trésorerie prévisionnel.",
+      "Réconcilier les données comptables historiques."
+    ],
+    "audio_transcript": "Bonjour, Je me permets de revenir vers vous concernant les écarts constatés dans les flux de trésorerie prévisionnels. Une révision dynamique des hypothèses sous-jacentes serait peut-être à envisager avant la prochaine clôture intermédiaire.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Modifier la nature de l'entretien.",
+      "Avancer un rendez-vous initialement fixé.",
+      "Confirmer une date existante.",
+      "Proposer un entretien supplémentaire."
+    ],
+    "audio_transcript": "Bonjour Madame Mercier, Ici Paul André du cabinet Mercure Associés. Suite à l'évolution du calendrier fiscal, nous vous proposons d'avancer notre entretien prévu initialement la semaine prochaine. Merci de me faire part de vos disponibilités.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Présenter un nouveau fournisseur.",
+      "Informer de changements dans un projet en cours.",
+      "Rejeter une proposition commerciale.",
+      "Préparer une réunion confidentielle."
+    ],
+    "audio_transcript": "Bonjour Madame Delmas, C'est Fabien de la société Vecto. Le comité de pilotage a décidé d'apporter des ajustements importants au cahier des charges. Avant validation finale, il est impératif que nous échangions ensemble. Merci de me recontacter rapidement.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 14,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Confirmer l'heure de la réunion.",
+      "Informer de changements dans un projet en cours.",
+      "Proposer un autre horaire pour la réunion.",
+      "Annoncer un changement d'heure pour la réunion."
+    ],
+    "audio_transcript": "Salut, c’est Jeanne. Je voulais te prévenir que la réunion de demain a été avancée à 9 heures. Si ça te pose un problème, fais-le-moi savoir ; sinon, on se voit là-bas. Merci et à bientôt.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, la stabilité financière assure une sécurité à long terme.",
+      "Cela dépend de la perspective de chacun.",
+      "Je n'ai pas d'avis.",
+      ""
+    ],
+    "audio_transcript": "",
+    "right_option": "A"
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, la stabilité financière assure une sécurité à long terme.",
+      "Cela dépend de la perspective de chacun.",
+      "Je n'ai pas d'avis.",
+      ""
+    ],
+    "audio_transcript": "",
+    "right_option": "B"
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, la stabilité financière assure une sécurité à long terme.",
+      "Cela dépend de la perspective de chacun.",
+      "Je n'ai pas d'avis.",
+      ""
+    ],
+    "audio_transcript": "",
+    "right_option": "C"
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, aussi souvent que possible.",
+      "Occasionnellement, selon les expositions.",
+      "Rarement, cela ne m'attire pas vraiment.",
+      ""
+    ],
+    "audio_transcript": "J'éprouve un grand plaisir à flâner dans les musées. C'est un moment d'élévation intellectuelle et de contemplation artistique que je privilégie dès que l'occasion se présente.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, aussi souvent que possible.",
+      "Occasionnellement, selon les expositions.",
+      "Rarement, cela ne m'attire pas vraiment.",
+      ""
+    ],
+    "audio_transcript": "Si une exposition me semble intéressante, ou si un ami me propose une visite, je me laisse volontiers tenter, mais ce n'est pas une habitude ancrée. J'apprécie de découvrir ce qui m'entoure quand l'occasion se présente, sans pour autant que cela fasse partie de mes habitudes régulières.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, aussi souvent que possible.",
+      "Occasionnellement, selon les expositions.",
+      "Rarement, cela ne m'attire pas vraiment.",
+      ""
+    ],
+    "audio_transcript": "L'idée de rester figé devant des objets ou des œuvres comme dans un cadre immobile ne m'a jamais vraiment captivé. J'ai toujours trouvé que l'expérience prenait tout son sens lorsqu'elle est vécue pleinement, en mouvement et non observée à travers un filtre.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 21,
+    "question": "Quel reproche est fait aux agences de voyage en ce qui concerne les services de guide ?",
+    "options": [
+      "Elles proposent des guides expérimentés à des prix compétitifs.",
+      "Elles imposent des services de guide aux voyageurs inexpérimentés.",
+      "Elles conseillent uniquement des guides nécessaires pour les voyageurs.",
+      "Elles facturent des services de guide superflus aux clients."
+    ],
+    "audio_transcript": "Les agences de voyages permettent aux personnes qui n'ont pas l'habitude de voyager d'être orientées, conseillées, guidées dans leur choix de destination, leur réservation de vols et d'hôtels. Mais de toute évidence, elles sont aussi un piège, car elles facturent au prix fort des services que les clients peuvent trouver deux ou trois fois moins cher sur internet. Par ailleurs, les agences proposent souvent des hébergements dans leurs hôtels partenaires, qui ne sont pas nécessairement les meilleurs ou les mieux situés. Enfin, certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 22,
+    "question": "Quel phénomène est évoqué lorsqu’on parle de la mesure du poids quotidienne enregistrée par un objet connecté ?",
+    "options": [
+      "Auto-évaluation",
+      "Autonomisation",
+      "Automesure",
+      "Automatisation"
+    ],
+    "audio_transcript": "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés. Il faut dire que les données physiologiques humaines constituent un formidable champ d'investigation. Les paramètres à surveiller sont nombreux, et la technologie permet aujourd'hui de quantifier tout cela en temps réel : c'est le fameux phénomène de l'automesure, en anglais le quantified self. Par exemple, le pèse-personne connecté enregistre votre poids au jour le jour et vous permet de retrouver les données sur votre mobile via une application dédiée. Cela va même plus loin aujourd'hui avec la mesure du rythme cardiaque par les pieds, oui ça marche, du taux de CO₂ dans la pièce ou encore de l'annonce du temps qu'il va faire dans la journée. Autre type d'équipement pour la santé, le tensiomètre connecté, destiné à ceux qui souffrent de maladies cardiovasculaires et qui doivent surveiller leur pression artérielle au quotidien. Ce type de produit coûte moins d'une centaine d'euros chacun. Et puis on trouve aussi toutes sortes de petits accessoires pour certaines pathologies qui sont...",
+    "right_option": "C"
+  },
+  {
+    "question_no": 23,
+    "question": "Selon Dr. Martin, le manque de sommeil peut entraîner :",
+    "options": [
+      "Une hausse du cholestérol et des troubles de la vision.",
+      "Stress, troubles de la concentration et maladies chroniques.",
+      "Perte de densité osseuse et difficultés à digérer les lipides.",
+      "Apparition précoce de maladies neurodégénératives."
+    ],
+    "audio_transcript": "Bienvenue à tous. Aujourd'hui, nous parlons du sommeil, essentiel à notre santé. Pour en discuter, nous avons le docteur Lucas Martin, spécialiste du sommeil. Merci d'être avec nous, docteur. Merci pour l'invitation, c'est un plaisir de parler de ce sujet important. Pourquoi le sommeil est-il si crucial pour notre bien-être ? Le sommeil permet au cerveau de traiter les informations, d'éliminer les toxines et de réguler les émotions. Il joue aussi un rôle vital dans la réparation physique et le renforcement du système immunitaire. Quels sont les principaux facteurs qui perturbent notre sommeil ? Les écrans avant de dormir, le stress, une alimentation tardive et l'absence de routine de sommeil sont des facteurs clés. Ces éléments perturbent notre horloge biologique et altèrent la qualité de notre sommeil.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 24,
+    "question": "Selon Dr. Martin, le principal facteur qui perturbe le sommeil est :",
+    "options": [
+      "L'exposition prolongée à la lumière bleue des écrans avant de dormir.",
+      "La consommation excessive de protéines animales le soir.",
+      "Le manque d'oxygénation de l'espace de sommeil.",
+      "L'utilisation prolongée de sédatifs non prescrits."
+    ],
+    "audio_transcript": "Bienvenue à tous. Aujourd'hui, nous parlons du sommeil, essentiel à notre santé. Pour en discuter, nous avons le docteur Lucas Martin, spécialiste du sommeil. Merci d'être avec nous, docteur. Merci pour l'invitation, c'est un plaisir de parler de ce sujet important. Pourquoi le sommeil est-il si crucial pour notre bien-être ? Le sommeil permet au cerveau de traiter les informations, d'éliminer les toxines et de réguler les émotions. Il joue aussi un rôle vital dans la réparation physique et le renforcement du système immunitaire. Quels sont les principaux facteurs qui perturbent notre sommeil ? Les écrans avant de dormir, le stress, une alimentation tardive et l'absence de routine de sommeil sont des facteurs clés. Ces éléments perturbent notre horloge biologique et altèrent la qualité de notre sommeil.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 25,
+    "question": "Selon M. Rousseau, la philosophie moderne aide à :",
+    "options": [
+      "Définir une nouvelle conception de l'intelligence artificielle.",
+      "Interroger le rapport entre liberté individuelle et contraintes sociales.",
+      "Résoudre les conflits politiques internes dans les sociétés contemporaines.",
+      "Éliminer les inégalités sociales et économiques."
+    ],
+    "audio_transcript": "Mesdames et messieurs, aujourd'hui nous avons l'honneur de recevoir le philosophe et professeur émérite Jean-Philippe Rousseau. Monsieur Rousseau, merci de vous être joint à nous pour discuter des apports de la philosophie moderne dans la société actuelle. Merci pour votre invitation. La philosophie, loin d'être une discipline abstraite, a des implications profondes dans notre manière de comprendre les grandes questions existentielles, politiques et sociales. Elle continue d'influencer les fondements de notre pensée contemporaine. Quel rôle la philosophie moderne joue-t-elle dans les débats contemporains sur la liberté et l'autonomie individuelle ? La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie. Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique. Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales, ce qui reste un sujet central dans nos sociétés contemporaines. Pensez-vous que la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels ? Absolument. Et c'est précisément dans ces moments d'évolution technologique rapide que la philosophie doit intervenir. Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer, comme la question de la nature humaine à l'ère de l'intelligence artificielle et de la surveillance de masse.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 26,
+    "question": "D’après M. Rousseau, la philosophie moderne est particulièrement pertinente aujourd’hui pour :",
+    "options": [
+      "Gérer l'impact des nouvelles technologies sur l'autonomie individuelle.",
+      "Favoriser le progrès technologique à travers la réflexion éthique.",
+      "Créer de nouveaux systèmes politiques pour l'ère numérique.",
+      "Réconcilier les divergences idéologiques dans la société contemporaine."
+    ],
+    "audio_transcript": "Mesdames et messieurs, aujourd'hui nous avons l'honneur de recevoir le philosophe et professeur émérite Jean-Philippe Rousseau. Monsieur Rousseau, merci de vous être joint à nous pour discuter des apports de la philosophie moderne dans la société actuelle. Merci pour votre invitation. La philosophie, loin d'être une discipline abstraite, a des implications profondes dans notre manière de comprendre les grandes questions existentielles, politiques et sociales. Elle continue d'influencer les fondements de notre pensée contemporaine. Quel rôle la philosophie moderne joue-t-elle dans les débats contemporains sur la liberté et l'autonomie individuelle ? La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie. Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique. Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales, ce qui reste un sujet central dans nos sociétés contemporaines. Pensez-vous que la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels ? Absolument. Et c'est précisément dans ces moments d'évolution technologique rapide que la philosophie doit intervenir. Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer, comme la question de la nature humaine à l'ère de l'intelligence artificielle et de la surveillance de masse.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 27,
+    "question": "D’après Mme Dupuis, un des principaux défis de la gouvernance mondiale est :",
+    "options": [
+      "La gestion des flux migratoires internationaux.",
+      "L'instabilité politique des régimes démocratiques.",
+      "La démocratisation des nouvelles technologies.",
+      "La montée de l'unilatéralisme et des tensions géopolitiques."
+    ],
+    "audio_transcript": "Aujourd'hui, nous abordons un sujet d'une portée mondiale : la gouvernance mondiale et ses défis contemporains. Pour en parler, nous avons l'honneur de recevoir Madame Claire Dupuis, experte en géopolitique et spécialiste des relations internationales. Madame Dupuis, merci de vous être déplacée. C'est un plaisir d'être ici. La question de la gouvernance mondiale est d'une importance capitale dans le contexte actuel de multipolarité et d'interdépendance croissante entre les nations. Quels sont, selon vous, les principaux défis auxquels la gouvernance mondiale doit faire face aujourd'hui ? Les défis sont multiples. D'une part, il y a la montée de l'unilatéralisme et des tensions géopolitiques entre grandes puissances, ce qui fragilise les institutions multilatérales. D'autre part, la question du changement climatique et des inégalités économiques mondiales nécessite une coopération renforcée et des mécanismes de gouvernance plus efficaces. La coopération internationale est-elle encore viable face à des intérêts nationaux parfois divergents ? C'est là toute la question. Les intérêts nationaux peuvent parfois sembler irréconciliables, mais la réalité est que les défis globaux, comme la santé publique mondiale ou la crise climatique, imposent une coopération. Ce sont ces enjeux collectifs qui devraient obliger les nations à trouver des terrains d'entente malgré leurs divergences.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 28,
+    "question": "Selon Mme Dupuis, la coopération internationale peut-elle réussir malgré des intérêts nationaux divergents ?",
+    "options": [
+      "Non, car les tensions entre puissances mondiales sont trop fortes.",
+      "Oui, mais seulement dans le cadre d'organisations intergouvernementales limitées.",
+      "Oui, à condition que les enjeux globaux, comme la crise climatique, imposent une coopération.",
+      "Non, car les nations préfèrent s'isoler."
+    ],
+    "audio_transcript": "Aujourd'hui, nous abordons un sujet d'une portée mondiale : la gouvernance mondiale et ses défis contemporains. Pour en parler, nous avons l'honneur de recevoir Madame Claire Dupuis, experte en géopolitique et spécialiste des relations internationales. Madame Dupuis, merci de vous être déplacée. C'est un plaisir d'être ici. La question de la gouvernance mondiale est d'une importance capitale dans le contexte actuel de multipolarité et d'interdépendance croissante entre les nations. Quels sont, selon vous, les principaux défis auxquels la gouvernance mondiale doit faire face aujourd'hui ? Les défis sont multiples. D'une part, il y a la montée de l'unilatéralisme et des tensions géopolitiques entre grandes puissances, ce qui fragilise les institutions multilatérales. D'autre part, la question du changement climatique et des inégalités économiques mondiales nécessite une coopération renforcée et des mécanismes de gouvernance plus efficaces. La coopération internationale est-elle encore viable face à des intérêts nationaux parfois divergents ? C'est là toute la question. Les intérêts nationaux peuvent parfois sembler irréconciliables, mais la réalité est que les défis globaux, comme la santé publique mondiale ou la crise climatique, imposent une coopération. Ce sont ces enjeux collectifs qui devraient obliger les nations à trouver des terrains d'entente malgré leurs divergences.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 29,
+    "question": "Les cryptomonnaies attirent principalement les utilisateurs grâce à :",
+    "options": [
+      "Leur régulation stricte et leur sécurité.",
+      "Leur soutien gouvernemental dans tous les pays.",
+      "Leur transparence totale dans les transactions.",
+      "Leur décentralisation et leur anonymat."
+    ],
+    "audio_transcript": "L'essor des cryptomonnaies et les défis de la régulation financière. Depuis la création du bitcoin en deux mille neuf, les cryptomonnaies ont connu un essor spectaculaire, transformant l'industrie financière et remettant en question les systèmes monétaires traditionnels. Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement. Toutefois, cette révolution technologique s'accompagne de risques significatifs. Les cryptomonnaies sont souvent associées à des activités illicites comme le blanchiment d'argent et le financement du terrorisme, en raison de leur anonymat relatif et de l'absence de régulation. Les autorités financières à l'échelle mondiale sont confrontées à un dilemme : comment encadrer cette nouvelle forme de monnaie tout en préservant son caractère innovant ? Certains pays ont adopté des régulations strictes, comme la Chine, interdisant toute activité liée aux cryptomonnaies, tandis que d'autres, comme les États-Unis, optent pour une approche plus modérée visant à protéger les investisseurs sans étouffer l'innovation. Les institutions financières traditionnelles, elles, tentent de s'adapter en créant leurs propres solutions basées sur la technologie blockchain, tout en surveillant l'évolution du marché. L'avenir des cryptomonnaies dépendra largement de la capacité des régulateurs à trouver un équilibre entre la protection des consommateurs et la préservation de l'innovation. En parallèle, des questions éthiques émergent. Les cryptomonnaies, en permettant des transactions anonymes, favorisent-elles un monde plus libre ou un monde plus risqué ?",
+    "right_option": "D"
+  },
+  {
+    "question_no": 30,
+    "question": "Les régulateurs financiers sont confrontés à :",
+    "options": [
+      "Un dilemme entre encadrer l'innovation et protéger les consommateurs.",
+      "La nécessité d'interdire toutes les transactions cryptographiques.",
+      "La pression de créer de nouvelles monnaies numériques nationales.",
+      "L'impossibilité de suivre l'évolution technologique."
+    ],
+    "audio_transcript": "L'essor des cryptomonnaies et les défis de la régulation financière. Depuis la création du bitcoin en deux mille neuf, les cryptomonnaies ont connu un essor spectaculaire, transformant l'industrie financière et remettant en question les systèmes monétaires traditionnels. Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement. Toutefois, cette révolution technologique s'accompagne de risques significatifs. Les cryptomonnaies sont souvent associées à des activités illicites comme le blanchiment d'argent et le financement du terrorisme, en raison de leur anonymat relatif et de l'absence de régulation. Les autorités financières à l'échelle mondiale sont confrontées à un dilemme : comment encadrer cette nouvelle forme de monnaie tout en préservant son caractère innovant ? Certains pays ont adopté des régulations strictes, comme la Chine, interdisant toute activité liée aux cryptomonnaies, tandis que d'autres, comme les États-Unis, optent pour une approche plus modérée visant à protéger les investisseurs sans étouffer l'innovation. Les institutions financières traditionnelles, elles, tentent de s'adapter en créant leurs propres solutions basées sur la technologie blockchain, tout en surveillant l'évolution du marché. L'avenir des cryptomonnaies dépendra largement de la capacité des régulateurs à trouver un équilibre entre la protection des consommateurs et la préservation de l'innovation. En parallèle, des questions éthiques émergent. Les cryptomonnaies, en permettant des transactions anonymes, favorisent-elles un monde plus libre ou un monde plus risqué ?",
+    "right_option": "A"
+  },
+  {
+    "question_no": 31,
+    "question": "Selon ce document, la mise en place du télétravail dépend principalement :",
+    "options": [
+      "D'un quota annuel de jours fixes répartis par département RH.",
+      "D'un planning collectif préétabli limitant la flexibilité individuelle.",
+      "De l'approbation conditionnelle tenant compte de la continuité du service.",
+      "D'une validation automatique dès lors que les délais de demande sont respectés."
+    ],
+    "audio_transcript": "Dans le cadre de la réforme des conditions de travail, le télétravail partiel est autorisé à raison de 2 jours par semaine, sous réserve d'accord du supérieur hiérarchique. Le salarié doit formuler sa demande par écrit, au minimum 7 jours avant la date envisagée. L'approbation dépend des besoins du service, des obligations de présence et de la continuité des missions. En cas de refus, une justification motivée est obligatoire. Le respect des plages horaires de disponibilité est impératif. La charte du télétravail précise également les responsabilités en matière de cybersécurité et de confidentialité. Toute violation pourra entraîner la suspension temporaire de ce mode de travail.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 32,
+    "question": "Selon ce document, les irrégularités constatées trouvent leur origine dans :",
+    "options": [
+      "L'interprétation divergente des normes comptables par les entités locales.",
+      "L'absence de formation réglementaire obligatoire des agents instructeurs.",
+      "La défaillance combinée des contrôles internes et du suivi des engagements.",
+      "La vétusté des outils informatiques de déclaration budgétaire."
+    ],
+    "audio_transcript": "L'inspection annuelle a mis en lumière plusieurs défaillances dans la gestion budgétaire de l'unité. Les écarts entre les prévisions et les dépenses réelles excèdent les seuils de tolérance définis par la circulaire ministérielle du 3 mars. La justification des lignes de dépenses est souvent absente ou incomplète, ce qui compromet la traçabilité financière. Le contrôle de niveau un n'a pas été systématiquement réalisé et les engagements de crédit ne sont pas toujours validés par un agent comptable habilité. L'inspection recommande une révision des procédures internes, une formation renforcée du personnel financier et la mise en place d'un outil de suivi automatisé pour améliorer la transparence.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 33,
+    "question": "Selon ce document, les usagers devront principalement :",
+    "options": [
+      "Consentir à la collecte de données en acceptant les nouvelles modalités.",
+      "Installer une nouvelle application dédiée à la gestion des données personnelles.",
+      "Soumettre une demande explicite pour chaque type de service demandé.",
+      "Prendre connaissance des procédures internes avant toute mise à jour."
+    ],
+    "audio_transcript": "À partir du premier mai, les conditions générales d'utilisation des services numériques de la plateforme gouvernementale seront modifiées. Les changements portent principalement sur les modalités d'accès aux données sensibles, la gestion des droits d'utilisation et les nouvelles procédures de confidentialité des données personnelles. L'usager devra consentir explicitement à chaque nouvelle collecte de données et un mécanisme de notification des violations de données sera mis en place. En cas de non-adhésion aux nouvelles conditions, l'accès au service Korba sera suspendu. Un guide explicatif sera mis en ligne pour aider à la compréhension de ces changements. Ces modifications visent à renforcer la sécurité et la confidentialité des informations personnelles.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 34,
+    "question": "Selon ce document, la priorité en matière de sécurité informatique est :",
+    "options": [
+      "De renforcer les protocoles d'accès par l'authentification multifactorielle.",
+      "D'installer des systèmes de surveillance en temps réel des données sensibles.",
+      "D'introduire des contrôles de sécurité au niveau des terminaux de travail.",
+      "De limiter l'utilisation des mots de passe partagés pour garantir la sécurité."
+    ],
+    "audio_transcript": "Le dernier rapport de gestion des risques met en lumière plusieurs vulnérabilités liées à la sécurité des données. Des failles dans les protocoles d'accès aux systèmes informatiques ont été identifiées, notamment l'utilisation des mots de passe partagés. Il est recommandé d'instaurer une politique de gestion des accès en privilégiant l'authentification multifactorielle. Des formations sur la cybersécurité seront proposées aux employés pour les sensibiliser aux risques et bonnes pratiques. Une analyse approfondie sera réalisée lors du prochain audit pour évaluer l'efficacité des mesures mises en place. Ces mesures visent à renforcer la sécurité des données et à prévenir toute violation.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 35,
+    "question": "Selon ce document, l’objet principal de l’entretien disciplinaire est :",
+    "options": [
+      "De vérifier la conformité des règles internes avec les attentes des employés.",
+      "D'analyser les faits reprochés afin d'envisager une mesure adaptée.",
+      "D'évaluer l'impact des incidents sur la productivité des autres collaborateurs.",
+      "De réexaminer les conditions de travail dans un cadre contradictoire."
+    ],
+    "audio_transcript": "Par la présente, nous vous informons qu'un entretien disciplinaire est programmé le 15 mai à 14 heures 30 dans les locaux des ressources humaines. Cet entretien fait suite à l'incident survenu le 10 mai concernant votre conduite non conforme aux règles de l'entreprise. Nous vous invitons à vous présenter avec votre représentant syndical si vous le souhaitez, pour discuter des faits reprochés et des éventuelles sanctions. À l'issue de cet entretien, une décision définitive sera prise et vous en serez informé par écrit dans un délai de 5 jours. Nous vous prions de bien vouloir confirmer votre présence.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 36,
+    "question": "Selon ce document, l’utilisation des véhicules de fonction est limitée principalement par :",
+    "options": [
+      "Un contrôle rigoureux des niveaux de carburant et des kilomètres parcourus.",
+      "Une obligation de restitution immédiate après chaque mission de service.",
+      "Une restriction sur les trajets personnels et un contrôle de leur usage.",
+      "La nécessité de remplir un formulaire de demande d'autorisation préalable."
+    ],
+    "audio_transcript": "Les véhicules de fonction sont alloués pour des missions professionnelles uniquement. Toute utilisation personnelle est interdite, sauf autorisation explicite de la direction. Les chauffeurs doivent respecter les consignes de sécurité routière et entretenir régulièrement les véhicules. Les véhicules doivent être restitués dans leur état initial après chaque mission. Un contrôle mensuel des kilomètres parcourus sera effectué afin de garantir une utilisation conforme aux règles internes. La direction se réserve le droit de retirer un véhicule à tout employé ne respectant pas ses directives. Ces mesures visent à optimiser l'utilisation des ressources de l'entreprise et à réduire les coûts inutiles.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 37,
+    "question": "Selon ce document, l’application des procédures budgétaires est compromise principalement par :",
+    "options": [
+      "Un manque de formation des responsables financiers et des agents de terrain.",
+      "L'absence de validation systématique des demandes de remboursement.",
+      "Des réticences des employés à utiliser le système informatique intégré.",
+      "L'inefficacité des contrôles internes automatisés de suivi des dépenses."
+    ],
+    "audio_transcript": "L'audit interne, réalisé du 10 au 14 avril, a révélé des écarts significatifs entre les procédures écrites et leur application réelle, particulièrement dans le traitement des demandes de remboursement de frais professionnels. Certains services n'ont pas respecté les délais imposés pour le dépôt des justificatifs et d'autres ont omis de faire valider les dépenses par les responsables hiérarchiques. Les anomalies observées ont des répercussions sur la transparence et la fiabilité des comptes. Il est recommandé de mettre en place un module de formation pour les collaborateurs concernés et de renforcer les contrôles automatisés dans le système de gestion des dépenses.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 38,
+    "question": "Selon ce document, l’économie numérique :",
+    "options": [
+      "Concerne uniquement le secteur de la communication.",
+      "Supprime le besoin de main-d'œuvre humaine.",
+      "Propose de nouveaux modèles tout en soulevant des défis.",
+      "Ralentit les échanges commerciaux traditionnels."
+    ],
+    "audio_transcript": "L'économie numérique repose sur l'usage des technologies de l'information pour produire, consommer et échanger. Elle transforme les modèles traditionnels en introduisant de nouveaux services comme les plateformes en ligne ou le commerce électronique. Si elle offre des opportunités de croissance, elle génère aussi des défis liés à la fiscalité, à la protection des données et à l'emploi. Certains secteurs comme la logistique et la finance en sont profondément transformés. La régulation de ces nouvelles activités reste inégale selon les pays. Des réflexions sont en cours pour adapter les lois aux géants du numérique.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 39,
+    "question": "Selon cette discussion, la promotion d’une alimentation plus saine repose principalement sur :",
+    "options": [
+      "Une synergie entre éducation, politiques publiques et responsabilisation individuelle.",
+      "Une réforme systémique des filières agroalimentaires internationales.",
+      "Une intervention directe des industries de transformation dans la gestion nutritionnelle.",
+      "Une redistribution équitable des ressources alimentaires à l'échelle mondiale."
+    ],
+    "audio_transcript": "De nos jours, de plus en plus de personnes souffrent de maladies liées à l'alimentation comme l'obésité ou le diabète. Il est essentiel de trouver des solutions pour améliorer les habitudes alimentaires et prévenir ces problèmes de santé. Que peut-on faire pour encourager une alimentation plus saine ? Encourager une alimentation saine commence par l'éducation. Les écoles, les campagnes de santé publique et les médias peuvent jouer un rôle clé en sensibilisant la population aux bienfaits d'une alimentation équilibrée, en mettant l'accent sur la consommation de fruits, légumes, protéines maigres et grains entiers. De plus, les gouvernements devraient mettre en place des politiques visant à limiter la publicité pour les aliments transformés et riches en sucre, en particulier auprès des enfants. Offrir des incitations fiscales pour les producteurs de produits locaux et durables pourrait également rendre les aliments sains plus accessibles à tous. Enfin, il est important d'adopter une approche personnelle. Chaque individu doit prendre conscience de son alimentation et choisir des options plus nutritives, tout en limitant la consommation de sucres ajoutés et de graisses saturées. Une meilleure information sur l'impact des choix alimentaires permettrait également d'adopter de meilleures habitudes sur le long terme.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 40,
+    "question": "Selon cette discussion, la simplification administrative nécessite avant tout :",
+    "options": [
+      "Une suspension temporaire des règles complexes.",
+      "Une délégation complète aux acteurs privés.",
+      "Une réduction radicale des effectifs publics.",
+      "Une refonte des circuits et des pratiques internes."
+    ],
+    "audio_transcript": "Depuis plusieurs années, de nombreux rapports pointent la complexité excessive des démarches administratives. Il n'est pas rare que des citoyens renoncent à des droits ou prestations faute de compréhension ou en raison de procédures trop lourdes. Le besoin de simplification est désormais devenu un impératif démocratique autant qu'une exigence d'efficacité. Ce constat est largement partagé. Le labyrinthe réglementaire, conjugué à une surcharge documentaire, décourage souvent les usagers. Une simplification réelle suppose une refonte des processus internes, mais également un changement de posture des administrations elles-mêmes. Il ne suffit pas de digitaliser une procédure si l'architecture reste inchangée. Une clarification des textes, une centralisation des services et une meilleure interopérabilité entre administrations sont également nécessaires. De surcroît, toute réforme devrait s'accompagner d'une formation continue des agents afin qu'ils deviennent facilitateurs plutôt que simples exécutants. Une administration plus lisible permettrait également de restaurer la confiance des citoyens, souvent mise à mal par l'opacité perçue des dispositifs. Il ne s'agit donc pas uniquement d'alléger, mais de repenser fondamentalement la logique d'accès au droit.",
+    "right_option": "D"
+  }
+]

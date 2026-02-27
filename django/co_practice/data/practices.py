@@ -28,7 +28,7 @@ def get_json_file(slug):
 def discover_practices():
     """Return sorted list of available practice dicts (only folders with a JSON file)."""
     practices = []
-    for folder in sorted(CO_WEB_CONTENT.glob('practice_*')):
+    for folder in sorted(CO_WEB_CONTENT.glob('practice_*'), key=lambda p: int(p.name[len('practice_'):])):
         if not folder.is_dir():
             continue
         if not list(folder.glob('*.json')):

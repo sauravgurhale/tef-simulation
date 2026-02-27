@@ -44,7 +44,7 @@ STATIC_URL = '/static/'
 # Image folder(s) → co_practice/<slug>/images/
 _CO_WEB_CONTENT = BASE_DIR.parent / 'co_web_content'
 STATICFILES_DIRS = []
-for _practice_dir in sorted(_CO_WEB_CONTENT.glob('practice_*')):
+for _practice_dir in sorted(_CO_WEB_CONTENT.glob('practice_*'), key=lambda p: int(p.name[len('practice_'):])):
     _slug = _practice_dir.name[len('practice_'):]
     _audio = _practice_dir / 'audio'
     if _audio.is_dir():
