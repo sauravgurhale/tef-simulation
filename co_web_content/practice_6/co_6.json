@@ -11,13 +11,13 @@
     "audio_transcript": "Transcription – Mon chien a l'air malade, il a du mal à respirer. Il est aussi très fatigué et ne mange presque plus depuis hier. – D'accord, nous allons le prendre en charge tout de suite. Je vais examiner ses poumons et voir s'ils présentent d'autres symptômes.",
     "right_option": "C",
     "highlights": [
-      "Mon chien",
-      "a l'air malade",
-      "a du mal à respirer",
-      "très fatigué",
-      "ne mange presque plus",
-      "examiner ses poumons",
-      "d'autres symptômes"
+      "Mon chien a l'air malade",
+      "il a du mal à respirer",
+      "Il est aussi très fatigué",
+      "ne mange presque plus depuis hier",
+      "nous allons le prendre en charge tout de suite",
+      "Je vais examiner ses poumons",
+      "voir s'ils présentent d'autres symptômes"
     ]
   },
   {
@@ -32,12 +32,12 @@
     "audio_transcript": "Transcription – Depuis quelques semaines, j'ai des maux de tête en fin de journée. Je pense que mes lunettes ne sont plus adaptées. Ma vision devient floue, surtout pour lire. – D'accord, nous allons faire un contrôle visuel complet. – Si nécessaire, nous ajusterons la correction. Cela arrive souvent après quelques années, surtout si vous travaillez sur écran.",
     "right_option": "B",
     "highlights": [
-      "des maux de tête",
-      "mes lunettes",
-      "Ma vision devient floue",
+      "maux de tête",
+      "lunettes",
+      "vision devient floue",
       "lire",
       "contrôle visuel",
-      "ajusterons la correction",
+      "correction",
       "travaillez sur écran"
     ]
   },
@@ -58,7 +58,7 @@
       "farine blanche classique",
       "semoule",
       "déplacée temporairement",
-      "côté des produits sans gluten",
+      "produits sans gluten",
       "en face du rayon confiture"
     ]
   },
@@ -77,7 +77,7 @@
       "revue mensuelle",
       "chef de département",
       "suivi budgétaire",
-      "écarts entre prévisionnels et réalisés",
+      "prévisionnels et réalisés",
       "ajuster en temps réel"
     ]
   },
@@ -130,10 +130,8 @@
     "right_option": "C",
     "highlights": [
       "pour votre sécurité",
-      "strictement interdit de laisser vos bagages sans surveillance",
-      "zones publiques de l'aéroport",
-      "Si vous apercevez un objet abandonné",
-      "prévenir immédiatement un membre du personnel de sécurité"
+      "il est strictement interdit de laisser vos bagages sans surveillance dans les zones publiques de l'aéroport",
+      "Si vous apercevez un objet abandonné, merci de prévenir immédiatement un membre du personnel de sécurité"
     ]
   },
   {
@@ -148,9 +146,11 @@
     "audio_transcript": "Veuillez prêter attention aux prochaines annonces concernant les ajustements de l'horaire des trains en raison des travaux de maintenance. Nous nous excusons pour tout inconvénient et vous remercions de votre compréhension et de votre patience.",
     "right_option": "D",
     "highlights": [
-      "Veuillez prêter attention aux prochaines annonces concernant les ajustements de l'horaire des trains",
+      "Veuillez prêter attention aux prochaines annonces",
+      "concernant les ajustements de l'horaire des trains",
       "en raison des travaux de maintenance",
-      "Nous nous excusons pour tout inconvénient"
+      "Nous nous excusons pour tout inconvénient",
+      "vous remercions de votre compréhension et de votre patience"
     ]
   },
   {
@@ -167,8 +167,7 @@
     "highlights": [
       "Je souhaitais faire un point rapide sur les documents que vous avez transmis hier",
       "Certains éléments nécessitent clarification",
-      "avant notre réunion prévue vendredi",
-      "Pourriez-vous me rappeler dès que possible"
+      "avant notre réunion prévue vendredi"
     ]
   },
   {
@@ -184,8 +183,8 @@
     "right_option": "C",
     "highlights": [
       "Je vous contacte pour reconsidérer une configuration patrimoniale",
-      "un portefeuille dormant",
-      "pourrait être réaffecté",
+      "en lien avec un portefeuille dormant",
+      "lequel pourrait être réaffecté",
       "selon une approche opportuniste",
       "dans le respect d'une logique de préservation du capital initial"
     ]
@@ -238,7 +237,8 @@
     "highlights": [
       "Le comité de pilotage a décidé d'apporter des ajustements importants au cahier des charges",
       "Avant validation finale, il est impératif que nous échangions ensemble",
-      "Merci de me recontacter rapidement"
+      "ajustements importants",
+      "cahier des charges"
     ]
   },
   {
@@ -253,7 +253,7 @@
     "audio_transcript": "Salut, c’est Jeanne. Je voulais te prévenir que la réunion de demain a été avancée à 9 heures. Si ça te pose un problème, fais-le-moi savoir ; sinon, on se voit là-bas. Merci et à bientôt.",
     "right_option": "D",
     "highlights": [
-      "Je voulais te prévenir",
+      "Je voulais te prévenir que",
       "la réunion de demain a été avancée à 9 heures",
       "a été avancée"
     ]
@@ -325,8 +325,10 @@
     "audio_transcript": "Si une exposition me semble intéressante, ou si un ami me propose une visite, je me laisse volontiers tenter, mais ce n'est pas une habitude ancrée. J'apprécie de découvrir ce qui m'entoure quand l'occasion se présente, sans pour autant que cela fasse partie de mes habitudes régulières.",
     "right_option": "B",
     "highlights": [
-      "Si une exposition me semble intéressante, ou si un ami me propose une visite, je me laisse volontiers tenter",
-      "ce n'est pas une habitude ancrée",
+      "Si une exposition me semble intéressante",
+      "ou si un ami me propose une visite",
+      "je me laisse volontiers tenter",
+      "mais ce n'est pas une habitude ancrée",
       "J'apprécie de découvrir ce qui m'entoure quand l'occasion se présente",
       "sans pour autant que cela fasse partie de mes habitudes régulières"
     ]
@@ -359,9 +361,7 @@
     "audio_transcript": "Les agences de voyages permettent aux personnes qui n'ont pas l'habitude de voyager d'être orientées, conseillées, guidées dans leur choix de destination, leur réservation de vols et d'hôtels. Mais de toute évidence, elles sont aussi un piège, car elles facturent au prix fort des services que les clients peuvent trouver deux ou trois fois moins cher sur internet. Par ailleurs, les agences proposent souvent des hébergements dans leurs hôtels partenaires, qui ne sont pas nécessairement les meilleurs ou les mieux situés. Enfin, certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple.",
     "right_option": "D",
     "highlights": [
-      "certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple",
-      "vendent des services dont le client n'a pas nécessairement besoin",
-      "comme les services de guide par exemple"
+      "certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple"
     ]
   },
   {
@@ -377,7 +377,9 @@
     "right_option": "C",
     "highlights": [
       "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés",
-      "la technologie permet aujourd'hui de quantifier tout cela en temps réel : c'est le fameux phénomène de l'automesure",
+      "les données physiologiques humaines constituent un formidable champ d'investigation",
+      "la technologie permet aujourd'hui de quantifier tout cela en temps réel",
+      "c'est le fameux phénomène de l'automesure",
       "en anglais le quantified self",
       "le pèse-personne connecté enregistre votre poids au jour le jour",
       "vous permet de retrouver les données sur votre mobile via une application dédiée"
@@ -418,9 +420,8 @@
       "le stress",
       "une alimentation tardive",
       "l'absence de routine de sommeil",
-      "sont des facteurs clés",
-      "Ces éléments perturbent notre horloge biologique",
-      "altèrent la qualité de notre sommeil"
+      "des facteurs clés",
+      "Ces éléments perturbent notre horloge biologique et altèrent la qualité de notre sommeil"
     ]
   },
   {
@@ -435,10 +436,12 @@
     "audio_transcript": "Mesdames et messieurs, aujourd'hui nous avons l'honneur de recevoir le philosophe et professeur émérite Jean-Philippe Rousseau. Monsieur Rousseau, merci de vous être joint à nous pour discuter des apports de la philosophie moderne dans la société actuelle. Merci pour votre invitation. La philosophie, loin d'être une discipline abstraite, a des implications profondes dans notre manière de comprendre les grandes questions existentielles, politiques et sociales. Elle continue d'influencer les fondements de notre pensée contemporaine. Quel rôle la philosophie moderne joue-t-elle dans les débats contemporains sur la liberté et l'autonomie individuelle ? La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie. Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique. Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales, ce qui reste un sujet central dans nos sociétés contemporaines. Pensez-vous que la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels ? Absolument. Et c'est précisément dans ces moments d'évolution technologique rapide que la philosophie doit intervenir. Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer, comme la question de la nature humaine à l'ère de l'intelligence artificielle et de la surveillance de masse.",
     "right_option": "B",
     "highlights": [
-      "La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie.",
       "Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales",
       "ce qui reste un sujet central dans nos sociétés contemporaines",
-      "Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique"
+      "La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie",
+      "Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique",
+      "la philosophie doit intervenir",
+      "Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer"
     ]
   },
   {
@@ -453,13 +456,13 @@
     "audio_transcript": "Mesdames et messieurs, aujourd'hui nous avons l'honneur de recevoir le philosophe et professeur émérite Jean-Philippe Rousseau. Monsieur Rousseau, merci de vous être joint à nous pour discuter des apports de la philosophie moderne dans la société actuelle. Merci pour votre invitation. La philosophie, loin d'être une discipline abstraite, a des implications profondes dans notre manière de comprendre les grandes questions existentielles, politiques et sociales. Elle continue d'influencer les fondements de notre pensée contemporaine. Quel rôle la philosophie moderne joue-t-elle dans les débats contemporains sur la liberté et l'autonomie individuelle ? La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie. Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique. Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales, ce qui reste un sujet central dans nos sociétés contemporaines. Pensez-vous que la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels ? Absolument. Et c'est précisément dans ces moments d'évolution technologique rapide que la philosophie doit intervenir. Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer, comme la question de la nature humaine à l'ère de l'intelligence artificielle et de la surveillance de masse.",
     "right_option": "A",
     "highlights": [
-      "Pensez-vous que la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels ?",
-      "Absolument.",
+      "la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels",
       "c'est précisément dans ces moments d'évolution technologique rapide que la philosophie doit intervenir",
       "Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer",
       "la question de la nature humaine à l'ère de l'intelligence artificielle et de la surveillance de masse",
-      "La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie",
-      "Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales"
+      "Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales",
+      "la question de l'autonomie",
+      "un impératif politique"
     ]
   },
   {
@@ -478,7 +481,7 @@
       "D'une part, il y a la montée de l'unilatéralisme et des tensions géopolitiques entre grandes puissances",
       "ce qui fragilise les institutions multilatérales",
       "D'autre part, la question du changement climatique et des inégalités économiques mondiales nécessite une coopération renforcée et des mécanismes de gouvernance plus efficaces",
-      "les principaux défis auxquels la gouvernance mondiale doit faire face aujourd'hui"
+      "les défis globaux, comme la santé publique mondiale ou la crise climatique, imposent une coopération"
     ]
   },
   {
@@ -494,7 +497,9 @@
     "right_option": "C",
     "highlights": [
       "Les intérêts nationaux peuvent parfois sembler irréconciliables, mais la réalité est que les défis globaux, comme la santé publique mondiale ou la crise climatique, imposent une coopération.",
-      "Ce sont ces enjeux collectifs qui devraient obliger les nations à trouver des terrains d'entente malgré leurs divergences."
+      "Ce sont ces enjeux collectifs qui devraient obliger les nations à trouver des terrains d'entente malgré leurs divergences.",
+      "imposent une coopération",
+      "obliger les nations à trouver des terrains d'entente malgré leurs divergences"
     ]
   },
   {
@@ -509,7 +514,9 @@
     "audio_transcript": "L'essor des cryptomonnaies et les défis de la régulation financière. Depuis la création du bitcoin en deux mille neuf, les cryptomonnaies ont connu un essor spectaculaire, transformant l'industrie financière et remettant en question les systèmes monétaires traditionnels. Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement. Toutefois, cette révolution technologique s'accompagne de risques significatifs. Les cryptomonnaies sont souvent associées à des activités illicites comme le blanchiment d'argent et le financement du terrorisme, en raison de leur anonymat relatif et de l'absence de régulation. Les autorités financières à l'échelle mondiale sont confrontées à un dilemme : comment encadrer cette nouvelle forme de monnaie tout en préservant son caractère innovant ? Certains pays ont adopté des régulations strictes, comme la Chine, interdisant toute activité liée aux cryptomonnaies, tandis que d'autres, comme les États-Unis, optent pour une approche plus modérée visant à protéger les investisseurs sans étouffer l'innovation. Les institutions financières traditionnelles, elles, tentent de s'adapter en créant leurs propres solutions basées sur la technologie blockchain, tout en surveillant l'évolution du marché. L'avenir des cryptomonnaies dépendra largement de la capacité des régulateurs à trouver un équilibre entre la protection des consommateurs et la préservation de l'innovation. En parallèle, des questions éthiques émergent. Les cryptomonnaies, en permettant des transactions anonymes, favorisent-elles un monde plus libre ou un monde plus risqué ?",
     "right_option": "D",
     "highlights": [
-      "Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement"
+      "Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement",
+      "des transactions décentralisées et anonymes",
+      "attirent de plus en plus d'utilisateurs"
     ]
   },
   {
@@ -524,10 +531,9 @@
     "audio_transcript": "L'essor des cryptomonnaies et les défis de la régulation financière. Depuis la création du bitcoin en deux mille neuf, les cryptomonnaies ont connu un essor spectaculaire, transformant l'industrie financière et remettant en question les systèmes monétaires traditionnels. Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement. Toutefois, cette révolution technologique s'accompagne de risques significatifs. Les cryptomonnaies sont souvent associées à des activités illicites comme le blanchiment d'argent et le financement du terrorisme, en raison de leur anonymat relatif et de l'absence de régulation. Les autorités financières à l'échelle mondiale sont confrontées à un dilemme : comment encadrer cette nouvelle forme de monnaie tout en préservant son caractère innovant ? Certains pays ont adopté des régulations strictes, comme la Chine, interdisant toute activité liée aux cryptomonnaies, tandis que d'autres, comme les États-Unis, optent pour une approche plus modérée visant à protéger les investisseurs sans étouffer l'innovation. Les institutions financières traditionnelles, elles, tentent de s'adapter en créant leurs propres solutions basées sur la technologie blockchain, tout en surveillant l'évolution du marché. L'avenir des cryptomonnaies dépendra largement de la capacité des régulateurs à trouver un équilibre entre la protection des consommateurs et la préservation de l'innovation. En parallèle, des questions éthiques émergent. Les cryptomonnaies, en permettant des transactions anonymes, favorisent-elles un monde plus libre ou un monde plus risqué ?",
     "right_option": "A",
     "highlights": [
-      "Les autorités financières à l'échelle mondiale sont confrontées à un dilemme",
-      "comment encadrer cette nouvelle forme de monnaie tout en préservant son caractère innovant",
-      "L'avenir des cryptomonnaies dépendra largement de la capacité des régulateurs à trouver un équilibre entre la protection des consommateurs et la préservation de l'innovation",
-      "Certains pays ont adopté des régulations strictes, comme la Chine, interdisant toute activité liée aux cryptomonnaies, tandis que d'autres, comme les États-Unis, optent pour une approche plus modérée visant à protéger les investisseurs sans étouffer l'innovation"
+      "Les autorités financières à l'échelle mondiale sont confrontées à un dilemme : comment encadrer cette nouvelle forme de monnaie tout en préservant son caractère innovant ?",
+      "Certains pays ont adopté des régulations strictes, comme la Chine, interdisant toute activité liée aux cryptomonnaies, tandis que d'autres, comme les États-Unis, optent pour une approche plus modérée visant à protéger les investisseurs sans étouffer l'innovation.",
+      "L'avenir des cryptomonnaies dépendra largement de la capacité des régulateurs à trouver un équilibre entre la protection des consommateurs et la préservation de l'innovation."
     ]
   },
   {
@@ -545,9 +551,8 @@
       "le télétravail partiel est autorisé à raison de 2 jours par semaine, sous réserve d'accord du supérieur hiérarchique",
       "L'approbation dépend des besoins du service, des obligations de présence et de la continuité des missions",
       "En cas de refus, une justification motivée est obligatoire",
-      "sous réserve d'accord",
-      "dépend des besoins du service",
-      "de la continuité des missions"
+      "Le respect des plages horaires de disponibilité est impératif",
+      "sous réserve d'accord"
     ]
   },
   {
@@ -569,7 +574,8 @@
       "Le contrôle de niveau un n'a pas été systématiquement réalisé",
       "les engagements de crédit ne sont pas toujours validés par un agent comptable habilité",
       "L'inspection recommande une révision des procédures internes",
-      "une formation renforcée du personnel financier"
+      "une formation renforcée du personnel financier",
+      "la mise en place d'un outil de suivi automatisé"
     ]
   },
   {
@@ -586,10 +592,8 @@
     "highlights": [
       "À partir du premier mai, les conditions générales d'utilisation des services numériques de la plateforme gouvernementale seront modifiées",
       "L'usager devra consentir explicitement à chaque nouvelle collecte de données",
-      "les modalités d'accès aux données sensibles",
-      "les nouvelles procédures de confidentialité des données personnelles",
-      "En cas de non-adhésion aux nouvelles conditions, l'accès au service Korba sera suspendu",
-      "Ces modifications visent à renforcer la sécurité et la confidentialité des informations personnelles"
+      "Les changements portent principalement sur les modalités d'accès aux données sensibles, la gestion des droits d'utilisation et les nouvelles procédures de confidentialité des données personnelles",
+      "En cas de non-adhésion aux nouvelles conditions, l'accès au service Korba sera suspendu"
     ]
   },
   {
@@ -622,10 +626,10 @@
     "audio_transcript": "Par la présente, nous vous informons qu'un entretien disciplinaire est programmé le 15 mai à 14 heures 30 dans les locaux des ressources humaines. Cet entretien fait suite à l'incident survenu le 10 mai concernant votre conduite non conforme aux règles de l'entreprise. Nous vous invitons à vous présenter avec votre représentant syndical si vous le souhaitez, pour discuter des faits reprochés et des éventuelles sanctions. À l'issue de cet entretien, une décision définitive sera prise et vous en serez informé par écrit dans un délai de 5 jours. Nous vous prions de bien vouloir confirmer votre présence.",
     "right_option": "B",
     "highlights": [
-      "un entretien disciplinaire",
-      "l'incident survenu le 10 mai",
+      "pour discuter des faits reprochés",
+      "des éventuelles sanctions",
+      "Cet entretien fait suite à l'incident survenu le 10 mai",
       "votre conduite non conforme aux règles de l'entreprise",
-      "discuter des faits reprochés et des éventuelles sanctions",
       "une décision définitive sera prise"
     ]
   },
@@ -663,9 +667,7 @@
       "particulièrement dans le traitement des demandes de remboursement de frais professionnels",
       "n'ont pas respecté les délais imposés pour le dépôt des justificatifs",
       "ont omis de faire valider les dépenses par les responsables hiérarchiques",
-      "Les anomalies observées ont des répercussions sur la transparence et la fiabilité des comptes",
-      "Il est recommandé de mettre en place un module de formation pour les collaborateurs concernés",
-      "renforcer les contrôles automatisés dans le système de gestion des dépenses"
+      "Les anomalies observées ont des répercussions sur la transparence et la fiabilité des comptes"
     ]
   },
   {
@@ -701,11 +703,11 @@
     "highlights": [
       "Encourager une alimentation saine commence par l'éducation",
       "Les écoles, les campagnes de santé publique et les médias peuvent jouer un rôle clé",
-      "les gouvernements devraient mettre en place des politiques visant à limiter la publicité pour les aliments transformés et riches en sucre",
-      "Offrir des incitations fiscales pour les producteurs de produits locaux et durables pourrait également rendre les aliments sains plus accessibles à tous",
+      "les gouvernements devraient mettre en place des politiques",
+      "Offrir des incitations fiscales pour les producteurs de produits locaux et durables",
       "il est important d'adopter une approche personnelle",
       "Chaque individu doit prendre conscience de son alimentation et choisir des options plus nutritives",
-      "Une meilleure information sur l'impact des choix alimentaires permettrait également d'adopter de meilleures habitudes sur le long terme"
+      "Une meilleure information sur l'impact des choix alimentaires permettrait également d'adopter de meilleures habitudes"
     ]
   },
   {
@@ -720,12 +722,11 @@
     "audio_transcript": "Depuis plusieurs années, de nombreux rapports pointent la complexité excessive des démarches administratives. Il n'est pas rare que des citoyens renoncent à des droits ou prestations faute de compréhension ou en raison de procédures trop lourdes. Le besoin de simplification est désormais devenu un impératif démocratique autant qu'une exigence d'efficacité. Ce constat est largement partagé. Le labyrinthe réglementaire, conjugué à une surcharge documentaire, décourage souvent les usagers. Une simplification réelle suppose une refonte des processus internes, mais également un changement de posture des administrations elles-mêmes. Il ne suffit pas de digitaliser une procédure si l'architecture reste inchangée. Une clarification des textes, une centralisation des services et une meilleure interopérabilité entre administrations sont également nécessaires. De surcroît, toute réforme devrait s'accompagner d'une formation continue des agents afin qu'ils deviennent facilitateurs plutôt que simples exécutants. Une administration plus lisible permettrait également de restaurer la confiance des citoyens, souvent mise à mal par l'opacité perçue des dispositifs. Il ne s'agit donc pas uniquement d'alléger, mais de repenser fondamentalement la logique d'accès au droit.",
     "right_option": "D",
     "highlights": [
-      "Une simplification réelle suppose une refonte des processus internes",
-      "un changement de posture des administrations elles-mêmes",
-      "Il ne suffit pas de digitaliser une procédure si l'architecture reste inchangée",
-      "Une clarification des textes, une centralisation des services et une meilleure interopérabilité entre administrations sont également nécessaires",
-      "toute réforme devrait s'accompagner d'une formation continue des agents",
-      "Il ne s'agit donc pas uniquement d'alléger, mais de repenser fondamentalement la logique d'accès au droit"
+      "Une simplification réelle suppose une refonte des processus internes, mais également un changement de posture des administrations elles-mêmes.",
+      "Il ne suffit pas de digitaliser une procédure si l'architecture reste inchangée.",
+      "Une clarification des textes, une centralisation des services et une meilleure interopérabilité entre administrations sont également nécessaires.",
+      "De surcroît, toute réforme devrait s'accompagner d'une formation continue des agents afin qu'ils deviennent facilitateurs plutôt que simples exécutants.",
+      "Il ne s'agit donc pas uniquement d'alléger, mais de repenser fondamentalement la logique d'accès au droit."
     ]
   }
 ]

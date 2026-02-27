@@ -10,7 +10,10 @@
     ],
     "audio_transcript": "— Alors, tu prends laquelle ? — J'hésite un peu... Allez, je prends la robe bleue, elle m'ira mieux que la verte.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "la robe bleue",
+      "la verte"
+    ]
   },
   {
     "question_no": 2,
@@ -23,7 +26,11 @@
     ],
     "audio_transcript": "— Salut Jeanne, on a changé le lieu de la réunion. — On sera dans la salle 176 au lieu de la salle 116. — D'accord, merci pour l'info.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "on a changé le lieu de la réunion",
+      "salle 176",
+      "salle 116"
+    ]
   },
   {
     "question_no": 3,
@@ -36,7 +43,13 @@
     ],
     "audio_transcript": "— Comment se sont passées tes vacances ? — Super, je me suis bien reposé. Mais Joël bossait sur son ordi comme d'hab. — Vraiment ? — Oui, vraiment. Au début, je lui disais de me rejoindre, mais après je me suis dit tant pis pour lui, et j'en ai profité au max.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "je me suis bien reposé",
+      "Joël bossait sur son ordi",
+      "comme d'hab",
+      "je lui disais de me rejoindre",
+      "j'en ai profité au max"
+    ]
   },
   {
     "question_no": 4,
@@ -49,7 +62,11 @@
     ],
     "audio_transcript": "— On est le 5, c'est aujourd'hui ton entretien d'embauche, c'est bien ça ? — Ah non, c'est après-demain, et heureusement ça me laisse le temps de me préparer un peu plus.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "entretien d'embauche",
+      "après-demain",
+      "me préparer"
+    ]
   },
   {
     "question_no": 5,
@@ -62,7 +79,10 @@
     ],
     "audio_transcript": "Votre attention s'il vous plaît, le petit Nicolas attend ses parents à l'accueil du magasin. Merci de venir le chercher.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "le petit Nicolas attend ses parents",
+      "à l'accueil du magasin"
+    ]
   },
   {
     "question_no": 6,
@@ -75,7 +95,13 @@
     ],
     "audio_transcript": "Suite à une panne d'électricité sur la ligne C, le trafic est interrompu. Des bus de remplacement sont à votre disposition. Vous pouvez également prendre les trains des lignes A, B et D. Le trafic de la ligne C devrait reprendre dans 3 heures. Merci de votre compréhension.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "Suite à une panne d'électricité sur la ligne C",
+      "le trafic est interrompu",
+      "Des bus de remplacement sont à votre disposition",
+      "Vous pouvez également prendre les trains des lignes A, B et D",
+      "Le trafic de la ligne C devrait reprendre dans 3 heures"
+    ]
   },
   {
     "question_no": 7,
@@ -88,7 +114,12 @@
     ],
     "audio_transcript": "Chers clientes, chers clients, Du 5 juillet au trente-et-un août, votre magasin passe aux horaires d'été. Nous vous accueillerons de 9 heures à 13 heures, puis de 14 heures 30 à 20 heures, du lundi au samedi. Le dimanche, votre magasin sera ouvert de 9 heures à 13 heures.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "de 9 heures à 13 heures, puis de 14 heures 30 à 20 heures, du lundi au samedi",
+      "Du 5 juillet au trente-et-un août",
+      "votre magasin passe aux horaires d'été",
+      "Le dimanche, votre magasin sera ouvert de 9 heures à 13 heures"
+    ]
   },
   {
     "question_no": 8,
@@ -101,7 +132,10 @@
     ],
     "audio_transcript": "Chers spectateurs, Nous vous rappelons qu'il est interdit de manger et de boire dans la salle. Des rafraîchissements et des en-cas seront disponibles au bar durant l'entracte. Merci de votre compréhension.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "il est interdit de manger et de boire dans la salle",
+      "Des rafraîchissements et des en-cas seront disponibles au bar durant l'entracte"
+    ]
   },
   {
     "question_no": 9,
@@ -114,7 +148,12 @@
     ],
     "audio_transcript": "Bonjour Julie, Je vais quitter le bureau dans 10 minutes, mais je ne trouve pas mes clés. Je pense que je les ai oubliées à la maison. Tu peux vérifier s'il te plaît ? J'espère que je ne les ai pas perdues dehors. Sinon, je sonnerai et tu m'ouvriras. À tout à l'heure.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "je ne trouve pas mes clés",
+      "Je pense que je les ai oubliées à la maison",
+      "Tu peux vérifier s'il te plaît",
+      "J'espère que je ne les ai pas perdues dehors"
+    ]
   },
   {
     "question_no": 10,
@@ -127,7 +166,12 @@
     ],
     "audio_transcript": "Salut Ali, Je t'appelle juste pour t'informer que j'ai enfin reçu ma commande hier. Et devine quoi ? J'ai reçu un email du magasin ce matin, ils vont m'envoyer un chèque cadeau pour s'excuser du retard. Finalement, ça valait la peine d'attendre.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "Je t'appelle juste pour t'informer",
+      "j'ai enfin reçu ma commande hier",
+      "J'ai reçu un email du magasin ce matin",
+      "ils vont m'envoyer un chèque cadeau"
+    ]
   },
   {
     "question_no": 11,
@@ -140,7 +184,12 @@
     ],
     "audio_transcript": "Bonjour Jeanne, Ici Mario. J'ai bien reçu ta demande de congé, mais j'aimerais savoir si on peut modifier les dates de quelques jours pour que tu sois de retour au bureau le 13 octobre. On a une grosse réunion le 14 avec les clients chinois, et j'aimerais que tu sois là. Rappelle-moi quand tu auras reçu mon message, merci.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "j'aimerais savoir si on peut modifier les dates de quelques jours",
+      "pour que tu sois de retour au bureau le 13 octobre",
+      "On a une grosse réunion le 14 avec les clients chinois",
+      "j'aimerais que tu sois là"
+    ]
   },
   {
     "question_no": 12,
@@ -153,7 +202,13 @@
     ],
     "audio_transcript": "Bonjour madame Sylas, Ici madame Rouvais de l'école privée Sainte-Anne. Il manque un justificatif de domicile dans le dossier d'inscription de votre fils Raphaël. Pourriez-vous nous l'envoyer dès que possible à l'adresse suivante : secrétariat arobase sainte-tiret-anne.point.org ? Merci d'avance.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "Ici madame Rouvais de l'école privée Sainte-Anne",
+      "Il manque un justificatif de domicile dans le dossier d'inscription de votre fils Raphaël",
+      "Pourriez-vous nous l'envoyer",
+      "dès que possible",
+      "à l'adresse suivante : secrétariat arobase sainte-tiret-anne.point.org"
+    ]
   },
   {
     "question_no": 13,
@@ -166,7 +221,13 @@
     ],
     "audio_transcript": "Salut Fatiha, J'ai parlé à Julie et elle est d'accord pour garder mon chat pendant mon absence, donc tu n'as plus besoin de le garder. Merci encore de t'être proposée.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "J'ai parlé à Julie",
+      "elle est d'accord pour garder mon chat",
+      "pendant mon absence",
+      "donc tu n'as plus besoin de le garder",
+      "Merci encore de t'être proposée"
+    ]
   },
   {
     "question_no": 14,
@@ -179,7 +240,10 @@
     ],
     "audio_transcript": "Eden, c'est papa. Je viens de rentrer du travail, tu as encore oublié de fermer le frigo, franchement tu exagères, il est resté ouvert toute la journée.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "tu as encore oublié de fermer le frigo",
+      "il est resté ouvert toute la journée"
+    ]
   },
   {
     "question_no": 15,
@@ -192,7 +256,13 @@
     ],
     "audio_transcript": "Moi, j'ai un rottweiler très gentil, mais je vois bien que certaines personnes ont peur quand je marche avec lui dans la rue, et je comprends pourquoi. C'est à cause des faits divers de molosses qui ont blessé ou tué des gens, mais si le chien est bien dressé, il n'y aura pas de problème. Donc, si la race de mon chien était interdite, je serais vraiment furieux. Le problème, c'est les mauvais maîtres, pas les chiens.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "je comprends pourquoi",
+      "C'est à cause des faits divers de molosses qui ont blessé ou tué des gens",
+      "mais si le chien est bien dressé, il n'y aura pas de problème",
+      "si la race de mon chien était interdite, je serais vraiment furieux",
+      "Le problème, c'est les mauvais maîtres, pas les chiens"
+    ]
   },
   {
     "question_no": 16,
@@ -205,7 +275,13 @@
     ],
     "audio_transcript": "J'habite dans un quartier sensible en banlieue, et franchement c'est une catastrophe. Là-bas, il y a des pitbulls partout. Je ne me suis jamais fait mordre, mais ma voisine si. Ces chiens sont dangereux, et leur maître encore plus. Donc moi, je suis pour l'interdiction de ce genre de chien.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "franchement c'est une catastrophe",
+      "il y a des pitbulls partout",
+      "Ces chiens sont dangereux",
+      "leur maître encore plus",
+      "Donc moi, je suis pour l'interdiction de ce genre de chien"
+    ]
   },
   {
     "question_no": 17,
@@ -218,7 +294,14 @@
     ],
     "audio_transcript": "C'est clair qu'il faut réguler tout ça parce qu'aujourd'hui, n'importe qui peut avoir un chien de n'importe quelle race. Alors peut-être qu'on peut interdire le temps de mettre en place des règles et des lois. Et après, quand tout sera régulé, que les maîtres seront obligés de dresser leurs chiens par exemple, on pourra à nouveau accepter toutes les races de chiens.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "C'est clair qu'il faut réguler tout ça",
+      "n'importe qui peut avoir un chien de n'importe quelle race",
+      "peut-être qu'on peut interdire le temps de mettre en place des règles et des lois",
+      "Et après, quand tout sera régulé",
+      "que les maîtres seront obligés de dresser leurs chiens par exemple",
+      "on pourra à nouveau accepter toutes les races de chiens"
+    ]
   },
   {
     "question_no": 18,
@@ -231,7 +314,12 @@
     ],
     "audio_transcript": "Ma fille a un téléphone portable et elle l'emmène au collège. Si j'apprenais qu'elle l'utilisait en classe ou même dans la cour de récré, je lui confisquerais son portable sur le champ. L'école, c'est fait pour étudier, pas pour téléphoner ou regarder TikTok. Donc, c'est primordial qu'on ait des règles claires pour éviter que les enfants les utilisent dans les établissements.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "c'est primordial qu'on ait des règles claires",
+      "primordial",
+      "Si j'apprenais qu'elle l'utilisait en classe ou même dans la cour de récré, je lui confisquerais son portable sur le champ",
+      "L'école, c'est fait pour étudier, pas pour téléphoner ou regarder TikTok"
+    ]
   },
   {
     "question_no": 19,
@@ -244,7 +332,11 @@
     ],
     "audio_transcript": "C'est vrai qu'on a pas mal de problèmes de harcèlement scolaire et aussi sur les réseaux sociaux. Mais est-ce qu'interdire les téléphones à l'école est la solution ? Je ne sais pas. Et puis de toute façon, j'ai pas d'enfants, donc je laisse les parents décider.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "Je ne sais pas",
+      "je laisse les parents décider",
+      "j'ai pas d'enfants, donc"
+    ]
   },
   {
     "question_no": 20,
@@ -257,7 +349,12 @@
     ],
     "audio_transcript": "Je crois que les téléphones font partie intégrante de notre vie, qu'on le veuille ou non. Interdire les téléphones à l'école, au collège ou au lycée, c'est important et c'est la chose à faire dans la plupart des établissements. Mais selon moi, la vraie priorité, c'est l'éducation aux médias et aux réseaux sociaux. Sans ça, interdire les téléphones ne sert à rien.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "c'est important",
+      "la vraie priorité, c'est l'éducation aux médias et aux réseaux sociaux",
+      "Sans ça, interdire les téléphones ne sert à rien",
+      "Mais selon moi"
+    ]
   },
   {
     "question_no": 21,
@@ -270,7 +367,12 @@
     ],
     "audio_transcript": "Et si vous pouviez voyager le temps d'un repas ? C'est ce que vous propose le festival Cuisine du Monde, qui a lieu tous les ans à Paris. Pendant un week-end, les visiteurs goûtent des plats du monde entier, cuisinés par des chefs renommés français et étrangers, ainsi que des membres d'associations culinaires. Ce festival, créé par une association de quartier il y a 10 ans, a pris une ampleur spectaculaire, mais il reste toujours à la fois convivial et ouvert sur le monde et les autres. Ce qui avait commencé comme un projet de quartier s'est transformé en un rendez-vous incontournable mêlant cuisine étoilée et action sociale. Comme l'année dernière, les membres d'associations culinaires de quartier côtoient des chefs étoilés venus des quatre coins du monde, et de France bien sûr. Un voyage assuré pour les papilles.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "festival Cuisine du Monde, qui a lieu tous les ans à Paris",
+      "les visiteurs goûtent des plats du monde entier, cuisinés par des chefs renommés français et étrangers, ainsi que des membres d'associations culinaires",
+      "créé par une association de quartier il y a 10 ans",
+      "les membres d'associations culinaires de quartier côtoient des chefs étoilés venus des quatre coins du monde, et de France bien sûr"
+    ]
   },
   {
     "question_no": 22,
@@ -283,7 +385,14 @@
     ],
     "audio_transcript": "Chers auditrices, chers auditeurs, Combien d'heures avez-vous dormi la nuit dernière ? 5 heures, 8 heures ? À quelle heure vous êtes-vous couché, puis réveillé ? Ces questions peuvent paraître intrusives, mais y répondre est essentiel si vous souhaitez prendre en main votre santé. Donc, si vous dormez peu la nuit parce que vous regardez vos écrans ou que vous travaillez sur vos dossiers jusqu'à pas d'heure, les informations qui vont suivre vont peut-être vous faire changer. En effet, des études ont montré que le manque de sommeil a des effets très graves sur la santé, entre autres : augmentation des risques de maladies cardiaques et neurodégénératives, de cancer et d'obésité. De plus, le manque de sommeil affecte les capacités cognitives. Ainsi, on est moins vigilant, on a du mal à se concentrer et à penser de façon logique quand on manque de sommeil. Et si on prend le volant dans ces conditions, on devient un danger pour soi et pour les autres. Un dernier fait : des études ont montré que le manque de sommeil accélère le vieillissement des cellules, y compris celles de la peau. Peut-être que cette dernière information vous motivera à dormir plus la nuit. En tout cas, je l'espère. À bientôt pour une nouvelle chronique santé.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "si vous dormez peu la nuit parce que vous regardez vos écrans ou que vous travaillez sur vos dossiers jusqu'à pas d'heure, les informations qui vont suivre vont peut-être vous faire changer",
+      "des études ont montré que le manque de sommeil a des effets très graves sur la santé",
+      "le manque de sommeil affecte les capacités cognitives",
+      "on est moins vigilant, on a du mal à se concentrer et à penser de façon logique quand on manque de sommeil",
+      "des études ont montré que le manque de sommeil accélère le vieillissement des cellules",
+      "y compris celles de la peau"
+    ]
   },
   {
     "question_no": 23,
@@ -296,7 +405,13 @@
     ],
     "audio_transcript": "Ce soir, nous recevons l'auteur Jacques Roulier. — Bonsoir monsieur Roulier. — Bonsoir madame Loris. Vous êtes l'auteur de l'essai Tout s'accro aux écrans dans lequel vous parlez de la dépendance aux téléphones portables, aux ordinateurs et aux réseaux sociaux. Ma première question est la suivante : Peut-on vraiment parler de dépendance ? Un écran, ce n'est pas une cigarette ou de la drogue, alors pourquoi ce titre ? — J'utilise le terme « accro » dans le titre du livre de façon provocatrice, pour choquer et susciter la curiosité. Mon but est que les gens le lisent et que les consciences s'éveillent. Mais dans mon essai, j'explique bien que les cas d'addiction au sens psychiatrique du terme sont rares. Cependant, je pense que la plupart des gens utilisent leurs écrans de manière excessive et inquiétante, en particulier les jeunes qui passent des heures dessus et dont la santé est à risque à cause des écrans. Par exemple, selon une étude menée en 2019 par des chercheurs de l'université de Californie, les jeunes qui passent plus de 7 heures par jour devant un écran ont une diminution de la substance blanche dans leur cerveau, ce qui peut nuire à leur capacité à apprendre et à se concentrer. Et la surexposition aux écrans engendre d'autres problèmes chez les enfants et les adultes, comme l'obésité et l'augmentation des risques cardiaques dus à une baisse de l'activité physique à cause du temps passé devant les écrans. Sans parler des études qui mentionnent les troubles psychiatriques et psychologiques liés à l'exposition intense aux écrans, comme la dépression. Je pense sincèrement que c'est un problème de santé publique qui explosera à l'avenir et dont on voit déjà les retombées. Il faut qu'on se réveille et qu'on cherche des solutions. Dans votre essai, vous exposez et dénoncez les faits et vous imaginez les conséquences que la surexposition aux écrans pourrait avoir sur notre civilisation. Mais vous ne donnez pas de solutions claires, comme interdire le téléphone aux enfants ou réguler les heures d'utilisation. Pourquoi ça ? Pourquoi ne pas proposer de solutions ? — Ce n'est pas le but de mon essai. Ce livre, c'est un peu ma façon de lancer l'alerte. Et vous avez raison, il y a des solutions qui paraissent simples à priori. Mais c'est sans compter les outils et les créateurs auxquels on est exposé. Facebook, YouTube, Twitter, tous ces réseaux sont conçus pour être, entre guillemets, addictifs. Je compte explorer ces questions et aussi proposer des solutions dans mon prochain livre. Pour l'instant, mon objectif est de réveiller les gens.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "J'utilise le terme « accro » dans le titre du livre de façon provocatrice",
+      "pour choquer et susciter la curiosité",
+      "Mon but est que les gens le lisent et que les consciences s'éveillent",
+      "dans mon essai, j'explique bien que les cas d'addiction au sens psychiatrique du terme sont rares",
+      "Un écran, ce n'est pas une cigarette ou de la drogue"
+    ]
   },
   {
     "question_no": 24,
@@ -309,7 +424,13 @@
     ],
     "audio_transcript": "Ce soir, nous recevons l'auteur Jacques Roulier. — Bonsoir monsieur Roulier. — Bonsoir madame Loris. Vous êtes l'auteur de l'essai Tout s'accro aux écrans dans lequel vous parlez de la dépendance aux téléphones portables, aux ordinateurs et aux réseaux sociaux. Ma première question est la suivante : Peut-on vraiment parler de dépendance ? Un écran, ce n'est pas une cigarette ou de la drogue, alors pourquoi ce titre ? — J'utilise le terme « accro » dans le titre du livre de façon provocatrice, pour choquer et susciter la curiosité. Mon but est que les gens le lisent et que les consciences s'éveillent. Mais dans mon essai, j'explique bien que les cas d'addiction au sens psychiatrique du terme sont rares. Cependant, je pense que la plupart des gens utilisent leurs écrans de manière excessive et inquiétante, en particulier les jeunes qui passent des heures dessus et dont la santé est à risque à cause des écrans. Par exemple, selon une étude menée en 2019 par des chercheurs de l'université de Californie, les jeunes qui passent plus de 7 heures par jour devant un écran ont une diminution de la substance blanche dans leur cerveau, ce qui peut nuire à leur capacité à apprendre et à se concentrer. Et la surexposition aux écrans engendre d'autres problèmes chez les enfants et les adultes, comme l'obésité et l'augmentation des risques cardiaques dus à une baisse de l'activité physique à cause du temps passé devant les écrans. Sans parler des études qui mentionnent les troubles psychiatriques et psychologiques liés à l'exposition intense aux écrans, comme la dépression. Je pense sincèrement que c'est un problème de santé publique qui explosera à l'avenir et dont on voit déjà les retombées. Il faut qu'on se réveille et qu'on cherche des solutions. Dans votre essai, vous exposez et dénoncez les faits et vous imaginez les conséquences que la surexposition aux écrans pourrait avoir sur notre civilisation. Mais vous ne donnez pas de solutions claires, comme interdire le téléphone aux enfants ou réguler les heures d'utilisation. Pourquoi ça ? Pourquoi ne pas proposer de solutions ? — Ce n'est pas le but de mon essai. Ce livre, c'est un peu ma façon de lancer l'alerte. Et vous avez raison, il y a des solutions qui paraissent simples à priori. Mais c'est sans compter les outils et les créateurs auxquels on est exposé. Facebook, YouTube, Twitter, tous ces réseaux sont conçus pour être, entre guillemets, addictifs. Je compte explorer ces questions et aussi proposer des solutions dans mon prochain livre. Pour l'instant, mon objectif est de réveiller les gens.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "la surexposition aux écrans engendre d'autres problèmes chez les enfants et les adultes",
+      "comme l'obésité et l'augmentation des risques cardiaques dus à une baisse de l'activité physique à cause du temps passé devant les écrans",
+      "les jeunes qui passent plus de 7 heures par jour devant un écran ont une diminution de la substance blanche dans leur cerveau, ce qui peut nuire à leur capacité à apprendre et à se concentrer",
+      "la santé est à risque à cause des écrans",
+      "Je pense sincèrement que c'est un problème de santé publique"
+    ]
   },
   {
     "question_no": 25,
@@ -322,7 +443,12 @@
     ],
     "audio_transcript": "Le Canada fait-il toujours rêver ou est-ce que le reste du monde devient de plus en plus cauchemardesque ? C'est la question qu'on pose aujourd'hui à Matteo Gardien, journaliste spécialiste de l'immigration en Amérique du Nord. Monsieur Gardien, bonsoir et merci d'être avec nous ce soir. — Bonsoir et merci de me recevoir. Alors, peut-on parler d'une crise de l'immigration au Canada ? — C'est vrai que le nombre de demandes d'immigration dans le cadre des programmes d'immigration gouvernementaux augmente depuis plusieurs années. Pour ce qui est des demandes d'asile, elles ont explosé de 56 % en un an. Depuis des siècles, le Canada est passé de colonie à terre d'accueil pour les migrants. Je précise que j'emploie le terme colonie parce que, rappelons-le, les autochtones vivaient sur ces terres bien avant les Français puis les Britanniques. Ces dernières décennies, le pays a dû faire face à des défis importants, notamment en matière de logement et d'accès aux soins. Donc, bien que le Canada ait besoin de migrants et qu'il adopte une politique d'immigration volontaire et contrôlée, la gestion de cet afflux de population reste difficile. Ajoutez à ça l'arrivée de nombreux demandeurs d'asile, et ça complique encore plus les choses. En 2023, 5 000 000 de personnes ont fait une demande d'immigration au Canada. Clairement, le Canada attire du monde, mais est-ce que le pays en accueille trop ? Parce que selon un sondage, 44 % des Canadiens pensent que oui, c'est trop. La réalité, c'est que le pays est vieillissant et qu'il a besoin de main-d'œuvre qualifiée. Dans ces conditions, je pense que l'immigration n'est pas une option, c'est une nécessité. C'est pourquoi le gouvernement canadien souhaite accueillir 500 000 immigrants d'ici 2025 pour régler ces problèmes. Mais les réticences de certains citoyens, y compris de certains politiques, sont compréhensibles. Comme je l'ai dit plus tôt, le manque de logement et les difficultés d'accès aux soins de santé sont des réalités quotidiennes pour les Canadiens. C'est donc logique que certains questionnent la capacité d'accueil du pays et souhaitent restreindre le nombre d'arrivants.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "le gouvernement canadien souhaite accueillir 500 000 immigrants d'ici 2025",
+      "Pour ce qui est des demandes d'asile, elles ont explosé de 56 % en un an",
+      "En 2023, 5 000 000 de personnes ont fait une demande d'immigration au Canada",
+      "selon un sondage, 44 % des Canadiens pensent que oui, c'est trop"
+    ]
   },
   {
     "question_no": 26,
@@ -335,7 +461,13 @@
     ],
     "audio_transcript": "Le Canada fait-il toujours rêver ou est-ce que le reste du monde devient de plus en plus cauchemardesque ? C'est la question qu'on pose aujourd'hui à Matteo Gardien, journaliste spécialiste de l'immigration en Amérique du Nord. Monsieur Gardien, bonsoir et merci d'être avec nous ce soir. — Bonsoir et merci de me recevoir. Alors, peut-on parler d'une crise de l'immigration au Canada ? — C'est vrai que le nombre de demandes d'immigration dans le cadre des programmes d'immigration gouvernementaux augmente depuis plusieurs années. Pour ce qui est des demandes d'asile, elles ont explosé de 56 % en un an. Depuis des siècles, le Canada est passé de colonie à terre d'accueil pour les migrants. Je précise que j'emploie le terme colonie parce que, rappelons-le, les autochtones vivaient sur ces terres bien avant les Français puis les Britanniques. Ces dernières décennies, le pays a dû faire face à des défis importants, notamment en matière de logement et d'accès aux soins. Donc, bien que le Canada ait besoin de migrants et qu'il adopte une politique d'immigration volontaire et contrôlée, la gestion de cet afflux de population reste difficile. Ajoutez à ça l'arrivée de nombreux demandeurs d'asile, et ça complique encore plus les choses. En 2023, 5 000 000 de personnes ont fait une demande d'immigration au Canada. Clairement, le Canada attire du monde, mais est-ce que le pays en accueille trop ? Parce que selon un sondage, 44 % des Canadiens pensent que oui, c'est trop. La réalité, c'est que le pays est vieillissant et qu'il a besoin de main-d'œuvre qualifiée. Dans ces conditions, je pense que l'immigration n'est pas une option, c'est une nécessité. C'est pourquoi le gouvernement canadien souhaite accueillir 500 000 immigrants d'ici 2025 pour régler ces problèmes. Mais les réticences de certains citoyens, y compris de certains politiques, sont compréhensibles. Comme je l'ai dit plus tôt, le manque de logement et les difficultés d'accès aux soins de santé sont des réalités quotidiennes pour les Canadiens. C'est donc logique que certains questionnent la capacité d'accueil du pays et souhaitent restreindre le nombre d'arrivants.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "C'est donc logique que certains questionnent la capacité d'accueil du pays et souhaitent restreindre le nombre d'arrivants.",
+      "les réticences de certains citoyens, y compris de certains politiques, sont compréhensibles",
+      "le manque de logement et les difficultés d'accès aux soins de santé sont des réalités quotidiennes pour les Canadiens",
+      "le pays a dû faire face à des défis importants, notamment en matière de logement et d'accès aux soins",
+      "la gestion de cet afflux de population reste difficile"
+    ]
   },
   {
     "question_no": 27,
@@ -348,7 +480,14 @@
     ],
     "audio_transcript": "Aujourd'hui, je reçois Jade Tran, pédiatre qui milite pour une éducation multiculturelle dans tous les établissements scolaires. — Jade, bonjour et merci d'être là. — Bonjour Armand, merci de m'accueillir. Tout d'abord, pouvez-vous nous expliquer ce qu'est l'éducation multiculturelle ? — Oui, avec plaisir. L'éducation multiculturelle est un type de modèle éducatif qui met en avant la diversité et l'équité. Les enseignants cherchent à mieux comprendre les cultures des élèves, et quand c'est possible, ils alignent le contenu de leurs cours aux antécédents des apprenants. Par ailleurs, ce type d'éducation initie l'ensemble des élèves à divers horizons culturels, croyances et valeurs. Concrètement, certains enseignants peuvent ajuster leur programme pour refléter la diversité culturelle des élèves d'une classe spécifique. L'objectif est de favoriser l'équité en matière d'éducation en classe, en éliminant les obstacles pour les élèves de diverses origines culturelles. Mais l'éducation multiculturelle s'applique dans diverses sphères, comme la sphère familiale par exemple. — Merci de le préciser. On peut d'ailleurs aborder cet aspect de l'éducation multiculturelle en répondant à la question d'un auditeur qui pose la question suivante : « Si mon enfant apprend ma langue maternelle, aura-t-il du mal à apprendre la langue du pays d'accueil correctement ? » — C'est une très bonne question. Si vous avez immigré avec vos enfants ou si vos enfants sont nés dans le pays d'accueil, je vous recommande fortement de leur parler dans votre langue maternelle. C'est un moyen de leur transmettre votre culture et de les aider à construire leur identité. En plus, cela ne les empêchera pas d'apprendre la langue du pays d'accueil, bien au contraire. Il y a de nombreuses études qui montrent que le multilinguisme est bénéfique pour le développement cognitif des enfants. Donc monsieur, oui, vous pouvez parler à vos enfants dans votre langue maternelle.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "L'éducation multiculturelle est un type de modèle éducatif qui met en avant la diversité et l'équité.",
+      "Les enseignants cherchent à mieux comprendre les cultures des élèves, et quand c'est possible, ils alignent le contenu de leurs cours aux antécédents des apprenants.",
+      "ce type d'éducation initie l'ensemble des élèves à divers horizons culturels, croyances et valeurs.",
+      "certains enseignants peuvent ajuster leur programme pour refléter la diversité culturelle des élèves d'une classe spécifique.",
+      "L'objectif est de favoriser l'équité en matière d'éducation en classe, en éliminant les obstacles pour les élèves de diverses origines culturelles.",
+      "Mais l'éducation multiculturelle s'applique dans diverses sphères"
+    ]
   },
   {
     "question_no": 28,
@@ -361,7 +500,13 @@
     ],
     "audio_transcript": "Aujourd'hui, je reçois Jade Tran, pédiatre qui milite pour une éducation multiculturelle dans tous les établissements scolaires. — Jade, bonjour et merci d'être là. — Bonjour Armand, merci de m'accueillir. Tout d'abord, pouvez-vous nous expliquer ce qu'est l'éducation multiculturelle ? — Oui, avec plaisir. L'éducation multiculturelle est un type de modèle éducatif qui met en avant la diversité et l'équité. Les enseignants cherchent à mieux comprendre les cultures des élèves, et quand c'est possible, ils alignent le contenu de leurs cours aux antécédents des apprenants. Par ailleurs, ce type d'éducation initie l'ensemble des élèves à divers horizons culturels, croyances et valeurs. Concrètement, certains enseignants peuvent ajuster leur programme pour refléter la diversité culturelle des élèves d'une classe spécifique. L'objectif est de favoriser l'équité en matière d'éducation en classe, en éliminant les obstacles pour les élèves de diverses origines culturelles. Mais l'éducation multiculturelle s'applique dans diverses sphères, comme la sphère familiale par exemple. — Merci de le préciser. On peut d'ailleurs aborder cet aspect de l'éducation multiculturelle en répondant à la question d'un auditeur qui pose la question suivante : « Si mon enfant apprend ma langue maternelle, aura-t-il du mal à apprendre la langue du pays d'accueil correctement ? » — C'est une très bonne question. Si vous avez immigré avec vos enfants ou si vos enfants sont nés dans le pays d'accueil, je vous recommande fortement de leur parler dans votre langue maternelle. C'est un moyen de leur transmettre votre culture et de les aider à construire leur identité. En plus, cela ne les empêchera pas d'apprendre la langue du pays d'accueil, bien au contraire. Il y a de nombreuses études qui montrent que le multilinguisme est bénéfique pour le développement cognitif des enfants. Donc monsieur, oui, vous pouvez parler à vos enfants dans votre langue maternelle.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "je vous recommande fortement de leur parler dans votre langue maternelle",
+      "C'est un moyen de leur transmettre votre culture",
+      "cela ne les empêchera pas d'apprendre la langue du pays d'accueil, bien au contraire",
+      "le multilinguisme est bénéfique pour le développement cognitif des enfants",
+      "vous pouvez parler à vos enfants dans votre langue maternelle"
+    ]
   },
   {
     "question_no": 29,
@@ -374,7 +519,15 @@
     ],
     "audio_transcript": "Selon un sondage mené en 2023, 54 % des jeunes Français âgés de 18 à 24 ans souhaitent quitter la France. 30 % des Français, tous groupes d'âge confondus, ont le même désir. Mais pourquoi veulent-ils quitter leur pays ? Sonia, vingt-et-un ans, nous explique ses raisons. — Franchement, c'est dur de réussir ici quand on ne vient pas d'un milieu favorisé. Non seulement il y a le chômage, mais en plus de ça, devenir propriétaire, c'est presque impossible même quand on a un travail. Par exemple, ma mère a voulu acheter, elle a économisé 30 000 euros pour avoir un apport. Elle veut acheter un appart à 98 000 euros, mais le banquier refuse de lui accorder le prêt. Il dit qu'elle doit avoir un plus gros apport pour qu'il lui prête l'argent. C'est n'importe quoi ce pays. Pourtant, selon l'INSEE, le taux de chômage s'est stabilisé à 7,5 % au premier trimestre 2024. Pour ce qui est de l'immobilier et du logement, il y a bel et bien une crise. En 2023, le nombre de ventes a chuté de 22 %, tandis que la construction de logements sociaux a pris un retard considérable. Si on ajoute à cela les tensions sociales et le climat politique, notamment depuis les dernières législatives, on comprend mieux les envies de départ de certains Français. Samia, 30 ans, est ingénieure informatique, elle gagne bien sa vie et elle est propriétaire d'un appartement en proche banlieue parisienne. A priori, elle n'a aucune raison de partir, et pourtant, elle envisage de s'installer au Maroc. — Je suis née en France, mais j'avoue que depuis quelque temps, j'ai du mal à appeler la France mon pays. Le climat social et politique devient vraiment étouffant. Comme vous voyez, je ne porte pas le voile, mais ma mère oui, et je ne supporte plus les regards sur elle. C'est pareil dans les médias : tous les discours et propos, souvent racistes selon moi, c'est vraiment insupportable. Donc honnêtement, partir, j'y pense beaucoup. Le crédit de mon appartement est payé, je peux le vendre sans regret. Et en plus, dans mon secteur, travailler à l'étranger n'est pas difficile, et puis je peux travailler à distance. Comme Samia, plusieurs Français musulmans ont quitté ou envisagent de quitter la France. Et selon une enquête, la majorité d'entre eux sont hautement diplômés et qualifiés. Une perte pour la France, mais cette tendance ne semble pas s'estomper. Marc Garriglio, Radio Bleu.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "Selon un sondage mené en 2023, 54 % des jeunes Français âgés de 18 à 24 ans souhaitent quitter la France",
+      "30 % des Français, tous groupes d'âge confondus, ont le même désir",
+      "Mais pourquoi veulent-ils quitter leur pays ?",
+      "elle envisage de s'installer au Maroc",
+      "plusieurs Français musulmans ont quitté ou envisagent de quitter la France",
+      "cette tendance ne semble pas s'estomper",
+      "Comme Samia, plusieurs Français musulmans ont quitté ou envisagent de quitter la France"
+    ]
   },
   {
     "question_no": 30,
@@ -387,7 +540,18 @@
     ],
     "audio_transcript": "Selon un sondage mené en 2023, 54 % des jeunes Français âgés de 18 à 24 ans souhaitent quitter la France. 30 % des Français, tous groupes d'âge confondus, ont le même désir. Mais pourquoi veulent-ils quitter leur pays ? Sonia, vingt-et-un ans, nous explique ses raisons. — Franchement, c'est dur de réussir ici quand on ne vient pas d'un milieu favorisé. Non seulement il y a le chômage, mais en plus de ça, devenir propriétaire, c'est presque impossible même quand on a un travail. Par exemple, ma mère a voulu acheter, elle a économisé 30 000 euros pour avoir un apport. Elle veut acheter un appart à 98 000 euros, mais le banquier refuse de lui accorder le prêt. Il dit qu'elle doit avoir un plus gros apport pour qu'il lui prête l'argent. C'est n'importe quoi ce pays. Pourtant, selon l'INSEE, le taux de chômage s'est stabilisé à 7,5 % au premier trimestre 2024. Pour ce qui est de l'immobilier et du logement, il y a bel et bien une crise. En 2023, le nombre de ventes a chuté de 22 %, tandis que la construction de logements sociaux a pris un retard considérable. Si on ajoute à cela les tensions sociales et le climat politique, notamment depuis les dernières législatives, on comprend mieux les envies de départ de certains Français. Samia, 30 ans, est ingénieure informatique, elle gagne bien sa vie et elle est propriétaire d'un appartement en proche banlieue parisienne. A priori, elle n'a aucune raison de partir, et pourtant, elle envisage de s'installer au Maroc. — Je suis née en France, mais j'avoue que depuis quelque temps, j'ai du mal à appeler la France mon pays. Le climat social et politique devient vraiment étouffant. Comme vous voyez, je ne porte pas le voile, mais ma mère oui, et je ne supporte plus les regards sur elle. C'est pareil dans les médias : tous les discours et propos, souvent racistes selon moi, c'est vraiment insupportable. Donc honnêtement, partir, j'y pense beaucoup. Le crédit de mon appartement est payé, je peux le vendre sans regret. Et en plus, dans mon secteur, travailler à l'étranger n'est pas difficile, et puis je peux travailler à distance. Comme Samia, plusieurs Français musulmans ont quitté ou envisagent de quitter la France. Et selon une enquête, la majorité d'entre eux sont hautement diplômés et qualifiés. Une perte pour la France, mais cette tendance ne semble pas s'estomper. Marc Garriglio, Radio Bleu.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "Je suis née en France, mais j'avoue que depuis quelque temps, j'ai du mal à appeler la France mon pays.",
+      "Le climat social et politique devient vraiment étouffant.",
+      "Comme vous voyez, je ne porte pas le voile, mais ma mère oui, et je ne supporte plus les regards sur elle.",
+      "C'est pareil dans les médias : tous les discours et propos, souvent racistes selon moi, c'est vraiment insupportable.",
+      "Donc honnêtement, partir, j'y pense beaucoup.",
+      "elle envisage de s'installer au Maroc",
+      "Le crédit de mon appartement est payé, je peux le vendre sans regret.",
+      "dans mon secteur, travailler à l'étranger n'est pas difficile",
+      "plusieurs Français musulmans ont quitté ou envisagent de quitter la France",
+      "la majorité d'entre eux sont hautement diplômés et qualifiés"
+    ]
   },
   {
     "question_no": 31,
@@ -400,7 +564,13 @@
     ],
     "audio_transcript": "La grève des employés de l'entreprise Copalis se poursuit. Les négociations entre les syndicats et la direction n'ont abouti à aucune solution. Le représentant syndical Gilbert Glandois dénonce, je cite, une tentative d'intimidation de la direction. Il affirme que les propositions ne répondent à aucune demande du syndicat, mais en imposent d'autres. Et selon lui, la direction a stipulé que, sans accord, les licenciements seraient plus importants qu'initialement prévus. La direction réfute toute tentative d'intimidation et rappelle que la table des négociations restera ouverte jusqu'à lundi prochain.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "Les négociations entre les syndicats et la direction n'ont abouti à aucune solution",
+      "Le représentant syndical Gilbert Glandois dénonce, je cite, une tentative d'intimidation de la direction",
+      "Il affirme que les propositions ne répondent à aucune demande du syndicat",
+      "la direction a stipulé que, sans accord, les licenciements seraient plus importants qu'initialement prévus",
+      "La direction réfute toute tentative d'intimidation"
+    ]
   },
   {
     "question_no": 32,
@@ -413,7 +583,13 @@
     ],
     "audio_transcript": "Et maintenant une belle histoire sportive et humaine. Jeudi 29 août 2024, l'athlète Zakya Kudadadi a remporté la première médaille de l'histoire de l'équipe paralympique des réfugiés d'origine afghane. La jeune femme vit en France depuis 2021 après avoir fui son pays d'origine. Zakya Kudadadi se dit très fière d'avoir mis en lumière le para-taekwondo et l'ensemble des réfugiés. Elle dédie sa victoire aux femmes afghanes et à tous les réfugiés.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "a remporté la première médaille de l'histoire de l'équipe paralympique des réfugiés",
+      "d'origine afghane",
+      "La jeune femme vit en France depuis 2021",
+      "après avoir fui son pays d'origine",
+      "Elle dédie sa victoire aux femmes afghanes et à tous les réfugiés"
+    ]
   },
   {
     "question_no": 33,
@@ -426,7 +602,12 @@
     ],
     "audio_transcript": "Chers membres de l'association du quartier Saint-Louis et chers visiteurs, merci d'être présents à cette réunion. Ce soir, l'objectif est de présenter le calendrier des actions et activités du dernier trimestre. Je vais faire la première partie de la présentation, puis Loana prendra le relais. Ensuite, il y aura un moment de questions-réponses, et j'encourage aussi bien les adhérents que les visiteurs à poser des questions. Après les échanges, les visiteurs et habitants du quartier qui souhaitent s'inscrire à l'association pourront venir me voir. Et voici le meilleur pour la fin : on va socialiser autour d'un verre et de petits plats cuisinés par Yvette, Johanna et Paula. Je vous rappelle qu'Yvette et Paula sont des cordons bleus et que Johanna est chef étoilé, donc ne ratez pas les dégustations.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "Je vais faire la première partie de la présentation, puis Loana prendra le relais",
+      "Ensuite, il y aura un moment de questions-réponses",
+      "j'encourage aussi bien les adhérents que les visiteurs à poser des questions",
+      "Après les échanges, les visiteurs et habitants du quartier qui souhaitent s'inscrire à l'association pourront venir me voir"
+    ]
   },
   {
     "question_no": 34,
@@ -439,7 +620,14 @@
     ],
     "audio_transcript": "Un peu de douceur dans un monde de brutes, c'est ce que propose l'exposition immersive et interactive Sensation douce, qui explore le thème de la douceur à travers les cinq sens. L'exposition se tient jusqu'au 11 novembre, date symbolique puisqu'elle marque la fin de la Première Guerre mondiale. Un symbole pour le créateur de l'exposition, Gilles Duval, pour qui la douceur est une force sous-estimée. Les visiteurs pourront admirer des toiles et des sculptures, voir des films et des représentations de danse, et admirer des vêtements de haute couture qui évoquent la douceur. Ils pourront également toucher des matières textiles douces, écouter de la musique, danser et goûter des plats doux et goûteux, cuisinés par des chefs étoilés. Une exposition ambitieuse où le visiteur est invité à participer à une douce expérience qui encourage le dialogue et l'échange.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "explore le thème de la douceur à travers les cinq sens",
+      "L'exposition se tient jusqu'au 11 novembre, date symbolique puisqu'elle marque la fin de la Première Guerre mondiale",
+      "Un symbole pour le créateur de l'exposition, Gilles Duval, pour qui la douceur est une force sous-estimée",
+      "Les visiteurs pourront admirer des toiles et des sculptures, voir des films et des représentations de danse, et admirer des vêtements de haute couture",
+      "Ils pourront également toucher des matières textiles douces, écouter de la musique, danser et goûter des plats doux et goûteux",
+      "Une exposition ambitieuse où le visiteur est invité à participer à une douce expérience qui encourage le dialogue et l'échange"
+    ]
   },
   {
     "question_no": 35,
@@ -452,7 +640,13 @@
     ],
     "audio_transcript": "Vendredi 5 juillet, la chanteuse Jeanne Morgan fera son grand retour sur scène, après 5 ans d'absence. Le concert aura lieu au Haut-Brest Arena, tout un symbole pour l'artiste bretonne, native de Brest. Elle interprétera ses plus grands succès, mais aussi des titres inédits. Car oui, Jeanne Morgan nous offrira un nouvel album. C'est ce qu'elle a confié dans une interview parue dans le magazine Sonérase, précisant que son nouvel opus sortira le 10 septembre. Mais si vous êtes trop impatients pour attendre jusque-là, rendez-vous le 5 juillet dans le mythique Brest Arena.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "Vendredi 5 juillet, la chanteuse Jeanne Morgan fera son grand retour sur scène, après 5 ans d'absence",
+      "Le concert aura lieu au Haut-Brest Arena",
+      "Elle interprétera ses plus grands succès, mais aussi des titres inédits",
+      "son nouvel opus sortira le 10 septembre",
+      "rendez-vous le 5 juillet dans le mythique Brest Arena"
+    ]
   },
   {
     "question_no": 36,
@@ -465,7 +659,17 @@
     ],
     "audio_transcript": "C'est officiel, Édouard Philippe est candidat à la prochaine présidentielle. L'ex-premier ministre sous Macron de 2017 à 2020 a annoncé aujourd'hui qu'il entre dans la course, et ce n'est pas une surprise. Cependant, une question se pose : pourquoi aujourd'hui ? En effet, à ce jour, le président Macron n'a toujours pas nommé de nouveau Premier ministre suite aux législatives. Certains pensent qu'Édouard Philippe y a vu le moment opportun pour braquer la lumière sur lui. Encore nommé personnalité politique préférée des Français l'année dernière, selon un sondage IFOP, il est à présent devancé par Gabriel Attal. Dans ce contexte, faire parler de lui en pleine crise gouvernementale est certainement un coup politique. Si oui, on peut dire qu'il est réussi.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "Édouard Philippe est candidat à la prochaine présidentielle",
+      "a annoncé aujourd'hui qu'il entre dans la course",
+      "pourquoi aujourd'hui ?",
+      "L'ex-premier ministre sous Macron de 2017 à 2020",
+      "le président Macron n'a toujours pas nommé de nouveau Premier ministre",
+      "Édouard Philippe y a vu le moment opportun pour braquer la lumière sur lui",
+      "Encore nommé personnalité politique préférée des Français l'année dernière",
+      "il est à présent devancé par Gabriel Attal",
+      "faire parler de lui en pleine crise gouvernementale est certainement un coup politique"
+    ]
   },
   {
     "question_no": 37,
@@ -478,7 +682,13 @@
     ],
     "audio_transcript": "La rentrée approche à grands pas, et avec elle son lot de questions habituelles : est-ce qu'on aura le temps d'acheter toutes les fournitures scolaires ? On n'a toujours pas trouvé de baby-sitter, qu'est-ce qu'on va faire ? Je n'ai pas envie de reprendre le boulot, dois-je changer de carrière ? Comme vous le savez, la rentrée est un grand chamboulement. Pour la plupart, on doit reprendre le rythme métro, boulot, dodo. Ajoutez l'école, les devoirs, et le mal de tête commence. Si vous êtes stressé et angoissé par la rentrée et ne savez pas comment la gérer, ne manquez pas l'émission Vie pro, vie perso présentée par Jacqueline Riollay. Elle reçoit la psychothérapeute Léa Lejeune, autrice du livre Rentrez zen, préparons la reprise. Elle vous donnera des conseils pour vivre cette rentrée scolaire, professionnelle, associative ou autre en toute sérénité. Rendez-vous à 14 heures dans Vie pro vie perso.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "la psychothérapeute Léa Lejeune",
+      "Elle vous donnera des conseils pour vivre cette rentrée scolaire, professionnelle, associative ou autre en toute sérénité",
+      "ne manquez pas l'émission Vie pro, vie perso présentée par Jacqueline Riollay",
+      "Rendez-vous à 14 heures dans Vie pro vie perso",
+      "Si vous êtes stressé et angoissé par la rentrée et ne savez pas comment la gérer"
+    ]
   },
   {
     "question_no": 38,
@@ -491,7 +701,13 @@
     ],
     "audio_transcript": "Peut-on éviter le sucre ? D'après les associations de défense des consommateurs, y parvenir est un chemin de croix, et pour cause : le sucre semble être ajouté partout, dans le pain, dans les sauces, dans les boîtes de conserve, dans les plats surgelés. Les fabricants disent l'utiliser comme exhausteur de goût et comme conservateur. Mais les associations et plusieurs professionnels de santé dénoncent cela, arguant que des alternatives plus saines existent. Pour eux, la réelle raison de l'utilisation du sucre est son pouvoir addictif. Or, on connaît aujourd'hui les effets désastreux de la consommation de sucre ajouté sur la santé. En attendant une régulation plus forte de l'industrie agroalimentaire, une association a listé des produits contenant peu ou pas de sucre. Et plusieurs d'entre elles, ainsi que des professionnels de santé, ont signé une tribune pour dénoncer la situation.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "le sucre semble être ajouté partout, dans le pain, dans les sauces, dans les boîtes de conserve, dans les plats surgelés",
+      "Les fabricants disent l'utiliser comme exhausteur de goût et comme conservateur",
+      "les associations et plusieurs professionnels de santé dénoncent cela, arguant que des alternatives plus saines existent",
+      "la réelle raison de l'utilisation du sucre est son pouvoir addictif",
+      "on connaît aujourd'hui les effets désastreux de la consommation de sucre ajouté sur la santé"
+    ]
   },
   {
     "question_no": 39,
@@ -504,7 +720,16 @@
     ],
     "audio_transcript": "Plus de téléphones portables : c'est la nouvelle règle qui s'applique aux élèves de sixième de 200 collèges. Tous les matins, quand ils entrent dans le collège, on leur confisque leur téléphone portable. Une mesure qui vise à stopper l'usage de ces appareils dans les établissements scolaires afin d'améliorer la concentration et la sociabilité des élèves. Cette mesure sera étudiée durant un an par des professionnels de santé et de l'éducation mandatés par le gouvernement. Si les résultats sont concluants, elle sera reconduite et appliquée dans tous les établissements scolaires français.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "Plus de téléphones portables : c'est la nouvelle règle qui s'applique aux élèves de sixième de 200 collèges",
+      "on leur confisque leur téléphone portable",
+      "Une mesure qui vise à stopper l'usage de ces appareils dans les établissements scolaires",
+      "afin d'améliorer la concentration et la sociabilité des élèves",
+      "Cette mesure sera étudiée durant un an",
+      "par des professionnels de santé et de l'éducation mandatés par le gouvernement",
+      "Si les résultats sont concluants",
+      "elle sera reconduite et appliquée dans tous les établissements scolaires français"
+    ]
   },
   {
     "question_no": 40,
@@ -517,6 +742,15 @@
     ],
     "audio_transcript": "Bonjour à tous et merci d'être là aujourd'hui. Je voulais vous rencontrer pour vous parler d'un problème qui perdure depuis 3 mois, à savoir les retards de plusieurs d'entre vous les jours où on travaille au bureau. C'est un vrai problème, surtout quand on est sur des projets importants ou urgents. Vous ne devez venir au bureau que les mardis et jeudis pour qu'on se réunisse, mais la majorité d'entre vous arrivent en retard. Rappelez-vous qu'on a mis en place le télétravail suite à vos demandes, mais si les retards persistent quand on doit se retrouver ici, bien la direction n'aura plus d'autre choix que de revenir au travail en présentiel tous les jours.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "un problème qui perdure depuis 3 mois",
+      "les retards de plusieurs d'entre vous les jours où on travaille au bureau",
+      "C'est un vrai problème",
+      "Vous ne devez venir au bureau que les mardis et jeudis",
+      "la majorité d'entre vous arrivent en retard",
+      "on a mis en place le télétravail suite à vos demandes",
+      "si les retards persistent quand on doit se retrouver ici",
+      "bien la direction n'aura plus d'autre choix que de revenir au travail en présentiel tous les jours"
+    ]
   }
 ]
