@@ -7,13 +7,13 @@
 {% endblock %}
 
 {% block content %}
-<div class="max-w-3xl mx-auto px-4 py-10">
+<div class="max-w-5xl mx-auto px-4 py-10">
   <h1 class="text-2xl font-bold text-gray-900 mb-2">Compréhension Orale</h1>
-  <p class="text-sm text-gray-400 mb-10">Choisissez une pratique pour commencer.</p>
+  <p class="text-sm text-gray-400 mb-6">Choisissez une pratique pour commencer.</p>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+  <div class="flex flex-wrap gap-3">
     {% for practice in practices %}
-    <div class="bg-white border border-gray-200 rounded-xl p-5 shadow-sm flex flex-col gap-3"
+    <div class="bg-white border border-gray-200 rounded-xl p-4 shadow-sm flex flex-col gap-2 w-44"
          x-data="{
            get attempted() {
              let n = 0;
@@ -23,28 +23,25 @@
              return n;
            }
          }">
-      <div class="flex items-start justify-between">
-        <div>
-          <p class="text-lg font-bold text-gray-900">{{ practice.label }}</p>
-          <p class="text-xs text-gray-400 mt-0.5">
-            <span x-text="attempted"></span> / 40 questions tentées
-          </p>
-        </div>
-        <span class="text-xs font-semibold px-2 py-1 rounded bg-[#EDE3D6] text-[#7C6452]">40 Q</span>
+      <div>
+        <p class="text-sm font-bold text-gray-900">{{ practice.label }}</p>
+        <p class="text-xs text-gray-400 mt-0.5">
+          <span x-text="attempted"></span> / 40
+        </p>
       </div>
 
       <div class="w-full bg-gray-100 rounded-full h-1.5">
-        <div class="bg-[#A8896E] h-1.5 rounded-full transition-all"
+        <div class="bg-indigo-400 h-1.5 rounded-full transition-all"
              :style="'width: ' + Math.round(attempted / 40 * 100) + '%'"></div>
       </div>
 
       <a href="{% url 'practice_index' practice.slug %}"
-         class="mt-1 inline-flex items-center justify-center gap-2 px-4 py-2 bg-[#A8896E] text-white text-sm font-semibold rounded hover:bg-[#7C6452] transition-colors">
+         class="inline-flex items-center justify-center px-3 py-1.5 bg-indigo-600 text-white text-xs font-semibold rounded hover:bg-indigo-700 transition-colors">
         <span x-text="attempted > 0 ? 'Continuer →' : 'Commencer →'"></span>
       </a>
     </div>
     {% empty %}
-    <p class="text-gray-400 col-span-2">Aucune pratique disponible.</p>
+    <p class="text-gray-400">Aucune pratique disponible.</p>
     {% endfor %}
   </div>
 </div>
