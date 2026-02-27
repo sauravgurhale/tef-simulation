@@ -12,6 +12,12 @@
   </style>
 </head>
 <body class="bg-gray-50 text-gray-800 min-h-screen">
+  <nav class="bg-white border-b border-gray-200 sticky top-0 z-50">
+    <div class="max-w-4xl mx-auto px-4 h-12 flex items-center gap-2 text-sm">
+      <a href="{% url 'main_home' %}" class="text-indigo-600 hover:text-indigo-800 font-medium transition-colors">TEF Practice</a>
+      {% block breadcrumb %}{% endblock %}
+    </div>
+  </nav>
   {% block content %}{% endblock %}
 </body>
 </html>

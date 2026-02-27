@@ -1,6 +1,15 @@
 {% extends "co_practice/base.html" %}
 {% load static %}
 
+{% block breadcrumb %}
+<span class="text-gray-300">/</span>
+<a href="{% url 'home' %}" class="text-indigo-600 hover:text-indigo-800 transition-colors">Compréhension Orale</a>
+<span class="text-gray-300">/</span>
+<a href="{% url 'practice_index' practice_slug %}" class="text-indigo-600 hover:text-indigo-800 transition-colors">Practice {{ practice_slug }}</a>
+<span class="text-gray-300">/</span>
+<span class="text-gray-500">Question {{ question.question_no }}</span>
+{% endblock %}
+
 {% block content %}
 <div class="max-w-5xl mx-auto px-4 py-6">
 

@@ -45,6 +45,10 @@ def _highlighted_transcript(transcript, highlights):
     return mark_safe(''.join(parts))
 
 
+def main_home(request):
+    return render(request, 'co_practice/main_home.html')
+
+
 def home(request):
     practices = discover_practices()
     return render(request, 'co_practice/home.html', {'practices': practices})

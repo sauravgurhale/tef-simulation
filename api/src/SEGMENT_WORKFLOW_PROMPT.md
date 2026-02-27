@@ -81,6 +81,21 @@ Present a summary table of the draft mapping and flag:
 
 Wait for me to confirm or correct the mapping.
 
+### Optional: Correlate transcripts to segment durations
+If a co_N.json exists at co_web_content/practice_N/co_N.json, use it to
+cross-check the mapping. Each question entry has an "audio_transcript" field.
+Longer transcripts → longer audio segments. Use this to:
+  - Confirm that a flagged LONG segment (e.g. 120s) really is a long question
+    (check its transcript length vs. surrounding questions)
+  - Identify which raw segment corresponds to which question number when
+    the duration alone is ambiguous
+  - Detect mismatches: if raw_037 (30s) maps to a question whose transcript
+    is 10x longer than the surrounding questions, something is wrong
+The JSON has exactly 40 entries (Q1–Q40). Group intros are NOT in the JSON.
+Segment layout reminder: seg_02–05=Q1–4, seg_07–10=Q5–8, seg_12–17=Q9–14,
+seg_19–21=Q15–17, seg_23–25=Q18–20, seg_27–28=Q21–22, seg_30–33=Q23–30
+(pairs), seg_35–44=Q31–40.
+
 ### Step 5 – Finalize
 Once I confirm the map, run finalize_segments.py:
   python finalize_segments.py \
@@ -93,6 +108,15 @@ Then verify:
 ```
 
 ---
+
+## Notes from Practice 2 (reference)
+
+- 48 raw segments produced. Needed 4 drops to reach 44.
+- `analyze_segments.py` caught **3 near-perfect duplicate pairs** (sim ~0.999): raw_030/031, raw_032/033, raw_034/035. Keep the first of each pair.
+- raw_036 (9.4s) = repeated Group 7 "Reportage Radio" intro mid-dialogue → drop.
+- raw_037 (122.8s) = Dialogue pair 4 (full radio report, Q29-30) → seg_33 ✓
+- raw_038 (9.0s) = Group 8 intro ("documents divers") → seg_34 ✓
+- Group 8 intro phrase: **"Introduction: documents divers"** (differs from Group 7 which says "Reportage Radio, répondez à deux questions").
 
 ## Notes from Practice 1 (reference)
 
