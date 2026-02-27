@@ -3,9 +3,9 @@
 
 {% block breadcrumb %}
 <span class="text-gray-300">/</span>
-<a href="{% url 'home' %}" class="text-indigo-600 hover:text-indigo-800 transition-colors">Compréhension Orale</a>
+<a href="{% url 'home' %}" class="text-[#7C6452] hover:text-[#5E4A3B] transition-colors">Compréhension Orale</a>
 <span class="text-gray-300">/</span>
-<a href="{% url 'practice_index' practice_slug %}" class="text-indigo-600 hover:text-indigo-800 transition-colors">Practice {{ practice_slug }}</a>
+<a href="{% url 'practice_index' practice_slug %}" class="text-[#7C6452] hover:text-[#5E4A3B] transition-colors">Practice {{ practice_slug }}</a>
 <span class="text-gray-300">/</span>
 <span class="text-gray-500">Question {{ question.question_no }}</span>
 {% endblock %}
@@ -27,9 +27,9 @@
     {% endif %}
 
     <span class="text-sm text-gray-500">
-      <a href="{% url 'practice_index' practice_slug %}" class="underline hover:text-indigo-600">Accueil</a>
+      <a href="{% url 'practice_index' practice_slug %}" class="underline hover:text-[#7C6452]">Accueil</a>
       &nbsp;·&nbsp; Q {{ question.question_no }} / 40
-      &nbsp;·&nbsp; <a href="{% url 'results' practice_slug %}" class="underline hover:text-indigo-600">Résultats</a>
+      &nbsp;·&nbsp; <a href="{% url 'results' practice_slug %}" class="underline hover:text-[#7C6452]">Résultats</a>
     </span>
 
     {% if next_id %}
@@ -74,10 +74,10 @@
             :disabled="showAnswer"
             @click="choose('{{ opt.letter }}')"
             :class="{
-              'bg-blue-500 border-blue-500 text-white':   selected === '{{ opt.letter }}' && !showAnswer,
+              'bg-[#A8896E] border-[#A8896E] text-white':  selected === '{{ opt.letter }}' && !showAnswer,
               'bg-green-500 border-green-500 text-white': showAnswer && correct === '{{ opt.letter }}',
               'bg-red-400 border-red-400 text-white':     showAnswer && selected === '{{ opt.letter }}' && correct !== '{{ opt.letter }}',
-              'border-gray-300 text-gray-700 hover:border-indigo-400': selected !== '{{ opt.letter }}' && !showAnswer
+              'border-gray-300 text-gray-700 hover:border-[#A8896E]': selected !== '{{ opt.letter }}' && !showAnswer
             }"
             class="w-12 h-12 rounded-full border-2 font-bold text-lg flex items-center justify-center transition-colors">
             {{ opt.letter }}
@@ -91,10 +91,10 @@
           {% for opt in question.options_with_letters %}
           <label
             :class="{
-              'border-blue-500 bg-blue-50':   selected === '{{ opt.letter }}' && !showAnswer,
+              'border-[#7C6452] bg-[#EDE3D6]': selected === '{{ opt.letter }}' && !showAnswer,
               'border-green-500 bg-green-50': showAnswer && correct === '{{ opt.letter }}',
               'border-red-400 bg-red-50':     showAnswer && selected === '{{ opt.letter }}' && correct !== '{{ opt.letter }}',
-              'border-gray-200 hover:border-indigo-300': selected !== '{{ opt.letter }}' && !showAnswer
+              'border-gray-200 hover:border-[#C4AA95]': selected !== '{{ opt.letter }}' && !showAnswer
             }"
             class="flex items-start gap-3 p-3 rounded border-2 cursor-pointer transition-colors">
             <input type="radio"
@@ -103,7 +103,7 @@
                    :disabled="showAnswer"
                    :checked="selected === '{{ opt.letter }}'"
                    @change="choose('{{ opt.letter }}')"
-                   class="mt-0.5 accent-indigo-500">
+                   class="mt-0.5 accent-[#7C6452]">
             <span class="font-semibold text-gray-500 w-5 shrink-0">{{ opt.letter }}.</span>
             <span class="text-gray-700">{{ opt.text }}</span>
           </label>
@@ -115,7 +115,7 @@
       <button
         x-show="!showAnswer"
         @click="showAnswer = true"
-        class="mt-2 px-4 py-2 bg-indigo-600 text-white text-sm font-semibold rounded hover:bg-indigo-700 transition-colors">
+        class="mt-2 px-4 py-2 bg-[#A8896E] text-white text-sm font-semibold rounded hover:bg-[#7C6452] transition-colors">
         Révéler la réponse
       </button>
 
@@ -177,7 +177,7 @@
           <p class="mt-2 text-xs text-gray-400 italic">
             Audio partagé avec la question
             {% for sid in audio_paths.shared_with %}
-              <a href="{% url 'question' practice_slug sid %}" class="underline hover:text-indigo-500">{{ sid }}</a>{% if not forloop.last %}, {% endif %}
+              <a href="{% url 'question' practice_slug sid %}" class="underline hover:text-[#7C6452]">{{ sid }}</a>{% if not forloop.last %}, {% endif %}
             {% endfor %}
           </p>
           {% endif %}
@@ -185,7 +185,7 @@
       </div>
 
       {# Transcription card #}
-      <div class="bg-gray-100 rounded-lg border border-gray-200 p-4">
+      <div class="bg-[#EDE3D6] rounded-lg border border-[#D4C5B2] p-4">
         <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">Transcription</h3>
         <p class="text-sm text-gray-700 leading-relaxed">{{ highlighted_transcript }}</p>
       </div>
@@ -209,7 +209,7 @@
 
     <span class="text-sm text-gray-500">
       Q {{ question.question_no }} / 40
-      &nbsp;·&nbsp; <a href="{% url 'results' practice_slug %}" class="underline hover:text-indigo-600">Résultats</a>
+      &nbsp;·&nbsp; <a href="{% url 'results' practice_slug %}" class="underline hover:text-[#7C6452]">Résultats</a>
     </span>
 
     {% if next_id %}

@@ -3,9 +3,9 @@
 
 {% block breadcrumb %}
 <span class="text-gray-300">/</span>
-<a href="{% url 'home' %}" class="text-indigo-600 hover:text-indigo-800 transition-colors">Compréhension Orale</a>
+<a href="{% url 'home' %}" class="text-[#7C6452] hover:text-[#5E4A3B] transition-colors">Compréhension Orale</a>
 <span class="text-gray-300">/</span>
-<a href="{% url 'practice_index' practice_slug %}" class="text-indigo-600 hover:text-indigo-800 transition-colors">Practice {{ practice_slug }}</a>
+<a href="{% url 'practice_index' practice_slug %}" class="text-[#7C6452] hover:text-[#5E4A3B] transition-colors">Practice {{ practice_slug }}</a>
 <span class="text-gray-300">/</span>
 <span class="text-gray-500">Résultats</span>
 {% endblock %}
@@ -58,9 +58,9 @@
   <div class="flex items-center justify-between mb-8">
     <div>
       <p class="text-xs text-gray-400 mb-1">
-        <a href="{% url 'practice_index' practice_slug %}" class="hover:text-indigo-600">← CO {{ practice_slug }}</a>
+        <a href="{% url 'practice_index' practice_slug %}" class="hover:text-[#7C6452]">← CO {{ practice_slug }}</a>
         &nbsp;·&nbsp;
-        <a href="{% url 'home' %}" class="hover:text-indigo-600">Accueil</a>
+        <a href="{% url 'home' %}" class="hover:text-[#7C6452]">Accueil</a>
       </p>
       <h1 class="text-2xl font-bold text-gray-900">Résultats — CO {{ practice_slug }}</h1>
     </div>
