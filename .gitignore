@@ -1,4 +1,7 @@
 __pycache__/
 .env
-.DS_Store
+**/.DS_Store
 .flake8
+api/src/all_co_audio_segments/
+
+eo_web_content/

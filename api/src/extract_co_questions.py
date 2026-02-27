@@ -7,6 +7,7 @@ from typing import Dict, List, Optional, Tuple
 from urllib.parse import urlparse
 
 import requests
+from requests import RequestException
 
 
 class QuestionDOMParser(HTMLParser):
@@ -217,6 +218,12 @@ def safe_filename(url: str, fallback_index: int) -> str:
     return f"image_{fallback_index}.bin"
 
 
+def to_image_ref(path: str, images_dir: str) -> str:
+    folder_name = os.path.basename(os.path.normpath(images_dir))
+    filename = os.path.basename(path)
+    return f"@{folder_name}/{filename}"
+
+
 def download_images(image_urls: List[str], output_dir: str) -> Dict[str, str]:
     os.makedirs(output_dir, exist_ok=True)
     url_to_path: Dict[str, str] = {}
@@ -236,13 +243,16 @@ def download_images(image_urls: List[str], output_dir: str) -> Dict[str, str]:
             used_names[dedup_name] = 1
 
         output_path = os.path.join(output_dir, dedup_name)
-        if not os.path.exists(output_path):
-            response = requests.get(url, timeout=30)
-            response.raise_for_status()
-            with open(output_path, "wb") as file_handle:
-                file_handle.write(response.content)
-
+        # Always map URL to a deterministic local file path, even if download fails.
         url_to_path[url] = output_path
+        if not os.path.exists(output_path):
+            try:
+                response = requests.get(url, timeout=30)
+                response.raise_for_status()
+                with open(output_path, "wb") as file_handle:
+                    file_handle.write(response.content)
+            except RequestException:
+                continue
 
     return url_to_path
 
@@ -321,7 +331,9 @@ def build_output(
             question_text = (
                 question_text
                 + "\n"
-                + "\n".join([f"[image] {path}" for path in local_images])
+                + "\n".join(
+                    [f"[image] {to_image_ref(path, images_dir)}" for path in local_images]
+                )
             )
 
         dom_data = dom_parser.questions.get(question_id, {})
@@ -332,7 +344,10 @@ def build_output(
             elif img_urls:
                 img_url = img_urls[0]
                 if img_url:
-                    options.append(url_to_local_path.get(img_url, img_url))
+                    local_path = url_to_local_path.get(img_url)
+                    options.append(
+                        to_image_ref(local_path, images_dir) if local_path else img_url
+                    )
                 else:
                     options.append("")
             else:

@@ -9,7 +9,14 @@
       "D"
     ],
     "audio_transcript": "– Le bus est en retard aujourd'hui. – Oui, il aurait dû passer il y a 5 minutes. – Espérons qu'il arrive vite.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Le bus",
+      "en retard",
+      "aujourd'hui",
+      "il aurait dû passer il y a 5 minutes",
+      "il arrive vite"
+    ]
   },
   {
     "question_no": 2,
@@ -21,7 +28,12 @@
       "D"
     ],
     "audio_transcript": "– Bonjour, je vais prendre un café allongé, s'il vous plaît. – Très bien, et avec du sucre ? – Non merci, juste un café.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "un café allongé",
+      "du sucre",
+      "un café"
+    ]
   },
   {
     "question_no": 3,
@@ -33,7 +45,12 @@
       "D"
     ],
     "audio_transcript": "– Bonjour, je voudrais une baguette et 2 croissants, s'il vous plaît. – Voilà, ça fait 3 euros 20 centimes. – Tenez. – Merci.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "une baguette",
+      "2 croissants",
+      "3 euros 20 centimes"
+    ]
   },
   {
     "question_no": 4,
@@ -45,7 +62,12 @@
       "D"
     ],
     "audio_transcript": "– Regarde, cette promotion sur les fruits est intéressante. – Oui, prenons des pommes et des bananes. – D'accord, et il nous faut aussi du lait.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "promotion sur les fruits",
+      "des pommes et des bananes",
+      "du lait"
+    ]
   },
   {
     "question_no": 5,
@@ -57,7 +79,10 @@
       "il y a une nouvelle exposition."
     ],
     "audio_transcript": "Bienvenue au Planétarium de Bruxelles. Pour fêter la Saint-Nicolas, la visite est gratuite pour les enfants de moins de 12 ans. Bonne visite.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Pour fêter la Saint-Nicolas, la visite est gratuite pour les enfants de moins de 12 ans"
+    ]
   },
   {
     "question_no": 6,
@@ -69,7 +94,17 @@
       "des informations sur d'autres trains."
     ],
     "audio_transcript": "Mesdames et messieurs, nous arrivons en gare de Neuchâtel. Ce train continue à destination de Zurich. Correspondance intercity pour Genève Aéroport, prochain départ : 15 heures 34, voie 5. Correspondance interrégionale pour Berne, prochain départ : 15 heures 12, voie 2.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "nous arrivons en gare de Neuchâtel",
+      "Ce train continue à destination de Zurich",
+      "Correspondance intercity pour Genève Aéroport",
+      "prochain départ : 15 heures 34",
+      "voie 5",
+      "Correspondance interrégionale pour Berne",
+      "prochain départ : 15 heures 12",
+      "voie 2"
+    ]
   },
   {
     "question_no": 7,
@@ -81,7 +116,12 @@
       "indique où se trouve le camping."
     ],
     "audio_transcript": "Chers amis, bienvenue au Festival du Bout du Monde. En raison de la sécheresse, il est strictement interdit d'allumer des feux et de faire des barbecues dans l'enceinte du festival ainsi que sur l’aire de camping. Merci également de faire très attention à vos cigarettes.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "En raison de la sécheresse",
+      "il est strictement interdit d'allumer des feux et de faire des barbecues",
+      "Merci également de faire très attention à vos cigarettes"
+    ]
   },
   {
     "question_no": 8,
@@ -93,7 +133,13 @@
       "le début d'une animation."
     ],
     "audio_transcript": "Chers visiteurs, votre centre commercial Laurier Québec est partenaire du Carnaval de Québec. Jusqu'au 10 février, à l'achat de cent-vingt-cinq dollars en carte cadeau, recevez 2 passes au Carnaval de Québec d'une valeur de 50 dollars. Rendez-vous au service à la clientèle pour tous les détails.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "votre centre commercial Laurier Québec est partenaire du Carnaval de Québec",
+      "Jusqu'au 10 février",
+      "à l'achat de cent-vingt-cinq dollars en carte cadeau",
+      "recevez 2 passes au Carnaval de Québec d'une valeur de 50 dollars"
+    ]
   },
   {
     "question_no": 9,
@@ -105,7 +151,10 @@
       "faire la publicité d'un service."
     ],
     "audio_transcript": "Bonjour, ici le Centre francophone du Grand Toronto. Vous avez rempli le formulaire de demande de service, mais il manque un justificatif concernant votre statut au Canada.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "il manque un justificatif concernant votre statut au Canada"
+    ]
   },
   {
     "question_no": 10,
@@ -117,7 +166,12 @@
       "se plaindre d'un service."
     ],
     "audio_transcript": "Oui bonjour, j'ai commandé une imprimante chez vous, je l’ai reçue hier et je n'arrive toujours pas à la faire marcher. Pourtant, j’ai tout installé correctement. Ça fait 3 fois que j'appelle. Est-ce que vous pouvez me rappeler ? Je suis Monsieur Leblanc. Merci.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "je n'arrive toujours pas à la faire marcher",
+      "j’ai tout installé correctement",
+      "Est-ce que vous pouvez me rappeler"
+    ]
   },
   {
     "question_no": 11,
@@ -129,7 +183,12 @@
       "informer d'un changement."
     ],
     "audio_transcript": "Bonjour, c'est Ivan de Greyhound. Je vous appelle concernant votre voyage prévu demain matin à 7 heures. À cause des travaux à la gare d'autocars Montréal Berri, le départ se fera devant la Grande Bibliothèque, juste en face de la gare. Merci de votre compréhension.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Je vous appelle concernant votre voyage prévu demain matin à 7 heures",
+      "À cause des travaux à la gare d'autocars Montréal Berri",
+      "le départ se fera devant la Grande Bibliothèque, juste en face de la gare"
+    ]
   },
   {
     "question_no": 12,
@@ -141,7 +200,12 @@
       "Pour demander un document."
     ],
     "audio_transcript": "Bonjour Monsieur Dupont, ici Marie de la société Logitech. Je vous appelle pour confirmer notre rendez-vous de demain à 10 heures. Merci de me rappeler si vous devez changer l'horaire. Bonne journée.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je vous appelle pour confirmer notre rendez-vous",
+      "de demain à 10 heures",
+      "Merci de me rappeler si vous devez changer l'horaire"
+    ]
   },
   {
     "question_no": 13,
@@ -153,7 +217,12 @@
       "Pour souhaiter un bon anniversaire."
     ],
     "audio_transcript": "Salut Paul, c’est Sophie. On organise une sortie ce samedi soir. Dis-moi si tu veux venir et à quelle heure tu seras dispo. À bientôt.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "On organise une sortie ce samedi soir",
+      "Dis-moi si tu veux venir",
+      "à quelle heure tu seras dispo"
+    ]
   },
   {
     "question_no": 14,
@@ -165,7 +234,12 @@
       "Pour changer l'horaire d'un rendez-vous."
     ],
     "audio_transcript": "Bonjour, ici le cabinet du docteur Morel. Nous devons reporter votre rendez-vous prévu ce jeudi. Merci de nous rappeler pour fixer une nouvelle date. Bonne journée.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Nous devons reporter votre rendez-vous",
+      "prévu ce jeudi",
+      "Merci de nous rappeler pour fixer une nouvelle date"
+    ]
   },
   {
     "question_no": 15,
@@ -177,7 +251,13 @@
       "ne parvient pas à épargner."
     ],
     "audio_transcript": "Je vis à Alger pour le travail, mais depuis 10 ans je mets de côté tout ce que je peux pour construire une maison dans mon village natal en Kabylie et y passer ma retraite.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "je mets de côté tout ce que je peux",
+      "pour construire une maison dans mon village natal en Kabylie",
+      "y passer ma retraite",
+      "depuis 10 ans"
+    ]
   },
   {
     "question_no": 16,
@@ -189,7 +269,13 @@
       "ne parvient pas à épargner."
     ],
     "audio_transcript": "J'aimerais bien pouvoir économiser un peu chaque mois, ne serait-ce que pour payer des vacances sympas à mes enfants, mais honnêtement c'est compliqué. Et en cas de gros soucis, j'ai un peu peur.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "J'aimerais bien pouvoir économiser",
+      "mais honnêtement c'est compliqué",
+      "ne serait-ce que",
+      "j'ai un peu peur"
+    ]
   },
   {
     "question_no": 17,
@@ -201,7 +287,12 @@
       "ne parvient pas à épargner."
     ],
     "audio_transcript": "J'ai commencé à travailler très jeune et j'aimerais que mon fils ait un meilleur métier que moi. Mais les études, c'est dispendieux. Il a que 12 ans, mais il faut déjà prévoir.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "j'aimerais que mon fils ait un meilleur métier que moi",
+      "les études, c'est dispendieux",
+      "Il a que 12 ans, mais il faut déjà prévoir"
+    ]
   },
   {
     "question_no": 18,
@@ -213,7 +304,11 @@
       "Je n'ai pas d'avis sur la question."
     ],
     "audio_transcript": "Le sport, c'est ma passion. J'en fais plusieurs fois par semaine.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Le sport, c'est ma passion",
+      "J'en fais plusieurs fois par semaine"
+    ]
   },
   {
     "question_no": 19,
@@ -225,7 +320,11 @@
       "Je n'ai pas d'avis sur la question."
     ],
     "audio_transcript": "J'aime bien en faire de temps en temps, mais je manque souvent de motivation.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "J'aime bien en faire de temps en temps",
+      "je manque souvent de motivation"
+    ]
   },
   {
     "question_no": 20,
@@ -237,7 +336,11 @@
       "Je n'ai pas d'avis sur la question."
     ],
     "audio_transcript": "Franchement, le sport ne m'intéresse pas. Je préfère passer mon temps autrement.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "le sport ne m'intéresse pas",
+      "Je préfère passer mon temps autrement"
+    ]
   },
   {
     "question_no": 21,
@@ -249,7 +352,14 @@
       "soigner les maladies dues à l'ingestion de plastique."
     ],
     "audio_transcript": "Sur les 400 000 000 de tonnes de matières plastiques produites chaque année, un tiers environ sont des polyéthylènes. Issus de la pétrochimie, simples et peu chers à fabriquer, ils sont notamment très utilisés pour les emballages. Une équipe de chercheurs espagnols vient de démontrer que des enzymes présentes dans la salive des larves d’un papillon de nuit, la fausse teigne de la cire, attaquent le polyéthylène en quelques heures. De nombreux travaux et expérimentations complémentaires seront nécessaires pour comprendre parfaitement le processus, mais les chercheurs imaginent déjà différentes pistes d’utilisation. Les enzymes pourraient être intégrées à une solution liquide et versées sur du plastique en déchetterie, dans des lieux où la collecte et le recyclage sont difficiles, voire à terme dans des foyers individuels. Une bonne nouvelle pour lutter contre ce que l’ONU qualifie de fléau mondial.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "des enzymes présentes dans la salive des larves d’un papillon de nuit, la fausse teigne de la cire, attaquent le polyéthylène en quelques heures",
+      "les chercheurs imaginent déjà différentes pistes d’utilisation",
+      "Les enzymes pourraient être intégrées à une solution liquide et versées sur du plastique en déchetterie",
+      "dans des lieux où la collecte et le recyclage sont difficiles",
+      "voire à terme dans des foyers individuels"
+    ]
   },
   {
     "question_no": 22,
@@ -261,7 +371,15 @@
       "Une réduction des coûts de transport."
     ],
     "audio_transcript": "Avec le développement des nouvelles technologies, le télétravail est devenu une pratique courante. Il offre de nombreux avantages, notamment une meilleure conciliation entre vie professionnelle et personnelle. De plus, les employés gagnent du temps en évitant les trajets quotidiens. Cependant, le télétravail présente aussi des défis. Certains travailleurs ressentent un isolement social et ont du mal à séparer leur vie privée de leur vie professionnelle. De plus, les employeurs doivent adapter leurs méthodes de gestion à cette nouvelle organisation. Pour que le télétravail soit efficace, il est important d’établir des horaires fixes et de conserver une bonne communication avec ses collègues. Dans l’avenir, de nombreuses entreprises adopteront probablement un modèle hybride combinant télétravail et présence au bureau.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "le télétravail présente aussi des défis",
+      "Certains travailleurs ressentent un isolement social",
+      "ont du mal à séparer leur vie privée de leur vie professionnelle",
+      "Il offre de nombreux avantages",
+      "une meilleure conciliation entre vie professionnelle et personnelle",
+      "les employés gagnent du temps en évitant les trajets quotidiens"
+    ]
   },
   {
     "question_no": 23,
@@ -273,7 +391,18 @@
       "admet qu'il connaît peu le pays de ses parents."
     ],
     "audio_transcript": "Le journaliste sportif Dave Apana revient à l'île Maurice pour la première fois depuis vingt-cinq ans. Journaliste : Dave, pourquoi cette longue coupure ? Dave Apana : Plein de gens me disaient : « À l'île Maurice, c'est super » et tout. Et moi, je répondais : « Peut-être, j'en sais rien, moi. » Je suis venu deux ou trois fois quand j'étais gamin, avec mes parents. Et puis après, dans ma vie d'adulte, venir à Maurice, ça coûtait cher. Journaliste : Vous parliez créole à la maison ? Dave Apana : Mes parents ont fait partie de cette génération d'immigrés des années soixante-dix qui voulaient que leurs enfants soient complètement assimilés. Alors, obligation de parler français entre nous. Mais je le connaissais, car je l'entendais… Tu ne passes pas du russe au français non plus, quoi.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "pour la première fois depuis vingt-cinq ans",
+      "Plein de gens me disaient : « À l'île Maurice, c'est super »",
+      "Peut-être, j'en sais rien, moi",
+      "Je suis venu deux ou trois fois quand j'étais gamin",
+      "dans ma vie d'adulte, venir à Maurice, ça coûtait cher",
+      "Mes parents ont fait partie de cette génération d'immigrés des années soixante-dix qui voulaient que leurs enfants soient complètement assimilés",
+      "obligation de parler français entre nous",
+      "Mais je le connaissais, car je l'entendais",
+      "Tu ne passes pas du russe au français non plus"
+    ]
   },
   {
     "question_no": 24,
@@ -285,7 +414,11 @@
       "le français était perçu comme une condition d'intégration."
     ],
     "audio_transcript": "Le journaliste sportif Dave Apana revient à l'île Maurice pour la première fois depuis vingt-cinq ans. Journaliste : Dave, pourquoi cette longue coupure ? Dave Apana : Plein de gens me disaient : « À l'île Maurice, c'est super » et tout. Et moi, je répondais : « Peut-être, j'en sais rien, moi. » Je suis venu deux ou trois fois quand j'étais gamin, avec mes parents. Et puis après, dans ma vie d'adulte, venir à Maurice, ça coûtait cher. Journaliste : Vous parliez créole à la maison ? Dave Apana : Mes parents ont fait partie de cette génération d'immigrés des années soixante-dix qui voulaient que leurs enfants soient complètement assimilés. Alors, obligation de parler français entre nous. Mais je le connaissais, car je l'entendais… Tu ne passes pas du russe au français non plus, quoi.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Mes parents ont fait partie de cette génération d'immigrés des années soixante-dix qui voulaient que leurs enfants soient complètement assimilés",
+      "obligation de parler français entre nous"
+    ]
   },
   {
     "question_no": 25,
@@ -297,7 +430,12 @@
       "parler du passé de façon ouverte et transparente."
     ],
     "audio_transcript": "Le mot vocaux Tout des forums est une plateforme de débat, de partage d'expériences et d'analyses autour des sujets qui conditionnent le développement du Maroc. Notre invité nous présente cette nouvelle édition prévue le 2 décembre à Casablanca. Cette année, le Mtf prêtera du thème la femme actrice incontournable du Maroc, avec l'objectif de lever le voile sur les obstacles qui entravent les progrès de la condition de la femme marocaine. Pourtant, depuis plus de 2 décennies, il y a eu une véritable dynamique en faveur de la promotion de l'égalité de genre. Certes, en levant les hypothèques du passé, le pays a surtout libéré son futur en faisant le choix de réformes audacieuses. Mais il s'agit ici d'expliquer comment le cadre législatif, les infrastructures, les politiques publiques, les technologies et la sensibilisation permettraient de donner à la femme marocaine la place qui lui va de droit.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "une plateforme de débat, de partage d'expériences et d'analyses autour des sujets qui conditionnent le développement du Maroc",
+      "l'objectif de lever le voile sur les obstacles qui entravent les progrès de la condition de la femme marocaine",
+      "il s'agit ici d'expliquer comment le cadre législatif, les infrastructures, les politiques publiques, les technologies et la sensibilisation permettraient de donner à la femme marocaine la place qui lui va de droit"
+    ]
   },
   {
     "question_no": 26,
@@ -309,7 +447,12 @@
       "la femme a longtemps été un pilier du développement"
     ],
     "audio_transcript": "Le mot vocaux Tout des forums est une plateforme de débat, de partage d'expériences et d'analyses autour des sujets qui conditionnent le développement du Maroc. Notre invité nous présente cette nouvelle édition prévue le 2 décembre à Casablanca. Cette année, le Mtf prêtera du thème la femme actrice incontournable du Maroc, avec l'objectif de lever le voile sur les obstacles qui entravent les progrès de la condition de la femme marocaine. Pourtant, depuis plus de 2 décennies, il y a eu une véritable dynamique en faveur de la promotion de l'égalité de genre. Certes, en levant les hypothèques du passé, le pays a surtout libéré son futur en faisant le choix de réformes audacieuses. Mais il s'agit ici d'expliquer comment le cadre législatif, les infrastructures, les politiques publiques, les technologies et la sensibilisation permettraient de donner à la femme marocaine la place qui lui va de droit.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "il s'agit ici d'expliquer comment le cadre législatif, les infrastructures, les politiques publiques, les technologies et la sensibilisation permettraient de donner à la femme marocaine la place qui lui va de droit",
+      "l'objectif de lever le voile sur les obstacles qui entravent les progrès de la condition de la femme marocaine",
+      "lever le voile sur les obstacles"
+    ]
   },
   {
     "question_no": 27,
@@ -321,7 +464,10 @@
       "un renforcement immédiat du système immunitaire."
     ],
     "audio_transcript": "Bienvenue à tous. Aujourd'hui, nous parlons du sommeil, un élément essentiel pour notre santé. Pourtant, de nombreuses personnes rencontrent des troubles du sommeil. Pour en discuter, nous accueillons le docteur Lucas Martin, spécialiste du sommeil. — Docteur, merci d'être avec nous. — Merci pour l'invitation, c'est un plaisir d'aborder ce sujet important. Pendant le sommeil, notre cerveau traite les informations, élimine les toxines et régule nos émotions. Physiquement, c'est aussi un moment de réparation pour nos cellules et notre système immunitaire. Un manque de sommeil peut entraîner stress, problème de concentration et maladies chroniques. On entend souvent que nos modes de vie perturbent notre sommeil. Quels sont les principaux facteurs ? — L'usage des écrans avant de dormir, le stress, une alimentation tardive ou encore le manque d'activité physique joue un rôle majeur. Beaucoup de personnes ne respectent pas de rythme régulier, ce qui dérègle leur horloge biologique. Quels conseils donneriez-vous pour améliorer la qualité du sommeil ? — Respecter des horaires fixes, éviter les écrans avant le coucher, limiter la caféine l'après-midi et favoriser une atmosphère calme dans la chambre. De simples habitudes peuvent faire une grande différence. Merci, docteur Martin, pour ces conseils précieux.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Un manque de sommeil peut entraîner stress, problème de concentration et maladies chroniques."
+    ]
   },
   {
     "question_no": 28,
@@ -333,7 +479,16 @@
       "Dormir avec la lumière allumée."
     ],
     "audio_transcript": "Bienvenue à tous. Aujourd'hui, nous parlons du sommeil, un élément essentiel pour notre santé. Pourtant, de nombreuses personnes rencontrent des troubles du sommeil. Pour en discuter, nous accueillons le docteur Lucas Martin, spécialiste du sommeil. — Docteur, merci d'être avec nous. — Merci pour l'invitation, c'est un plaisir d'aborder ce sujet important. Pendant le sommeil, notre cerveau traite les informations, élimine les toxines et régule nos émotions. Physiquement, c'est aussi un moment de réparation pour nos cellules et notre système immunitaire. Un manque de sommeil peut entraîner stress, problème de concentration et maladies chroniques. On entend souvent que nos modes de vie perturbent notre sommeil. Quels sont les principaux facteurs ? — L'usage des écrans avant de dormir, le stress, une alimentation tardive ou encore le manque d'activité physique joue un rôle majeur. Beaucoup de personnes ne respectent pas de rythme régulier, ce qui dérègle leur horloge biologique. Quels conseils donneriez-vous pour améliorer la qualité du sommeil ? — Respecter des horaires fixes, éviter les écrans avant le coucher, limiter la caféine l'après-midi et favoriser une atmosphère calme dans la chambre. De simples habitudes peuvent faire une grande différence. Merci, docteur Martin, pour ces conseils précieux.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "L'usage des écrans avant de dormir",
+      "Beaucoup de personnes ne respectent pas de rythme régulier, ce qui dérègle leur horloge biologique",
+      "Respecter des horaires fixes",
+      "éviter les écrans avant le coucher",
+      "limiter la caféine l'après-midi",
+      "favoriser une atmosphère calme dans la chambre",
+      "De simples habitudes peuvent faire une grande différence"
+    ]
   },
   {
     "question_no": 29,
@@ -345,7 +500,16 @@
       "des études sur l'impact du climat sur la guérison."
     ],
     "audio_transcript": "Si vous, je vous laisse 6 mois dans une chambre sans fenêtre, et puis après vous avez le vent, et puis la pluie, et la neige, et le soleil, vous pensez que ce n’est pas sympa. La docteure Karine Diseran en est convaincue. Sortir un patient atteint de graves lésions cérébrales, même alité et même en plein hiver, n’a rien à voir avec de la maltraitance, c’est même tout l’inverse. Le jardin de trois-cents mètres carrés aménagé au cœur des Hôpitaux universitaires de Lausanne est une chance et le plus sûr chemin vers la rémission. Ce sont les patients justement avec cette dissociation cognitive ou motrice, mais aussi des patients avec des troubles de conscience profonds. Dès qu’il y a l’élément naturel et la motivation, ils peuvent mieux interagir. Caroline Atouël est physiothérapeute, elle a vu ce que le jardin pouvait déclencher chez des patients mutiques qui ne bougeaient pas. « On est sorti en plein hiver, il vivait à Châtel-Saint-Denis, il faisait du ski, il adore la neige, et ça on le savait. Dans ce jardin où il faisait froid, il commençait à faire de plus en plus moche, il était bien habillé, il était encore avec une trachéotomie. Les premiers flocons de neige de la saison sont tombés, et c’est pour la première fois que je l’ai vu bouger sa tête et lever la tête au ciel comme ça, pour sentir la neige sur son visage. » Depuis, Olivier Grandjean est sorti de l’hôpital, il a même rechaussé les skis cette année. L’ancien patient sait ce qu’il doit au jardin thérapeutique. « Ma maman, elle était médecin, et elle m’a dit : quand on a de l’air et qu’on est dehors, les connexions dans la tête s’améliorent. Mon épouse, elle le sentait elle-même aussi. Elle avait l’impression que dehors j’étais beaucoup mieux que dedans. Pour elle, c’était l’espoir. » Mais le service de neuro-rééducation aiguë ne se limite pas au jardin. Ici, ce qu’on cherche à faire, c’est stimuler au maximum les patients plongés dans un état de conscience minimale, les verticalisant par exemple dans leur lit grâce à des systèmes robotisés qui leur donnent l’impression de marcher, ou en leur apportant un peu de leur quotidien à l’hôpital. Loïc Bernays, physiothérapeute : « On a eu des patients qui ne disaient rien, mais vraiment rien. Le premier mot qui a été prononcé, c’était dans le jardin, et ce n’est pas grâce au jardin, c’est parce que la personne a pu apporter son chien. C’est la motivation qui fait que les gens récupèrent. Il faut trouver la bonne porte de communication et la bonne porte de motivation. On sait presque quel type de sous-vêtements ils mettent, mais c’est pour savoir : est-ce qu’ils faisaient la douche le matin, est-ce qu’ils faisaient la douche le soir, qu’est-ce qu’ils aiment boire, qu’est-ce qu’ils aiment manger ? Parce que si vous n’aimez pas le coca, puis quand vous faites boire du coca pour vous stimuler, vous allez recracher. Le but, c’est de stimuler un maximum les patients avec ce qu’ils aiment. » Sous les cent quarante-et-une personnes étudiées qui sont passées par le service, les résultats le montrent : les patients atteints de dissociation cognitive et motrice récupèrent mieux et plus vite quand ils sont correctement stimulés, des résultats encourageants quand on sait qu’un tiers de ces patients sont généralement diagnostiqués à tort dans un état végétatif. Jérémy Lanche, Lausanne, RFI.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Le jardin de trois-cents mètres carrés aménagé au cœur des Hôpitaux universitaires de Lausanne est une chance et le plus sûr chemin vers la rémission.",
+      "Dès qu’il y a l’élément naturel et la motivation, ils peuvent mieux interagir.",
+      "ce qu’on cherche à faire, c’est stimuler au maximum les patients plongés dans un état de conscience minimale, les verticalisant par exemple dans leur lit grâce à des systèmes robotisés",
+      "C’est la motivation qui fait que les gens récupèrent.",
+      "Il faut trouver la bonne porte de communication et la bonne porte de motivation.",
+      "Le but, c’est de stimuler un maximum les patients avec ce qu’ils aiment.",
+      "des résultats encourageants"
+    ]
   },
   {
     "question_no": 30,
@@ -357,7 +521,13 @@
       "les soignants cherchent à mieux connaître les patients."
     ],
     "audio_transcript": "Si vous, je vous laisse 6 mois dans une chambre sans fenêtre, et puis après vous avez le vent, et puis la pluie, et la neige, et le soleil, vous pensez que ce n’est pas sympa. La docteure Karine Diseran en est convaincue. Sortir un patient atteint de graves lésions cérébrales, même alité et même en plein hiver, n’a rien à voir avec de la maltraitance, c’est même tout l’inverse. Le jardin de trois-cents mètres carrés aménagé au cœur des Hôpitaux universitaires de Lausanne est une chance et le plus sûr chemin vers la rémission. Ce sont les patients justement avec cette dissociation cognitive ou motrice, mais aussi des patients avec des troubles de conscience profonds. Dès qu’il y a l’élément naturel et la motivation, ils peuvent mieux interagir. Caroline Atouël est physiothérapeute, elle a vu ce que le jardin pouvait déclencher chez des patients mutiques qui ne bougeaient pas. « On est sorti en plein hiver, il vivait à Châtel-Saint-Denis, il faisait du ski, il adore la neige, et ça on le savait. Dans ce jardin où il faisait froid, il commençait à faire de plus en plus moche, il était bien habillé, il était encore avec une trachéotomie. Les premiers flocons de neige de la saison sont tombés, et c’est pour la première fois que je l’ai vu bouger sa tête et lever la tête au ciel comme ça, pour sentir la neige sur son visage. » Depuis, Olivier Grandjean est sorti de l’hôpital, il a même rechaussé les skis cette année. L’ancien patient sait ce qu’il doit au jardin thérapeutique. « Ma maman, elle était médecin, et elle m’a dit : quand on a de l’air et qu’on est dehors, les connexions dans la tête s’améliorent. Mon épouse, elle le sentait elle-même aussi. Elle avait l’impression que dehors j’étais beaucoup mieux que dedans. Pour elle, c’était l’espoir. » Mais le service de neuro-rééducation aiguë ne se limite pas au jardin. Ici, ce qu’on cherche à faire, c’est stimuler au maximum les patients plongés dans un état de conscience minimale, les verticalisant par exemple dans leur lit grâce à des systèmes robotisés qui leur donnent l’impression de marcher, ou en leur apportant un peu de leur quotidien à l’hôpital. Loïc Bernays, physiothérapeute : « On a eu des patients qui ne disaient rien, mais vraiment rien. Le premier mot qui a été prononcé, c’était dans le jardin, et ce n’est pas grâce au jardin, c’est parce que la personne a pu apporter son chien. C’est la motivation qui fait que les gens récupèrent. Il faut trouver la bonne porte de communication et la bonne porte de motivation. On sait presque quel type de sous-vêtements ils mettent, mais c’est pour savoir : est-ce qu’ils faisaient la douche le matin, est-ce qu’ils faisaient la douche le soir, qu’est-ce qu’ils aiment boire, qu’est-ce qu’ils aiment manger ? Parce que si vous n’aimez pas le coca, puis quand vous faites boire du coca pour vous stimuler, vous allez recracher. Le but, c’est de stimuler un maximum les patients avec ce qu’ils aiment. » Sous les cent quarante-et-une personnes étudiées qui sont passées par le service, les résultats le montrent : les patients atteints de dissociation cognitive et motrice récupèrent mieux et plus vite quand ils sont correctement stimulés, des résultats encourageants quand on sait qu’un tiers de ces patients sont généralement diagnostiqués à tort dans un état végétatif. Jérémy Lanche, Lausanne, RFI.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "On sait presque quel type de sous-vêtements ils mettent, mais c’est pour savoir : est-ce qu’ils faisaient la douche le matin, est-ce qu’ils faisaient la douche le soir, qu’est-ce qu’ils aiment boire, qu’est-ce qu’ils aiment manger ?",
+      "Il faut trouver la bonne porte de communication et la bonne porte de motivation.",
+      "Le but, c’est de stimuler un maximum les patients avec ce qu’ils aiment.",
+      "C’est la motivation qui fait que les gens récupèrent."
+    ]
   },
   {
     "question_no": 31,
@@ -369,7 +539,16 @@
       "mettre en avant ses activités de loisirs."
     ],
     "audio_transcript": "Chaque mois, Radio-Canada parle de l'emploi des jeunes et aujourd'hui émission spéciale : comment performer lors d'une entrevue. Le premier point, c'est de bien se préparer. Quelques jours avant l'entrevue, renseignez-vous sur l'entreprise, quelles sont ses activités, quelle est sa clientèle. Habituellement, l'entrevue porte sur votre formation et vos réalisations. Si vous manquez d'expérience sur un point précis, vous pouvez faire valoir un cours ou une expérience similaire et parler de votre capacité d'adaptation.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Le premier point, c'est de bien se préparer",
+      "Quelques jours avant l'entrevue, renseignez-vous sur l'entreprise",
+      "quelles sont ses activités",
+      "quelle est sa clientèle",
+      "l'entrevue porte sur votre formation et vos réalisations",
+      "Si vous manquez d'expérience sur un point précis, vous pouvez faire valoir un cours ou une expérience similaire",
+      "parler de votre capacité d'adaptation"
+    ]
   },
   {
     "question_no": 32,
@@ -381,7 +560,12 @@
       "souhaite avoir un rôle à jouer dans une nomination."
     ],
     "audio_transcript": "Le chef du parti Québec repose ses exigences dans le dossier très sensible de la présidence d'Hydro-Québec. Rappelons qu'Hydro-Québec est une société d'État québécoise responsable de la production, du transport et de la distribution de l'électricité au Québec et que son unique actionnaire est le gouvernement du Québec. Concrètement, il demande au gouvernement d'accorder aux partis de l'opposition une audience avec la personne qui voudra nommer à ce poste. Les Péquistes veulent aussi que le candidat obtienne l'appui formel d'au moins 12 partis de l'opposition.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Le chef du parti Québec repose ses exigences",
+      "il demande au gouvernement d'accorder aux partis de l'opposition une audience avec la personne qui voudra nommer à ce poste",
+      "Les Péquistes veulent aussi que le candidat obtienne l'appui formel d'au moins 12 partis de l'opposition"
+    ]
   },
   {
     "question_no": 33,
@@ -393,7 +577,15 @@
       "les conditions de vie dans les zones insalubres."
     ],
     "audio_transcript": "Suite de notre semaine spéciale qui interroge la démographie mondiale. Aujourd'hui, nous posons la question : avec 8 000 000 000 d'habitants, dont 1 000 000 000 de mal logés, sommes-nous trop nombreux pour vivre dans un habitat conforme aux droits humains ? Faut-il détruire ou réhabiliter les quartiers précaires ou indignes ? Comment acheminer les services essentiels dans des villes non planifiées ? Et surtout, quelles innovations pour construire vite, mieux et moins cher dans un contexte d'inflation des prix de la construction ? Ces questions sont à la fois techniques, politiques et économiques, et on va en discuter avec vous, Slimane Belmani.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "avec 8 000 000 000 d'habitants, dont 1 000 000 000 de mal logés, sommes-nous trop nombreux pour vivre dans un habitat conforme aux droits humains",
+      "habitat conforme aux droits humains",
+      "droits humains",
+      "Faut-il détruire ou réhabiliter les quartiers précaires ou indignes",
+      "Comment acheminer les services essentiels dans des villes non planifiées",
+      "quelles innovations pour construire vite, mieux et moins cher"
+    ]
   },
   {
     "question_no": 34,
@@ -405,7 +597,12 @@
       "La réduction des déchets."
     ],
     "audio_transcript": "La pollution de l'air est devenue un problème majeur dans les grandes villes. Elle est principalement causée par les émissions industrielles, les gaz d'échappement des véhicules et la déforestation. Cette pollution a des conséquences graves sur la santé, notamment des maladies respiratoires et cardiovasculaires. De nombreuses études montrent que l'exposition prolongée à un air pollué réduit l'espérance de vie. Pour limiter cette pollution, plusieurs solutions sont mises en place, comme le développement des transports en commun et l'utilisation d'énergie propre. L'engagement des citoyens est aussi essentiel pour préserver la qualité de l'air et protéger la santé publique.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "La pollution de l'air est devenue un problème majeur dans les grandes villes",
+      "Elle est principalement causée par les émissions industrielles, les gaz d'échappement des véhicules et la déforestation",
+      "les émissions industrielles"
+    ]
   },
   {
     "question_no": 35,
@@ -417,7 +614,13 @@
       "Une suppression totale des emplois."
     ],
     "audio_transcript": "Avec l'essor du numérique, le monde du travail connaît une transformation rapide. De nombreuses entreprises adoptent des outils digitaux pour améliorer leur productivité. Le télétravail est devenu une pratique courante permettant aux employés de travailler à distance grâce aux nouvelles technologies. Cependant, cette évolution pose aussi des défis, notamment en matière de cybersécurité et d'équilibre entre vie professionnelle et personnelle. Les travailleurs doivent s'adapter en développant de nouvelles compétences numériques pour rester compétitifs sur le marché du travail.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Avec l'essor du numérique, le monde du travail connaît une transformation rapide",
+      "De nombreuses entreprises adoptent des outils digitaux pour améliorer leur productivité",
+      "Le télétravail est devenu une pratique courante",
+      "permettant aux employés de travailler à distance grâce aux nouvelles technologies"
+    ]
   },
   {
     "question_no": 36,
@@ -429,7 +632,13 @@
       "Une dépendance totale aux énergies fossiles."
     ],
     "audio_transcript": "Les énergies renouvelables jouent un rôle de plus en plus important dans la transition énergétique mondiale. L'énergie solaire, éolienne et hydraulique sont des alternatives durables aux énergies fossiles. Elles permettent de réduire les émissions de gaz à effet de serre et de limiter l'impact du changement climatique. De nombreux pays investissent massivement dans ces technologies pour assurer un avenir énergétique plus propre. Cependant, des défis subsistent, notamment le coût des infrastructures et la dépendance aux conditions climatiques. Certaines énergies renouvelables comme l'éolien et le solaire sont intermittentes, ce qui nécessite des solutions de stockage performantes. Malgré ces défis, les progrès technologiques permettent d'améliorer leur efficacité et leur accessibilité. À long terme, ces énergies constituent une solution clé pour répondre aux besoins énergétiques tout en préservant l'environnement.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Les énergies renouvelables jouent un rôle de plus en plus important dans la transition énergétique mondiale",
+      "Elles permettent de réduire les émissions de gaz à effet de serre",
+      "de limiter l'impact du changement climatique",
+      "alternatives durables aux énergies fossiles"
+    ]
   },
   {
     "question_no": 37,
@@ -441,7 +650,19 @@
       "Abandonner le numérique au profit des formats publicitaires classiques."
     ],
     "audio_transcript": "Le marketing digital est devenu un outil essentiel pour les entreprises modernes. Grâce aux réseaux sociaux et aux campagnes publicitaires en ligne, les marques peuvent toucher un public plus large. Cette transformation a bouleversé les stratégies commerciales traditionnelles, obligeant les entreprises à innover constamment. Aujourd'hui, les algorithmes des plateformes analysent les comportements des consommateurs pour leur proposer du contenu personnalisé. Le ciblage publicitaire est ainsi devenu plus précis, permettant d'optimiser les ventes et d'améliorer l'engagement des clients. En parallèle, le marketing d'influence connaît un essor important avec des créateurs de contenus qui jouent un rôle clé dans la promotion des produits. Cependant, cette évolution pose aussi des défis éthiques, notamment en matière de protection des données personnelles et de transparence. Les consommateurs doivent être vigilants face aux pratiques trompeuses et aux publicités déguisées. Malgré ces enjeux, le marketing digital continue de s'imposer comme un levier incontournable pour les entreprises cherchant à accroître leur visibilité et leur chiffre d'affaires.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Le marketing digital est devenu un outil essentiel pour les entreprises modernes",
+      "les marques peuvent toucher un public plus large",
+      "Grâce aux réseaux sociaux et aux campagnes publicitaires en ligne",
+      "Cette transformation a bouleversé les stratégies commerciales traditionnelles",
+      "obligeant les entreprises à innover constamment",
+      "les algorithmes des plateformes analysent les comportements des consommateurs",
+      "Le ciblage publicitaire est ainsi devenu plus précis",
+      "permettant d'optimiser les ventes et d'améliorer l'engagement des clients",
+      "le marketing d'influence connaît un essor important",
+      "le marketing digital continue de s'imposer comme un levier incontournable pour les entreprises cherchant à accroître leur visibilité et leur chiffre d'affaires"
+    ]
   },
   {
     "question_no": 38,
@@ -453,7 +674,13 @@
       "Une grande accessibilité."
     ],
     "audio_transcript": "Certaines régions rurales souffrent d'un manque d'infrastructures et d'accès aux services essentiels. L'absence de routes praticables et la distance par rapport aux centres urbains limitent leur développement économique. Les habitants de ces zones rencontrent des difficultés pour accéder aux soins de santé, à l'éducation et aux opportunités d'emploi. Le manque de réseau de communication, comme l'internet haut débit, constitue également un frein à leur intégration dans l'économie numérique. Les gouvernements et les organisations internationales tentent d'apporter des solutions en investissant dans la construction de routes, de ponts et de réseaux de communication. Les projets de développement rural incluent aussi l'installation d'écoles et de centres de santé pour améliorer la qualité de vie des populations locales. Toutefois, ces efforts nécessitent des financements importants et une volonté politique forte. Lutter contre l'enclavement est un enjeu crucial pour réduire les inégalités territoriales et favoriser un développement harmonieux à l'échelle nationale.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Certaines régions rurales souffrent d'un manque d'infrastructures et d'accès aux services essentiels",
+      "L'absence de routes praticables et la distance par rapport aux centres urbains limitent leur développement économique",
+      "Les habitants de ces zones rencontrent des difficultés pour accéder aux soins de santé, à l'éducation et aux opportunités d'emploi",
+      "Le manque de réseau de communication, comme l'internet haut débit, constitue également un frein à leur intégration dans l'économie numérique"
+    ]
   },
   {
     "question_no": 39,
@@ -465,7 +692,14 @@
       "De maintenir une isolation complète de l'air extérieur en fermant toutes les fenêtres."
     ],
     "audio_transcript": "Les vagues de chaleur deviennent de plus en plus fréquentes et intenses en raison du changement climatique. Elles ont des impacts sur la santé et l'environnement. Quels sont les principaux risques liés à ces phénomènes ? Les vagues de chaleur peuvent provoquer de graves problèmes de santé, notamment des coups de chaleur, des déshydratations et des complications cardiovasculaires, en particulier chez les personnes âgées et les enfants. Elles ont également des conséquences sur l'agriculture, réduisant les rendements des cultures et augmentant le risque d'incendie de forêt. Dans les zones urbaines, l'effet d'îlot de chaleur aggrave le phénomène, rendant les températures encore plus extrêmes. Il est essentiel de mettre en place des mesures d'adaptation comme la végétalisation des villes, l'amélioration de l'isolation des bâtiments et la sensibilisation du public aux gestes de prévention. L'accès à l'eau potable et la mise en place de centres de rafraîchissement sont également des solutions efficaces. À long terme, la lutte contre le changement climatique est la seule véritable réponse pour limiter ces épisodes de chaleur extrême.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "L'accès à l'eau potable et la mise en place de centres de rafraîchissement sont également des solutions efficaces.",
+      "Il est essentiel de mettre en place des mesures d'adaptation",
+      "la végétalisation des villes",
+      "l'amélioration de l'isolation des bâtiments",
+      "la sensibilisation du public aux gestes de prévention"
+    ]
   },
   {
     "question_no": 40,
@@ -477,6 +711,11 @@
       "Les maladies cardiovasculaires."
     ],
     "audio_transcript": "Aujourd'hui, nous recevons le docteur Laurent Dupont, spécialiste en nutrition. Docteur, pouvez-vous nous expliquer pourquoi une alimentation équilibrée est essentielle pour la santé ? Et quels sont les principaux aliments à éviter pour rester en bonne santé ? Bien sûr, une alimentation équilibrée apporte à notre organisme les nutriments nécessaires à son bon fonctionnement. Elle permet de prévenir plusieurs maladies comme l'obésité, le diabète et les maladies cardiovasculaires. Il est important de consommer une variété d'aliments, notamment des fruits, des légumes, des protéines et des glucides complexes. Il est recommandé de limiter la consommation de sucres raffinés, de gras saturés et d'aliments ultra-transformés. Ces produits augmentent les risques de maladies chroniques et favorisent la prise de poids.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "une alimentation équilibrée apporte à notre organisme les nutriments nécessaires à son bon fonctionnement",
+      "Elle permet de prévenir plusieurs maladies comme l'obésité, le diabète et les maladies cardiovasculaires",
+      "les maladies cardiovasculaires"
+    ]
   }
 ]
