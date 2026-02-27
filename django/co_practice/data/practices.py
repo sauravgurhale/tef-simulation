@@ -19,6 +19,16 @@ def get_practice_folder(slug):
     return CO_WEB_CONTENT / f'practice_{slug}'
 
 
+def get_audio_mode(slug):
+    """Returns ('full', 'full_raw/filename.mp3') or ('segments', None)."""
+    full_raw_dir = get_practice_folder(slug) / 'audio' / 'full_raw'
+    if full_raw_dir.is_dir():
+        mp3s = list(full_raw_dir.glob('*.mp3'))
+        if mp3s:
+            return 'full', f'full_raw/{mp3s[0].name}'
+    return 'segments', None
+
+
 def get_json_file(slug):
     folder = get_practice_folder(slug)
     matches = list(folder.glob('*.json'))

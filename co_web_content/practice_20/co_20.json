@@ -1,5 +1,482 @@
-{
-  "practice": 20,
-  "title": "CO Practice 20",
-  "items": []
-}
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_20_images/co-17-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : — Je cherche mon billet d'avion, tu ne l'aurais pas vu ? — Ben si, juste devant toi, là, sur ton livre.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_20_images/co-17-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : — Vous n'avez pas eu trop chaud pendant la balade ? — Heureusement non, on a profité de la fraîcheur de la forêt.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_20_images/co-20-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : — Salut Alice, qu'est-ce que tu as fait hier soir ? — Bien, je suis allée boire un verre avec mes nouveaux collègues. C'était sympa.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_20_images/co-20-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : — Alors, tu es prêt pour le concours d'équitation ? — Il y a beaucoup de monde cette année, ça ne va pas être facile. — Oui, j'ai fait du cheval presque tous les jours cet été.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 5,
+    "question": "Ce message informe sur :",
+    "options": [
+      "la fermeture du lieu.",
+      "les horaires d'ouverture.",
+      "une promotion exceptionnelle.",
+      "un événement culturel."
+    ],
+    "audio_transcript": "Transcription : La bibliothèque va fermer ses portes dans 15 minutes. N’oubliez pas de bien remettre vos documents à leur place.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 6,
+    "question": "Ce message annonce :",
+    "options": [
+      "la fin d’un spectacle.",
+      "une courte pause.",
+      "une consigne de sécurité.",
+      "la direction de la sortie."
+    ],
+    "audio_transcript": "Transcription : Mesdames, messieurs, nous arrivons à la fin de la première période du match. Pendant la mi-temps, nous vous invitons à vous diriger vers les stands de restauration rapide installés près de l’entrée. Veillez cependant à regagner vos places pour la reprise du jeu.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 7,
+    "question": "Ce message annonce :",
+    "options": [
+      "la mise en vente d'une carte de fidélité.",
+      "une promotion sur une gamme de produits.",
+      "le prix d'un nouvel article.",
+      "de nouvelles dates pour les soldes."
+    ],
+    "audio_transcript": "Transcription : Vente flash aujourd’hui de 14 heures à 16 heures : moins soixante-dix pour cent sur tout le rayon lingerie, offre réservée à nos clients privilégiés. La carte Atout Plus vous offre de nombreux avantages. Demandez-la, elle est gratuite.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 8,
+    "question": "Ce message est diffusé pour :",
+    "options": [
+      "proposer un service.",
+      "prévenir d'un risque.",
+      "signaler un incident.",
+      "annoncer un contrôle."
+    ],
+    "audio_transcript": "Transcription : Attention, des pickpockets peuvent être présents à bord de votre train. Nous vous invitons à surveiller vos effets personnels. Si vous êtes témoin d’un fait suspect, veuillez le signaler au contrôleur, qui reste à votre disposition dans la voiture 4, ou au personnel des guichets en gare.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle pour :",
+    "options": [
+      "demander un service.",
+      "inviter à dîner.",
+      "proposer une sortie.",
+      "informer du menu."
+    ],
+    "audio_transcript": "Transcription : Allô ma chérie, c’est maman. Il n’y a plus de pain à la maison, tu peux passer à la boulangerie s’il te plaît ? Achète quelques gâteaux aussi. Bisous, à ce soir.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour :",
+    "options": [
+      "prendre un rendez-vous.",
+      "adresser un remerciement.",
+      "demander un service.",
+      "faire un reproche."
+    ],
+    "audio_transcript": "Transcription : Salut Emma, c’est Zacharie. Tu pourrais passer chez moi pour me rapporter mon livre d’anglais s’il te plaît ? Je l’ai oublié sur ton bureau hier quand je suis venu te voir. Merci.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle pour :",
+    "options": [
+      "suggérer un médecin plus spécialisé.",
+      "informer d'un changement de planning.",
+      "annoncer les résultats d'un examen.",
+      "convoquer à une visite médicale."
+    ],
+    "audio_transcript": "Transcription : Bonjour Madame Keller, c’est le docteur Rafik. Nous nous sommes réunis avec mes confrères et je voudrais vous orienter vers l’un d’eux, un expert de votre pathologie. Merci de me rappeler.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle pour :",
+    "options": [
+      "organiser un entretien.",
+      "refuser une candidature.",
+      "présenter des excuses.",
+      "demander des précisions."
+    ],
+    "audio_transcript": "Transcription : Bonjour Monsieur Delmar, Je fais suite à notre entretien du 3 mars. Je vous remercie d’avoir répondu à nos questions, mais j’ai le regret de vous annoncer que nous avons décidé de recruter une personne avec plus d’expérience pour le poste. Je vous remercie pour votre intérêt.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle pour :",
+    "options": [
+      "présenter des nouveautés.",
+      "fixer un rendez-vous.",
+      "inviter à un événement.",
+      "convoquer à une réunion."
+    ],
+    "audio_transcript": "Transcription : Madame Rio, vous avez gagné un déjeuner pour deux personnes au spa de Cabourg lundi prochain. Ce repas sera suivi d’une animation vous permettant de découvrir l’ensemble de notre gamme de produits cosmétiques. Vous allez recevoir un courriel de confirmation. À très bientôt.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 14,
+    "question": "La personne qui appelle :",
+    "options": [
+      "modifie l'ordre du jour.",
+      "change l'heure de la réunion.",
+      "annule le rendez-vous.",
+      "invite à commencer sans elle."
+    ],
+    "audio_transcript": "Transcription : Bonjour Noémie, c’est Catherine. Il y a un accident sur l’autoroute, je vais certainement arriver avec du retard pour la réunion. Ne m’attendez pas et faites au moins la présentation des statistiques. On parlera du nouveau projet plus tard, quand je serai arrivée.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée :",
+    "options": [
+      "est totalement pour.",
+      "est pour à certaines conditions.",
+      "est totalement contre.",
+      "ne donne pas son avis."
+    ],
+    "audio_transcript": "Transcription : Quand je vois mon fils jouer avec une poupée, ben j’avoue que ça me choque un peu. Les garçons ont besoin de bouger, de courir.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée :",
+    "options": [
+      "est totalement pour.",
+      "est pour à certaines conditions.",
+      "est totalement contre.",
+      "ne donne pas son avis."
+    ],
+    "audio_transcript": "Transcription : Mon fils se déguise avec des robes et je trouve ça normal. Je me dis que c’est un enfant heureux, et ça me rend fier.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée :",
+    "options": [
+      "est totalement pour.",
+      "est pour à certaines conditions.",
+      "est totalement contre.",
+      "ne donne pas son avis."
+    ],
+    "audio_transcript": "Transcription : Je n’ai pas d’enfant, alors je ne me suis jamais posé la question. Franchement, je laisse les parents faire leur choix.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée :",
+    "options": [
+      "est totalement pour.",
+      "est plutôt pour.",
+      "est totalement contre.",
+      "ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : C’est une option que nous devrions tous avoir. Moi, je suis libéral, je pense que c’est quelque chose qui devrait être accessible à tout le monde.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée :",
+    "options": [
+      "est totalement pour.",
+      "est plutôt pour.",
+      "est totalement contre.",
+      "ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : C’est vrai que, personnellement, je ne le ferais pas, ça me fait peur, j’ai quelques réticences, mais chacun est libre de choisir sa propre famille.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée :",
+    "options": [
+      "est totalement pour.",
+      "est plutôt pour.",
+      "est totalement contre.",
+      "ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : Pour moi, la famille, c’est vraiment inutile. En fait, je ne comprends pas qu’on ait des enfants, adoptés ou biologiques, dans un monde qui devient fou.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 21,
+    "question": "L’insecte en question :",
+    "options": [
+      "a une alimentation très variée.",
+      "sévit dans les zones isolées.",
+      "est une espèce en voie d'extinction.",
+      "force le promeneur à être vigilant."
+    ],
+    "audio_transcript": "Transcription : C’est un insecte très beau, très coloré. On pourrait croire que c’est un papillon, mais ce n’en est pas un : c’est une punaise. Le fulgore tacheté se nourrit en groupe de la sève des plantes et des arbres, ce qui affaiblit considérablement ces derniers. Il représente une véritable menace pour l’industrie viticole et forestière, mais aussi pour les arbres fruitiers. On sait que cet insecte voyage facilement : il s’accroche à toutes sortes de structures. La femelle peut pondre ses œufs sur n’importe quelle surface dure et lisse, comme un véhicule stationné dans une zone infestée. Avant de rentrer chez soi, il est essentiel de faire le tour de son véhicule et de l’inspecter visuellement. Si on en trouve un, l’important n’est pas seulement de le tuer ou de l’écraser puis de l’abandonner là. Il faut absolument signaler sa présence afin que des mesures puissent être prises.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 22,
+    "question": "Cette chronique :",
+    "options": [
+      "dénonce des rythmes de travail intenses.",
+      "questionne la place du travail dans nos vies.",
+      "révèle un paradoxe lié à la charge de travail.",
+      "encourage un rythme de travail ralenti."
+    ],
+    "audio_transcript": "Transcription : L’ennui au travail, ça vous parle ? Deux livres viennent de paraître à quelques jours d’intervalle pour décrire les ravages de ce nouveau syndrome. Un mal aux conséquences redoutables, qui toucherait pas moins de 30 % des salariés. Être payé à ne rien faire, pour beaucoup, c’est immoral. C’est la honte. On n’ose pas en parler autour de soi, et tous les témoignages rapportés dans ces livres le confirment. Ne pas travailler fatigue. Les salariés privés de tâches utiles sont épuisés. Ils n’arrivent plus à accomplir quoi que ce soit, même les plus petites missions qu’on leur confie. Ils se désaccoutument du travail. Les conséquences peuvent être graves : dépression, risque accru d’accidents cardiovasculaires, voire tentatives de suicide. Et à long terme, ces chômeurs avec un emploi deviennent parfois… inemployables.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 23,
+    "question": "Le bilinguisme implique :",
+    "options": [
+      "un recours fréquent à deux langues.",
+      "la connaissance de deux cultures.",
+      "l'adoption de deux nationalités.",
+      "un usage dans le milieu scolaire."
+    ],
+    "audio_transcript": "Transcription : Journaliste : François Grosjean, bonjour. Vous êtes psycholinguiste spécialisé dans le bilinguisme. Quelle définition en donnez-vous aujourd’hui ? François Grosjean : Pendant longtemps, on considérait qu’une personne bilingue devait avoir une parfaite maîtrise de deux langues. Il fallait qu’elles aient été acquises pendant l’enfance et qu’elles soient parlées sans accent. Or, de nombreuses personnes vivent avec deux langues sans pour autant les maîtriser parfaitement. Peu à peu, les chercheurs ont commencé à mettre l’accent sur un autre critère : l’utilisation régulière des deux langues. Journaliste : Que transmettent les parents à travers la langue ? François Grosjean : Ils transmettent un héritage familial, mais aussi des codes culturels. Si les parents ont des origines culturelles différentes, l’enfant peut devenir à la fois bilingue et biculturel. Il est essentiel que la famille élabore un projet linguistique clair, afin que chaque langue ait une place bien définie dans le foyer.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 24,
+    "question": "François Grosjean encourage les parents à :",
+    "options": [
+      "privilégier une langue plutôt qu'une autre.",
+      "soutenir une maîtrise parfaite des langues.",
+      "déterminer les usages de chacune des langues.",
+      "exposer leurs enfants à un maximum de langues."
+    ],
+    "audio_transcript": "Transcription : Journaliste : François Grosjean, bonjour. Vous êtes psycholinguiste spécialisé dans le bilinguisme. Quelle définition en donnez-vous aujourd’hui ? François Grosjean : Pendant longtemps, on considérait qu’une personne bilingue devait avoir une parfaite maîtrise de deux langues. Il fallait qu’elles aient été acquises pendant l’enfance et qu’elles soient parlées sans accent. Or, de nombreuses personnes vivent avec deux langues sans pour autant les maîtriser parfaitement. Peu à peu, les chercheurs ont commencé à mettre l’accent sur un autre critère : l’utilisation régulière des deux langues. Journaliste : Que transmettent les parents à travers la langue ? François Grosjean : Ils transmettent un héritage familial, mais aussi des codes culturels. Si les parents ont des origines culturelles différentes, l’enfant peut devenir à la fois bilingue et biculturel. Il est essentiel que la famille élabore un projet linguistique clair, afin que chaque langue ait une place bien définie dans le foyer.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 25,
+    "question": "Le projet de Miriam Vock permet aux nouveaux arrivants :",
+    "options": [
+      "de rencontrer des enseignants francophones.",
+      "d'obtenir une équivalence de diplôme.",
+      "de valoriser leur expérience professionnelle.",
+      "d'acquérir un meilleur niveau d'anglais."
+    ],
+    "audio_transcript": "Transcription : Journaliste : Myriam Wauck, vous êtes à l’origine de ce projet interculturel. Pourquoi l’avoir lancé ? Myriam Wauck : Il y avait un besoin énorme de professeurs. On s’est dit qu’avec un peu d’aide, on pourrait trouver une solution. Le ministère de l’Éducation nous a rapidement soutenus. Journaliste : Au terme de leur formation, ces étudiants obtiennent un contrat d’un an en tant que professeurs, c’est bien cela ? Myriam Wauck : Oui, tout à fait. Et les écoles ont tout de suite été intéressées. Elles manquent cruellement de personnel. En plus, elles accueillent de nombreux élèves étrangers et se posent souvent la question de l’intercompréhension. Elles sont donc ravies d’avoir des enseignants qui peuvent les accompagner dans cette diversité.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 26,
+    "question": "Les professeurs étrangers contribuent à :",
+    "options": [
+      "l'organisation de cours de soutien.",
+      "l'intégration des nouveaux arrivants.",
+      "l'évolution des pratiques pédagogiques.",
+      "l'enseignement des langues étrangères."
+    ],
+    "audio_transcript": "Transcription : Journaliste : Myriam Wauck, vous êtes à l’origine de ce projet interculturel. Pourquoi l’avoir lancé ? Myriam Wauck : Il y avait un besoin énorme de professeurs. On s’est dit qu’avec un peu d’aide, on pourrait trouver une solution. Le ministère de l’Éducation nous a rapidement soutenus. Journaliste : Au terme de leur formation, ces étudiants obtiennent un contrat d’un an en tant que professeurs, c’est bien cela ? Myriam Wauck : Oui, tout à fait. Et les écoles ont tout de suite été intéressées. Elles manquent cruellement de personnel. En plus, elles accueillent de nombreux élèves étrangers et se posent souvent la question de l’intercompréhension. Elles sont donc ravies d’avoir des enseignants qui peuvent les accompagner dans cette diversité.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 27,
+    "question": "Dans son livre, l’auteur :",
+    "options": [
+      "met en lumière les divergences des protagonistes.",
+      "tente d'analyser les conséquences de la violence.",
+      "s'identifie à la quête de ses personnages.",
+      "dévoile son besoin de se démarquer des autres."
+    ],
+    "audio_transcript": "Transcription : Journaliste : Dans votre roman, deux frères s’opposent. Le premier est poète, le second est dans le brouillard. L’un utilise ses mots, l’autre ses poings. L’un incarne l’imaginaire en fuite, l’autre la survie au quotidien. Pourquoi cette opposition ? Louis Tremblay : Quand on est confronté à des conditions de vie difficiles, on peut choisir deux chemins. Soit on s’évade dans le rêve, on tente de transcender sa condition par l’imaginaire. Soit, au contraire, on se dit que la réalité est trop brutale pour perdre du temps à construire des mythes. C’est ce qui se passe entre ces deux frères : l’un ne comprend pas l’autre. Journaliste : Cela vous permet-il de raconter une pluralité de pensées, de réalités ? Avez-vous, vous-même, ce goût du contraste, de la nuance, voire du paradoxe ? Louis Tremblay : Dans la vie, je ne cherche pas forcément le contraste. Mais pour comprendre le monde, il faut apprendre à regarder avec les yeux de l’autre, à entendre avec ses oreilles. C’est essentiel de raconter ces différences, parce que ce sont elles qui nous fondent en tant que communauté humaine.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 28,
+    "question": "Selon l’auteur, le fonctionnement de l’humanité repose sur :",
+    "options": [
+      "l'habileté à se glisser dans la peau de l'autre.",
+      "la construction d'un sentiment d'appartenance.",
+      "l'adhésion à certains principes universels.",
+      "les sacrifices inévitables de chacun."
+    ],
+    "audio_transcript": "Transcription : Journaliste : Dans votre roman, deux frères s’opposent. Le premier est poète, le second est dans le brouillard. L’un utilise ses mots, l’autre ses poings. L’un incarne l’imaginaire en fuite, l’autre la survie au quotidien. Pourquoi cette opposition ? Louis Tremblay : Quand on est confronté à des conditions de vie difficiles, on peut choisir deux chemins. Soit on s’évade dans le rêve, on tente de transcender sa condition par l’imaginaire. Soit, au contraire, on se dit que la réalité est trop brutale pour perdre du temps à construire des mythes. C’est ce qui se passe entre ces deux frères : l’un ne comprend pas l’autre. Journaliste : Cela vous permet-il de raconter une pluralité de pensées, de réalités ? Avez-vous, vous-même, ce goût du contraste, de la nuance, voire du paradoxe ? Louis Tremblay : Dans la vie, je ne cherche pas forcément le contraste. Mais pour comprendre le monde, il faut apprendre à regarder avec les yeux de l’autre, à entendre avec ses oreilles. C’est essentiel de raconter ces différences, parce que ce sont elles qui nous fondent en tant que communauté humaine.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 29,
+    "question": "La monnaie virtuelle permet :",
+    "options": [
+      "de protéger les économies des citoyens grâce à sa traçabilité.",
+      "d'obtenir des avantages commerciaux suite à un don de déchets plastiques.",
+      "de rémunérer les employés du centre de recyclage de Piriapolis.",
+      "de se procurer gratuitement du plastique pour le recycler."
+    ],
+    "audio_transcript": "Transcription : À deux pas de la plage de Piriápolis, sous la chaleur étouffante de l'été austral, des personnes défilent dans une boutique de surf, les bras chargés de déchets plastiques. Dans son sac, Fernando apporte des dizaines de bouteilles vides et d’emballages en plastique. L'idée est de valoriser le recyclage en échangeant des kilos de plastique contre des Plastic Coins, une monnaie virtuelle que l’on peut utiliser dans certains commerces de Piriápolis. Ces Plastic Coins, reçus en échange des déchets, permettent d’obtenir des réductions dans des établissements partenaires du projet : restaurants, boutiques, mais aussi un salon de coiffure ou une école de surf. « Pour le moment, je les échange contre des produits ménagers biodégradables. Par exemple, pour trois cents Plastic Coins, je peux avoir trois kilos de lessive biodégradable. » Le but est de donner de la valeur au recyclage et d’inciter les gens à trier leurs déchets. Gustavo Abeiga, qui travaille dans la boutique Sorbachammar — l’un des trois points de collecte mis en place — explique le fonctionnement du projet : « Ils viennent ici après s’être enregistrés en ligne. Nous avons une balance : un kilo de plastique génère 100 Plasticons. Si le plastique vient de la plage, c’est 200 Plasticons par kilo, et 400 s’il s’agit de microplastiques. » Les déchets plastiques sont ensuite transmis au centre public de recyclage. L’idée est de leur faciliter le travail et d’augmenter la quantité de plastique recyclé, comme l’explique Nicole Houillot, dessinatrice industrielle à l’origine du projet Plastic Coin : « Notre idée de départ était de fabriquer des produits recyclés. Mais pour cela, il faut de gros volumes de plastique. C’est comme ça qu’est née l’idée du Plastic Coin. On s’est demandé comment collecter davantage : comment inciter économiquement les gens à nous apporter du plastique. Nous n’avions pas d’argent, alors nous avons inventé une monnaie et cherché des partenariats pour lui donner de la valeur. » Juan Riveiro, l’autre initiateur de Plastic Coin, est informaticien en télécommunications, âgé de 34 ans. Il insiste sur la volonté de transparence du projet, qui les a conduits à utiliser une cryptomonnaie garantissant la traçabilité des déchets : « Nous voulons être totalement transparents sur les quantités de plastique récupérées, vendues, données à des coopératives ou non recyclables. Grâce à la blockchain, nous avons une traçabilité sécurisée. » Encore en phase d’expérimentation, le projet a déjà séduit plus d’un millier de personnes et permis de récolter 1 300 kilos de plastique en un mois. Si l’objectif est désormais de généraliser le dispositif à l’échelle nationale, Juan Riveiro et Nicole Houillot assurent avoir déjà été contactés par des personnes intéressées aux États-Unis, en Finlande ou en France. Théo Conscience, de retour de Piriápolis – RFI",
+    "right_option": "B"
+  },
+  {
+    "question_no": 30,
+    "question": "Cette initiative :",
+    "options": [
+      "s'ancre dans la tradition humanitaire de l'Uruguay.",
+      "s'implante progressivement sur le continent sud-américain.",
+      "vise une expansion internationale immédiate.",
+      "cherche à s'étendre sur l'ensemble du pays."
+    ],
+    "audio_transcript": "Transcription : À deux pas de la plage de Piriápolis, sous la chaleur étouffante de l'été austral, des personnes défilent dans une boutique de surf, les bras chargés de déchets plastiques. Dans son sac, Fernando apporte des dizaines de bouteilles vides et d’emballages en plastique. L'idée est de valoriser le recyclage en échangeant des kilos de plastique contre des Plastic Coins, une monnaie virtuelle que l’on peut utiliser dans certains commerces de Piriápolis. Ces Plastic Coins, reçus en échange des déchets, permettent d’obtenir des réductions dans des établissements partenaires du projet : restaurants, boutiques, mais aussi un salon de coiffure ou une école de surf. « Pour le moment, je les échange contre des produits ménagers biodégradables. Par exemple, pour trois cents Plastic Coins, je peux avoir trois kilos de lessive biodégradable. » Le but est de donner de la valeur au recyclage et d’inciter les gens à trier leurs déchets. Gustavo Abeiga, qui travaille dans la boutique Sorbachammar — l’un des trois points de collecte mis en place — explique le fonctionnement du projet : « Ils viennent ici après s’être enregistrés en ligne. Nous avons une balance : un kilo de plastique génère 100 Plasticons. Si le plastique vient de la plage, c’est 200 Plasticons par kilo, et 400 s’il s’agit de microplastiques. » Les déchets plastiques sont ensuite transmis au centre public de recyclage. L’idée est de leur faciliter le travail et d’augmenter la quantité de plastique recyclé, comme l’explique Nicole Houillot, dessinatrice industrielle à l’origine du projet Plastic Coin : « Notre idée de départ était de fabriquer des produits recyclés. Mais pour cela, il faut de gros volumes de plastique. C’est comme ça qu’est née l’idée du Plastic Coin. On s’est demandé comment collecter davantage : comment inciter économiquement les gens à nous apporter du plastique. Nous n’avions pas d’argent, alors nous avons inventé une monnaie et cherché des partenariats pour lui donner de la valeur. » Juan Riveiro, l’autre initiateur de Plastic Coin, est informaticien en télécommunications, âgé de 34 ans. Il insiste sur la volonté de transparence du projet, qui les a conduits à utiliser une cryptomonnaie garantissant la traçabilité des déchets : « Nous voulons être totalement transparents sur les quantités de plastique récupérées, vendues, données à des coopératives ou non recyclables. Grâce à la blockchain, nous avons une traçabilité sécurisée. » Encore en phase d’expérimentation, le projet a déjà séduit plus d’un millier de personnes et permis de récolter 1 300 kilos de plastique en un mois. Si l’objectif est désormais de généraliser le dispositif à l’échelle nationale, Juan Riveiro et Nicole Houillot assurent avoir déjà été contactés par des personnes intéressées aux États-Unis, en Finlande ou en France. Théo Conscience, de retour de Piriápolis – RFI",
+    "right_option": "D"
+  },
+  {
+    "question_no": 31,
+    "question": "L’équipe médicale souhaite :",
+    "options": [
+      "renforcer la prévention dans les écoles.",
+      "renouveler une opération chirurgicale.",
+      "se spécialiser dans la médecine sportive.",
+      "améliorer sa réputation dans le milieu."
+    ],
+    "audio_transcript": "Transcription : Fort du succès retentissant de la première double greffe de mains sur un patient, la même équipe va tenter aujourd'hui de rééditer cet exploit sur un jeune adolescent amputé des deux bras après un grave accident de ski lors d'une sortie scolaire.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 32,
+    "question": "Le projet énoncé a entraîné :",
+    "options": [
+      "la fermeture du musée.",
+      "la colère des partenaires sociaux.",
+      "le licenciement d'employés.",
+      "le remplacement du ministre."
+    ],
+    "audio_transcript": "Transcription : C'est aujourd'hui que doit avoir lieu l'appel d'offres pour la privatisation de certains services du plus grand musée londonien. Des salariés plus flexibles, des subventions portées disparues, les syndicats dénoncent une déclaration de guerre qui fait partie de la politique gouvernementale.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 33,
+    "question": "En matière de transport, cette innovation :",
+    "options": [
+      "nécessite la mise en place de règles.",
+      "peine à percer et à se développer.",
+      "est loin de rivaliser avec la voiture.",
+      "fait l'unanimité auprès des citoyens."
+    ],
+    "audio_transcript": "Transcription : La voiture polluante semble condamnée à n'être bientôt qu'un vestige du passé. L'alternative devra répondre à une injonction contradictoire : vitesse et écologie. Une innovation très populaire récente concilie l'une et l'autre : la trottinette électrique. Très pratique, elle est décriée par ceux qui la trouvent dangereuse. Au bout de quelques mois, Paris et les autres grandes villes séduites par le dispositif ont commencé à légiférer pour contrer les effets négatifs de cette nouvelle tendance. Comme pour toute nouveauté, il faut penser à la régulation qui accompagne l'innovation.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 34,
+    "question": "Cette chronique aborde :",
+    "options": [
+      "l'utilisation du piratage informatique à des fins politiques.",
+      "les pratiques frauduleuses via les messageries électroniques.",
+      "les conséquences sociétales du harcèlement virtuel.",
+      "les failles de sécurité en ligne face aux escroqueries."
+    ],
+    "audio_transcript": "Transcription : Parmi les pirates du numérique, il y a les cyber-escrocs, et en particulier ceux qui exercent depuis des pays émergents : des jeunes, principalement, opérant depuis des cybercafés et concevant des arnaques par mail qui inondent les serveurs occidentaux. Comment ces arnaques se nourrissent-elles du contexte social, politique et historique ? Au fond, cela s'inscrit dans une pratique très ancienne du banditisme social, avec des intrigues qui se moulent sur le même principe : une supercherie à l'avance de frais. Et sur le même procédé, puisqu'il s'agit de susciter l'empathie auprès de personnes spécifiques et, de ce fait, arriver à les manipuler.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 35,
+    "question": "Dans son témoignage, l’invitée :",
+    "options": [
+      "s'interroge sur le devenir des animaux d'élevage.",
+      "rappelle les bienfaits des changements alimentaires.",
+      "explique son orientation par son origine rurale.",
+      "questionne la domination de l'homme sur l'animal."
+    ],
+    "audio_transcript": "Transcription : Rebut témoignage — Catherine, pourquoi êtes-vous devenue végane ? Alors, j'étais végétarienne depuis 10 ans, c'est-à-dire que je ne consommais ni viande ni poisson. Puis j'ai décidé d'arrêter d'acheter tout produit provenant de l'exploitation d'un animal, et donc je suis devenue végane. Dès lors que l'homme exploite un animal, que ce soit pour son lait, sa laine, ses œufs ou toute autre chose, même sans le tuer, il est alors considéré comme un simple objet, une machine. Pour moi, être végane, c'est le fait de ne plus cautionner la souffrance ni le massacre des animaux.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 36,
+    "question": "Le chroniqueur :",
+    "options": [
+      "raille la fragilité dans le monde du travail.",
+      "perçoit dans cette attitude une lutte anticapitaliste.",
+      "décrit la démesure de cette pratique.",
+      "emet en cause cette tendance au paradoxe."
+    ],
+    "audio_transcript": "Transcription : Faiblesse, inconstance, inconsistance, débilité : voilà quelques synonymes fort sympathiques de la fragilité. A priori, rien ne donne envie d'en faire un art. Pourquoi alors ce succès de la fragilité ? Comme pour la mode, il faut décrypter la tendance. Et comme d'habitude, ce n'est qu'une histoire d'inversion. L'époque étant à la compétition, au capitalisme fort et féroce, il faut forcément jouer le jeu de la contradiction et de la pseudo-distance critique : il nous faut forcément valoriser son contraire, la fragilité. Alors évidemment, je ne vais pas tomber dans la critique marxiste selon laquelle seuls les plus forts peuvent se permettre d'être fragiles, car ils sauront s'en relever. Mais que penser de cette ode à la fragilité de l'existence ? Comment persister dans l'existence tout en étant affaibli ? Et inversement, que reste-t-il de la fragilité quand on résiste, quand on fait donc preuve de force malgré tout ?",
+    "right_option": "D"
+  },
+  {
+    "question_no": 37,
+    "question": "D’après le chroniqueur, l’architecture devrait :",
+    "options": [
+      "faire primer la fonctionnalité sur l'esthétique.",
+      "s'intéresser aux habitats de toutes les strates sociales.",
+      "permettre aux habitants de profiter du milieu naturel environnant.",
+      "créer des bâtiments modulables au fil des époques."
+    ],
+    "audio_transcript": "Transcription : On le sait tous : les appartements des étages du haut valent plus cher que ceux du bas, notamment pour des questions de température. Mais le changement climatique pourrait bien inverser la fourchette des prix. Les architectes réfléchissent à adapter ces bâtiments, mais difficile, voire impossible, d'isoler des logements pensés avant tout pour être beaux, quitte à avoir trop chaud. Or, c'est une grave erreur, tant la finalité même de l'architecture est climatique, en ceci qu'elle transforme artificiellement le climat dans ce qu'il a d'inconfortable, pour le rendre habitable. Le toit agit contre le soleil, le mur contre le vent et le froid. Conclusion : quand les constructions humaines sont conçues hors de leur milieu naturel, elles finissent toujours par le payer.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 38,
+    "question": "On reproche à l’entreprise citée de :",
+    "options": [
+      "transiger sur les procédures de sécurité.",
+      "passer outre les règlements internationaux.",
+      "traiter avec des acteurs peu scrupuleux.",
+      "recourir à des composants défectueux."
+    ],
+    "audio_transcript": "Transcription : En direct de Kourou, où SpaceX vient renvoyer vers l'espace une nouvelle cargaison de satellites, portant à plus de 300 leur nombre total. Autant dire une goutte d'eau, puisque l'ambition de la start-up américaine est de créer, d'ici 10 ans, un maillage satellitaire de 42 000 mini-satellites. Pourquoi ? Pour offrir un accès internet dans les lieux les plus reculés, surveiller l'environnement ou améliorer les systèmes de navigation. Seulement, ces satellites soulèvent plusieurs inquiétudes. Et si des pirates en prenaient le contrôle pour les éteindre, empêcher l'accès à leurs services ou, pire, usurper leurs signaux et modifier les informations qu'ils envoient ? Car SpaceX, qui cherche à maintenir les coûts au plus bas, utilise pour leur construction des composants librement accessibles en ligne, souvent disponibles en open source. Bref, un jeu d'enfant pour les hackers. Pour s'en convaincre, il suffit de se rappeler la cyberattaque menée depuis la Chine l'an dernier.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 39,
+    "question": "Selon la journaliste, le Sénégal :",
+    "options": [
+      "peine à rallier ses voisins à sa cause.",
+      "s'efforce d'améliorer le niveau de vie des campagnes.",
+      "échoue à attirer des investisseurs fiables.",
+      "vise à consolider son influence diplomatique."
+    ],
+    "audio_transcript": "Transcription : Le petit Sénégal, aux 17 millions d'habitants, est capable et costaud. Tel est le message que son président souhaite délivrer en cette période de crise, en se positionnant notamment comme l'un des parangons de l'annulation de la dette africaine. Mais pas seulement : en montrant aux investisseurs que le pays dispose d'atouts que d'autres pays du continent n'ont pas nécessairement, le Sénégal s'impose comme un interlocuteur inévitable, voire un futur leader incontournable en Afrique. Si tout cela ne touche pas nécessairement le Sénégalais de la rue ou des campagnes, si les problèmes de fond restent, il n'en demeure pas moins que la communication du président lui permet d'acquérir une nouvelle envergure. Feu de paille conjoncturelle ou stratégie durable ? L'avenir nous le dira.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 40,
+    "question": "Selon l’expert,",
+    "options": [
+      "la peur est un frein à la curiosité de l'être humain.",
+      "les informations diffusées sur le web confortent nos préjugés.",
+      "nous avons une appétence innée pour les mauvaises nouvelles.",
+      "les évènements catastrophiques représentent un défi pour la pensée."
+    ],
+    "audio_transcript": "Transcription : Le cerveau est très attentif à nourrir des routines personnelles qui le rassurent. Et en même temps, il a besoin d'explorer le possible. Toute nouvelle qui représente un dévoilement, ou qui attire notre attention — comme la peur ou une information égocentrée — va capter le temps de cerveau disponible. Il s'agit de l'asymétrie de négativité, testée aussi bien sur les stéréotypes sociaux que sur les informations inquiétantes, qui fait qu'on a plus d'intérêt et qu'on mémorise mieux les informations négatives. Sur internet, les fausses informations sont plus repartagées que les vraies, et elles vont souvent dans le sens de nos attentes naturelles. Ce type de proposition intellectuelle part avec un avantage concurrentiel sur d'autres propositions, comme celles de la science ou de la pensée méthodique, qui paraîtront plus contre-intuitives, plus douloureuses à consommer.",
+    "right_option": "C"
+  }
+]

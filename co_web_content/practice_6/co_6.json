@@ -11,12 +11,13 @@
     "audio_transcript": "Transcription – Mon chien a l'air malade, il a du mal à respirer. Il est aussi très fatigué et ne mange presque plus depuis hier. – D'accord, nous allons le prendre en charge tout de suite. Je vais examiner ses poumons et voir s'ils présentent d'autres symptômes.",
     "right_option": "C",
     "highlights": [
-      "Mon chien a l'air malade",
-      "il a du mal à respirer",
-      "Il est aussi très fatigué",
-      "ne mange presque plus depuis hier",
-      "nous allons le prendre en charge",
-      "Je vais examiner ses poumons"
+      "Mon chien",
+      "a l'air malade",
+      "a du mal à respirer",
+      "très fatigué",
+      "ne mange presque plus",
+      "examiner ses poumons",
+      "d'autres symptômes"
     ]
   },
   {
@@ -34,10 +35,10 @@
       "des maux de tête",
       "mes lunettes",
       "Ma vision devient floue",
-      "surtout pour lire",
-      "un contrôle visuel complet",
+      "lire",
+      "contrôle visuel",
       "ajusterons la correction",
-      "vous travaillez sur écran"
+      "travaillez sur écran"
     ]
   },
   {
@@ -52,12 +53,12 @@
     "audio_transcript": "– Excusez-moi, je cherche la farine complète bio. Je ne la trouve pas dans le rayon habituel, seulement la farine blanche classique et la semoule. – Elle a été déplacée temporairement à côté des produits sans gluten, juste en face du rayon confiture. – Je peux vous y accompagner si vous voulez.",
     "right_option": "C",
     "highlights": [
-      "la farine complète bio",
+      "farine complète bio",
       "rayon habituel",
       "farine blanche classique",
       "semoule",
       "déplacée temporairement",
-      "produits sans gluten",
+      "côté des produits sans gluten",
       "en face du rayon confiture"
     ]
   },
@@ -76,7 +77,7 @@
       "revue mensuelle",
       "chef de département",
       "suivi budgétaire",
-      "prévisionnels et réalisés",
+      "écarts entre prévisionnels et réalisés",
       "ajuster en temps réel"
     ]
   },
@@ -129,7 +130,6 @@
     "right_option": "C",
     "highlights": [
       "pour votre sécurité",
-      "le bon déroulement de vos voyages",
       "strictement interdit de laisser vos bagages sans surveillance",
       "zones publiques de l'aéroport",
       "Si vous apercevez un objet abandonné",
@@ -148,9 +148,9 @@
     "audio_transcript": "Veuillez prêter attention aux prochaines annonces concernant les ajustements de l'horaire des trains en raison des travaux de maintenance. Nous nous excusons pour tout inconvénient et vous remercions de votre compréhension et de votre patience.",
     "right_option": "D",
     "highlights": [
-      "ajustements de l'horaire des trains",
+      "Veuillez prêter attention aux prochaines annonces concernant les ajustements de l'horaire des trains",
       "en raison des travaux de maintenance",
-      "prochaines annonces concernant les ajustements de l'horaire des trains"
+      "Nous nous excusons pour tout inconvénient"
     ]
   },
   {
@@ -183,8 +183,8 @@
     "audio_transcript": "Bonjour, Je vous contacte pour reconsidérer une configuration patrimoniale en lien avec un portefeuille dormant, lequel pourrait être réaffecté selon une approche opportuniste, mais toujours dans le respect d'une logique de préservation du capital initial.",
     "right_option": "C",
     "highlights": [
-      "reconsidérer une configuration patrimoniale",
-      "portefeuille dormant",
+      "Je vous contacte pour reconsidérer une configuration patrimoniale",
+      "un portefeuille dormant",
       "pourrait être réaffecté",
       "selon une approche opportuniste",
       "dans le respect d'une logique de préservation du capital initial"
@@ -325,9 +325,7 @@
     "audio_transcript": "Si une exposition me semble intéressante, ou si un ami me propose une visite, je me laisse volontiers tenter, mais ce n'est pas une habitude ancrée. J'apprécie de découvrir ce qui m'entoure quand l'occasion se présente, sans pour autant que cela fasse partie de mes habitudes régulières.",
     "right_option": "B",
     "highlights": [
-      "Si une exposition me semble intéressante",
-      "ou si un ami me propose une visite",
-      "je me laisse volontiers tenter",
+      "Si une exposition me semble intéressante, ou si un ami me propose une visite, je me laisse volontiers tenter",
       "ce n'est pas une habitude ancrée",
       "J'apprécie de découvrir ce qui m'entoure quand l'occasion se présente",
       "sans pour autant que cela fasse partie de mes habitudes régulières"
@@ -346,8 +344,7 @@
     "right_option": "C",
     "highlights": [
       "ne m'a jamais vraiment captivé",
-      "L'idée de rester figé devant des objets ou des œuvres comme dans un cadre immobile",
-      "en mouvement et non observée à travers un filtre"
+      "J'ai toujours trouvé que l'expérience prenait tout son sens lorsqu'elle est vécue pleinement, en mouvement et non observée à travers un filtre"
     ]
   },
   {
@@ -362,9 +359,9 @@
     "audio_transcript": "Les agences de voyages permettent aux personnes qui n'ont pas l'habitude de voyager d'être orientées, conseillées, guidées dans leur choix de destination, leur réservation de vols et d'hôtels. Mais de toute évidence, elles sont aussi un piège, car elles facturent au prix fort des services que les clients peuvent trouver deux ou trois fois moins cher sur internet. Par ailleurs, les agences proposent souvent des hébergements dans leurs hôtels partenaires, qui ne sont pas nécessairement les meilleurs ou les mieux situés. Enfin, certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple.",
     "right_option": "D",
     "highlights": [
-      "certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin",
-      "comme les services de guide par exemple",
-      "n'a pas nécessairement besoin"
+      "certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple",
+      "vendent des services dont le client n'a pas nécessairement besoin",
+      "comme les services de guide par exemple"
     ]
   },
   {
@@ -379,9 +376,11 @@
     "audio_transcript": "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés. Il faut dire que les données physiologiques humaines constituent un formidable champ d'investigation. Les paramètres à surveiller sont nombreux, et la technologie permet aujourd'hui de quantifier tout cela en temps réel : c'est le fameux phénomène de l'automesure, en anglais le quantified self. Par exemple, le pèse-personne connecté enregistre votre poids au jour le jour et vous permet de retrouver les données sur votre mobile via une application dédiée. Cela va même plus loin aujourd'hui avec la mesure du rythme cardiaque par les pieds, oui ça marche, du taux de CO₂ dans la pièce ou encore de l'annonce du temps qu'il va faire dans la journée. Autre type d'équipement pour la santé, le tensiomètre connecté, destiné à ceux qui souffrent de maladies cardiovasculaires et qui doivent surveiller leur pression artérielle au quotidien. Ce type de produit coûte moins d'une centaine d'euros chacun. Et puis on trouve aussi toutes sortes de petits accessoires pour certaines pathologies qui sont...",
     "right_option": "C",
     "highlights": [
-      "c'est le fameux phénomène de l'automesure",
+      "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés",
+      "la technologie permet aujourd'hui de quantifier tout cela en temps réel : c'est le fameux phénomène de l'automesure",
       "en anglais le quantified self",
-      "le pèse-personne connecté enregistre votre poids au jour le jour"
+      "le pèse-personne connecté enregistre votre poids au jour le jour",
+      "vous permet de retrouver les données sur votre mobile via une application dédiée"
     ]
   },
   {
@@ -415,9 +414,13 @@
     "audio_transcript": "Bienvenue à tous. Aujourd'hui, nous parlons du sommeil, essentiel à notre santé. Pour en discuter, nous avons le docteur Lucas Martin, spécialiste du sommeil. Merci d'être avec nous, docteur. Merci pour l'invitation, c'est un plaisir de parler de ce sujet important. Pourquoi le sommeil est-il si crucial pour notre bien-être ? Le sommeil permet au cerveau de traiter les informations, d'éliminer les toxines et de réguler les émotions. Il joue aussi un rôle vital dans la réparation physique et le renforcement du système immunitaire. Quels sont les principaux facteurs qui perturbent notre sommeil ? Les écrans avant de dormir, le stress, une alimentation tardive et l'absence de routine de sommeil sont des facteurs clés. Ces éléments perturbent notre horloge biologique et altèrent la qualité de notre sommeil.",
     "right_option": "A",
     "highlights": [
-      "Les écrans avant de dormir, le stress, une alimentation tardive et l'absence de routine de sommeil sont des facteurs clés",
       "Les écrans avant de dormir",
-      "Ces éléments perturbent notre horloge biologique et altèrent la qualité de notre sommeil"
+      "le stress",
+      "une alimentation tardive",
+      "l'absence de routine de sommeil",
+      "sont des facteurs clés",
+      "Ces éléments perturbent notre horloge biologique",
+      "altèrent la qualité de notre sommeil"
     ]
   },
   {
@@ -433,8 +436,9 @@
     "right_option": "B",
     "highlights": [
       "La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie.",
-      "Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales, ce qui reste un sujet central dans nos sociétés contemporaines.",
-      "Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique."
+      "Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales",
+      "ce qui reste un sujet central dans nos sociétés contemporaines",
+      "Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique"
     ]
   },
   {
@@ -449,12 +453,13 @@
     "audio_transcript": "Mesdames et messieurs, aujourd'hui nous avons l'honneur de recevoir le philosophe et professeur émérite Jean-Philippe Rousseau. Monsieur Rousseau, merci de vous être joint à nous pour discuter des apports de la philosophie moderne dans la société actuelle. Merci pour votre invitation. La philosophie, loin d'être une discipline abstraite, a des implications profondes dans notre manière de comprendre les grandes questions existentielles, politiques et sociales. Elle continue d'influencer les fondements de notre pensée contemporaine. Quel rôle la philosophie moderne joue-t-elle dans les débats contemporains sur la liberté et l'autonomie individuelle ? La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie. Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique. Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales, ce qui reste un sujet central dans nos sociétés contemporaines. Pensez-vous que la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels ? Absolument. Et c'est précisément dans ces moments d'évolution technologique rapide que la philosophie doit intervenir. Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer, comme la question de la nature humaine à l'ère de l'intelligence artificielle et de la surveillance de masse.",
     "right_option": "A",
     "highlights": [
-      "la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels",
+      "Pensez-vous que la philosophie moderne est toujours pertinente face aux défis technologiques et numériques actuels ?",
+      "Absolument.",
       "c'est précisément dans ces moments d'évolution technologique rapide que la philosophie doit intervenir",
       "Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer",
       "la question de la nature humaine à l'ère de l'intelligence artificielle et de la surveillance de masse",
-      "Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales",
-      "Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique"
+      "La philosophie moderne, notamment à travers des penseurs comme Kant ou Foucault, met en lumière la question de l'autonomie",
+      "Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales"
     ]
   },
   {
@@ -473,7 +478,7 @@
       "D'une part, il y a la montée de l'unilatéralisme et des tensions géopolitiques entre grandes puissances",
       "ce qui fragilise les institutions multilatérales",
       "D'autre part, la question du changement climatique et des inégalités économiques mondiales nécessite une coopération renforcée et des mécanismes de gouvernance plus efficaces",
-      "les défis globaux, comme la santé publique mondiale ou la crise climatique, imposent une coopération"
+      "les principaux défis auxquels la gouvernance mondiale doit faire face aujourd'hui"
     ]
   },
   {
@@ -489,9 +494,7 @@
     "right_option": "C",
     "highlights": [
       "Les intérêts nationaux peuvent parfois sembler irréconciliables, mais la réalité est que les défis globaux, comme la santé publique mondiale ou la crise climatique, imposent une coopération.",
-      "Ce sont ces enjeux collectifs qui devraient obliger les nations à trouver des terrains d'entente malgré leurs divergences.",
-      "imposent une coopération",
-      "obliger les nations à trouver des terrains d'entente malgré leurs divergences"
+      "Ce sont ces enjeux collectifs qui devraient obliger les nations à trouver des terrains d'entente malgré leurs divergences."
     ]
   },
   {
@@ -506,9 +509,7 @@
     "audio_transcript": "L'essor des cryptomonnaies et les défis de la régulation financière. Depuis la création du bitcoin en deux mille neuf, les cryptomonnaies ont connu un essor spectaculaire, transformant l'industrie financière et remettant en question les systèmes monétaires traditionnels. Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement. Toutefois, cette révolution technologique s'accompagne de risques significatifs. Les cryptomonnaies sont souvent associées à des activités illicites comme le blanchiment d'argent et le financement du terrorisme, en raison de leur anonymat relatif et de l'absence de régulation. Les autorités financières à l'échelle mondiale sont confrontées à un dilemme : comment encadrer cette nouvelle forme de monnaie tout en préservant son caractère innovant ? Certains pays ont adopté des régulations strictes, comme la Chine, interdisant toute activité liée aux cryptomonnaies, tandis que d'autres, comme les États-Unis, optent pour une approche plus modérée visant à protéger les investisseurs sans étouffer l'innovation. Les institutions financières traditionnelles, elles, tentent de s'adapter en créant leurs propres solutions basées sur la technologie blockchain, tout en surveillant l'évolution du marché. L'avenir des cryptomonnaies dépendra largement de la capacité des régulateurs à trouver un équilibre entre la protection des consommateurs et la préservation de l'innovation. En parallèle, des questions éthiques émergent. Les cryptomonnaies, en permettant des transactions anonymes, favorisent-elles un monde plus libre ou un monde plus risqué ?",
     "right_option": "D",
     "highlights": [
-      "Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement",
-      "transactions décentralisées et anonymes",
-      "elles attirent de plus en plus d'utilisateurs"
+      "Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement"
     ]
   },
   {
@@ -544,7 +545,9 @@
       "le télétravail partiel est autorisé à raison de 2 jours par semaine, sous réserve d'accord du supérieur hiérarchique",
       "L'approbation dépend des besoins du service, des obligations de présence et de la continuité des missions",
       "En cas de refus, une justification motivée est obligatoire",
-      "Le respect des plages horaires de disponibilité est impératif"
+      "sous réserve d'accord",
+      "dépend des besoins du service",
+      "de la continuité des missions"
     ]
   },
   {
@@ -562,12 +565,11 @@
       "L'inspection annuelle a mis en lumière plusieurs défaillances dans la gestion budgétaire de l'unité",
       "Les écarts entre les prévisions et les dépenses réelles excèdent les seuils de tolérance",
       "La justification des lignes de dépenses est souvent absente ou incomplète",
-      "compromet la traçabilité financière",
+      "ce qui compromet la traçabilité financière",
       "Le contrôle de niveau un n'a pas été systématiquement réalisé",
       "les engagements de crédit ne sont pas toujours validés par un agent comptable habilité",
       "L'inspection recommande une révision des procédures internes",
-      "une formation renforcée du personnel financier",
-      "la mise en place d'un outil de suivi automatisé"
+      "une formation renforcée du personnel financier"
     ]
   },
   {
@@ -584,9 +586,10 @@
     "highlights": [
       "À partir du premier mai, les conditions générales d'utilisation des services numériques de la plateforme gouvernementale seront modifiées",
       "L'usager devra consentir explicitement à chaque nouvelle collecte de données",
-      "Les changements portent principalement sur les modalités d'accès aux données sensibles",
+      "les modalités d'accès aux données sensibles",
+      "les nouvelles procédures de confidentialité des données personnelles",
       "En cas de non-adhésion aux nouvelles conditions, l'accès au service Korba sera suspendu",
-      "Un guide explicatif sera mis en ligne pour aider à la compréhension de ces changements"
+      "Ces modifications visent à renforcer la sécurité et la confidentialité des informations personnelles"
     ]
   },
   {
@@ -622,8 +625,7 @@
       "un entretien disciplinaire",
       "l'incident survenu le 10 mai",
       "votre conduite non conforme aux règles de l'entreprise",
-      "discuter des faits reprochés",
-      "des éventuelles sanctions",
+      "discuter des faits reprochés et des éventuelles sanctions",
       "une décision définitive sera prise"
     ]
   },
@@ -642,8 +644,7 @@
       "Les véhicules de fonction sont alloués pour des missions professionnelles uniquement",
       "Toute utilisation personnelle est interdite",
       "sauf autorisation explicite de la direction",
-      "Un contrôle mensuel des kilomètres parcourus sera effectué",
-      "afin de garantir une utilisation conforme aux règles internes"
+      "Un contrôle mensuel des kilomètres parcourus sera effectué afin de garantir une utilisation conforme aux règles internes"
     ]
   },
   {
@@ -660,11 +661,11 @@
     "highlights": [
       "des écarts significatifs entre les procédures écrites et leur application réelle",
       "particulièrement dans le traitement des demandes de remboursement de frais professionnels",
-      "Certains services n'ont pas respecté les délais imposés pour le dépôt des justificatifs",
-      "d'autres ont omis de faire valider les dépenses par les responsables hiérarchiques",
+      "n'ont pas respecté les délais imposés pour le dépôt des justificatifs",
+      "ont omis de faire valider les dépenses par les responsables hiérarchiques",
       "Les anomalies observées ont des répercussions sur la transparence et la fiabilité des comptes",
       "Il est recommandé de mettre en place un module de formation pour les collaborateurs concernés",
-      "de renforcer les contrôles automatisés dans le système de gestion des dépenses"
+      "renforcer les contrôles automatisés dans le système de gestion des dépenses"
     ]
   },
   {
@@ -683,7 +684,7 @@
       "Elle transforme les modèles traditionnels en introduisant de nouveaux services comme les plateformes en ligne ou le commerce électronique",
       "Si elle offre des opportunités de croissance, elle génère aussi des défis liés à la fiscalité, à la protection des données et à l'emploi",
       "Certains secteurs comme la logistique et la finance en sont profondément transformés",
-      "des défis"
+      "elle génère aussi des défis"
     ]
   },
   {
@@ -700,10 +701,11 @@
     "highlights": [
       "Encourager une alimentation saine commence par l'éducation",
       "Les écoles, les campagnes de santé publique et les médias peuvent jouer un rôle clé",
-      "les gouvernements devraient mettre en place des politiques",
+      "les gouvernements devraient mettre en place des politiques visant à limiter la publicité pour les aliments transformés et riches en sucre",
+      "Offrir des incitations fiscales pour les producteurs de produits locaux et durables pourrait également rendre les aliments sains plus accessibles à tous",
       "il est important d'adopter une approche personnelle",
       "Chaque individu doit prendre conscience de son alimentation et choisir des options plus nutritives",
-      "Une meilleure information sur l'impact des choix alimentaires permettrait également d'adopter de meilleures habitudes"
+      "Une meilleure information sur l'impact des choix alimentaires permettrait également d'adopter de meilleures habitudes sur le long terme"
     ]
   },
   {

@@ -10,7 +10,12 @@
     ],
     "audio_transcript": "— On va au cinéma ce soir. Tu viens avec nous ? — Ce soir, non, je vais faire mes devoirs. J'en ai tellement.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "au cinéma",
+      "ce soir",
+      "faire mes devoirs",
+      "J'en ai tellement"
+    ]
   },
   {
     "question_no": 2,
@@ -23,7 +28,11 @@
     ],
     "audio_transcript": "— Excusez-moi, à quelle heure part le premier train pour Lyon ? — À 9 heures moins vingt-cinq.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "le premier train",
+      "pour Lyon",
+      "À 9 heures moins vingt-cinq"
+    ]
   },
   {
     "question_no": 3,
@@ -36,7 +45,12 @@
     ],
     "audio_transcript": "— Salut Sylvain, j'ai une fuite d'eau chez moi, tu me donnes un coup de main ? — Aujourd'hui, ce ne sera pas possible parce que j'ai voyagé. Fais plutôt appel à un plombier.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "une fuite d'eau chez moi",
+      "tu me donnes un coup de main",
+      "j'ai voyagé",
+      "Fais plutôt appel à un plombier"
+    ]
   },
   {
     "question_no": 4,
@@ -49,7 +63,10 @@
     ],
     "audio_transcript": "— Ça va mieux ? Tu t'es fait consulter ce matin ? — Juste un peu. Le médecin m'a conseillé d'arrêter la consommation de tabac, sinon je risque gros.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "Le médecin",
+      "m'a conseillé d'arrêter la consommation de tabac"
+    ]
   },
   {
     "question_no": 5,
@@ -62,7 +79,18 @@
     ],
     "audio_transcript": "À tous les habitants de Saint-Louis, Ne manquez pas le spectacle incroyable ce samedi à 20 heures, à la place Moselle. Retrouvez vos personnages préférés comme Cloudrico, Acrobat Luna, les équilibristes, les jongleurs et les époustouflants trapézistes, Sky et Volt. Venez nombreux !",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "À tous les habitants de Saint-Louis",
+      "le spectacle incroyable ce samedi à 20 heures",
+      "à la place Moselle",
+      "vos personnages préférés comme Cloudrico",
+      "Acrobat Luna",
+      "les équilibristes",
+      "les jongleurs",
+      "les époustouflants trapézistes",
+      "Sky et Volt",
+      "Venez nombreux"
+    ]
   },
   {
     "question_no": 6,
@@ -75,7 +103,12 @@
     ],
     "audio_transcript": "Attention, un début d'incendie a été détecté. Veuillez évacuer immédiatement la poste en suivant les panneaux de sortie. Gardez votre calme et aidez les personnes autour de vous. Merci de votre coopération.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "un début d'incendie a été détecté",
+      "Veuillez évacuer immédiatement la poste",
+      "en suivant les panneaux de sortie",
+      "Gardez votre calme et aidez les personnes autour de vous"
+    ]
   },
   {
     "question_no": 7,
@@ -88,7 +121,11 @@
     ],
     "audio_transcript": "Attention, l'exposition de l'artiste Jean Dupont est suspendue aujourd'hui en raison de problèmes techniques. Nous vous informerons bientôt de la nouvelle date. Merci de votre compréhension et de votre patience.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "l'exposition de l'artiste Jean Dupont est suspendue aujourd'hui",
+      "en raison de problèmes techniques",
+      "Nous vous informerons bientôt de la nouvelle date"
+    ]
   },
   {
     "question_no": 8,
@@ -101,7 +138,11 @@
     ],
     "audio_transcript": "Chers clients, en raison de la grande vague de froid qui vient d'être annoncée, nous fermerons bien plus tôt aujourd'hui. Veuillez finaliser vos achats rapidement. Merci de votre compréhension et prenez soin de vous.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "nous fermerons bien plus tôt aujourd'hui",
+      "en raison de la grande vague de froid qui vient d'être annoncée",
+      "Veuillez finaliser vos achats rapidement"
+    ]
   },
   {
     "question_no": 9,
@@ -114,7 +155,11 @@
     ],
     "audio_transcript": "Bon, c'était Jérémy. Rien de spécial, j'appelais juste pour savoir si tu vas bien et comment ton entretien d'embauche s'est passé. Me rappelle plus tard.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "j'appelais juste pour savoir si tu vas bien",
+      "comment ton entretien d'embauche s'est passé",
+      "Rien de spécial"
+    ]
   },
   {
     "question_no": 10,
@@ -127,7 +172,12 @@
     ],
     "audio_transcript": "Salut mon grand, c'est papa. D'abord, merci pour ton invitation. Je t'appelle pour te dire que je serai effectivement là ce soir, mais avec un retard, car je vais prendre le train de dix-huit heures. À bientôt.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "Je t'appelle pour te dire que je serai effectivement là ce soir",
+      "avec un retard",
+      "je vais prendre le train de dix-huit heures",
+      "merci pour ton invitation"
+    ]
   },
   {
     "question_no": 11,
@@ -140,7 +190,12 @@
     ],
     "audio_transcript": "Bonjour madame Lila, Parfumeries, odeurs suaves. Félicitations ! Vous êtes l'heureuse gagnante de notre dernier tirage au sort. Venez récupérer votre lot dans nos locaux situés au cent-dix-sept Dôme, rue des Marchands, dès que possible. À très bientôt.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "Félicitations !",
+      "Vous êtes l'heureuse gagnante de notre dernier tirage au sort",
+      "Venez récupérer votre lot",
+      "Parfumeries, odeurs suaves"
+    ]
   },
   {
     "question_no": 12,
@@ -153,7 +208,12 @@
     ],
     "audio_transcript": "Floraine, j'ai entendu que tu déménages bientôt. Si tu as besoin d'aide, je suis disponible pour les cartons ou le transport. Fais-moi signe quand tu veux qu'on s'organise. À bientôt.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "j'ai entendu que tu déménages bientôt",
+      "Si tu as besoin d'aide, je suis disponible",
+      "disponible pour les cartons ou le transport",
+      "Fais-moi signe quand tu veux qu'on s'organise"
+    ]
   },
   {
     "question_no": 13,
@@ -166,7 +226,11 @@
     ],
     "audio_transcript": "C'est pour l'armoire que vous avez mise en vente sur internet. Je suis intéressé et donc je vous appelle pour savoir si c'est possible de bénéficier d'un rabais. Répondez-moi vite, merci.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "C'est pour l'armoire que vous avez mise en vente sur internet",
+      "Je suis intéressé",
+      "je vous appelle pour savoir si c'est possible de bénéficier d'un rabais"
+    ]
   },
   {
     "question_no": 14,
@@ -179,7 +243,11 @@
     ],
     "audio_transcript": "Bonjour, J'ai vu votre annonce concernant le recrutement d'un chauffeur. Je suis vraiment intéressé et donc je vous appelle pour savoir quand la personne doit commencer le travail, car ce n'est pas mentionné sur l'annonce.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "J'ai vu votre annonce concernant le recrutement d'un chauffeur",
+      "je vous appelle pour savoir quand la personne doit commencer le travail",
+      "ce n'est pas mentionné sur l'annonce"
+    ]
   },
   {
     "question_no": 15,
@@ -192,7 +260,11 @@
     ],
     "audio_transcript": "D'abord, il faut savoir qu'un tel espace vert nous préserve de la pollution. C'est aussi un endroit où nos enfants s'amusent à longueur de journée. Le centre commercial, c'est bien, mais la santé est primordiale.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "il faut savoir qu'un tel espace vert nous préserve de la pollution",
+      "C'est aussi un endroit où nos enfants s'amusent à longueur de journée",
+      "Le centre commercial, c'est bien, mais la santé est primordiale"
+    ]
   },
   {
     "question_no": 16,
@@ -205,7 +277,11 @@
     ],
     "audio_transcript": "Cette décision du maire m'enchante vraiment, particulièrement avec la situation économique de la ville qui laisse à désirer. Ça va apporter une bouffée d'air frais dans les caisses de la municipalité.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "Cette décision du maire m'enchante vraiment",
+      "particulièrement avec la situation économique de la ville qui laisse à désirer",
+      "Ça va apporter une bouffée d'air frais dans les caisses de la municipalité"
+    ]
   },
   {
     "question_no": 17,
@@ -218,7 +294,12 @@
     ],
     "audio_transcript": "Ce parc apporte beaucoup d'air pur dans le quartier. Et le centre commercial fera qu'on ait accès à une grande variété de produits, car aujourd'hui nous sommes cantonnés à une seule épicerie. Rien que pour ça, j'ai l'embarras du choix.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "Ce parc apporte beaucoup d'air pur dans le quartier",
+      "Et le centre commercial fera qu'on ait accès à une grande variété de produits",
+      "aujourd'hui nous sommes cantonnés à une seule épicerie",
+      "Rien que pour ça, j'ai l'embarras du choix"
+    ]
   },
   {
     "question_no": 18,
@@ -231,7 +312,12 @@
     ],
     "audio_transcript": "C’est très rare de voir une femme sur un chantier de construction, de travailler comme maçon. Ce n’est pas courant de trouver des femmes échafaudeurs, pour ne citer que cela. Donc ça explique clairement que l’égalité des gens au travail est un mirage, pour ne pas dire que c’est un rêve.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "C’est très rare de voir une femme sur un chantier de construction",
+      "Ce n’est pas courant de trouver des femmes échafaudeurs",
+      "l’égalité des gens au travail est un mirage",
+      "pour ne pas dire que c’est un rêve"
+    ]
   },
   {
     "question_no": 19,
@@ -244,7 +330,13 @@
     ],
     "audio_transcript": "Écoutez, la question ne se pose plus aujourd’hui. Ici, on trouve des femmes mécaniciennes, des chauffeurs de bus, des ingénieurs de construction et j’en passe. Et elles s’en sortent très bien, et même souvent mieux que les hommes.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "la question ne se pose plus aujourd’hui",
+      "on trouve des femmes mécaniciennes, des chauffeurs de bus, des ingénieurs de construction",
+      "et j’en passe",
+      "Et elles s’en sortent très bien",
+      "et même souvent mieux que les hommes"
+    ]
   },
   {
     "question_no": 20,
@@ -257,7 +349,12 @@
     ],
     "audio_transcript": "Quand on observe certains secteurs, on se rend compte que soit les femmes, soit les hommes sont plus représentés. Donc sur le terrain, cette politique d’égalité est difficile à mettre en place. Moi, je crois à l’égalité si cette initiative est accompagnée afin que les employeurs comprennent que les femmes sont autant capables que les hommes.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "Moi, je crois à l’égalité",
+      "si cette initiative est accompagnée",
+      "afin que les employeurs comprennent",
+      "cette politique d’égalité est difficile à mettre en place"
+    ]
   },
   {
     "question_no": 21,
@@ -270,7 +367,16 @@
     ],
     "audio_transcript": "Bonjour à tous. Aujourd'hui, parlons du cinéma numérique ambulant, ou CNA. Ce concept innovant amène le cinéma directement dans les zones rurales et éloignées, où l'accès aux salles de cinéma est limité. Grâce aux fonds collectés par des altruistes, un minibus équipé d'un projecteur, d'un DVD et d'un groupe électrogène sillonne les villages comme Cacouna et Percé plusieurs fois par mois. Le CNA projette des films sur grand écran en plein air ou dans des espaces communautaires. Cela permet aux communautés de découvrir des œuvres cinématographiques qu'elles n'auraient autrement pas pu voir. Le CNA ne se contente pas de divertir, il joue aussi un rôle éducatif en diffusant des documentaires et des films culturels. En connectant les gens à travers le cinéma, le CNA favorise l'échange culturel et renforce les liens communautaires. Une initiative formidable qui démocratise l'accès à la culture.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "Ce concept innovant amène le cinéma directement dans les zones rurales et éloignées",
+      "où l'accès aux salles de cinéma est limité",
+      "un minibus équipé d'un projecteur, d'un DVD et d'un groupe électrogène sillonne les villages comme Cacouna et Percé plusieurs fois par mois",
+      "Le CNA projette des films sur grand écran en plein air ou dans des espaces communautaires",
+      "Cela permet aux communautés de découvrir des œuvres cinématographiques qu'elles n'auraient autrement pas pu voir",
+      "Le CNA ne se contente pas de divertir, il joue aussi un rôle éducatif",
+      "En connectant les gens à travers le cinéma, le CNA favorise l'échange culturel et renforce les liens communautaires",
+      "Une initiative formidable qui démocratise l'accès à la culture"
+    ]
   },
   {
     "question_no": 22,
@@ -283,7 +389,16 @@
     ],
     "audio_transcript": "Aujourd'hui, allons au Canada où le pourboire est une tradition bien ancrée avec des origines remontant à l'époque coloniale britannique. Historiquement, il servait de complément de revenus pour les employés de service mal rémunérés. Aujourd'hui, le pourboire joue toujours un rôle crucial dans de nombreux secteurs, particulièrement dans la restauration et l'hôtellerie où il constitue une part significative du salaire des employés. Cependant, cette pratique pose des défis. Elle crée une dépendance économique des travailleurs sur la générosité des clients et peut entraîner des inégalités salariales. De plus, le pourboire n'est pas universellement compris ou pratiqué de la même manière par tous, ce qui peut mener à des malentendus culturels et des frustrations pour les touristes et les nouveaux résidents.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "le pourboire est une tradition bien ancrée",
+      "il servait de complément de revenus pour les employés de service mal rémunérés",
+      "le pourboire joue toujours un rôle crucial dans de nombreux secteurs",
+      "il constitue une part significative du salaire des employés",
+      "cette pratique pose des défis",
+      "Elle crée une dépendance économique des travailleurs sur la générosité des clients",
+      "peut entraîner des inégalités salariales",
+      "le pourboire n'est pas universellement compris ou pratiqué de la même manière par tous"
+    ]
   },
   {
     "question_no": 23,
@@ -296,7 +411,20 @@
     ],
     "audio_transcript": "Bonjour bonjour. Bonjour monsieur Roy. Dans une école toute neuve flambant neuve. Ouais effectivement il y a 4 ans lors du premier mandat je me demandais à Jean-François Robert de dessiner entre autres en s'inspirant de ce que Ricardo et compagnie avaient fait un nouveau modèle d'école plus lumineuse avec plus d'espace commun et c'est la première fois que j'en visite qui est ouverte depuis le mois de septembre c'est vraiment beau. Bon en même temps c'est l'exception à la règle. On est en train d'en construire une centaine c'est certain que graduellement on voudrait que toutes les écoles au Québec soient comme ça mais effectivement il y en a seulement une centaine. Il y a à peu près la moitié qui qui ont besoin beaucoup d'amour là pour le dire positivement. Allez-vous accélérer ce que vous deviez mettre dans 5 6 ans pour rénover les écoles ? Oui j'ai demandé à Bernard Drainville de revoir comment on met dans différentes catégories des écoles parce que quand on dit il y en a 50 pour 100 qui sont pas en bon état qu'elles sont celles qui doivent absolument être faites actuellement. Bon il y a des enjeux de main-d'oeuvre en construction mais mais écoutez pour moi ça a trioté donc je veux pas qu'on s'empêche d'accélérer la rénovation des écoles pour des raisons d'argent il y a rien de plus important pour moi.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "Dans une école toute neuve flambant neuve",
+      "je me demandais à Jean-François Robert de dessiner entre autres en s'inspirant de ce que Ricardo et compagnie avaient fait un nouveau modèle d'école plus lumineuse avec plus d'espace commun",
+      "c'est la première fois que j'en visite qui est ouverte depuis le mois de septembre",
+      "On est en train d'en construire une centaine",
+      "on voudrait que toutes les écoles au Québec soient comme ça",
+      "Allez-vous accélérer ce que vous deviez mettre dans 5 6 ans pour rénover les écoles ?",
+      "Oui j'ai demandé à Bernard Drainville de revoir comment on met dans différentes catégories des écoles",
+      "quand on dit il y en a 50 pour 100 qui sont pas en bon état",
+      "qu'elles sont celles qui doivent absolument être faites actuellement",
+      "il y a des enjeux de main-d'oeuvre en construction",
+      "je veux pas qu'on s'empêche d'accélérer la rénovation des écoles pour des raisons d'argent",
+      "il y a rien de plus important pour moi"
+    ]
   },
   {
     "question_no": 24,
@@ -309,7 +437,13 @@
     ],
     "audio_transcript": "Bonjour bonjour. Bonjour monsieur Roy. Dans une école toute neuve flambant neuve. Ouais effectivement il y a 4 ans lors du premier mandat je me demandais à Jean-François Robert de dessiner entre autres en s'inspirant de ce que Ricardo et compagnie avaient fait un nouveau modèle d'école plus lumineuse avec plus d'espace commun et c'est la première fois que j'en visite qui est ouverte depuis le mois de septembre c'est vraiment beau. Bon en même temps c'est l'exception à la règle. On est en train d'en construire une centaine c'est certain que graduellement on voudrait que toutes les écoles au Québec soient comme ça mais effectivement il y en a seulement une centaine. Il y a à peu près la moitié qui qui ont besoin beaucoup d'amour là pour le dire positivement. Allez-vous accélérer ce que vous deviez mettre dans 5 6 ans pour rénover les écoles ? Oui j'ai demandé à Bernard Drainville de revoir comment on met dans différentes catégories des écoles parce que quand on dit il y en a 50 pour 100 qui sont pas en bon état qu'elles sont celles qui doivent absolument être faites actuellement. Bon il y a des enjeux de main-d'oeuvre en construction mais mais écoutez pour moi ça a trioté donc je veux pas qu'on s'empêche d'accélérer la rénovation des écoles pour des raisons d'argent il y a rien de plus important pour moi.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "il y a rien de plus important pour moi",
+      "je veux pas qu'on s'empêche d'accélérer la rénovation des écoles pour des raisons d'argent",
+      "pour moi ça a trioté",
+      "on voudrait que toutes les écoles au Québec soient comme ça",
+      "c'est certain que graduellement"
+    ]
   },
   {
     "question_no": 25,
@@ -322,7 +456,21 @@
     ],
     "audio_transcript": "Interviewer : Monsieur Valletancourt bonjour. Monsieur Valletancourt : Bonjour. Interviewer : L'organisation du YMCA ça fait longtemps que ça existe, mais dans la tête de bien des gens ça se résume souvent à un centre sportif, or c'est plus que ça. Vous voyez ça comme un moteur économique même jusqu'à un certain point ? Monsieur Valletancourt : Mais je vous dirais oui, c'est une conséquence de la création ou la mission du YMCA, mais le YMCA a commencé à Montréal, c'est le premier en Amérique du Nord d'ailleurs, il y en a près de 1000 aujourd'hui en Amérique du Nord. La première raison d'être du YMCA, c'était d'abord d'aider les jeunes hommes à s'occuper pendant la révolution industrielle, on parle de 1851, on retourne loin. Mais à la base, c'était de s'assurer que les jeunes hommes à l'époque aient quelque chose à faire de constructif dans leur vie, se développent des compétences, puissent s'épanouir. Et cette raison d'être de base-là est demeurée pendant toutes ces années. Aujourd'hui évidemment, les activités ont changé. Mais la raison d'être de base est toujours la même, puis ça se décline dans toutes sortes de programmes différents effectivement. Interviewer : Donc la mission aujourd'hui, en 2017, du YMCA, c'est quoi ? Monsieur Valletancourt : La mission, c'est de s'assurer qu'on bâtisse des communautés qui sont fortes, qu'on donne des occasions à tous dans cette communauté-là, par secteur, par quartier, des occasions d'épanouissement, de vie active, saine et engagée aussi. Et que ça vraiment, ça s'applique à tous. Puis une des grandes distinctions du YMCA, c'est vraiment ouvert à tous, c'est très inclusif, peu importe la situation socio-économique, les origines culturelles, on a vraiment un accueil pour tous, pour les familles, les jeunes, en fait c'est du berceau à la tombe, en fait on pourrait dire on a des activités et programmes pour tous ces gens-là dans les quartiers qu'on dessert.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "c'est plus que ça",
+      "La première raison d'être du YMCA, c'était d'abord d'aider les jeunes hommes",
+      "c'était de s'assurer que les jeunes hommes à l'époque aient quelque chose à faire de constructif dans leur vie, se développent des compétences, puissent s'épanouir",
+      "cette raison d'être de base-là est demeurée pendant toutes ces années",
+      "La mission, c'est de s'assurer qu'on bâtisse des communautés qui sont fortes",
+      "qu'on donne des occasions à tous dans cette communauté-là",
+      "des occasions d'épanouissement, de vie active, saine et engagée",
+      "ça vraiment, ça s'applique à tous",
+      "c'est vraiment ouvert à tous, c'est très inclusif",
+      "peu importe la situation socio-économique, les origines culturelles",
+      "on a vraiment un accueil pour tous, pour les familles, les jeunes",
+      "du berceau à la tombe",
+      "on a des activités et programmes pour tous ces gens-là"
+    ]
   },
   {
     "question_no": 26,
@@ -335,7 +483,12 @@
     ],
     "audio_transcript": "Interviewer : Monsieur Valletancourt bonjour. Monsieur Valletancourt : Bonjour. Interviewer : L'organisation du YMCA ça fait longtemps que ça existe, mais dans la tête de bien des gens ça se résume souvent à un centre sportif, or c'est plus que ça. Vous voyez ça comme un moteur économique même jusqu'à un certain point ? Monsieur Valletancourt : Mais je vous dirais oui, c'est une conséquence de la création ou la mission du YMCA, mais le YMCA a commencé à Montréal, c'est le premier en Amérique du Nord d'ailleurs, il y en a près de 1000 aujourd'hui en Amérique du Nord. La première raison d'être du YMCA, c'était d'abord d'aider les jeunes hommes à s'occuper pendant la révolution industrielle, on parle de 1851, on retourne loin. Mais à la base, c'était de s'assurer que les jeunes hommes à l'époque aient quelque chose à faire de constructif dans leur vie, se développent des compétences, puissent s'épanouir. Et cette raison d'être de base-là est demeurée pendant toutes ces années. Aujourd'hui évidemment, les activités ont changé. Mais la raison d'être de base est toujours la même, puis ça se décline dans toutes sortes de programmes différents effectivement. Interviewer : Donc la mission aujourd'hui, en 2017, du YMCA, c'est quoi ? Monsieur Valletancourt : La mission, c'est de s'assurer qu'on bâtisse des communautés qui sont fortes, qu'on donne des occasions à tous dans cette communauté-là, par secteur, par quartier, des occasions d'épanouissement, de vie active, saine et engagée aussi. Et que ça vraiment, ça s'applique à tous. Puis une des grandes distinctions du YMCA, c'est vraiment ouvert à tous, c'est très inclusif, peu importe la situation socio-économique, les origines culturelles, on a vraiment un accueil pour tous, pour les familles, les jeunes, en fait c'est du berceau à la tombe, en fait on pourrait dire on a des activités et programmes pour tous ces gens-là dans les quartiers qu'on dessert.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "c'est vraiment ouvert à tous, c'est très inclusif",
+      "peu importe la situation socio-économique, les origines culturelles, on a vraiment un accueil pour tous",
+      "une des grandes distinctions du YMCA, c'est vraiment ouvert à tous, c'est très inclusif",
+      "on a vraiment un accueil pour tous, pour les familles, les jeunes"
+    ]
   },
   {
     "question_no": 27,
@@ -348,7 +501,17 @@
     ],
     "audio_transcript": "Qu'est-ce qui explique autant signalement pour violences conjugales à votre avis Oui alors l'année dernière on avait une hausse de 13.5 pour 100 et cette année la hausse se représente comme 6 pour 100. C'est quand même une une hausse constante qui me préoccupe. Alors peut-être ça peut s'expliquer qu'il y a eu un effritement du tissu social, familial autour des familles qu'on a des familles qui sont en plus grande détresse des enfants en plus grande détresse peut-être également la la situation précaire socio-économique au plan montréalais le fait qu'on a des logements pas abordables, vu que les familles sont en détresse, la hausse de la violence conjugale, la violence familiale qui se retrouve à Montréal, on a entendu le rapport du SPVM il y 2 semaines, on a entendu également une hausse des des féminicides. Les jeunes ont accès à des armes à feu, des vols d'auto, alors la situation est préoccupante comme topo à Montréal, je dirais, puis ça ça pourrait expliquer un peu les situations de pré-cas qui se retrouvent qui expliquent là aussi signalement. Oui et il y a aussi une nouvelle grille d'analyse en matière de violence conjugale ça ça change les interventions de la DPJ de quelle façon expliquez-nous ça. Oui alors depuis deux-mille-vingt-trois on a une nouvelle façon de de d'analyser et de comprendre la violence conjugale alors il y a certaines paradigmes qui ont changé je prends un exemple très concret souvent on entend qu'il y a une situation de violence conjugale puis que la la femme victime de violence conjugale ne quitte pas, on pose souvent la question pourquoi ne pas quitter. Lorsque maintenant on applique la grille d'analyse et les nouvelles notions en violence conjugale, la question a vraiment se poser, c'est comment ça se fait que ce parent auteur de la violence conjugale a cette emprise sur la femme qui l'empêche de partir. Alors c'est vraiment un changement de paradigme qui fait en sorte qu'on va mieux protéger les enfants et mieux protéger les mères victimes de cette violence conjugale et responsabiliser les pères auteurs de cette violence.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "l'année dernière on avait une hausse de 13.5 pour 100 et cette année la hausse se représente comme 6 pour 100",
+      "C'est quand même une une hausse constante qui me préoccupe",
+      "il y a eu un effritement du tissu social, familial autour des familles",
+      "qu'on a des familles qui sont en plus grande détresse",
+      "des enfants en plus grande détresse",
+      "la situation précaire socio-économique au plan montréalais",
+      "le fait qu'on a des logements pas abordables",
+      "vu que les familles sont en détresse, la hausse de la violence conjugale",
+      "la situation est préoccupante comme topo à Montréal"
+    ]
   },
   {
     "question_no": 28,
@@ -361,7 +524,14 @@
     ],
     "audio_transcript": "Qu'est-ce qui explique autant signalement pour violences conjugales à votre avis Oui alors l'année dernière on avait une hausse de 13.5 pour 100 et cette année la hausse se représente comme 6 pour 100. C'est quand même une une hausse constante qui me préoccupe. Alors peut-être ça peut s'expliquer qu'il y a eu un effritement du tissu social, familial autour des familles qu'on a des familles qui sont en plus grande détresse des enfants en plus grande détresse peut-être également la la situation précaire socio-économique au plan montréalais le fait qu'on a des logements pas abordables, vu que les familles sont en détresse, la hausse de la violence conjugale, la violence familiale qui se retrouve à Montréal, on a entendu le rapport du SPVM il y 2 semaines, on a entendu également une hausse des des féminicides. Les jeunes ont accès à des armes à feu, des vols d'auto, alors la situation est préoccupante comme topo à Montréal, je dirais, puis ça ça pourrait expliquer un peu les situations de pré-cas qui se retrouvent qui expliquent là aussi signalement. Oui et il y a aussi une nouvelle grille d'analyse en matière de violence conjugale ça ça change les interventions de la DPJ de quelle façon expliquez-nous ça. Oui alors depuis deux-mille-vingt-trois on a une nouvelle façon de de d'analyser et de comprendre la violence conjugale alors il y a certaines paradigmes qui ont changé je prends un exemple très concret souvent on entend qu'il y a une situation de violence conjugale puis que la la femme victime de violence conjugale ne quitte pas, on pose souvent la question pourquoi ne pas quitter. Lorsque maintenant on applique la grille d'analyse et les nouvelles notions en violence conjugale, la question a vraiment se poser, c'est comment ça se fait que ce parent auteur de la violence conjugale a cette emprise sur la femme qui l'empêche de partir. Alors c'est vraiment un changement de paradigme qui fait en sorte qu'on va mieux protéger les enfants et mieux protéger les mères victimes de cette violence conjugale et responsabiliser les pères auteurs de cette violence.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "depuis deux-mille-vingt-trois on a une nouvelle façon de de d'analyser et de comprendre la violence conjugale",
+      "il y a certaines paradigmes qui ont changé",
+      "souvent on entend qu'il y a une situation de violence conjugale puis que la la femme victime de violence conjugale ne quitte pas, on pose souvent la question pourquoi ne pas quitter",
+      "Lorsque maintenant on applique la grille d'analyse et les nouvelles notions en violence conjugale, la question a vraiment se poser, c'est comment ça se fait que ce parent auteur de la violence conjugale a cette emprise sur la femme qui l'empêche de partir",
+      "c'est vraiment un changement de paradigme",
+      "qui fait en sorte qu'on va mieux protéger les enfants et mieux protéger les mères victimes de cette violence conjugale et responsabiliser les pères auteurs de cette violence"
+    ]
   },
   {
     "question_no": 29,
@@ -374,7 +544,23 @@
     ],
     "audio_transcript": "On est arrivé à la grippe Lipolipo. Du coup, il y a les Royeuses clandestins qui qui viennent travailler dans ce Crèque. Après une demi-heure de pirogue, la grippe Lipolipo, l'une des plus exploitées de Guyane, se dévoile. L'eau y est trouble, presque opaque. Cette crique est à proximité des villages amérindiens bordant le fleuve Maroni à la frontière avec le Surinam, Linya Oppoya, est présidente de l'association des victimes du mercure du Haut-Maroni. Là tu vois vraiment le l'eau c'est c'est c'est carrément un peu sale. Les orpailleurs ils sont loin ou c'est c'est assez proche Non ils sont très loin. Donc petit à petit ils vont continuer s'il n'y a pas d'or ils vont continuer jusqu'au bout. Cette pollution est liée au rejet de mercure, ce produit toxique utilisé pour récupérer l'or contamine toute la chaîne alimentaire du Maroni, en particulier les poissons consommés par les amérindiens. Leur exposition au mercure est 3 à 4 fois supérieure aux recommandations sanitaires européennes. Cela entraîne de nombreux problèmes de santé, notamment pour le développement neurologique des enfants. Je vois les enfants qui qui ont du mal à parler. Il y a des des enfants qui qui qui sont vraiment qui ne marchent pas, qui qui sont vraiment handicapés. Face à ce constat alarmant, 6 associations et 2 habitants du Haut-Maroni ont saisi en janvier le tribunal administratif de Cayenne pour faire reconnaître la carence fautive de l'État dans ce dossier. Michel Aloïqué chef coutumier de Taluen en fait partie. Alors, ça fait 30 ans, même un peu plus que ça ça existe, on a l'impression que l'État ne fait rien. L'année en année, il y a plus de sites qui se créent, eux ils disent ils sont en diminution, mais nous on dit non parce que nous on les revoit chaque jour. Les associations demandent à l'État de réparer le préjudice Marine Calmée présidente de Wiles légal. Nous demandons en fait à l'État de mettre en place une nouvelle gouvernance sur le fleuve pour permettre aux habitants d'être pleinement associés dans l'élaboration de nouvelles politiques de lutte contre leur paillage, mais aussi de programmes de santé, d'agriculture et d'économie locale pour sortir de cette situation scandaleuse qui dure vraiment depuis beaucoup trop longtemps. Emmanuel Macron ne se rendra pas dans la région du Haut-Maroni, mais à Kamopie, un village de l'est de la Guyane où la lutte contre l'orpaillage illégal a eu plus d'effet, moins d'une vingtaine de sites y ont été recensés en deux-mille-vingt-trois. Emma Chevalier, Talluen, RFI.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "Cette pollution est liée au rejet de mercure",
+      "ce produit toxique utilisé pour récupérer l'or contamine toute la chaîne alimentaire du Maroni",
+      "en particulier les poissons consommés par les amérindiens",
+      "Leur exposition au mercure est 3 à 4 fois supérieure aux recommandations sanitaires européennes",
+      "Cela entraîne de nombreux problèmes de santé, notamment pour le développement neurologique des enfants",
+      "Je vois les enfants qui qui ont du mal à parler",
+      "Il y a des des enfants qui qui qui sont vraiment qui ne marchent pas, qui qui sont vraiment handicapés",
+      "6 associations et 2 habitants du Haut-Maroni ont saisi en janvier le tribunal administratif de Cayenne",
+      "ça fait 30 ans, même un peu plus que ça ça existe, on a l'impression que l'État ne fait rien",
+      "L'année en année, il y a plus de sites qui se créent",
+      "Les associations demandent à l'État de réparer le préjudice",
+      "Nous demandons en fait à l'État de mettre en place une nouvelle gouvernance sur le fleuve",
+      "de programmes de santé, d'agriculture et d'économie locale pour sortir de cette situation scandaleuse qui dure vraiment depuis beaucoup trop longtemps",
+      "les Royeuses clandestins qui qui viennent travailler",
+      "l'une des plus exploitées de Guyane"
+    ]
   },
   {
     "question_no": 30,
@@ -387,7 +573,11 @@
     ],
     "audio_transcript": "On est arrivé à la grippe Lipolipo. Du coup, il y a les Royeuses clandestins qui qui viennent travailler dans ce Crèque. Après une demi-heure de pirogue, la grippe Lipolipo, l'une des plus exploitées de Guyane, se dévoile. L'eau y est trouble, presque opaque. Cette crique est à proximité des villages amérindiens bordant le fleuve Maroni à la frontière avec le Surinam, Linya Oppoya, est présidente de l'association des victimes du mercure du Haut-Maroni. Là tu vois vraiment le l'eau c'est c'est c'est carrément un peu sale. Les orpailleurs ils sont loin ou c'est c'est assez proche Non ils sont très loin. Donc petit à petit ils vont continuer s'il n'y a pas d'or ils vont continuer jusqu'au bout. Cette pollution est liée au rejet de mercure, ce produit toxique utilisé pour récupérer l'or contamine toute la chaîne alimentaire du Maroni, en particulier les poissons consommés par les amérindiens. Leur exposition au mercure est 3 à 4 fois supérieure aux recommandations sanitaires européennes. Cela entraîne de nombreux problèmes de santé, notamment pour le développement neurologique des enfants. Je vois les enfants qui qui ont du mal à parler. Il y a des des enfants qui qui qui sont vraiment qui ne marchent pas, qui qui sont vraiment handicapés. Face à ce constat alarmant, 6 associations et 2 habitants du Haut-Maroni ont saisi en janvier le tribunal administratif de Cayenne pour faire reconnaître la carence fautive de l'État dans ce dossier. Michel Aloïqué chef coutumier de Taluen en fait partie. Alors, ça fait 30 ans, même un peu plus que ça ça existe, on a l'impression que l'État ne fait rien. L'année en année, il y a plus de sites qui se créent, eux ils disent ils sont en diminution, mais nous on dit non parce que nous on les revoit chaque jour. Les associations demandent à l'État de réparer le préjudice Marine Calmée présidente de Wiles légal. Nous demandons en fait à l'État de mettre en place une nouvelle gouvernance sur le fleuve pour permettre aux habitants d'être pleinement associés dans l'élaboration de nouvelles politiques de lutte contre leur paillage, mais aussi de programmes de santé, d'agriculture et d'économie locale pour sortir de cette situation scandaleuse qui dure vraiment depuis beaucoup trop longtemps. Emmanuel Macron ne se rendra pas dans la région du Haut-Maroni, mais à Kamopie, un village de l'est de la Guyane où la lutte contre l'orpaillage illégal a eu plus d'effet, moins d'une vingtaine de sites y ont été recensés en deux-mille-vingt-trois. Emma Chevalier, Talluen, RFI.",
     "right_option": "A",
-    "highlights": []
+    "highlights": [
+      "Nous demandons en fait à l'État de mettre en place une nouvelle gouvernance sur le fleuve",
+      "pour permettre aux habitants d'être pleinement associés dans l'élaboration de nouvelles politiques de lutte contre leur paillage",
+      "mais aussi de programmes de santé, d'agriculture et d'économie locale"
+    ]
   },
   {
     "question_no": 31,
@@ -400,7 +590,13 @@
     ],
     "audio_transcript": "Fini le moratoire sur la pêche commerciale à la à Terrenov-et-Labrador trente-deux ans après son imposition, mais attention il ne s'agit que d'une ouverture prudente, dix-huit 1000 tonnes, c'est bien moins que les cent-quatre-vingt-dix 1000 permises au début des années quatre-vingt-dix, à peine plus que les 13000 tonnes de la pêche des tendances l'an dernier et beaucoup moins que les 800000 tonnes débarquées chaque année dans les années 60.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "Fini le moratoire sur la pêche commerciale",
+      "trente-deux ans après son imposition",
+      "il ne s'agit que d'une ouverture prudente",
+      "dix-huit 1000 tonnes",
+      "c'est bien moins que les cent-quatre-vingt-dix 1000 permises au début des années quatre-vingt-dix"
+    ]
   },
   {
     "question_no": 32,
@@ -413,7 +609,11 @@
     ],
     "audio_transcript": "Le compte à rebours est commencé. Québec adopte officiellement de nouvelles règles en matière d'affichage commercial. Les commerçants qui ont pignon sur rue au Québec ont donc 11 mois pour adapter leur devanture. La langue de Molière devra être prédominante.",
     "right_option": "D",
-    "highlights": []
+    "highlights": [
+      "Québec adopte officiellement de nouvelles règles en matière d'affichage commercial",
+      "Les commerçants qui ont pignon sur rue au Québec ont donc 11 mois pour adapter leur devanture",
+      "La langue de Molière devra être prédominante"
+    ]
   },
   {
     "question_no": 33,
@@ -426,7 +626,13 @@
     ],
     "audio_transcript": "Entrée dans une cuisine qui fait très chaud, c'est petit travail facile, c'est sûr. Alors des fois, c'est un peu difficile comme vendre de rêve, de la cuisine, pour voir avec le monde de travailler le vendredi, samedi soir et jour férié, c'est c'est un peu difficile.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "c'est petit travail facile, c'est sûr",
+      "des fois, c'est un peu difficile",
+      "c'est un peu difficile comme vendre de rêve",
+      "travailler le vendredi, samedi soir et jour férié",
+      "c'est c'est un peu difficile"
+    ]
   },
   {
     "question_no": 34,
@@ -439,7 +645,11 @@
     ],
     "audio_transcript": "À 4 jours du premier juillet, des organismes en logement en itinérance et en santé mentale lancent un cri d'alarme et font état d'une crise sociale d'envergure. Les logements se font encore plus rares et plus coûteux que par les années passées. Au Québec, ce serait mille-trois-cent ménages qui seraient encore à la recherche d'un toit. À Longueuil, il y a aussi des gens qui cherchent un logement.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "une crise sociale d'envergure",
+      "Les logements se font encore plus rares et plus coûteux que par les années passées",
+      "mille-trois-cent ménages qui seraient encore à la recherche d'un toit"
+    ]
   },
   {
     "question_no": 35,
@@ -452,7 +662,14 @@
     ],
     "audio_transcript": "Les policiers qui se sont présentés rue de la commune dans un appartement de luxe du vieux Montréal ont ouvert immédiatement une enquête concernant une affaire d'enlèvement d'un homme de vingt-cinq ans qui est un influenceur spécialisé dans les conseils notamment en acquisition de cryptomonnaie avec lui selon les policiers il y avait 3 femmes qui ont également disparu avec lui donc le quatuor demeure introuvable au moment où l'on se parle ce soir c'est donc une enquête majeure et prioritaire pour le SPVM qui a dépêché évidemment beaucoup de ressources sur le terrain. On parle ici d'un homme qui était peu connu au niveau criminel, mais qui aurait pu par exemple être en brouille avec certaines personnes selon les policiers. Toujours est-il qu'on craint au moment où l'on se parle pour la sécurité du quatuor qui est introuvable.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "une affaire d'enlèvement d'un homme de vingt-cinq ans",
+      "il y avait 3 femmes qui ont également disparu avec lui",
+      "le quatuor demeure introuvable au moment où l'on se parle ce soir",
+      "on craint au moment où l'on se parle pour la sécurité du quatuor qui est introuvable",
+      "un homme qui était peu connu au niveau criminel",
+      "aurait pu par exemple être en brouille avec certaines personnes selon les policiers"
+    ]
   },
   {
     "question_no": 36,
@@ -465,7 +682,14 @@
     ],
     "audio_transcript": "Après 9 ans de Justin Trudeau le système d'immigration est complètement hors de contrôle et le le Québec est au point de rupture va certainement réduire le nombre des étudiants étrangers et de travailleurs étrangers y a la trop maintenant et ça supprime aussi les les les les salaires de nos propres mondes.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "Après 9 ans de Justin Trudeau",
+      "le système d'immigration est complètement hors de contrôle",
+      "le Québec est au point de rupture",
+      "va certainement réduire le nombre des étudiants étrangers et de travailleurs étrangers",
+      "y a la trop maintenant",
+      "ça supprime aussi les les les les salaires de nos propres mondes"
+    ]
   },
   {
     "question_no": 37,
@@ -478,7 +702,13 @@
     ],
     "audio_transcript": "Comme pour beaucoup de familles à Paris, le quotidien de Laureline Paolo et leur fiancée, c'est une vie à l'étroit. Je peux passer. Ils vivent dans trente-neuf mètres carrés. C'est la table qui sert aux devoirs, aux repas, aux activités manuelles et qui fait office de bureau. Chaque espace est optimisé. Dans la salle de bains, les rangements s'entassent du sol au plafond et pour les chambres, on s'est dit on va monter une foison. On va couper la chambre en 2, ce n'est pas idéal, mais ça nous permet au moins d'avoir 2 espaces un peu distincts et d'avoir un peu d'intimité.",
     "right_option": "B",
-    "highlights": []
+    "highlights": [
+      "Ils vivent dans trente-neuf mètres carrés",
+      "c'est une vie à l'étroit",
+      "Chaque espace est optimisé",
+      "On va couper la chambre en 2, ce n'est pas idéal",
+      "ça nous permet au moins d'avoir 2 espaces un peu distincts"
+    ]
   },
   {
     "question_no": 38,
@@ -491,7 +721,16 @@
     ],
     "audio_transcript": "L'aluminium dans les vaccins, ça c'est super dangereux. Non, tu sais que c'est toujours le même problème en fait. Il y a des gens qui disent, oh là là, l'aluminium, on dira bien que ça provoque des maladies musculaires et derrière, rire. Enfin si, derrière on fait des études, des recherches pour vérifier. Bon déjà les adjuvants à base d'aluminium et on attend quasiment tous les vaccins. Donc ça pousse le système immunitaire et ça rend le vaccin plus efficace. Et alors donc les études, elles disent quoi Ben non que oui, il a un peu d'aluminium qui reste dans la zone où on a fait l'injection, mais que non, rien ne permet de dire que ça provoque des maladies. En fait, les sels d'aluminium, ils sont utilisés depuis plus de quatre-vingt-dix ans. Et on vaccine des dizaines de 1000000 de personnes dans le monde entier chaque année. La fameuse balance bénéfice risque, elle est très nettement en faveur d'une onde de vie sauvée.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "L'aluminium dans les vaccins, ça c'est super dangereux. Non",
+      "rien ne permet de dire que ça provoque des maladies",
+      "les adjuvants à base d'aluminium et on attend quasiment tous les vaccins",
+      "ça pousse le système immunitaire et ça rend le vaccin plus efficace",
+      "les études, elles disent quoi Ben non que oui, il a un peu d'aluminium qui reste dans la zone où on a fait l'injection, mais que non, rien ne permet de dire que ça provoque des maladies",
+      "les sels d'aluminium, ils sont utilisés depuis plus de quatre-vingt-dix ans",
+      "on vaccine des dizaines de 1000000 de personnes dans le monde entier chaque année",
+      "La fameuse balance bénéfice risque, elle est très nettement en faveur d'une onde de vie sauvée"
+    ]
   },
   {
     "question_no": 39,
@@ -504,7 +743,10 @@
     ],
     "audio_transcript": "Vous ne connaissez peut-être pas son nom et pourtant elle fut l'une des artistes les plus reconnues de son époque. Ami de Galilée, protégée des Médicis et du roi Charles premier d'Angleterre. Victime d'un viol à l'âge de dix-huit ans, son oeuvre dépeint la violence masculine, mais aussi la force des femmes. Voici l'histoire d'Arpemisia Gentileschi.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "son oeuvre dépeint la violence masculine",
+      "mais aussi la force des femmes"
+    ]
   },
   {
     "question_no": 40,
@@ -517,6 +759,11 @@
     ],
     "audio_transcript": "Bientôt 16 mois qu'il dort tous les soirs dans son véhicule sur le parking de ce supermarché. Et Ça c'est du jeu parce que je n'ai pas de machine, j'ai rien et j'ai tout ça dans la voiture. J'ai 3 journées. Le matin je me lève, préparé, d'essayer de présentable, de de me cacher dans des endroits, dans des toilettes publiques ou dans des WC de de de grandes surfaces. Après, je pars au travail, donc j'assume mon travail, j'essaye de mettre de côté les soucis.",
     "right_option": "C",
-    "highlights": []
+    "highlights": [
+      "Bientôt 16 mois qu'il dort tous les soirs dans son véhicule sur le parking de ce supermarché",
+      "je n'ai pas de machine, j'ai rien et j'ai tout ça dans la voiture",
+      "d'essayer de présentable, de de me cacher dans des endroits, dans des toilettes publiques ou dans des WC de de de grandes surfaces",
+      "je pars au travail, donc j'assume mon travail"
+    ]
   }
 ]
