@@ -1,0 +1,200 @@
+{% extends "co_practice/base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="max-w-5xl mx-auto px-4 py-6">
+
+  {# ── Nav bar ── #}
+  <div class="flex items-center justify-between mb-6">
+    {% if prev_id %}
+      <a href="{% url 'question' prev_id %}"
+         class="px-3 py-1.5 rounded border border-gray-300 text-sm text-gray-700 hover:bg-gray-100 transition-colors">
+        ← Précédent
+      </a>
+    {% else %}
+      <span class="px-3 py-1.5 rounded border border-gray-200 text-sm text-gray-300 cursor-not-allowed">
+        ← Précédent
+      </span>
+    {% endif %}
+
+    <span class="text-sm text-gray-500">
+      <a href="{% url 'index' %}" class="underline hover:text-indigo-600">Accueil</a>
+      &nbsp;·&nbsp; Q {{ question.question_no }} / 40
+      &nbsp;·&nbsp; <a href="{% url 'results' %}" class="underline hover:text-indigo-600">Résultats</a>
+    </span>
+
+    {% if next_id %}
+      <a href="{% url 'question' next_id %}"
+         class="px-3 py-1.5 rounded border border-gray-300 text-sm text-gray-700 hover:bg-gray-100 transition-colors">
+        Suivant →
+      </a>
+    {% else %}
+      <span class="px-3 py-1.5 rounded border border-gray-200 text-sm text-gray-300 cursor-not-allowed">
+        Suivant →
+      </span>
+    {% endif %}
+  </div>
+
+  {# ── 2-column grid ── #}
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+    {# ── Left column: question + answer interaction ── #}
+    <div x-data="{
+      selected: localStorage.getItem('tef_q_{{ question.question_no }}') || '',
+      showAnswer: false,
+      correct: '{{ question.right_option }}',
+      choose(letter) {
+        this.selected = letter;
+        localStorage.setItem('tef_q_{{ question.question_no }}', letter);
+      }
+    }">
+
+      <h2 class="text-base font-semibold text-gray-800 mb-4">{{ question.text }}</h2>
+
+      {# Q1-Q4: image + circular A/B/C/D buttons #}
+      {% if question.image_filename %}
+        {% if img_path %}
+        <div class="mb-4">
+          <img src="{% static img_path %}" alt="Question image" class="w-full rounded border border-gray-200">
+        </div>
+        {% endif %}
+
+        <div class="flex gap-3 mb-4">
+          {% for opt in question.options_with_letters %}
+          <button
+            :disabled="showAnswer"
+            @click="choose('{{ opt.letter }}')"
+            :class="{
+              'bg-blue-500 border-blue-500 text-white':   selected === '{{ opt.letter }}' && !showAnswer,
+              'bg-green-500 border-green-500 text-white': showAnswer && correct === '{{ opt.letter }}',
+              'bg-red-400 border-red-400 text-white':     showAnswer && selected === '{{ opt.letter }}' && correct !== '{{ opt.letter }}',
+              'border-gray-300 text-gray-700 hover:border-indigo-400': selected !== '{{ opt.letter }}' && !showAnswer
+            }"
+            class="w-12 h-12 rounded-full border-2 font-bold text-lg flex items-center justify-center transition-colors">
+            {{ opt.letter }}
+          </button>
+          {% endfor %}
+        </div>
+
+      {# Q5-Q40: text options as radio-style labels #}
+      {% else %}
+        <div class="space-y-2 mb-4">
+          {% for opt in question.options_with_letters %}
+          <label
+            :class="{
+              'border-blue-500 bg-blue-50':   selected === '{{ opt.letter }}' && !showAnswer,
+              'border-green-500 bg-green-50': showAnswer && correct === '{{ opt.letter }}',
+              'border-red-400 bg-red-50':     showAnswer && selected === '{{ opt.letter }}' && correct !== '{{ opt.letter }}',
+              'border-gray-200 hover:border-indigo-300': selected !== '{{ opt.letter }}' && !showAnswer
+            }"
+            class="flex items-start gap-3 p-3 rounded border-2 cursor-pointer transition-colors">
+            <input type="radio"
+                   name="answer"
+                   value="{{ opt.letter }}"
+                   :disabled="showAnswer"
+                   :checked="selected === '{{ opt.letter }}'"
+                   @change="choose('{{ opt.letter }}')"
+                   class="mt-0.5 accent-indigo-500">
+            <span class="font-semibold text-gray-500 w-5 shrink-0">{{ opt.letter }}.</span>
+            <span class="text-gray-700">{{ opt.text }}</span>
+          </label>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {# Reveal button #}
+      <button
+        x-show="!showAnswer"
+        @click="showAnswer = true"
+        class="mt-2 px-4 py-2 bg-indigo-600 text-white text-sm font-semibold rounded hover:bg-indigo-700 transition-colors">
+        Révéler la réponse
+      </button>
+
+      {# Answer revealed box #}
+      <div x-show="showAnswer" x-cloak
+           class="mt-2 p-3 border-2 border-green-400 bg-green-50 rounded text-sm text-green-800">
+        <span class="font-semibold">Bonne réponse :</span>
+        {% for opt in question.options_with_letters %}
+          <span x-show="correct === '{{ opt.letter }}'">
+            <strong>{{ opt.letter }}</strong>{% if opt.text != opt.letter %} — {{ opt.text }}{% endif %}
+          </span>
+        {% endfor %}
+      </div>
+
+    </div>{# end left column #}
+
+    {# ── Right column: audio + transcript ── #}
+    <div class="space-y-4">
+
+      {# Audio card #}
+      <div class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm">
+        <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">Audio</h3>
+
+        {% if audio_paths.intro %}
+        <div class="mb-3">
+          <p class="text-xs text-gray-400 mb-1">Introduction — {{ audio_paths.intro_label }}</p>
+          <audio controls class="w-full">
+            <source src="{% static audio_paths.intro %}" type="audio/mpeg">
+          </audio>
+        </div>
+        {% endif %}
+
+        <div>
+          <p class="text-xs text-gray-400 mb-1">Question {{ question.question_no }}</p>
+          <audio controls class="w-full">
+            <source src="{% static audio_paths.main %}" type="audio/mpeg">
+          </audio>
+        </div>
+
+        {% if audio_paths.shared_with %}
+        <p class="mt-2 text-xs text-gray-400 italic">
+          Audio partagé avec la question
+          {% for sid in audio_paths.shared_with %}
+            <a href="{% url 'question' sid %}" class="underline hover:text-indigo-500">{{ sid }}</a>{% if not forloop.last %}, {% endif %}
+          {% endfor %}
+        </p>
+        {% endif %}
+      </div>
+
+      {# Transcription card #}
+      <div class="bg-gray-100 rounded-lg border border-gray-200 p-4">
+        <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">Transcription</h3>
+        <p class="text-sm text-gray-700 leading-relaxed">{{ question.audio_transcript }}</p>
+      </div>
+
+    </div>{# end right column #}
+
+  </div>{# end grid #}
+
+  {# ── Bottom nav (duplicate) ── #}
+  <div class="flex items-center justify-between mt-8">
+    {% if prev_id %}
+      <a href="{% url 'question' prev_id %}"
+         class="px-3 py-1.5 rounded border border-gray-300 text-sm text-gray-700 hover:bg-gray-100 transition-colors">
+        ← Précédent
+      </a>
+    {% else %}
+      <span class="px-3 py-1.5 rounded border border-gray-200 text-sm text-gray-300 cursor-not-allowed">
+        ← Précédent
+      </span>
+    {% endif %}
+
+    <span class="text-sm text-gray-500">
+      Q {{ question.question_no }} / 40
+      &nbsp;·&nbsp; <a href="{% url 'results' %}" class="underline hover:text-indigo-600">Résultats</a>
+    </span>
+
+    {% if next_id %}
+      <a href="{% url 'question' next_id %}"
+         class="px-3 py-1.5 rounded border border-gray-300 text-sm text-gray-700 hover:bg-gray-100 transition-colors">
+        Suivant →
+      </a>
+    {% else %}
+      <span class="px-3 py-1.5 rounded border border-gray-200 text-sm text-gray-300 cursor-not-allowed">
+        Suivant →
+      </span>
+    {% endif %}
+  </div>
+
+</div>
+{% endblock %}

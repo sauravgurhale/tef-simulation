@@ -6,3 +6,6 @@ requests
 pydantic
 audioop-lts
 dotenv
+pydub
+anthropic
+django
