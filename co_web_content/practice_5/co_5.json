@@ -9,7 +9,13 @@
       "D"
     ],
     "audio_transcript": "Bonjour, voici votre plat, un steak avec des frites et une salade en accompagnement. Si vous avez besoin de quelque chose d'autre, n'hésitez pas à me le dire. Merci beaucoup, ça a l'air délicieux. Pourriez-vous aussi m'apporter une carafe d'eau, s'il vous plaît ?",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "un steak",
+      "des frites",
+      "une salade",
+      "une carafe d'eau"
+    ]
   },
   {
     "question_no": 2,
@@ -21,7 +27,12 @@
       "D"
     ],
     "audio_transcript": "Excusez-moi, est-ce que le vol pour Montréal est toujours prévu à l'heure ? Oui, l'embarquement commencera dans environ 20 minutes à la porte 14. N'oubliez pas.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "le vol pour Montréal",
+      "l'embarquement commencera dans environ 20 minutes",
+      "à la porte 14"
+    ]
   },
   {
     "question_no": 3,
@@ -33,7 +44,17 @@
       "D"
     ],
     "audio_transcript": "Docteur, j'ai mal à la gorge et j'ai une forte fièvre depuis 3 jours. J'ai aussi beaucoup de fatigue. D'accord, ouvrez la bouche et dites \"ah\", je vais examiner votre gorge pour voir s'il s'agit d'une infection.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Docteur",
+      "mal à la gorge",
+      "une forte fièvre",
+      "beaucoup de fatigue",
+      "ouvrez la bouche",
+      "dites \"ah\"",
+      "examiner votre gorge",
+      "infection"
+    ]
   },
   {
     "question_no": 4,
@@ -45,7 +66,14 @@
       "D"
     ],
     "audio_transcript": "Je voudrais envoyer ce colis en express pour qu'il arrive demain matin, combien cela coûterait ? Bonjour madame, pour un envoi en express, cela vous reviendra à 15 euros. Voulez-vous également un suivi du colis ?",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "envoyer ce colis",
+      "en express",
+      "arrive demain matin",
+      "un envoi en express",
+      "un suivi du colis"
+    ]
   },
   {
     "question_no": 5,
@@ -57,7 +85,12 @@
       "Un changement de film."
     ],
     "audio_transcript": "La séance du film Aventure en Alaska prévue à 20 heures est complète. Une nouvelle séance sera programmée à vingt-deux heures pour ceux qui souhaitent y assister. Merci de vous présenter à la caisse pour réserver vos places.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "La séance du film Aventure en Alaska prévue à 20 heures est complète",
+      "Une nouvelle séance sera programmée à vingt-deux heures",
+      "pour ceux qui souhaitent y assister"
+    ]
   },
   {
     "question_no": 6,
@@ -69,7 +102,15 @@
       "Une nouvelle activité aquatique."
     ],
     "audio_transcript": "Attention, la baignade est interdite aujourd'hui en raison d'un fort courant marin. Merci de respecter les drapeaux rouges et de ne pas vous approcher de l'eau. Votre sécurité, c'est une autre priorité.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "la baignade est interdite",
+      "aujourd'hui",
+      "en raison d'un fort courant marin",
+      "respecter les drapeaux rouges",
+      "de ne pas vous approcher de l'eau",
+      "Votre sécurité, c'est une autre priorité"
+    ]
   },
   {
     "question_no": 7,
@@ -81,7 +122,13 @@
       "Se termine à 10h30."
     ],
     "audio_transcript": "Chers clients, nous vous rappelons que le petit déjeuner est servi de 6 heures 30 à 10 heures 30 dans la salle de restaurant au rez-de-chaussée. Pour toute demande particulière, n'hésitez pas à contacter la réception. Nous vous souhaitons un excellent séjour.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "le petit déjeuner est servi de 6 heures 30 à 10 heures 30",
+      "servi de 6 heures 30 à 10 heures 30",
+      "à 10 heures 30",
+      "dans la salle de restaurant au rez-de-chaussée"
+    ]
   },
   {
     "question_no": 8,
@@ -93,7 +140,12 @@
       "Partira d'un autre quai."
     ],
     "audio_transcript": "Le train TGV 5678 à destination de Marseille partira exceptionnellement du quai numéro 7 au lieu du quai habituel. Nous demandons aux voyageurs de se rendre rapidement à ce nouvel emplacement. Merci de votre attention et bon voyage.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "partira exceptionnellement du quai numéro 7 au lieu du quai habituel",
+      "du quai numéro 7",
+      "au lieu du quai habituel"
+    ]
   },
   {
     "question_no": 9,
@@ -105,7 +157,11 @@
       "Obtenir des résultats médicaux."
     ],
     "audio_transcript": "Bonjour, c'est le cabinet du docteur Morel. Votre rendez-vous du 15 avril à 10 heures doit être reporté. Merci de nous rappeler pour fixer une nouvelle date. Bonne journée.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Votre rendez-vous du 15 avril à 10 heures doit être reporté",
+      "Merci de nous rappeler pour fixer une nouvelle date"
+    ]
   },
   {
     "question_no": 10,
@@ -117,7 +173,15 @@
       "Acheter des médicaments."
     ],
     "audio_transcript": "Bonjour, c'est la clinique vétérinaire Animaux Santé. Nous vous rappelons que votre rendez-vous pour la vaccination de votre chien est prévu pour demain à 16 heures. Pensez à apporter son carnet de santé. Pour toute modification, appelez-nous au plus tard ce soir. Merci.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "c'est la clinique vétérinaire Animaux Santé",
+      "Nous vous rappelons que votre rendez-vous",
+      "pour la vaccination de votre chien",
+      "est prévu pour demain à 16 heures",
+      "Pensez à apporter son carnet de santé",
+      "Pour toute modification, appelez-nous"
+    ]
   },
   {
     "question_no": 11,
@@ -129,7 +193,14 @@
       "Confirmer un billet."
     ],
     "audio_transcript": "Bonjour, ici la compagnie ferroviaire. Nous confirmons votre réservation pour le train Paris-Montréal du 5 octobre à 9 heures 30. Vous recevrez votre billet par email dans les prochaines heures. Pour toute modification ou annulation, veuillez nous appeler avant la date du voyage.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Bonjour, ici la compagnie ferroviaire",
+      "Nous confirmons votre réservation",
+      "pour le train Paris-Montréal du 5 octobre à 9 heures 30",
+      "Vous recevrez votre billet par email dans les prochaines heures",
+      "Pour toute modification ou annulation, veuillez nous appeler avant la date du voyage"
+    ]
   },
   {
     "question_no": 12,
@@ -141,7 +212,11 @@
       "Prolonger son séjour."
     ],
     "audio_transcript": "Bonjour, ici l'hôtel Saint-Pierre. Nous confirmons votre réservation pour une chambre double du 3 au 5 juin. Veuillez nous contacter si vous avez des demandes spécifiques. À bientôt.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Nous confirmons votre réservation",
+      "pour une chambre double du 3 au 5 juin"
+    ]
   },
   {
     "question_no": 13,
@@ -153,7 +228,13 @@
       "Négocier son salaire."
     ],
     "audio_transcript": "Bonjour Monsieur Durand, nous vous appelons de la part de la société Inter Financière afin de vous proposer un entretien pour le poste d'analyste financier, ayant constaté que votre profil correspond aux attentes du poste. Merci de nous rappeler pour convenir d'une date.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "nous vous appelons de la part de la société Inter Financière",
+      "afin de vous proposer un entretien",
+      "pour le poste d'analyste financier",
+      "Merci de nous rappeler pour convenir d'une date"
+    ]
   },
   {
     "question_no": 14,
@@ -165,7 +246,12 @@
       "Modifier une réservation."
     ],
     "audio_transcript": "Bonjour, nous vous informons que votre vol de demain est annulé en raison des conditions météorologiques. Merci de nous contacter pour un report ou un remboursement.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "votre vol de demain est annulé",
+      "en raison des conditions météorologiques",
+      "Merci de nous contacter pour un report ou un remboursement"
+    ]
   },
   {
     "question_no": 15,
@@ -177,7 +263,12 @@
       ""
     ],
     "audio_transcript": "Je médite et je fais du sport pour garder mon calme, ça m'aide beaucoup.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Je médite et je fais du sport",
+      "pour garder mon calme",
+      "ça m'aide beaucoup"
+    ]
   },
   {
     "question_no": 16,
@@ -189,7 +280,12 @@
       ""
     ],
     "audio_transcript": "Le stress me touche souvent, surtout quand les délais sont courts. Je n'ai pas encore trouvé de méthode efficace pour le gérer.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Le stress me touche souvent",
+      "surtout quand les délais sont courts",
+      "Je n'ai pas encore trouvé de méthode efficace pour le gérer"
+    ]
   },
   {
     "question_no": 17,
@@ -201,7 +297,12 @@
       ""
     ],
     "audio_transcript": "Parfois ça va, parfois c'est difficile. J'essaie de respirer profondément, mais ça ne suffit pas toujours.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Parfois ça va, parfois c'est difficile",
+      "J'essaie de respirer profondément",
+      "ça ne suffit pas toujours"
+    ]
   },
   {
     "question_no": 18,
@@ -213,7 +314,16 @@
       ""
     ],
     "audio_transcript": "En évitant les trajets quotidiens, je gagne du temps et bénéficie d'un environnement plus calme qui améliore ma concentration. C'est pourquoi je travaille presque toujours à distance, car cela me semble plus pratique.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "je travaille presque toujours à distance",
+      "cela me semble plus pratique",
+      "En évitant les trajets quotidiens",
+      "je gagne du temps",
+      "bénéficie d'un environnement plus calme",
+      "améliore ma concentration",
+      "C'est pourquoi"
+    ]
   },
   {
     "question_no": 19,
@@ -225,7 +335,13 @@
       ""
     ],
     "audio_transcript": "Travailler à distance de temps en temps me permet de mieux organiser ma journée tout en maintenant un équilibre entre concentration chez moi et interactions dynamiques au bureau.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Travailler à distance de temps en temps",
+      "de temps en temps",
+      "me permet de mieux organiser ma journée",
+      "tout en maintenant un équilibre entre concentration chez moi et interactions dynamiques au bureau"
+    ]
   },
   {
     "question_no": 20,
@@ -237,7 +353,11 @@
       ""
     ],
     "audio_transcript": "Je trouve le télétravail moins efficace pour moi, car l'environnement structuré du bureau et les interactions directes avec mes collègues me permettent d'être plus productif et de mieux collaborer.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je trouve le télétravail moins efficace pour moi",
+      "l'environnement structuré du bureau et les interactions directes avec mes collègues me permettent d'être plus productif et de mieux collaborer"
+    ]
   },
   {
     "question_no": 21,
@@ -249,7 +369,12 @@
       "Se fier uniquement aux publications des influenceurs."
     ],
     "audio_transcript": "Les réseaux sociaux sont devenus un outil incontournable de communication. Ils permettent de rester en contact avec ses proches, de s'informer et même de trouver du travail. Cependant, leur utilisation excessive peut avoir des conséquences négatives. Certaines études montrent que passer trop de temps sur les réseaux sociaux peut entraîner une baisse de l'estime de soi. En effet, les utilisateurs ont tendance à se comparer aux autres et à idéaliser leur vie. De plus, les algorithmes favorisent la diffusion de fausses informations, ce qui peut influencer l'opinion publique. Pour une utilisation saine, il est recommandé de limiter son temps d'écran et de vérifier ses sources. Les réseaux sociaux sont un formidable outil à condition de les utiliser avec modération.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Pour une utilisation saine, il est recommandé de limiter son temps d'écran et de vérifier ses sources.",
+      "limiter son temps d'écran et de vérifier ses sources",
+      "Les réseaux sociaux sont un formidable outil à condition de les utiliser avec modération."
+    ]
   },
   {
     "question_no": 22,
@@ -261,7 +386,18 @@
       "Sont davantage un problème dans les pays développés."
     ],
     "audio_transcript": "Malgré des progrès significatifs, les inégalités de genre persistent dans de nombreux secteurs professionnels. Les femmes occupent toujours des postes moins rémunérés et ont moins d'opportunités de carrière que leurs homologues masculins. Cependant, des initiatives sont mises en place pour promouvoir l'égalité, comme des quotas ou des programmes de mentorat. Certaines entreprises ont réussi à réduire ces inégalités en adoptant des politiques inclusives, mais de nombreux défis demeurent. Des études montrent qu'il existe encore des obstacles invisibles tels que des biais inconscients et des stéréotypes de genre qui entravent la pleine égalité. La lutte pour l'égalité de genre est loin d'être terminée et des efforts continus sont nécessaires.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Malgré des progrès significatifs, les inégalités de genre persistent",
+      "Les femmes occupent toujours des postes moins rémunérés",
+      "ont moins d'opportunités de carrière que leurs homologues masculins",
+      "des initiatives sont mises en place pour promouvoir l'égalité",
+      "Certaines entreprises ont réussi à réduire ces inégalités en adoptant des politiques inclusives, mais de nombreux défis demeurent",
+      "il existe encore des obstacles invisibles",
+      "des biais inconscients et des stéréotypes de genre qui entravent la pleine égalité",
+      "La lutte pour l'égalité de genre est loin d'être terminée",
+      "des efforts continus sont nécessaires"
+    ]
   },
   {
     "question_no": 23,
@@ -273,7 +409,14 @@
       "Supprimer toute interaction avec la nature."
     ],
     "audio_transcript": "Nous accueillons aujourd'hui Sophie, une passionnée de jardinage qui partage son expérience avec nous. Sophie, d'où vient votre amour pour le jardinage ? Depuis mon enfance, j'ai toujours aimé être en contact avec la nature. Le jardinage me procure une sensation de calme et me permet de créer un espace vivant. En plus, cela me permet de manger des légumes sains et biologiques. Pensez-vous que le jardinage est accessible à tout le monde ? Oui, absolument. Même en ville, il est possible de cultiver des plantes sur un balcon ou un rebord de fenêtre. Avec un peu de patience et de connaissances, tout le monde peut profiter des bienfaits du jardinage.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Le jardinage me procure une sensation de calme",
+      "cela me permet de manger des légumes sains et biologiques",
+      "Depuis mon enfance, j'ai toujours aimé être en contact avec la nature",
+      "Même en ville, il est possible de cultiver des plantes sur un balcon ou un rebord de fenêtre",
+      "Avec un peu de patience et de connaissances, tout le monde peut profiter des bienfaits du jardinage"
+    ]
   },
   {
     "question_no": 24,
@@ -285,7 +428,12 @@
       "Impossible sans une formation avancée."
     ],
     "audio_transcript": "Nous accueillons aujourd'hui Sophie, une passionnée de jardinage qui partage son expérience avec nous. Sophie, d'où vient votre amour pour le jardinage ? Depuis mon enfance, j'ai toujours aimé être en contact avec la nature. Le jardinage me procure une sensation de calme et me permet de créer un espace vivant. En plus, cela me permet de manger des légumes sains et biologiques. Pensez-vous que le jardinage est accessible à tout le monde ? Oui, absolument. Même en ville, il est possible de cultiver des plantes sur un balcon ou un rebord de fenêtre. Avec un peu de patience et de connaissances, tout le monde peut profiter des bienfaits du jardinage.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Même en ville, il est possible de cultiver des plantes sur un balcon ou un rebord de fenêtre",
+      "Oui, absolument",
+      "Avec un peu de patience et de connaissances, tout le monde peut profiter des bienfaits du jardinage"
+    ]
   },
   {
     "question_no": 25,
@@ -297,7 +445,13 @@
       "La pénurie de chercheurs qualifiés."
     ],
     "audio_transcript": "Bonjour, aujourd'hui nous parlons des énergies renouvelables avec monsieur Marc Lefebvre, expert en développement durable. Merci d'être parmi nous, monsieur Lefebvre. Marc Lefebvre : Merci pour l'invitation. Je travaille dans ce domaine depuis 15 ans, principalement sur l'énergie solaire et éolienne. Mon rôle est d'aider entreprises et gouvernements à réduire leur empreinte carbone. Interviewer : Les énergies renouvelables peuvent-elles rivaliser avec les énergies fossiles ? Marc Lefebvre : Oui, grâce aux avancées technologiques. Par exemple, le coût de l'énergie solaire a chuté de quatre-vingts pour cent en 10 ans. Mais l'intermittence des renouvelables demande des solutions de stockage, ce qui augmente les coûts à court terme. Interviewer : Quels sont les principaux obstacles à leur adoption ? Marc Lefebvre : Le coût initial des installations, les résistances politiques et le manque d'infrastructures adaptées. Des politiques fiscales incitatives sont essentielles pour accélérer la transition énergétique. Interviewer : Merci pour votre expertise.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Le coût initial des installations",
+      "l'intermittence des renouvelables demande des solutions de stockage, ce qui augmente les coûts à court terme",
+      "Quels sont les principaux obstacles à leur adoption ?",
+      "Le coût initial des installations, les résistances politiques et le manque d'infrastructures adaptées"
+    ]
   },
   {
     "question_no": 26,
@@ -309,7 +463,12 @@
       "L'accès facile aux ressources renouvelables."
     ],
     "audio_transcript": "Bonjour, aujourd'hui nous parlons des énergies renouvelables avec monsieur Marc Lefebvre, expert en développement durable. Merci d'être parmi nous, monsieur Lefebvre. Marc Lefebvre : Merci pour l'invitation. Je travaille dans ce domaine depuis 15 ans, principalement sur l'énergie solaire et éolienne. Mon rôle est d'aider entreprises et gouvernements à réduire leur empreinte carbone. Interviewer : Les énergies renouvelables peuvent-elles rivaliser avec les énergies fossiles ? Marc Lefebvre : Oui, grâce aux avancées technologiques. Par exemple, le coût de l'énergie solaire a chuté de quatre-vingts pour cent en 10 ans. Mais l'intermittence des renouvelables demande des solutions de stockage, ce qui augmente les coûts à court terme. Interviewer : Quels sont les principaux obstacles à leur adoption ? Marc Lefebvre : Le coût initial des installations, les résistances politiques et le manque d'infrastructures adaptées. Des politiques fiscales incitatives sont essentielles pour accélérer la transition énergétique. Interviewer : Merci pour votre expertise.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "grâce aux avancées technologiques",
+      "le coût de l'énergie solaire a chuté de quatre-vingts pour cent en 10 ans",
+      "Oui, grâce aux avancées technologiques"
+    ]
   },
   {
     "question_no": 27,
@@ -321,7 +480,14 @@
       "De dépenser tout son argent sans réfléchir."
     ],
     "audio_transcript": "Aujourd'hui, nous avons le plaisir d'accueillir Thomas, un voyageur qui vient de terminer un tour du monde. Interviewer : Thomas, qu'est-ce qui vous a poussé à entreprendre ce grand voyage ? Thomas : J'ai toujours rêvé de découvrir de nouvelles cultures et de rencontrer des gens du monde entier. Ce voyage m'a permis d'en apprendre beaucoup sur les autres, mais aussi sur moi-même. J'ai vécu des expériences inoubliables. Chaque destination m'a apporté quelque chose d'unique, que ce soit à travers la gastronomie, les traditions ou les rencontres avec les habitants. Ce périple m'a aussi fait réaliser à quel point le monde est vaste et diversifié. Interviewer : Quels ont été les plus grands défis que vous avez rencontrés ? Thomas : La gestion du budget a été un vrai défi. Il faut bien planifier et faire attention à ses dépenses pour éviter les mauvaises surprises. De plus, s'adapter à différentes cultures et modes de vie n'est pas toujours facile, mais c'est ce qui rend l'expérience enrichissante. Parfois, la barrière de la langue compliquait la communication, mais j'ai appris à utiliser d'autres moyens pour me faire comprendre, comme les gestes ou les applications de traduction. Voyager seul m'a aussi confronté à des moments de solitude, mais cela m'a permis de mieux me connaître et de gagner en autonomie.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "J'ai toujours rêvé de découvrir de nouvelles cultures",
+      "Ce voyage m'a permis d'en apprendre beaucoup sur les autres, mais aussi sur moi-même",
+      "Chaque destination m'a apporté quelque chose d'unique, que ce soit à travers la gastronomie, les traditions ou les rencontres avec les habitants",
+      "Ce périple m'a aussi fait réaliser à quel point le monde est vaste et diversifié",
+      "J'ai vécu des expériences inoubliables"
+    ]
   },
   {
     "question_no": 28,
@@ -333,7 +499,15 @@
       "L'impossibilité totale de préparer son itinéraire à l'avance."
     ],
     "audio_transcript": "Aujourd'hui, nous avons le plaisir d'accueillir Thomas, un voyageur qui vient de terminer un tour du monde. Interviewer : Thomas, qu'est-ce qui vous a poussé à entreprendre ce grand voyage ? Thomas : J'ai toujours rêvé de découvrir de nouvelles cultures et de rencontrer des gens du monde entier. Ce voyage m'a permis d'en apprendre beaucoup sur les autres, mais aussi sur moi-même. J'ai vécu des expériences inoubliables. Chaque destination m'a apporté quelque chose d'unique, que ce soit à travers la gastronomie, les traditions ou les rencontres avec les habitants. Ce périple m'a aussi fait réaliser à quel point le monde est vaste et diversifié. Interviewer : Quels ont été les plus grands défis que vous avez rencontrés ? Thomas : La gestion du budget a été un vrai défi. Il faut bien planifier et faire attention à ses dépenses pour éviter les mauvaises surprises. De plus, s'adapter à différentes cultures et modes de vie n'est pas toujours facile, mais c'est ce qui rend l'expérience enrichissante. Parfois, la barrière de la langue compliquait la communication, mais j'ai appris à utiliser d'autres moyens pour me faire comprendre, comme les gestes ou les applications de traduction. Voyager seul m'a aussi confronté à des moments de solitude, mais cela m'a permis de mieux me connaître et de gagner en autonomie.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Quels ont été les plus grands défis que vous avez rencontrés ?",
+      "La gestion du budget a été un vrai défi",
+      "Il faut bien planifier et faire attention à ses dépenses pour éviter les mauvaises surprises",
+      "s'adapter à différentes cultures et modes de vie n'est pas toujours facile",
+      "la barrière de la langue compliquait la communication",
+      "Voyager seul m'a aussi confronté à des moments de solitude"
+    ]
   },
   {
     "question_no": 29,
@@ -345,7 +519,12 @@
       "De l'édition et de la librairie pour automatiser l'écriture d'ouvrages."
     ],
     "audio_transcript": "L'intelligence artificielle (IA) a transformé progressivement le monde du travail. De nombreux secteurs voient leurs pratiques évoluer avec l'intégration d'algorithmes avancés capables d'analyser des données massives, d'automatiser des tâches complexes et même de prendre certaines décisions. Des domaines comme la finance, la santé, la logistique et le marketing sont particulièrement concernés. Les entreprises adoptent l'intelligence artificielle pour accroître leur productivité et réduire les erreurs humaines. Dans la finance, par exemple, les algorithmes permettent de détecter les fraudes bancaires en temps réel et d'optimiser les stratégies d'investissement. Dans le secteur médical, l'IA est capable d'analyser des images radiologiques pour détecter des anomalies avec une précision parfois supérieure à celle des médecins. Cependant, cette révolution technologique suscite des inquiétudes. De nombreux travailleurs craignent que l'automatisation entraîne la suppression de certains emplois. Les métiers répétitifs et administratifs sont particulièrement menacés. Toutefois, les experts estiment que l'IA ne remplacera pas complètement l'humain, mais transformera plutôt la nature des emplois. De nouvelles compétences seront nécessaires, et la formation continue deviendra essentielle pour s'adapter aux évolutions du marché du travail. D'un autre côté, l'intelligence artificielle pose des questions éthiques et réglementaires : comment garantir une utilisation responsable de ces technologies ? Comment éviter les biais algorithmiques qui peuvent entraîner des discriminations ? Les gouvernements et les organisations internationales travaillent à l'élaboration de cadres législatifs pour encadrer l'IA et éviter ces dérives. Quoi qu'il en soit, l'intelligence artificielle s'impose progressivement comme un outil incontournable, capable de révolutionner nos façons de travailler, de produire et de consommer. La clé du succès réside dans une transition maîtrisée où la technologie est mise au service de l'humain plutôt que l'inverse.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Des domaines comme la finance, la santé, la logistique et le marketing sont particulièrement concernés",
+      "Dans la finance, par exemple, les algorithmes permettent de détecter les fraudes bancaires en temps réel et d'optimiser les stratégies d'investissement",
+      "Dans le secteur médical, l'IA est capable d'analyser des images radiologiques pour détecter des anomalies avec une précision parfois supérieure à celle des médecins"
+    ]
   },
   {
     "question_no": 30,
@@ -357,7 +536,17 @@
       "L'impact négatif sur l'emploi avec l'automatisation de tâches répétitives."
     ],
     "audio_transcript": "L'intelligence artificielle (IA) a transformé progressivement le monde du travail. De nombreux secteurs voient leurs pratiques évoluer avec l'intégration d'algorithmes avancés capables d'analyser des données massives, d'automatiser des tâches complexes et même de prendre certaines décisions. Des domaines comme la finance, la santé, la logistique et le marketing sont particulièrement concernés. Les entreprises adoptent l'intelligence artificielle pour accroître leur productivité et réduire les erreurs humaines. Dans la finance, par exemple, les algorithmes permettent de détecter les fraudes bancaires en temps réel et d'optimiser les stratégies d'investissement. Dans le secteur médical, l'IA est capable d'analyser des images radiologiques pour détecter des anomalies avec une précision parfois supérieure à celle des médecins. Cependant, cette révolution technologique suscite des inquiétudes. De nombreux travailleurs craignent que l'automatisation entraîne la suppression de certains emplois. Les métiers répétitifs et administratifs sont particulièrement menacés. Toutefois, les experts estiment que l'IA ne remplacera pas complètement l'humain, mais transformera plutôt la nature des emplois. De nouvelles compétences seront nécessaires, et la formation continue deviendra essentielle pour s'adapter aux évolutions du marché du travail. D'un autre côté, l'intelligence artificielle pose des questions éthiques et réglementaires : comment garantir une utilisation responsable de ces technologies ? Comment éviter les biais algorithmiques qui peuvent entraîner des discriminations ? Les gouvernements et les organisations internationales travaillent à l'élaboration de cadres législatifs pour encadrer l'IA et éviter ces dérives. Quoi qu'il en soit, l'intelligence artificielle s'impose progressivement comme un outil incontournable, capable de révolutionner nos façons de travailler, de produire et de consommer. La clé du succès réside dans une transition maîtrisée où la technologie est mise au service de l'humain plutôt que l'inverse.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "cette révolution technologique suscite des inquiétudes",
+      "De nombreux travailleurs craignent que l'automatisation entraîne la suppression de certains emplois",
+      "Les métiers répétitifs et administratifs sont particulièrement menacés",
+      "l'IA ne remplacera pas complètement l'humain",
+      "transformera plutôt la nature des emplois",
+      "l'intelligence artificielle pose des questions éthiques et réglementaires",
+      "comment garantir une utilisation responsable de ces technologies",
+      "Comment éviter les biais algorithmiques qui peuvent entraîner des discriminations"
+    ]
   },
   {
     "question_no": 31,
@@ -369,7 +558,13 @@
       "Un renforcement paradoxal de la dépendance aux combustibles fossiles traditionnels."
     ],
     "audio_transcript": "Les énergies renouvelables jouent un rôle de plus en plus important dans la transition énergétique mondiale. L'énergie solaire, éolienne et hydraulique sont des alternatives durables aux énergies fossiles. Elles permettent de réduire les émissions de gaz à effet de serre et de limiter l'impact du changement climatique. De nombreux pays investissent massivement dans ces technologies pour assurer un avenir énergétique plus propre. Cependant, des défis subsistent, notamment le coût des infrastructures et la dépendance aux conditions climatiques. Malgré ces obstacles, les avancées technologiques permettent d'améliorer l'efficacité et la rentabilité des énergies renouvelables. De plus, la sensibilisation du public et les politiques gouvernementales encouragent leur adoption à grande échelle.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Elles permettent de réduire les émissions de gaz à effet de serre",
+      "de limiter l'impact du changement climatique",
+      "Les énergies renouvelables jouent un rôle de plus en plus important",
+      "alternatives durables aux énergies fossiles"
+    ]
   },
   {
     "question_no": 32,
@@ -381,7 +576,10 @@
       "La surpêche modifiant les dynamiques océaniques et atmosphériques."
     ],
     "audio_transcript": "Les tempêtes sont des phénomènes naturels qui peuvent causer d'importants dégâts. Elles détruisent des infrastructures, arrachent des arbres et inondent des territoires entiers. Leur intensité a augmenté ces dernières décennies en raison du changement climatique. Les zones côtières sont particulièrement vulnérables, subissant des vents violents et des marées destructrices. Les populations touchées doivent souvent être évacuées, ce qui engendre des pertes économiques et humaines. Pour limiter les effets des tempêtes, il est crucial d'améliorer les systèmes d'alerte et de renforcer les constructions. De plus, la reforestation des zones côtières peut contribuer à réduire l'érosion et l'impact des vents violents. La coopération internationale est également essentielle pour mettre en place des stratégies de prévention et d'adaptation efficaces.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Leur intensité a augmenté ces dernières décennies en raison du changement climatique"
+    ]
   },
   {
     "question_no": 33,
@@ -393,7 +591,17 @@
       "L'amélioration des traitements et la prise en charge de pathologies complexes."
     ],
     "audio_transcript": "La médecine moderne a fait d'énormes progrès ces dernières années. De nouvelles thérapies permettent de traiter des maladies auparavant incurables. Les technologies comme l'intelligence artificielle et la robotique révolutionnent les soins de santé. Les vaccins ont contribué à éradiquer certaines épidémies mortelles. Malgré ces avancées, des défis persistent, notamment l'accès aux soins pour les populations défavorisées. La recherche continue d'évoluer pour améliorer la qualité et l'espérance de vie. De plus, les innovations en génétique ouvrent la voie à des traitements personnalisés plus efficaces. Les hôpitaux intègrent également des outils connectés pour un meilleur suivi des patients.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "La médecine moderne a fait d'énormes progrès ces dernières années",
+      "De nouvelles thérapies permettent de traiter des maladies auparavant incurables",
+      "Les technologies comme l'intelligence artificielle et la robotique révolutionnent les soins de santé",
+      "Les vaccins ont contribué à éradiquer certaines épidémies mortelles",
+      "La recherche continue d'évoluer pour améliorer la qualité et l'espérance de vie",
+      "les innovations en génétique ouvrent la voie à des traitements personnalisés plus efficaces",
+      "Les hôpitaux intègrent également des outils connectés pour un meilleur suivi des patients",
+      "Malgré ces avancées, des défis persistent"
+    ]
   },
   {
     "question_no": 34,
@@ -405,7 +613,12 @@
       "Le recyclage."
     ],
     "audio_transcript": "La pollution de l'air est un problème majeur qui affecte la santé humaine et l'environnement. Elle est causée par les émissions industrielles, les véhicules et les feux de forêt. L'exposition prolongée aux particules fines peut provoquer des maladies respiratoires et cardiovasculaires. Dans les grandes villes, la qualité de l'air se détériore rapidement, augmentant les risques pour la population. Des mesures comme la réduction des énergies fossiles et le développement des transports propres sont essentielles. Lutter contre la pollution de l'air est un enjeu de santé publique mondial. De plus, l'amélioration de la régulation des émissions industrielles et la promotion de technologies vertes peuvent contribuer à réduire la pollution. La collaboration entre gouvernements, entreprises et citoyens est cruciale pour un avenir plus sain.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Elle est causée par les émissions industrielles, les véhicules et les feux de forêt",
+      "la réduction des énergies fossiles",
+      "l'amélioration de la régulation des émissions industrielles"
+    ]
   },
   {
     "question_no": 35,
@@ -417,7 +630,12 @@
       "L'industrie de la construction en raison de la pénurie d'eau."
     ],
     "audio_transcript": "La sécheresse est un phénomène climatique qui entraîne un manque d'eau prolongé. Elle a des conséquences graves sur l'agriculture, réduisant les rendements des cultures et provoquant des pénuries alimentaires. Les agriculteurs doivent adapter leurs pratiques en utilisant des techniques d'irrigation plus efficaces. Certaines régions développent des cultures résistantes à la sécheresse pour limiter les pertes. Le réchauffement climatique accentue ce problème et rend les périodes de sécheresse plus fréquentes. Des politiques de gestion durable de l'eau sont nécessaires pour protéger les ressources agricoles. De plus, la recherche sur des solutions technologiques, comme l'irrigation intelligente, peut offrir des moyens pour mieux gérer les périodes de sécheresse. Les gouvernements doivent collaborer pour mettre en place des stratégies de résilience face aux changements climatiques.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Elle a des conséquences graves sur l'agriculture",
+      "réduisant les rendements des cultures",
+      "provoquant des pénuries alimentaires"
+    ]
   },
   {
     "question_no": 36,
@@ -429,7 +647,17 @@
       "La fin des projets de recherche appliquée."
     ],
     "audio_transcript": "Les universités sont des centres d'innovation où de nombreuses découvertes voient le jour. Elles forment les chercheurs et les experts qui contribuent aux avancées scientifiques. Les laboratoires universitaires développent de nouvelles technologies dans des domaines variés comme la médecine, l'ingénierie et l'informatique. De nombreuses startups naissent également grâce aux projets de recherche universitaire. L'accès à un enseignement supérieur de qualité est donc un facteur clé du développement économique. Soutenir la recherche universitaire est essentiel pour l'avenir. Par ailleurs, la collaboration entre les universités et les entreprises permet de transformer les découvertes en solutions concrètes au service de la société. Cette synergie stimule également la compétitivité à l'échelle mondiale.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Les universités sont des centres d'innovation où de nombreuses découvertes voient le jour",
+      "Elles forment les chercheurs et les experts qui contribuent aux avancées scientifiques",
+      "Les laboratoires universitaires développent de nouvelles technologies dans des domaines variés comme la médecine, l'ingénierie et l'informatique",
+      "De nombreuses startups naissent également grâce aux projets de recherche universitaire",
+      "L'accès à un enseignement supérieur de qualité est donc un facteur clé du développement économique",
+      "Soutenir la recherche universitaire est essentiel pour l'avenir",
+      "la collaboration entre les universités et les entreprises permet de transformer les découvertes en solutions concrètes au service de la société",
+      "Cette synergie stimule également la compétitivité à l'échelle mondiale"
+    ]
   },
   {
     "question_no": 37,
@@ -441,7 +669,16 @@
       "Renforcer la santé physique et mentale en réduisant le stress."
     ],
     "audio_transcript": "Le sport joue un rôle essentiel dans le maintien d'une bonne santé physique et mentale. Il permet de renforcer le cœur, d'améliorer la circulation sanguine et de prévenir de nombreuses maladies. L'activité physique régulière réduit également le stress et l'anxiété en libérant des endorphines. En plus des bienfaits physiques, le sport aide à développer la discipline et la persévérance. Il favorise aussi les interactions sociales, notamment dans les sports d'équipe. Aujourd'hui, de nombreuses entreprises encouragent leurs employés à pratiquer une activité physique pour améliorer leur bien-être. Même une marche quotidienne de 30 minutes peut avoir des effets positifs sur la santé. Intégrer le sport dans son quotidien est une excellente habitude pour vivre plus longtemps et en meilleure santé.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Le sport joue un rôle essentiel dans le maintien d'une bonne santé physique et mentale",
+      "Il permet de renforcer le cœur, d'améliorer la circulation sanguine et de prévenir de nombreuses maladies",
+      "L'activité physique régulière réduit également le stress et l'anxiété en libérant des endorphines",
+      "En plus des bienfaits physiques, le sport aide à développer la discipline et la persévérance",
+      "Il favorise aussi les interactions sociales",
+      "Même une marche quotidienne de 30 minutes peut avoir des effets positifs sur la santé",
+      "Intégrer le sport dans son quotidien est une excellente habitude pour vivre plus longtemps et en meilleure santé"
+    ]
   },
   {
     "question_no": 38,
@@ -453,7 +690,10 @@
       "Déstabiliser les infrastructures numériques pour limiter la surcharge des données."
     ],
     "audio_transcript": "Avec l'essor du numérique, la cybersécurité est devenue un enjeu majeur pour les entreprises et les particuliers. Chaque jour, des millions de cyberattaques sont menées à travers le monde, visant à voler des données ou à perturber des systèmes informatiques. Les hackers utilisent différentes techniques comme le phishing, les ransomwares ou les logiciels espions. La protection des données personnelles est un défi crucial, surtout avec l’augmentation du télétravail et du stockage en ligne. Les gouvernements renforcent les lois sur la cybersécurité pour obliger les entreprises à protéger leurs informations. Les experts recommandent aux utilisateurs de choisir des mots de passe complexes et d’activer la double authentification. La sensibilisation des employés au risque numérique est également essentielle pour éviter les fuites de données. Investir dans la cybersécurité est aujourd’hui une priorité pour toute organisation. Par ailleurs, les avancées en intelligence artificielle permettent de mieux détecter et contrer les menaces en temps réel. Toutefois, les cybercriminels développent sans cesse de nouvelles stratégies, rendant la lutte contre la cybercriminalité toujours plus complexe.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "des millions de cyberattaques sont menées à travers le monde, visant à voler des données ou à perturber des systèmes informatiques"
+    ]
   },
   {
     "question_no": 39,
@@ -465,7 +705,17 @@
       "D'autoriser un commerce régulé pour financer leur protection."
     ],
     "audio_transcript": "De nombreuses espèces animales sont en danger à cause de la perte de leur habitat naturel, du braconnage et du changement climatique. Comment pouvons-nous protéger ces espèces avant qu'elles ne disparaissent ? Pour protéger les animaux en voie de disparition, une approche globale est nécessaire. D'abord, il est important de renforcer les lois de protection de la faune et d’assurer une meilleure application de celles-ci, notamment en luttant contre le braconnage et en réduisant la demande pour les produits dérivés des animaux. Les gouvernements peuvent aussi établir des zones protégées où les habitats naturels sont préservés, et investir dans la restauration des écosystèmes dégradés. De plus, l'éducation et la sensibilisation du public jouent un rôle clé. Plus les gens comprennent l'importance de la biodiversité, plus ils seront enclins à adopter des comportements respectueux de l’environnement. Enfin, il est essentiel de soutenir les projets de recherche sur les espèces menacées afin de mieux comprendre leurs besoins et les menaces auxquelles elles font face.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "De nombreuses espèces animales sont en danger à cause de la perte de leur habitat naturel, du braconnage et du changement climatique",
+      "Pour protéger les animaux en voie de disparition, une approche globale est nécessaire",
+      "il est important de renforcer les lois de protection de la faune et d’assurer une meilleure application de celles-ci",
+      "luttant contre le braconnage et en réduisant la demande pour les produits dérivés des animaux",
+      "Les gouvernements peuvent aussi établir des zones protégées où les habitats naturels sont préservés",
+      "investir dans la restauration des écosystèmes dégradés",
+      "l'éducation et la sensibilisation du public jouent un rôle clé",
+      "il est essentiel de soutenir les projets de recherche sur les espèces menacées"
+    ]
   },
   {
     "question_no": 40,
@@ -477,6 +727,16 @@
       "D'augmenter la publicité pour les fruits et légumes en ligne."
     ],
     "audio_transcript": "De nos jours, de plus en plus de personnes souffrent de maladies liées à l'alimentation, comme l'obésité ou le diabète. Il est essentiel de trouver des solutions pour améliorer les habitudes alimentaires et prévenir ces problèmes de santé. Que peut-on faire pour encourager une alimentation plus saine ? Encourager une alimentation saine commence par l'éducation. Les écoles, les campagnes de santé publique et les médias peuvent jouer un rôle clé en sensibilisant la population aux bienfaits d’une alimentation équilibrée, en mettant l’accent sur la consommation de fruits, de légumes, de protéines maigres et de grains entiers. De plus, les gouvernements devraient mettre en place des politiques visant à limiter la publicité pour les aliments transformés et riches en sucre, en particulier auprès des enfants. Offrir des incitations fiscales aux producteurs de produits locaux et durables pourrait également rendre les aliments sains plus accessibles à tous. Enfin, il est important d’adopter une approche personnelle. Chaque individu doit prendre conscience de son alimentation et choisir des options plus nutritives, tout en limitant la consommation de sucres ajoutés et de graisses saturées. Une meilleure information sur l’impact des choix alimentaires permettrait également d’adopter de meilleures habitudes sur le long terme.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "de plus en plus de personnes souffrent de maladies liées à l'alimentation, comme l'obésité ou le diabète",
+      "Il est essentiel de trouver des solutions pour améliorer les habitudes alimentaires et prévenir ces problèmes de santé",
+      "Encourager une alimentation saine commence par l'éducation",
+      "Les écoles, les campagnes de santé publique et les médias peuvent jouer un rôle clé en sensibilisant la population aux bienfaits d’une alimentation équilibrée",
+      "les gouvernements devraient mettre en place des politiques visant à limiter la publicité pour les aliments transformés et riches en sucre, en particulier auprès des enfants",
+      "limiter la publicité pour les aliments transformés et riches en sucre",
+      "en particulier auprès des enfants",
+      "Offrir des incitations fiscales aux producteurs de produits locaux et durables pourrait également rendre les aliments sains plus accessibles à tous"
+    ]
   }
 ]

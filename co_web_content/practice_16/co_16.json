@@ -9,7 +9,8 @@
       "D"
     ],
     "audio_transcript": "Dis-moi Claude, quel est le meilleur moyen d'économiser sur le transport dans cette ville. Je te recommande le vélo. Depuis que je l'utilise, je ne dépense absolument rien pour le transport.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 2,
@@ -21,7 +22,8 @@
       "D"
     ],
     "audio_transcript": "Je t'ai envoyé un message depuis hier, mais tu tardes à répondre. Est-ce que tu seras de la partie vendredi Malheureusement non, j'ai fait une chute dans l'escalier vendredi et je me suis cassé le bras.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 3,
@@ -33,7 +35,8 @@
       "D"
     ],
     "audio_transcript": "Salut Stéphanie, je t'appelle pour te proposer de passer le week-end avec moi. On pourra faire du parapente, c'est très passionnant. J'adore faire ça. On se retrouve à quelle heure",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 4,
@@ -45,7 +48,8 @@
       "D"
     ],
     "audio_transcript": "Salut Jacques, encore coincé au bureau et je ne suis pas sur le point de quitter Pas de souci Paul, on remet ça à plus tard.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 5,
@@ -57,7 +61,8 @@
       "Une distribution d'outils de nettoyage."
     ],
     "audio_transcript": "Chers voisins, ce samedi à 10 heures, nous organisons un nettoyage de quartier. Rendez-vous au parc central avec vos gants et sacs poubelles. Joignez-vous à nous pour rendre notre quartier plus propre et agréable pour tous. À samedi, 10 heures au parc central.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 6,
@@ -69,7 +74,8 @@
       "On demande de venir à la réception récupérer un livre perdu."
     ],
     "audio_transcript": "Chers visiteurs, un portefeuille marron a été retrouvé dans la section des livres jeunesse. Si vous avez perdu cet objet, merci de vous rendre à l'accueil pour le récupérer. Merci de votre attention.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 7,
@@ -81,7 +87,8 @@
       "Les informations touristiques sur Paris."
     ],
     "audio_transcript": "Bonjour à tous. Ne manquez pas notre grande braderie ce samedi au parc central. Des centaines de stands vous attendent de 9 heures à dix-sept heures. Venez nombreux pour profiter des bonnes affaires et de l'animation.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 8,
@@ -93,7 +100,8 @@
       "Des festivités au centre culturel."
     ],
     "audio_transcript": "Mesdames et messieurs, rejoignez-nous ce samedi à 14 heures au centre culturel pour un événement exceptionnel. Des objets uniques et précieux seront proposés aux plus offrants. Ne manquez pas cette occasion rare de repartir avec des trésors inestimables. Rendez-vous samedi.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 9,
@@ -105,7 +113,8 @@
       "Annoncer son absence."
     ],
     "audio_transcript": "Je voulais savoir si tu as une place libre dans ta voiture pour le mariage de tante Odile. Je comptais y aller avec la mienne, mais finalement je ne pourrais pas. Tu m'appelles plus tard ?",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 10,
@@ -117,7 +126,8 @@
       "Partager sa joie."
     ],
     "audio_transcript": "Salut Gladys, juste pour te dire que j'ai passé une super soirée hier avec François. La nourriture était délicieuse et l'ambiance géniale. On doit absolument y retourner ensemble bientôt. Je suis tellement comblé.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 11,
@@ -129,7 +139,8 @@
       "S'excuser d'un retard."
     ],
     "audio_transcript": "Excuse-moi de t'appeler aussi tard, mais c'est parce que le bébé pleure sans cesse depuis un bon moment et je ne sais quoi faire pour y remédier. Voilà, j'ai besoin que tu m'aides.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 12,
@@ -141,7 +152,8 @@
       "Faire une proposition."
     ],
     "audio_transcript": "Chers abonnés, vous êtes préoccupé par votre consommation d'électricité ? Nous avons une solution pour vous : optez pour notre service de suivi personnalisé avec le compteur Linky. Il vous permet de surveiller en temps réel votre consommation et d'identifier les économies possibles. Contactez-nous pour plus d'informations et pour vous inscrire dès aujourd'hui.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 13,
@@ -153,7 +165,8 @@
       "Annoncer une bonne nouvelle."
     ],
     "audio_transcript": "C'est ton vieil ami, juste pour t'informer que je ne fais plus partie des effectifs de la société ATS. On se voit bientôt pour en discuter. À bientôt.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 14,
@@ -165,7 +178,8 @@
       "Inviter son ami à une fête."
     ],
     "audio_transcript": "Bon, c'est Mathieu. Écoute, je n'ai rien à faire ce soir. Que dirais-tu d'aller boire un verre au Grand Lilas ? Ça nous changera les idées. Rappelle-moi, s'il te plaît.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 15,
@@ -177,7 +191,8 @@
       "Ne se prononce pas"
     ],
     "audio_transcript": "Écoutez, moi je suis limité financièrement, mais mes enfants mangent convenablement à la cantine de leur école. Donc cette mesure est un coup de massue pour moi.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 16,
@@ -189,7 +204,8 @@
       "Ne se prononce pas"
     ],
     "audio_transcript": "Le tout n'est pas d'interdire la viande à l'école, même si cela peut favoriser une alimentation plus durable. Je pense que la mesure doit être accompagnée d'options équilibrées pour répondre aux besoins nutritionnels des enfants.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 17,
@@ -201,7 +217,8 @@
       "Ne se prononce pas"
     ],
     "audio_transcript": "Interdire la viande dans les cantines scolaires, c'est bafouer les préférences alimentaires de tous les enfants, et n'oublions pas les carences nutritionnelles. Pour moi, ça reste à revoir.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 18,
@@ -213,7 +230,8 @@
       "N'a pas d'avis sur la question."
     ],
     "audio_transcript": "Beaucoup de choses ont changé. Moi, je pense qu'il est effectivement moins évident de se faire de l'argent aujourd'hui qu'il y a 20 ans, en raison de l'augmentation du coût de la vie, de la concurrence accrue et de la précarité de l'emploi.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 19,
@@ -225,7 +243,8 @@
       "N'a pas d'avis sur la question."
     ],
     "audio_transcript": "C'est vraiment une question intéressante. Je pense que faire de l'argent aujourd'hui est comparable à il y a 20 ans. J'explique cela par le fait que les défis ont évolué avec le temps, mais les opportunités ont aussi augmenté, ce qui équilibre les difficultés rencontrées.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 20,
@@ -237,7 +256,8 @@
       "N'a pas d'avis sur la question."
     ],
     "audio_transcript": "Ça paraît évident, en fait. Grâce aux opportunités offertes par la technologie et l'économie numérique, aujourd'hui se faire de l'argent n'est plus le parcours du combattant. On en gagne, ce qui n'était pas du tout le cas à l'époque de nos parents. C'était pas évident.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 21,
@@ -249,7 +269,8 @@
       "Permet de décupler la production de vin."
     ],
     "audio_transcript": "Aujourd'hui, parlons du vin avec l’œnodynamie musicale, connue comme étant une méthode révolutionnaire où la musique est utilisée pour améliorer la qualité du vin. En diffusant des morceaux spécifiques dans les vignobles et les caves, les viticulteurs observent que les vibrations sonores stimulent les micro-organismes bénéfiques, enrichissant les arômes du vin, ce qui résulte en un vin de meilleure qualité. Des genres musicaux variés, du classique au jazz, sont sélectionnés en fonction des différentes phases de production, offrant une approche harmonieuse et innovante à la viticulture moderne. Cependant, cette pratique est encore controversée et manque de preuves scientifiques solides pour soutenir ses effets. Bien que certains viticulteurs rapportent des améliorations notables, d'autres restent sceptiques, considérant ces résultats comme anecdotiques.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 22,
@@ -261,7 +282,8 @@
       "D'une ressource énergétique émergente."
     ],
     "audio_transcript": "Aujourd'hui, allons à Québec, où il alimente déjà des trains, des voitures. Il pourrait un jour contribuer à propulser une partie de l'industrie du transport. L'hydrogène est un carburant qui n'émet aucun gaz à effet de serre. Il est qualifié de gris, bleu, vert selon la façon dont il est fabriqué — une production qui peut être polluante et dispendieuse. Mais des scientifiques s'intéressent à une toute nouvelle catégorie : l'hydrogène blanc. Le géologue Jasmin Raymond croit que le sous-sol du Québec contient des quantités importantes de ce combustible, dont la production n'implique aucune émission de gaz carbonique, ce qui en fait une ressource particulièrement attrayante pour la transition énergétique. Des équipes de chercheurs québécois ont commencé à étudier les formations géologiques locales, en se concentrant sur des régions comme les Appalaches et le Bouclier canadien. L'objectif est d'identifier les gisements potentiels d'hydrogène blanc et d'évaluer la faisabilité de leur exploitation à grande échelle. Selon les premières estimations, ces réserves naturelles pourraient non seulement répondre à une partie des besoins énergétiques de la province, mais aussi positionner le Québec comme un leader mondial dans le secteur de l'hydrogène propre.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 23,
@@ -273,7 +295,8 @@
       "Le nombre de postes vacants pourrait décliner l'année prochaine."
     ],
     "audio_transcript": "Bonjour madame Prochu. Bonjour. Alors, on sent que les employés demandent plus, qu'il y a de plus en plus d'attente de leur part, c'est ce que vous notez dans votre rapport. À quel point est-ce que les employés vont avoir le gros bout du bâton, les candidats pour l'an prochain ? Je pense que cette tendance va continuer à se confirmer. Comme vous l'avez mentionné, les emplois sont nombreux, les candidats moins nombreux, donc ils ont l'embarras du choix. Ils vont rechercher de la flexibilité, ils vont chercher des emplois qui vont leur permettre de pouvoir continuer à se former, qui vont leur permettre d'évoluer dans un milieu sain et bienveillant. Donc ils gardent le gros bout du bâton pour l'année prochaine, certainement. Quelles sont les demandes les plus fréquentes ? Est-ce que c'est le salaire ? Je vous dirais que le salaire tombe en troisième place. Ce qui est le plus important chez les candidats, c'est vraiment une flexibilité. Donc pouvoir jongler vie sociale, familiale et professionnelle, c'est de travailler dans une entreprise qui reflète aussi leurs valeurs. Ils sont de plus en plus nombreux à exiger, par exemple, de travailler dans un contexte où l'employeur va considérer l'environnement comme étant quelque chose d'important. Donc voilà.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 24,
@@ -285,7 +308,8 @@
       "Une vie professionnelle de plus en plus chronophage."
     ],
     "audio_transcript": "Bonjour madame Prochu. Bonjour. Alors, on sent que les employés demandent plus, qu'il y a de plus en plus d'attente de leur part, c'est ce que vous notez dans votre rapport. À quel point est-ce que les employés vont avoir le gros bout du bâton, les candidats pour l'an prochain ? Je pense que cette tendance va continuer à se confirmer. Comme vous l'avez mentionné, les emplois sont nombreux, les candidats moins nombreux, donc ils ont l'embarras du choix. Ils vont rechercher de la flexibilité, ils vont chercher des emplois qui vont leur permettre de pouvoir continuer à se former, qui vont leur permettre d'évoluer dans un milieu sain et bienveillant. Donc ils gardent le gros bout du bâton pour l'année prochaine, certainement. Quelles sont les demandes les plus fréquentes ? Est-ce que c'est le salaire ? Je vous dirais que le salaire tombe en troisième place. Ce qui est le plus important chez les candidats, c'est vraiment une flexibilité. Donc pouvoir jongler vie sociale, familiale et professionnelle, c'est de travailler dans une entreprise qui reflète aussi leurs valeurs. Ils sont de plus en plus nombreux à exiger, par exemple, de travailler dans un contexte où l'employeur va considérer l'environnement comme étant quelque chose d'important. Donc voilà.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 25,
@@ -297,7 +321,8 @@
       "D'attendre que les actions baissent à la bourse."
     ],
     "audio_transcript": "On reçoit Denis Doucet, porte-parole de Multipres Hypothèques. Bonsoir monsieur Doucet. Bonsoir. Alors, c'est une situation particulière. On voit que le nombre de transactions diminue, les prix aussi ont reculé depuis le sommet. D'ailleurs, la SCHL s'attend à un recul encore des prix d'ici la fin de l'année. Desjardins parle de dix-sept pour cent entre le sommet et la fin 2023 au Québec. Est-ce que vous diriez aux nouveaux acheteurs, s'ils ont un peu de temps devant eux, d'attendre ? Pas nécessairement. L'achat d'une maison, c'est comme certains essaieraient d'acheter à la bourse puis dire « je vais attendre que les actions baissent pour les acheter », jouer à ce jeu-là, les spécialistes vont nous dire que c'est très, très risqué. Moi, je pense que quand les gens s'engagent dans un projet pour s'acheter une maison, on doit vérifier notre budget, vérifier notre capacité et peut-être sélectionner une maison qui sera compatible avec nos moyens. Justement, cette capacité d'emprunt, à quel point est-ce que les préautorisations qu'on peut obtenir des institutions financières tiennent compte de l'augmentation du coût de la vie, des autres dépenses qu'on peut avoir ? Est-ce qu'on doit se fier à ça, aller jusque-là ? La préautorisation, c'est un calcul sans tenir compte ni de l'inflation ni des autres facteurs, uniquement pour dire aux gens : regardez, au-delà de ce montant-là, vous ne pourrez pas emprunter. Donc c'est la limite limite. Mais avant ça, c'était un des indicateurs. Les gens doivent faire un exercice budgétaire, se faire conseiller soit par un courtier hypothécaire, soit par un conseiller en finances personnelles, mais essayer de voir avec leur budget et ce qu'ils peuvent anticiper comme frais supplémentaires. Là, ce n'est pas juste à court terme parce que malheureusement les gens gardent ça souvent dans un horizon de six mois ou un an, mais ce que j'ai dans l'impression, c'est d'avoir un enfant l'année prochaine, si oui, les coûts ça peut régénérer, et à ce moment-là on peut établir un paiement avec lequel les gens pourront vivre correctement.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 26,
@@ -309,7 +334,8 @@
       "Ne riment pas avec les réalités économiques."
     ],
     "audio_transcript": "On reçoit Denis Doucet, porte-parole de Multipres Hypothèques. Bonsoir monsieur Doucet. Bonsoir. Alors, c'est une situation particulière. On voit que le nombre de transactions diminue, les prix aussi ont reculé depuis le sommet. D'ailleurs, la SCHL s'attend à un recul encore des prix d'ici la fin de l'année. Desjardins parle de dix-sept pour cent entre le sommet et la fin 2023 au Québec. Est-ce que vous diriez aux nouveaux acheteurs, s'ils ont un peu de temps devant eux, d'attendre ? Pas nécessairement. L'achat d'une maison, c'est comme certains essaieraient d'acheter à la bourse puis dire « je vais attendre que les actions baissent pour les acheter », jouer à ce jeu-là, les spécialistes vont nous dire que c'est très, très risqué. Moi, je pense que quand les gens s'engagent dans un projet pour s'acheter une maison, on doit vérifier notre budget, vérifier notre capacité et peut-être sélectionner une maison qui sera compatible avec nos moyens. Justement, cette capacité d'emprunt, à quel point est-ce que les préautorisations qu'on peut obtenir des institutions financières tiennent compte de l'augmentation du coût de la vie, des autres dépenses qu'on peut avoir ? Est-ce qu'on doit se fier à ça, aller jusque-là ? La préautorisation, c'est un calcul sans tenir compte ni de l'inflation ni des autres facteurs, uniquement pour dire aux gens : regardez, au-delà de ce montant-là, vous ne pourrez pas emprunter. Donc c'est la limite limite. Mais avant ça, c'était un des indicateurs. Les gens doivent faire un exercice budgétaire, se faire conseiller soit par un courtier hypothécaire, soit par un conseiller en finances personnelles, mais essayer de voir avec leur budget et ce qu'ils peuvent anticiper comme frais supplémentaires. Là, ce n'est pas juste à court terme parce que malheureusement les gens gardent ça souvent dans un horizon de six mois ou un an, mais ce que j'ai dans l'impression, c'est d'avoir un enfant l'année prochaine, si oui, les coûts ça peut régénérer, et à ce moment-là on peut établir un paiement avec lequel les gens pourront vivre correctement.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 27,
@@ -321,7 +347,8 @@
       "Le nombre de véhicules énergivores tend à s'estomper avec le temps."
     ],
     "audio_transcript": "Du nombre de véhicules à essence plus élevé que jamais en 2023. Alors, est-ce qu'on est sur la bonne voie pour atteindre les cibles en termes de ventes de véhicules électriques ? On fait le point avec Daniel Breton et les PDG de Mobilité Électrique Canada. Bonsoir. Bonsoir. Alors, les ventes de véhicules électriques et hybrides sont en hausse, c’est ça qu’on observe, mais celles des voitures à essence progresse encore. Monsieur Breton, est-ce qu’on est en train de rater le virage de la mobilité zéro émission au Québec ? En fait, oui. C’est-à-dire que si on ne prend pas un virage plus radical dans les transports, qui, je rappelle, sont la première source d’émissions au Québec, on va… parce que oui, on veut que de plus en plus de gens achètent des voitures électriques, mais on veut aussi faire en sorte de diviser ces émissions de gaz à effet de serre. Donc, si la flotte ne cesse d’augmenter, on va effectivement rater le virage. Bon, Québec dit que s’il y a une hausse du nombre de voitures à essence en ce moment, c’est parce qu’il y a une augmentation rapide de la population. Est-ce que cette explication-là, ça tient la route selon vous ? Moi, je pense que c’est effectivement une partie de l’explication, ce n’est pas toute l’explication. Écoutez, faut pas oublier que lorsqu’on regarde l’annonce qui a été faite par le gouvernement du Québec d’interdire le budget comme quoi il voulait cesser de subventionner l’acquisition de véhicules électriques tout en ne décourageant pas l’achat de véhicules à essence, dont des véhicules à essence énergivores... Moi, j’avais parlé, je l’ai dit à de nombreuses reprises, il faudrait mettre en place un système de bonus-malus pour à la fois continuer à encourager les véhicules électriques, mais aussi décourager l’achat de véhicules énergivores. Je le rappelle, en 2007, le gouvernement conservateur de Stephen Harper avait mis en place un bonus-malus : 2000 dollars pour un véhicule vert, 4000 dollars de malus pour un véhicule énergivore, et le tout de façon fiscalement neutre. Si en 2007 les conservateurs ont pu le faire, il n’y a pas de raison pour qu’en 2024 le gouvernement du Québec ne puisse pas le faire.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 28,
@@ -333,7 +360,8 @@
       "De sensibiliser les automobilistes aux méfaits des gaz à effet de serre."
     ],
     "audio_transcript": "Du nombre de véhicules à essence plus élevé que jamais en 2023. Alors, est-ce qu'on est sur la bonne voie pour atteindre les cibles en termes de ventes de véhicules électriques ? On fait le point avec Daniel Breton et les PDG de Mobilité Électrique Canada. Bonsoir. Bonsoir. Alors, les ventes de véhicules électriques et hybrides sont en hausse, c’est ça qu’on observe, mais celles des voitures à essence progresse encore. Monsieur Breton, est-ce qu’on est en train de rater le virage de la mobilité zéro émission au Québec ? En fait, oui. C’est-à-dire que si on ne prend pas un virage plus radical dans les transports, qui, je rappelle, sont la première source d’émissions au Québec, on va… parce que oui, on veut que de plus en plus de gens achètent des voitures électriques, mais on veut aussi faire en sorte de diviser ces émissions de gaz à effet de serre. Donc, si la flotte ne cesse d’augmenter, on va effectivement rater le virage. Bon, Québec dit que s’il y a une hausse du nombre de voitures à essence en ce moment, c’est parce qu’il y a une augmentation rapide de la population. Est-ce que cette explication-là, ça tient la route selon vous ? Moi, je pense que c’est effectivement une partie de l’explication, ce n’est pas toute l’explication. Écoutez, faut pas oublier que lorsqu’on regarde l’annonce qui a été faite par le gouvernement du Québec d’interdire le budget comme quoi il voulait cesser de subventionner l’acquisition de véhicules électriques tout en ne décourageant pas l’achat de véhicules à essence, dont des véhicules à essence énergivores... Moi, j’avais parlé, je l’ai dit à de nombreuses reprises, il faudrait mettre en place un système de bonus-malus pour à la fois continuer à encourager les véhicules électriques, mais aussi décourager l’achat de véhicules énergivores. Je le rappelle, en 2007, le gouvernement conservateur de Stephen Harper avait mis en place un bonus-malus : 2000 dollars pour un véhicule vert, 4000 dollars de malus pour un véhicule énergivore, et le tout de façon fiscalement neutre. Si en 2007 les conservateurs ont pu le faire, il n’y a pas de raison pour qu’en 2024 le gouvernement du Québec ne puisse pas le faire.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 29,
@@ -345,7 +373,8 @@
       "S'insurge contre l'apologie d'une juxtaposition de cultures au détriment d'une culture commune."
     ],
     "audio_transcript": "Seule province francophone au sein d'une Amérique du Nord anglophone, le Québec s'interroge sur son identité. L'arrivée récente d'immigrants venus des quatre coins du monde rend cette question brûlante d'actualité. L'étude d'une sociologue sur le nouveau cours d'éthique et de culture religieuse relance le débat. Joël Querret dénonce le multiculturalisme du programme. « C'est vraiment l'idée selon laquelle il n'y a plus de culture commune, il n'y a plus d'identité nationale, il n'y a que des cultures les unes à côté des autres. Est-ce que c'est le rôle de l'école d'enseigner le multiculturalisme pendant 10 ans alors qu'au Québec, en très grande majorité, les gens sont contre le multiculturalisme ? » La grande majorité de la population propose un autre modèle d'intégration, qui est celui de l'intégration des nouveaux arrivants à une culture fondatrice. Inquiets, le Parti Québécois, qui lutte pour un Québec indépendant, a d'abord réclamé le retrait du cours, avant finalement de prôner un comité parlementaire sur la question. Les concepteurs du programme soutiennent pourtant que le catholicisme et le protestantisme pratiqués au Québec ont la prépondérance sur les autres courants religieux enseignés aux élèves. Le philosophe Luc Bégin : « Ce n'est pas un déni de soi, c'est une affirmation, un appel à une affirmation davantage solide fondée sur ce que l'on est. Bien entendu, ça peut avoir des impacts sur l'identité québécoise. À partir du moment où la société québécoise s'ouvre à l'immigration comme elle le fait maintenant, on ne peut pas penser qu'il n'y aura aucune modification de cette identité québécoise. Mais l'identité, c'est quoi ? C'est quelque chose qui est constamment en vous. » Selon le concepteur du programme, les enfants apprennent à dialoguer avec les autres et à éviter les préjugés. Jean Simon suit le programme à l'Institut Saint-Joseph de Québec : « Si jamais on voit quelqu'un de différent, on est dans une autre religion, on va être préparé, on ne le rejettera pas parce qu'on veut savoir pourquoi il est comme ça. On va comprendre pourquoi il n'est pas comme nous, pourquoi ils disent oui au contraire ou non. Même si quelqu'un nous demande quelque chose, il faut rester comme on est, il faut qu'on se la croie ce qu'on veut croire, il ne faut pas se laisser faire ainsi. » Cet appel à l'ouverture n'inquiète pas que les francophones : des immigrants ont peur aussi que leurs enfants s'assimilent trop vite à la culture québécoise. Pascal Guerricola, Québec, RFI.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 30,
@@ -357,7 +386,8 @@
       "Il permet de préserver l'identité Québécoise menacée par le multiculturalisme."
     ],
     "audio_transcript": "Seule province francophone au sein d'une Amérique du Nord anglophone, le Québec s'interroge sur son identité. L'arrivée récente d'immigrants venus des quatre coins du monde rend cette question brûlante d'actualité. L'étude d'une sociologue sur le nouveau cours d'éthique et de culture religieuse relance le débat. Joël Querret dénonce le multiculturalisme du programme. « C'est vraiment l'idée selon laquelle il n'y a plus de culture commune, il n'y a plus d'identité nationale, il n'y a que des cultures les unes à côté des autres. Est-ce que c'est le rôle de l'école d'enseigner le multiculturalisme pendant 10 ans alors qu'au Québec, en très grande majorité, les gens sont contre le multiculturalisme ? » La grande majorité de la population propose un autre modèle d'intégration, qui est celui de l'intégration des nouveaux arrivants à une culture fondatrice. Inquiets, le Parti Québécois, qui lutte pour un Québec indépendant, a d'abord réclamé le retrait du cours, avant finalement de prôner un comité parlementaire sur la question. Les concepteurs du programme soutiennent pourtant que le catholicisme et le protestantisme pratiqués au Québec ont la prépondérance sur les autres courants religieux enseignés aux élèves. Le philosophe Luc Bégin : « Ce n'est pas un déni de soi, c'est une affirmation, un appel à une affirmation davantage solide fondée sur ce que l'on est. Bien entendu, ça peut avoir des impacts sur l'identité québécoise. À partir du moment où la société québécoise s'ouvre à l'immigration comme elle le fait maintenant, on ne peut pas penser qu'il n'y aura aucune modification de cette identité québécoise. Mais l'identité, c'est quoi ? C'est quelque chose qui est constamment en vous. » Selon le concepteur du programme, les enfants apprennent à dialoguer avec les autres et à éviter les préjugés. Jean Simon suit le programme à l'Institut Saint-Joseph de Québec : « Si jamais on voit quelqu'un de différent, on est dans une autre religion, on va être préparé, on ne le rejettera pas parce qu'on veut savoir pourquoi il est comme ça. On va comprendre pourquoi il n'est pas comme nous, pourquoi ils disent oui au contraire ou non. Même si quelqu'un nous demande quelque chose, il faut rester comme on est, il faut qu'on se la croie ce qu'on veut croire, il ne faut pas se laisser faire ainsi. » Cet appel à l'ouverture n'inquiète pas que les francophones : des immigrants ont peur aussi que leurs enfants s'assimilent trop vite à la culture québécoise. Pascal Guerricola, Québec, RFI.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 31,
@@ -369,7 +399,8 @@
       "L'argent comptant est de plus en plus prisé par les institutions financières."
     ],
     "audio_transcript": "On voit de moins en moins d'argent comptant dans l'espace public et de plus en plus de commerces qui le refusent. Ce que me dit Alexandre, d’Option consommateurs, c’est que les banques, elles, veulent se diriger vers un système comme ça parce que l’élimination de l’argent comptant représente énormément d’avantages pour les banques.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": []
   },
   {
     "question_no": 32,
@@ -381,7 +412,8 @@
       "De promouvoir l'usage des matériaux de récupération."
     ],
     "audio_transcript": "La technologie est en plein essor au Nigeria. Les étudiants en mécanique, diplômés de l’Université de Lagos, ont fabriqué une voiture électrique. Avec du matériel récupéré au niveau local, ils ont pu mettre sur pieds ce moyen de locomotion. L’objectif de Fola Jummy et ses amis est de pousser les autorités du Nigeria à promouvoir les voitures électriques, ce qui pourrait, selon ces étudiants, contribuer à la réduction des émissions de carbone dans l’atmosphère.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 33,
@@ -393,7 +425,8 @@
       "Est la destination prisée des amateurs de nature."
     ],
     "audio_transcript": "C’est un paradis naturel oublié, du moins qui ne figure plus sur les catalogues des tours opérateurs : la Sierra Leone. Son image reste associée à la guerre civile et à la pauvreté. Pourtant, sur place, la paix est revenue et le pays dispose de nombreux atouts pour le plus grand plaisir des voyageurs.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 34,
@@ -405,7 +438,8 @@
       "Remet en question la stratégie déployée pour relever Haïti."
     ],
     "audio_transcript": "Pendant que le monde se mobilise pour apporter une aide d’urgence aux victimes de l’ouragan Irma dans les Caraïbes, viendra quand même le temps où il faudra penser à la reconstruction, comme ça a été le cas par exemple en Haïti après le terrible séisme de 2010. Beaucoup d’argent y a été investi et nous sommes retournés voir un des projets phares de la Croix-Rouge canadienne, financé donc avec vos dons amassés après le tremblement de terre : six millions de dollars pour la reconstruction de l’hôpital Saint-Michel dans la ville de Jacques-Belle. Inauguré l’an dernier, il fait face aujourd’hui à un manque de personnel, de matériel, de financement aussi. Alors, on peut se demander si ce genre de projet est la meilleure façon pour la communauté internationale d’aider un pays comme Haïti.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 35,
@@ -417,7 +451,8 @@
       "Recycle les matériaux usagés avec beaucoup de précisions."
     ],
     "audio_transcript": "Max, c’est une grosse araignée rouge à six pattes qui surplombe un tapis roulant. Sur ce tapis défilent les déchets que vous avez chez vous dans la poubelle du tri, et Max est formé pour enlever toutes les erreurs. Car vous triez très bien, mais vous avez peut-être des voisins qui font n’importe quoi. Hier matin, il y avait sur le tapis une paire de chaussures et une poupée qui n’avaient rien à faire là. Le robot apprend donc : on lui met dans son logiciel des milliers de photos. Il apprend à reconnaître les formes, les couleurs des déchets et, avec ses six bras articulés, il retire tout ce qui ne se recycle pas.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 36,
@@ -429,7 +464,8 @@
       "Le frelon Européen dérive d'une mutation de la guêpe indigène."
     ],
     "audio_transcript": "Vous avez peut-être remarqué dans votre jardin cet insecte. Le frelon européen gagne du terrain au Québec. Deux fois plus gros qu’une guêpe indigène, il peut sembler intimidant. Les guêpes indigènes mesurent entre 7 et 8 millimètres en incluant les antennes, alors que les frelons européens mesurent entre dix-huit et vingt-cinq millimètres, jusqu’à 40 millimètres pour les antennes. Les risques sont donc plus importants pour les personnes allergiques si elles se font piquer. Avec les changements climatiques, guêpes et frelons seront de plus en plus présents.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": []
   },
   {
     "question_no": 37,
@@ -441,7 +477,8 @@
       "Reste majoritairement associée à une pénurie de places de parking."
     ],
     "audio_transcript": "C’est de trouver les moyens réels d’avoir une place de stationnement, parce que quatre-vingts pour cent des véhicules cherchent systématiquement une place et tournent en rond, et c’est ce qui pollue le plus. Parce que, si on reprend l’effet diesel, qui est à la mode aujourd’hui, on s’aperçoit très bien que l’effet diesel aujourd’hui, c’est lorsque les voitures roulent ou pas qu’elles polluent le plus, pas seulement les diesels, mais on parle du diesel particulièrement. Donc essayons de trouver des solutions de stationnement pour cela.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 38,
@@ -453,7 +490,8 @@
       "Son enseignement s'est démocratisé dans toutes les universités."
     ],
     "audio_transcript": "Session de rattrapage à l’Université de Lille. Ici, on enseigne l’homéopathie depuis 10 ans. Chaque année, ils sont une trentaine d’étudiants à passer le diplôme. Pourtant, cette orientation est loin de faire l’unanimité au sein de la corporation des médecins. La bataille ne date pas d’hier, dernière offensive en date : celle de l’Académie de médecine. Dans un communiqué virulent, elle vient de réclamer l’arrêt total du remboursement des remèdes homéopathiques dont l’efficacité resterait non approuvée.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": []
   },
   {
     "question_no": 39,
@@ -465,7 +503,8 @@
       "Change le visage des villes."
     ],
     "audio_transcript": "Il y a 4 ans, vous étiez très nombreux à écouter pour une première fois, et pour plusieurs, ça a été un véritable coup de foudre : le télétravail. Lorsque le monde a basculé dans la pandémie, le travail s’est transformé à jamais. On le voit aujourd’hui, quand le gouvernement fédéral essaie de ramener ses fonctionnaires au bureau 3 jours par semaine, ça soulève une levée de boucliers. C’est une des nombreuses preuves que le télétravail n’était pas qu’une solution temporaire à la pandémie et que ça continue de transformer nos habitudes, nos villes. Le centre-ville de Montréal n’a jamais été aussi calme. Près de 20 % des espaces à bureaux sont inoccupés. C’est deux fois plus de locaux vides qu’avant la pandémie. L’impact est durable. Les bureaux vacants du Grand Montréal pourraient remplir l’équivalent d’au moins 13 fois la Place Ville-Marie, et cette tendance va prendre de l’ampleur au cours de la prochaine décennie.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   },
   {
     "question_no": 40,
@@ -477,6 +516,7 @@
       "Sa production est mise en péril par la combinaison de plusieurs défis."
     ],
     "audio_transcript": "Dans les Pouilles en Italie, on produit de l’huile d’olive depuis des siècles. C’est un pilier de l’économie de la région. Aujourd’hui, près de 15 % de la production mondiale vient d’ici, mais cette production est fragilisée. Les oliviers de Luigi D’Amicaux ont été ravagés par des mouches et une bactérie destructrice, dite la Xylella fastidiosa. Au cours des derniers mois, les vents plus chauds que d’habitude ont favorisé la prolifération de ces parasites. Résultat : les arbres, sans nerfs, sont malades, la qualité des olives laisse à désirer, et les rendements sont beaucoup moins importants, entraînant des pénuries. Ce problème ne se limite pas à l’Italie, que ce soit la sécheresse en Espagne ou encore les inondations et les feux de forêt dévastateurs en Grèce.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": []
   }
 ]

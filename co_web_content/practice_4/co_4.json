@@ -9,7 +9,12 @@
       "D"
     ],
     "audio_transcript": "— Qu'est-ce qu'on offre à Jacques pour son départ ? — Sylvie voudrait qu'on lui offre un cadeau. — Franchement, ce serait trop compliqué de choisir un cadeau qui lui plaise. — À mon avis, on devrait plutôt faire une cagnotte.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "on offre à Jacques pour son départ",
+      "un cadeau",
+      "faire une cagnotte"
+    ]
   },
   {
     "question_no": 2,
@@ -21,7 +26,13 @@
       "D"
     ],
     "audio_transcript": "— Bonjour, je cherche le bureau de Madame Denis. — Bonjour madame, c'est au deuxième étage, c'est le premier bureau à droite, en sortant de l'ascenseur.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "le bureau de Madame Denis",
+      "au deuxième étage",
+      "le premier bureau à droite",
+      "en sortant de l'ascenseur"
+    ]
   },
   {
     "question_no": 3,
@@ -33,7 +44,14 @@
       "D"
     ],
     "audio_transcript": "— Salut Karim, ça va ? — Pas du tout. Je suis très stressé parce que je dois finir le projet d'un client avant la fin de la semaine, mais je suis débordé. Hier, je n'ai même pas eu le temps de déjeuner.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je suis très stressé",
+      "je dois finir le projet d'un client",
+      "avant la fin de la semaine",
+      "je suis débordé",
+      "je n'ai même pas eu le temps de déjeuner"
+    ]
   },
   {
     "question_no": 4,
@@ -45,7 +63,11 @@
       "D"
     ],
     "audio_transcript": "— Marie, l'exposition dont je t'avais parlé est prolongée. Ça te dirait d'y aller ? — Oui, avec plaisir.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "l'exposition",
+      "prolongée"
+    ]
   },
   {
     "question_no": 5,
@@ -57,7 +79,12 @@
       "le train arrivera à Nancy à 16h15."
     ],
     "audio_transcript": "Votre attention, s'il vous plaît : le train à destination de Nancy, départ prévu à 16 heures 15, partira voie 5. Les voyageurs sont invités à monter à bord.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Les voyageurs sont invités à monter à bord",
+      "départ prévu à 16 heures 15",
+      "partira voie 5"
+    ]
   },
   {
     "question_no": 6,
@@ -69,7 +96,12 @@
       "la présence de policiers dans la salle."
     ],
     "audio_transcript": "Mesdames et messieurs, la pièce reprendra dans 5 minutes. Nous vous rappelons que les téléphones doivent être éteints durant la représentation. Des agents passeront dans la salle régulièrement pour vérifier que c'est bien le cas. Merci pour votre compréhension.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "la pièce reprendra dans 5 minutes",
+      "les téléphones doivent être éteints durant la représentation",
+      "Des agents passeront dans la salle régulièrement pour vérifier que c'est bien le cas"
+    ]
   },
   {
     "question_no": 7,
@@ -81,7 +113,14 @@
       "la prolongation de la promotion."
     ],
     "audio_transcript": "Chers clients, chères clientes, vous n'avez plus que quelques heures pour profiter de réductions exceptionnelles au rayon boucherie. Les cuisses de poulet et les côtes de porc sont à moins 50 pour 100. Ne ratez pas cette aubaine. Rendez-vous au rayon boucherie.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "réductions exceptionnelles au rayon boucherie",
+      "Les cuisses de poulet et les côtes de porc sont à moins 50 pour 100",
+      "Ne ratez pas cette aubaine",
+      "Rendez-vous au rayon boucherie",
+      "vous n'avez plus que quelques heures"
+    ]
   },
   {
     "question_no": 8,
@@ -93,7 +132,11 @@
       "qu'on offre du travail au chapiteau 18."
     ],
     "audio_transcript": "Bienvenue au salon Immigration Emploi Canada. Il reste des places pour la conférence Travailleur qualifié : dans quelle province immigrer ? Rendez-vous au chapiteau dix-huit.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Il reste des places",
+      "pour la conférence"
+    ]
   },
   {
     "question_no": 9,
@@ -105,7 +148,13 @@
       "pour acheter un vélo d'appartement."
     ],
     "audio_transcript": "Bonjour, j'appelle concernant l'annonce pour le vélo d'appartement 9 que vous vendez. Je suis intéressée et j'aimerais vous l'acheter s'il est toujours disponible. Je vous rappellerai ce soir. Merci.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "j'appelle concernant l'annonce pour le vélo d'appartement",
+      "Je suis intéressée",
+      "j'aimerais vous l'acheter",
+      "s'il est toujours disponible"
+    ]
   },
   {
     "question_no": 10,
@@ -117,7 +166,13 @@
       "pour organiser une fête chez ses parents."
     ],
     "audio_transcript": "Salut Lila, c'est Marie. Mes parents partent en week-end vendredi soir, donc j'aurai la maison jusqu'à dimanche soir. Ça te dit de venir ? Je vais aussi prévenir Sophia et Lucien. Je te rappelle ce soir, ciao.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Ça te dit de venir ?",
+      "j'aurai la maison jusqu'à dimanche soir",
+      "Mes parents partent en week-end vendredi soir",
+      "Je vais aussi prévenir Sophia et Lucien"
+    ]
   },
   {
     "question_no": 11,
@@ -129,7 +184,13 @@
       "pour demander à un collègue de revenir au bureau."
     ],
     "audio_transcript": "Bonjour Adama, c'est Jacques. Désolé de te déranger pendant tes vacances, mais j'ai besoin du dossier Collins. C'est super urgent, car le client me demande un rendez-vous pour après-demain. Je dois étudier le dossier, mais il n'est pas dans ton classeur. Rappelle-moi pour me dire où tu l'as mis, s'il te plaît. Merci d'avance.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "C'est super urgent",
+      "j'ai besoin du dossier Collins",
+      "il n'est pas dans ton classeur",
+      "Rappelle-moi pour me dire où tu l'as mis"
+    ]
   },
   {
     "question_no": 12,
@@ -141,7 +202,12 @@
       "pour devenir professeure."
     ],
     "audio_transcript": "Bonjour Madame Mourad, ici Laura de l'Alliance Française de Montréal. J'ai regardé votre test de français, et votre niveau vous permet d'entrer directement dans le groupe B2. La session intensive de préparation au TEF commence dans une semaine. Rappelez-moi rapidement pour finaliser votre inscription. Merci.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "votre niveau vous permet d'entrer directement dans le groupe B2",
+      "La session intensive de préparation au TEF commence dans une semaine",
+      "Rappelez-moi rapidement pour finaliser votre inscription"
+    ]
   },
   {
     "question_no": 13,
@@ -153,7 +219,13 @@
       "pour contacter une formatrice."
     ],
     "audio_transcript": "Bonjour Madame Denis, c'est Victoria Tran de la banque TD. Suite à votre entretien, j'ai le plaisir de vous annoncer que vous avez le poste. Vous serez en formation du 15 février au vingt-six février. Je vous ai envoyé un courriel avec des documents qu'il faut remplir, puis me retourner. Contactez-moi au plus vite, merci.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Suite à votre entretien",
+      "j'ai le plaisir de vous annoncer que vous avez le poste",
+      "Vous serez en formation du 15 février au vingt-six février",
+      "Je vous ai envoyé un courriel avec des documents qu'il faut remplir"
+    ]
   },
   {
     "question_no": 14,
@@ -165,7 +237,13 @@
       "pour préparer son entretien au TEF."
     ],
     "audio_transcript": "Bonjour Monsieur Courbier, ici Laurent Malounga. Mon ami Ali m'a donné votre numéro. Je me prépare à l'examen du TEF pour immigrer au Canada. Est-ce que vous auriez une place disponible ? Je vous recontacterai demain. Merci, au revoir.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je me prépare à l'examen du TEF",
+      "pour immigrer au Canada",
+      "Est-ce que vous auriez une place disponible ?",
+      "Mon ami Ali m'a donné votre numéro"
+    ]
   },
   {
     "question_no": 15,
@@ -177,7 +255,14 @@
       ""
     ],
     "audio_transcript": "Si on était en mille-neuf-cent-quatre, ça pourrait marcher facilement, mais on est en deux-mille-vingt-quatre. Ce serait vraiment dur d’imposer ça aux jeunes d’aujourd’hui parce qu’ils veulent exprimer leur identité à tout prix sur les réseaux sociaux. Mais vu l’état déplorable de la jeunesse, peut-être qu’il faut essayer. Mais honnêtement, j’ai peu d’espoir que ça marche, malheureusement.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Si on était en mille-neuf-cent-quatre, ça pourrait marcher facilement, mais on est en deux-mille-vingt-quatre",
+      "Ce serait vraiment dur d’imposer ça aux jeunes d’aujourd’hui",
+      "Mais vu l’état déplorable de la jeunesse, peut-être qu’il faut essayer",
+      "Mais honnêtement, j’ai peu d’espoir que ça marche",
+      "malheureusement"
+    ]
   },
   {
     "question_no": 16,
@@ -189,7 +274,13 @@
       ""
     ],
     "audio_transcript": "Personnellement, je pense que les jeunes ne sont pas disciplinés de nos jours. Donc, s’habiller pareil comme à l’ancienne, ça leur permettra d’avoir conscience de la vie en groupe et qu’il faut respecter les règles. Donc, c’est une bonne idée, il faut le faire.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Personnellement, je pense que les jeunes ne sont pas disciplinés de nos jours",
+      "ça leur permettra d’avoir conscience de la vie en groupe et qu’il faut respecter les règles",
+      "c’est une bonne idée",
+      "il faut le faire"
+    ]
   },
   {
     "question_no": 17,
@@ -201,7 +292,13 @@
       ""
     ],
     "audio_transcript": "Ici à Montréal, ça ne pourrait pas marcher dans les écoles publiques. Pas possible, les gens ne vont pas l’accepter, et ils auront bien raison.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "ça ne pourrait pas marcher",
+      "Pas possible",
+      "les gens ne vont pas l’accepter",
+      "ils auront bien raison"
+    ]
   },
   {
     "question_no": 18,
@@ -213,7 +310,11 @@
       ""
     ],
     "audio_transcript": "Absolument pas. J’aime mon pays. Je sais qu’il n’est pas parfait, mais comparé à la plupart des pays du monde, la qualité de vie est très bonne. Je n’irai nulle part.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Absolument pas",
+      "Je n’irai nulle part"
+    ]
   },
   {
     "question_no": 19,
@@ -225,7 +326,13 @@
       ""
     ],
     "audio_transcript": "Je suis mitigé, en fait. Je ne désire pas partir à tout prix, et puis, comme on dit, l’herbe n’est pas plus verte ailleurs. Mais si j’en ai l’occasion, je le ferai peut-être.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je suis mitigé",
+      "Je ne désire pas partir à tout prix",
+      "l’herbe n’est pas plus verte ailleurs",
+      "si j’en ai l’occasion, je le ferai peut-être"
+    ]
   },
   {
     "question_no": 20,
@@ -237,7 +344,13 @@
       ""
     ],
     "audio_transcript": "C’est mon rêve. Si je pouvais, je partirais demain, parce que franchement, j’en peux plus de la mentalité française. Les gens sont trop fermés ici.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "C’est mon rêve",
+      "Si je pouvais, je partirais demain",
+      "franchement",
+      "j’en peux plus de la mentalité française"
+    ]
   },
   {
     "question_no": 21,
@@ -249,7 +362,14 @@
       "qui offre des emplois dans le domaine du recyclage des déchets."
     ],
     "audio_transcript": "Aujourd’hui, nous mettons en lumière l’association Agir pour un avenir vert, qui s’engage passionnément pour l’environnement en Martinique. Au cœur de leurs efforts se trouve le recyclage, une pratique cruciale pour la préservation de notre écosystème. Cette association, composée de bénévoles dévoués, sensibilise la population martiniquaise à l’importance de trier et de recycler nos déchets. Leurs actions ne se limitent pas au ramassage des déchets, mais s’étendent également à l’éducation environnementale dans les écoles et les communautés locales. Leur objectif : créer une Martinique plus propre et plus durable pour les générations futures. Agir pour un avenir vert incarne l’espoir et l’engagement envers un avenir meilleur.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "s’engage passionnément pour l’environnement en Martinique",
+      "Au cœur de leurs efforts se trouve le recyclage, une pratique cruciale pour la préservation de notre écosystème",
+      "sensibilise la population martiniquaise à l’importance de trier et de recycler nos déchets",
+      "Leurs actions ne se limitent pas au ramassage des déchets, mais s’étendent également à l’éducation environnementale dans les écoles et les communautés locales",
+      "créer une Martinique plus propre et plus durable pour les générations futures"
+    ]
   },
   {
     "question_no": 22,
@@ -261,7 +381,16 @@
       "la souplesse augmente l'équilibre et par conséquent réduit les risques de chute."
     ],
     "audio_transcript": "Dans notre vie trépidante, nous négligeons souvent une pratique simple mais cruciale : s’assouplir le corps. Que ce soit par le biais du yoga, du stretching ou de simples étirements, cette activité régulière offre des bienfaits insoupçonnés. En plus de favoriser la flexibilité musculaire et de prévenir les blessures, elle libère également les tensions mentales accumulées. S’assouplir offre un moment de calme et de connexion intérieure, permettant à l’esprit de se détendre et de se recentrer. Ainsi, prenons quelques instants chaque jour pour nous étirer, pour nourrir notre corps et apaiser notre esprit. Dans cette souplesse, trouvons la clé d’un équilibre vital et d’une vie épanouie.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "cette activité régulière offre des bienfaits insoupçonnés",
+      "En plus de favoriser la flexibilité musculaire et de prévenir les blessures",
+      "elle libère également les tensions mentales accumulées",
+      "S’assouplir offre un moment de calme et de connexion intérieure",
+      "permettant à l’esprit de se détendre et de se recentrer",
+      "prenons quelques instants chaque jour",
+      "pour nous étirer, pour nourrir notre corps et apaiser notre esprit"
+    ]
   },
   {
     "question_no": 23,
@@ -273,7 +402,11 @@
       "la grève va continuer mais on doit faire attention."
     ],
     "audio_transcript": "Je suis avec le représentant du syndicat Force Travailleuse, Gérard Domé. — Bonjour monsieur Domé. — Bonjour, merci de me recevoir. Pouvez-vous nous expliquer les raisons de ce mouvement de grève ? — Bien sûr, nous protestons contre les conditions de travail précaires et les bas salaires dans notre industrie. C’est une situation préoccupante, surtout lorsque l’on considère l’importance des travailleurs dans votre secteur. — Pensez-vous que la direction soit disposée à négocier ? — Malheureusement, jusqu’à présent, les discussions ont été peu fructueuses. Nous espérons que cette grève attirera leur attention sur nos revendications. — Comment envisagez-vous l’avenir de ce mouvement ? — Nous resterons déterminés jusqu’à ce que nos demandes soient entendues. Nous sommes prêts à continuer la lutte aussi longtemps qu’il le faudra pour obtenir justice pour les travailleurs de notre industrie. — Félicitations pour votre récente victoire. Pouvez-vous nous dire ce que cela représente pour vous ? — Merci beaucoup. Remporter ce prix est une validation incroyable de tout le travail acharné que j’ai mis dans mon écriture. C’est un honneur d’être reconnu par mes pairs et de voir mon travail apprécié à ce niveau. — Votre roman a été salué pour son originalité et sa profondeur. Comment avez-vous puisé votre inspiration pour cette histoire ? — L’inspiration vient souvent de diverses sources, mais pour ce roman en particulier, j’ai été inspiré par des événements de ma propre vie ainsi que par des observations de la société qui m’entoure. J’ai essayé de créer des personnages authentiques et de les placer dans des situations complexes pour explorer des thèmes universels. — Votre succès est une source d’inspiration pour de nombreux écrivains en herbe. Avez-vous des conseils à leur donner ? — Je dirais de persévérer et de croire en votre voix unique. Écrivez avec passion et authenticité, et ne sous-estimez jamais le pouvoir de la révision et du travail acharné. Et surtout, ne laissez jamais les doutes vous arrêter.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Malheureusement, jusqu’à présent, les discussions ont été peu fructueuses",
+      "peu fructueuses"
+    ]
   },
   {
     "question_no": 24,
@@ -285,7 +418,11 @@
       "la grève se poursuivra tant qu'on n'écoutera pas les revendications des travailleurs."
     ],
     "audio_transcript": "Je suis avec le représentant du syndicat Force Travailleuse, Gérard Domé. — Bonjour monsieur Domé. — Bonjour, merci de me recevoir. Pouvez-vous nous expliquer les raisons de ce mouvement de grève ? — Bien sûr, nous protestons contre les conditions de travail précaires et les bas salaires dans notre industrie. C’est une situation préoccupante, surtout lorsque l’on considère l’importance des travailleurs dans votre secteur. — Pensez-vous que la direction soit disposée à négocier ? — Malheureusement, jusqu’à présent, les discussions ont été peu fructueuses. Nous espérons que cette grève attirera leur attention sur nos revendications. — Comment envisagez-vous l’avenir de ce mouvement ? — Nous resterons déterminés jusqu’à ce que nos demandes soient entendues. Nous sommes prêts à continuer la lutte aussi longtemps qu’il le faudra pour obtenir justice pour les travailleurs de notre industrie. — Félicitations pour votre récente victoire. Pouvez-vous nous dire ce que cela représente pour vous ? — Merci beaucoup. Remporter ce prix est une validation incroyable de tout le travail acharné que j’ai mis dans mon écriture. C’est un honneur d’être reconnu par mes pairs et de voir mon travail apprécié à ce niveau. — Votre roman a été salué pour son originalité et sa profondeur. Comment avez-vous puisé votre inspiration pour cette histoire ? — L’inspiration vient souvent de diverses sources, mais pour ce roman en particulier, j’ai été inspiré par des événements de ma propre vie ainsi que par des observations de la société qui m’entoure. J’ai essayé de créer des personnages authentiques et de les placer dans des situations complexes pour explorer des thèmes universels. — Votre succès est une source d’inspiration pour de nombreux écrivains en herbe. Avez-vous des conseils à leur donner ? — Je dirais de persévérer et de croire en votre voix unique. Écrivez avec passion et authenticité, et ne sous-estimez jamais le pouvoir de la révision et du travail acharné. Et surtout, ne laissez jamais les doutes vous arrêter.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Nous resterons déterminés jusqu’à ce que nos demandes soient entendues",
+      "Nous sommes prêts à continuer la lutte aussi longtemps qu’il le faudra pour obtenir justice pour les travailleurs de notre industrie"
+    ]
   },
   {
     "question_no": 25,
@@ -297,7 +434,11 @@
       "que son père lui ait donné un prix."
     ],
     "audio_transcript": "Je suis avec le représentant du syndicat Force Travailleuse, Gérard Domé. — Bonjour monsieur Domé. — Bonjour, merci de me recevoir. Pouvez-vous nous expliquer les raisons de ce mouvement de grève ? — Bien sûr, nous protestons contre les conditions de travail précaires et les bas salaires dans notre industrie. C’est une situation préoccupante, surtout lorsque l’on considère l’importance des travailleurs dans votre secteur. — Pensez-vous que la direction soit disposée à négocier ? — Malheureusement, jusqu’à présent, les discussions ont été peu fructueuses. Nous espérons que cette grève attirera leur attention sur nos revendications. — Comment envisagez-vous l’avenir de ce mouvement ? — Nous resterons déterminés jusqu’à ce que nos demandes soient entendues. Nous sommes prêts à continuer la lutte aussi longtemps qu’il le faudra pour obtenir justice pour les travailleurs de notre industrie. — Félicitations pour votre récente victoire. Pouvez-vous nous dire ce que cela représente pour vous ? — Merci beaucoup. Remporter ce prix est une validation incroyable de tout le travail acharné que j’ai mis dans mon écriture. C’est un honneur d’être reconnu par mes pairs et de voir mon travail apprécié à ce niveau. — Votre roman a été salué pour son originalité et sa profondeur. Comment avez-vous puisé votre inspiration pour cette histoire ? — L’inspiration vient souvent de diverses sources, mais pour ce roman en particulier, j’ai été inspiré par des événements de ma propre vie ainsi que par des observations de la société qui m’entoure. J’ai essayé de créer des personnages authentiques et de les placer dans des situations complexes pour explorer des thèmes universels. — Votre succès est une source d’inspiration pour de nombreux écrivains en herbe. Avez-vous des conseils à leur donner ? — Je dirais de persévérer et de croire en votre voix unique. Écrivez avec passion et authenticité, et ne sous-estimez jamais le pouvoir de la révision et du travail acharné. Et surtout, ne laissez jamais les doutes vous arrêter.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "C’est un honneur d’être reconnu par mes pairs et de voir mon travail apprécié à ce niveau.",
+      "Remporter ce prix est une validation incroyable de tout le travail acharné que j’ai mis dans mon écriture."
+    ]
   },
   {
     "question_no": 26,
@@ -309,7 +450,10 @@
       "sont complexes."
     ],
     "audio_transcript": "Je suis avec le représentant du syndicat Force Travailleuse, Gérard Domé. — Bonjour monsieur Domé. — Bonjour, merci de me recevoir. Pouvez-vous nous expliquer les raisons de ce mouvement de grève ? — Bien sûr, nous protestons contre les conditions de travail précaires et les bas salaires dans notre industrie. C’est une situation préoccupante, surtout lorsque l’on considère l’importance des travailleurs dans votre secteur. — Pensez-vous que la direction soit disposée à négocier ? — Malheureusement, jusqu’à présent, les discussions ont été peu fructueuses. Nous espérons que cette grève attirera leur attention sur nos revendications. — Comment envisagez-vous l’avenir de ce mouvement ? — Nous resterons déterminés jusqu’à ce que nos demandes soient entendues. Nous sommes prêts à continuer la lutte aussi longtemps qu’il le faudra pour obtenir justice pour les travailleurs de notre industrie. — Félicitations pour votre récente victoire. Pouvez-vous nous dire ce que cela représente pour vous ? — Merci beaucoup. Remporter ce prix est une validation incroyable de tout le travail acharné que j’ai mis dans mon écriture. C’est un honneur d’être reconnu par mes pairs et de voir mon travail apprécié à ce niveau. — Votre roman a été salué pour son originalité et sa profondeur. Comment avez-vous puisé votre inspiration pour cette histoire ? — L’inspiration vient souvent de diverses sources, mais pour ce roman en particulier, j’ai été inspiré par des événements de ma propre vie ainsi que par des observations de la société qui m’entoure. J’ai essayé de créer des personnages authentiques et de les placer dans des situations complexes pour explorer des thèmes universels. — Votre succès est une source d’inspiration pour de nombreux écrivains en herbe. Avez-vous des conseils à leur donner ? — Je dirais de persévérer et de croire en votre voix unique. Écrivez avec passion et authenticité, et ne sous-estimez jamais le pouvoir de la révision et du travail acharné. Et surtout, ne laissez jamais les doutes vous arrêter.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "J’ai essayé de créer des personnages authentiques et de les placer dans des situations complexes pour explorer des thèmes universels."
+    ]
   },
   {
     "question_no": 27,
@@ -321,7 +465,12 @@
       "que le public dépense trop d'argent pour regarder les Jeux Olympiques."
     ],
     "audio_transcript": "Avec moi, monsieur Pascal Fleuret, président de l’association Urgences Logement Paris. — Bonjour monsieur Fleuret, pouvez-vous nous expliquer pourquoi vous êtes en colère contre l’organisation des Jeux Olympiques à Paris ? — Bonjour, je suis vraiment indigné par le fait que l’organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société. Au lieu d’investir dans des infrastructures sportives coûteuses, nous devrions nous concentrer sur des problèmes urgents tels que le logement abordable, l’éducation et la santé. Ces ressources financières pourraient être mieux utilisées pour améliorer la vie de nos concitoyens plutôt que de servir une compétition mondiale. — Votre point de vue met en lumière des questions importantes concernant les priorités de la société. Pensez-vous que votre association puisse influencer les décisions concernant les Jeux Olympiques ? — Nous continuerons à faire pression et à sensibiliser sur cette question. Il est crucial que les autorités prennent en compte les préoccupations de la population et réévaluent leurs priorités en matière de dépenses publiques.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "je suis vraiment indigné par le fait que l’organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société",
+      "Au lieu d’investir dans des infrastructures sportives coûteuses, nous devrions nous concentrer sur des problèmes urgents tels que le logement abordable, l’éducation et la santé",
+      "Ces ressources financières pourraient être mieux utilisées pour améliorer la vie de nos concitoyens plutôt que de servir une compétition mondiale"
+    ]
   },
   {
     "question_no": 28,
@@ -333,7 +482,13 @@
       "va continuer d'agir activement pour faire entendre ses préoccupations."
     ],
     "audio_transcript": "Avec moi, monsieur Pascal Fleuret, président de l’association Urgences Logement Paris. — Bonjour monsieur Fleuret, pouvez-vous nous expliquer pourquoi vous êtes en colère contre l’organisation des Jeux Olympiques à Paris ? — Bonjour, je suis vraiment indigné par le fait que l’organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société. Au lieu d’investir dans des infrastructures sportives coûteuses, nous devrions nous concentrer sur des problèmes urgents tels que le logement abordable, l’éducation et la santé. Ces ressources financières pourraient être mieux utilisées pour améliorer la vie de nos concitoyens plutôt que de servir une compétition mondiale. — Votre point de vue met en lumière des questions importantes concernant les priorités de la société. Pensez-vous que votre association puisse influencer les décisions concernant les Jeux Olympiques ? — Nous continuerons à faire pression et à sensibiliser sur cette question. Il est crucial que les autorités prennent en compte les préoccupations de la population et réévaluent leurs priorités en matière de dépenses publiques.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Nous continuerons à faire pression et à sensibiliser sur cette question",
+      "continuerons",
+      "faire pression",
+      "sensibiliser"
+    ]
   },
   {
     "question_no": 29,
@@ -345,7 +500,21 @@
       "du consensus des professionnels au sujet du télétravail."
     ],
     "audio_transcript": "Dans un monde en perpétuelle évolution, le travail à distance est devenu une réalité pour de nombreux professionnels. Cette nouvelle façon de travailler a suscité des opinions divergentes quant à ses avantages et ses inconvénients. Pour en savoir plus, nous avons rencontré deux personnes ayant vécu cette expérience. Sophie, graphiste freelance, partage son expérience positive du travail à distance. Elle souligne que travailler depuis chez elle lui a permis de mieux gérer son temps et d’éviter les déplacements stressants. « Je me sens plus productive et plus épanouie dans mon travail. Ça m’a également donné l’opportunité de travailler avec des clients du monde entier sans être limitée par ma localisation géographique. Je peux travailler de n’importe où et pour n’importe quel client dans le monde, et franchement, c’est génial. » En revanche, pour Antoine, responsable des ventes dans une entreprise multinationale, le travail à distance a été un défi. Il exprime les difficultés rencontrées dans la communication avec son équipe et le sentiment d’isolement qu’il ressent parfois. « C’est plus difficile de séparer vie professionnelle et vie personnelle quand votre bureau c’est à la maison. La frontière entre les deux peut devenir floue et souvent, ça impacte négativement l’équilibre entre mon travail et ma vie personnelle. » Ces témoignages mettent en lumière la diversité d’expériences liées au travail à distance. Si certains y trouvent une meilleure conciliation entre vie professionnelle et personnelle, d’autres font face à des obstacles en matière de communication et d’isolement. Cela souligne l’importance de trouver un équilibre entre flexibilité et structure dans cette nouvelle façon de travailler. Les outils technologiques jouent un rôle crucial dans la facilitation de la communication et de la collaboration à distance. Cependant, il est également essentiel pour les employeurs de reconnaître les besoins individuels de leurs employés et de mettre en place des politiques qui favorisent le bien-être et la productivité. Terminons avec les mots de Laura Pervier, sociologue du travail : « Le travail à distance offre des opportunités intéressantes, mais présente également des défis uniques. Si on comprend les besoins et les préférences de chacun, il est possible de tirer le meilleur parti de cette nouvelle façon de travailler, en créant un équilibre entre flexibilité et soutien. »",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "le travail à distance est devenu une réalité pour de nombreux professionnels",
+      "Cette nouvelle façon de travailler a suscité des opinions divergentes quant à ses avantages et ses inconvénients",
+      "nous avons rencontré deux personnes ayant vécu cette expérience",
+      "Sophie, graphiste freelance, partage son expérience positive du travail à distance",
+      "travailler depuis chez elle lui a permis de mieux gérer son temps et d’éviter les déplacements stressants",
+      "Je me sens plus productive et plus épanouie dans mon travail",
+      "pour Antoine, responsable des ventes dans une entreprise multinationale, le travail à distance a été un défi",
+      "Il exprime les difficultés rencontrées dans la communication avec son équipe et le sentiment d’isolement qu’il ressent parfois",
+      "C’est plus difficile de séparer vie professionnelle et vie personnelle quand votre bureau c’est à la maison",
+      "ça impacte négativement l’équilibre entre mon travail et ma vie personnelle",
+      "Ces témoignages mettent en lumière la diversité d’expériences liées au travail à distance",
+      "Si certains y trouvent une meilleure conciliation entre vie professionnelle et personnelle, d’autres font face à des obstacles en matière de communication et d’isolement"
+    ]
   },
   {
     "question_no": 30,
@@ -357,7 +526,13 @@
       "le mieux est de réduire le télétravail pour retrouver un équilibre."
     ],
     "audio_transcript": "Dans un monde en perpétuelle évolution, le travail à distance est devenu une réalité pour de nombreux professionnels. Cette nouvelle façon de travailler a suscité des opinions divergentes quant à ses avantages et ses inconvénients. Pour en savoir plus, nous avons rencontré deux personnes ayant vécu cette expérience. Sophie, graphiste freelance, partage son expérience positive du travail à distance. Elle souligne que travailler depuis chez elle lui a permis de mieux gérer son temps et d’éviter les déplacements stressants. « Je me sens plus productive et plus épanouie dans mon travail. Ça m’a également donné l’opportunité de travailler avec des clients du monde entier sans être limitée par ma localisation géographique. Je peux travailler de n’importe où et pour n’importe quel client dans le monde, et franchement, c’est génial. » En revanche, pour Antoine, responsable des ventes dans une entreprise multinationale, le travail à distance a été un défi. Il exprime les difficultés rencontrées dans la communication avec son équipe et le sentiment d’isolement qu’il ressent parfois. « C’est plus difficile de séparer vie professionnelle et vie personnelle quand votre bureau c’est à la maison. La frontière entre les deux peut devenir floue et souvent, ça impacte négativement l’équilibre entre mon travail et ma vie personnelle. » Ces témoignages mettent en lumière la diversité d’expériences liées au travail à distance. Si certains y trouvent une meilleure conciliation entre vie professionnelle et personnelle, d’autres font face à des obstacles en matière de communication et d’isolement. Cela souligne l’importance de trouver un équilibre entre flexibilité et structure dans cette nouvelle façon de travailler. Les outils technologiques jouent un rôle crucial dans la facilitation de la communication et de la collaboration à distance. Cependant, il est également essentiel pour les employeurs de reconnaître les besoins individuels de leurs employés et de mettre en place des politiques qui favorisent le bien-être et la productivité. Terminons avec les mots de Laura Pervier, sociologue du travail : « Le travail à distance offre des opportunités intéressantes, mais présente également des défis uniques. Si on comprend les besoins et les préférences de chacun, il est possible de tirer le meilleur parti de cette nouvelle façon de travailler, en créant un équilibre entre flexibilité et soutien. »",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "il est également essentiel pour les employeurs de reconnaître les besoins individuels de leurs employés et de mettre en place des politiques qui favorisent le bien-être et la productivité",
+      "Ces témoignages mettent en lumière la diversité d’expériences liées au travail à distance",
+      "Si certains y trouvent une meilleure conciliation entre vie professionnelle et personnelle, d’autres font face à des obstacles",
+      "Cela souligne l’importance de trouver un équilibre entre flexibilité et structure dans cette nouvelle façon de travailler"
+    ]
   },
   {
     "question_no": 31,
@@ -369,7 +544,12 @@
       "ce film russe a été tourné en Sibérie."
     ],
     "audio_transcript": "Et si on se faisait une soirée cinéma à la maison ? Les chemins de la liberté, réalisé par Peter Where, est un véritable bijou cinématographique. C’est l’histoire vraie d’un groupe de prisonniers qui s’est évadé d’un goulag sibérien pendant la Seconde Guerre mondiale. Embarqué dans cette épopée poignante où l’espoir et la résilience défient l’adversité, porté par un casting exceptionnel avec Jim Sturgeon, D’Harris et Colin Farell, ce film vous transportera au cœur d’une aventure humaine bouleversante. Ne manquez pas cette diffusion ce soir sur France 2 à 21h05.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "C’est l’histoire vraie d’un groupe de prisonniers",
+      "réalisé par Peter Where, est un véritable bijou cinématographique",
+      "histoire vraie"
+    ]
   },
   {
     "question_no": 32,
@@ -381,7 +561,15 @@
       "la plainte de l'ONG a pour but de prouver la responsabilité des dirigeants concernant la destruction de l'environnement."
     ],
     "audio_transcript": "Une organisation non gouvernementale décide de porter plainte contre les dirigeants de grandes entreprises pour leurs pratiques néfastes envers l’environnement. Cette ONG, déterminée à défendre notre planète, affirme que les dirigeants de ces entreprises sont responsables de dégradations écologiques graves. Leur action vise à tenir ces dirigeants pour responsables de leurs actes, plaidant pour des mesures concrètes en faveur de la préservation de l’environnement. Cette démarche soulève des questions cruciales sur la responsabilité des entreprises dans la lutte contre le changement climatique et la protection de notre écosystème. Restez à l’écoute pour les derniers développements de cette affaire qui pourrait bien marquer un tournant dans la prise de conscience collective en matière d’environnement.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Une organisation non gouvernementale décide de porter plainte contre les dirigeants de grandes entreprises",
+      "pour leurs pratiques néfastes envers l’environnement",
+      "les dirigeants de ces entreprises sont responsables de dégradations écologiques graves",
+      "Leur action vise à tenir ces dirigeants pour responsables de leurs actes",
+      "plaidant pour des mesures concrètes en faveur de la préservation de l’environnement",
+      "la responsabilité des entreprises dans la lutte contre le changement climatique et la protection de notre écosystème"
+    ]
   },
   {
     "question_no": 33,
@@ -393,7 +581,17 @@
       "annonce qu'on discutera des résultats au dernier trimestre."
     ],
     "audio_transcript": "Bonjour à tous, merci d’être présents aujourd’hui. Avant de commencer notre réunion, je voudrais rappeler l’ordre du jour. Tout d’abord, nous discuterons des résultats du dernier trimestre et des prochaines étapes pour atteindre nos objectifs. Ensuite, nous passerons en revue les projets en cours et les éventuels obstacles rencontrés. Enfin, nous aborderons les questions concernant les ressources humaines et les besoins en recrutement. Je vous encourage à partager vos idées et préoccupations tout au long de la réunion. En plus de l’ordre du jour, je tiens à tous vous féliciter pour le travail accompli récemment. Vos efforts ont été remarquables et ont contribué au succès de notre entreprise. Merci pour votre engagement et votre dévouement.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Avant de commencer notre réunion, je voudrais rappeler l’ordre du jour",
+      "Tout d’abord, nous discuterons des résultats du dernier trimestre et des prochaines étapes pour atteindre nos objectifs",
+      "Ensuite, nous passerons en revue les projets en cours et les éventuels obstacles rencontrés",
+      "Enfin, nous aborderons les questions concernant les ressources humaines et les besoins en recrutement",
+      "Je vous encourage à partager vos idées et préoccupations tout au long de la réunion",
+      "En plus de l’ordre du jour, je tiens à tous vous féliciter pour le travail accompli récemment",
+      "Vos efforts ont été remarquables",
+      "ont contribué au succès de notre entreprise"
+    ]
   },
   {
     "question_no": 34,
@@ -405,7 +603,14 @@
       "les bouquinistes vont changer de logement durant les Jeux Olympiques."
     ],
     "audio_transcript": "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement pour les Jeux Olympiques de 2024. Cette décision fait suite à des mois de débats et de protestations. Les bouquinistes, symboles emblématiques de la capitale, ont exprimé leur inquiétude quant à la préservation de ce patrimoine culturel unique. Le président Macron a souligné l’importance de préserver cette tradition pour les générations futures, affirmant que les bouquinistes font partie intégrante du paysage parisien. Cette décision est saluée comme une victoire pour la préservation de l’identité culturelle de Paris et le respect de son histoire.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement",
+      "Cette décision fait suite à des mois de débats et de protestations",
+      "Le président Macron a souligné l’importance de préserver cette tradition",
+      "les bouquinistes font partie intégrante du paysage parisien",
+      "Cette décision est saluée comme une victoire pour la préservation de l’identité culturelle de Paris"
+    ]
   },
   {
     "question_no": 35,
@@ -417,7 +622,11 @@
       "l'anatomie est une discipline née durant la Renaissance."
     ],
     "audio_transcript": "L’exposition Renaissance aujourd’hui sera accessible dès demain et jusqu’en septembre 2024. Venez découvrir l’effervescence artistique et intellectuelle de cette période charnière de l’histoire. Des chefs-d’œuvre de Léonard de Vinci, Michel-Ange et Raphaël sont exposés, témoignant du génie créatif de la Renaissance. Explorez les découvertes scientifiques révolutionnaires qui ont façonné le monde moderne. De la naissance de l’anatomie à l’avènement de la perspective en peinture, plongez dans l’esprit d’innovation qui caractérise la Renaissance. Ne manquez pas cette exposition captivante, ouverte à tous, pour un voyage dans le temps au cœur de l’âge d’or de la culture européenne. Rendez-vous à la galerie d’art dès demain pour vivre cette expérience unique.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "sera accessible dès demain et jusqu’en septembre 2024",
+      "De la naissance de l’anatomie à l’avènement de la perspective en peinture"
+    ]
   },
   {
     "question_no": 36,
@@ -429,7 +638,13 @@
       "les accidents de la route augmentent parce qu'il n'y a pas assez de police."
     ],
     "audio_transcript": "Passons au sujet suivant, la sécurité routière à Paris. Selon l’enquête récente menée par notre équipe, les résultats sont alarmants. Le nombre d’accidents de la route dans la capitale a augmenté de manière significative au cours de l’année dernière. Les principales causes identifiées incluent l’excès de vitesse, l’usage du téléphone au volant et le non-respect des feux rouges. Les autorités mettent en garde contre ces comportements dangereux et appellent à une plus grande vigilance sur les routes parisiennes. Pour remédier à cette situation, des mesures renforcées de contrôle et de sensibilisation seront mises en place. Il est essentiel que chacun prenne ses responsabilités pour assurer la sécurité de tous.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "l’usage du téléphone au volant",
+      "Les principales causes identifiées incluent l’excès de vitesse, l’usage du téléphone au volant et le non-respect des feux rouges",
+      "Le nombre d’accidents de la route dans la capitale a augmenté de manière significative",
+      "les résultats sont alarmants"
+    ]
   },
   {
     "question_no": 37,
@@ -441,7 +656,12 @@
       "les Canadiens deviennent insensibles aux effets de la nourriture trop grasse."
     ],
     "audio_transcript": "Selon les données les plus récentes, près de 40 % des Canadiens consomment au moins un repas dans un fast-food chaque jour. Ce chiffre alarmant soulève des questions sur nos habitudes alimentaires et leurs impacts sur notre santé. Parmi les jeunes Canadiens âgés de 18 à 34 ans, ce pourcentage grimpe même à 60 %, ce qui représente une tendance préoccupante vers une alimentation peu équilibrée et souvent riche en calories vides. Les repas rapides, souvent riches en gras, en sucre et en sel, contribuent à l’obésité et à de nombreux problèmes de santé, comme les maladies cardiovasculaires et le diabète. Il est donc essentiel de sensibiliser la population aux dangers de ses choix alimentaires. Restez à l’écoute pour des conseils et des alternatives pour une alimentation plus saine et équilibrée.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Parmi les jeunes Canadiens âgés de 18 à 34 ans, ce pourcentage grimpe même à 60 %",
+      "consomment au moins un repas dans un fast-food chaque jour",
+      "près de 40 % des Canadiens consomment au moins un repas dans un fast-food chaque jour"
+    ]
   },
   {
     "question_no": 38,
@@ -453,7 +673,16 @@
       "les secteurs qui souffrent le plus des démissions en masse sont la restauration et le commerce de détail."
     ],
     "audio_transcript": "Près de 4 000 000 d’Américains ont démissionné en juillet, un chiffre historiquement élevé. La « grande démission » fait référence à la tendance où un nombre croissant de travailleurs quittent leur emploi. Les raisons sont multiples : désir de changement de carrière, recherche de meilleures conditions de travail ou besoin accru de flexibilité et d’équilibre entre la vie professionnelle et la vie personnelle. Cette tendance pourrait avoir des répercussions significatives sur l’économie, avec des secteurs particulièrement touchés comme la restauration et le commerce de détail. Les entreprises doivent désormais relever le défi de retenir leurs employés. Cette situation suscite des questionnements quant à l’avenir du marché du travail américain.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Près de 4 000 000 d’Américains ont démissionné en juillet",
+      "un chiffre historiquement élevé",
+      "La « grande démission » fait référence à la tendance où un nombre croissant de travailleurs quittent leur emploi",
+      "Les raisons sont multiples : désir de changement de carrière, recherche de meilleures conditions de travail ou besoin accru de flexibilité et d’équilibre entre la vie professionnelle et la vie personnelle",
+      "Cette tendance pourrait avoir des répercussions significatives sur l’économie",
+      "avec des secteurs particulièrement touchés comme la restauration et le commerce de détail",
+      "Les entreprises doivent désormais relever le défi de retenir leurs employés"
+    ]
   },
   {
     "question_no": 39,
@@ -465,7 +694,21 @@
       "le rapport donne les coordonnées des différents acteurs impliqués dans la promotion de la jeunesse."
     ],
     "audio_transcript": "Le Conseil économique et social du Sénégal a publié son rapport sur la jeunesse. Ce dernier met en lumière les défis auxquels la jeunesse sénégalaise est confrontée, notamment en matière d’emploi, d’éducation et d’accès aux opportunités économiques. Il souligne l’urgence d’adopter des politiques et des programmes visant à améliorer la situation des jeunes dans le pays. Parmi les principales recommandations du rapport, on retrouve la nécessité de renforcer les programmes de formation professionnelle et d’apprentissage afin de mieux préparer les jeunes au marché du travail. Il insiste également sur l’importance de promouvoir l’entrepreneuriat des jeunes et de soutenir la création d’emplois dans les secteurs à fort potentiel de croissance. Ce rapport appelle également à une meilleure coordination entre les différents acteurs impliqués dans la promotion de la jeunesse, y compris le gouvernement, les entreprises et la société civile. Il souligne l’importance d’adopter une approche inclusive et participative pour garantir que les politiques et les programmes répondent aux besoins réels des jeunes Sénégalais.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Le Conseil économique et social du Sénégal a publié son rapport sur la jeunesse",
+      "met en lumière les défis auxquels la jeunesse sénégalaise est confrontée",
+      "notamment en matière d’emploi, d’éducation et d’accès aux opportunités économiques",
+      "Il souligne l’urgence d’adopter des politiques et des programmes visant à améliorer la situation des jeunes",
+      "Parmi les principales recommandations du rapport, on retrouve la nécessité de renforcer les programmes de formation professionnelle et d’apprentissage",
+      "afin de mieux préparer les jeunes au marché du travail",
+      "Il insiste également sur l’importance de promouvoir l’entrepreneuriat des jeunes",
+      "soutenir la création d’emplois dans les secteurs à fort potentiel de croissance",
+      "Ce rapport appelle également à une meilleure coordination entre les différents acteurs impliqués dans la promotion de la jeunesse",
+      "y compris le gouvernement, les entreprises et la société civile",
+      "Il souligne l’importance d’adopter une approche inclusive et participative",
+      "pour garantir que les politiques et les programmes répondent aux besoins réels des jeunes Sénégalais"
+    ]
   },
   {
     "question_no": 40,
@@ -477,6 +720,14 @@
       "les autorités qui ne prennent pas la mesure des risques liés à ces arnaques."
     ],
     "audio_transcript": "Plongeons dans le phénomène des arnaques téléphoniques qui sévissent en France. Ces arnaques prennent différentes formes, allant des appels frauduleux de faux centres d’appels prétendant représenter des entreprises ou des institutions publiques légitimes aux tentatives de phishing visant à obtenir des informations personnelles et bancaires des victimes. Ces arnaques peuvent avoir des conséquences dévastatrices pour les victimes, allant de la perte d’argent à l’usurpation d’identité. Il est donc essentiel d’être vigilant et de ne jamais divulguer d’informations sensibles lors d’appels téléphoniques non sollicités. Les autorités mettent en garde contre ces pratiques frauduleuses et encouragent les consommateurs à signaler tout appel suspect aux services compétents. Des mesures sont également prises pour sensibiliser le public aux risques liés aux arnaques téléphoniques et pour renforcer la lutte contre ces activités illégales.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Ces arnaques prennent différentes formes, allant des appels frauduleux de faux centres d’appels prétendant représenter des entreprises ou des institutions publiques légitimes aux tentatives de phishing visant à obtenir des informations personnelles et bancaires des victimes",
+      "Ces arnaques peuvent avoir des conséquences dévastatrices pour les victimes, allant de la perte d’argent à l’usurpation d’identité",
+      "de la perte d’argent à l’usurpation d’identité",
+      "Il est donc essentiel d’être vigilant et de ne jamais divulguer d’informations sensibles lors d’appels téléphoniques non sollicités",
+      "Les autorités mettent en garde contre ces pratiques frauduleuses et encouragent les consommateurs à signaler tout appel suspect aux services compétents",
+      "Des mesures sont également prises pour sensibiliser le public aux risques liés aux arnaques téléphoniques et pour renforcer la lutte contre ces activités illégales"
+    ]
   }
 ]

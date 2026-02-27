@@ -9,7 +9,11 @@
       "D"
     ],
     "audio_transcript": "Transcription : — Lucie, tu as déjà prévu ce que tu feras pendant les vacances de Noël ? — Oui, je pense partir en randonnée en montagne. J'ai envie de me reconnecter avec la nature.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "partir en randonnée en montagne",
+      "me reconnecter avec la nature"
+    ]
   },
   {
     "question_no": 2,
@@ -21,7 +25,11 @@
       "D"
     ],
     "audio_transcript": "Transcription : — Tu pourrais fermer la fenêtre, s'il te plaît ? J'ai un peu froid. — Oui, bien sûr.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "fermer la fenêtre",
+      "J'ai un peu froid"
+    ]
   },
   {
     "question_no": 3,
@@ -33,7 +41,13 @@
       "D"
     ],
     "audio_transcript": "Transcription : — Tu savais que le théâtre propose des ateliers de marionnettes pour adultes cette année ? Tu veux essayer ? — J'ai jamais fait ça, donc oui, pourquoi pas ? Ça doit être amusant.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "le théâtre",
+      "ateliers de marionnettes",
+      "pour adultes",
+      "marionnettes"
+    ]
   },
   {
     "question_no": 4,
@@ -45,7 +59,13 @@
       "D"
     ],
     "audio_transcript": "Transcription : — Salut Marion, tu sais comment tu vas aller à la conférence ? — Oui, je n'irai pas en voiture parce que ce sera trop long. En plus, l'essence coûte cher et puis je serai trop fatigué. J'irai en train. C'est plus long que l'avion, mais c'est moins cher.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "je n'irai pas en voiture",
+      "J'irai en train",
+      "C'est plus long que l'avion",
+      "c'est moins cher"
+    ]
   },
   {
     "question_no": 5,
@@ -57,7 +77,13 @@
       "la fermeture du parc pour des travaux de maintenance."
     ],
     "audio_transcript": "Transcription : Chers visiteurs, nous vous rappelons qu'il est strictement interdit de nourrir les oiseaux dans le parc. Merci de respecter cette règle pour la préservation de la faune locale.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "il est strictement interdit de nourrir les oiseaux dans le parc",
+      "strictement interdit",
+      "nourrir les oiseaux",
+      "Merci de respecter cette règle"
+    ]
   },
   {
     "question_no": 6,
@@ -69,7 +95,12 @@
       "la piscine fermera définitivement demain."
     ],
     "audio_transcript": "Transcription : Nous vous informons que la piscine sera fermée pour maintenance à partir de demain. Nous vous remercions de votre compréhension et vous prions de bien vouloir consulter les horaires de réouverture à l'accueil.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "la piscine sera fermée",
+      "à partir de demain",
+      "consulter les horaires de réouverture"
+    ]
   },
   {
     "question_no": 7,
@@ -81,7 +112,10 @@
       "la fermeture exceptionnelle de la boutique à 18h ce samedi pour inventaire."
     ],
     "audio_transcript": "Transcription : Chers clients, la direction vous informe que la boutique fermera exceptionnellement à dix-huit heures ce samedi pour inventaire. Merci de votre compréhension.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "la boutique fermera exceptionnellement à dix-huit heures ce samedi pour inventaire"
+    ]
   },
   {
     "question_no": 8,
@@ -93,7 +127,11 @@
       "les trains seront supprimés ce week-end pour un festival."
     ],
     "audio_transcript": "Transcription : En raison de travaux sur la ligne, les horaires des trains de ce week-end seront modifiés. Veuillez consulter le site internet ou l'application mobile pour plus d'informations. Merci de votre compréhension.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "En raison de travaux sur la ligne",
+      "les horaires des trains de ce week-end seront modifiés"
+    ]
   },
   {
     "question_no": 9,
@@ -105,7 +143,12 @@
       "pour demander des nouvelles de Paris à son frère."
     ],
     "audio_transcript": "Transcription : Salut petit frère. Je t'appelle juste pour savoir si tu vas bien et comment ça se passe dans ta nouvelle ville. J'espère que Paris ne te manque pas trop. En tout cas, toi tu me manques beaucoup. Appelle-moi quand tu auras un moment.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je t'appelle juste pour savoir si tu vas bien et comment ça se passe dans ta nouvelle ville",
+      "savoir si tu vas bien",
+      "comment ça se passe dans ta nouvelle ville"
+    ]
   },
   {
     "question_no": 10,
@@ -117,7 +160,12 @@
       "pour demander à Martin de préparer le dossier Soralis."
     ],
     "audio_transcript": "Transcription : Bonjour Martin, j'ai laissé le dossier Soraly sur mon bureau, en dessous du dictionnaire. Il est dans une pochette bleue.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "j'ai laissé le dossier Soraly sur mon bureau",
+      "en dessous du dictionnaire",
+      "Il est dans une pochette bleue"
+    ]
   },
   {
     "question_no": 11,
@@ -129,7 +177,15 @@
       "pour informer qu'un portefeuille a été oublié à la caisse de la librairie."
     ],
     "audio_transcript": "Transcription : Bonjour, c'est monsieur Dupont de la librairie Le Savoir. Vous avez oublié votre portefeuille à la caisse. Je l'ai laissé à Marie, la caissière, donc n'hésitez pas à venir le récupérer avant la fermeture de la librairie. Nous sommes fermés demain, donc si vous ne venez pas, ça attendra après-demain.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Vous avez oublié votre portefeuille à la caisse",
+      "Je l'ai laissé à Marie, la caissière",
+      "n'hésitez pas à venir le récupérer",
+      "avant la fermeture de la librairie",
+      "Nous sommes fermés demain",
+      "si vous ne venez pas, ça attendra après-demain"
+    ]
   },
   {
     "question_no": 12,
@@ -141,7 +197,12 @@
       "pour annuler la visite prévue demain."
     ],
     "audio_transcript": "Transcription : Bonjour madame Leroy, ici Nathalie de l'agence immobilière Logiconfort. Je vous contacte à propos de votre visite prévue demain à 14 heures. Est-il possible de repousser d'une demi-heure ? Rappelez-moi ou envoyez-moi un texto pour confirmer, s'il vous plaît. Merci.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je vous contacte à propos de votre visite prévue demain à 14 heures",
+      "Est-il possible de repousser d'une demi-heure ?",
+      "Rappelez-moi ou envoyez-moi un texto pour confirmer"
+    ]
   },
   {
     "question_no": 13,
@@ -153,7 +214,12 @@
       "pour informer que l'appartement sera disponible dans un mois."
     ],
     "audio_transcript": "Transcription : Bonjour, c'est monsieur Leblanc concernant la location de l'appartement 3 pièces au deuxième étage au vingt-et-un rue de Byzance. J'ai le plaisir de vous informer qu'il est à vous. Vous pouvez récupérer les clés dès aujourd'hui à l'agence. À bientôt.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "J'ai le plaisir de vous informer qu'il est à vous",
+      "Vous pouvez récupérer les clés dès aujourd'hui à l'agence",
+      "la location de l'appartement 3 pièces au deuxième étage au vingt-et-un rue de Byzance"
+    ]
   },
   {
     "question_no": 14,
@@ -165,7 +231,13 @@
       "pour informer Julie de l'annulation de la pendaison de crémaillère."
     ],
     "audio_transcript": "Transcription : Salut Julie, j'espère que tu vas bien. Je voulais savoir si tu es toujours disponible pour ma pendaison de crémaillère. On se retrouve chez moi ce soir à partir de 20 heures. Pour rappel, mon nouvel appartement est au troisième étage, porte 307. À ce soir.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je voulais savoir si tu es toujours disponible pour ma pendaison de crémaillère",
+      "ma pendaison de crémaillère",
+      "On se retrouve chez moi ce soir à partir de 20 heures",
+      "mon nouvel appartement est au troisième étage, porte 307"
+    ]
   },
   {
     "question_no": 15,
@@ -177,7 +249,14 @@
       "sans opinion."
     ],
     "audio_transcript": "Transcription : Je pense que c'est une excellente idée. Ils favorisent l'entraide entre voisins, et permettent de cultiver des produits locaux. Ça peut vraiment renforcer le lien social dans le quartier.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Je pense que c'est une excellente idée",
+      "excellente idée",
+      "Ils favorisent l'entraide entre voisins",
+      "permettent de cultiver des produits locaux",
+      "Ça peut vraiment renforcer le lien social dans le quartier"
+    ]
   },
   {
     "question_no": 16,
@@ -189,7 +268,13 @@
       "sans opinion."
     ],
     "audio_transcript": "Transcription : Je trouve que ça peut être utile, mais il y a aussi des problèmes de gestion et de sécurité à prendre en compte. Je suis plutôt favorable, mais avec des réserves.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je trouve que ça peut être utile",
+      "il y a aussi des problèmes de gestion et de sécurité à prendre en compte",
+      "Je suis plutôt favorable",
+      "mais avec des réserves"
+    ]
   },
   {
     "question_no": 17,
@@ -201,7 +286,13 @@
       "sans opinion."
     ],
     "audio_transcript": "Transcription : Je ne suis pas convaincu. Je pense que les jardins communautaires peuvent entraîner des conflits entre les usagers. En plus, ça demande beaucoup d'entretien. À mon avis, les gens auront du mal à gérer tout ça.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je ne suis pas convaincu",
+      "peuvent entraîner des conflits entre les usagers",
+      "ça demande beaucoup d'entretien",
+      "les gens auront du mal à gérer tout ça"
+    ]
   },
   {
     "question_no": 18,
@@ -213,7 +304,12 @@
       "n'a pas d'avis sur la question."
     ],
     "audio_transcript": "Transcription : Je ne vois pas vraiment l'intérêt. Je pense que les spectacles de rue ne sont pas essentiels, et que les ressources pourraient être mieux utilisées ailleurs. En plus, n'importe qui pourrait se mettre dans la rue, même pour mendier, et dire que c'est un spectacle.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je ne vois pas vraiment l'intérêt",
+      "les spectacles de rue ne sont pas essentiels",
+      "les ressources pourraient être mieux utilisées ailleurs"
+    ]
   },
   {
     "question_no": 19,
@@ -225,7 +321,12 @@
       "n'a pas d'avis sur la question."
     ],
     "audio_transcript": "Transcription : Les spectacles de rue ? Personnellement, je ne m'arrête jamais pour les regarder, donc je ne sais pas, je n'ai pas d'avis sur la question.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "je ne m'arrête jamais pour les regarder",
+      "donc je ne sais pas",
+      "je n'ai pas d'avis sur la question"
+    ]
   },
   {
     "question_no": 20,
@@ -237,7 +338,13 @@
       "n'a pas d'avis sur la question."
     ],
     "audio_transcript": "Transcription : Je pense que c'est très important. Les spectacles de rue enrichissent la vie urbaine et rendent la ville plus humaine. On en a besoin.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Je pense que c'est très important",
+      "très important",
+      "Les spectacles de rue enrichissent la vie urbaine et rendent la ville plus humaine",
+      "On en a besoin"
+    ]
   },
   {
     "question_no": 21,
@@ -249,7 +356,17 @@
       "d'organisation des marchés de producteurs locaux."
     ],
     "audio_transcript": "Transcription : Aujourd'hui, je vous emmène à la découverte d'un projet de revitalisation urbaine en plein cœur de Lyon. Une ancienne usine désaffectée a été transformée en un espace culturel dynamique où se mêlent atelier d'artistes, galeries d'exposition et café littéraire. Ce projet, soutenu par la municipalité et financé en partie par des fonds européens, a non seulement redonné vie à un quartier autrefois délaissé, mais a aussi créé un lieu de rencontre et de partage pour les habitants de la ville. En réhabilitant ce patrimoine industriel, les initiateurs du projet ont su préserver une partie de l'histoire locale, tout en répondant aux besoins culturels contemporains. C'est un bel exemple de comment la culture peut revitaliser nos centres urbains et renforcer le tissu social.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Une ancienne usine désaffectée a été transformée en un espace culturel dynamique",
+      "où se mêlent atelier d'artistes, galeries d'exposition et café littéraire",
+      "Ce projet, soutenu par la municipalité et financé en partie par des fonds européens",
+      "a non seulement redonné vie à un quartier autrefois délaissé",
+      "a aussi créé un lieu de rencontre et de partage pour les habitants de la ville",
+      "En réhabilitant ce patrimoine industriel",
+      "les initiateurs du projet ont su préserver une partie de l'histoire locale",
+      "tout en répondant aux besoins culturels contemporains"
+    ]
   },
   {
     "question_no": 22,
@@ -261,7 +378,14 @@
       "la marche en nature nécessite un équipement spécial."
     ],
     "audio_transcript": "Transcription : Chers auditeurs, aujourd'hui, je vous invite à redécouvrir les bienfaits de la marche en pleine nature. Dans un monde où tout va de plus en plus vite, prendre le temps de marcher dans un parc, une forêt ou même le long de la plage est un véritable remède pour l'esprit et le corps. Les scientifiques s'accordent à dire que marcher dans la nature réduit le stress, améliore l'humeur et stimule la créativité. En plus, cela renforce le système immunitaire et favorise la santé cardiaque. Que vous choisissiez de vous balader seul pour méditer ou en compagnie pour partager un moment agréable, la marche est une activité accessible à tous et ne nécessite aucun équipement particulier. Alors, la prochaine fois que vous aurez une pause, pourquoi ne pas chausser vos baskets et partir à l'aventure ?",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "les bienfaits de la marche en pleine nature",
+      "marcher dans la nature réduit le stress, améliore l'humeur et stimule la créativité",
+      "cela renforce le système immunitaire et favorise la santé cardiaque",
+      "la marche est une activité accessible à tous",
+      "ne nécessite aucun équipement particulier"
+    ]
   },
   {
     "question_no": 23,
@@ -273,7 +397,14 @@
       "les expositions statiques sont suffisantes pour éduquer les jeunes."
     ],
     "audio_transcript": "Transcription : Ce soir, nous recevons le directeur du musée des sciences de Paris, monsieur Julien Leblanc. — Bonsoir monsieur Leblanc. — Bonsoir madame Moreau. Le musée a récemment lancé une initiative innovante pour attirer les jeunes vers les sciences. Vous avez déclaré que la science est l'avenir et que notre musée doit être à l'avant-garde pour inspirer les nouvelles générations. Est-ce difficile d'attirer les jeunes vers la science ? — Le défi principal est de rendre la science accessible et passionnante pour tous. Nous devons créer des expériences interactives qui captivent l'imagination des jeunes et leur montrent que la science peut être amusante et enrichissante. Et pourquoi avez-vous décidé de ne pas vous concentrer uniquement sur les expositions traditionnelles ? — Nous devons évoluer avec notre public. Les expositions statiques ont leur place, mais pour réellement engager les jeunes, il est crucial d'intégrer des technologies immersives comme la réalité virtuelle, et aussi des ateliers pratiques où ils peuvent manipuler et expérimenter.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Nous devons créer des expériences interactives qui captivent l'imagination des jeunes",
+      "la science peut être amusante et enrichissante",
+      "Les expositions statiques ont leur place, mais pour réellement engager les jeunes, il est crucial d'intégrer des technologies immersives",
+      "des ateliers pratiques où ils peuvent manipuler et expérimenter",
+      "Le défi principal est de rendre la science accessible et passionnante pour tous"
+    ]
   },
   {
     "question_no": 24,
@@ -285,7 +416,14 @@
       "les expositions traditionnelles ne sont plus pertinentes."
     ],
     "audio_transcript": "Transcription : Ce soir, nous recevons le directeur du musée des sciences de Paris, monsieur Julien Leblanc. — Bonsoir monsieur Leblanc. — Bonsoir madame Moreau. Le musée a récemment lancé une initiative innovante pour attirer les jeunes vers les sciences. Vous avez déclaré que la science est l'avenir et que notre musée doit être à l'avant-garde pour inspirer les nouvelles générations. Est-ce difficile d'attirer les jeunes vers la science ? — Le défi principal est de rendre la science accessible et passionnante pour tous. Nous devons créer des expériences interactives qui captivent l'imagination des jeunes et leur montrent que la science peut être amusante et enrichissante. Et pourquoi avez-vous décidé de ne pas vous concentrer uniquement sur les expositions traditionnelles ? — Nous devons évoluer avec notre public. Les expositions statiques ont leur place, mais pour réellement engager les jeunes, il est crucial d'intégrer des technologies immersives comme la réalité virtuelle, et aussi des ateliers pratiques où ils peuvent manipuler et expérimenter.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Nous devons évoluer avec notre public",
+      "Les expositions statiques ont leur place",
+      "pour réellement engager les jeunes, il est crucial d'intégrer des technologies immersives comme la réalité virtuelle, et aussi des ateliers pratiques où ils peuvent manipuler et expérimenter",
+      "créer des expériences interactives qui captivent l'imagination des jeunes",
+      "Le défi principal est de rendre la science accessible et passionnante pour tous"
+    ]
   },
   {
     "question_no": 25,
@@ -297,7 +435,14 @@
       "la pratique sportive est essentielle pour le développement physique et mental des jeunes."
     ],
     "audio_transcript": "Transcription : Professeur Amouna Diouf, vous donnez une conférence à l'université de l'Île sur l'importance du sport dans l'éducation moderne. Pourquoi insister sur le sport dans un monde où la technologie est omniprésente ? — Le problème, c'est que nous orientons souvent les jeunes vers des activités sédentaires, mais on oublie que le sport est crucial pour leur développement physique et mental. Par exemple, des études montrent que l'activité physique améliore non seulement la condition physique, mais aussi les performances scolaires, en favorisant la concentration et la gestion du stress. J'imagine que c'est compliqué de convaincre les établissements scolaires d'intégrer un peu plus le sport dans leur programme. — Surtout dans les écoles qui privilégient les matières académiques. Pourtant, le sport n'est pas seulement une question de condition physique, c'est aussi un moyen d'apprendre des valeurs comme l'esprit d'équipe et la persévérance. Donc je pense qu'encourager les jeunes à pratiquer régulièrement, c'est les préparer à affronter les défis de la vie avec résilience.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "le sport est crucial pour leur développement physique et mental",
+      "l'activité physique améliore non seulement la condition physique, mais aussi les performances scolaires",
+      "en favorisant la concentration et la gestion du stress",
+      "le sport n'est pas seulement une question de condition physique, c'est aussi un moyen d'apprendre des valeurs comme l'esprit d'équipe et la persévérance",
+      "encourager les jeunes à pratiquer régulièrement, c'est les préparer à affronter les défis de la vie avec résilience"
+    ]
   },
   {
     "question_no": 26,
@@ -309,7 +454,15 @@
       "n'accordent aucune importance à l'enseignement des matières académiques."
     ],
     "audio_transcript": "Transcription : Professeur Amouna Diouf, vous donnez une conférence à l'université de l'Île sur l'importance du sport dans l'éducation moderne. Pourquoi insister sur le sport dans un monde où la technologie est omniprésente ? — Le problème, c'est que nous orientons souvent les jeunes vers des activités sédentaires, mais on oublie que le sport est crucial pour leur développement physique et mental. Par exemple, des études montrent que l'activité physique améliore non seulement la condition physique, mais aussi les performances scolaires, en favorisant la concentration et la gestion du stress. J'imagine que c'est compliqué de convaincre les établissements scolaires d'intégrer un peu plus le sport dans leur programme. — Surtout dans les écoles qui privilégient les matières académiques. Pourtant, le sport n'est pas seulement une question de condition physique, c'est aussi un moyen d'apprendre des valeurs comme l'esprit d'équipe et la persévérance. Donc je pense qu'encourager les jeunes à pratiquer régulièrement, c'est les préparer à affronter les défis de la vie avec résilience.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "nous orientons souvent les jeunes vers des activités sédentaires",
+      "on oublie que le sport est crucial pour leur développement physique et mental",
+      "l'activité physique améliore non seulement la condition physique, mais aussi les performances scolaires",
+      "J'imagine que c'est compliqué de convaincre les établissements scolaires d'intégrer un peu plus le sport dans leur programme",
+      "Surtout dans les écoles qui privilégient les matières académiques",
+      "le sport n'est pas seulement une question de condition physique, c'est aussi un moyen d'apprendre des valeurs comme l'esprit d'équipe et la persévérance"
+    ]
   },
   {
     "question_no": 27,
@@ -321,7 +474,14 @@
       "l'agriculture urbaine concerne uniquement les zones rurales."
     ],
     "audio_transcript": "Transcription : Monsieur Karim Haddad, vous organisez un séminaire à Casablanca sur l'importance de l'agriculture urbaine dans les villes modernes. Pourquoi insister sur l'agriculture urbaine dans un monde de plus en plus urbanisé ? — Le problème, c'est que nous construisons des villes en négligeant souvent l'accès à des aliments frais et locaux. Or, on sait que l'agriculture urbaine permet non seulement de fournir des produits sains, mais aussi de renforcer la résilience des communautés face aux défis alimentaires. Est-il difficile aujourd'hui de convaincre les municipalités d'intégrer davantage d'espaces agricoles dans les plans urbains ? — C'est vrai que c'est un défi, surtout dans les villes où l'espace est limité et où la priorité est donnée à l'infrastructure. Mais l'agriculture urbaine n'est pas seulement une question de production alimentaire, c'est aussi une manière de rétablir le lien des citadins avec la nature et d'améliorer la qualité de vie en ville.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "l'agriculture urbaine permet non seulement de fournir des produits sains, mais aussi de renforcer la résilience des communautés face aux défis alimentaires",
+      "l'agriculture urbaine n'est pas seulement une question de production alimentaire",
+      "c'est aussi une manière de rétablir le lien des citadins avec la nature et d'améliorer la qualité de vie en ville",
+      "nous construisons des villes en négligeant souvent l'accès à des aliments frais et locaux",
+      "Or, on sait que l'agriculture urbaine permet"
+    ]
   },
   {
     "question_no": 28,
@@ -333,7 +493,14 @@
       "ont du mal à intégrer l'agriculture urbaine dans les plans urbains surtout dans les zones densément peuplées."
     ],
     "audio_transcript": "Transcription : Monsieur Karim Haddad, vous organisez un séminaire à Casablanca sur l'importance de l'agriculture urbaine dans les villes modernes. Pourquoi insister sur l'agriculture urbaine dans un monde de plus en plus urbanisé ? — Le problème, c'est que nous construisons des villes en négligeant souvent l'accès à des aliments frais et locaux. Or, on sait que l'agriculture urbaine permet non seulement de fournir des produits sains, mais aussi de renforcer la résilience des communautés face aux défis alimentaires. Est-il difficile aujourd'hui de convaincre les municipalités d'intégrer davantage d'espaces agricoles dans les plans urbains ? — C'est vrai que c'est un défi, surtout dans les villes où l'espace est limité et où la priorité est donnée à l'infrastructure. Mais l'agriculture urbaine n'est pas seulement une question de production alimentaire, c'est aussi une manière de rétablir le lien des citadins avec la nature et d'améliorer la qualité de vie en ville.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "C'est vrai que c'est un défi",
+      "surtout dans les villes où l'espace est limité",
+      "où la priorité est donnée à l'infrastructure",
+      "l'agriculture urbaine n'est pas seulement une question de production alimentaire",
+      "c'est aussi une manière de rétablir le lien des citadins avec la nature et d'améliorer la qualité de vie en ville"
+    ]
   },
   {
     "question_no": 29,
@@ -345,7 +512,21 @@
       "des initiatives pour améliorer la vie des séniors en maison de retraite."
     ],
     "audio_transcript": "Transcription : Avec la digitalisation croissante des services, de nombreux seniors se sentent démunis face aux démarches administratives en ligne. Ce fossé numérique les isole de plus en plus. Jeanne, quatre-vingt-deux ans, confie : « On me demande de tout faire sur internet, mais je comprends rien à ces machines. Ils pensent qu'on est tous nés en 2000 et qu'on a TikTok, mais c'est pas le cas. » Pour beaucoup, créer un compte en ligne ou déclarer ses impôts devient un véritable casse-tête. Incapables de suivre le rythme de la technologie, ces seniors risquent l'exclusion des services essentiels. Marguerite, quatre-vingts ans, se sent humiliée de devoir sans cesse demander de l'aide à ses proches. Cette difficulté à utiliser les outils numériques a des conséquences sur la vie quotidienne des seniors. Des démarches simples comme prendre rendez-vous chez le médecin ou accéder à des informations importantes deviennent des défis majeurs. Rose, 77 ans, a beaucoup de mal : « Je me sens perdu chaque fois que je dois faire quelque chose en ligne, ça prend beaucoup de temps, c'est épuisant. » Ces obstacles affectent leur autonomie et leur qualité de vie en augmentant leur dépendance envers leur entourage. Certaines associations proposent des ateliers pour les aider à se familiariser avec les outils numériques. Julien est animateur à l'association Le numérique pour tous : « Nous les accompagnons pour naviguer sur les sites administratifs et on leur apprend à utiliser un smartphone. C'est pas facile pour beaucoup d'entre eux. On doit être patient et pédagogue, et nous adapter à leur âge et aussi à leur capacité. » Ces ateliers visent à réduire le fossé numérique en offrant des solutions adaptées à leurs besoins spécifiques. Malgré ces efforts, les seniors ont encore besoin de plus de soutien pour ne pas être laissés pour compte dans un monde de plus en plus digitalisé. Une action collective est nécessaire pour garantir que tous puissent bénéficier des avantages de la technologie sans se sentir exclus.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Avec la digitalisation croissante des services, de nombreux seniors se sentent démunis face aux démarches administratives en ligne",
+      "Ce fossé numérique les isole de plus en plus",
+      "On me demande de tout faire sur internet, mais je comprends rien à ces machines",
+      "créer un compte en ligne ou déclarer ses impôts devient un véritable casse-tête",
+      "Incapables de suivre le rythme de la technologie, ces seniors risquent l'exclusion des services essentiels",
+      "se sent humiliée de devoir sans cesse demander de l'aide à ses proches",
+      "Cette difficulté à utiliser les outils numériques a des conséquences sur la vie quotidienne des seniors",
+      "Des démarches simples comme prendre rendez-vous chez le médecin ou accéder à des informations importantes deviennent des défis majeurs",
+      "Je me sens perdu chaque fois que je dois faire quelque chose en ligne, ça prend beaucoup de temps, c'est épuisant",
+      "Ces obstacles affectent leur autonomie et leur qualité de vie",
+      "augmentant leur dépendance envers leur entourage",
+      "les seniors ont encore besoin de plus de soutien pour ne pas être laissés pour compte dans un monde de plus en plus digitalisé"
+    ]
   },
   {
     "question_no": 30,
@@ -357,7 +538,20 @@
       "incapables de gérer les démarches administratives sans aide."
     ],
     "audio_transcript": "Transcription : Avec la digitalisation croissante des services, de nombreux seniors se sentent démunis face aux démarches administratives en ligne. Ce fossé numérique les isole de plus en plus. Jeanne, quatre-vingt-deux ans, confie : « On me demande de tout faire sur internet, mais je comprends rien à ces machines. Ils pensent qu'on est tous nés en 2000 et qu'on a TikTok, mais c'est pas le cas. » Pour beaucoup, créer un compte en ligne ou déclarer ses impôts devient un véritable casse-tête. Incapables de suivre le rythme de la technologie, ces seniors risquent l'exclusion des services essentiels. Marguerite, quatre-vingts ans, se sent humiliée de devoir sans cesse demander de l'aide à ses proches. Cette difficulté à utiliser les outils numériques a des conséquences sur la vie quotidienne des seniors. Des démarches simples comme prendre rendez-vous chez le médecin ou accéder à des informations importantes deviennent des défis majeurs. Rose, 77 ans, a beaucoup de mal : « Je me sens perdu chaque fois que je dois faire quelque chose en ligne, ça prend beaucoup de temps, c'est épuisant. » Ces obstacles affectent leur autonomie et leur qualité de vie en augmentant leur dépendance envers leur entourage. Certaines associations proposent des ateliers pour les aider à se familiariser avec les outils numériques. Julien est animateur à l'association Le numérique pour tous : « Nous les accompagnons pour naviguer sur les sites administratifs et on leur apprend à utiliser un smartphone. C'est pas facile pour beaucoup d'entre eux. On doit être patient et pédagogue, et nous adapter à leur âge et aussi à leur capacité. » Ces ateliers visent à réduire le fossé numérique en offrant des solutions adaptées à leurs besoins spécifiques. Malgré ces efforts, les seniors ont encore besoin de plus de soutien pour ne pas être laissés pour compte dans un monde de plus en plus digitalisé. Une action collective est nécessaire pour garantir que tous puissent bénéficier des avantages de la technologie sans se sentir exclus.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "de nombreux seniors se sentent démunis face aux démarches administratives en ligne",
+      "Ce fossé numérique les isole de plus en plus",
+      "On me demande de tout faire sur internet, mais je comprends rien à ces machines",
+      "créer un compte en ligne ou déclarer ses impôts devient un véritable casse-tête",
+      "Incapables de suivre le rythme de la technologie, ces seniors risquent l'exclusion des services essentiels",
+      "se sent humiliée de devoir sans cesse demander de l'aide à ses proches",
+      "Cette difficulté à utiliser les outils numériques a des conséquences sur la vie quotidienne des seniors",
+      "Des démarches simples comme prendre rendez-vous chez le médecin ou accéder à des informations importantes deviennent des défis majeurs",
+      "Je me sens perdu chaque fois que je dois faire quelque chose en ligne, ça prend beaucoup de temps, c'est épuisant",
+      "Ces obstacles affectent leur autonomie et leur qualité de vie en augmentant leur dépendance envers leur entourage",
+      "les seniors ont encore besoin de plus de soutien pour ne pas être laissés pour compte dans un monde de plus en plus digitalisé"
+    ]
   },
   {
     "question_no": 31,
@@ -369,7 +563,13 @@
       "le documentaire est axé sur la prévention des catastrophes volcaniques en Asie."
     ],
     "audio_transcript": "Transcription : Pour clôturer votre dimanche, pourquoi ne pas vous immerger dans le monde des volcans ? Ce soir à vingt-et-une heures, France 2 diffuse un reportage fascinant sur les volcans actifs en Islande. Le documentaire vous emmène à la découverte de ces géants de la nature, avec des images impressionnantes de leurs éruptions récentes et des interviews de volcanologues. Vous découvrirez les phénomènes géologiques qui façonnent le paysage islandais et les efforts pour surveiller et prévoir les éruptions volcaniques.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Ce soir à vingt-et-une heures, France 2 diffuse un reportage fascinant sur les volcans actifs en Islande",
+      "volcans actifs en Islande",
+      "France 2 diffuse",
+      "Ce soir à vingt-et-une heures"
+    ]
   },
   {
     "question_no": 32,
@@ -381,7 +581,12 @@
       "l'organisation Food4All lutte contre la production alimentaire pour éviter les pénuries."
     ],
     "audio_transcript": "Transcription : À Londres, l'organisation Food for All a lancé ce mercredi une initiative visant à réduire le gaspillage alimentaire dans les restaurants et supermarchés du pays. L'organisation propose des partenariats avec les établissements pour redistribuer les excédents alimentaires à des associations caritatives locales. Selon le directeur de Food for All, il est crucial de prendre des mesures pour éviter que des tonnes de nourriture ne soient jetées chaque année, alors que de nombreuses personnes sont dans le besoin.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "l'organisation Food for All a lancé ce mercredi une initiative visant à réduire le gaspillage alimentaire",
+      "L'organisation propose des partenariats avec les établissements pour redistribuer les excédents alimentaires à des associations caritatives locales",
+      "il est crucial de prendre des mesures pour éviter que des tonnes de nourriture ne soient jetées chaque année"
+    ]
   },
   {
     "question_no": 33,
@@ -393,7 +598,13 @@
       "annonce que la soirée débutera par un spectacle de danse contemporaine."
     ],
     "audio_transcript": "Transcription : Chers invités, bienvenue à notre soirée de gala annuelle. Ce soir, nous avons préparé une série de performances pour votre plus grand plaisir. Tout d'abord, nous débuterons avec un spectacle de danse contemporaine, suivi par un concert de musique classique. Nous clôturerons la soirée avec un dîner somptueux, durant lequel vous pourrez profiter de divers mets gastronomiques préparés par des chefs renommés. Nous espérons que vous passerez une soirée mémorable en notre compagnie.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Tout d'abord, nous débuterons avec un spectacle de danse contemporaine",
+      "suivi par un concert de musique classique",
+      "Nous clôturerons la soirée avec un dîner somptueux",
+      "nous avons préparé une série de performances pour votre plus grand plaisir"
+    ]
   },
   {
     "question_no": 34,
@@ -405,7 +616,17 @@
       "la modernisation des infrastructures de Lyon n'a pas encore été initiée."
     ],
     "audio_transcript": "Transcription : Nous sommes à Lyon, récemment distinguée pour son innovation en matière de transport public. Cette reconnaissance est attribuée à la mise en place d'un nouveau système de tramway qui réduit considérablement les temps de trajet et améliore la connectivité dans la ville. Le maire, Paul Dubois, a présenté ce projet comme un modèle de durabilité et d'efficacité urbaine. À l'approche des prochaines élections, tous les candidats se déclarent favorables à poursuivre ces efforts pour moderniser encore plus les infrastructures de la ville.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Nous sommes à Lyon, récemment distinguée pour son innovation en matière de transport public",
+      "mise en place d'un nouveau système de tramway",
+      "réduit considérablement les temps de trajet",
+      "améliore la connectivité dans la ville",
+      "Le maire, Paul Dubois, a présenté ce projet",
+      "modèle de durabilité et d'efficacité urbaine",
+      "tous les candidats se déclarent favorables à poursuivre ces efforts",
+      "moderniser encore plus les infrastructures de la ville"
+    ]
   },
   {
     "question_no": 35,
@@ -417,7 +638,14 @@
       "le \"Marathon des Montagnes\" se déroulera sur une distance de 10 kilomètres."
     ],
     "audio_transcript": "Transcription : La course annuelle Marathon des montagnes se tiendra ce dimanche dans les Alpes. Les coureurs s'affronteront sur un parcours exigeant de quarante-deux kilomètres, traversant des sentiers escarpés et des paysages à couper le souffle. Cette épreuve est réputée pour sa difficulté, avec des dénivelés importants et des conditions météorologiques souvent imprévisibles. Les participants viennent du monde entier pour relever ce défi unique, et cette année, un nombre record d'inscriptions a été enregistré. À la fin de la course, une cérémonie de remise des prix aura lieu, célébrant les performances exceptionnelles des athlètes.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "La course annuelle Marathon des montagnes se tiendra ce dimanche dans les Alpes",
+      "un parcours exigeant de quarante-deux kilomètres",
+      "sentiers escarpés",
+      "Cette épreuve est réputée pour sa difficulté",
+      "dénivelés importants"
+    ]
   },
   {
     "question_no": 36,
@@ -429,7 +657,16 @@
       "la révision des directives sur les vaccins vise à améliorer leur efficacité pour les populations."
     ],
     "audio_transcript": "Transcription : Le ministère de la Santé a décidé de suspendre temporairement les nouvelles directives concernant la distribution des vaccins contre la grippe, en attendant une révision des recommandations. Cette décision vise à ajuster les procédures et à mieux répondre aux besoins des populations à risque. La suspension des nouvelles directives est due à des préoccupations concernant l'efficacité des vaccins dans certaines tranches d'âge. Il est crucial de garantir que les recommandations soient adaptées et fondées sur les dernières données scientifiques.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "a décidé de suspendre temporairement",
+      "en attendant une révision des recommandations",
+      "Cette décision vise à ajuster les procédures",
+      "à mieux répondre aux besoins des populations à risque",
+      "La suspension des nouvelles directives est due à des préoccupations concernant l'efficacité des vaccins",
+      "Il est crucial de garantir que les recommandations soient adaptées",
+      "fondées sur les dernières données scientifiques"
+    ]
   },
   {
     "question_no": 37,
@@ -441,7 +678,14 @@
       "la ville de Marseille a mis en place un concours pour les artistes internationaux."
     ],
     "audio_transcript": "Transcription : Pour soutenir les talents locaux, la ville de Marseille a lancé un nouveau programme de résidences artistiques intitulé Création en cours. Ce programme offre aux artistes émergents la possibilité de travailler dans des ateliers entièrement équipés et de présenter leurs œuvres au public. Le but est de stimuler la créativité locale et de promouvoir la culture régionale, en offrant une plateforme aux artistes qui cherchent à se faire connaître. Ce programme pourrait devenir un modèle pour d'autres villes françaises cherchant à soutenir leurs créateurs.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "la ville de Marseille a lancé un nouveau programme de résidences artistiques intitulé Création en cours",
+      "Ce programme offre aux artistes émergents la possibilité de travailler dans des ateliers entièrement équipés",
+      "de présenter leurs œuvres au public",
+      "Pour soutenir les talents locaux",
+      "aux artistes qui cherchent à se faire connaître"
+    ]
   },
   {
     "question_no": 38,
@@ -453,7 +697,12 @@
       "les exploitants apicoles utilisent des méthodes alternatives selon le rapport."
     ],
     "audio_transcript": "Transcription : Nous allons examiner aujourd'hui le rapport de l'Institut de recherche sur la sécurité alimentaire concernant les pratiques agricoles durables. Le document révèle que, malgré les efforts pour promouvoir l'agriculture biologique, de nombreux exploitants agricoles continuent d'utiliser des méthodes conventionnelles. Les principaux défis incluent les coûts élevés des pratiques durables et le manque de soutien gouvernemental. Pour que l'agriculture durable devienne la norme, il est crucial d'encourager les fermiers à adopter des pratiques respectueuses de l'environnement et de faciliter leur transition.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Le document révèle que, malgré les efforts pour promouvoir l'agriculture biologique, de nombreux exploitants agricoles continuent d'utiliser des méthodes conventionnelles.",
+      "Les principaux défis incluent les coûts élevés des pratiques durables et le manque de soutien gouvernemental.",
+      "Pour que l'agriculture durable devienne la norme, il est crucial d'encourager les fermiers à adopter des pratiques respectueuses de l'environnement et de faciliter leur transition."
+    ]
   },
   {
     "question_no": 39,
@@ -465,7 +714,13 @@
       "la popularité des régimes végétariens a diminué en France."
     ],
     "audio_transcript": "Transcription : Les tendances alimentaires évoluent rapidement avec l'augmentation de la popularité des régimes à base de plantes. Une nouvelle étude montre que les Français consomment de plus en plus de produits végétariens et végétaliens, influencés par les préoccupations de santé et environnementales. Les détaillants répondent à cette demande croissante en élargissant leur offre de produits à base de plantes. Cette tendance pourrait transformer le marché alimentaire français et avoir des répercussions sur la chaîne d'approvisionnement alimentaire.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Les tendances alimentaires évoluent rapidement avec l'augmentation de la popularité des régimes à base de plantes",
+      "Une nouvelle étude montre que les Français consomment de plus en plus de produits végétariens et végétaliens",
+      "influencés par les préoccupations de santé et environnementales",
+      "Les détaillants répondent à cette demande croissante en élargissant leur offre de produits à base de plantes"
+    ]
   },
   {
     "question_no": 40,
@@ -477,6 +732,13 @@
       "l'afflux de visiteurs, même encadré, peut parfois nuire à la protection des espèces."
     ],
     "audio_transcript": "Transcription : Un parc naturel, réputé pour sa biodiversité unique, a mis en place de nouvelles règles de conservation, limitant d'abord l'accès aux zones sensibles aux chercheurs. Des visites guidées sont maintenant autorisées pour sensibiliser le public. Bien que cela puisse améliorer l'éducation environnementale, l'afflux de visiteurs, même encadré, peut perturber l'habitat. Les gestionnaires doivent équilibrer sensibilisation et protection stricte de la nature.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "l'afflux de visiteurs, même encadré, peut perturber l'habitat",
+      "Bien que cela puisse améliorer l'éducation environnementale",
+      "Les gestionnaires doivent équilibrer sensibilisation et protection stricte de la nature",
+      "limitant d'abord l'accès aux zones sensibles",
+      "Des visites guidées sont maintenant autorisées pour sensibiliser le public"
+    ]
   }
 ]

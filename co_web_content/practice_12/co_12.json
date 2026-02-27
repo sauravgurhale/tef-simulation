@@ -9,7 +9,13 @@
       "D"
     ],
     "audio_transcript": "Dis-moi Sandra, comment tu comptes occuper Loïc pendant les vacances ? Il va apprendre la poterie, même si cette année, le centre Don Bosco propose une multitude d'activités parmi lesquelles le tricotage.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "apprendre la poterie",
+      "le tricotage",
+      "le centre Don Bosco",
+      "activités"
+    ]
   },
   {
     "question_no": 2,
@@ -21,7 +27,14 @@
       "D"
     ],
     "audio_transcript": "Excusez-moi, s'il vous plaît, où est situé l'escalier de cet immeuble ? Au fond du couloir, tout juste à gauche de l'ascenseur.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "l'escalier",
+      "immeuble",
+      "Au fond du couloir",
+      "à gauche de l'ascenseur",
+      "l'ascenseur"
+    ]
   },
   {
     "question_no": 3,
@@ -33,7 +46,12 @@
       "D"
     ],
     "audio_transcript": "Je t'ai appelé tout l'après-midi, mais ton téléphone ne passait pas. J'espère qu'il n'y a rien de grave. Tu t'inquiètes pour rien. En fait, j'étais avec Jacques au restaurant La Marmite, où j'ai découvert la cuisine russe. On a passé des moments vraiment agréables.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "au restaurant La Marmite",
+      "avec Jacques",
+      "cuisine russe"
+    ]
   },
   {
     "question_no": 4,
@@ -45,7 +63,12 @@
       "D"
     ],
     "audio_transcript": "Qu'est-ce que tu fais ce soir après le collège ? Alors ce soir, pas de télévision. Je vais jouer aux carpes avec mes copines. Elles viendront toutes à la maison.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Je vais jouer aux carpes",
+      "avec mes copines",
+      "Elles viendront toutes à la maison"
+    ]
   },
   {
     "question_no": 5,
@@ -57,7 +80,15 @@
       "Une réunion des parents d'élèves."
     ],
     "audio_transcript": "Chers élèves et chers parents, Nous vous rappelons que la fête de fin d'année scolaire de l'école primaire Les Étoiles aura lieu ce vendredi vingt-trois juin à partir de 14 heures dans la cour de l'école. Au programme : un spectacle des élèves, des stands de jeux et un goûter convivial. Nous comptons sur votre présence pour célébrer ensemble cette belle fin d'année. Merci et à bientôt.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "la fête de fin d'année scolaire",
+      "ce vendredi vingt-trois juin",
+      "à partir de 14 heures",
+      "dans la cour de l'école",
+      "Au programme : un spectacle des élèves, des stands de jeux et un goûter convivial",
+      "cette belle fin d'année"
+    ]
   },
   {
     "question_no": 6,
@@ -69,7 +100,12 @@
       "Le début de la séance d'information."
     ],
     "audio_transcript": "Chers patients et membres du personnel, Nous vous informons que la séance d'information sur la prévention des infections nosocomiales va bientôt commencer. Nous convions tout le monde dans la salle de conférence du rez-de-chaussée. Nous vous rappelons, par la même occasion, que tous les patients, visiteurs et membres du personnel sont invités à y participer. Merci de votre attention.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "la séance d'information sur la prévention des infections nosocomiales va bientôt commencer",
+      "Nous convions tout le monde dans la salle de conférence du rez-de-chaussée",
+      "tous les patients, visiteurs et membres du personnel sont invités à y participer"
+    ]
   },
   {
     "question_no": 7,
@@ -81,7 +117,11 @@
       "Ne sera pas opérationnelle après 18 heures."
     ],
     "audio_transcript": "Chers visiteurs, Nous vous rappelons que la piscine fermera exceptionnellement à dix-huit heures, pour des travaux de maintenance. Merci de bien vouloir prendre vos dispositions en conséquence. Nous vous prions de nous excuser pour la gêne occasionnée, et vous remercions de votre compréhension.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "la piscine fermera exceptionnellement à dix-huit heures",
+      "pour des travaux de maintenance"
+    ]
   },
   {
     "question_no": 8,
@@ -93,7 +133,13 @@
       "De bloquer une voie."
     ],
     "audio_transcript": "Attention : le propriétaire du véhicule immatriculé ABC cent-vingt-trois XXZ est prié de se rendre immédiatement à l'accueil. Votre voiture bloque la voie réservée aux ambulances et doit être déplacée de toute urgence. Merci de votre coopération.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "le propriétaire du véhicule immatriculé ABC cent-vingt-trois XXZ est prié de se rendre immédiatement à l'accueil",
+      "Votre voiture bloque la voie réservée aux ambulances",
+      "doit être déplacée de toute urgence",
+      "Merci de votre coopération"
+    ]
   },
   {
     "question_no": 9,
@@ -105,7 +151,12 @@
       "Demander un service."
     ],
     "audio_transcript": "Salut mon chéri, c’est maman. J’espère que tu vas bien. Je voulais te demander si tu pourrais m’accompagner demain soir à la gare, car ma voiture est en panne. Ce serait vraiment gentil de ta part. Merci beaucoup et à bientôt.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "Je voulais te demander si tu pourrais m’accompagner demain soir à la gare",
+      "car ma voiture est en panne",
+      "Ce serait vraiment gentil de ta part"
+    ]
   },
   {
     "question_no": 10,
@@ -117,7 +168,13 @@
       "Réclamer son argent."
     ],
     "audio_transcript": "Salut Clovis, c’est Jean. J’espère que tu vas bien. Je voulais te demander un petit service. Est-ce que tu pourrais me prêter un peu d’argent ? J’en ai vraiment besoin en ce moment, et je te rembourserai dès que possible. Merci d’avance.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je voulais te demander un petit service",
+      "Est-ce que tu pourrais me prêter un peu d’argent ?",
+      "J’en ai vraiment besoin en ce moment",
+      "je te rembourserai dès que possible"
+    ]
   },
   {
     "question_no": 11,
@@ -129,7 +186,13 @@
       "Organiser l'anniversaire d'Anthony."
     ],
     "audio_transcript": "Salut Anthony, c’est Clara. J’espère que tu vas bien. Une idée vient de me traverser la tête : que dirais-tu d’organiser un anniversaire surprise pour grand-père ? Je pense que ça lui ferait vraiment plaisir. Appelle-moi quand tu auras un moment pour qu’on en parle et qu’on puisse tout planifier ensemble. À bientôt.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Une idée vient de me traverser la tête",
+      "que dirais-tu d’organiser un anniversaire surprise pour grand-père",
+      "Je pense que ça lui ferait vraiment plaisir",
+      "qu’on en parle et qu’on puisse tout planifier ensemble"
+    ]
   },
   {
     "question_no": 12,
@@ -141,7 +204,12 @@
       "Demander un remboursement."
     ],
     "audio_transcript": "Bonjour, Je devais recevoir un colis en urgence depuis le 6 du mois, mais je n’ai toujours rien reçu. Pourriez-vous vérifier son statut et me tenir informé dès que possible ? Il s’agit en fait d’un livre, dont la référence d’envoi depuis la Belgique est le 12 23 41. Vous pouvez me rappeler au 09 76 54 32 11. Merci beaucoup.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Je devais recevoir un colis en urgence depuis le 6 du mois, mais je n’ai toujours rien reçu",
+      "Pourriez-vous vérifier son statut",
+      "me tenir informé dès que possible"
+    ]
   },
   {
     "question_no": 13,
@@ -153,7 +221,13 @@
       "Planifier son arrivée à Londres."
     ],
     "audio_transcript": "Bonjour Mademoiselle Guérin, Je voulais te demander d’annuler tous mes rendez-vous, car je viens de partir en urgence pour Londres. Merci de prévenir les personnes concernées et de reprogrammer les rendez-vous si possible. À bientôt.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je voulais te demander d’annuler tous mes rendez-vous",
+      "car je viens de partir en urgence pour Londres",
+      "Merci de prévenir les personnes concernées",
+      "de reprogrammer les rendez-vous si possible"
+    ]
   },
   {
     "question_no": 14,
@@ -165,7 +239,13 @@
       "Demander des conseils pour l'examen de droit fiscal."
     ],
     "audio_transcript": "Salut Nicolas, c’est Judith. Je viens d’apprendre que l’examen de droit fiscal a été reporté. Peux-tu me communiquer la nouvelle date dès que tu la connais ? C’est assez urgent pour moi afin de m’organiser. Je compte sur toi.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "l’examen de droit fiscal a été reporté",
+      "Peux-tu me communiquer la nouvelle date dès que tu la connais",
+      "C’est assez urgent pour moi afin de m’organiser",
+      "Je compte sur toi"
+    ]
   },
   {
     "question_no": 15,
@@ -177,7 +257,15 @@
       ""
     ],
     "audio_transcript": "Opter pour une reconversion professionnelle peut offrir plusieurs avantages : découvrir de nouvelles passions, améliorer vos compétences et augmenter vos opportunités de carrière. Cela peut également conduire à une satisfaction professionnelle et personnelle accrue. Donc, pourquoi ne pas essayer ?",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Opter pour une reconversion professionnelle peut offrir plusieurs avantages",
+      "découvrir de nouvelles passions",
+      "améliorer vos compétences",
+      "augmenter vos opportunités de carrière",
+      "Cela peut également conduire à une satisfaction professionnelle et personnelle accrue",
+      "pourquoi ne pas essayer"
+    ]
   },
   {
     "question_no": 16,
@@ -189,7 +277,14 @@
       ""
     ],
     "audio_transcript": "Si je n’ai vraiment pas le choix, opter pour une reconversion professionnelle peut être une opportunité de renouveau. Je pense que, malgré les défis tels que la perte de stabilité financière et la nécessité d’acquérir de nouvelles compétences, cela peut offrir une chance de découvrir de nouveaux horizons, d’améliorer sa résilience et de potentiellement trouver une satisfaction professionnelle plus grande dans un domaine qui correspond mieux à ses passions et talents.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Si je n’ai vraiment pas le choix",
+      "opter pour une reconversion professionnelle",
+      "malgré les défis",
+      "la perte de stabilité financière",
+      "la nécessité d’acquérir de nouvelles compétences"
+    ]
   },
   {
     "question_no": 17,
@@ -201,7 +296,15 @@
       ""
     ],
     "audio_transcript": "J’ai toujours considéré la reconversion professionnelle comme un parcours du combattant. En fait, elle s’accompagne presque toujours d’une perte de stabilité financière, de la nécessité de réapprendre de nouvelles compétences et d’un risque d’insatisfaction dans le nouveau domaine. Cela peut aussi entraîner des défis d’adaptation et un investissement de temps considérable.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "J’ai toujours considéré la reconversion professionnelle comme un parcours du combattant",
+      "elle s’accompagne presque toujours d’une perte de stabilité financière",
+      "de la nécessité de réapprendre de nouvelles compétences",
+      "d’un risque d’insatisfaction dans le nouveau domaine",
+      "Cela peut aussi entraîner des défis d’adaptation",
+      "un investissement de temps considérable"
+    ]
   },
   {
     "question_no": 18,
@@ -213,7 +316,13 @@
       ""
     ],
     "audio_transcript": "Passer 2 jours sans smartphone peut être un défi, mais c’est faisable, donc je peux le faire. En fait, cela permet de se déconnecter, de se détendre et de se concentrer sur des activités non numériques, voilà.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Passer 2 jours sans smartphone peut être un défi",
+      "mais c’est faisable",
+      "donc je peux le faire",
+      "cela permet de se déconnecter, de se détendre et de se concentrer sur des activités non numériques"
+    ]
   },
   {
     "question_no": 19,
@@ -225,7 +334,13 @@
       ""
     ],
     "audio_transcript": "Écoutez, moi je ne peux pas passer 2 jours sans mon smartphone. C’est essentiel pour la communication, l’accès à l’information, la gestion des tâches quotidiennes, et ça rend difficile de s’en passer, même pour une courte période.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "je ne peux pas passer 2 jours sans mon smartphone",
+      "C’est essentiel",
+      "ça rend difficile de s’en passer",
+      "même pour une courte période"
+    ]
   },
   {
     "question_no": 20,
@@ -237,7 +352,13 @@
       ""
     ],
     "audio_transcript": "Je suis bel et bien disposé à passer 2 jours sans mon smartphone, et je le fais souvent pour limiter le stress. Je me déconnecte, je me détends, et je profite du moment présent sans distraction numérique. Cette pause régulière m’aide à recharger mes batteries mentales et à améliorer ma concentration sur les tâches importantes.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Je suis bel et bien disposé à passer 2 jours sans mon smartphone",
+      "je le fais souvent",
+      "Je me déconnecte, je me détends, et je profite du moment présent sans distraction numérique",
+      "Cette pause régulière m’aide à recharger mes batteries mentales et à améliorer ma concentration"
+    ]
   },
   {
     "question_no": 21,
@@ -249,7 +370,15 @@
       "Augmenter la consommation de biens technologiques"
     ],
     "audio_transcript": "Bonjour à tous. Aujourd’hui, nous allons parler des décroissants. Qui sont-ils et que défendent-ils ? Les décroissants prônent un mode de vie visant à réduire la consommation et la production pour préserver l’environnement et améliorer la qualité de vie. Ils remettent en question notre modèle économique basé sur la croissance illimitée et proposent au monde de vivre autrement, en se concentrant sur les besoins essentiels et en limitant le gaspillage. Cette philosophie s’applique à tous les aspects de la vie : alimentation locale, réduction des déchets, partage des ressources. Le but : créer une société plus soutenable et équitable pour tous. Adopter la décroissance, c’est repenser notre rapport à la consommation et à la nature pour un futur plus responsable. Merci de m’avoir écouté, à bientôt pour une nouvelle chronique.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Les décroissants prônent un mode de vie visant à réduire la consommation et la production pour préserver l’environnement et améliorer la qualité de vie",
+      "Ils remettent en question notre modèle économique basé sur la croissance illimitée",
+      "proposent au monde de vivre autrement, en se concentrant sur les besoins essentiels et en limitant le gaspillage",
+      "réduction des déchets",
+      "Le but : créer une société plus soutenable et équitable pour tous",
+      "Adopter la décroissance, c’est repenser notre rapport à la consommation et à la nature"
+    ]
   },
   {
     "question_no": 22,
@@ -261,7 +390,16 @@
       "Automatisation"
     ],
     "audio_transcript": "Aujourd’hui, parlons football, un sport collectif par essence, mais qui semble glisser de plus en plus vers l’individualisme. Les stars du football sont devenues de véritables icônes mondiales, souvent plus reconnues pour leurs exploits individuels que pour leur esprit d’équipe. Les médias et les sponsors mettent en avant les performances des joueurs vedettes, occultant parfois l’importance du collectif. Les salaires exorbitants et les transferts records témoignent de cette tendance, où le talent individuel prime souvent sur l’esprit d’équipe. Les réseaux sociaux amplifient ce phénomène, chaque joueur étant une marque à part entière. Mais n’oublions pas l’essence même du football : un sport où la victoire se construit ensemble. Pour retrouver la magie du jeu collectif, il est crucial de valoriser l’altruisme et la solidarité sur le terrain.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "un sport collectif par essence, mais qui semble glisser de plus en plus vers l’individualisme",
+      "souvent plus reconnues pour leurs exploits individuels que pour leur esprit d’équipe",
+      "Les médias et les sponsors mettent en avant les performances des joueurs vedettes",
+      "occultant parfois l’importance du collectif",
+      "le talent individuel prime souvent sur l’esprit d’équipe",
+      "Les réseaux sociaux amplifient ce phénomène",
+      "chaque joueur étant une marque à part entière"
+    ]
   },
   {
     "question_no": 23,
@@ -273,7 +411,12 @@
       "Promouvoir les bandes dessinées pour enfants."
     ],
     "audio_transcript": "– Bonjour et bienvenue à notre émission. Aujourd’hui, nous avons le plaisir d’accueillir Marie Dupuis, spécialiste de la bande dessinée et membre du jury du Prix Artemisia. Bonjour Marie. – Bonjour, et merci de m’avoir invitée. – Pour commencer, pouvez-vous nous expliquer ce qu’est le Prix Artemisia ? – Bien sûr. Le Prix Artemisia est un prix littéraire français qui récompense chaque année une bande dessinée réalisée par une ou plusieurs femmes. Créé en 2007, il vise à mettre en lumière le talent des femmes dans un domaine souvent dominé par les hommes, et à encourager la diversité dans la création artistique. – Quels sont les critères de sélection pour ce prix ? – Les critères de sélection incluent la qualité narrative, la richesse des illustrations, l’originalité du sujet et l’impact de l’œuvre. Nous cherchons des bandes dessinées qui offrent des perspectives nouvelles et qui sont capables de toucher un large public. Le jury, composé de professionnels du milieu, prend en compte ces éléments pour déterminer la lauréate. – Merci. Dites-nous maintenant, quels sont les impacts du Prix Artemisia sur la carrière des lauréates ? – Le Prix Artemisia peut avoir un impact significatif sur la carrière des lauréates. Il leur apporte une visibilité accrue, tant auprès du public que des éditeurs. Cela peut se traduire par une augmentation des ventes, des propositions de collaboration, et parfois même des adaptations de leurs œuvres en d’autres formats. En outre, cela renforce leur crédibilité et leur notoriété dans le milieu de la bande dessinée. – Merci beaucoup pour ces informations sur le Prix Artemisia. – Merci à vous, c’était un plaisir de partager cela avec vos auditeurs. – C’est tout pour aujourd’hui. Merci de nous avoir écoutés, et à la prochaine pour une nouvelle émission.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Le Prix Artemisia est un prix littéraire français qui récompense chaque année une bande dessinée réalisée par une ou plusieurs femmes",
+      "il vise à mettre en lumière le talent des femmes dans un domaine souvent dominé par les hommes",
+      "et à encourager la diversité dans la création artistique"
+    ]
   },
   {
     "question_no": 24,
@@ -285,7 +428,13 @@
       "Elle a arrêté de créer des bandes dessinées pour se consacrer à l'écriture de romans"
     ],
     "audio_transcript": "– Bonjour et bienvenue à notre émission. Aujourd’hui, nous avons le plaisir d’accueillir Marie Dupuis, spécialiste de la bande dessinée et membre du jury du Prix Artemisia. Bonjour Marie. – Bonjour, et merci de m’avoir invitée. – Pour commencer, pouvez-vous nous expliquer ce qu’est le Prix Artemisia ? – Bien sûr. Le Prix Artemisia est un prix littéraire français qui récompense chaque année une bande dessinée réalisée par une ou plusieurs femmes. Créé en 2007, il vise à mettre en lumière le talent des femmes dans un domaine souvent dominé par les hommes, et à encourager la diversité dans la création artistique. – Quels sont les critères de sélection pour ce prix ? – Les critères de sélection incluent la qualité narrative, la richesse des illustrations, l’originalité du sujet et l’impact de l’œuvre. Nous cherchons des bandes dessinées qui offrent des perspectives nouvelles et qui sont capables de toucher un large public. Le jury, composé de professionnels du milieu, prend en compte ces éléments pour déterminer la lauréate. – Merci. Dites-nous maintenant, quels sont les impacts du Prix Artemisia sur la carrière des lauréates ? – Le Prix Artemisia peut avoir un impact significatif sur la carrière des lauréates. Il leur apporte une visibilité accrue, tant auprès du public que des éditeurs. Cela peut se traduire par une augmentation des ventes, des propositions de collaboration, et parfois même des adaptations de leurs œuvres en d’autres formats. En outre, cela renforce leur crédibilité et leur notoriété dans le milieu de la bande dessinée. – Merci beaucoup pour ces informations sur le Prix Artemisia. – Merci à vous, c’était un plaisir de partager cela avec vos auditeurs. – C’est tout pour aujourd’hui. Merci de nous avoir écoutés, et à la prochaine pour une nouvelle émission.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Le Prix Artemisia peut avoir un impact significatif sur la carrière des lauréates",
+      "Il leur apporte une visibilité accrue, tant auprès du public que des éditeurs",
+      "Cela peut se traduire par une augmentation des ventes, des propositions de collaboration, et parfois même des adaptations de leurs œuvres en d’autres formats",
+      "cela renforce leur crédibilité et leur notoriété dans le milieu de la bande dessinée"
+    ]
   },
   {
     "question_no": 25,
@@ -297,7 +446,15 @@
       "Les futurs décideurs politiques."
     ],
     "audio_transcript": "– Prendre le parti des jeunes, un plaidoyer pour la jeunesse. À quelques semaines de la présidentielle, la Fondation Apprentis d’Auteuil publie, je cite, « son petit bouquin d’utilité publique ». Son directeur général est l’invité de ce 12h30 : Nicolas Touriel, bonjour et bienvenue. – Bonjour. – Un manifeste de plus… À quoi bon ? Question que vous vous êtes posée en rédigeant cet ouvrage. Quelle est votre réponse ? – C’est un « parce que » d’abord et avant tout. Il est le fruit d’une concertation avec les jeunes et les familles. Il s’appuie sur leurs paroles, leurs questions face à l’avenir, face à leurs difficultés. Il s’appuie aussi sur nos convictions, nos expériences : en termes de lutte contre le décrochage scolaire, en termes d’insertion professionnelle, en termes de soutien aux parents. Le but : apporter des réponses concrètes, et aussi faire des propositions à nos futurs décideurs politiques. – Justement, un manifeste, vingt propositions. À qui s’adressent ces propositions ? Les candidats à la présidentielle sont-ils les premiers visés ? – Bien sûr, les candidats à la présidentielle sont visés. Mais, j’allais dire : tous les décideurs de la sphère publique, et aussi les décideurs du privé. Parce que notre conviction absolue, c’est qu’il faut, pour notre pays, une sorte d’alliance entre les jeunes, les familles, l’école, l’entreprise, les pouvoirs publics… Et sur des sujets aussi difficiles que le décrochage scolaire et l’insertion professionnelle, tout le monde doit s’y mettre.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Bien sûr, les candidats à la présidentielle sont visés",
+      "Mais, j’allais dire : tous les décideurs de la sphère publique, et aussi les décideurs du privé",
+      "notre conviction absolue, c’est qu’il faut, pour notre pays, une sorte d’alliance entre les jeunes, les familles, l’école, l’entreprise, les pouvoirs publics",
+      "faire des propositions à nos futurs décideurs politiques",
+      "À qui s’adressent ces propositions ?",
+      "tous les décideurs"
+    ]
   },
   {
     "question_no": 26,
@@ -309,7 +466,15 @@
       "Les solutions doivent être trouvées par les experts en éducation sans intervention extérieur."
     ],
     "audio_transcript": "– Prendre le parti des jeunes, un plaidoyer pour la jeunesse. À quelques semaines de la présidentielle, la Fondation Apprentis d’Auteuil publie, je cite, « son petit bouquin d’utilité publique ». Son directeur général est l’invité de ce 12h30 : Nicolas Touriel, bonjour et bienvenue. – Bonjour. – Un manifeste de plus… À quoi bon ? Question que vous vous êtes posée en rédigeant cet ouvrage. Quelle est votre réponse ? – C’est un « parce que » d’abord et avant tout. Il est le fruit d’une concertation avec les jeunes et les familles. Il s’appuie sur leurs paroles, leurs questions face à l’avenir, face à leurs difficultés. Il s’appuie aussi sur nos convictions, nos expériences : en termes de lutte contre le décrochage scolaire, en termes d’insertion professionnelle, en termes de soutien aux parents. Le but : apporter des réponses concrètes, et aussi faire des propositions à nos futurs décideurs politiques. – Justement, un manifeste, vingt propositions. À qui s’adressent ces propositions ? Les candidats à la présidentielle sont-ils les premiers visés ? – Bien sûr, les candidats à la présidentielle sont visés. Mais, j’allais dire : tous les décideurs de la sphère publique, et aussi les décideurs du privé. Parce que notre conviction absolue, c’est qu’il faut, pour notre pays, une sorte d’alliance entre les jeunes, les familles, l’école, l’entreprise, les pouvoirs publics… Et sur des sujets aussi difficiles que le décrochage scolaire et l’insertion professionnelle, tout le monde doit s’y mettre.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "il faut, pour notre pays, une sorte d’alliance entre les jeunes, les familles, l’école, l’entreprise, les pouvoirs publics",
+      "Et sur des sujets aussi difficiles que le décrochage scolaire et l’insertion professionnelle, tout le monde doit s’y mettre",
+      "tous les décideurs de la sphère publique, et aussi les décideurs du privé",
+      "notre conviction absolue",
+      "en termes de lutte contre le décrochage scolaire, en termes d’insertion professionnelle",
+      "apporter des réponses concrètes"
+    ]
   },
   {
     "question_no": 27,
@@ -321,7 +486,13 @@
       "La faible participation des élèves et le manque de soutien des parents."
     ],
     "audio_transcript": "– Bonjour et bienvenue à notre émission. Aujourd’hui, nous avons le plaisir d’accueillir le docteur Thomas Leclerc, historien et spécialiste de l’enseignement de l’histoire. Bonjour Docteur. – Je vous remercie de m’avoir invité. – Pour commencer, dites-nous : pourquoi l’enseignement de l’histoire est-il si important dans notre société ? – L’histoire est cruciale car elle nous permet de comprendre le présent en analysant le passé. En enseignant l’histoire, nous transmettons aux générations futures les leçons du passé, les événements majeurs et les figures influentes qui ont façonné notre monde. C’est un outil essentiel pour développer la pensée critique, la citoyenneté active et le respect des différentes cultures et civilisations. – Quels sont les défis actuels de l’enseignement de l’histoire ? – Nous faisons face à plusieurs défis. Tout d’abord, il y a la question de la sélection et de la présentation des contenus historiques. Il est essentiel de garantir une approche équilibrée et inclusive, qui reflète la diversité de perspectives et d’expériences. Ensuite, il y a la nécessité d’intégrer les nouvelles technologies et les méthodes pédagogiques innovantes pour captiver les élèves et les encourager à s’engager dans l’apprentissage de l’histoire. – Comment pouvons-nous rendre l’enseignement de l’histoire plus pertinent et engageant pour les jeunes d’aujourd’hui ? – Il est crucial de rendre l’histoire pertinente en la reliant aux préoccupations actuelles des élèves. Cela peut se faire en abordant des thèmes contemporains à travers une perspective historique, en utilisant des exemples concrets et en encourageant les débats et les discussions en classe. Les sorties sur le terrain, les projets de recherche et les interactions avec des témoins vivants de l’histoire peuvent également enrichir l’expérience d’apprentissage. – Merci beaucoup, Docteur Leclerc, pour ces éclaircissements sur un sujet aussi important. – Merci à vous, c’était un plaisir d’en discuter. – C’est tout pour aujourd’hui. Merci de nous avoir écoutés, et à la prochaine pour une nouvelle émission.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Nous faisons face à plusieurs défis.",
+      "Tout d’abord, il y a la question de la sélection et de la présentation des contenus historiques.",
+      "Il est essentiel de garantir une approche équilibrée et inclusive, qui reflète la diversité de perspectives et d’expériences.",
+      "Ensuite, il y a la nécessité d’intégrer les nouvelles technologies et les méthodes pédagogiques innovantes pour captiver les élèves et les encourager à s’engager dans l’apprentissage de l’histoire."
+    ]
   },
   {
     "question_no": 28,
@@ -333,7 +504,14 @@
       "En réduisant le nombre de cours d'histoire."
     ],
     "audio_transcript": "– Bonjour et bienvenue à notre émission. Aujourd’hui, nous avons le plaisir d’accueillir le docteur Thomas Leclerc, historien et spécialiste de l’enseignement de l’histoire. Bonjour Docteur. – Je vous remercie de m’avoir invité. – Pour commencer, dites-nous : pourquoi l’enseignement de l’histoire est-il si important dans notre société ? – L’histoire est cruciale car elle nous permet de comprendre le présent en analysant le passé. En enseignant l’histoire, nous transmettons aux générations futures les leçons du passé, les événements majeurs et les figures influentes qui ont façonné notre monde. C’est un outil essentiel pour développer la pensée critique, la citoyenneté active et le respect des différentes cultures et civilisations. – Quels sont les défis actuels de l’enseignement de l’histoire ? – Nous faisons face à plusieurs défis. Tout d’abord, il y a la question de la sélection et de la présentation des contenus historiques. Il est essentiel de garantir une approche équilibrée et inclusive, qui reflète la diversité de perspectives et d’expériences. Ensuite, il y a la nécessité d’intégrer les nouvelles technologies et les méthodes pédagogiques innovantes pour captiver les élèves et les encourager à s’engager dans l’apprentissage de l’histoire. – Comment pouvons-nous rendre l’enseignement de l’histoire plus pertinent et engageant pour les jeunes d’aujourd’hui ? – Il est crucial de rendre l’histoire pertinente en la reliant aux préoccupations actuelles des élèves. Cela peut se faire en abordant des thèmes contemporains à travers une perspective historique, en utilisant des exemples concrets et en encourageant les débats et les discussions en classe. Les sorties sur le terrain, les projets de recherche et les interactions avec des témoins vivants de l’histoire peuvent également enrichir l’expérience d’apprentissage. – Merci beaucoup, Docteur Leclerc, pour ces éclaircissements sur un sujet aussi important. – Merci à vous, c’était un plaisir d’en discuter. – C’est tout pour aujourd’hui. Merci de nous avoir écoutés, et à la prochaine pour une nouvelle émission.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Il est crucial de rendre l’histoire pertinente en la reliant aux préoccupations actuelles des élèves",
+      "Cela peut se faire en abordant des thèmes contemporains à travers une perspective historique",
+      "en utilisant des exemples concrets",
+      "en encourageant les débats et les discussions en classe",
+      "Les sorties sur le terrain, les projets de recherche et les interactions avec des témoins vivants de l’histoire peuvent également enrichir l’expérience d’apprentissage"
+    ]
   },
   {
     "question_no": 29,
@@ -345,7 +523,13 @@
       "En raison de nouvelles réglementations sur la pêche."
     ],
     "audio_transcript": "Cette commande Lucas Simon ostréiculteur l'entend de plus en plus rarement derrière son stand de ce marché de Bordeaux. Vente. Monsieur c'est ce je sais pas le cinquième ou sixième qui dans la journée. Je ne vais pas dire on vend pas de 8, on vend pas autant de bus qu'on devrait en vendre actuellement. Sur les chiffres on est à peu près 50 pour 100 de vente en moins par rapport à l'an dernier. La raison de cette baisse des ventes porte un mot le neuro virus responsable de la gastro-entérite après de fortes pluies cet hiver ce virus présent dans les eaux usées s'est déversé dans le bassin d'Arcachon début janvier les huîtres ont été interdites à la vente pendant plus de 3 semaines. Ça a vraiment créé un désamour du consommateur et la consommation a vraiment du mal à repartir. Thierry Laffont est ostréiculteur, il est aussi président de l'association de défense des eaux du bassin d'Arcachon et il accuse le syndicat en charge de la gestion des eaux, le SIBA. J'ai déposé plainte justement contre le SIBA ainsi créé, je l'ai déposé et au nom de l'association des phases des eaux et en mon nom propre d'un consécutif parce que je considère qu'ils sont à l'origine d'un préjudice majeur et de pollution des eaux et pour mon activité avec des conséquences économiques importantes, ceux qui sont responsables donc c'est tout à fait normal de poser plainte contre dire que le milieu dans lequel on travaille est pollué, ce n'est pas ce qu'il y a de plus embêtant pour ce qu'on va mettre dans l'assiette après forcément. Ce qu'il faut être conscient, il y a un moment où on ne peut plus se contenter comme ça d'une position de réserve et de se dire les choses. Le 2 avril, le tribunal judiciaire de Bordeaux a donné raison à l'ostréiculteur. Syndicat et sa filiale gérée par le groupe Veolia doivent réaliser des travaux d'urgence pour que les eaux usées ne débordent plus dans le bassin d'Arcachon. Christelle de Traverse la directrice des opérations pour Veolia haut dans le sud-ouest. Ça implique pour une entreprise comme la nôtre, mais aussi pour la collectivité d'engager des travaux et de se projeter en se disant cette situation exceptionnelle, elle pourrait recommencer et voilà la manière dont on va la traiter. Avec le dérèglement climatique, ça va se reproduire. On travaille maintenant à vraiment identifier le plus en amont possible ces situations exceptionnelles de manière à pouvoir conseiller les collectivités et à proposer des solutions aux collectivités. En attendant sur le bassin, les professionnels espèrent que le retour des beaux jours fera revenir les clients. Une grande campagne de communication a été lancée sur les routes, dans les petites cabanes à huîtres et ce même a été lancée sur les routes dans les petites cabanes à huîtres et ce même message placardé sur des affiches. Retrouvons.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "ce virus présent dans les eaux usées s'est déversé dans le bassin d'Arcachon début janvier",
+      "les huîtres ont été interdites à la vente pendant plus de 3 semaines",
+      "La raison de cette baisse des ventes porte un mot le neuro virus responsable de la gastro-entérite",
+      "après de fortes pluies cet hiver ce virus présent dans les eaux usées s'est déversé dans le bassin d'Arcachon"
+    ]
   },
   {
     "question_no": 30,
@@ -357,7 +541,13 @@
       "De dédommager les ostréiculteurs sans faire de travaux."
     ],
     "audio_transcript": "Cette commande Lucas Simon ostréiculteur l'entend de plus en plus rarement derrière son stand de ce marché de Bordeaux. Vente. Monsieur c'est ce je sais pas le cinquième ou sixième qui dans la journée. Je ne vais pas dire on vend pas de 8, on vend pas autant de bus qu'on devrait en vendre actuellement. Sur les chiffres on est à peu près 50 pour 100 de vente en moins par rapport à l'an dernier. La raison de cette baisse des ventes porte un mot le neuro virus responsable de la gastro-entérite après de fortes pluies cet hiver ce virus présent dans les eaux usées s'est déversé dans le bassin d'Arcachon début janvier les huîtres ont été interdites à la vente pendant plus de 3 semaines. Ça a vraiment créé un désamour du consommateur et la consommation a vraiment du mal à repartir. Thierry Laffont est ostréiculteur, il est aussi président de l'association de défense des eaux du bassin d'Arcachon et il accuse le syndicat en charge de la gestion des eaux, le SIBA. J'ai déposé plainte justement contre le SIBA ainsi créé, je l'ai déposé et au nom de l'association des phases des eaux et en mon nom propre d'un consécutif parce que je considère qu'ils sont à l'origine d'un préjudice majeur et de pollution des eaux et pour mon activité avec des conséquences économiques importantes, ceux qui sont responsables donc c'est tout à fait normal de poser plainte contre dire que le milieu dans lequel on travaille est pollué, ce n'est pas ce qu'il y a de plus embêtant pour ce qu'on va mettre dans l'assiette après forcément. Ce qu'il faut être conscient, il y a un moment où on ne peut plus se contenter comme ça d'une position de réserve et de se dire les choses. Le 2 avril, le tribunal judiciaire de Bordeaux a donné raison à l'ostréiculteur. Syndicat et sa filiale gérée par le groupe Veolia doivent réaliser des travaux d'urgence pour que les eaux usées ne débordent plus dans le bassin d'Arcachon. Christelle de Traverse la directrice des opérations pour Veolia haut dans le sud-ouest. Ça implique pour une entreprise comme la nôtre, mais aussi pour la collectivité d'engager des travaux et de se projeter en se disant cette situation exceptionnelle, elle pourrait recommencer et voilà la manière dont on va la traiter. Avec le dérèglement climatique, ça va se reproduire. On travaille maintenant à vraiment identifier le plus en amont possible ces situations exceptionnelles de manière à pouvoir conseiller les collectivités et à proposer des solutions aux collectivités. En attendant sur le bassin, les professionnels espèrent que le retour des beaux jours fera revenir les clients. Une grande campagne de communication a été lancée sur les routes, dans les petites cabanes à huîtres et ce même a été lancée sur les routes dans les petites cabanes à huîtres et ce même message placardé sur des affiches. Retrouvons.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Le 2 avril, le tribunal judiciaire de Bordeaux a donné raison à l'ostréiculteur.",
+      "Syndicat et sa filiale gérée par le groupe Veolia doivent réaliser des travaux d'urgence",
+      "pour que les eaux usées ne débordent plus dans le bassin d'Arcachon",
+      "Ça implique pour une entreprise comme la nôtre, mais aussi pour la collectivité d'engager des travaux"
+    ]
   },
   {
     "question_no": 31,
@@ -369,7 +559,14 @@
       "Protéine de poisson minimal près de la côte."
     ],
     "audio_transcript": "L'annonce avait été faite en grande pompe par Nicolas Sarkozy. Des policiers référents allaient investir dès le mois de mai dernier une douzaine d'établissements pilotes en France. Des collèges tous regroupés dans le même département, le quatre-vingt-douze, dont le président n'est autre que Nicolas Sarkozy. Mais sur le terrain en ce jour de rentrée pour les cinquième, beaucoup n'ont étonnamment rien remarqué.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "L'annonce avait été faite en grande pompe",
+      "Des policiers référents allaient investir dès le mois de mai dernier",
+      "une douzaine d'établissements pilotes",
+      "Mais sur le terrain en ce jour de rentrée",
+      "beaucoup n'ont étonnamment rien remarqué"
+    ]
   },
   {
     "question_no": 32,
@@ -381,7 +578,12 @@
       "Un français sur dix considère la rédaction d'un testament comme délicate."
     ],
     "audio_transcript": "Préparer sa succession et rédiger un testament de son vivant, une décision utile, mais délicate pour l'immense majorité des Français. Aujourd'hui, une personne sur 10 seulement a franchi le pas.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "une personne sur 10 seulement a franchi le pas",
+      "Préparer sa succession et rédiger un testament de son vivant",
+      "une décision utile, mais délicate pour l'immense majorité des Français"
+    ]
   },
   {
     "question_no": 33,
@@ -393,7 +595,12 @@
       "La multiplication d'actes désespérés parmi un plus grand nombre d'agents EDF."
     ],
     "audio_transcript": "La centrale nucléaire est située en rase campagne, un site sous haute surveillance à quelques kilomètres de la petite ville d'Avoine. Un site récemment endeuillé par le suicide d'un cadre de 50 ans. L'homme avait une haute responsabilité dans la conduite des réacteurs. Il s'agit du troisième suicide depuis août deux-mille-six, du quatrième depuis l'été deux-mille-quatre. Alors la direction de la centrale fait face à une crise grave, car la multiplication d'actes désespérés de la part d'agents EDF fait forcément planer le soupçon sur les conditions de travail.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "la direction de la centrale fait face à une crise grave",
+      "la multiplication d'actes désespérés de la part d'agents EDF fait forcément planer le soupçon sur les conditions de travail",
+      "le soupçon sur les conditions de travail"
+    ]
   },
   {
     "question_no": 34,
@@ -405,7 +612,12 @@
       "Une diminution de la sécurité au travail due à une forte consommation de tabac."
     ],
     "audio_transcript": "Dans l'entreprise de bâtiment Batcot comme dans toutes les entreprises françaises, depuis février, les salariés sortent dehors pour fumer, c'est-à-dire plus de la moitié du personnel. Dominique Pimont, la patronne, ne veut pas jouer aux gendarmes. Pour l'instant, chacun sort donc à sa guise quand il l'entend, mais elle craint un terme que les non-fumeurs aient le sentiment de travailler plus que les autres.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "elle craint un terme que les non-fumeurs aient le sentiment de travailler plus que les autres",
+      "ne veut pas jouer aux gendarmes",
+      "chacun sort donc à sa guise quand il l'entend"
+    ]
   },
   {
     "question_no": 35,
@@ -417,7 +629,15 @@
       "Prolonger les horaires d'ouverture des magasins."
     ],
     "audio_transcript": "Le consommateur aujourd'hui a le choix entre acheter un produit en ligne ou se rendre en magasin pour acheter son produit. Et la distribution traditionnelle, donc il est né du commerce physique, doit faire face au challenge de se digitaliser, c'est-à-dire qu'on passe d'une économie de produits à une économie de services, c'est-à-dire que au-delà de la vente d'un produit, on va vous y associer des services, des cours de cuisine, on va vous faciliter l'accès au magasin, par exemple on va vous permettre d'avoir du covoiturage pour arriver en magasin. Vous avez tout un, toute une élaboration de services autour du produit qui est en train de se mettre en place.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "on passe d'une économie de produits à une économie de services",
+      "au-delà de la vente d'un produit, on va vous y associer des services",
+      "des cours de cuisine",
+      "on va vous faciliter l'accès au magasin",
+      "on va vous permettre d'avoir du covoiturage pour arriver en magasin",
+      "toute une élaboration de services autour du produit qui est en train de se mettre en place"
+    ]
   },
   {
     "question_no": 36,
@@ -429,7 +649,12 @@
       "L'accessibilité des applications sur les smartphones."
     ],
     "audio_transcript": "Depuis le début de la pandémie, se faire livrer son repas au bureau ou à la maison est devenu une habitude pour beaucoup. Après avoir conquis les grandes métropoles, ce nouveau mode de consommation est en train de gagner les petites villes et même les campagnes. La clé de ce succès, des applications de livraison accessibles sur les smartphones. Il suffit de quelques clics pour choisir son repas parmi des dizaines de restaurants du voisinage et se faire livrer en moins de 20 minutes. 7 commandes de repas sur 10 se font via ces applications, majoritairement anglo-saxonnes.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "La clé de ce succès, des applications de livraison accessibles sur les smartphones",
+      "des applications de livraison accessibles sur les smartphones",
+      "accessibles sur les smartphones"
+    ]
   },
   {
     "question_no": 37,
@@ -441,7 +666,12 @@
       "Un manifeste permettant aux consommateurs de choisir des produits de grande qualité nutritionnelle."
     ],
     "audio_transcript": "Comment savoir en un coup d'œil si des céréales, des yaourts aux fruits ou un plat préparé sont équilibrés sur le plan nutritionnel ? Jusqu'à récemment, il fallait se pencher sur le tableau inscrit en petit à l'arrière des emballages. Mais depuis deux-mille-dix-sept, vous l'avez peut-être remarqué, il existe un logo à 5 couleurs qu'on appelle le Nutri-Score. L'objectif, c'est d'aider les consommateurs à faire des meilleurs choix nutritionnels et de pousser les industriels à améliorer leurs produits.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "il existe un logo à 5 couleurs qu'on appelle le Nutri-Score",
+      "L'objectif, c'est d'aider les consommateurs à faire des meilleurs choix nutritionnels",
+      "de pousser les industriels à améliorer leurs produits"
+    ]
   },
   {
     "question_no": 38,
@@ -453,7 +683,15 @@
       "Le surpoids gagne du terrain avec la crise économique."
     ],
     "audio_transcript": "7 000 000 de Français officiellement aujourd'hui souffrent de problèmes au sens large d'obésité, les Gifs qui augmentent eux aussi avec la crise. Jadis on disait quand les riches maigrissent, les pauvres meurent, nous avons visiblement changé d'époque. Autrement dit la crise fait aussi grossir avec des problèmes gravissimes de santé publique, 10 ans de vie en moins pour les grands obèses, la malbouffe tue désormais plus que le tabac et c'est une première historique en tout cas dans cette conclusion que vient de publier les Nations unies.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "7 000 000 de Français officiellement aujourd'hui souffrent de problèmes au sens large d'obésité",
+      "les Gifs qui augmentent eux aussi avec la crise",
+      "la crise fait aussi grossir",
+      "des problèmes gravissimes de santé publique",
+      "10 ans de vie en moins pour les grands obèses",
+      "la malbouffe tue désormais plus que le tabac"
+    ]
   },
   {
     "question_no": 39,
@@ -465,7 +703,11 @@
       "Les immigrants récents et les jeunes."
     ],
     "audio_transcript": "La crise du logement en France devient de plus en plus préoccupante. Les prix des loyers augmentent, rendant l'accès au logement difficile pour de nombreuses personnes, notamment les jeunes et les familles à faibles revenus. Les villes manquent de logements sociaux et abordables, ce qui exacerbe les inégalités. Il est crucial que des mesures soient prises pour augmenter l'offre de logements et réguler les prix afin de garantir un toit pour tous.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Les prix des loyers augmentent, rendant l'accès au logement difficile pour de nombreuses personnes, notamment les jeunes et les familles à faibles revenus",
+      "notamment les jeunes et les familles à faibles revenus"
+    ]
   },
   {
     "question_no": 40,
@@ -477,6 +719,11 @@
       "Encourager la consommation de l'argile comme source de minéraux essentiels."
     ],
     "audio_transcript": "En Haïti, l'argile est souvent consommée en raison de croyances traditionnelles ou pour des raisons de carences en minéraux. Cependant, cette pratique peut entraîner des problèmes de santé graves. Il est important de sensibiliser sur les dangers de cette habitude et de promouvoir des alternatives plus saines.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "cette pratique peut entraîner des problèmes de santé graves",
+      "Il est important de sensibiliser sur les dangers de cette habitude",
+      "promouvoir des alternatives plus saines"
+    ]
   }
 ]

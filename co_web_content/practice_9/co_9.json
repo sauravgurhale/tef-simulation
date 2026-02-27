@@ -9,7 +9,12 @@
       "D"
     ],
     "audio_transcript": "— Tu as une idée de cadeau pour l’anniversaire d’Amandine ? — Eh bien, peut-être. J’ai vu une jolie table et 2 chaises. Ce serait très bien pour son balcon.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "une jolie table",
+      "2 chaises",
+      "pour son balcon"
+    ]
   },
   {
     "question_no": 2,
@@ -21,7 +26,12 @@
       "D"
     ],
     "audio_transcript": "— Est-ce que je peux utiliser tes toilettes ? — Mais bien sûr, elles sont dans la salle de bain, la deuxième porte à gauche.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "toilettes",
+      "salle de bain",
+      "deuxième porte à gauche"
+    ]
   },
   {
     "question_no": 3,
@@ -33,7 +43,12 @@
       "D"
     ],
     "audio_transcript": "— Tu savais que pendant tout l’été, la ville a installé un cinéma de plein air ? — Ça te dirait d’y aller ce soir ? — Excellente idée, je n’ai jamais fait ça.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "cinéma de plein air",
+      "pendant tout l’été",
+      "la ville a installé"
+    ]
   },
   {
     "question_no": 4,
@@ -45,7 +60,12 @@
       "D"
     ],
     "audio_transcript": "— Salut Ali, ça ne va pas ? — Oh non, pas du tout. J’ai dû gérer plein de problèmes, je suis épuisé. — Je crois que je ne suis pas fait pour passer la journée assis devant un ordinateur.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "assis devant un ordinateur",
+      "épuisé",
+      "plein de problèmes"
+    ]
   },
   {
     "question_no": 5,
@@ -57,7 +77,13 @@
       "à tout le monde."
     ],
     "audio_transcript": "Mesdames, Messieurs, les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants et de ne pas les laisser approcher des grilles.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Mesdames, Messieurs",
+      "les animaux du zoo peuvent être dangereux",
+      "Merci de surveiller vos enfants",
+      "de ne pas les laisser approcher des grilles"
+    ]
   },
   {
     "question_no": 6,
@@ -69,7 +95,12 @@
       "de faire attention au matériel."
     ],
     "audio_transcript": "Nous vous rappelons que les téléphones doivent être éteints durant toute la durée du film. Nous passerons dans la salle régulièrement pour vérifier que c’est bien le cas. Merci de votre compréhension.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "les téléphones doivent être éteints durant toute la durée du film",
+      "Nous passerons dans la salle régulièrement pour vérifier que c’est bien le cas",
+      "Merci de votre compréhension"
+    ]
   },
   {
     "question_no": 7,
@@ -81,7 +112,13 @@
       "la durée de validité des cartes de fidélité."
     ],
     "audio_transcript": "Chère cliente, il ne vous reste que quelques heures pour profiter de réductions exceptionnelles au rayon Beauté au féminin, qui se situe au quatrième étage de notre centre commercial. Jusqu’à moins 50 % sur le maquillage, les soins du visage et la parfumerie. N’attendez plus !",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "il ne vous reste que quelques heures",
+      "réductions exceptionnelles",
+      "Jusqu’à moins 50 %",
+      "N’attendez plus"
+    ]
   },
   {
     "question_no": 8,
@@ -93,7 +130,12 @@
       "informe d'une réduction des frais d'inscription."
     ],
     "audio_transcript": "Mesdames, Messieurs, je suis Anton Lewinski, votre commandant, et je vous remercie d’avoir choisi Air Transat pour votre voyage vers Cuba. Nous atteindrons Cayo Largo à 11 h 30, heure locale, comme prévu, après 4 h 15 de vol environ. Le personnel de bord se tient à votre entière disposition.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "à 11 h 30, heure locale, comme prévu",
+      "après 4 h 15 de vol environ",
+      "Nous atteindrons Cayo Largo"
+    ]
   },
   {
     "question_no": 9,
@@ -105,7 +147,13 @@
       "pour prendre des nouvelles."
     ],
     "audio_transcript": "Bon, c’était papa. J’appelais juste pour savoir si tu vas bien, si tu es en forme et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps, bisous.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "J’appelais juste pour savoir si tu vas bien",
+      "si tu es en forme",
+      "si ton nouveau travail te plaît",
+      "Rappelle-moi quand tu as le temps"
+    ]
   },
   {
     "question_no": 10,
@@ -117,7 +165,11 @@
       "pour se renseigner sur un cours."
     ],
     "audio_transcript": "Bonjour Fatiha, j’espère que vous aurez ce message rapidement. Je ne peux pas venir au cours d’arabe ce soir, mon fils est malade. Désolé de prévenir au dernier moment et à la semaine prochaine.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je ne peux pas venir au cours d’arabe ce soir",
+      "Désolé de prévenir au dernier moment"
+    ]
   },
   {
     "question_no": 11,
@@ -129,7 +181,14 @@
       "pour demander un service."
     ],
     "audio_transcript": "Bonjour Madame, je suis Madame Fekir de la société FK Pro. Vous m’avez laissé votre CV pour un poste d’agent d’accueil. J’aimerais vous rencontrer dès que possible. Vous pouvez me rappeler à ce numéro.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "je suis Madame Fekir de la société FK Pro",
+      "Vous m’avez laissé votre CV pour un poste d’agent d’accueil",
+      "J’aimerais vous rencontrer",
+      "dès que possible",
+      "Vous pouvez me rappeler à ce numéro"
+    ]
   },
   {
     "question_no": 12,
@@ -141,7 +200,13 @@
       "pour indiquer les options de remboursement."
     ],
     "audio_transcript": "Bonjour Monsieur Lévesque, c’est Gaëtan d’Orléans Express. Je vous appelle concernant votre voyage en autocar Montréal–Gaspé prévu pour demain matin à 7 heures. Compte tenu des conditions climatiques, le départ est susceptible d’être reporté ou annulé. Pouvez-vous me rappeler au 8 3 3 4 4 9 6 4 4 1 ? Merci.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je vous appelle concernant votre voyage en autocar Montréal–Gaspé prévu pour demain matin à 7 heures",
+      "Compte tenu des conditions climatiques",
+      "le départ est susceptible d’être reporté ou annulé",
+      "Pouvez-vous me rappeler"
+    ]
   },
   {
     "question_no": 13,
@@ -153,7 +218,14 @@
       "pour confirmer la réception d'une commande."
     ],
     "audio_transcript": "Allô, c’est encore Monsieur Traoré concernant la livraison d’une machine à laver Midea, rue Comoé. Ça fait 2 heures que j’attends les livreurs. Ce n’est pas normal qu’on ne m’appelle pas et j’ai autre chose à faire à présent. Rappelez-moi au plus vite.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "c’est encore Monsieur Traoré",
+      "Ça fait 2 heures que j’attends les livreurs",
+      "Ce n’est pas normal qu’on ne m’appelle pas",
+      "j’ai autre chose à faire à présent",
+      "Rappelez-moi au plus vite"
+    ]
   },
   {
     "question_no": 14,
@@ -165,7 +237,12 @@
       "pour modifier un document."
     ],
     "audio_transcript": "Oui Nadia, j’ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu’il manque un point important. Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu’on voie ça ensemble ? Merci.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "j’ai lu ton compte rendu de la réunion de ce matin",
+      "Il est très bien, mais il me semble qu’il manque un point important",
+      "Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu’on voie ça ensemble"
+    ]
   },
   {
     "question_no": 15,
@@ -177,7 +254,12 @@
       ""
     ],
     "audio_transcript": "Déjà, il faut savoir de quels élèves on parle. À l’université, les étudiants peuvent avoir un regard intéressant. Mais des enfants ou des adolescents, franchement...",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "il faut savoir de quels élèves on parle",
+      "À l’université, les étudiants peuvent avoir un regard intéressant",
+      "Mais des enfants ou des adolescents, franchement..."
+    ]
   },
   {
     "question_no": 16,
@@ -189,7 +271,12 @@
       ""
     ],
     "audio_transcript": "Quand j’entends ce que mon fils me raconte : « La maîtresse n’est pas gentille, elle m’a puni », et blablabla… Ce serait une catastrophe pour les enseignants.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Ce serait une catastrophe pour les enseignants",
+      "n’est pas gentille",
+      "m’a puni"
+    ]
   },
   {
     "question_no": 17,
@@ -201,7 +288,12 @@
       ""
     ],
     "audio_transcript": "Notre système éducatif va de plus en plus mal. Je pense que tout ce qui peut aider à l’améliorer est bon à prendre. Tant pis pour les susceptibilités.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Notre système éducatif va de plus en plus mal",
+      "Je pense que tout ce qui peut aider à l’améliorer est bon à prendre",
+      "Tant pis pour les susceptibilités"
+    ]
   },
   {
     "question_no": 18,
@@ -213,7 +305,12 @@
       ""
     ],
     "audio_transcript": "Dans mon métier, je suis comédienne. On ne réfléchit pas en termes de carrière, de retraite et tout ça. On vit au fil des rencontres et des contrats. Pour moi, cette liberté n’a pas de prix.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "On ne réfléchit pas en termes de carrière, de retraite et tout ça",
+      "On vit au fil des rencontres et des contrats",
+      "Pour moi, cette liberté n’a pas de prix"
+    ]
   },
   {
     "question_no": 19,
@@ -225,7 +322,10 @@
       ""
     ],
     "audio_transcript": "Mon frère a tout plaqué pour ouvrir un restaurant. Ma sœur alterne entre petit boulot et bénévolat. Et moi, ça fait 15 ans que je suis dans la même entreprise. Chacun fait comme il veut ou comme il peut.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Chacun fait comme il veut ou comme il peut."
+    ]
   },
   {
     "question_no": 20,
@@ -237,7 +337,12 @@
       ""
     ],
     "audio_transcript": "La question est tout de même bizarre. Pour payer ses factures, obtenir un crédit, financer les études des enfants, il faut des rentrées d’argent régulières et surtout une vision à long terme.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "La question est tout de même bizarre",
+      "il faut des rentrées d’argent régulières",
+      "et surtout une vision à long terme"
+    ]
   },
   {
     "question_no": 21,
@@ -249,7 +354,15 @@
       "qui s'inspire des pratiques des habitants des campagnes."
     ],
     "audio_transcript": "Ce matin, je vous emmène à Tahiti pour vous parler d’une association qui mène une action formidable. Tous les samedis, un atelier itinérant de réparation d’appareils électroménagers se déplace là où il y a de la demande, notamment dans les campagnes reculées, et parvient à réparer soixante-quinze pour cent des articles qu’on lui présente. Ça n’a l’air de rien, mais les gens découvrent que, bien souvent, il suffit de changer une petite pièce, voire même de décrasser un appareil pour lui donner une seconde vie. Et ce n’est pas tout. Derrière un simple achat, il y a de la matière première, de l’eau, du transport, c’est-à-dire une empreinte écologique invisible. Réparer est donc bon pour le portefeuille et bon pour la planète. En ces temps où les nouvelles sont plutôt alarmantes, en voilà une qui met du baume au cœur.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "un atelier itinérant de réparation d’appareils électroménagers",
+      "parvient à réparer soixante-quinze pour cent des articles qu’on lui présente",
+      "il suffit de changer une petite pièce, voire même de décrasser un appareil pour lui donner une seconde vie",
+      "Derrière un simple achat, il y a de la matière première, de l’eau, du transport, c’est-à-dire une empreinte écologique invisible",
+      "Réparer est donc bon pour le portefeuille et bon pour la planète",
+      "En ces temps où les nouvelles sont plutôt alarmantes, en voilà une qui met du baume au cœur"
+    ]
   },
   {
     "question_no": 22,
@@ -261,7 +374,16 @@
       "Elle a abandonné son travail artistique pour payer ses études."
     ],
     "audio_transcript": "Chères auditrices, chers auditeurs, je vais vous parler de la marche à pied, celle que vous pratiquez pour vous détendre, vous muscler ou accompagner votre chien. Qu’elle soit bonne pour la santé, c’est un fait connu. Trente minutes par jour et le tour est joué, racontent les médecins. Mais savez-vous qu’elle l’est également pour l’esprit ? De tout temps, les philosophes ont loué ses bienfaits sur leur inspiration. Et puisque la moitié de nos promenades consiste à revenir sur nos pas, elles constituent l’activité parfaite pour revenir en même temps sur nous-mêmes : prendre le temps de repenser à nos expériences et à nos paroles. La marche ne nécessite ni véhicule, ni outil, rien d’autre que soi-même. Et comme, pour aller plus lentement, on n’a rien trouvé de mieux, adoptons-la comme moyen de résistance à ce monde qui va toujours plus vite.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "adoptons-la comme moyen de résistance à ce monde qui va toujours plus vite",
+      "La marche ne nécessite ni véhicule, ni outil, rien d’autre que soi-même",
+      "comme, pour aller plus lentement, on n’a rien trouvé de mieux",
+      "elles constituent l’activité parfaite pour revenir en même temps sur nous-mêmes",
+      "De tout temps, les philosophes ont loué ses bienfaits sur leur inspiration",
+      "Qu’elle soit bonne pour la santé, c’est un fait connu",
+      "elle l’est également pour l’esprit"
+    ]
   },
   {
     "question_no": 23,
@@ -273,7 +395,11 @@
       "sur les conditions exceptionnelles de cet hiver."
     ],
     "audio_transcript": "Avec nous, la mairesse de Montréal, Victoria Demer. — Bonsoir, Madame Demer. — Bonsoir, Monsieur Leroy. — Alors que les températures atteignent des records de froid, les esprits s’échauffent depuis que vous avez affirmé, je cite : « Il y a assez de place pour les sans-abri. » — Le vrai problème, c’est qu’en ce moment, à Montréal, on a de la misère à trouver des travailleurs et des travailleuses qui peuvent accompagner les personnes en situation d’itinérance. — Pourquoi refusez-vous de fournir des tanks provisoires ? — Est-ce que c’est normal, ce système où on s’occupe des populations itinérantes l’hiver ? On met des refuges, et après ça retombe. — Ce qu’il faut, c’est travailler sur le long terme, en ayant notamment davantage de logements sociaux.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "on a de la misère à trouver des travailleurs et des travailleuses qui peuvent accompagner les personnes en situation d’itinérance",
+      "Le vrai problème, c’est qu’en ce moment, à Montréal, on a de la misère à trouver des travailleurs et des travailleuses"
+    ]
   },
   {
     "question_no": 24,
@@ -285,7 +411,12 @@
       "à obtenir une aide de l'État fédéral canadien"
     ],
     "audio_transcript": "Avec nous, la mairesse de Montréal, Victoria Demer. — Bonsoir, Madame Demer. — Bonsoir, Monsieur Leroy. — Alors que les températures atteignent des records de froid, les esprits s’échauffent depuis que vous avez affirmé, je cite : « Il y a assez de place pour les sans-abri. » — Le vrai problème, c’est qu’en ce moment, à Montréal, on a de la misère à trouver des travailleurs et des travailleuses qui peuvent accompagner les personnes en situation d’itinérance. — Pourquoi refusez-vous de fournir des tanks provisoires ? — Est-ce que c’est normal, ce système où on s’occupe des populations itinérantes l’hiver ? On met des refuges, et après ça retombe. — Ce qu’il faut, c’est travailler sur le long terme, en ayant notamment davantage de logements sociaux.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Ce qu’il faut, c’est travailler sur le long terme",
+      "davantage de logements sociaux",
+      "Est-ce que c’est normal, ce système où on s’occupe des populations itinérantes l’hiver ? On met des refuges, et après ça retombe."
+    ]
   },
   {
     "question_no": 25,
@@ -297,7 +428,14 @@
       "de mettre en avant les connaissances fondamentales."
     ],
     "audio_transcript": "Professeur Joseph Ngondi, vous organisez un séminaire à l’université Yaoundé 1 sur l’utilité des savoirs inutiles. — Qu’est-ce qui se cache derrière cet intitulé magnifique ? — La problématique ici, c’est qu’on conseille aux jeunes d’aller vers les sciences très appliquées. — Parce qu’il y a des financements et des exigences des bailleurs. — Mais on oublie que les résultats perçus hier comme inutiles sont devenus aujourd’hui absolument indispensables. — Je prends l’exemple du GPS, basé sur une théorie d’Albert Einstein qui a longtemps été jugée peu intéressante. — Est-ce qu’aujourd’hui c’est un combat de soutenir la recherche en mathématiques ? — Alors, si nous percevons les mathématiques comme une boîte à outils pour la haute technologie, bien sûr, mais aussi pour notre vie quotidienne, vous comprenez qu’on n’a pas beaucoup le choix. — Mais je pense que ce qui compte, c’est l’excellence. — Et pour cela, il faut pouvoir commencer des travaux sans savoir où ils nous conduisent.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "vous organisez un séminaire à l’université Yaoundé 1 sur l’utilité des savoirs inutiles",
+      "on conseille aux jeunes d’aller vers les sciences très appliquées",
+      "on oublie que les résultats perçus hier comme inutiles sont devenus aujourd’hui absolument indispensables",
+      "Je prends l’exemple du GPS, basé sur une théorie d’Albert Einstein qui a longtemps été jugée peu intéressante",
+      "il faut pouvoir commencer des travaux sans savoir où ils nous conduisent"
+    ]
   },
   {
     "question_no": 26,
@@ -309,7 +447,13 @@
       "le mépris du public pour les mathématiques."
     ],
     "audio_transcript": "Professeur Joseph Ngondi, vous organisez un séminaire à l’université Yaoundé 1 sur l’utilité des savoirs inutiles. — Qu’est-ce qui se cache derrière cet intitulé magnifique ? — La problématique ici, c’est qu’on conseille aux jeunes d’aller vers les sciences très appliquées. — Parce qu’il y a des financements et des exigences des bailleurs. — Mais on oublie que les résultats perçus hier comme inutiles sont devenus aujourd’hui absolument indispensables. — Je prends l’exemple du GPS, basé sur une théorie d’Albert Einstein qui a longtemps été jugée peu intéressante. — Est-ce qu’aujourd’hui c’est un combat de soutenir la recherche en mathématiques ? — Alors, si nous percevons les mathématiques comme une boîte à outils pour la haute technologie, bien sûr, mais aussi pour notre vie quotidienne, vous comprenez qu’on n’a pas beaucoup le choix. — Mais je pense que ce qui compte, c’est l’excellence. — Et pour cela, il faut pouvoir commencer des travaux sans savoir où ils nous conduisent.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "on conseille aux jeunes d’aller vers les sciences très appliquées",
+      "il y a des financements et des exigences des bailleurs",
+      "Mais on oublie que les résultats perçus hier comme inutiles sont devenus aujourd’hui absolument indispensables",
+      "les résultats perçus hier comme inutiles sont devenus aujourd’hui absolument indispensables"
+    ]
   },
   {
     "question_no": 27,
@@ -321,7 +465,14 @@
       "les rapports avec la police ont toujours été tendus."
     ],
     "audio_transcript": "Avec ses dix-huit tours et ses 3 000 habitants, le quartier Ordenbeck est une plaque tournante de la drogue en Belgique. Rachida El Adaoui, vous y êtes éducatrice depuis 15 ans. Quelle est votre analyse ? — Au niveau délinquance et trafic, rien n’a changé. — Au contraire, ça s’organise mieux. À une époque, la police montait et passait, et les jeunes allaient caresser les chevaux. On a perdu ça. — On est clairement dans le répressif. Ce n’est que lorsqu’il y a un gros souci que la police débarque, heureusement encore. — La difficulté, c’est que le trafic de drogue gangrène tout. Les jeunes du quartier sont payés pour faire le guet, ça rapporte 100 euros par jour. — Quand vous leur parlez formation, emploi, vous n’êtes pas audible. — Le Bourgmestre vient d’annoncer un plan de 15 000 000 d’euros pour rénover le quartier. Très bien, mais qu’il n’oublie pas que ses prédécesseurs aussi ont investi, puis sont repartis aussi vite. — Je retiens surtout la création d’une antenne de proximité. C’est un lieu où le citoyen, la police et tous les acteurs de terrain peuvent se rencontrer. — L’idée, c’est d’avoir des équipes qui connaissent mieux le territoire et travaillent sur la durée.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Quand vous leur parlez formation, emploi, vous n’êtes pas audible.",
+      "Les jeunes du quartier sont payés pour faire le guet, ça rapporte 100 euros par jour.",
+      "Ce n’est que lorsqu’il y a un gros souci que la police débarque",
+      "On a perdu ça.",
+      "On est clairement dans le répressif."
+    ]
   },
   {
     "question_no": 28,
@@ -333,7 +484,13 @@
       "suivront les recommandations des acteurs de terrain."
     ],
     "audio_transcript": "Avec ses dix-huit tours et ses 3 000 habitants, le quartier Ordenbeck est une plaque tournante de la drogue en Belgique. Rachida El Adaoui, vous y êtes éducatrice depuis 15 ans. Quelle est votre analyse ? — Au niveau délinquance et trafic, rien n’a changé. — Au contraire, ça s’organise mieux. À une époque, la police montait et passait, et les jeunes allaient caresser les chevaux. On a perdu ça. — On est clairement dans le répressif. Ce n’est que lorsqu’il y a un gros souci que la police débarque, heureusement encore. — La difficulté, c’est que le trafic de drogue gangrène tout. Les jeunes du quartier sont payés pour faire le guet, ça rapporte 100 euros par jour. — Quand vous leur parlez formation, emploi, vous n’êtes pas audible. — Le Bourgmestre vient d’annoncer un plan de 15 000 000 d’euros pour rénover le quartier. Très bien, mais qu’il n’oublie pas que ses prédécesseurs aussi ont investi, puis sont repartis aussi vite. — Je retiens surtout la création d’une antenne de proximité. C’est un lieu où le citoyen, la police et tous les acteurs de terrain peuvent se rencontrer. — L’idée, c’est d’avoir des équipes qui connaissent mieux le territoire et travaillent sur la durée.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "ses prédécesseurs aussi ont investi, puis sont repartis aussi vite",
+      "qu’il n’oublie pas que ses prédécesseurs aussi ont investi, puis sont repartis aussi vite",
+      "Je retiens surtout la création d’une antenne de proximité",
+      "L’idée, c’est d’avoir des équipes qui connaissent mieux le territoire et travaillent sur la durée"
+    ]
   },
   {
     "question_no": 29,
@@ -345,7 +502,22 @@
       "à l’interdiction des poids lourds dans la ville d Ottawa."
     ],
     "audio_transcript": "Reportage RFI Il y a du spaghetti ici. — Je prendrai peut-être une pointe de pizza. L’immense tente installée en soutien au mouvement des routiers, sur le stationnement d’un stade à Ottawa, bruisse d’activité. Les cuisinières bénévoles coupent des légumes à la chaîne, d’autres préparent des repas livrés à ceux qui sont stationnés devant le parlement, à 5 kilomètres de là. Alexandre résume le camp dressé pour les routiers : « T’as tout : de l’amour, de l’essence, du diesel, la nourriture, tout, tout, tout, des lettres d’enfants. » « Puis ces gens-là sont en première ligne pour nous, donc ils ont besoin de notre soutien. Puis ces gens-là ont été doublement touchés par la pandémie, parce que ce sont des gens qui, souvent, sont tout seuls dans leur camion. Avec les restrictions, il y a eu beaucoup de fermetures, ceux qui n’ont pas de toilettes dans leur camion doivent faire leurs besoins dedans. Ouais, c’est une vague de solidarité, d’amour, euh… indescriptible, que je n’ai jamais vue de ma vie. Les gens sont des câlins, les gens n’ont pas peur ici, là on vit la vraie vie, ça fait du bien, ça fait chaud au cœur. C’est sûr que c’est triste parfois, on entend des histoires de gens qui ont tout perdu. » Il y en a qui sont descendus à Ottawa, vivent dans leur voiture en attendant que ça se règle, parce qu’ils ont tout perdu. Avec l’argent des « truckers », souvent, ils vont les aider à s’héberger. « C’est beau ce qu’on voit, c’est merveilleux. Excuse, excuse. Ok, puis as-tu des choses qui vous manquent ? » — Je pourrais la mettre à une personne, ça ne sera pas trop. Les gens viennent, ils viennent se réchauffer, ils ont besoin de gants, ils ont besoin de mitaines, alors c’est important qu’on en ait. Sans cesse, des bénévoles apportent des vêtements chauds, du carburant pour les camions et les génératrices qui chauffent la tente et les toilettes mobiles. Dehors, il fait moins 15 degrés. Cette solidarité a aussi des conséquences politiques inattendues, comme le remarque ce retraité : « Avant qu’on voie 2022, j’étais fier d’être Québécois. Aujourd’hui, je suis fier d’être Canadien. Je ne croyais pas que le Canada pouvait être uni à ce point. » Séduit par le mouvement, ce routier du Québec passe plusieurs jours par semaine avec le convoi : « Ça fait chaud au cœur, anglophone, francophone, tout le monde s’entraide autour de toi, tout le monde me sourit d’en face, ça jase, cause des niaiseries surtout. » Très bien organisé, le camp semble là pour rester, jusqu’à ce que peut-être la police passe à l’action. Pascal Guericolas, Ottawa, RFI.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "L’immense tente installée en soutien au mouvement des routiers",
+      "les routiers",
+      "« T’as tout : de l’amour, de l’essence, du diesel, la nourriture, tout, tout, tout, des lettres d’enfants. »",
+      "« Puis ces gens-là sont en première ligne pour nous, donc ils ont besoin de notre soutien.",
+      "Puis ces gens-là ont été doublement touchés par la pandémie, parce que ce sont des gens qui, souvent, sont tout seuls dans leur camion.",
+      "Avec les restrictions, il y a eu beaucoup de fermetures, ceux qui n’ont pas de toilettes dans leur camion doivent faire leurs besoins dedans.",
+      "c’est une vague de solidarité, d’amour",
+      "C’est sûr que c’est triste parfois, on entend des histoires de gens qui ont tout perdu.",
+      "Il y en a qui sont descendus à Ottawa, vivent dans leur voiture en attendant que ça se règle, parce qu’ils ont tout perdu.",
+      "Avec l’argent des « truckers », souvent, ils vont les aider à s’héberger.",
+      "des bénévoles apportent des vêtements chauds, du carburant pour les camions et les génératrices",
+      "Séduit par le mouvement, ce routier du Québec passe plusieurs jours par semaine avec le convoi",
+      "le camp semble là pour rester"
+    ]
   },
   {
     "question_no": 30,
@@ -357,7 +529,17 @@
       "attendent avec hâte la fin de cette situation."
     ],
     "audio_transcript": "Reportage RFI Il y a du spaghetti ici. — Je prendrai peut-être une pointe de pizza. L’immense tente installée en soutien au mouvement des routiers, sur le stationnement d’un stade à Ottawa, bruisse d’activité. Les cuisinières bénévoles coupent des légumes à la chaîne, d’autres préparent des repas livrés à ceux qui sont stationnés devant le parlement, à 5 kilomètres de là. Alexandre résume le camp dressé pour les routiers : « T’as tout : de l’amour, de l’essence, du diesel, la nourriture, tout, tout, tout, des lettres d’enfants. » « Puis ces gens-là sont en première ligne pour nous, donc ils ont besoin de notre soutien. Puis ces gens-là ont été doublement touchés par la pandémie, parce que ce sont des gens qui, souvent, sont tout seuls dans leur camion. Avec les restrictions, il y a eu beaucoup de fermetures, ceux qui n’ont pas de toilettes dans leur camion doivent faire leurs besoins dedans. Ouais, c’est une vague de solidarité, d’amour, euh… indescriptible, que je n’ai jamais vue de ma vie. Les gens sont des câlins, les gens n’ont pas peur ici, là on vit la vraie vie, ça fait du bien, ça fait chaud au cœur. C’est sûr que c’est triste parfois, on entend des histoires de gens qui ont tout perdu. » Il y en a qui sont descendus à Ottawa, vivent dans leur voiture en attendant que ça se règle, parce qu’ils ont tout perdu. Avec l’argent des « truckers », souvent, ils vont les aider à s’héberger. « C’est beau ce qu’on voit, c’est merveilleux. Excuse, excuse. Ok, puis as-tu des choses qui vous manquent ? » — Je pourrais la mettre à une personne, ça ne sera pas trop. Les gens viennent, ils viennent se réchauffer, ils ont besoin de gants, ils ont besoin de mitaines, alors c’est important qu’on en ait. Sans cesse, des bénévoles apportent des vêtements chauds, du carburant pour les camions et les génératrices qui chauffent la tente et les toilettes mobiles. Dehors, il fait moins 15 degrés. Cette solidarité a aussi des conséquences politiques inattendues, comme le remarque ce retraité : « Avant qu’on voie 2022, j’étais fier d’être Québécois. Aujourd’hui, je suis fier d’être Canadien. Je ne croyais pas que le Canada pouvait être uni à ce point. » Séduit par le mouvement, ce routier du Québec passe plusieurs jours par semaine avec le convoi : « Ça fait chaud au cœur, anglophone, francophone, tout le monde s’entraide autour de toi, tout le monde me sourit d’en face, ça jase, cause des niaiseries surtout. » Très bien organisé, le camp semble là pour rester, jusqu’à ce que peut-être la police passe à l’action. Pascal Guericolas, Ottawa, RFI.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "une vague de solidarité, d’amour, euh… indescriptible, que je n’ai jamais vue de ma vie",
+      "Je ne croyais pas que le Canada pouvait être uni à ce point",
+      "Avant qu’on voie 2022, j’étais fier d’être Québécois. Aujourd’hui, je suis fier d’être Canadien",
+      "Ça fait chaud au cœur, anglophone, francophone, tout le monde s’entraide autour de toi",
+      "C’est beau ce qu’on voit, c’est merveilleux",
+      "de l’amour, de l’essence, du diesel, la nourriture, tout, tout, tout, des lettres d’enfants",
+      "Puis ces gens-là sont en première ligne pour nous, donc ils ont besoin de notre soutien",
+      "c’est une vague de solidarité"
+    ]
   },
   {
     "question_no": 31,
@@ -369,7 +551,12 @@
       "Son recours constant à des récits historiques détaillés."
     ],
     "audio_transcript": "Et si nous terminions ce dimanche avec Aretha Franklin ? Ce soir à vingt-et-une heures, Télé-Québec diffuse Respect. Ce film consacré à la reine de la soul retrace l’itinéraire de cet enfant surdoué, ses combats et son émancipation tant au niveau artistique que personnel. Un biopic passionnant, mais aussi un grand film musical porté par la performance de Jennifer Hudson, à la fois actrice et chanteuse.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Un biopic passionnant",
+      "un grand film musical",
+      "la performance de Jennifer Hudson"
+    ]
   },
   {
     "question_no": 32,
@@ -381,7 +568,15 @@
       "dévoile la liste des plus grands pollueurs mondiaux."
     ],
     "audio_transcript": "Aux Pays-Bas, l’organisation environnementale Défense a remis jeudi une lettre à vingt-neuf entreprises néerlandaises considérées par l’ONG comme de grands pollueurs. Elle exige que les entreprises en question publient leur propre plan climatique d’ici le 15 avril, dans lequel elles indiquent comment elles vont réduire leurs émissions de CO₂ d’au moins 50 % en 5 ans. Le porte-parole de l’ONG explique que ces grandes entreprises savent depuis longtemps qu’elles doivent évoluer, car elles rendent littéralement le monde malade à force de ne penser qu’au profit, sans souci de transmettre une Terre saine aux générations suivantes.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "l’organisation environnementale Défense a remis jeudi une lettre à vingt-neuf entreprises néerlandaises considérées par l’ONG comme de grands pollueurs",
+      "Elle exige que les entreprises en question publient leur propre plan climatique d’ici le 15 avril",
+      "dans lequel elles indiquent comment elles vont réduire leurs émissions de CO₂ d’au moins 50 % en 5 ans",
+      "ces grandes entreprises savent depuis longtemps qu’elles doivent évoluer",
+      "elles rendent littéralement le monde malade à force de ne penser qu’au profit",
+      "sans souci de transmettre une Terre saine aux générations suivantes"
+    ]
   },
   {
     "question_no": 33,
@@ -393,7 +588,15 @@
       "développe une information précise."
     ],
     "audio_transcript": "Bien, bonjour à celles et ceux que je n’ai pas encore vus et merci de votre présence à tous. À l’ordre du jour : on fera un point rapide à la suite du mail d’Alexandre ce matin concernant le partenariat avec FIP. Ensuite, un point sur les ventes et les tendances du mois. Ensuite, un point com, et on terminera avec Élise qui nous donnera des nouvelles du site internet. Voilà. Et donc, avant de commencer, si vous avez des questions, n’hésitez pas.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "À l’ordre du jour :",
+      "on fera un point rapide à la suite du mail d’Alexandre ce matin concernant le partenariat avec FIP",
+      "Ensuite, un point sur les ventes et les tendances du mois",
+      "Ensuite, un point com",
+      "on terminera avec Élise qui nous donnera des nouvelles du site internet",
+      "Voilà"
+    ]
   },
   {
     "question_no": 34,
@@ -405,7 +608,15 @@
       "les militants pro-vélo souhaitent un plan plus ambitieux."
     ],
     "audio_transcript": "On est à Gatineau, qui, vous ne le savez peut-être pas, a récemment été élue meilleure ville vélo du Québec. Et ça, ça fait le bonheur du maire sortant Félix Lavin-Jeanreau qui, avant de se faire élire, avait promis de doubler le financement accordé au vélo. Une promesse ambitieuse, notamment pour des questions financières, mais qui lui a fait marquer des points. Pour les militants pro-vélo, les avancées sont indéniables par rapport à son prédécesseur qui était ouvertement anti-vélo. Une époque définitivement révolue. À l’aube des nouvelles élections municipales, tous les candidats promettent d’aller plus loin encore.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "a récemment été élue meilleure ville vélo du Québec",
+      "ça fait le bonheur du maire sortant Félix Lavin-Jeanreau",
+      "avait promis de doubler le financement accordé au vélo",
+      "les avancées sont indéniables",
+      "par rapport à son prédécesseur qui était ouvertement anti-vélo",
+      "Une époque définitivement révolue"
+    ]
   },
   {
     "question_no": 35,
@@ -417,7 +628,16 @@
       "aux racines musicales des artistes franco-maghrébins."
     ],
     "audio_transcript": "L’exposition Douce France revisite la vitalité artistique de la génération dite « Beur », symbole de l’intégration d’une jeunesse issue de l’immigration. L’utilisation du titre Douce France renvoie aux années quatre-vingt et à l’émergence de la lutte contre le racisme et les discriminations. Le groupe Carte de Séjour arrive sur la scène musicale dans ces années-là. Son chanteur et leader, Rachid Taha, eut la bonne idée de s’approprier la chanson de Charles Trenet. Ce faisant, il signifiait que les enfants d’origine africaine ou nord-africaine, nés ou élevés en Hexagone, avaient tout autant le droit que les autres de s’y sentir chez eux.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "L’exposition Douce France revisite la vitalité artistique de la génération dite « Beur »",
+      "symbole de l’intégration d’une jeunesse issue de l’immigration",
+      "L’utilisation du titre Douce France renvoie aux années quatre-vingt",
+      "à l’émergence de la lutte contre le racisme et les discriminations",
+      "Le groupe Carte de Séjour arrive sur la scène musicale dans ces années-là",
+      "Son chanteur et leader, Rachid Taha, eut la bonne idée de s’approprier la chanson de Charles Trenet",
+      "Ce faisant, il signifiait que les enfants d’origine africaine ou nord-africaine, nés ou élevés en Hexagone, avaient tout autant le droit que les autres de s’y sentir chez eux"
+    ]
   },
   {
     "question_no": 36,
@@ -429,7 +649,12 @@
       "qui sanctionneront plus lourdement les infractions routières."
     ],
     "audio_transcript": "La Délégation nationale à la sécurité routière, DNSR, vient d’annoncer qu’elle annulait les mesures de suspension et de retrait du permis de conduire, et ce, jusqu’à la mise en place du système du permis à points. Cette décision a pour but de simplifier les mesures administratives pour mieux se consacrer à la lutte contre l’insécurité routière. Parmi les répercussions figurent notamment le risque, pour les chauffeurs professionnels, de perdre leur emploi.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "vient d’annoncer qu’elle annulait les mesures de suspension et de retrait du permis de conduire",
+      "jusqu’à la mise en place du système du permis à points",
+      "Cette décision a pour but de simplifier les mesures administratives pour mieux se consacrer à la lutte contre l’insécurité routière"
+    ]
   },
   {
     "question_no": 37,
@@ -441,7 +666,18 @@
       "Moscou, nouvelle capitale de la gastronomie"
     ],
     "audio_transcript": "Décidé à enfoncer le clou aux arrogants des chaînes américaines de fast-food dont les restaurants moscovites ne désemplissent pas, la municipalité de la capitale russe a ouvert le premier bistrot russe. Un restaurant où il est possible de manger sur le pouce sans trahir la gastronomie locale. Quelque deux cents établissements du même type devraient suivre. Le directeur du bistrot affirme, non sans humour, que son établissement ne veut pas faire de l’ombre aux chaînes américaines : « Nous ne vendons ni hamburger ni soda, nos produits sont naturels, donc je ne crois pas que nous soyons en concurrence. » Notons que le bistrot offrira ce qui sera toujours introuvable chez l’Américain, à savoir de petites bouteilles de vodka destinées à ouvrir l’appétit.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Décidé à enfoncer le clou aux arrogants des chaînes américaines de fast-food",
+      "la municipalité de la capitale russe a ouvert le premier bistrot russe",
+      "Un restaurant où il est possible de manger sur le pouce sans trahir la gastronomie locale",
+      "Quelque deux cents établissements du même type devraient suivre",
+      "Nous ne vendons ni hamburger ni soda",
+      "nos produits sont naturels",
+      "je ne crois pas que nous soyons en concurrence",
+      "le bistrot offrira ce qui sera toujours introuvable chez l’Américain",
+      "de petites bouteilles de vodka destinées à ouvrir l’appétit"
+    ]
   },
   {
     "question_no": 38,
@@ -453,7 +689,15 @@
       "est trop centrée sur les procédures administratives."
     ],
     "audio_transcript": "On passe au sujet qui nous intéresse ce matin, à savoir ce rapport très, très intéressant du Conseil économique et social marocain sur la transformation digitale. Alors, le constat global, c’est que les différentes initiatives lancées restent insuffisantes. Et à cause de cela, nous sommes moins productifs et forcément moins compétitifs. À titre d’exemple, la digitalisation de l’ensemble des procédures et des services administratifs permettrait d’économiser l’équivalent de 1 % du PIB. On parle de start-up, de mécanismes de financement, et ainsi de suite. Or, la priorité des priorités pour un pays comme le Maroc, c’est la fracture numérique. Au niveau technique, il y a la couverture, mais pas la performance. Et le prix des abonnements à internet, rapporté au SMIC ou au salaire moyen, reste trop élevé. Il faut démocratiser Internet en le considérant comme un service public de base à l’instar de l’eau et de l’électricité.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "les différentes initiatives lancées restent insuffisantes",
+      "nous sommes moins productifs et forcément moins compétitifs",
+      "la priorité des priorités pour un pays comme le Maroc, c’est la fracture numérique",
+      "Au niveau technique, il y a la couverture, mais pas la performance",
+      "le prix des abonnements à internet, rapporté au SMIC ou au salaire moyen, reste trop élevé",
+      "Il faut démocratiser Internet en le considérant comme un service public de base"
+    ]
   },
   {
     "question_no": 39,
@@ -465,7 +709,12 @@
       "ouvre paradoxalement des opportunités d'emploi."
     ],
     "audio_transcript": "Les Américains ont-ils encore envie de travailler ? La question divise les experts alors que se poursuit la hausse phénoménale des démissions. On parle dorénavant de la « grande démission ». L’auteur de cette expression, spécialiste du monde du travail, explique que les salariés décident de se recentrer sur ce qui leur est cher. La lecture optimiste de ce phénomène est qu’une énorme majorité a tout simplement pris un autre travail. Mais s’ils quittent leur job, c’est d’abord parce que celui-ci ne leur permet pas de vivre décemment. Et comme le rattrapage salarial n’est pas aussi rapide que l’inflation, ils demeurent dans une grande précarité. Un autre mot d’ordre fait fureur : l’anti-travail ou la revendication du droit à la paresse. Plus confidentiel, ce mouvement commence à être perçu comme une menace à long terme sur l’économie américaine. De quoi remettre en cause, pour les plus conservateurs, l’existence même des prestations sociales.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Un autre mot d’ordre fait fureur : l’anti-travail ou la revendication du droit à la paresse",
+      "Plus confidentiel, ce mouvement commence à être perçu comme une menace à long terme sur l’économie américaine",
+      "De quoi remettre en cause, pour les plus conservateurs, l’existence même des prestations sociales"
+    ]
   },
   {
     "question_no": 40,
@@ -477,6 +726,17 @@
       "d'expliquer aux victimes d'arnaques comment porter plainte."
     ],
     "audio_transcript": "Cette histoire commence avec une poêle annoncée à un prix de départ de cent cinquante dollars, puis réduite à soixante-dix dollars, 40 dollars et enfin en liquidation à 30 dollars. Un rabais généreux, mais surtout étonnant. Alors, bonne affaire ou pas ? Dans certains cas, le produit est vraiment de qualité et la baisse de prix s’explique par un trop-plein d’inventaire. Mais il arrive que l’on monte artificiellement le prix de départ d’un produit médiocre. Cette pratique est proscrite par la loi, qui exige que le produit ait été vendu à un prix régulier en grande quantité et pendant une période raisonnable. Le problème pour le consommateur, c’est de connaître ce prix régulier, surtout quand les rabais sont cycliques. C’est cette zone grise que les détaillants utilisent pour accroître leurs ventes. Et parvenir à le prouver devant les tribunaux relève d’une mission quasi impossible.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Cette histoire commence avec une poêle annoncée à un prix de départ de cent cinquante dollars, puis réduite à soixante-dix dollars, 40 dollars et enfin en liquidation à 30 dollars",
+      "Un rabais généreux, mais surtout étonnant",
+      "Alors, bonne affaire ou pas ?",
+      "Mais il arrive que l’on monte artificiellement le prix de départ d’un produit médiocre",
+      "Cette pratique est proscrite par la loi",
+      "Le problème pour le consommateur, c’est de connaître ce prix régulier",
+      "surtout quand les rabais sont cycliques",
+      "C’est cette zone grise que les détaillants utilisent pour accroître leurs ventes",
+      "Et parvenir à le prouver devant les tribunaux relève d’une mission quasi impossible"
+    ]
   }
 ]

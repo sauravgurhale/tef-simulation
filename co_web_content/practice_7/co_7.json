@@ -9,7 +9,12 @@
       "D"
     ],
     "audio_transcript": "Tu préfères une part de tarte aux pommes ou un gâteau au chocolat ? — Je prendrai plutôt le gâteau au chocolat. Merci.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "une part de tarte aux pommes",
+      "un gâteau au chocolat",
+      "le gâteau au chocolat"
+    ]
   },
   {
     "question_no": 2,
@@ -21,7 +26,13 @@
       "D"
     ],
     "audio_transcript": "Tu veux qu'on se retrouve au bord du lac pour un pique-nique ? — Oui, ça me semble parfait. Le coucher de soleil est magnifique.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "au bord du lac",
+      "pique-nique",
+      "coucher de soleil",
+      "magnifique"
+    ]
   },
   {
     "question_no": 3,
@@ -33,7 +44,13 @@
       "D"
     ],
     "audio_transcript": "As-tu vu notre nouvelle collègue ? Elle a de longs cheveux blonds et porte souvent des lunettes. — Oui, je l’ai rencontrée hier. Elle a un sourire chaleureux.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "nouvelle collègue",
+      "de longs cheveux blonds",
+      "porte souvent des lunettes",
+      "un sourire chaleureux"
+    ]
   },
   {
     "question_no": 4,
@@ -45,7 +62,11 @@
       "D"
     ],
     "audio_transcript": "J’ai réservé des billets pour le musée, ça te tente ? — Oui, j’adore les expositions d’art contemporain.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "musée",
+      "expositions d’art contemporain"
+    ]
   },
   {
     "question_no": 5,
@@ -57,7 +78,12 @@
       "propose une nouvelle offre."
     ],
     "audio_transcript": "Chers clients, en raison de travaux de maintenance, le réseau Wi-Fi sera temporairement indisponible ce vendredi de 10 heures à 12 heures. Nous nous excusons pour la gêne occasionnée et vous remercions de votre compréhension.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "en raison de travaux de maintenance",
+      "le réseau Wi-Fi sera temporairement indisponible",
+      "ce vendredi de 10 heures à 12 heures"
+    ]
   },
   {
     "question_no": 6,
@@ -69,7 +95,11 @@
       "indique une fermeture définitive."
     ],
     "audio_transcript": "Chers passagers, veuillez noter que la navette pour l’aéroport partira exceptionnellement du quai numéro 5 aujourd’hui, en raison de travaux sur le quai habituel. Merci de votre compréhension.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "la navette pour l’aéroport partira exceptionnellement du quai numéro 5 aujourd’hui",
+      "en raison de travaux sur le quai habituel"
+    ]
   },
   {
     "question_no": 7,
@@ -81,7 +111,12 @@
       "annonce une prolongation d'événement."
     ],
     "audio_transcript": "Mesdames et messieurs, nous vous rappelons que l’exposition temporaire Les Couleurs du Temps fermera ses portes ce dimanche à 18 h. Profitez des derniers jours pour découvrir cette collection unique au musée des Beaux-Arts.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "l’exposition temporaire Les Couleurs du Temps fermera ses portes ce dimanche à 18 h",
+      "fermera ses portes",
+      "Profitez des derniers jours"
+    ]
   },
   {
     "question_no": 8,
@@ -93,7 +128,12 @@
       "propose une activité sportive."
     ],
     "audio_transcript": "Chers clients, en raison d’une forte demande, nous avons prolongé l’horaire de la piscine municipale jusqu’à 22 heures ce samedi. Profitez-en pour une soirée détente.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "nous avons prolongé l’horaire de la piscine municipale jusqu’à 22 heures ce samedi",
+      "prolongé",
+      "jusqu’à 22 heures"
+    ]
   },
   {
     "question_no": 9,
@@ -105,7 +145,12 @@
       "annuler une rencontre à l'accueil."
     ],
     "audio_transcript": "Salut Marc, c’est Justine. Je voulais juste te dire que j’ai déposé les documents que tu m’as demandés à l’accueil. Tu pourras les récupérer quand tu veux.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Je voulais juste te dire que",
+      "j’ai déposé les documents que tu m’as demandés à l’accueil",
+      "Tu pourras les récupérer quand tu veux"
+    ]
   },
   {
     "question_no": 10,
@@ -117,7 +162,12 @@
       "changer l'heure d'un rendez-vous."
     ],
     "audio_transcript": "Bonjour Monsieur Lefebvre, c’est Sarah. Je voulais savoir si vous pouviez confirmer notre rendez-vous de jeudi prochain à 10 heures. Si ce n’est pas possible, faites-le-moi savoir. Merci.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je voulais savoir si vous pouviez confirmer",
+      "notre rendez-vous de jeudi prochain à 10 heures",
+      "Si ce n’est pas possible, faites-le-moi savoir"
+    ]
   },
   {
     "question_no": 11,
@@ -129,7 +179,12 @@
       "confirmer une réservation au restaurant."
     ],
     "audio_transcript": "Salut Thomas, c’est Julie. Je t’appelle pour te prévenir que je serai un peu en retard ce soir. Je te rejoindrai directement au restaurant. À tout à l’heure.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je t’appelle pour te prévenir que je serai un peu en retard ce soir",
+      "je serai un peu en retard",
+      "Je te rejoindrai directement au restaurant"
+    ]
   },
   {
     "question_no": 12,
@@ -141,7 +196,13 @@
       "proposer une nouvelle commande."
     ],
     "audio_transcript": "Bonjour Madame Dupont, c’est Martin de la librairie. Je vous appelle pour vous informer que le livre que vous avez commandé est arrivé. Vous pouvez venir le chercher quand vous le souhaitez. Bonne journée.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "c’est Martin de la librairie",
+      "Je vous appelle pour vous informer que",
+      "le livre que vous avez commandé est arrivé",
+      "Vous pouvez venir le chercher quand vous le souhaitez"
+    ]
   },
   {
     "question_no": 13,
@@ -153,7 +214,13 @@
       "informer d'un problème avec la commande."
     ],
     "audio_transcript": "Bonjour Claire, c’est Paul. Juste pour te rappeler que tu dois passer à la pharmacie pour récupérer tes médicaments. Ils sont prêts depuis ce matin. Si tu as un souci, fais-moi signe.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Juste pour te rappeler que",
+      "tu dois passer à la pharmacie",
+      "pour récupérer tes médicaments",
+      "Ils sont prêts depuis ce matin"
+    ]
   },
   {
     "question_no": 14,
@@ -165,7 +232,11 @@
       "remettre le dîner à plus tard."
     ],
     "audio_transcript": "Salut Mathieu, c’est Sophie. Je voulais te dire que le dîner de ce soir est reporté à demain, même heure, même endroit. J’espère que ça te convient. On se tient au courant. À plus.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "le dîner de ce soir est reporté à demain",
+      "même heure, même endroit"
+    ]
   },
   {
     "question_no": 15,
@@ -177,7 +248,14 @@
       ""
     ],
     "audio_transcript": "Tout le monde dit qu'il faut savoir prendre du temps pour soi. Je crois qu'il y a des moments dans la vie où il faut mettre les bouchées doubles. Quand on vise un objectif ambitieux, on ne peut pas compter les heures. Mon projet est tellement important pour moi que je suis prêt à repousser certaines activités personnelles pour le mener à bien.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Tout le monde dit qu'il faut savoir prendre du temps pour soi",
+      "il y a des moments dans la vie où il faut mettre les bouchées doubles",
+      "Quand on vise un objectif ambitieux, on ne peut pas compter les heures",
+      "Mon projet est tellement important pour moi",
+      "je suis prêt à repousser certaines activités personnelles pour le mener à bien"
+    ]
   },
   {
     "question_no": 16,
@@ -189,7 +267,15 @@
       ""
     ],
     "audio_transcript": "Il est vrai que réussir demande des efforts, mais je ne pense pas que cela doive se faire au détriment de sa santé ou de ses relations personnelles. Il m'arrive de travailler tard, mais je veille toujours à réserver du temps pour me ressourcer et passer des moments avec mes proches. À quoi bon réussir si on ne peut pas en profiter avec ceux qu'on aime ?",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "réussir demande des efforts",
+      "je ne pense pas que cela doive se faire au détriment de sa santé ou de ses relations personnelles",
+      "Il m'arrive de travailler tard",
+      "je veille toujours à réserver du temps pour me ressourcer",
+      "passer des moments avec mes proches",
+      "À quoi bon réussir si on ne peut pas en profiter avec ceux qu'on aime"
+    ]
   },
   {
     "question_no": 17,
@@ -201,7 +287,13 @@
       ""
     ],
     "audio_transcript": "J'ai vu des gens autour de moi se plonger corps et âme dans leur travail au point de ne plus rien voir d'autre. Pour ma part, je préfère ralentir et savourer la vie. Le travail est important, bien sûr, mais je ne veux pas me retrouver à regretter d'avoir laissé passer des moments précieux simplement pour gravir quelques échelons professionnels.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "je préfère ralentir et savourer la vie",
+      "Le travail est important, bien sûr",
+      "je ne veux pas me retrouver à regretter d'avoir laissé passer des moments précieux simplement pour gravir quelques échelons professionnels",
+      "se plonger corps et âme dans leur travail au point de ne plus rien voir d'autre"
+    ]
   },
   {
     "question_no": 18,
@@ -213,7 +305,15 @@
       ""
     ],
     "audio_transcript": "Pour moi, la prévention est la clé pour maintenir une bonne santé à long terme. Adopter un mode de vie sain, faire des contrôles réguliers et éviter les facteurs de risque sont des mesures essentielles pour éviter les maladies avant qu'elles n'apparaissent. Une fois qu'une maladie est là, le traitement est certes important, mais la prévention peut éviter bien des soucis.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "Pour moi, la prévention est la clé",
+      "pour maintenir une bonne santé à long terme",
+      "Adopter un mode de vie sain, faire des contrôles réguliers et éviter les facteurs de risque sont des mesures essentielles",
+      "pour éviter les maladies avant qu'elles n'apparaissent",
+      "la prévention peut éviter bien des soucis",
+      "Une fois qu'une maladie est là, le traitement est certes important, mais la prévention"
+    ]
   },
   {
     "question_no": 19,
@@ -225,7 +325,14 @@
       ""
     ],
     "audio_transcript": "Je comprends l'importance de la prévention, mais je crois fermement que le traitement des maladies est ce qui compte vraiment quand on est confronté à une pathologie. Parfois, même avec une excellente prévention, les maladies surviennent, et il est crucial d'avoir des traitements efficaces pour y faire face et soigner les patients.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Je comprends l'importance de la prévention, mais",
+      "je crois fermement que le traitement des maladies est ce qui compte vraiment",
+      "quand on est confronté à une pathologie",
+      "Parfois, même avec une excellente prévention, les maladies surviennent",
+      "il est crucial d'avoir des traitements efficaces"
+    ]
   },
   {
     "question_no": 20,
@@ -237,7 +344,14 @@
       ""
     ],
     "audio_transcript": "Je pense que les 2 aspects sont importants. La prévention aide à réduire les risques et à maintenir une bonne santé, mais il est également nécessaire d'avoir des traitements efficaces pour les maladies qui peuvent survenir malgré toutes les précautions. Il faut donc équilibrer les efforts entre la prévention et le traitement.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Je pense que les 2 aspects sont importants",
+      "La prévention aide à réduire les risques et à maintenir une bonne santé",
+      "mais il est également nécessaire d'avoir des traitements efficaces",
+      "pour les maladies qui peuvent survenir malgré toutes les précautions",
+      "Il faut donc équilibrer les efforts entre la prévention et le traitement"
+    ]
   },
   {
     "question_no": 21,
@@ -249,7 +363,15 @@
       "soutient l'importance des consultations publiques pour les projets urbains."
     ],
     "audio_transcript": "Dans de nombreux cas, les décisions prises par les autorités locales sont souvent influencées par des considérations politiques, économiques et sociales. Prenons l'exemple récent d'une ville du sud de la France où un projet de développement urbain a été suspendu suite à des pressions de divers groupes d'intérêt. Les habitants s'inquiétaient de l'impact environnemental du projet, tandis que les entrepreneurs locaux voyaient en lui une opportunité de relancer l'économie. Le maire, pris entre deux feux, a finalement décidé de reporter la décision, invoquant le besoin de plus de consultations publiques. Cette situation illustre bien les défis auxquels sont confrontées les autorités locales lorsqu'il s'agit de concilier des intérêts parfois opposés.",
-    "right_option": "A"
+    "right_option": "A",
+    "highlights": [
+      "les décisions prises par les autorités locales sont souvent influencées par des considérations politiques, économiques et sociales",
+      "un projet de développement urbain a été suspendu suite à des pressions de divers groupes d'intérêt",
+      "Les habitants s'inquiétaient de l'impact environnemental du projet, tandis que les entrepreneurs locaux voyaient en lui une opportunité de relancer l'économie",
+      "Le maire, pris entre deux feux",
+      "a finalement décidé de reporter la décision",
+      "Cette situation illustre bien les défis auxquels sont confrontées les autorités locales lorsqu'il s'agit de concilier des intérêts parfois opposés"
+    ]
   },
   {
     "question_no": 22,
@@ -261,7 +383,15 @@
       "une alimentation équilibrée n'a aucun impact sur la santé microbiologique."
     ],
     "audio_transcript": "L'étude des microbiomes, ces communautés de micro-organismes vivant en symbiose avec leur hôte, a révolutionné notre compréhension de la santé humaine. Les chercheurs ont découvert que la diversité des bactéries présentes dans l'intestin joue un rôle crucial dans la régulation du système immunitaire. En particulier, certaines souches bactériennes sont liées à des maladies chroniques, tandis que d'autres peuvent protéger contre des infections graves. Cependant, le déséquilibre de ce fragile écosystème, souvent dû à une mauvaise alimentation ou à l'utilisation excessive d'antibiotiques, peut entraîner des conséquences négatives pour la santé. Les scientifiques cherchent maintenant à développer des thérapies ciblées pour restaurer l'équilibre du microbiome, avec l'espoir de prévenir et de traiter une gamme de maladies.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "L'étude des microbiomes, ces communautés de micro-organismes vivant en symbiose avec leur hôte, a révolutionné notre compréhension de la santé humaine",
+      "la diversité des bactéries présentes dans l'intestin joue un rôle crucial dans la régulation du système immunitaire",
+      "certaines souches bactériennes sont liées à des maladies chroniques, tandis que d'autres peuvent protéger contre des infections graves",
+      "le déséquilibre de ce fragile écosystème, souvent dû à une mauvaise alimentation ou à l'utilisation excessive d'antibiotiques, peut entraîner des conséquences négatives pour la santé",
+      "Les scientifiques cherchent maintenant à développer des thérapies ciblées pour restaurer l'équilibre du microbiome",
+      "avec l'espoir de prévenir et de traiter une gamme de maladies"
+    ]
   },
   {
     "question_no": 23,
@@ -273,7 +403,16 @@
       "Elles confirment que la vie existe sur d'autres planètes."
     ],
     "audio_transcript": "Nous plongeons aujourd'hui dans les mystères de l'univers en compagnie du docteur Lemoine, un expert en astrophysique. Récemment, les scientifiques ont fait des découvertes fascinantes sur les exoplanètes. Docteur Lemoine, pouvez-vous nous expliquer pourquoi ces découvertes sont si cruciales pour notre compréhension du cosmos ? — Bien sûr. Les découvertes récentes sur les exoplanètes, c'est-à-dire des planètes en dehors de notre système solaire, sont révolutionnaires pour plusieurs raisons. D'abord, elles élargissent notre connaissance des conditions dans lesquelles des planètes similaires à la Terre peuvent exister. Nous avons découvert des planètes qui se trouvent dans ce qu'on appelle la zone habitable de leur étoile, c'est-à-dire une région où l'eau liquide pourrait exister, ce qui est essentiel pour la vie telle que nous la connaissons. — Cela signifie-t-il que nous pourrions trouver de la vie ailleurs dans l'univers ? — C'est une possibilité que les scientifiques prennent très au sérieux. Cependant, il est important de souligner que la détection d'une planète dans la zone habitable ne garantit pas qu'elle abrite de la vie. Les conditions doivent être extrêmement précises, et il reste encore beaucoup à apprendre. Ce qui est excitant, c'est que ces découvertes nous rapprochent de la réponse à cette grande question : sommes-nous seuls dans l'univers ?",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "Les découvertes récentes sur les exoplanètes, c'est-à-dire des planètes en dehors de notre système solaire, sont révolutionnaires pour plusieurs raisons.",
+      "D'abord, elles élargissent notre connaissance des conditions dans lesquelles des planètes similaires à la Terre peuvent exister.",
+      "Nous avons découvert des planètes qui se trouvent dans ce qu'on appelle la zone habitable de leur étoile, c'est-à-dire une région où l'eau liquide pourrait exister, ce qui est essentiel pour la vie telle que nous la connaissons.",
+      "la détection d'une planète dans la zone habitable ne garantit pas qu'elle abrite de la vie.",
+      "Les conditions doivent être extrêmement précises, et il reste encore beaucoup à apprendre.",
+      "C'est une possibilité que les scientifiques prennent très au sérieux.",
+      "Cependant, il est important de souligner que"
+    ]
   },
   {
     "question_no": 24,
@@ -285,7 +424,14 @@
       "Elle doit posséder des formes de vie avancées."
     ],
     "audio_transcript": "Nous plongeons aujourd'hui dans les mystères de l'univers en compagnie du docteur Lemoine, un expert en astrophysique. Récemment, les scientifiques ont fait des découvertes fascinantes sur les exoplanètes. Docteur Lemoine, pouvez-vous nous expliquer pourquoi ces découvertes sont si cruciales pour notre compréhension du cosmos ? — Bien sûr. Les découvertes récentes sur les exoplanètes, c'est-à-dire des planètes en dehors de notre système solaire, sont révolutionnaires pour plusieurs raisons. D'abord, elles élargissent notre connaissance des conditions dans lesquelles des planètes similaires à la Terre peuvent exister. Nous avons découvert des planètes qui se trouvent dans ce qu'on appelle la zone habitable de leur étoile, c'est-à-dire une région où l'eau liquide pourrait exister, ce qui est essentiel pour la vie telle que nous la connaissons. — Cela signifie-t-il que nous pourrions trouver de la vie ailleurs dans l'univers ? — C'est une possibilité que les scientifiques prennent très au sérieux. Cependant, il est important de souligner que la détection d'une planète dans la zone habitable ne garantit pas qu'elle abrite de la vie. Les conditions doivent être extrêmement précises, et il reste encore beaucoup à apprendre. Ce qui est excitant, c'est que ces découvertes nous rapprochent de la réponse à cette grande question : sommes-nous seuls dans l'univers ?",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "Nous avons découvert des planètes qui se trouvent dans ce qu'on appelle la zone habitable de leur étoile",
+      "c'est-à-dire une région où l'eau liquide pourrait exister",
+      "ce qui est essentiel pour la vie telle que nous la connaissons",
+      "la détection d'une planète dans la zone habitable ne garantit pas qu'elle abrite de la vie",
+      "Les conditions doivent être extrêmement précises"
+    ]
   },
   {
     "question_no": 25,
@@ -297,7 +443,14 @@
       "Ils rendent le traitement des patients plus rapide."
     ],
     "audio_transcript": "Aujourd'hui, nous avons le plaisir d'accueillir monsieur Lefebvre, directeur du centre d'innovation technologique. Bonjour, monsieur Lefebvre. — Pourriez-vous nous parler des avancées récentes dans le domaine de l'intelligence artificielle appliquée à la médecine ? — Bonjour. Oui, bien sûr. Au cours des cinq dernières années, nous avons assisté à des progrès significatifs, notamment en ce qui concerne le diagnostic médical assisté par l'IA. Par exemple, les algorithmes sont désormais capables d'analyser des milliers d'images médicales en quelques secondes, identifiant des anomalies qui pourraient échapper à l'œil humain. Cela a permis d'améliorer la précision des diagnostics, réduisant ainsi le nombre de diagnostics erronés. — Cela semble révolutionnaire. Mais y a-t-il des limites à ces technologies ? — Absolument. L'IA reste un outil qui nécessite une supervision humaine. Les systèmes peuvent parfois mal interpréter des données, et il est crucial que les médecins continuent de jouer un rôle central dans le processus de diagnostic. De plus, il y a des préoccupations éthiques liées à la confidentialité des données patients, qui doivent être soigneusement considérées.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "les algorithmes sont désormais capables d'analyser des milliers d'images médicales en quelques secondes",
+      "identifiant des anomalies qui pourraient échapper à l'œil humain",
+      "Cela a permis d'améliorer la précision des diagnostics",
+      "L'IA reste un outil qui nécessite une supervision humaine",
+      "il est crucial que les médecins continuent de jouer un rôle central dans le processus de diagnostic"
+    ]
   },
   {
     "question_no": 26,
@@ -309,7 +462,14 @@
       "L'obsolescence rapide des technologies."
     ],
     "audio_transcript": "Aujourd'hui, nous avons le plaisir d'accueillir monsieur Lefebvre, directeur du centre d'innovation technologique. Bonjour, monsieur Lefebvre. — Pourriez-vous nous parler des avancées récentes dans le domaine de l'intelligence artificielle appliquée à la médecine ? — Bonjour. Oui, bien sûr. Au cours des cinq dernières années, nous avons assisté à des progrès significatifs, notamment en ce qui concerne le diagnostic médical assisté par l'IA. Par exemple, les algorithmes sont désormais capables d'analyser des milliers d'images médicales en quelques secondes, identifiant des anomalies qui pourraient échapper à l'œil humain. Cela a permis d'améliorer la précision des diagnostics, réduisant ainsi le nombre de diagnostics erronés. — Cela semble révolutionnaire. Mais y a-t-il des limites à ces technologies ? — Absolument. L'IA reste un outil qui nécessite une supervision humaine. Les systèmes peuvent parfois mal interpréter des données, et il est crucial que les médecins continuent de jouer un rôle central dans le processus de diagnostic. De plus, il y a des préoccupations éthiques liées à la confidentialité des données patients, qui doivent être soigneusement considérées.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "L'IA reste un outil qui nécessite une supervision humaine",
+      "Les systèmes peuvent parfois mal interpréter des données",
+      "il est crucial que les médecins continuent de jouer un rôle central dans le processus de diagnostic",
+      "il y a des préoccupations éthiques liées à la confidentialité des données patients",
+      "qui doivent être soigneusement considérées"
+    ]
   },
   {
     "question_no": 27,
@@ -321,7 +481,10 @@
       "Les salaires y sont les plus élevés du monde."
     ],
     "audio_transcript": "Aujourd'hui, nous recevons monsieur Dupuis, spécialiste des questions migratoires, pour parler de l'augmentation récente des arrivées de migrants au Canada. — Monsieur Dupuis, pouvez-vous nous expliquer les causes principales de cet afflux ? — Bien sûr. Plusieurs facteurs expliquent cet afflux. D'abord, la situation géopolitique dans certaines régions du monde pousse de nombreuses personnes à chercher refuge dans des pays plus stables comme le Canada. Ensuite, il y a la perception du Canada comme un pays accueillant, avec une politique d'immigration relativement ouverte. Enfin, le besoin de main-d'œuvre dans certains secteurs économiques canadiens attire aussi des migrants en quête d'opportunités. — Est-ce que cet afflux pose des défis particuliers pour le Canada ? — Absolument. Bien que le Canada ait une tradition d'accueil, l'augmentation rapide des arrivées peut mettre à rude épreuve les infrastructures, notamment en matière de logement, de santé et d'éducation. De plus, l'intégration des nouveaux arrivants nécessite des efforts continus, tant du côté des migrants que des institutions canadiennes.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "la perception du Canada comme un pays accueillant, avec une politique d'immigration relativement ouverte"
+    ]
   },
   {
     "question_no": 28,
@@ -333,7 +496,12 @@
       "Le contrôle de l'inflation due à l'arrivée de nouveaux travailleurs."
     ],
     "audio_transcript": "Aujourd'hui, nous recevons monsieur Dupuis, spécialiste des questions migratoires, pour parler de l'augmentation récente des arrivées de migrants au Canada. — Monsieur Dupuis, pouvez-vous nous expliquer les causes principales de cet afflux ? — Bien sûr. Plusieurs facteurs expliquent cet afflux. D'abord, la situation géopolitique dans certaines régions du monde pousse de nombreuses personnes à chercher refuge dans des pays plus stables comme le Canada. Ensuite, il y a la perception du Canada comme un pays accueillant, avec une politique d'immigration relativement ouverte. Enfin, le besoin de main-d'œuvre dans certains secteurs économiques canadiens attire aussi des migrants en quête d'opportunités. — Est-ce que cet afflux pose des défis particuliers pour le Canada ? — Absolument. Bien que le Canada ait une tradition d'accueil, l'augmentation rapide des arrivées peut mettre à rude épreuve les infrastructures, notamment en matière de logement, de santé et d'éducation. De plus, l'intégration des nouveaux arrivants nécessite des efforts continus, tant du côté des migrants que des institutions canadiennes.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "l'augmentation rapide des arrivées peut mettre à rude épreuve les infrastructures, notamment en matière de logement, de santé et d'éducation",
+      "l'intégration des nouveaux arrivants nécessite des efforts continus",
+      "tant du côté des migrants que des institutions canadiennes"
+    ]
   },
   {
     "question_no": 29,
@@ -345,7 +513,19 @@
       "Réduire la pollution de l'océan."
     ],
     "audio_transcript": "Lima n'est pas reconnue pour sa beauté, sauf quand on atteint sa vue sur l'océan, ponctué de nombreux surfeurs. Pourtant, ce paysage iconique de la capitale aurait bien pu disparaître en 2016 si les vagues de quatre de ces plages n'avaient pas été protégées par la loi des brise-lames. Javier Amaya, responsable d'une école de surf à Lima, se dit soulagé de cette mesure. — C’est important pour nous, parce que nous avons pu constater qu’après la réalisation de projets de brise-lames, la géographie des plages a pu changer, et la forme des vagues aussi. Le professeur constate également que la biodiversité avait alors été affectée, notamment par la disparition d’une algue utilisée dans la recette du ceviche. Mais pour pouvoir protéger une vague avec cette loi, il faut prouver son intérêt via un contrôle technique assuré par un océanographe indépendant. C’est la campagne Asla por Tu Ola qui s’emploie à rassembler les fonds pour financer ce processus. Carolina Butrich, coordinatrice de la campagne, revient sur les conditions qui ont permis au Pérou d’être le premier pays au monde à protéger ses vagues : — Cela faisait treize ans qu’on négociait sur les modalités d’application de la loi, quand le Pérou a gagné les Jeux panaméricains sur la plage de Punta Rocas. Or, à ce moment-là, cette plage était menacée par la construction d’une jetée. L’équipe péruvienne de surf, les sportifs et quelques personnes de la direction de la fédération ont alors profité d’être conviés au Congrès pour dire : « Merci beaucoup pour cette invitation honorable, mais il faut absolument que nos vagues soient protégées. » Le Pérou fait effectivement partie des pays les plus réputés pour la pratique du surf, notamment grâce à une plage du nord du pays, dans le village de Malabrigo, qui abrite Chicama, la plus longue vague gauche au monde. Victor Vessino, surfeur depuis vingt ans, assure que les vagues péruviennes ont quelque chose d’exceptionnel dans leur constance : — Toute l’année, nous avons des vagues de bonne forme, de bonne taille, avec beaucoup de force. Donc elles sont parfaites pour apprendre à surfer. Il faut les protéger et éviter que des projets d’entreprises privées ne détruisent les sites sur lesquels on peut pratiquer. Le système de protection des vagues au Pérou semble porter ses fruits, puisque d’autres pays de la région ont suivi son exemple : le Chili, le Panama, l’Uruguay, et depuis avril 2024, l’Équateur.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "n'avaient pas été protégées par la loi des brise-lames",
+      "C’est important pour nous",
+      "la géographie des plages a pu changer, et la forme des vagues aussi",
+      "la biodiversité avait alors été affectée",
+      "il faut prouver son intérêt via un contrôle technique assuré par un océanographe indépendant",
+      "le Pérou a gagné les Jeux panaméricains sur la plage de Punta Rocas",
+      "cette plage était menacée par la construction d’une jetée",
+      "il faut absolument que nos vagues soient protégées",
+      "Il faut les protéger et éviter que des projets d’entreprises privées ne détruisent les sites sur lesquels on peut pratiquer",
+      "d’autres pays de la région ont suivi son exemple"
+    ]
   },
   {
     "question_no": 30,
@@ -357,7 +537,11 @@
       "Elle a permis de créer de nouvelles plages."
     ],
     "audio_transcript": "Lima n'est pas reconnue pour sa beauté, sauf quand on atteint sa vue sur l'océan, ponctué de nombreux surfeurs. Pourtant, ce paysage iconique de la capitale aurait bien pu disparaître en 2016 si les vagues de quatre de ces plages n'avaient pas été protégées par la loi des brise-lames. Javier Amaya, responsable d'une école de surf à Lima, se dit soulagé de cette mesure. — C’est important pour nous, parce que nous avons pu constater qu’après la réalisation de projets de brise-lames, la géographie des plages a pu changer, et la forme des vagues aussi. Le professeur constate également que la biodiversité avait alors été affectée, notamment par la disparition d’une algue utilisée dans la recette du ceviche. Mais pour pouvoir protéger une vague avec cette loi, il faut prouver son intérêt via un contrôle technique assuré par un océanographe indépendant. C’est la campagne Asla por Tu Ola qui s’emploie à rassembler les fonds pour financer ce processus. Carolina Butrich, coordinatrice de la campagne, revient sur les conditions qui ont permis au Pérou d’être le premier pays au monde à protéger ses vagues : — Cela faisait treize ans qu’on négociait sur les modalités d’application de la loi, quand le Pérou a gagné les Jeux panaméricains sur la plage de Punta Rocas. Or, à ce moment-là, cette plage était menacée par la construction d’une jetée. L’équipe péruvienne de surf, les sportifs et quelques personnes de la direction de la fédération ont alors profité d’être conviés au Congrès pour dire : « Merci beaucoup pour cette invitation honorable, mais il faut absolument que nos vagues soient protégées. » Le Pérou fait effectivement partie des pays les plus réputés pour la pratique du surf, notamment grâce à une plage du nord du pays, dans le village de Malabrigo, qui abrite Chicama, la plus longue vague gauche au monde. Victor Vessino, surfeur depuis vingt ans, assure que les vagues péruviennes ont quelque chose d’exceptionnel dans leur constance : — Toute l’année, nous avons des vagues de bonne forme, de bonne taille, avec beaucoup de force. Donc elles sont parfaites pour apprendre à surfer. Il faut les protéger et éviter que des projets d’entreprises privées ne détruisent les sites sur lesquels on peut pratiquer. Le système de protection des vagues au Pérou semble porter ses fruits, puisque d’autres pays de la région ont suivi son exemple : le Chili, le Panama, l’Uruguay, et depuis avril 2024, l’Équateur.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "après la réalisation de projets de brise-lames, la géographie des plages a pu changer, et la forme des vagues aussi",
+      "la biodiversité avait alors été affectée"
+    ]
   },
   {
     "question_no": 31,
@@ -369,7 +553,13 @@
       "30%"
     ],
     "audio_transcript": "L'écart salarial entre hommes et femmes, c'est donc encore une réalité en deux-mille-vingt-et-un. — À combien évaluez-vous cet écart ? — Absolument. Alors, ce n'est pas nous qui évaluons l'écart. Nous, on prend en fait un chiffre qui a été produit par Eurostat, qui est l'organisme de statistiques européens, qui montre qu'il y a un écart de rémunération entre les femmes et les hommes, à équivalent temps plein, qui est de l'ordre de 16,5 %. Quand on parle d'écart salarial en France, ou d'ailleurs partout dans le monde, on peut prendre plein de chiffres différents. Alors, pour moi, il y en a trois qui permettent d'expliquer trois réalités différentes : ce chiffre de 16,5 %, donc à équivalent temps plein ; il y a aussi ce chiffre qui est aux alentours de 10 %, environ, qui est à poste égal et à expérience égale — c'est ce qu'on appelle la discrimination pure. Ce qui veut dire que, même avec la même expérience, et en faisant un même poste avec les mêmes responsabilités, les femmes sont payées en moyenne 10 % de moins que les hommes. Et après, il y a ce dernier chiffre, qui est de l'ordre de 25 % environ, qui est produit par l'INSEE, qui montre qu'il y a un écart de rémunération — alors là, c'est tous postes confondus, tout temps de travail.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "ce chiffre qui est aux alentours de 10 %",
+      "environ, qui est à poste égal et à expérience égale",
+      "c'est ce qu'on appelle la discrimination pure",
+      "même avec la même expérience, et en faisant un même poste avec les mêmes responsabilités, les femmes sont payées en moyenne 10 % de moins que les hommes"
+    ]
   },
   {
     "question_no": 32,
@@ -381,7 +571,12 @@
       "En la découpant en morceaux"
     ],
     "audio_transcript": "Cette œuvre de l'artiste anglais, qui réside actuellement en Allemagne, Tony Cragg, est une sculpture monumentale en bronze qu'il a appelée Manipulation. Manipulation, c'est une référence explicite à une main que l'artiste a dessinée, puis transformée en la déformant et en la recouvrant de couches de lettres accumulées. Cragg dit : la main est une forme magnifiquement articulée. La main a été transformée en une sorte de monstre noir, composé de mots incompréhensibles et désordonnés, une bête tentaculaire, fruit d'une étrange manipulation. Paul Claudel écrivait : « L'ordre est le plaisir de la raison, mais le désordre est le délice de l'imagination. » Tâchez d'y penser.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "l'artiste a dessinée, puis transformée en la déformant et en la recouvrant de couches de lettres accumulées",
+      "en la déformant et en la recouvrant de couches de lettres accumulées",
+      "La main a été transformée en une sorte de monstre noir, composé de mots incompréhensibles et désordonnés"
+    ]
   },
   {
     "question_no": 33,
@@ -393,7 +588,14 @@
       "La baisse de la rentabilité dans le monde agricole"
     ],
     "audio_transcript": "Sous l'œil de notre microscope maintenant : la pollution de l'air coûte cher aux contribuables français. Très cher, même. C'est la conclusion d'un rapport sénatorial rendu public aujourd'hui, rapport qui préconise des mesures rapides. Cent-un milliards d'euros — un peu plus même — c'est ce que coûteraient les émissions de CO₂ et autres particules fines à la France, et ce, chaque année. Un montant astronomique que le texte du Sénat explique en particulier par les traitements médicaux appliqués aux personnes atteintes par cette pollution atmosphérique. Il explique également par une mortalité accrue : quarante-deux mille morts prématurés chaque année en France, par l'absentéisme en entreprise également.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "la pollution de l'air coûte cher aux contribuables français",
+      "Cent-un milliards d'euros — un peu plus même — c'est ce que coûteraient les émissions de CO₂ et autres particules fines à la France, et ce, chaque année",
+      "Un montant astronomique que le texte du Sénat explique en particulier par les traitements médicaux appliqués aux personnes atteintes par cette pollution atmosphérique",
+      "Il explique également par une mortalité accrue : quarante-deux mille morts prématurés chaque année en France",
+      "par l'absentéisme en entreprise également"
+    ]
   },
   {
     "question_no": 34,
@@ -405,7 +607,16 @@
       "a permis à la plupart des gens d'être plus productifs."
     ],
     "audio_transcript": "Vous savez, avec la crise sanitaire, le télétravail est devenu incontournable pour beaucoup d'entre nous. Avant, c'était plutôt rare, mais maintenant, c'est presque la norme. Bien sûr, il y a des avantages, comme ne plus perdre de temps dans les transports et avoir plus de flexibilité. Mais il y a aussi des côtés négatifs : par exemple, certains ressentent plus de solitude, et c'est parfois difficile de séparer boulot et vie perso. Cela dit, la majorité des gens disent quand même que le télétravail leur a permis d'être plus productifs et de réduire leur stress.",
-    "right_option": "D"
+    "right_option": "D",
+    "highlights": [
+      "la majorité des gens disent quand même que le télétravail leur a permis d'être plus productifs",
+      "ne plus perdre de temps dans les transports et avoir plus de flexibilité",
+      "certains ressentent plus de solitude",
+      "c'est parfois difficile de séparer boulot et vie perso",
+      "de réduire leur stress",
+      "Bien sûr, il y a des avantages",
+      "il y a aussi des côtés négatifs"
+    ]
   },
   {
     "question_no": 35,
@@ -417,7 +628,13 @@
       "la facilité d'installation dans des espaces réduits."
     ],
     "audio_transcript": "Dans une ferme urbaine à Paris, par exemple, on peut trouver deux méthodes de production : l'agroécologie, inspirée des principes de la permaculture, et l'hydroponie, une technique de culture hors-sol. Concrètement, les plantes poussent dans l'eau, utilisée en circuit fermé pour en consommer le moins possible. Alors, ces deux pratiques sont extrêmement complémentaires et ont toutes les deux beaucoup de sens. C'est pour ça qu'on les a sélectionnées. La culture en pleine terre, en fait, c'est peut-être celle qui a le plus de vertus pour la ville, parce qu'en fait, en installant de la terre et en installant des végétaux, on vient tout simplement consommer la pollution, puisque les plantes se nourrissent finalement de CO₂, et on vient quelque part améliorer la qualité de l'air en ville.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "La culture en pleine terre, en fait, c'est peut-être celle qui a le plus de vertus pour la ville",
+      "en installant de la terre et en installant des végétaux, on vient tout simplement consommer la pollution",
+      "les plantes se nourrissent finalement de CO₂",
+      "on vient quelque part améliorer la qualité de l'air en ville"
+    ]
   },
   {
     "question_no": 36,
@@ -429,7 +646,12 @@
       "l'installation de nouvelles technologies."
     ],
     "audio_transcript": "Les villes intelligentes, c'est un concept de plus en plus en vogue. On utilise des technologies avancées pour améliorer la qualité de vie des habitants. Par exemple, les feux de signalisation peuvent maintenant s'adapter en temps réel au trafic pour éviter les embouteillages. Mais, malgré ces innovations, il y a des défis, comme la protection des données personnelles. Les citoyens doivent être informés sur comment leurs informations sont utilisées.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "il y a des défis",
+      "comme la protection des données personnelles",
+      "Les citoyens doivent être informés sur comment leurs informations sont utilisées"
+    ]
   },
   {
     "question_no": 37,
@@ -441,7 +663,18 @@
       "la diminution des coûts liés à la production agricole."
     ],
     "audio_transcript": "On est consommateur de déchets, puisque pour amener de la fertilisation dans nos sols, on peut consommer des déchets urbains. Par exemple : du marc de café en provenance des brasseries parisiennes, des drêches de bière pour les brasseurs de bière, des chutes de champignons pour les producteurs de champignons. La serre, elle, permet de dompter un petit peu les aléas climatiques. Donc, quand il y a eu des périodes de gel, nous, on n'en a pas souffert, parce que c'est vrai que dans une serre, on s'est protégé de ce climat. Et on s'est protégé de ce climat en réemployant une source de chaleur urbaine, qui est celle d'un data center qui se trouve au sous-sol du bâtiment. Tous ces serveurs informatiques émettent énormément de chaleur, et cette chaleur est récupérée pour chauffer de l'eau, qui est distribuée autour de moi, dans la serre, pour chauffer la serre. Et donc, c'est vrai que c'est un autre intérêt qu'on voit, nous, dans l'association de serre en toiture dans des milieux urbains : c'est de venir réutiliser [phrase incomplète ou tronquée ici — à signaler pour révision si besoin].",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "La serre, elle, permet de dompter un petit peu les aléas climatiques",
+      "quand il y a eu des périodes de gel, nous, on n'en a pas souffert",
+      "parce que c'est vrai que dans une serre, on s'est protégé de ce climat",
+      "on s'est protégé de ce climat en réemployant une source de chaleur urbaine",
+      "une source de chaleur urbaine, qui est celle d'un data center",
+      "Tous ces serveurs informatiques émettent énormément de chaleur",
+      "cette chaleur est récupérée pour chauffer de l'eau",
+      "distribuée autour de moi, dans la serre, pour chauffer la serre",
+      "c'est un autre intérêt qu'on voit, nous, dans l'association de serre en toiture dans des milieux urbains : c'est de venir réutiliser"
+    ]
   },
   {
     "question_no": 38,
@@ -453,7 +686,12 @@
       "la diminution de la productivité."
     ],
     "audio_transcript": "Vous avez sûrement remarqué que de plus en plus d'entreprises proposent du travail flexible. Cela signifie que vous pouvez choisir vos horaires de travail ou même travailler à distance. Cela a des avantages évidents, comme une meilleure conciliation entre vie professionnelle et personnelle. Mais certains trouvent que cela peut rendre difficile la séparation entre le temps de travail et le temps libre.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "certains trouvent que cela peut rendre difficile la séparation entre le temps de travail et le temps libre",
+      "rendre difficile la séparation entre le temps de travail et le temps libre",
+      "Mais certains trouvent que cela peut rendre difficile"
+    ]
   },
   {
     "question_no": 39,
@@ -465,7 +703,12 @@
       "leur disponibilité tout au long de l'année."
     ],
     "audio_transcript": "La tendance actuelle en matière de nutrition est de privilégier les aliments locaux et de saison. Cela aide non seulement à soutenir les producteurs locaux, mais aussi à réduire l'empreinte carbone liée au transport des aliments. De plus, les produits locaux ont souvent meilleur goût et conservent plus de nutriments. Les grandes surfaces commencent même à offrir des rayons entiers dédiés aux produits locaux.",
-    "right_option": "C"
+    "right_option": "C",
+    "highlights": [
+      "les produits locaux ont souvent meilleur goût et conservent plus de nutriments",
+      "conservent plus de nutriments",
+      "réduire l'empreinte carbone liée au transport des aliments"
+    ]
   },
   {
     "question_no": 40,
@@ -477,6 +720,11 @@
       "le coût élevé des abonnements."
     ],
     "audio_transcript": "Avec l'essor des plateformes de streaming, la manière dont nous consommons la musique a beaucoup changé. Au lieu d'acheter des albums, on écoute des morceaux en streaming. Cela permet de découvrir facilement de nouveaux artistes, mais certains critiquent la rémunération insuffisante des artistes sur ces plateformes. Les revenus générés ne sont pas toujours équitables pour les créateurs.",
-    "right_option": "B"
+    "right_option": "B",
+    "highlights": [
+      "certains critiquent la rémunération insuffisante des artistes sur ces plateformes",
+      "Les revenus générés ne sont pas toujours équitables pour les créateurs",
+      "Cela permet de découvrir facilement de nouveaux artistes"
+    ]
   }
 ]
