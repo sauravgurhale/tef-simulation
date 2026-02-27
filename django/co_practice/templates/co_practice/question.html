@@ -133,7 +133,34 @@
     </div>{# end left column #}
 
     {# ── Right column: audio + transcript ── #}
-    <div class="space-y-4">
+    <div class="space-y-4" x-data="{
+      words: [],
+      revealed: 0,
+      duration: 0,
+      init() {
+        this.$nextTick(() => {
+          this.words = wrapWordsInSpans(this.$refs.transcriptEl);
+        });
+      },
+      onMeta(e) {
+        this.duration = e.target.duration;
+      },
+      onTimeUpdate(e) {
+        if (!this.duration) this.duration = e.target.duration || 0;
+        if (!this.duration) return;
+        const target = Math.ceil((e.target.currentTime / this.duration) * this.words.length);
+        this.revealTo(target);
+      },
+      revealTo(target) {
+        target = Math.max(0, Math.min(target, this.words.length));
+        if (target > this.revealed) {
+          for (let i = this.revealed; i < target; i++) this.words[i].style.opacity = '1';
+        } else if (target < this.revealed) {
+          for (let i = target; i < this.revealed; i++) this.words[i].style.opacity = '0';
+        }
+        this.revealed = target;
+      }
+    }">
 
       {# Audio card #}
       <div class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm">
@@ -156,15 +183,16 @@
             <source src="{% static full_audio_path %}" type="audio/mpeg">
           </audio>
 
-        {% else %}
-          {% if audio_paths.intro %}
-          <div class="mb-3">
-            <p class="text-xs text-gray-400 mb-1">Introduction — {{ audio_paths.intro_label }}</p>
-            <audio controls class="w-full">
-              <source src="{% static audio_paths.intro %}" type="audio/mpeg">
-            </audio>
-          </div>
-          {% endif %}
+        <div>
+          <p class="text-xs text-gray-400 mb-1">Question {{ question.question_no }}</p>
+          <audio controls class="w-full"
+                 x-ref="mainAudio"
+                 @loadedmetadata="onMeta"
+                 @timeupdate="onTimeUpdate"
+                 @seeked="onTimeUpdate">
+            <source src="{% static audio_paths.main %}" type="audio/mpeg">
+          </audio>
+        </div>
 
           <div>
             <p class="text-xs text-gray-400 mb-1">Question {{ question.question_no }}</p>
@@ -187,7 +215,7 @@
       {# Transcription card #}
       <div class="bg-[#EDE3D6] rounded-lg border border-[#D4C5B2] p-4">
         <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">Transcription</h3>
-        <p class="text-base text-gray-700 leading-relaxed">{{ highlighted_transcript }}</p>
+        <p class="text-sm text-gray-700 leading-relaxed" x-ref="transcriptEl">{{ highlighted_transcript }}</p>
       </div>
 
     </div>{# end right column #}
@@ -225,4 +253,33 @@
   </div>
 
 </div>
+
+<script>
+function wrapWordsInSpans(container) {
+  const words = [];
+  function walk(node) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      const parts = node.textContent.split(/(\s+)/);
+      const frag = document.createDocumentFragment();
+      parts.forEach(part => {
+        if (/^\s*$/.test(part)) {
+          frag.appendChild(document.createTextNode(part));
+        } else {
+          const span = document.createElement('span');
+          span.textContent = part;
+          span.style.opacity = '0';
+          span.style.transition = 'opacity 0.15s';
+          words.push(span);
+          frag.appendChild(span);
+        }
+      });
+      node.parentNode.replaceChild(frag, node);
+    } else if (node.nodeType === Node.ELEMENT_NODE) {
+      Array.from(node.childNodes).forEach(walk);
+    }
+  }
+  walk(container);
+  return words;
+}
+</script>
 {% endblock %}
