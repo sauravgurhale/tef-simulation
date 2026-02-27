@@ -5,7 +5,7 @@ from django.utils.safestring import mark_safe
 
 from .data.questions import get_by_id, get_all
 from .data.audio_maps import get_audio_map
-from .data.practices import discover_practices, get_practice_folder, GROUPS
+from .data.practices import discover_practices, get_practice_folder, GROUPS, get_audio_mode
 
 
 def _highlighted_transcript(transcript, highlights):
@@ -45,6 +45,10 @@ def _highlighted_transcript(transcript, highlights):
     return mark_safe(''.join(parts))
 
 
+def main_home(request):
+    return render(request, 'co_practice/main_home.html')
+
+
 def home(request):
     practices = discover_practices()
     return render(request, 'co_practice/home.html', {'practices': practices})
@@ -80,20 +84,25 @@ def question(request, practice_slug, question_id):
     if q is None:
         raise Http404
 
-    audio_map = get_audio_map(practice_slug)
-    audio_info = audio_map[question_id]
-
+    audio_mode, full_audio_rel = get_audio_mode(practice_slug)
     audio_base = f'co_practice/{practice_slug}/audio/'
     image_base = f'co_practice/{practice_slug}/images/'
 
     img_path = image_base + q['image_filename'] if q['image_filename'] else None
 
-    audio_paths = {
-        'intro': audio_base + audio_info['intro'] if audio_info['intro'] else None,
-        'intro_label': audio_info['intro_label'],
-        'main': audio_base + audio_info['main'],
-        'shared_with': audio_info['shared_with'],
-    }
+    if audio_mode == 'full':
+        full_audio_path = audio_base + full_audio_rel
+        audio_paths = None
+    else:
+        audio_map = get_audio_map(practice_slug)
+        audio_info = audio_map[question_id]
+        full_audio_path = None
+        audio_paths = {
+            'intro': audio_base + audio_info['intro'] if audio_info['intro'] else None,
+            'intro_label': audio_info['intro_label'],
+            'main': audio_base + audio_info['main'],
+            'shared_with': audio_info['shared_with'],
+        }
 
     prev_id = question_id - 1 if question_id > 1 else None
     next_id = question_id + 1 if question_id < 40 else None
@@ -105,7 +114,9 @@ def question(request, practice_slug, question_id):
     return render(request, 'co_practice/question.html', {
         'question': q,
         'img_path': img_path,
+        'audio_mode': audio_mode,
         'audio_paths': audio_paths,
+        'full_audio_path': full_audio_path,
         'prev_id': prev_id,
         'next_id': next_id,
         'highlighted_transcript': highlighted,

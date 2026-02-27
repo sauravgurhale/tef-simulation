@@ -1,0 +1,754 @@
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_14_images/co-14-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Salut Clara, ce soir je vais préparer des légumes. Tu penses que les enfants vont apprécier ? C'est une bonne idée parce qu'ils adorent ça.",
+    "right_option": "C",
+    "highlights": [
+      "je vais préparer des légumes",
+      "les enfants",
+      "ils adorent ça"
+    ]
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_14_images/co-14-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Ça fait un bon moment que je cherche le chat. Tu sais où il se trouve ? Il est dans ta chambre, il dort sous le lit.",
+    "right_option": "D",
+    "highlights": [
+      "le chat",
+      "dans ta chambre",
+      "il dort",
+      "sous le lit"
+    ]
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_14_images/co-14-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Salut Stella, ça te dit de participer à un spectacle de rue ? Super, j'ai toujours rêvé de le faire, c'est pour quand ?",
+    "right_option": "D",
+    "highlights": [
+      "spectacle de rue"
+    ]
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_14_images/co-14-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Allô Pierre, on t'attend tous, tu es où ? Désolé, je suis encore au bureau. Je vais arriver avec un retard d'environ 30 minutes.",
+    "right_option": "B",
+    "highlights": [
+      "au bureau",
+      "un retard d'environ 30 minutes"
+    ]
+  },
+  {
+    "question_no": 5,
+    "question": "Dans ce message, on annonce…",
+    "options": [
+      "La fin de la promotion d'un nouveau produit.",
+      "La mise en rayon d'un nouveau produit.",
+      "L'ouverture du rayon cosmétique.",
+      "Le retour en magasin d'un soin de la peau."
+    ],
+    "audio_transcript": "Chers clients, venez au rayon cosmétique découvrir la nouvelle gamme de soins de la peau révolutionnaire. Formulée avec des ingrédients naturels, Éclats Brillant hydrate, régénère et illumine votre peau. Ne manquez pas cette opportunité de rayonner !",
+    "right_option": "B",
+    "highlights": [
+      "venez au rayon cosmétique découvrir",
+      "la nouvelle gamme",
+      "Formulée avec des ingrédients naturels, Éclats Brillant",
+      "hydrate, régénère et illumine votre peau",
+      "Ne manquez pas cette opportunité"
+    ]
+  },
+  {
+    "question_no": 6,
+    "question": "Ce message annonce, …",
+    "options": [
+      "L'entrée des passagers.",
+      "Le départ du bus.",
+      "L'arrêt du bus.",
+      "Des consignes de sécurité."
+    ],
+    "audio_transcript": "Chers passagers, bienvenue à bord. Nous vous prions de bien vouloir attacher votre ceinture et de garder vos effets personnels avec vous à tout moment. Ne vous levez qu'en cas d'urgence ou bien quand le bus est à l'arrêt. Bon voyage.",
+    "right_option": "D",
+    "highlights": [
+      "attacher votre ceinture",
+      "garder vos effets personnels avec vous à tout moment",
+      "Ne vous levez qu'en cas d'urgence ou bien quand le bus est à l'arrêt"
+    ]
+  },
+  {
+    "question_no": 7,
+    "question": "Dans ce message, on annonce…",
+    "options": [
+      "L'arrivée tardive du train en partance pour Lyon.",
+      "Un accident grave sur la voie.",
+      "L'annulation du train en provenance de Lyon.",
+      "L'arrivée tardive d'un train."
+    ],
+    "audio_transcript": "Attention chers voyageurs, nous vous informons que le train en provenance de Lyon et à destination de Paris arrivera avec un retard d'une heure en raison d'un incident sur la voie. Nous nous excusons pour ce désagrément et vous remercions de votre compréhension.",
+    "right_option": "D",
+    "highlights": [
+      "le train en provenance de Lyon et à destination de Paris",
+      "arrivera avec un retard d'une heure",
+      "en raison d'un incident sur la voie"
+    ]
+  },
+  {
+    "question_no": 8,
+    "question": "Ce message est diffusé pour, …",
+    "options": [
+      "Annoncer l'ouverture dominicale de l'enseigne.",
+      "Souhaiter une bonne fête de Noël aux clients.",
+      "Annoncer l'ouverture du magasin le jour de Noël.",
+      "Annoncer l'ouverture du magasin après 18 heures."
+    ],
+    "audio_transcript": "Chers clients, à l'occasion des fêtes de Noël, votre magasin préféré sera exceptionnellement ouvert ce dimanche de 10 heures à dix-huit heures. Venez profiter de nos offres spéciales et trouver le cadeau parfait pour vos proches. Joyeuses fêtes.",
+    "right_option": "A",
+    "highlights": [
+      "à l'occasion des fêtes de Noël",
+      "votre magasin préféré sera exceptionnellement ouvert ce dimanche",
+      "de 10 heures à dix-huit heures",
+      "Venez profiter de nos offres spéciales",
+      "trouver le cadeau parfait pour vos proches"
+    ]
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle pour, …",
+    "options": [
+      "Organiser une sortie.",
+      "Ajourner un rendez-vous.",
+      "Demander un service.",
+      "S'excuser d'un retard."
+    ],
+    "audio_transcript": "Salut Pierre, c'est Chloé. Désolée, je dois reporter notre sortie prévue demain. On peut se retrouver la semaine prochaine ? Appelle-moi quand tu as un moment pour en discuter. Merci, à bientôt.",
+    "right_option": "B",
+    "highlights": [
+      "je dois reporter notre sortie prévue demain",
+      "On peut se retrouver la semaine prochaine",
+      "Appelle-moi quand tu as un moment pour en discuter"
+    ]
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour, …",
+    "options": [
+      "Connaître l'état de santé de son ami.",
+      "Savoir quand aura lieu le cours.",
+      "Demander de l'aide.",
+      "Renvoyer un rendez-vous à plus tard."
+    ],
+    "audio_transcript": "Salut Luc, c'est Cassandra. J'ai une grosse grippe et je ne pourrai pas venir en classe aujourd'hui. Peux-tu m'envoyer tes notes de cours plus tard ? Merci beaucoup et à bientôt.",
+    "right_option": "C",
+    "highlights": [
+      "J'ai une grosse grippe",
+      "je ne pourrai pas venir en classe aujourd'hui",
+      "Peux-tu m'envoyer tes notes de cours plus tard ?",
+      "Merci beaucoup"
+    ]
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle pour, …",
+    "options": [
+      "Prendre rendez-vous avec un dentiste.",
+      "Savoir si le patient honorera son rendez-vous.",
+      "Reporter son rendez-vous de 13 heures.",
+      "Se renseigner sur les services du Dr Clémenceau."
+    ],
+    "audio_transcript": "Bonjour Monsieur Tapie, c'est le cabinet du docteur Clemenceau. Nous vous appelons pour confirmer votre rendez-vous de demain à 13 heures avec le dentiste. Merci de nous rappeler à ce numéro.",
+    "right_option": "B",
+    "highlights": [
+      "Nous vous appelons pour confirmer votre rendez-vous",
+      "de demain à 13 heures",
+      "avec le dentiste",
+      "Merci de nous rappeler"
+    ]
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle pour, …",
+    "options": [
+      "Recueillir l'avis d'un collègue.",
+      "S'informer sur le moteur neuf.",
+      "Commander un nouveau moteur.",
+      "Annoncer un envoi."
+    ],
+    "audio_transcript": "Allô Séraphin, je t'appelle concernant le pont numéro 12. Compte tenu de notre situation financière, qui n'est pas très bonne en ce moment, penses-tu qu'il serait mieux de l'équiper d'un moteur 9 ? Alors il faudrait juste réviser l'ancien. Rappelle-moi vite.",
+    "right_option": "A",
+    "highlights": [
+      "je t'appelle concernant le pont numéro 12",
+      "penses-tu qu'il serait mieux de l'équiper d'un moteur 9",
+      "Rappelle-moi vite"
+    ]
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle pour, …",
+    "options": [
+      "Obtenir un renseignement.",
+      "Savoir si la ville est attrayante.",
+      "Informer de son arrivée en ville.",
+      "Annoncer sa visite en ville."
+    ],
+    "audio_transcript": "Allô Judith, comment vas-tu ? Je t'appelle pour savoir quels sont les plus beaux endroits à visiter dans ta ville. En fait, je vais y passer le week-end avec mes enfants. Tu m'appelles plus tard ? Merci.",
+    "right_option": "A",
+    "highlights": [
+      "Je t'appelle pour savoir quels sont les plus beaux endroits à visiter dans ta ville"
+    ]
+  },
+  {
+    "question_no": 14,
+    "question": "La personne appelle pour, …",
+    "options": [
+      "Donner des nouvelles de l'hôpital à Julie.",
+      "Dire à Julie que ses collègues sont malades.",
+      "Interrompre les vacances de Julie.",
+      "Demander à Julie de partir en vacances."
+    ],
+    "audio_transcript": "Bonjour Julie, c'est Gaspard. Tu vas bien ? Je t'appelle pour te demander de revenir urgemment sur Paris pour nous prêter main-forte au bloc opératoire. En fait, les malades affluent à l'hôpital et nous sommes en nombre limité, car Pierre et Marie ont chopé un virus. Tu pourras repartir en vacances à la fin du mois. J'espère que tu comprends. À bientôt.",
+    "right_option": "C",
+    "highlights": [
+      "Je t'appelle pour te demander de revenir urgemment sur Paris",
+      "pour nous prêter main-forte au bloc opératoire",
+      "les malades affluent à l'hôpital",
+      "nous sommes en nombre limité",
+      "Pierre et Marie ont chopé un virus",
+      "Tu pourras repartir en vacances à la fin du mois"
+    ]
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée…",
+    "options": [
+      "Pense qu'on devrait le faire sans hésiter.",
+      "Pense qu'on devrait le faire en tenant compte de leur goût.",
+      "Pense qu'on ne devrait pas du tout le faire.",
+      "Est sans opinion sur la question."
+    ],
+    "audio_transcript": "Je pense qu'imposer la lecture aux enfants peut être bénéfique. Cela encourage leur imagination, améliore leurs compétences linguistiques et les prépare mieux pour l'avenir. Cependant, il est crucial de choisir des livres adaptés à leurs intérêts pour susciter leur amour de la lecture plutôt que de les forcer à lire contre leur gré.",
+    "right_option": "B",
+    "highlights": [
+      "Je pense qu'imposer la lecture aux enfants peut être bénéfique",
+      "Cela encourage leur imagination, améliore leurs compétences linguistiques et les prépare mieux pour l'avenir",
+      "Cependant, il est crucial de choisir des livres adaptés à leurs intérêts",
+      "pour susciter leur amour de la lecture plutôt que de les forcer à lire contre leur gré"
+    ]
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée…",
+    "options": [
+      "Pense qu'on devrait le faire sans hésiter.",
+      "Pense qu'on devrait le faire en tenant compte de leur goût.",
+      "Pense qu'on ne devrait pas du tout le faire.",
+      "Est sans opinion sur la question."
+    ],
+    "audio_transcript": "Pour moi, imposer la lecture aux enfants est essentiel. Cela développe leur imagination, améliore leurs compétences linguistiques et prépare leur avenir. C'est une base incontournable de l'éducation.",
+    "right_option": "A",
+    "highlights": [
+      "Pour moi, imposer la lecture aux enfants est essentiel",
+      "Cela développe leur imagination, améliore leurs compétences linguistiques et prépare leur avenir",
+      "C'est une base incontournable de l'éducation"
+    ]
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée…",
+    "options": [
+      "Pense qu'on devrait le faire sans hésiter.",
+      "Pense qu'on devrait le faire en tenant compte de leur goût.",
+      "Pense qu'on ne devrait pas du tout le faire.",
+      "Est sans opinion sur la question."
+    ],
+    "audio_transcript": "Pour moi, c'est de l'histoire ancienne. Imposer la lecture aux enfants n'est plus nécessaire aujourd'hui. Les nouvelles technologies et les activités sportives offrent des alternatives riches et éducatives pour leur développement.",
+    "right_option": "C",
+    "highlights": [
+      "c'est de l'histoire ancienne",
+      "n'est plus nécessaire aujourd'hui",
+      "Imposer la lecture aux enfants n'est plus nécessaire"
+    ]
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est pour cette pratique.",
+      "Est pour cette pratique dans certains cas.",
+      "Est totalement contre cette pratique.",
+      "Est sans opinion sur la question."
+    ],
+    "audio_transcript": "Je m'inscris en faux contre la scolarisation à domicile. Cette pratique prive les enfants de la socialisation nécessaire, limite leur accès à des ressources éducatives diversifiées et peut affecter leur développement global.",
+    "right_option": "C",
+    "highlights": [
+      "Je m'inscris en faux contre la scolarisation à domicile",
+      "Cette pratique prive les enfants de la socialisation nécessaire",
+      "limite leur accès à des ressources éducatives diversifiées",
+      "peut affecter leur développement global"
+    ]
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est pour cette pratique.",
+      "Est pour cette pratique dans certains cas.",
+      "Est totalement contre cette pratique.",
+      "Est sans opinion sur la question."
+    ],
+    "audio_transcript": "On pense toujours que l'école à la maison limite la socialisation et l'accès à des ressources éducatives variées. Cependant, pour les enfants ayant des besoins spéciaux, elle peut offrir une adaptation et une attention personnalisée essentielles à leur développement. Alors, dans ce cas, pourquoi ne pas essayer ?",
+    "right_option": "B",
+    "highlights": [
+      "On pense toujours que l'école à la maison limite la socialisation et l'accès à des ressources éducatives variées.",
+      "Cependant",
+      "pour les enfants ayant des besoins spéciaux",
+      "elle peut offrir une adaptation et une attention personnalisée essentielles à leur développement",
+      "Alors, dans ce cas, pourquoi ne pas essayer ?"
+    ]
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est pour cette pratique.",
+      "Est pour cette pratique dans certains cas.",
+      "Est totalement contre cette pratique.",
+      "Est sans opinion sur la question."
+    ],
+    "audio_transcript": "Il est difficile de donner un avis sur la question. D'un côté, elle offre une flexibilité et une attention individualisée, surtout pour les enfants ayant des besoins spécifiques. De l'autre, elle peut limiter la socialisation et l'accès à une diversité de ressources éducatives.",
+    "right_option": "D",
+    "highlights": [
+      "Il est difficile de donner un avis sur la question",
+      "D'un côté",
+      "De l'autre"
+    ]
+  },
+  {
+    "question_no": 21,
+    "question": "D’après cette chronique, l’ancien instituteur…",
+    "options": [
+      "Transmet la culture aux jeunes des agglomérations urbaines.",
+      "Sillonne le pays pour apprendre à lire aux enfants pauvres.",
+      "Insuffle le goût de la lecture aux enfants des campagnes.",
+      "Vend des livres dans sa bibliothèque ambulante."
+    ],
+    "audio_transcript": "Ce matin, allons en Italie pour parler d’Antonio Lacava, un ancien instituteur italien au cœur d’une initiative remarquable. À bord de son bibliomotocaro, une bibliothèque mobile qu’il a transformée à partir d’une vieille camionnette, Antonio parcourt les villages de la région de Basilicate. Son objectif : rendre la lecture accessible à tous les enfants, même ceux vivant dans les zones les plus reculées. Chaque semaine, il apporte des livres et le plaisir de la lecture à des centaines d’enfants, les inspirant à développer leur imagination et leur amour pour les livres. Antonio Lacava incarne la passion et la dévotion, prouvant que l’accès à la culture peut changer des vies. Son bibliomotocaro n’est pas seulement une bibliothèque ambulante : c’est un symbole de générosité et de dévouement envers l’éducation et le bien-être des jeunes générations.",
+    "right_option": "C",
+    "highlights": [
+      "ancien instituteur italien",
+      "bibliomotocaro, une bibliothèque mobile",
+      "Antonio parcourt les villages de la région de Basilicate",
+      "rendre la lecture accessible à tous les enfants, même ceux vivant dans les zones les plus reculées",
+      "il apporte des livres et le plaisir de la lecture à des centaines d’enfants",
+      "les inspirant à développer leur imagination et leur amour pour les livres",
+      "l’accès à la culture peut changer des vies",
+      "Son bibliomotocaro n’est pas seulement une bibliothèque ambulante"
+    ]
+  },
+  {
+    "question_no": 22,
+    "question": "Cette pratique offre l’occasion…",
+    "options": [
+      "De réduire significativement les coûts de voyage.",
+      "De faire des rencontres avec des personnes de la région.",
+      "De prendre part à des cours de cuisine locale.",
+      "D'accéder à des hébergements à petit prix."
+    ],
+    "audio_transcript": "Bonjour à tous. Aujourd’hui, parlons du food surfing, une tendance culinaire qui gagne en popularité. Le food surfing permet aux voyageurs de découvrir la gastronomie locale d’une manière unique, en partageant un repas avec des habitants chez eux. Grâce à des plateformes en ligne, les foodies peuvent se connecter avec des hôtes passionnés, prêts à cuisiner pour eux des plats traditionnels et à partager des histoires autour de la table. Cette expérience immersive offre bien plus qu’un simple repas : c’est une opportunité de tisser des liens, d’échanger des cultures et de vivre un moment authentique, loin des sentiers battus. Le food surfing transforme chaque repas en une aventure culinaire et humaine inoubliable.",
+    "right_option": "B",
+    "highlights": [
+      "Le food surfing permet aux voyageurs de découvrir la gastronomie locale d’une manière unique, en partageant un repas avec des habitants chez eux",
+      "les foodies peuvent se connecter avec des hôtes passionnés",
+      "prêts à cuisiner pour eux des plats traditionnels et à partager des histoires autour de la table",
+      "c’est une opportunité de tisser des liens, d’échanger des cultures",
+      "vivre un moment authentique"
+    ]
+  },
+  {
+    "question_no": 23,
+    "question": "Quel aspect majeur du jeu vidéo a séduit l’invité ?",
+    "options": [
+      "Le fait d'incarner des personnages très célèbres.",
+      "L'opportunité de gagner des récompenses financières.",
+      "Le fait de pouvoir interagir dans des mondes autres.",
+      "La haute qualité des graphismes du jeu."
+    ],
+    "audio_transcript": "Vous êtes fondatrice et présidente de l'association Afro-Gameuse. Avec vous, parler du secteur des jeux vidéo en Afrique et puis aussi dans la diaspora. Alors peut-être juste une question pour commencer : on a assez peu l'habitude de voir les femmes se revendiquer comme gameuses. Comment est-ce que vous avez… comment est-ce que vous êtes rentrée dans le monde du jeu vidéo ? Moi, j'ai tout simplement découvert le jeu vidéo quand j'étais jeune, au Bénin. C'est en rentrant de l'école que je suis tombée dans un super café. Je suis tombée sur un super café où il y avait des ordinateurs, ce qui m'a tout de suite beaucoup intriguée. Donc, avec tous mes camarades, on s'est rendu à l'intérieur, et le propriétaire a eu la gentillesse de me laisser utiliser les ordinateurs. Et sur cet ordi, il y avait le jeu Prince of Persia, qui a été créé en 1989. J'ai commencé comme ça à jouer aux jeux vidéo. Vraiment, c'était le premier jeu vidéo d'aventure que je découvrais, et depuis, j'ai jamais arrêté en fait. Mais qu'est-ce qui vous a plu, en fait, dans les jeux vidéo, dans cet univers ? Je pense que c'est… c'est juste un monde, voilà. C'est tout un monde. C'est un univers qui est très immersif, qui nous raconte des histoires, qui peut aussi développer beaucoup de choses en nous, en termes de skills, en termes de compétences. Moi, c'est quelque chose que j'ai découvert bien plus tard, mais j'étais fascinée, en fait, par le fait de m'immerger dans une histoire et d'incarner, en fait, un personnage qui n'avait pour le coup rien à voir avec moi. Je pense que c'est vraiment l'un des médiums qui nous permettent de… voilà, d'incarner et d'expérimenter d'autres choses qu'on ne vit pas forcément dans le quotidien. Et le côté sociabilisant aussi, parce que j'ai beaucoup joué en ligne aussi, quand j'étais à tous les autres. Alors oui, justement, c'est une question que je voulais vous poser. Parce que souvent, dans les générations qui n'ont pas grandi avec le jeu vidéo, ces générations ont un peu l'impression que le jeu vidéo enferme, qu'on est seul face à un ordinateur. Est-ce que c'est encore vrai aujourd'hui, en 2022 ? Je pense que les joueurs et les joueuses sont stigmatisés sur ce point. Ça a été le cas pendant longtemps en Afrique, et aussi en France et ailleurs. Ça commence un petit peu à changer parce que, justement, on commence à se rendre compte que c'est finalement un secteur qui est porteur, non seulement économiquement, mais en tout cas, même de manière personnelle. On se rend compte que le jeu vidéo n'est pas juste une perte de temps. On apprend des choses, on développe des compétences, par exemple. Par exemple, moi, je sais que j'ai développé beaucoup ma capacité à parler anglais. Voilà, avant ça, ce n'était pas forcément quelque chose qui m'intéressait.",
+    "right_option": "C",
+    "highlights": [
+      "qui nous raconte des histoires",
+      "j'étais fascinée, en fait, par le fait de m'immerger dans une histoire",
+      "d'incarner, en fait, un personnage qui n'avait pour le coup rien à voir avec moi",
+      "c'est vraiment l'un des médiums qui nous permettent de… voilà, d'incarner et d'expérimenter d'autres choses qu'on ne vit pas forcément dans le quotidien",
+      "Et le côté sociabilisant aussi",
+      "j'ai beaucoup joué en ligne aussi"
+    ]
+  },
+  {
+    "question_no": 24,
+    "question": "Quelle affirmation est correcte ?",
+    "options": [
+      "La perception des anciens face au jeu vidéo a évolué positivement.",
+      "Le jeu vidéo joue uniquement le rôle d'un parfait exutoire.",
+      "L'usage fréquent du jeu vidéo constitue une source d'isolement.",
+      "Les jeux vidéo devraient être démocratisés dans les écoles."
+    ],
+    "audio_transcript": "Vous êtes fondatrice et présidente de l'association Afro-Gameuse. Avec vous, parler du secteur des jeux vidéo en Afrique et puis aussi dans la diaspora. Alors peut-être juste une question pour commencer : on a assez peu l'habitude de voir les femmes se revendiquer comme gameuses. Comment est-ce que vous avez… comment est-ce que vous êtes rentrée dans le monde du jeu vidéo ? Moi, j'ai tout simplement découvert le jeu vidéo quand j'étais jeune, au Bénin. C'est en rentrant de l'école que je suis tombée dans un super café. Je suis tombée sur un super café où il y avait des ordinateurs, ce qui m'a tout de suite beaucoup intriguée. Donc, avec tous mes camarades, on s'est rendu à l'intérieur, et le propriétaire a eu la gentillesse de me laisser utiliser les ordinateurs. Et sur cet ordi, il y avait le jeu Prince of Persia, qui a été créé en 1989. J'ai commencé comme ça à jouer aux jeux vidéo. Vraiment, c'était le premier jeu vidéo d'aventure que je découvrais, et depuis, j'ai jamais arrêté en fait. Mais qu'est-ce qui vous a plu, en fait, dans les jeux vidéo, dans cet univers ? Je pense que c'est… c'est juste un monde, voilà. C'est tout un monde. C'est un univers qui est très immersif, qui nous raconte des histoires, qui peut aussi développer beaucoup de choses en nous, en termes de skills, en termes de compétences. Moi, c'est quelque chose que j'ai découvert bien plus tard, mais j'étais fascinée, en fait, par le fait de m'immerger dans une histoire et d'incarner, en fait, un personnage qui n'avait pour le coup rien à voir avec moi. Je pense que c'est vraiment l'un des médiums qui nous permettent de… voilà, d'incarner et d'expérimenter d'autres choses qu'on ne vit pas forcément dans le quotidien. Et le côté sociabilisant aussi, parce que j'ai beaucoup joué en ligne aussi, quand j'étais à tous les autres. Alors oui, justement, c'est une question que je voulais vous poser. Parce que souvent, dans les générations qui n'ont pas grandi avec le jeu vidéo, ces générations ont un peu l'impression que le jeu vidéo enferme, qu'on est seul face à un ordinateur. Est-ce que c'est encore vrai aujourd'hui, en 2022 ? Je pense que les joueurs et les joueuses sont stigmatisés sur ce point. Ça a été le cas pendant longtemps en Afrique, et aussi en France et ailleurs. Ça commence un petit peu à changer parce que, justement, on commence à se rendre compte que c'est finalement un secteur qui est porteur, non seulement économiquement, mais en tout cas, même de manière personnelle. On se rend compte que le jeu vidéo n'est pas juste une perte de temps. On apprend des choses, on développe des compétences, par exemple. Par exemple, moi, je sais que j'ai développé beaucoup ma capacité à parler anglais. Voilà, avant ça, ce n'était pas forcément quelque chose qui m'intéressait.",
+    "right_option": "A",
+    "highlights": [
+      "Ça a été le cas pendant longtemps en Afrique, et aussi en France et ailleurs.",
+      "Ça commence un petit peu à changer",
+      "on commence à se rendre compte que c'est finalement un secteur qui est porteur, non seulement économiquement, mais en tout cas, même de manière personnelle.",
+      "On se rend compte que le jeu vidéo n'est pas juste une perte de temps.",
+      "On apprend des choses, on développe des compétences"
+    ]
+  },
+  {
+    "question_no": 25,
+    "question": "L’un des principaux objectifs mis en avant depuis la prise de fonction de l’invité…",
+    "options": [
+      "La promotion de la langue française et l'organisation de festivals culturels.",
+      "L'expansion de la francophonie dans de nouveaux continents.",
+      "L'éducation des forces vives que sont les jeunes et les femmes.",
+      "La lutte contre l'accroissement de la pauvreté liée aux inégalités entre hommes et femmes."
+    ],
+    "audio_transcript": "Vous êtes la Secrétaire générale de la Francophonie depuis près de deux ans et demi. Vous avez déjà un petit peu évoqué vos priorités, mais j'avais envie de vous demander : quelles sont les deux ou trois priorités que vous avez impulsées depuis que vous êtes Secrétaire générale, en 2014 ? Ce qui m’importe énormément, c’est, d’une part, qu’on agisse — je le disais tout à l’heure — sur cette calamité qu’est le chômage des jeunes. Je trouve aussi très grave de voir une pauvreté… mais la féminisation de la pauvreté. Pourquoi ? Parce que, alors que c’est tout le contraire qu’il faudrait faire, vous avez des institutions bancaires qui considèrent que investir dans des initiatives économiques portées par des jeunes et par des femmes — très petites, petites et moyennes entreprises, et des plus grandes également, des industries — que c’est un investissement à haut risque. Alors que ce qu’il faut leur faire comprendre, c’est que c’est le contraire. Ils créent du risque, et ils viennent finalement créer de l’instabilité, du fait de ne pas investir dans ces forces vives que représentent les jeunes et les femmes. Et tout nous donne raison là-dessus. Donc ça, ce n’est pas que nous portons à la Francophonie — nous l’avons aussi beaucoup focalisé sur cette problématique. Et c’est grave, parce que, quand vous voyez le drame, la tragédie de ces migrants qui, poussés par un sentiment de désenchantement, d’impasse, d’avenir bouché, prennent tous les risques et tombent dans les filets de prédateurs sans foi ni loi, et d’organisations criminelles… C’est vous dire à quel point il faut agir là-dessus. Parce que ça, on ne peut pas rester indifférent face à ce drame. Il faut un plan mondial à cet égard. On voit que les ambitions de la Francophonie ont évolué. C’est vrai qu’au début, la Francophonie, c’était la langue française, c’était la défense de la culture. Ça reste, évidemment. Ça reste ça aussi, une part très importante : la Francophonie, c’est la langue française, c’est aussi la diversité culturelle. — Oui, bien sûr. Parce qu’en fait, je le redis : étant 84 États et gouvernements sur les cinq continents, ce que produit cette stratégie économique, c’est qu’elle est en train de remotiver certains pays qui s’étaient éloignés, qui étaient de l’espace francophone, qui étaient de la Francophonie, mais qui s’en étaient un peu éloignés, trouvant qu’il manquait presque de pertinence à cette langue française.",
+    "right_option": "D",
+    "highlights": [
+      "Ce qui m’importe énormément, c’est, d’une part, qu’on agisse",
+      "sur cette calamité qu’est le chômage des jeunes",
+      "Je trouve aussi très grave de voir une pauvreté… mais la féminisation de la pauvreté",
+      "la féminisation de la pauvreté",
+      "investir dans des initiatives économiques portées par des jeunes et par des femmes",
+      "que c’est un investissement à haut risque",
+      "Alors que ce qu’il faut leur faire comprendre, c’est que c’est le contraire",
+      "de ne pas investir dans ces forces vives que représentent les jeunes et les femmes",
+      "nous l’avons aussi beaucoup focalisé sur cette problématique",
+      "Et c’est grave, parce que",
+      "le drame, la tragédie de ces migrants",
+      "poussés par un sentiment de désenchantement, d’impasse, d’avenir bouché",
+      "on ne peut pas rester indifférent face à ce drame",
+      "Il faut un plan mondial à cet égard",
+      "quelles sont les deux ou trois priorités que vous avez impulsées depuis que vous êtes Secrétaire générale, en 2014"
+    ]
+  },
+  {
+    "question_no": 26,
+    "question": "Selon l’invité…",
+    "options": [
+      "Les banques rechignent moins à accorder leur confiance aux projets des jeunes.",
+      "Les ambitions de la Francophonie ont évolué sur le temps.",
+      "La promotion de la culture francophone est la priorité de l'organisation.",
+      "Il faudrait passer à l'engagement dans des problématiques sociales."
+    ],
+    "audio_transcript": "Vous êtes la Secrétaire générale de la Francophonie depuis près de deux ans et demi. Vous avez déjà un petit peu évoqué vos priorités, mais j'avais envie de vous demander : quelles sont les deux ou trois priorités que vous avez impulsées depuis que vous êtes Secrétaire générale, en 2014 ? Ce qui m’importe énormément, c’est, d’une part, qu’on agisse — je le disais tout à l’heure — sur cette calamité qu’est le chômage des jeunes. Je trouve aussi très grave de voir une pauvreté… mais la féminisation de la pauvreté. Pourquoi ? Parce que, alors que c’est tout le contraire qu’il faudrait faire, vous avez des institutions bancaires qui considèrent que investir dans des initiatives économiques portées par des jeunes et par des femmes — très petites, petites et moyennes entreprises, et des plus grandes également, des industries — que c’est un investissement à haut risque. Alors que ce qu’il faut leur faire comprendre, c’est que c’est le contraire. Ils créent du risque, et ils viennent finalement créer de l’instabilité, du fait de ne pas investir dans ces forces vives que représentent les jeunes et les femmes. Et tout nous donne raison là-dessus. Donc ça, ce n’est pas que nous portons à la Francophonie — nous l’avons aussi beaucoup focalisé sur cette problématique. Et c’est grave, parce que, quand vous voyez le drame, la tragédie de ces migrants qui, poussés par un sentiment de désenchantement, d’impasse, d’avenir bouché, prennent tous les risques et tombent dans les filets de prédateurs sans foi ni loi, et d’organisations criminelles… C’est vous dire à quel point il faut agir là-dessus. Parce que ça, on ne peut pas rester indifférent face à ce drame. Il faut un plan mondial à cet égard. On voit que les ambitions de la Francophonie ont évolué. C’est vrai qu’au début, la Francophonie, c’était la langue française, c’était la défense de la culture. Ça reste, évidemment. Ça reste ça aussi, une part très importante : la Francophonie, c’est la langue française, c’est aussi la diversité culturelle. — Oui, bien sûr. Parce qu’en fait, je le redis : étant 84 États et gouvernements sur les cinq continents, ce que produit cette stratégie économique, c’est qu’elle est en train de remotiver certains pays qui s’étaient éloignés, qui étaient de l’espace francophone, qui étaient de la Francophonie, mais qui s’en étaient un peu éloignés, trouvant qu’il manquait presque de pertinence à cette langue française.",
+    "right_option": "B",
+    "highlights": [
+      "On voit que les ambitions de la Francophonie ont évolué.",
+      "C’est vrai qu’au début, la Francophonie, c’était la langue française, c’était la défense de la culture.",
+      "Ça reste, évidemment.",
+      "Ça reste ça aussi, une part très importante : la Francophonie, c’est la langue française, c’est aussi la diversité culturelle.",
+      "considèrent que investir dans des initiatives économiques portées par des jeunes et par des femmes — très petites, petites et moyennes entreprises, et des plus grandes également, des industries — que c’est un investissement à haut risque.",
+      "Alors que ce qu’il faut leur faire comprendre, c’est que c’est le contraire.",
+      "Il faut un plan mondial à cet égard.",
+      "Ce qui m’importe énormément, c’est, d’une part, qu’on agisse"
+    ]
+  },
+  {
+    "question_no": 27,
+    "question": "Quel a été le principal objectif de la création du festival Comediablanca ?",
+    "options": [
+      "Promouvoir uniquement les artistes marocains.",
+      "Créer un brassage de cultures entre artistes francophones et arabophones.",
+      "Organiser des spectacles dans différents pays.",
+      "Remplacer d'autres festivals annulés à cause du COVID."
+    ],
+    "audio_transcript": "Vous êtes le producteur du Comedia Blanca. — Exactement. C’est la première édition de ce festival de l’humour dans la capitale économique marocaine. Alors, comment ça vous est venu, l’idée de lancer ce festival-là ? Alors écoutez, on a… en fait, on a lancé cette tendance. C’est l’agence qui organise cet événement. On l’a créée avec mon épouse, il y a un peu plus de deux ans, et on a fait pas mal de plateaux de stand-up, etc. Il y a notamment au Maroc pas mal de stand-up marocains, mais on n’avait pas cet échange culturel, c’est-à-dire… On a des plateaux français, on a un public pour les artistes français francophones, et on a un public pour les artistes marocains, mais on n’avait pas l’échange des deux en même temps. Surtout, il y avait aussi tout ce qu’on a vécu ces derniers temps : les guerres, la Covid, etc. Il y avait pas mal de morosité. Donc on s’est dit : pourquoi ne pas apporter une petite touche, une petite touche de joie, de bonne humeur ? On ne prétend pas changer le monde, mais juste créer un petit peu ce sourire, ramener ce sourire sur les lèvres des gens. On s’est dit : allez, on va lancer un festival, on est allé chercher des artistes, et c’est comme ça que l’idée est venue. Alors voilà. Oui, parce que ce que vous disiez, c’est que vous avez voulu réunir des artistes francophones et arabophones, c’est un peu ça la spécificité de ce festival ? Il y aura deux nuits, parce que c’est les 17 et 18 mai prochains. Donc une nuit arabophone et une nuit francophone, c’est bien ça ? Et ça se déroule à la cathédrale du Sacré-Cœur. Là aussi, comment vous est venue l’idée de faire un festival du rire dans une cathédrale ? Alors, la cathédrale du Sacré-Cœur est une cathédrale qui a été, aujourd’hui, désacralisée. C’est devenu un lieu d’événements depuis très très récemment d’ailleurs. Et puis la cathédrale du Sacré-Cœur de Casablanca reste un lieu d’échange de culture. Ça a été un monument assez exceptionnel de la ville, qui est en plein centre-ville de Casablanca.",
+    "right_option": "B",
+    "highlights": [
+      "on n’avait pas cet échange culturel",
+      "On a des plateaux français, on a un public pour les artistes français francophones, et on a un public pour les artistes marocains, mais on n’avait pas l’échange des deux en même temps",
+      "pourquoi ne pas apporter une petite touche, une petite touche de joie, de bonne humeur",
+      "On ne prétend pas changer le monde, mais juste créer un petit peu ce sourire, ramener ce sourire sur les lèvres des gens",
+      "vous avez voulu réunir des artistes francophones et arabophones",
+      "c’est un peu ça la spécificité de ce festival",
+      "une nuit arabophone et une nuit francophone",
+      "la cathédrale du Sacré-Cœur de Casablanca reste un lieu d’échange de culture"
+    ]
+  },
+  {
+    "question_no": 28,
+    "question": "La cathédrale a été choisie comme lieu du festival car…",
+    "options": [
+      "Elle n'est plus utilisée pour des cérémonies religieuses.",
+      "Elle a toujours fait office de lieu d'événements.",
+      "Elle est située à la périphérie de Casablanca.",
+      "Elle reste un lieu historique rarement utilisé pour des événements."
+    ],
+    "audio_transcript": "Vous êtes le producteur du Comedia Blanca. — Exactement. C’est la première édition de ce festival de l’humour dans la capitale économique marocaine. Alors, comment ça vous est venu, l’idée de lancer ce festival-là ? Alors écoutez, on a… en fait, on a lancé cette tendance. C’est l’agence qui organise cet événement. On l’a créée avec mon épouse, il y a un peu plus de deux ans, et on a fait pas mal de plateaux de stand-up, etc. Il y a notamment au Maroc pas mal de stand-up marocains, mais on n’avait pas cet échange culturel, c’est-à-dire… On a des plateaux français, on a un public pour les artistes français francophones, et on a un public pour les artistes marocains, mais on n’avait pas l’échange des deux en même temps. Surtout, il y avait aussi tout ce qu’on a vécu ces derniers temps : les guerres, la Covid, etc. Il y avait pas mal de morosité. Donc on s’est dit : pourquoi ne pas apporter une petite touche, une petite touche de joie, de bonne humeur ? On ne prétend pas changer le monde, mais juste créer un petit peu ce sourire, ramener ce sourire sur les lèvres des gens. On s’est dit : allez, on va lancer un festival, on est allé chercher des artistes, et c’est comme ça que l’idée est venue. Alors voilà. Oui, parce que ce que vous disiez, c’est que vous avez voulu réunir des artistes francophones et arabophones, c’est un peu ça la spécificité de ce festival ? Il y aura deux nuits, parce que c’est les 17 et 18 mai prochains. Donc une nuit arabophone et une nuit francophone, c’est bien ça ? Et ça se déroule à la cathédrale du Sacré-Cœur. Là aussi, comment vous est venue l’idée de faire un festival du rire dans une cathédrale ? Alors, la cathédrale du Sacré-Cœur est une cathédrale qui a été, aujourd’hui, désacralisée. C’est devenu un lieu d’événements depuis très très récemment d’ailleurs. Et puis la cathédrale du Sacré-Cœur de Casablanca reste un lieu d’échange de culture. Ça a été un monument assez exceptionnel de la ville, qui est en plein centre-ville de Casablanca.",
+    "right_option": "A",
+    "highlights": [
+      "la cathédrale du Sacré-Cœur est une cathédrale qui a été, aujourd’hui, désacralisée",
+      "C’est devenu un lieu d’événements depuis très très récemment d’ailleurs",
+      "la cathédrale du Sacré-Cœur de Casablanca reste un lieu d’échange de culture",
+      "Ça a été un monument assez exceptionnel de la ville, qui est en plein centre-ville de Casablanca"
+    ]
+  },
+  {
+    "question_no": 29,
+    "question": "Le film tourné par ces adolescents a pour objectif de…",
+    "options": [
+      "Faire entendre la voix des jeunes sur les inégalités sociales.",
+      "Prévenir les comportements agressifs chez le jeune public.",
+      "Favoriser l'accès à l'éducation aux jeunes des quartiers pauvres.",
+      "Mettre un terme à la violence dans les foyers universitaires."
+    ],
+    "audio_transcript": "L'heure est au montage. La première séparation. La première, c'est : faut prendre l'argent. Cinq adolescents se penchent sur l'ordinateur de Franck Brammy, un réalisateur professionnel, pour choisir les scènes qu'ils vont conserver. Leur film a pour thème la différence, ou comment le refus de cette différence peut entraîner la violence. Alors, en gros, c'est deux jeunes qui se sont disputés parce qu'ils sont bloqués : l'un du poids de l'autre et l'autre de la mer de l'autre. Ils rentrent chez eux et justement, ils croisent quelqu'un dans le bâtiment. Et surtout, voilà ce plan large-là, j'ai récolté. Sofiane apparaît à l'écran dans cette scène, Ibrahim était lui derrière la caméra. J'étais dans le contenu et la continuer avançait pendant que eux, ils dansaient en même temps. Les adolescents avaient le choix entre quatre thématiques, quatre sources de violence identifiées par leurs éducateurs. Freyt Tassen Lendu est l'un d'eux. « Les quatre thématiques qu'on a ciblées : la différence, les réseaux sociaux, la mobilité, les conduites à risque. C'est un constat qu'on a fait : les jeunes pouvaient se mettre en danger à travers ces quatre thématiques. Souvent, les jeunes vont charrier sur leurs différences, que ce soit vestimentaire, corporel, sur le plan de la religion, même parfois. Ce qui est important pour nous, c'est vraiment leur faire accéder à l'empathie, c'est-à-dire ce que tu n'aimerais pas qu'on te fasse, mais je ne vais pas résoudre. » Ibrahim, 14 ans, dit : « Moi, je choisis ça parce que la différence, c'est ce qui m'intéresse. Je pense que c'est récurrent dans les écoles, les poulets, ça peut être dangereux. C'est bien, surtout qu'il y a beaucoup qui démarrent au quart de tour. Donc ça ne se trouve pas pour rien, ça pourrait m'arriver ou ça pourrait arriver à un prochain mois de raison. » Pour Sofiane et Ibrahim, sensibiliser, dialoguer, c'est la seule solution pour enrayer la violence. La fermeté que prône le gouvernement, ils n'y croient pas. « Parce que, honnêtement, quand il y a trop d'autorité, souvent il y a eu des violences, des émeutes, il y a eu un abus de pouvoir, de violence, que les jeunes ne parlent plus et que les adultes n'écoutent pas. » Leurs éducateurs de rue acquiescent. Laurence Moreau et Walli Koïta travaillent pour l'association Le Chaos du Petit Nanterre, qui privilégie la prévention. « Nous, en tant que professionnels, par moments, on sent l'avenir un peu bloqué pour ces jeunes. Il faudrait qu'on soit plus nombreux. L'autorité pour les terriers, ça ne sert strictement à rien s'il n'y a même pas de personnes comme nous pour pouvoir justement en discuter avec eux. » En juin, la quinzaine d'adolescents qui ont participé à cet atelier présenteront leur film au théâtre des Amandiers à Nanterre. Une soirée dont le titre pourrait être : La violence de raison. C'est en tout cas ce que Fatoumata voudrait que les spectateurs en retiennent.",
+    "right_option": "B",
+    "highlights": [
+      "Leur film a pour thème la différence, ou comment le refus de cette différence peut entraîner la violence.",
+      "Les quatre thématiques qu'on a ciblées : la différence, les réseaux sociaux, la mobilité, les conduites à risque.",
+      "C'est un constat qu'on a fait : les jeunes pouvaient se mettre en danger à travers ces quatre thématiques.",
+      "Ce qui est important pour nous, c'est vraiment leur faire accéder à l'empathie",
+      "Pour Sofiane et Ibrahim, sensibiliser, dialoguer, c'est la seule solution pour enrayer la violence.",
+      "l'association Le Chaos du Petit Nanterre, qui privilégie la prévention.",
+      "Nous, en tant que professionnels, par moments, on sent l'avenir un peu bloqué pour ces jeunes.",
+      "L'autorité pour les terriers, ça ne sert strictement à rien s'il n'y a même pas de personnes comme nous pour pouvoir justement en discuter avec eux."
+    ]
+  },
+  {
+    "question_no": 30,
+    "question": "Ces adolescents sont accompagnés dans leur œuvre par…",
+    "options": [
+      "Des travailleurs sociaux.",
+      "Les pouvoirs publics.",
+      "Les autorités de la région.",
+      "Le théâtre de Nantes."
+    ],
+    "audio_transcript": "L'heure est au montage. La première séparation. La première, c'est : faut prendre l'argent. Cinq adolescents se penchent sur l'ordinateur de Franck Brammy, un réalisateur professionnel, pour choisir les scènes qu'ils vont conserver. Leur film a pour thème la différence, ou comment le refus de cette différence peut entraîner la violence. Alors, en gros, c'est deux jeunes qui se sont disputés parce qu'ils sont bloqués : l'un du poids de l'autre et l'autre de la mer de l'autre. Ils rentrent chez eux et justement, ils croisent quelqu'un dans le bâtiment. Et surtout, voilà ce plan large-là, j'ai récolté. Sofiane apparaît à l'écran dans cette scène, Ibrahim était lui derrière la caméra. J'étais dans le contenu et la continuer avançait pendant que eux, ils dansaient en même temps. Les adolescents avaient le choix entre quatre thématiques, quatre sources de violence identifiées par leurs éducateurs. Freyt Tassen Lendu est l'un d'eux. « Les quatre thématiques qu'on a ciblées : la différence, les réseaux sociaux, la mobilité, les conduites à risque. C'est un constat qu'on a fait : les jeunes pouvaient se mettre en danger à travers ces quatre thématiques. Souvent, les jeunes vont charrier sur leurs différences, que ce soit vestimentaire, corporel, sur le plan de la religion, même parfois. Ce qui est important pour nous, c'est vraiment leur faire accéder à l'empathie, c'est-à-dire ce que tu n'aimerais pas qu'on te fasse, mais je ne vais pas résoudre. » Ibrahim, 14 ans, dit : « Moi, je choisis ça parce que la différence, c'est ce qui m'intéresse. Je pense que c'est récurrent dans les écoles, les poulets, ça peut être dangereux. C'est bien, surtout qu'il y a beaucoup qui démarrent au quart de tour. Donc ça ne se trouve pas pour rien, ça pourrait m'arriver ou ça pourrait arriver à un prochain mois de raison. » Pour Sofiane et Ibrahim, sensibiliser, dialoguer, c'est la seule solution pour enrayer la violence. La fermeté que prône le gouvernement, ils n'y croient pas. « Parce que, honnêtement, quand il y a trop d'autorité, souvent il y a eu des violences, des émeutes, il y a eu un abus de pouvoir, de violence, que les jeunes ne parlent plus et que les adultes n'écoutent pas. » Leurs éducateurs de rue acquiescent. Laurence Moreau et Walli Koïta travaillent pour l'association Le Chaos du Petit Nanterre, qui privilégie la prévention. « Nous, en tant que professionnels, par moments, on sent l'avenir un peu bloqué pour ces jeunes. Il faudrait qu'on soit plus nombreux. L'autorité pour les terriers, ça ne sert strictement à rien s'il n'y a même pas de personnes comme nous pour pouvoir justement en discuter avec eux. » En juin, la quinzaine d'adolescents qui ont participé à cet atelier présenteront leur film au théâtre des Amandiers à Nanterre. Une soirée dont le titre pourrait être : La violence de raison. C'est en tout cas ce que Fatoumata voudrait que les spectateurs en retiennent.",
+    "right_option": "A",
+    "highlights": [
+      "Cinq adolescents se penchent sur l'ordinateur de Franck Brammy, un réalisateur professionnel",
+      "Freyt Tassen Lendu est l'un d'eux",
+      "Les adolescents avaient le choix entre quatre thématiques, quatre sources de violence identifiées par leurs éducateurs",
+      "Leurs éducateurs de rue acquiescent",
+      "Laurence Moreau et Walli Koïta travaillent pour l'association Le Chaos du Petit Nanterre",
+      "Nous, en tant que professionnels",
+      "Il faudrait qu'on soit plus nombreux"
+    ]
+  },
+  {
+    "question_no": 31,
+    "question": "La mise en place des approches ludiques en entreprise",
+    "options": [
+      "Garantit toujours une meilleure cohésion d'équipe.",
+      "Reste onéreuse pour une panoplie de sociétés.",
+      "Est considérée comme un frein à la productivité.",
+      "Pourrait ne pas conduire à un meilleur rendement."
+    ],
+    "audio_transcript": "Les jeux ont bien envahi l'entreprise ces dernières années, mais ces approches ludiques se heurtent à un écueil majeur. On joue, on se détend, on se change les idées, mais cela ne garantit pas nécessairement une amélioration durable de la productivité ou de la cohésion d'équipe. En effet, sans une véritable intégration de ces activités dans la culture d'entreprise et une réflexion sur leurs objectifs, elles risquent de n'être que des distractions temporaires. Pour qu'elles apportent un véritable bénéfice, il est essentiel de les accompagner d'une démarche stratégique visant à renforcer le bien-être et la collaboration au sein des équipes.",
+    "right_option": "D",
+    "highlights": [
+      "cela ne garantit pas nécessairement une amélioration durable de la productivité ou de la cohésion d'équipe",
+      "sans une véritable intégration de ces activités dans la culture d'entreprise et une réflexion sur leurs objectifs, elles risquent de n'être que des distractions temporaires",
+      "Pour qu'elles apportent un véritable bénéfice, il est essentiel de les accompagner d'une démarche stratégique"
+    ]
+  },
+  {
+    "question_no": 32,
+    "question": "Les tests d’ADN…",
+    "options": [
+      "Laissent certains experts dubitatifs.",
+      "Font l'unanimité parmi les chercheurs.",
+      "Sont largement contestés en France.",
+      "Peinent à gagner du terrain."
+    ],
+    "audio_transcript": "Au milieu des jouets, un autre cadeau se taille désormais une place de choix sous le sapin de Noël des familles américaines : le guide d'analyse ADN. L'an dernier, ces tests génétiques ont fait un carton lors du Black Friday, la journée de soldes organisée le dernier vendredi de novembre. Interdits en France sans prescription médicale, ces analyses en vente libre ont commencé à décoller aux États-Unis en 2013 et connaissent une croissance exponentielle depuis 2016. Le nombre d'utilisateurs a franchi la barre des 10 000 000 en début d'année, un chiffre multiplié par 13 en 5 ans. Cependant, certains professionnels émettent des réserves sur les tests d'ADN, soulignant qu'ils ne sont pas toujours précis à 100 %. Les erreurs de laboratoire, les contaminations ou les limites des méthodes d'analyse peuvent conduire à des résultats incorrects. Concernant l'interprétation des données, des variations peuvent entraîner des conclusions différentes sur les mêmes échantillons.",
+    "right_option": "A",
+    "highlights": [
+      "certains professionnels émettent des réserves sur les tests d'ADN",
+      "ils ne sont pas toujours précis à 100 %",
+      "Les erreurs de laboratoire, les contaminations ou les limites des méthodes d'analyse peuvent conduire à des résultats incorrects",
+      "des variations peuvent entraîner des conclusions différentes sur les mêmes échantillons"
+    ]
+  },
+  {
+    "question_no": 33,
+    "question": "Malgré leur usage dérisoire, les pétitions…",
+    "options": [
+      "Sont le moyen principal d'expression en entreprise.",
+      "Constituent un outil démocratique inestimable.",
+      "Garantissent toujours des changements immédiats dans la politique.",
+      "N'ont pas un franc succès car les signataires craignent d'être fichés."
+    ],
+    "audio_transcript": "En France, elles ne sont guère davantage que des bouteilles à la mer jetées dans le bain trouble de l'actualité. Cependant, sous leur apparente futilité, les pétitions révèlent une société en quête d'écoute et de reconnaissance. Les pétitions en ligne sont devenues un moyen d'expression populaire, permettant à chacun de faire entendre sa voix sur des sujets variés. Elles reflètent une diversité d'opinions et de préoccupations, allant des enjeux locaux aux problématiques mondiales. En réunissant des signatures, elles témoignent d'un désir collectif de changement et d'action, même si leur impact concret reste souvent limité. Elles offrent un exutoire aux frustrations citoyennes et servent de baromètre pour mesurer l'ampleur d'un mécontentement ou d'un soutien. En ce sens, elles contribuent à animer le débat public et à rappeler aux décideurs politiques les attentes de la population.",
+    "right_option": "B",
+    "highlights": [
+      "elles ne sont guère davantage que des bouteilles à la mer jetées dans le bain trouble de l'actualité",
+      "sous leur apparente futilité, les pétitions révèlent une société en quête d'écoute et de reconnaissance",
+      "Les pétitions en ligne sont devenues un moyen d'expression populaire",
+      "permettant à chacun de faire entendre sa voix sur des sujets variés",
+      "Elles reflètent une diversité d'opinions et de préoccupations",
+      "En réunissant des signatures, elles témoignent d'un désir collectif de changement et d'action",
+      "même si leur impact concret reste souvent limité",
+      "Elles offrent un exutoire aux frustrations citoyennes",
+      "servent de baromètre pour mesurer l'ampleur d'un mécontentement ou d'un soutien",
+      "elles contribuent à animer le débat public",
+      "rappeler aux décideurs politiques les attentes de la population"
+    ]
+  },
+  {
+    "question_no": 34,
+    "question": "Le magazine du dimanche entretiendra les auditeurs sur…",
+    "options": [
+      "Les dangers menaçant la planète en général.",
+      "Les actes de cruauté envers les espèces animales.",
+      "Une espèce en voie de disparition.",
+      "Les voies et moyens pour enrayer le réchauffement climatique."
+    ],
+    "audio_transcript": "Dans le cadre de sa nouvelle série documentaire Le Monde Animal, le magazine du dimanche raconte cette semaine l'histoire du rhinocéros blanc. Ce dernier incarne à lui seul tous les défis environnementaux, notamment le réchauffement climatique. La survie du rhinocéros blanc dépend de notre capacité à répondre aux défis environnementaux de manière efficace et coordonnée. En sensibilisant le public à travers des récits poignants et des images saisissantes, le magazine espère inciter chacun à contribuer à la préservation de notre planète et de ses précieuses espèces.",
+    "right_option": "C",
+    "highlights": [
+      "Dans le cadre de sa nouvelle série documentaire Le Monde Animal, le magazine du dimanche raconte cette semaine l'histoire du rhinocéros blanc",
+      "Ce dernier incarne à lui seul tous les défis environnementaux",
+      "La survie du rhinocéros blanc dépend de notre capacité à répondre aux défis environnementaux",
+      "le magazine espère inciter chacun à contribuer à la préservation de notre planète et de ses précieuses espèces"
+    ]
+  },
+  {
+    "question_no": 35,
+    "question": "Dans cet extrait, il est question…",
+    "options": [
+      "D'un évènement organisé en faveur des handicapés.",
+      "D'une promotion de plusieurs équipements sportifs.",
+      "D'un sport pour les athlètes sujets à des infirmités.",
+      "D'une campagne de sensibilisation sur les bienfaits de la course à pied."
+    ],
+    "audio_transcript": "Le para-triathlon, c'est simplement la déclinaison du triathlon pour les personnes en situation de handicap. C'est une discipline paralympique depuis Rio en 2016. Les personnes ayant un handicap visuel seront avec un tandem et un guide durant toute la course. Les personnes en fauteuil auront un matériel spécifique, notamment un handbike en vélo et un fauteuil d'athlétisme. Les personnes debout qui ont un handicap de bras ou de jambe, ou une prothèse, utiliseront leur matériel en vélo et en course à pied.",
+    "right_option": "C",
+    "highlights": [
+      "Le para-triathlon, c'est simplement la déclinaison du triathlon pour les personnes en situation de handicap",
+      "C'est une discipline paralympique depuis Rio en 2016",
+      "Les personnes ayant un handicap visuel seront avec un tandem et un guide durant toute la course",
+      "Les personnes en fauteuil auront un matériel spécifique, notamment un handbike en vélo et un fauteuil d'athlétisme",
+      "Les personnes debout qui ont un handicap de bras ou de jambe, ou une prothèse, utiliseront leur matériel en vélo et en course à pied"
+    ]
+  },
+  {
+    "question_no": 36,
+    "question": "En France, la pollution de l’air…",
+    "options": [
+      "Est omniprésente.",
+      "Fait moins de décès.",
+      "Epargne les régions montagneuses.",
+      "Affecte aussi les montagnes."
+    ],
+    "audio_transcript": "Provoquée en grande partie par les particules fines issues des gaz d'échappement, la pollution de l'air est responsable chaque année de 48 000 morts en France, presque un décès sur dix. C'est l'une des conclusions d'une enquête de Santé publique France parue il y a quinze jours. Les grandes villes sont bien sûr les plus concernées, mais autre enseignement inquiétant : en dehors des zones de montagne, personne n'est épargné.",
+    "right_option": "C",
+    "highlights": [
+      "Provoquée en grande partie par les particules fines issues des gaz d'échappement, la pollution de l'air est responsable chaque année de 48 000 morts en France",
+      "Les grandes villes sont bien sûr les plus concernées",
+      "en dehors des zones de montagne, personne n'est épargné"
+    ]
+  },
+  {
+    "question_no": 37,
+    "question": "L’invité souligne que dans certains pays, …",
+    "options": [
+      "La numérisation ne sert pas encore de moteur à la relance économique.",
+      "La fracture numérique pourrait être évitée en soutenant les PMA.",
+      "Les inégalités sont liées aux différences sociales.",
+      "Le numérique ne saurait constituer un vecteur de développement."
+    ],
+    "audio_transcript": "Aujourd'hui, la révolution numérique, ce n'est pas un secteur, le numérique c'est un vecteur, un vecteur de toute l'économie. Et donc, en effet, on a des inégalités très très grandes entre pays parce que certains ont accès non seulement à la collectivité, ce qui est le minimum de base, je dirais, mais au-delà de ça, certains ont développé de l'innovation, des compétences. On parlait de la Chine : oui, la Chine a énormément investi dans la formation et dans la technologie, l'innovation comme moteur du développement, alors que pour beaucoup de pays BMA, c'est une question encore considérée comme un secteur à part.",
+    "right_option": "A",
+    "highlights": [
+      "le numérique c'est un vecteur, un vecteur de toute l'économie",
+      "on a des inégalités très très grandes entre pays",
+      "certains ont accès non seulement à la collectivité",
+      "certains ont développé de l'innovation, des compétences",
+      "la Chine a énormément investi dans la formation et dans la technologie, l'innovation comme moteur du développement",
+      "pour beaucoup de pays BMA, c'est une question encore considérée comme un secteur à part"
+    ]
+  },
+  {
+    "question_no": 38,
+    "question": "À l’époque les gens avaient recours aux gants pour…",
+    "options": [
+      "Protéger leurs mains de la saleté.",
+      "Éviter certaines maladies contagieuses.",
+      "Camoufler la laideur des mains.",
+      "Protéger leurs mains du froid."
+    ],
+    "audio_transcript": "La fonction du gant était moult. D'abord, les gens étaient sales, les mains n'étaient pas jolies du tout, elles étaient plutôt à ne pas montrer. N'oublions pas non plus qu'au XVIIIe siècle, on ne montrait pas son corps. Donc c'est vraiment un acte social avant d'être un acte d'élégance.",
+    "right_option": "C",
+    "highlights": [
+      "La fonction du gant était moult",
+      "les gens étaient sales",
+      "les mains n'étaient pas jolies du tout",
+      "elles étaient plutôt à ne pas montrer",
+      "au XVIIIe siècle, on ne montrait pas son corps",
+      "c'est vraiment un acte social avant d'être un acte d'élégance"
+    ]
+  },
+  {
+    "question_no": 39,
+    "question": "Cette artiste pense que…",
+    "options": [
+      "Pour composer une chanson il faut toujours partir d'un poème.",
+      "Un beau poème ne produit pas toujours une chanson.",
+      "La création d'une belle chanson nécessite d'avoir un texte engagé.",
+      "Pour écrire un poème, il faut d'abord avoir composé des chansons."
+    ],
+    "audio_transcript": "Moi, j'ai commencé à travailler sur des poèmes que j'avais écrits en anglais et en jouant du piano, et ça a mené vers des chansons. Donc, je pense que l'un ou l'autre, on peut commencer par écrire de la poésie, ensuite faire des chansons. Mais un bon poème, disons, ne donnera pas forcément une chanson, et l'inverse aussi. Donc ça dépend de ce qu'on entend dans sa tête. Moi, je parle souvent de la musique quand je compose des chansons et quand j'écris des poèmes, j'entends une sorte de musique sourde qui accompagne mes textes, et Peter entend autre chose puisqu'il a été inspiré pour vraiment composer.",
+    "right_option": "B",
+    "highlights": [
+      "un bon poème, disons, ne donnera pas forcément une chanson",
+      "l'inverse aussi",
+      "ça dépend de ce qu'on entend dans sa tête"
+    ]
+  },
+  {
+    "question_no": 40,
+    "question": "Ce bateau propose…",
+    "options": [
+      "Des croisières autour de la Méditerranée à des prix compétitifs.",
+      "Une exposition immersive en partenariat avec une vingtaine de musées.",
+      "Des activités artistiques accessibles gratuitement.",
+      "Des expériences artistiques et culturelles innovantes."
+    ],
+    "audio_transcript": "C'est un géant des mers, le plus grand catamaran voilier jamais construit : quarante-sept mètres de long, dix-huit mètres de large. Mais c'est aussi le tout premier bateau-musée au monde. Jusqu'en 2026, Art Explora arpentera les rives de la Méditerranée, une vingtaine de villes dans 15 pays différents, avec pour objectif de faire voyager l'art et la culture pour toucher le plus large public possible. À bord notamment, une exposition immersive réalisée grâce aux collections du musée du Louvre.",
+    "right_option": "D",
+    "highlights": [
+      "le tout premier bateau-musée au monde",
+      "faire voyager l'art et la culture",
+      "toucher le plus large public possible",
+      "une exposition immersive réalisée grâce aux collections du musée du Louvre"
+    ]
+  }
+]

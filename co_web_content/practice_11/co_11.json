@@ -1,0 +1,783 @@
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_11_images/co-11-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Question 1. Dès mon retour de l'étranger, je voudrais faire une surprise à nos amis. J'ai pensé à organiser une croisière en l'honneur des retrouvailles. Qu'est-ce que tu en penses ? Intéressant, mais maintenant, il pleut beaucoup ici. Pourquoi ne pas organiser une petite fête ? Ce serait aussi sympa.",
+    "right_option": "C",
+    "highlights": [
+      "une croisière",
+      "une petite fête",
+      "il pleut beaucoup ici"
+    ]
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_11_images/co-11-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Question 2. Salut Stella. Je vais bientôt m'installer dans ta ville et je voudrais savoir quel est le transport en commun le plus abordable là-bas. Alors, si tu veux vraiment faire des économies, le bus est le plus indiqué, contrairement au taxi et au métro.",
+    "right_option": "D",
+    "highlights": [
+      "transport en commun",
+      "le bus"
+    ]
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_11_images/co-11-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Question 3. Salut Stella, ça va ? Ça fait longtemps. Dis-moi, est-ce que tu as des nouvelles de Wilfrid ? Pas vraiment. En fait, ça fait plus d'un an que je ne l'ai pas vu, mais aux dernières nouvelles, il travaillerait dans une grande bibliothèque de la place.",
+    "right_option": "D",
+    "highlights": [
+      "il travaillerait dans une grande bibliothèque",
+      "une grande bibliothèque de la place"
+    ]
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_11_images/co-11-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Question 4. S'il te plaît Joël, je suis dans le quartier de Mirabel, précisément au bout de la rue Georges 12, mais j'ai complètement oublié où se trouve sa maison. En plus, je n'arrive pas à la joindre. Tu peux m'orienter, s'il te plaît ? Oui, tu es déjà arrivé à destination. Regarde l'église, en face c'est sa maison.",
+    "right_option": "B",
+    "highlights": [
+      "quartier de Mirabel",
+      "rue Georges 12",
+      "l'église",
+      "en face c'est sa maison"
+    ]
+  },
+  {
+    "question_no": 5,
+    "question": "Le message annonce…",
+    "options": [
+      "Un changement d'horaire.",
+      "Le départ d'un train à destination de Bruxelles.",
+      "L'arrivée du train 3684 à 23h16.",
+      "L'annulation du train 3684."
+    ],
+    "audio_transcript": "Question 5. En raison de difficultés d'acheminement du personnel, le train grande ligne première classe à supplément place couchée, numéro 3600 quatre-vingt-quatre, à destination de Bruxelles-Midi, départ initialement prévu à vingt-trois heures seize, est supprimé. Nous vous prions d'accepter nos excuses. Merci de votre compréhension.",
+    "right_option": "D",
+    "highlights": [
+      "est supprimé",
+      "train grande ligne première classe à supplément place couchée, numéro 3600 quatre-vingt-quatre",
+      "à destination de Bruxelles-Midi",
+      "départ initialement prévu à vingt-trois heures seize"
+    ]
+  },
+  {
+    "question_no": 6,
+    "question": "Le message annonce…",
+    "options": [
+      "La phase de décollage.",
+      "Que l'avion va se poser au sol.",
+      "De ne pas s'appuyer sur la passerelle.",
+      "Que l'avion a du mal à atterrir."
+    ],
+    "audio_transcript": "Question 6. Mesdames et messieurs, nous allons atterrir dans quelques minutes. Veuillez retourner à votre place et attacher votre ceinture. Veuillez éteindre votre téléphone portable. Conservez votre ceinture attachée jusqu'à l'extinction du signal lumineux. En bas de la passerelle, avancez de quelques pas et suivez les instructions du personnel au sol. Nous espérons que vous avez passé un agréable vol en notre compagnie.",
+    "right_option": "B",
+    "highlights": [
+      "nous allons atterrir dans quelques minutes",
+      "Veuillez retourner à votre place et attacher votre ceinture",
+      "Conservez votre ceinture attachée jusqu'à l'extinction du signal lumineux",
+      "En bas de la passerelle",
+      "suivez les instructions du personnel au sol",
+      "Nous espérons que vous avez passé un agréable vol"
+    ]
+  },
+  {
+    "question_no": 7,
+    "question": "Ce message annonce…",
+    "options": [
+      "Un début d'incendie dans la salle des professeurs.",
+      "Un début d'incendie à la zone de rassemblement C.",
+      "L'évacuation en urgence d'un lieu.",
+      "L'évacuation de la zone C de l'école."
+    ],
+    "audio_transcript": "Question 7. Avis à tout le personnel enseignant. La sécurité de l'établissement vient de détecter la présence de fumée provenant de l'aile B du bâtiment. Nous vous prions d'acheminer sans délai tous les élèves vers la zone de rassemblement C, en suivant scrupuleusement les consignes de sécurité. Merci pour votre prompte réaction.",
+    "right_option": "C",
+    "highlights": [
+      "La sécurité de l'établissement vient de détecter la présence de fumée provenant de l'aile B du bâtiment",
+      "Nous vous prions d'acheminer sans délai tous les élèves vers la zone de rassemblement C",
+      "sans délai",
+      "en suivant scrupuleusement les consignes de sécurité",
+      "Merci pour votre prompte réaction"
+    ]
+  },
+  {
+    "question_no": 8,
+    "question": "Ce message annonce…",
+    "options": [
+      "La fin de la représentation.",
+      "Un intermède.",
+      "Le début de la représentation.",
+      "La position de la cordelette."
+    ],
+    "audio_transcript": "Question 8. Votre attention, s'il vous plaît, le spectacle va bientôt commencer. Nous vous prions d'entrer en salle tout en restant derrière la cordelette qui est posée au sol et de ne pas toucher au projecteur. Nous vous souhaitons de passer de bons moments dans nos locaux.",
+    "right_option": "C",
+    "highlights": [
+      "le spectacle va bientôt commencer",
+      "Votre attention, s'il vous plaît"
+    ]
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Donner de ses nouvelles.",
+      "Demander un service.",
+      "Annoncer son voyage.",
+      "Acheminer son chat à Paris."
+    ],
+    "audio_transcript": "Question 9. Salut Maurice, Zébirou, Je vais à Paris demain soir pour des raisons professionnelles. J'en aurai pour trois jours exactement. Est-ce que c'est possible que tu gardes mon chat pendant cette période ? Réponds-moi vite.",
+    "right_option": "B",
+    "highlights": [
+      "Est-ce que c'est possible que tu gardes mon chat pendant cette période ?",
+      "Je vais à Paris demain soir pour des raisons professionnelles",
+      "J'en aurai pour trois jours exactement",
+      "Réponds-moi vite"
+    ]
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Confirmer un rendez-vous.",
+      "Faire la promotion d'un commerce.",
+      "Proposer un produit.",
+      "Informer d'une promotion."
+    ],
+    "audio_transcript": "Question 10. Je vous appelle de la part du salon de coiffure La Pureté. Savez-vous qu'actuellement La Pureté offre 15 % de réduction sur tous les soins de beauté ? Profitez-en vite. Nous sommes ouverts tous les jours à partir de 11 heures et nous espérons vous voir très bientôt parmi nous.",
+    "right_option": "D",
+    "highlights": [
+      "Je vous appelle de la part du salon de coiffure La Pureté",
+      "Savez-vous qu'actuellement La Pureté offre 15 % de réduction sur tous les soins de beauté",
+      "Profitez-en vite",
+      "Nous sommes ouverts tous les jours à partir de 11 heures",
+      "nous espérons vous voir très bientôt parmi nous"
+    ]
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Proposer un rendez-vous.",
+      "Annoncer un anniversaire.",
+      "Savoir où se déroule le cours d'Espagnol.",
+      "Offrir un cadeau."
+    ],
+    "audio_transcript": "Question 11. Salut Pascal, c'est Justine. Tu vas bien ce matin ? Est-ce que tu peux te joindre à nous demain vers 16 heures après ton cours d'espagnol ? En fait, Stella, Maël et moi avons pensé à offrir un cadeau commun à grand-mère pour son anniversaire. Rappelle-moi vite.",
+    "right_option": "A",
+    "highlights": [
+      "Tu vas bien ce matin ?",
+      "Est-ce que tu peux te joindre à nous demain vers 16 heures après ton cours d'espagnol ?",
+      "demain vers 16 heures",
+      "tu peux te joindre à nous"
+    ]
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Acheter un véhicule.",
+      "Réceptionner une commande.",
+      "Passer la commande d'un véhicule.",
+      "Se plaindre d'une livraison tardive."
+    ],
+    "audio_transcript": "Question 12. Monsieur Blériot, monsieur Brand à l'appareil. Jusqu'ici, mon véhicule n'a pas encore été livré. Ça fait déjà trois jours de retard de livraison. Veuillez me rappeler urgemment pour régler ce problème.",
+    "right_option": "D",
+    "highlights": [
+      "mon véhicule n'a pas encore été livré",
+      "Ça fait déjà trois jours de retard de livraison",
+      "Veuillez me rappeler urgemment pour régler ce problème"
+    ]
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Donner des nouvelles de son fils.",
+      "Annuler un rendez-vous.",
+      "S'excuser d'un retard.",
+      "Informer que son fils s'est cassé le bras."
+    ],
+    "audio_transcript": "Question 13. Salut Jeanne, comment vas-tu ? Malheureusement, je ne serai pas disponible ce matin comme prévu. En fait, mon fils vient de faire une chute, il s'est cassé le bras. Du coup, je dois urgemment l'emmener à l'hôpital. On se verra plus tard.",
+    "right_option": "B",
+    "highlights": [
+      "je ne serai pas disponible ce matin comme prévu",
+      "Malheureusement",
+      "mon fils vient de faire une chute",
+      "il s'est cassé le bras",
+      "je dois urgemment l'emmener à l'hôpital",
+      "On se verra plus tard"
+    ]
+  },
+  {
+    "question_no": 14,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Proposer un rendez-vous.",
+      "Confirmer un rendez-vous.",
+      "Proposer un poste.",
+      "Déposer une candidature."
+    ],
+    "audio_transcript": "Question 14. Bonjour. Vous avez récemment déposé votre candidature pour un poste de de surface au sein de la société Cartex et Compagnie. À cet effet, serez-vous disponible pour un entretien le vendredi 20 décembre ? Merci de confirmer votre présence auprès de notre secrétaire au 09 60 56 34 32.",
+    "right_option": "A",
+    "highlights": [
+      "Vous avez récemment déposé votre candidature pour un poste",
+      "serez-vous disponible pour un entretien le vendredi 20 décembre ?",
+      "Merci de confirmer votre présence"
+    ]
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée…",
+    "options": [
+      "Pourrait le faire sans difficulté.",
+      "Pourrait le faire mais uniquement par contrainte.",
+      "Reconnaît que cette pratique revêt des avantages et des inconvénients.",
+      ""
+    ],
+    "audio_transcript": "Cela n'est pas courant ni même désirable de vivre avec ses parents à vingt-cinq ans. À cet âge, on désire généralement être autonome et vivre sa propre vie. Néanmoins, si je traverse des moments de galère à vingt-cinq ans, je serai obligé de rester sous le toit familial pendant un moment, le temps de me reconstruire. On ne peut juger sans savoir.",
+    "right_option": "B",
+    "highlights": [
+      "Cela n'est pas courant ni même désirable de vivre avec ses parents à vingt-cinq ans",
+      "À cet âge, on désire généralement être autonome et vivre sa propre vie",
+      "Néanmoins, si je traverse des moments de galère à vingt-cinq ans, je serai obligé de rester sous le toit familial pendant un moment",
+      "le temps de me reconstruire",
+      "On ne peut juger sans savoir"
+    ]
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée…",
+    "options": [
+      "Pourrait le faire sans difficulté.",
+      "Pourrait le faire mais uniquement par contrainte.",
+      "Reconnaît que cette pratique revêt des avantages et des inconvénients.",
+      ""
+    ],
+    "audio_transcript": "Pour moi, ce n'est pas à réfléchir, car le jeune adulte profite vraiment de sa présence en famille. Je pense que faire ses études avec un travail à côté et un appartement à gérer est très difficile. On a des semaines de sept jours et des soucis plein la tête, des préoccupations qui n'ont rien à voir avec les études. Certains réussissent, mais force est de constater que le travail étudiant n'aide pas du tout à réussir ses études, à avoir le temps, l'énergie et la disponibilité nécessaires pour passer, par exemple, des concours ou réussir ses examens.",
+    "right_option": "A",
+    "highlights": [
+      "ce n'est pas à réfléchir",
+      "le jeune adulte profite vraiment de sa présence en famille",
+      "faire ses études avec un travail à côté et un appartement à gérer est très difficile",
+      "On a des semaines de sept jours et des soucis plein la tête",
+      "des préoccupations qui n'ont rien à voir avec les études",
+      "le travail étudiant n'aide pas du tout à réussir ses études"
+    ]
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée…",
+    "options": [
+      "Pourrait le faire sans difficulté.",
+      "Pourrait le faire mais uniquement par contrainte.",
+      "Reconnaît que cette pratique revêt des avantages et des inconvénients.",
+      ""
+    ],
+    "audio_transcript": "Vivre chez ses parents n'est pas une tare, c'est culturel et je m'aligne très bien avec ma culture et mes traditions. Dans notre famille, par exemple, c'est une marque de bonne éducation. On ne quitte la maison familiale que si on est marié ou si on doit travailler loin de chez ses parents. Mon frère, qui travaillait à Agadir, est revenu vivre chez mes parents après sa mutation dans la banlieue de Rabat. Il a trente-huit ans et n'est pas encore marié.",
+    "right_option": "A",
+    "highlights": [
+      "Vivre chez ses parents n'est pas une tare",
+      "c'est culturel et je m'aligne très bien avec ma culture et mes traditions",
+      "Dans notre famille, par exemple, c'est une marque de bonne éducation",
+      "je m'aligne très bien"
+    ]
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est totalement d'accord avec cette affirmation.",
+      "Est totalement contre cette affirmation.",
+      "Reconnaît qu'Internet peut rapprocher ou isoler.",
+      ""
+    ],
+    "audio_transcript": "Internet constituerait un facteur d'isolement social pour de nombreux individus. En fait, de plus en plus de gens passent des heures à surfer pour y effectuer des recherches, y travailler. Même au travail, ils sont seuls en raison du travail à distance. Les travailleurs ne sont plus regroupés dans un lieu commun. Certains travaillent ensemble durant des mois, des années, sans jamais se rencontrer. Ils échangent des courriels, se parlent au téléphone, communiquent via des réseaux internes.",
+    "right_option": "A",
+    "highlights": [
+      "Internet constituerait un facteur d'isolement social pour de nombreux individus",
+      "de plus en plus de gens passent des heures à surfer",
+      "Même au travail, ils sont seuls en raison du travail à distance",
+      "Les travailleurs ne sont plus regroupés dans un lieu commun",
+      "Certains travaillent ensemble durant des mois, des années, sans jamais se rencontrer",
+      "Ils échangent des courriels, se parlent au téléphone, communiquent via des réseaux internes"
+    ]
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est totalement d'accord avec cette affirmation.",
+      "Est totalement contre cette affirmation.",
+      "Reconnaît qu'Internet peut rapprocher ou isoler.",
+      ""
+    ],
+    "audio_transcript": "Internet peut être utilisé comme un moyen de communication qui nous permet de rester en contact avec nos amis et contacts du monde entier. Par exemple, grâce aux plateformes comme WhatsApp, Facebook et bien d'autres, on peut se faire des amis quelle que soit notre localisation dans le monde. Donc, je ne pense pas qu'Internet soit une source d'isolement.",
+    "right_option": "B",
+    "highlights": [
+      "Internet peut être utilisé comme un moyen de communication qui nous permet de rester en contact avec nos amis et contacts du monde entier",
+      "grâce aux plateformes comme WhatsApp, Facebook et bien d'autres, on peut se faire des amis quelle que soit notre localisation dans le monde",
+      "je ne pense pas qu'Internet soit une source d'isolement"
+    ]
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée…",
+    "options": [
+      "Est totalement d'accord avec cette affirmation.",
+      "Est totalement contre cette affirmation.",
+      "Reconnaît qu'Internet peut rapprocher ou isoler.",
+      ""
+    ],
+    "audio_transcript": "Internet offre un moyen très polyvalent de communiquer avec vos connaissances. Par exemple, depuis que je vis ici, je suis en permanente communication avec les membres de ma famille. Cependant, certaines activités sur la toile sont addictives, ce qui peut aussi nous isoler. Imaginez une personne qui passe ses journées sur Facebook à voir des films. Elle n'a pas de temps pour socialiser.",
+    "right_option": "C",
+    "highlights": [
+      "Internet offre un moyen très polyvalent de communiquer avec vos connaissances",
+      "je suis en permanente communication avec les membres de ma famille",
+      "Cependant, certaines activités sur la toile sont addictives, ce qui peut aussi nous isoler",
+      "Elle n'a pas de temps pour socialiser"
+    ]
+  },
+  {
+    "question_no": 21,
+    "question": "D’après cette chronique,",
+    "options": [
+      "Le vandalisme explique la faible présence des distributeurs de boissons au Japon.",
+      "La multiplication des distributeurs de boissons encourage la production de déchets.",
+      "Les distributeurs dédiés aux boissons foisonnent dans l'archipel.",
+      "Avec les nouvelles réformes, les distributeurs de boissons tendent à disparaître."
+    ],
+    "audio_transcript": "Tous ceux qui sont déjà allés au Japon le savent : impossible de ne pas remarquer ces innombrables distributeurs automatiques, de poissons notamment, qui fleurissent à tous les coins de rue, parfois alignés les uns à côté des autres. Ils sont partout. Dans les rues, bien sûr, mais aussi dans les gares, dans les hôtels, dans les trains et même au sommet du Mont Fuji. Ça paraît dingue, mais c’est vrai. Vous imaginez ça chez nous ? Un distributeur de boissons au sommet du Mont Blanc ? Non, non, non, il y a déjà assez de détritus comme ça là-haut sans rajouter des piles de canettes vides laissées par les touristes. Évidemment, au Japon, cette question ne se pose pas. D’ailleurs, les distributeurs sont pour beaucoup équipés de réceptacles pour le recyclage ou d’une poubelle dédiée juste à côté. Un autre problème qui ne se pose pas pour les Japonais, c’est celui du vandalisme. Si chez nous le moindre distributeur est en voie de toutes les couleurs, ce n’est pas le cas chez eux. C’est une des nombreuses raisons qui expliquent le succès de ces machines dans l’archipel.",
+    "right_option": "C",
+    "highlights": [
+      "innombrables distributeurs automatiques, de poissons notamment, qui fleurissent à tous les coins de rue",
+      "Ils sont partout",
+      "Dans les rues, bien sûr, mais aussi dans les gares, dans les hôtels, dans les trains et même au sommet du Mont Fuji",
+      "Un autre problème qui ne se pose pas pour les Japonais, c’est celui du vandalisme",
+      "Si chez nous le moindre distributeur est en voie de toutes les couleurs, ce n’est pas le cas chez eux",
+      "C’est une des nombreuses raisons qui expliquent le succès de ces machines dans l’archipel",
+      "les distributeurs sont pour beaucoup équipés de réceptacles pour le recyclage ou d’une poubelle dédiée juste à côté",
+      "Évidemment, au Japon, cette question ne se pose pas"
+    ]
+  },
+  {
+    "question_no": 22,
+    "question": "D’après cette chronique,",
+    "options": [
+      "La confiance envers le système éducatif concourt au développement du soutien scolaire.",
+      "Le marché de l'accompagnement scolaire est en pleine expansion.",
+      "Le recours au soutien scolaire est de moins en moins plébiscité par les parents.",
+      "Entre 70 et 80% des cours particuliers sont déclarés auprès du fisc."
+    ],
+    "audio_transcript": "Le marché du soutien scolaire ne faiblit pas. Les familles sont prêtes à consacrer un budget conséquent pour assurer la réussite de leurs enfants dans un contexte de défiance envers l’éducation nationale, de dégradation du niveau scolaire et de creusement des inégalités. Grâce à l’élargissement de l’offre et au développement de nouveaux concepts, les leaders du soutien scolaire ont vu leur chiffre d’affaires progresser de près de 5 % par an depuis 2012. Une dynamique qui se poursuivra au rythme de l’augmentation du nombre d’élèves du second degré, principale cible des entreprises. Et c’est sans compter sur l’amélioration du pouvoir d’achat et les avantages fiscaux liés au CESU qui viendront soutenir les dépenses des parents. Au total, le marché adressable est estimé à 2,1 milliards d’euros. Avec un bémol : le travail au noir représente encore entre 70 et 80 % du marché.",
+    "right_option": "B",
+    "highlights": [
+      "Le marché du soutien scolaire ne faiblit pas",
+      "Les familles sont prêtes à consacrer un budget conséquent",
+      "défiance envers l’éducation nationale",
+      "dégradation du niveau scolaire",
+      "creusement des inégalités",
+      "les leaders du soutien scolaire ont vu leur chiffre d’affaires progresser de près de 5 % par an depuis 2012",
+      "Une dynamique qui se poursuivra",
+      "l’augmentation du nombre d’élèves du second degré",
+      "l’amélioration du pouvoir d’achat",
+      "les avantages fiscaux liés au CESU",
+      "le marché adressable est estimé à 2,1 milliards d’euros",
+      "le travail au noir représente encore entre 70 et 80 % du marché"
+    ]
+  },
+  {
+    "question_no": 23,
+    "question": "La construction de la personnalité des exilés…",
+    "options": [
+      "A été un défi majeur pour l'invité lorsqu'elle est arrivée en France.",
+      "Est la thématique abordée tout au long du spectacle.",
+      "Est à l'origine de nombreux cas de dépression.",
+      "Est l'une des thématiques abordées dans le spectacle."
+    ],
+    "audio_transcript": "Interviewer : Bienvenue aux Iaroïs, merci beaucoup. Nous sommes ravis de vous accueillir pour parler de votre spectacle Bouche Cousue. Alors, quelle est l'ambiance ? Qu’est-ce qu’on y trouve ? Iaroïs : On y trouve beaucoup d’Espagne, mais aussi une mise en scène signée Jérémy Lippmann qui permet, à travers des projections de citations et d’images sur une superposition de deux scènes mécaniques, une immersion dans des thématiques telles que le secret de famille, le silence, la transmission, la construction de la personnalité quand on est issu de l’exil ou descendants de l’exil. Le spectacle revient aussi sur l’importance du collectif, assez crucial dans cette création. Interviewer : Vraiment, au fil du temps, vous explorez de plus en plus vos origines espagnoles ? Iaroïs : Effectivement, cela a toujours été présent, mais je crois que ce qui se passe dans notre société actuelle m’a permis de me rendre compte à quel point l’épisode de la guerre d’Espagne était un véritable miroir de notre époque. C’est un espace d’état d’urgence, un besoin d’en parler. Interviewer : Alors justement, vous chantez, vous vous exprimez, et pourtant le spectacle s’appelle Bouche Cousue. Pourquoi ? Iaroïs : Parce que le sujet, c’est ça : comment assassine-t-on le silence ? Comment libère-t-on la parole ? Et en quoi c’est quelque chose qui ne peut que générer du positif.",
+    "right_option": "D",
+    "highlights": [
+      "On y trouve beaucoup d’Espagne, mais aussi une mise en scène signée Jérémy Lippmann qui permet, à travers des projections de citations et d’images sur une superposition de deux scènes mécaniques, une immersion dans des thématiques telles que le secret de famille, le silence, la transmission, la construction de la personnalité quand on est issu de l’exil ou descendants de l’exil.",
+      "une immersion dans des thématiques telles que",
+      "la construction de la personnalité quand on est issu de l’exil ou descendants de l’exil"
+    ]
+  },
+  {
+    "question_no": 24,
+    "question": "À travers le paradoxe existant entre le titre du spectacle et son contenu, l’artiste…",
+    "options": [
+      "Dénonce les guerres.",
+      "Invite les gens à s'exprimer.",
+      "Fustige la liberté d'expression.",
+      "Appelle au silence."
+    ],
+    "audio_transcript": "Interviewer : Bienvenue aux Iaroïs, merci beaucoup. Nous sommes ravis de vous accueillir pour parler de votre spectacle Bouche Cousue. Alors, quelle est l'ambiance ? Qu’est-ce qu’on y trouve ? Iaroïs : On y trouve beaucoup d’Espagne, mais aussi une mise en scène signée Jérémy Lippmann qui permet, à travers des projections de citations et d’images sur une superposition de deux scènes mécaniques, une immersion dans des thématiques telles que le secret de famille, le silence, la transmission, la construction de la personnalité quand on est issu de l’exil ou descendants de l’exil. Le spectacle revient aussi sur l’importance du collectif, assez crucial dans cette création. Interviewer : Vraiment, au fil du temps, vous explorez de plus en plus vos origines espagnoles ? Iaroïs : Effectivement, cela a toujours été présent, mais je crois que ce qui se passe dans notre société actuelle m’a permis de me rendre compte à quel point l’épisode de la guerre d’Espagne était un véritable miroir de notre époque. C’est un espace d’état d’urgence, un besoin d’en parler. Interviewer : Alors justement, vous chantez, vous vous exprimez, et pourtant le spectacle s’appelle Bouche Cousue. Pourquoi ? Iaroïs : Parce que le sujet, c’est ça : comment assassine-t-on le silence ? Comment libère-t-on la parole ? Et en quoi c’est quelque chose qui ne peut que générer du positif.",
+    "right_option": "B",
+    "highlights": [
+      "Alors justement, vous chantez, vous vous exprimez, et pourtant le spectacle s’appelle Bouche Cousue. Pourquoi ?",
+      "comment assassine-t-on le silence ?",
+      "Comment libère-t-on la parole ?",
+      "en quoi c’est quelque chose qui ne peut que générer du positif"
+    ]
+  },
+  {
+    "question_no": 25,
+    "question": "En quoi consiste la ‘Taxe lapin’ ?",
+    "options": [
+      "Libérer du temps médical avec pour intention d'améliorer la qualité du service médical.",
+      "Infliger une pénalité financière aux patients absents à un rendez-vous médical sans annulation préalable.",
+      "Une amende de 5euros pour le patient souhaitant consulter le médecin sans rendez-vous.",
+      "Une taxe payée par les médecins qui n'honorent pas les rendez-vous donnés à leurs patients."
+    ],
+    "audio_transcript": "Interviewer : Bonjour Sylvain Maillard. Sylvain Maillard : Bonjour. Interviewer : Le plan santé du gouvernement, avec des détails donnés par le Premier ministre Gabriel Attal, on en sait donc plus sur la « taxe lapin », cette sanction de 5 euros si un rendez-vous n’est pas honoré ou annulé vingt-quatre heures à l’avance. Ces 5 euros iront au médecin, qui devra les demander aux patients. Vous demandez au médecin de faire la police ? Sylvain Maillard : Non, ce n’est pas ça. Il faut libérer du temps, du temps médical. On sait très bien que nous manquons de médecins. Quand nous avons libéré le numéro de santé en 2018, il faut entre 10 et 12 ans pour former plus de médecins. On accélère, on continue d’accélérer, mais il faut libérer du temps médical. Depuis plusieurs années, nous portons différents textes qui permettent de libérer du temps médical, notamment via les infirmières à pratiques avancées. Quant à l’annonce faite par le Premier ministre, c’est l’idée, la philosophie : comment donner du temps médical. Donc évidemment, ceux qui n’honorent pas leur rendez-vous doivent être sanctionnés. Une députée, Astrid Panosian, a porté un texte en février sur ce sujet, et la « taxe lapin » comme on l’appelle, a été reprise par le Premier ministre, ce dont je me réjouis. Interviewer : Alors justement, concernant l’application concrète de cette mesure, il y aurait entre 25 et 30 millions de rendez-vous non honorés par an. L’enjeu est majeur, mais les médecins interrogés, y compris ce matin sur France Info, disent que cela ne va pas changer grand-chose. Ils évoquent aussi le fait que cela les mettrait dans un rôle délicat. Qu’en pensez-vous ? Sylvain Maillard : Non, dans l’organisation même, qui devra être précisée, ce n’est pas pour compliquer le système, mais pour responsabiliser chacun. Quand vous ne venez pas à un rendez-vous médical, vous prenez la place de quelqu’un d’autre qui pourrait en bénéficier. Au fond, c’est comme passer la main dans un match : il faut une sanction. Cette sanction concerne celui qui n’a pas honoré le rendez-vous, mais aussi il faut veiller à ce que les médecins, qui peuvent avoir trois ou quatre rendez-vous manqués dans une journée, ne soient pas pénalisés financièrement.",
+    "right_option": "B",
+    "highlights": [
+      "cette sanction de 5 euros si un rendez-vous n’est pas honoré ou annulé vingt-quatre heures à l’avance",
+      "Ces 5 euros iront au médecin, qui devra les demander aux patients",
+      "ceux qui n’honorent pas leur rendez-vous doivent être sanctionnés",
+      "la « taxe lapin » comme on l’appelle",
+      "entre 25 et 30 millions de rendez-vous non honorés par an",
+      "Quand vous ne venez pas à un rendez-vous médical",
+      "Cette sanction concerne celui qui n’a pas honoré le rendez-vous"
+    ]
+  },
+  {
+    "question_no": 26,
+    "question": "À qui revient ladite taxe ?",
+    "options": [
+      "À la police.",
+      "Au médecin.",
+      "Au gouvernement.",
+      "Au patient."
+    ],
+    "audio_transcript": "Interviewer : Bonjour Sylvain Maillard. Sylvain Maillard : Bonjour. Interviewer : Le plan santé du gouvernement, avec des détails donnés par le Premier ministre Gabriel Attal, on en sait donc plus sur la « taxe lapin », cette sanction de 5 euros si un rendez-vous n’est pas honoré ou annulé vingt-quatre heures à l’avance. Ces 5 euros iront au médecin, qui devra les demander aux patients. Vous demandez au médecin de faire la police ? Sylvain Maillard : Non, ce n’est pas ça. Il faut libérer du temps, du temps médical. On sait très bien que nous manquons de médecins. Quand nous avons libéré le numéro de santé en 2018, il faut entre 10 et 12 ans pour former plus de médecins. On accélère, on continue d’accélérer, mais il faut libérer du temps médical. Depuis plusieurs années, nous portons différents textes qui permettent de libérer du temps médical, notamment via les infirmières à pratiques avancées. Quant à l’annonce faite par le Premier ministre, c’est l’idée, la philosophie : comment donner du temps médical. Donc évidemment, ceux qui n’honorent pas leur rendez-vous doivent être sanctionnés. Une députée, Astrid Panosian, a porté un texte en février sur ce sujet, et la « taxe lapin » comme on l’appelle, a été reprise par le Premier ministre, ce dont je me réjouis. Interviewer : Alors justement, concernant l’application concrète de cette mesure, il y aurait entre 25 et 30 millions de rendez-vous non honorés par an. L’enjeu est majeur, mais les médecins interrogés, y compris ce matin sur France Info, disent que cela ne va pas changer grand-chose. Ils évoquent aussi le fait que cela les mettrait dans un rôle délicat. Qu’en pensez-vous ? Sylvain Maillard : Non, dans l’organisation même, qui devra être précisée, ce n’est pas pour compliquer le système, mais pour responsabiliser chacun. Quand vous ne venez pas à un rendez-vous médical, vous prenez la place de quelqu’un d’autre qui pourrait en bénéficier. Au fond, c’est comme passer la main dans un match : il faut une sanction. Cette sanction concerne celui qui n’a pas honoré le rendez-vous, mais aussi il faut veiller à ce que les médecins, qui peuvent avoir trois ou quatre rendez-vous manqués dans une journée, ne soient pas pénalisés financièrement.",
+    "right_option": "B",
+    "highlights": [
+      "Ces 5 euros iront au médecin",
+      "qui devra les demander aux patients"
+    ]
+  },
+  {
+    "question_no": 27,
+    "question": "L’individu interrogé…",
+    "options": [
+      "Rappelle les dangers de la maltraitance et de la perte d'identité des jeunes.",
+      "Evoque des évènements marquants de son existence.",
+      "Raconte comment il a mis fin à la vie d'un homme.",
+      "Déclare que ses années de prison n'ont pas fait de lui un homme meilleur."
+    ],
+    "audio_transcript": "Interviewer : Vous avez passé combien de temps derrière les barreaux ? Répondant : 6 ans et demi. Interviewer : Et qu’est-ce que vous aviez commis comme crime ? Répondant : J’avais participé, j’ai été l’instigateur d’un vol à main armée. Durant ce vol, il y a eu mort d’homme. Je ne suis pas le responsable direct, mais j’ai quand même cette culpabilité forte en moi. Interviewer : Quel regard portez-vous sur l’avant-prison, finalement cet acte-là ? Répondant : Avant la prison, j’étais en errance, une errance identitaire. Je ne savais pas qui j’étais, j’étais en souffrance, j’étais un jeune maltraité. J’étais complètement en errance sociale et identitaire, je ne savais pas ce que j’étais. Interviewer : Finalement, la prison c’est un lieu fermé, mais ça vous a ouvert ? Répondant : Oui, ça m’a ouvert. C’est un lieu fermé, mais qui m’a ouvert parce qu’avant la prison, je n’étais que ce qu’on avait fait de moi. Dans la prison, j’ai pu déconstruire tout ça et reconstruire celui que je suis aujourd’hui. Interviewer : C’est ce que dit un peu David : c’est une espèce de temps forcé à la réflexion, un temps de pause avec un cadre, et tout d’un coup vous vous êtes retrouvé face à vous-même ? Répondant : Oui, mais ce n’est pas aussi simple que ça. Interviewer : Non évidemment. Répondant : Ce n’est pas en entendant les verrous des portes se fermer derrière vous que la magie opère. J’avais une attente forte concernant l’institution pénitentiaire. J’attendais qu’elle ne meure pas, qu’elle me répare dans ma capacité à accepter la différence des uns et des autres, à respecter les règles et à comprendre le monde dans lequel j’allais évoluer, surtout à comprendre ce qu’on attendait de moi, puisqu’il y avait ce drapeau français au-dessus de la porte. Tout ce que mes parents avaient loupé dans mon parcours, j’avais peut-être une chance de le retrouver là, que peut-être même tous les éducateurs que j’avais pu rencontrer dans les foyers que j’avais fréquentés, ce qu’ils avaient loupé, j’allais pouvoir le récupérer là. Mais j’ai trouvé plus de violence au centimètre carré que je n’en avais vu auparavant. Tout ce qui était interdit à l’extérieur était omniprésent à l’intérieur. Ça m’a accueilli, si je puis dire, mais dans le mauvais sens. Interviewer : Donc au départ dans le mauvais sens ? Répondant : Absolument. Pendant toute ma détention préventive, c’est une période pleine de tensions dans l’attente d’être jugé et condamné. Vous n’avez pas de perspective, pas de date de libération, vous ne savez pas quand vous allez sortir. À dix-huit ans, alors que vous n’êtes pas assisté et que vous êtes seul, c’est la jungle. Interviewer : C’est la jungle. Répondant : Oui, c’est la jungle. J’ai commis plus d’actes de violence en prison que dehors. Par la force des choses, alors que je n’avais jamais dealé à l’extérieur, je me suis retrouvé à dealer des choses à l’intérieur pour survivre, pour améliorer mon quotidien, pour exister dans un groupe. On ne s’en sort pas tout seul, mais je ne fais pas exception à la règle. C’est à travers des rencontres, effectivement en prison, que j’ai pu trouver la rédemption, si je puis dire. Interviewer : Oui, c’est le titre de votre livre : Itinéraire d’un enfant cassé.",
+    "right_option": "B",
+    "highlights": [
+      "Vous avez passé combien de temps derrière les barreaux ?",
+      "6 ans et demi",
+      "Et qu’est-ce que vous aviez commis comme crime ?",
+      "J’avais participé, j’ai été l’instigateur d’un vol à main armée",
+      "Durant ce vol, il y a eu mort d’homme",
+      "Quel regard portez-vous sur l’avant-prison, finalement cet acte-là ?",
+      "Avant la prison, j’étais en errance, une errance identitaire",
+      "Je ne savais pas qui j’étais, j’étais en souffrance, j’étais un jeune maltraité",
+      "J’étais complètement en errance sociale et identitaire",
+      "Finalement, la prison c’est un lieu fermé, mais ça vous a ouvert ?",
+      "Oui, ça m’a ouvert",
+      "avant la prison, je n’étais que ce qu’on avait fait de moi",
+      "Dans la prison, j’ai pu déconstruire tout ça et reconstruire celui que je suis aujourd’hui",
+      "c’est une espèce de temps forcé à la réflexion, un temps de pause avec un cadre",
+      "vous vous êtes retrouvé face à vous-même",
+      "J’avais une attente forte concernant l’institution pénitentiaire",
+      "Pendant toute ma détention préventive, c’est une période pleine de tensions",
+      "Vous n’avez pas de perspective, pas de date de libération",
+      "À dix-huit ans, alors que vous n’êtes pas assisté et que vous êtes seul, c’est la jungle",
+      "J’ai commis plus d’actes de violence en prison que dehors",
+      "alors que je n’avais jamais dealé à l’extérieur, je me suis retrouvé à dealer des choses à l’intérieur",
+      "C’est à travers des rencontres, effectivement en prison, que j’ai pu trouver la rédemption",
+      "c’est le titre de votre livre : Itinéraire d’un enfant cassé"
+    ]
+  },
+  {
+    "question_no": 28,
+    "question": "De part son expérience…",
+    "options": [
+      "Sa présence en milieu carcéral a été le déclic pour que sa vie de hors-la-loi prenne fin.",
+      "L'enfermement n'a pas été en mesure d'améliorer son être.",
+      "Sa révolution intérieure a pris place quelques années après sa sortie de prison.",
+      "Le milieu carcéral n'est pas propice aux actes de violence."
+    ],
+    "audio_transcript": "Interviewer : Vous avez passé combien de temps derrière les barreaux ? Répondant : 6 ans et demi. Interviewer : Et qu’est-ce que vous aviez commis comme crime ? Répondant : J’avais participé, j’ai été l’instigateur d’un vol à main armée. Durant ce vol, il y a eu mort d’homme. Je ne suis pas le responsable direct, mais j’ai quand même cette culpabilité forte en moi. Interviewer : Quel regard portez-vous sur l’avant-prison, finalement cet acte-là ? Répondant : Avant la prison, j’étais en errance, une errance identitaire. Je ne savais pas qui j’étais, j’étais en souffrance, j’étais un jeune maltraité. J’étais complètement en errance sociale et identitaire, je ne savais pas ce que j’étais. Interviewer : Finalement, la prison c’est un lieu fermé, mais ça vous a ouvert ? Répondant : Oui, ça m’a ouvert. C’est un lieu fermé, mais qui m’a ouvert parce qu’avant la prison, je n’étais que ce qu’on avait fait de moi. Dans la prison, j’ai pu déconstruire tout ça et reconstruire celui que je suis aujourd’hui. Interviewer : C’est ce que dit un peu David : c’est une espèce de temps forcé à la réflexion, un temps de pause avec un cadre, et tout d’un coup vous vous êtes retrouvé face à vous-même ? Répondant : Oui, mais ce n’est pas aussi simple que ça. Interviewer : Non évidemment. Répondant : Ce n’est pas en entendant les verrous des portes se fermer derrière vous que la magie opère. J’avais une attente forte concernant l’institution pénitentiaire. J’attendais qu’elle ne meure pas, qu’elle me répare dans ma capacité à accepter la différence des uns et des autres, à respecter les règles et à comprendre le monde dans lequel j’allais évoluer, surtout à comprendre ce qu’on attendait de moi, puisqu’il y avait ce drapeau français au-dessus de la porte. Tout ce que mes parents avaient loupé dans mon parcours, j’avais peut-être une chance de le retrouver là, que peut-être même tous les éducateurs que j’avais pu rencontrer dans les foyers que j’avais fréquentés, ce qu’ils avaient loupé, j’allais pouvoir le récupérer là. Mais j’ai trouvé plus de violence au centimètre carré que je n’en avais vu auparavant. Tout ce qui était interdit à l’extérieur était omniprésent à l’intérieur. Ça m’a accueilli, si je puis dire, mais dans le mauvais sens. Interviewer : Donc au départ dans le mauvais sens ? Répondant : Absolument. Pendant toute ma détention préventive, c’est une période pleine de tensions dans l’attente d’être jugé et condamné. Vous n’avez pas de perspective, pas de date de libération, vous ne savez pas quand vous allez sortir. À dix-huit ans, alors que vous n’êtes pas assisté et que vous êtes seul, c’est la jungle. Interviewer : C’est la jungle. Répondant : Oui, c’est la jungle. J’ai commis plus d’actes de violence en prison que dehors. Par la force des choses, alors que je n’avais jamais dealé à l’extérieur, je me suis retrouvé à dealer des choses à l’intérieur pour survivre, pour améliorer mon quotidien, pour exister dans un groupe. On ne s’en sort pas tout seul, mais je ne fais pas exception à la règle. C’est à travers des rencontres, effectivement en prison, que j’ai pu trouver la rédemption, si je puis dire. Interviewer : Oui, c’est le titre de votre livre : Itinéraire d’un enfant cassé.",
+    "right_option": "A",
+    "highlights": [
+      "C’est à travers des rencontres, effectivement en prison, que j’ai pu trouver la rédemption",
+      "Dans la prison, j’ai pu déconstruire tout ça et reconstruire celui que je suis aujourd’hui",
+      "Oui, ça m’a ouvert",
+      "J’avais une attente forte concernant l’institution pénitentiaire",
+      "J’attendais qu’elle ne meure pas, qu’elle me répare dans ma capacité à accepter la différence des uns et des autres, à respecter les règles et à comprendre le monde dans lequel j’allais évoluer",
+      "je ne fais pas exception à la règle",
+      "On ne s’en sort pas tout seul",
+      "J’ai commis plus d’actes de violence en prison que dehors",
+      "je me suis retrouvé à dealer des choses à l’intérieur pour survivre, pour améliorer mon quotidien, pour exister dans un groupe",
+      "alors que je n’avais jamais dealé à l’extérieur",
+      "Avant la prison, j’étais en errance, une errance identitaire",
+      "je n’étais que ce qu’on avait fait de moi",
+      "Itinéraire d’un enfant cassé"
+    ]
+  },
+  {
+    "question_no": 29,
+    "question": "Cette application…",
+    "options": [
+      "Permet de trouver uniquement des joueurs de football professionnels pour les clubs français.",
+      "Met en relation les jeunes footballeurs avec des clubs professionnels.",
+      "Permet de donner de la visibilité aux clubs de football qui ont du mal à se faire connaître.",
+      "Permet aux clubs sportifs de recruter des talents uniques dans plusieurs disciplines."
+    ],
+    "audio_transcript": "Il y a quelques jours, s’est tenue la cinquième journée de détection organisée par Foodsider, une application innovante qui aide les jeunes footballeurs à se faire remarquer par des recruteurs. Parmi eux, Nelson Almeda, recruteur pour les Girondins de Bordeaux depuis plusieurs années, était présent. Avec une quarantaine d’autres recruteurs français et étrangers, il a observé près d’une centaine de jeunes joueurs venus tenter leur chance sur un terrain de l’est parisien. Ibrahim, arrivé de Côte d’Ivoire il y a un peu plus d’un an, joue actuellement sans licence en Île-de-France. Il espère trouver un club grâce à cette journée. « Maintenant, autant que ça se passe bien, moi mon rêve, c’est un club qui me fasse confiance, je n’ai pas de soucis », confie-t-il. Ces journées de détection sont un pilier du fonctionnement de Foodsider, lancée début 2023 par plusieurs cofondateurs, dont Nasta Ronaldinho et l’international algérien Yassine Brahim. Avec déjà 805 000 utilisateurs et 1 500 clubs professionnels et amateurs inscrits, l’application offre une visibilité précieuse aux jeunes joueurs. Gabriel, un défenseur central de 17 ans originaire du Mali, explique le fonctionnement : « C’est simple, on peut mettre des vidéos de soi. Moi, je suis défenseur central, donc je peux mettre des extraits d’interceptions, mais si on est attaquant, on peut mettre des buts. Plein de vidéos qui nous mettent en valeur. Ensuite, il y a des recruteurs qui regardent et choisissent les profils intéressants. C’est une porte de plus, un nouveau moyen de se démarquer dans un univers ultra compétitif. » Presley Kidpape, défenseur du PSG et champion du monde avec les Bleus en 2018, soutient aussi le projet. Il souligne les difficultés que traversent les jeunes joueurs : « C’est compliqué, on est tous passés par là. Aujourd’hui, grâce à l’application, on peut espérer, même loin du faste des grands clubs. Les laissés-pour-compte sont nombreux. » Foodsider vise aussi à aider les jeunes joueurs en Afrique. L’objectif est double : aider les clubs locaux à repérer des talents — car beaucoup jouent simplement sur les plages ou dans la rue — et lutter contre les faux agents ou intermédiaires, un message crucial pour protéger les jeunes footballeurs africains. Enfin, une journée de détection est déjà prévue à Casablanca, au Maroc, début juillet. L’application sera officiellement lancée sur le continent africain d’ici la fin de l’année ou au début de 2025 au plus tard.",
+    "right_option": "B",
+    "highlights": [
+      "une application innovante qui aide les jeunes footballeurs à se faire remarquer par des recruteurs",
+      "Il espère trouver un club grâce à cette journée",
+      "l’application offre une visibilité précieuse aux jeunes joueurs",
+      "on peut mettre des vidéos de soi",
+      "il y a des recruteurs qui regardent et choisissent les profils intéressants",
+      "C’est une porte de plus, un nouveau moyen de se démarquer",
+      "grâce à l’application, on peut espérer",
+      "aider les clubs locaux à repérer des talents",
+      "1 500 clubs professionnels et amateurs inscrits"
+    ]
+  },
+  {
+    "question_no": 30,
+    "question": "Les auteurs de cette initiative ont voulu…",
+    "options": [
+      "Digitaliser la recherche des clubs de football.",
+      "Maximiser les chances des aspirants footballeurs à intégrer un club.",
+      "Mener une lutte acharnée contre les faux agents et intermédiaires.",
+      "Aider les clubs locaux à trouver des joueurs talentueux en Afrique."
+    ],
+    "audio_transcript": "Il y a quelques jours, s’est tenue la cinquième journée de détection organisée par Foodsider, une application innovante qui aide les jeunes footballeurs à se faire remarquer par des recruteurs. Parmi eux, Nelson Almeda, recruteur pour les Girondins de Bordeaux depuis plusieurs années, était présent. Avec une quarantaine d’autres recruteurs français et étrangers, il a observé près d’une centaine de jeunes joueurs venus tenter leur chance sur un terrain de l’est parisien. Ibrahim, arrivé de Côte d’Ivoire il y a un peu plus d’un an, joue actuellement sans licence en Île-de-France. Il espère trouver un club grâce à cette journée. « Maintenant, autant que ça se passe bien, moi mon rêve, c’est un club qui me fasse confiance, je n’ai pas de soucis », confie-t-il. Ces journées de détection sont un pilier du fonctionnement de Foodsider, lancée début 2023 par plusieurs cofondateurs, dont Nasta Ronaldinho et l’international algérien Yassine Brahim. Avec déjà 805 000 utilisateurs et 1 500 clubs professionnels et amateurs inscrits, l’application offre une visibilité précieuse aux jeunes joueurs. Gabriel, un défenseur central de 17 ans originaire du Mali, explique le fonctionnement : « C’est simple, on peut mettre des vidéos de soi. Moi, je suis défenseur central, donc je peux mettre des extraits d’interceptions, mais si on est attaquant, on peut mettre des buts. Plein de vidéos qui nous mettent en valeur. Ensuite, il y a des recruteurs qui regardent et choisissent les profils intéressants. C’est une porte de plus, un nouveau moyen de se démarquer dans un univers ultra compétitif. » Presley Kidpape, défenseur du PSG et champion du monde avec les Bleus en 2018, soutient aussi le projet. Il souligne les difficultés que traversent les jeunes joueurs : « C’est compliqué, on est tous passés par là. Aujourd’hui, grâce à l’application, on peut espérer, même loin du faste des grands clubs. Les laissés-pour-compte sont nombreux. » Foodsider vise aussi à aider les jeunes joueurs en Afrique. L’objectif est double : aider les clubs locaux à repérer des talents — car beaucoup jouent simplement sur les plages ou dans la rue — et lutter contre les faux agents ou intermédiaires, un message crucial pour protéger les jeunes footballeurs africains. Enfin, une journée de détection est déjà prévue à Casablanca, au Maroc, début juillet. L’application sera officiellement lancée sur le continent africain d’ici la fin de l’année ou au début de 2025 au plus tard.",
+    "right_option": "B",
+    "highlights": [
+      "une application innovante qui aide les jeunes footballeurs à se faire remarquer par des recruteurs",
+      "l’application offre une visibilité précieuse aux jeunes joueurs",
+      "C’est une porte de plus, un nouveau moyen de se démarquer dans un univers ultra compétitif",
+      "grâce à l’application, on peut espérer, même loin du faste des grands clubs",
+      "Les laissés-pour-compte sont nombreux",
+      "Foodsider vise aussi à aider les jeunes joueurs en Afrique",
+      "L’objectif est double : aider les clubs locaux à repérer des talents",
+      "lutter contre les faux agents ou intermédiaires, un message crucial pour protéger les jeunes footballeurs africains"
+    ]
+  },
+  {
+    "question_no": 31,
+    "question": "L’AP-HP développe son offre de logements…",
+    "options": [
+      "Pour faire face à la pénurie de soignants.",
+      "Pour venir en aide aux soignants n'étant plus en service.",
+      "Pour loger les personnes n'ayant pas de travail.",
+      "En vue de proposer des hébergements plus attractifs."
+    ],
+    "audio_transcript": "Améliorer les conditions de vie et de travail de ses soignants, voici l'objectif que se fixe la PHP. En 4 ans, le groupe des hôpitaux de Paris a perdu 11 pour 100 de ses infirmiers. Il faut donc redevenir attractif et le logement de ses personnels devient une priorité. Le groupe veut doubler ses capacités en passant de six-cents logements attribués chaque année à mille-deux-cents.",
+    "right_option": "A",
+    "highlights": [
+      "Améliorer les conditions de vie et de travail de ses soignants",
+      "le groupe des hôpitaux de Paris a perdu 11 pour 100 de ses infirmiers",
+      "Il faut donc redevenir attractif",
+      "le logement de ses personnels devient une priorité",
+      "Le groupe veut doubler ses capacités en passant de six-cents logements attribués chaque année à mille-deux-cents"
+    ]
+  },
+  {
+    "question_no": 32,
+    "question": "D’après cet extrait…",
+    "options": [
+      "Les animaux domestiques consomment énormément de nourriture.",
+      "Les chercheurs ont du mal à prouver l'implication des animaux dans le changement climatique.",
+      "Les animaux domestiques consomment beaucoup de viande.",
+      "Les animaux de compagnie ont une empreinte carbone considérable."
+    ],
+    "audio_transcript": "Il est vrai que nos animaux contribuent au réchauffement de la planète. Cet impact est surtout dû à la production de leur nourriture qui contient souvent de la viande. Selon un chercheur britannique, sur une année, la nourriture d'un chien de vingt-deux kilos émet 0.5 tonnes de c o 2. À titre de comparaison, en moyenne, c'est presque un mois d'émission de c o 2 d'un français. Plus le chien adopté est grand, plus sa consommation est importante et plus elle émet de c o 2.",
+    "right_option": "D",
+    "highlights": [
+      "Il est vrai que nos animaux contribuent au réchauffement de la planète",
+      "Cet impact est surtout dû à la production de leur nourriture",
+      "sur une année, la nourriture d'un chien de vingt-deux kilos émet 0.5 tonnes de c o 2",
+      "c'est presque un mois d'émission de c o 2 d'un français",
+      "Plus le chien adopté est grand, plus sa consommation est importante et plus elle émet de c o 2"
+    ]
+  },
+  {
+    "question_no": 33,
+    "question": "D’après cet extrait…",
+    "options": [
+      "Il n'est pas important de laver les vêtements neufs avant de les porter.",
+      "Les vêtements neufs sont exempts de substances toxiques et prêts à l'emploi.",
+      "Porter des habits neufs sans les assainir au préalable n'est pas sans conséquence.",
+      "Les vêtements neufs, repassés et pliés dans les rayons ne sauraient être nettoyés avant usage."
+    ],
+    "audio_transcript": "Dès ce matin vous mourrez d'envie de mettre ce nouveau pantalon que vous venez d'acheter ce week-end. Je vous dis tout de suite stop, lavez-le avant car vous vous dites sans doute au fond de vous-même que ce serait mieux de le laver mais en même temps il était bien repassé et plié dans le rayon du magasin, il n'y a pas de raison je vais le mettre et je le laverai après sauf que c'est pire que ce que vous pouvez imaginer comme le raconte le site de femme actuelle, on peut trouver dans un vêtement 9 du chlore, du plomb, du nickel et tout un tas d'autres substances toxiques interdites dans l'union européenne car mauvaise pour la santé. Problème c'est que ces substances elles sont pas interdites partout dans le monde et que vos vêtements et bien viennent finalement assez rarement de l'Union européenne.",
+    "right_option": "C",
+    "highlights": [
+      "Dès ce matin vous mourrez d'envie de mettre ce nouveau pantalon",
+      "Je vous dis tout de suite stop, lavez-le avant",
+      "c'est pire que ce que vous pouvez imaginer",
+      "on peut trouver dans un vêtement 9 du chlore, du plomb, du nickel et tout un tas d'autres substances toxiques",
+      "ces substances elles sont pas interdites partout dans le monde",
+      "vos vêtements et bien viennent finalement assez rarement de l'Union européenne"
+    ]
+  },
+  {
+    "question_no": 34,
+    "question": "De quoi est-il question ?",
+    "options": [
+      "D'une maison en pleine forêt.",
+      "D'un nid d'abeilles.",
+      "D'un logement insolite.",
+      "Une maison en verre."
+    ],
+    "audio_transcript": "L'architecte Columbia Manuel Villa, a conçu une petite maison dans la cour arrière d'une maison principale dans la banlieue de Bogota. Conçue spécialement comme une aire de jeux pour les parents et les jeunes enfants, la petite maison en forme de nid la veille semble avoir atterri dans les bois depuis l'espace. Son pont à vent semble s'être ouvert loin de la structure principale, créant l'illusion qu'un panneau latéral de la maison s'ouvre sur la structure principale, comme une porte de vaisseau spatial. Le mur ouvert est en vert pour une vue panoramique sur les bois et à l'intérieur, il peut servir d'aire de jeu, de bureau, de salon, de salle à manger ou même de chambre d'amis.",
+    "right_option": "C",
+    "highlights": [
+      "L'architecte Columbia Manuel Villa, a conçu une petite maison",
+      "petite maison dans la cour arrière d'une maison principale",
+      "petite maison en forme de nid",
+      "semble avoir atterri dans les bois depuis l'espace",
+      "Son pont à vent semble s'être ouvert loin de la structure principale",
+      "créant l'illusion qu'un panneau latéral de la maison s'ouvre",
+      "comme une porte de vaisseau spatial",
+      "Le mur ouvert est en vert pour une vue panoramique",
+      "il peut servir d'aire de jeu, de bureau, de salon, de salle à manger ou même de chambre d'amis"
+    ]
+  },
+  {
+    "question_no": 35,
+    "question": "Quelle est la singularité du matériau mis au point par les chercheurs ?",
+    "options": [
+      "Il peine à se dégrader.",
+      "Après usage, il subsiste dans la nature.",
+      "Il est respectueux de l'environnement.",
+      "Il est extrêmement solide."
+    ],
+    "audio_transcript": "Si le plastique est devenu si populaire, c'est parce que ce matériau combine plusieurs qualités. Il est malléable, léger, robuste et résiste aux intempéries et à la plupart des agents chimiques. Mais ces qualités sont aujourd'hui un problème du point de vue environnemental, car les 1000000000 de tonnes de déchets plastiques non recyclables qui se retrouvent dans la nature prennent des siècles à se dégrader. Cependant, des chercheurs de l'école polytechnique fédérale de Lausanne, dirigés par le professeur Jérémy Luther-Bacher, annoncent avoir réussi à contourner ce problème. Fabriqué à partir de déchets végétaux, leur plastique est extrêmement solide, peut être recyclé chimiquement, ou bien se dégrader en sucres inoffensifs dans l'environnement.",
+    "right_option": "C",
+    "highlights": [
+      "Fabriqué à partir de déchets végétaux, leur plastique est extrêmement solide, peut être recyclé chimiquement, ou bien se dégrader en sucres inoffensifs dans l'environnement",
+      "peut être recyclé chimiquement, ou bien se dégrader en sucres inoffensifs dans l'environnement",
+      "se dégrader en sucres inoffensifs dans l'environnement",
+      "annoncent avoir réussi à contourner ce problème",
+      "les 1000000000 de tonnes de déchets plastiques non recyclables qui se retrouvent dans la nature prennent des siècles à se dégrader",
+      "ces qualités sont aujourd'hui un problème du point de vue environnemental"
+    ]
+  },
+  {
+    "question_no": 36,
+    "question": "Le déclin du nombre d’insectes s’expliquerait par…",
+    "options": [
+      "Les changements climatiques observés ces dernières décennies.",
+      "Les produits dont l'agriculture fait usage.",
+      "Le phénomène d’expansion des villes.",
+      "L'exploitation abusive des sols dans la région."
+    ],
+    "audio_transcript": "En Irlande, le nombre d'insectes volants, espèces incontournables pour la survie des écosystèmes, a régressé de plus de soixante-dix pour 100 sur une période d'environ 40 ans sans que les chercheurs ne puissent déceler la cause avec exactitude. D'après ceux ayant effectué des recherches dans des zones protégées, les pesticides agricoles seraient à l'origine de cette situation alarmante. Leur rapport soutient clairement que cette diminution drastique a été observée, quels que soient les changements météorologiques et le type d'exploitation des sols.",
+    "right_option": "B",
+    "highlights": [
+      "les pesticides agricoles seraient à l'origine de cette situation alarmante",
+      "cette diminution drastique a été observée, quels que soient les changements météorologiques et le type d'exploitation des sols",
+      "sans que les chercheurs ne puissent déceler la cause avec exactitude"
+    ]
+  },
+  {
+    "question_no": 37,
+    "question": "Quelle est la singularité de la bibliothèque d’Amandine ?",
+    "options": [
+      "C'est une bibliothèque de campagne.",
+      "Son modèle est calqué sur celui du Cardinal De Richelieu.",
+      "Elle est semblable à celles du 17iême siècle.",
+      "C'est une bibliothèque itinérante."
+    ],
+    "audio_transcript": "Le cardinal de Richelieu a passé sa vie à rassembler des livres, manuscrits et imprimés pour constituer l'une des plus belles bibliothèques du dix-septième siècle. En Île-de-France, Amandine a elle aussi une très belle bibliothèque à ciel ouvert à sienne et sur roulettes. À l'aide de son triporteur, le savoir et la connaissance se rendent au plus près des habitants des villes et des campagnes alentours.",
+    "right_option": "D",
+    "highlights": [
+      "une très belle bibliothèque à ciel ouvert à sienne et sur roulettes",
+      "À l'aide de son triporteur, le savoir et la connaissance se rendent au plus près des habitants des villes et des campagnes alentours"
+    ]
+  },
+  {
+    "question_no": 38,
+    "question": "L’aluminium présent dans certains vaccins…",
+    "options": [
+      "Affecte automatiquement la santé.",
+      "Améliore la réponse immunitaire.",
+      "Empêche le développement de maladies génétiques.",
+      "Fait l'unanimité au sein du corps médical."
+    ],
+    "audio_transcript": "Certains d'entre nous auraient-ils génétiquement plus de chances de réagir à l'aluminium des vaccins L'hypothèse avait déjà été posée. Aujourd'hui, le professeur Romain Guérardi la renforce. En effet, son étude révélée par Le Parisien ce matin met en avant une prédisposition génétique à développer une maladie après la vaccination, la myofacite à macrophages. Les symptômes fatigue, douleurs musculaires, voire troubles neurologiques. Une lésion déclenchée pour certains par l'aluminium utilisé comme adjuvant, c'est-à-dire un composant qui stimule la production d'anticorps. Grâce à lui, le vaccin est plus efficace plus longtemps et il évite de multiplier les injections. Mais pour certains cet adjuvant pourrait être remplacé.",
+    "right_option": "B",
+    "highlights": [
+      "une prédisposition génétique à développer une maladie après la vaccination",
+      "pour certains par l'aluminium utilisé comme adjuvant",
+      "un composant qui stimule la production d'anticorps",
+      "Grâce à lui, le vaccin est plus efficace plus longtemps",
+      "il évite de multiplier les injections",
+      "pour certains cet adjuvant pourrait être remplacé"
+    ]
+  },
+  {
+    "question_no": 39,
+    "question": "Ces personnes…",
+    "options": [
+      "Vendent des cigarettes aux sans-abris.",
+      "Sont confrontées à la période de grand froid.",
+      "Accueillent les sans-abris en hiver.",
+      "Font de l'humour pour survivre."
+    ],
+    "audio_transcript": "C'est une course contre le froid, un combat de chaque instant et l'errance durant plusieurs heures pour ses sans-abris. Il fait moins 5 degrés, un premier hiver à la rude pour Colette soixante-et-un ans. L'humour pour briser la glace, les cigarettes pour la petite bouffée de chaleur et ce temps qui s'étire.",
+    "right_option": "B",
+    "highlights": [
+      "C'est une course contre le froid",
+      "un combat de chaque instant",
+      "l'errance durant plusieurs heures pour ses sans-abris",
+      "Il fait moins 5 degrés",
+      "un premier hiver à la rude pour Colette",
+      "pour briser la glace"
+    ]
+  },
+  {
+    "question_no": 40,
+    "question": "Les enseignants sont…",
+    "options": [
+      "Pour cette pratique car elle les rapproche des parents.",
+      "Contre cette pratique car elle alourdit les journées des enfants.",
+      "Pour cette pratique car elle occupe les enfants à la maison.",
+      "Contre cette pratique car les parents ne sont pas toujours disponibles."
+    ],
+    "audio_transcript": "Supprimer les devoirs, les enseignants y sont défavorables, car selon eux, c'est aussi une façon de créer du lien entre les instituteurs et les parents. Réviser une des tables de multiplication, par contre parler d'un exposé qu'on devra faire dans les jours à venir, voilà un objet de dialogue qui est important et qui maintient justement cette relation indispensable entre l'école et la famille. Les devoirs à la maison, une exception française, d'autant plus si l'on considère que les journées de nos enfants à l'école font partie des plus longues au monde.",
+    "right_option": "A",
+    "highlights": [
+      "Supprimer les devoirs, les enseignants y sont défavorables",
+      "c'est aussi une façon de créer du lien entre les instituteurs et les parents",
+      "voilà un objet de dialogue qui est important et qui maintient justement cette relation indispensable entre l'école et la famille"
+    ]
+  }
+]

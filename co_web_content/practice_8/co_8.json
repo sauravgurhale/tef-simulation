@@ -1,0 +1,733 @@
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_8_images/co-8-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Tu veux qu'on se retrouve à la bibliothèque ou au musée cet après-midi ? Plutôt la bibliothèque, j'ai quelques livres à rendre.",
+    "right_option": "C",
+    "highlights": [
+      "à la bibliothèque",
+      "bibliothèque",
+      "quelques livres à rendre"
+    ]
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_8_images/co-8-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Où est mon portefeuille ? Je suis sûr qu'il était posé juste à côté de mes clés. Ah, le voilà. Il est tombé sous la table.",
+    "right_option": "B",
+    "highlights": [
+      "mon portefeuille",
+      "posé juste à côté de mes clés",
+      "Il est tombé sous la table"
+    ]
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_8_images/co-8-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Tu as vu mon casque audio sans fil ? Il était sur la table tout à l'heure. Oui, il est dans le salon à côté de la télévision.",
+    "right_option": "A",
+    "highlights": [
+      "mon casque audio sans fil",
+      "sur la table",
+      "dans le salon",
+      "à côté de la télévision"
+    ]
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_8_images/co-8-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "As-tu remarqué Sophie récemment ? Elle a coupé ses cheveux, maintenant ils sont très courts et bouclés. Oui, ça lui va vraiment bien.",
+    "right_option": "C",
+    "highlights": [
+      "Sophie",
+      "Elle a coupé ses cheveux",
+      "ils sont très courts",
+      "bouclés"
+    ]
+  },
+  {
+    "question_no": 5,
+    "question": "Cette annonce publique…",
+    "options": [
+      "propose une nouvelle date pour un spectacle.",
+      "informe d'un report en raison de travaux.",
+      "annonce l'annulation définitive du concert.",
+      "propose un remboursement immédiat des billets."
+    ],
+    "audio_transcript": "Mesdames, messieurs, nous vous prions de noter que le concert symphonique prévu ce soir à l'auditorium Verdi est reporté à une date ultérieure en raison de difficultés techniques imprévues. Nous vous invitons à conserver vos billets, qui resteront valables pour la nouvelle représentation. Nous vous remercions pour votre compréhension et vous prions d'accepter nos excuses pour ce désagrément.",
+    "right_option": "A",
+    "highlights": [
+      "le concert symphonique prévu ce soir à l'auditorium Verdi est reporté à une date ultérieure",
+      "en raison de difficultés techniques imprévues",
+      "à une date ultérieure",
+      "resteront valables pour la nouvelle représentation"
+    ]
+  },
+  {
+    "question_no": 6,
+    "question": "Cette annonce publique…",
+    "options": [
+      "annonce la fermeture anticipée de l'exposition.",
+      "informe de la nécessité de réserver l'accès.",
+      "propose une visite guidée exceptionnelle.",
+      "informe d'une gratuité pour les prochains jours."
+    ],
+    "audio_transcript": "Chers visiteurs, en raison de l'afflux exceptionnel de public, l'accès à l'exposition Rêve d'Orient se fera désormais sur réservation obligatoire. Nous vous encourageons à réserver vos créneaux via notre site internet ou directement à l'accueil du musée afin de garantir votre entrée. Nous vous remercions de votre compréhension.",
+    "right_option": "B",
+    "highlights": [
+      "l'accès à l'exposition Rêve d'Orient se fera désormais sur réservation obligatoire",
+      "réservation obligatoire",
+      "Nous vous encourageons à réserver vos créneaux via notre site internet ou directement à l'accueil du musée",
+      "afin de garantir votre entrée"
+    ]
+  },
+  {
+    "question_no": 7,
+    "question": "Cette annonce publique…",
+    "options": [
+      "annonce une grève des conducteurs de train.",
+      "informe d'un retard possible sur la ligne.",
+      "informe de la suspension temporaire d'un service.",
+      "propose un service de train supplémentaire."
+    ],
+    "audio_transcript": "Chers passagers, nous vous informons que la ligne ferroviaire reliant Lyon à Genève sera interrompue le week-end prochain pour des travaux de maintenance sur les voies. Des solutions de remplacement par bus ont été mises en place. Veuillez consulter les horaires alternatifs sur notre site web ou au guichet des gares concernées.",
+    "right_option": "C",
+    "highlights": [
+      "la ligne ferroviaire reliant Lyon à Genève sera interrompue",
+      "le week-end prochain",
+      "pour des travaux de maintenance sur les voies",
+      "Des solutions de remplacement par bus ont été mises en place",
+      "Veuillez consulter les horaires alternatifs"
+    ]
+  },
+  {
+    "question_no": 8,
+    "question": "Cette annonce publique…",
+    "options": [
+      "informe d'une annulation pour cause de nombre insuffisant d'inscrits.",
+      "propose de confirmer une participation à un événement.",
+      "annonce une modification de l'heure de l'atelier.",
+      "informe d'une réduction des frais d'inscription."
+    ],
+    "audio_transcript": "Chers participants, nous vous rappelons que l'inscription à l'atelier de photographie du samedi prochain doit impérativement être confirmée avant mercredi. L'atelier sera animé par un professionnel renommé et se déroulera dans la salle Lumière. Les places étant limitées, nous vous encourageons à finaliser votre réservation rapidement.",
+    "right_option": "B",
+    "highlights": [
+      "l'inscription à l'atelier de photographie du samedi prochain doit impérativement être confirmée avant mercredi",
+      "nous vous encourageons à finaliser votre réservation rapidement"
+    ]
+  },
+  {
+    "question_no": 9,
+    "question": "Pourquoi Julien appelle-t-il ?",
+    "options": [
+      "pour demander de l'aide pour choisir un cadeau.",
+      "pour confirmer un rendez-vous pour l'anniversaire de Paul.",
+      "pour inviter Sophie à une fête.",
+      "pour s'excuser de ne pas pouvoir acheter un cadeau."
+    ],
+    "audio_transcript": "Un bonjour Sophie, c'est Julien. Je voulais te rappeler que demain c'est l'anniversaire de Paul. Je pensais passer lui acheter un cadeau après le travail, mais je ne sais pas trop quoi lui prendre. Tu as des idées ? Si tu veux venir avec moi, fais-moi signe. À bientôt.",
+    "right_option": "A",
+    "highlights": [
+      "Je voulais te rappeler que demain c'est l'anniversaire de Paul",
+      "Je pensais passer lui acheter un cadeau après le travail",
+      "je ne sais pas trop quoi lui prendre",
+      "Tu as des idées ?",
+      "Si tu veux venir avec moi, fais-moi signe"
+    ]
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour…",
+    "options": [
+      "signaler une erreur dans un document.",
+      "remercier Nathalie de lui avoir envoyé des documents.",
+      "demander une nouvelle version des documents.",
+      "proposer une modification au document."
+    ],
+    "audio_transcript": "Salut Nathalie, c'est Mélanie. J'ai bien reçu les documents que tu m'as envoyés, merci. Par contre, il y a une erreur dans la dernière page. Je te renvoie tout ça par mail avec les corrections. Fais-moi savoir si ça te convient. Bonne journée.",
+    "right_option": "A",
+    "highlights": [
+      "il y a une erreur dans la dernière page",
+      "Je te renvoie tout ça par mail avec les corrections"
+    ]
+  },
+  {
+    "question_no": 11,
+    "question": "Pourquoi Stéphane appelle-t-il ?",
+    "options": [
+      "pour vérifier l'adresse de livraison.",
+      "pour informer que le colis a été perdu.",
+      "pour annuler une livraison.",
+      "pour proposer une nouvelle livraison."
+    ],
+    "audio_transcript": "Bonjour monsieur Dupont, ici Stéphane de la compagnie de livraison. Je voulais vous prévenir que votre colis est bien arrivé, mais il semble y avoir un souci avec l'adresse de livraison. Pouvez-vous nous rappeler pour confirmer l'adresse correcte ? Merci et bonne journée.",
+    "right_option": "A",
+    "highlights": [
+      "votre colis est bien arrivé",
+      "il semble y avoir un souci avec l'adresse de livraison",
+      "Pouvez-vous nous rappeler pour confirmer l'adresse correcte"
+    ]
+  },
+  {
+    "question_no": 12,
+    "question": "Pourquoi Sarah appelle-t-elle ?",
+    "options": [
+      "pour demander de l'aide pour un déménagement.",
+      "pour inviter Marc à un événement ce week-end.",
+      "pour donner des nouvelles.",
+      "pour proposer de l'aide à Marc."
+    ],
+    "audio_transcript": "Salut Marc, c'est Sarah. J'espère que tout va bien. Dis-moi, est-ce que tu aurais le temps de me donner un coup de main pour déménager ce week-end ? J'ai quelques cartons à déplacer, mais je n'y arriverai pas seul. Fais-moi savoir si tu es disponible. Merci beaucoup.",
+    "right_option": "A",
+    "highlights": [
+      "est-ce que tu aurais le temps de me donner un coup de main pour déménager ce week-end",
+      "J'ai quelques cartons à déplacer",
+      "je n'y arriverai pas seul",
+      "Fais-moi savoir si tu es disponible"
+    ]
+  },
+  {
+    "question_no": 13,
+    "question": "Pourquoi Claire appelle-t-elle ?",
+    "options": [
+      "pour annoncer une inspection prévue.",
+      "pour proposer un rendez-vous.",
+      "pour confirmer l'installation de panneaux solaires.",
+      "pour demander des informations supplémentaires sur l'installation."
+    ],
+    "audio_transcript": "Bonjour Monsieur Lefebvre, ici Claire de la société Environnement Vert. Je vous appelle pour vous informer que notre équipe passera chez vous demain matin pour une inspection de votre installation solaire. N'hésitez pas à me contacter si vous avez des questions. À bientôt.",
+    "right_option": "A",
+    "highlights": [
+      "Je vous appelle pour vous informer que",
+      "notre équipe passera chez vous demain matin",
+      "pour une inspection de votre installation solaire"
+    ]
+  },
+  {
+    "question_no": 14,
+    "question": "Pourquoi Lucie appelle-t-elle ?",
+    "options": [
+      "pour informer Emma qu'elle a trouvé une recette.",
+      "pour proposer une nouvelle recette à Emma.",
+      "pour demander l'avis d'Emma sur une recette.",
+      "pour confirmer la réception d'un mail."
+    ],
+    "audio_transcript": "Salut Emma, c'est Lucie. Je voulais juste te prévenir que j'ai finalement trouvé la recette du gâteau au chocolat que tu cherchais. Je te l'envoie par mail dès que je rentre chez moi. J'espère que tu l'aimeras autant que moi. À plus tard.",
+    "right_option": "A",
+    "highlights": [
+      "Je voulais juste te prévenir",
+      "j'ai finalement trouvé la recette du gâteau au chocolat que tu cherchais",
+      "Je te l'envoie par mail dès que je rentre chez moi"
+    ]
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée…",
+    "options": [
+      "estime que les impôts sur la fortune sont essentiels pour réduire les inégalités.",
+      "pense que les impôts sur la fortune découragent l'investissement et l'innovation.",
+      "considère que les impôts sur la fortune doivent être modérés pour éviter l'évasion fiscale.",
+      ""
+    ],
+    "audio_transcript": "Je suis convaincu que les impôts sur la fortune sont un outil indispensable pour réduire les écarts de richesse. Dans une société juste, les plus fortunés doivent contribuer davantage pour financer les services publics et aider les plus démunis. C'est une question d'équité.",
+    "right_option": "A",
+    "highlights": [
+      "Je suis convaincu que les impôts sur la fortune sont un outil indispensable",
+      "indispensable pour réduire les écarts de richesse",
+      "les plus fortunés doivent contribuer davantage",
+      "C'est une question d'équité"
+    ]
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée…",
+    "options": [
+      "estime que les impôts sur la fortune sont essentiels pour réduire les inégalités.",
+      "pense que les impôts sur la fortune découragent l'investissement et l'innovation.",
+      "considère que les impôts sur la fortune doivent être modérés pour éviter l'évasion fiscale.",
+      ""
+    ],
+    "audio_transcript": "Ce genre de taxes a un effet pervers : en taxant trop les plus riches, on finit par les décourager d'investir dans l'économie, l'innovation, les nouvelles entreprises. Tout cela dépend de ceux qui ont les moyens de prendre des risques financiers. Taxer trop lourdement la fortune peut donc freiner la croissance et nuire à l'économie.",
+    "right_option": "B",
+    "highlights": [
+      "en taxant trop les plus riches, on finit par les décourager d'investir dans l'économie, l'innovation, les nouvelles entreprises",
+      "Taxer trop lourdement la fortune peut donc freiner la croissance et nuire à l'économie",
+      "Tout cela dépend de ceux qui ont les moyens de prendre des risques financiers"
+    ]
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée…",
+    "options": [
+      "estime que les impôts sur la fortune sont essentiels pour réduire les inégalités.",
+      "pense que les impôts sur la fortune découragent l'investissement et l'innovation.",
+      "considère que les impôts sur la fortune doivent être modérés pour éviter l'évasion fiscale.",
+      ""
+    ],
+    "audio_transcript": "Il est nécessaire de taxer les grandes fortunes, mais il faut trouver un juste milieu. Trop d'impôts peuvent pousser certains à chercher des moyens d'éviter de payer, voire à déplacer leurs actifs à l'étranger. Un impôt modéré sur la fortune permettrait de contribuer à la redistribution sans pour autant encourager l'évasion fiscale.",
+    "right_option": "C",
+    "highlights": [
+      "Il est nécessaire de taxer les grandes fortunes",
+      "il faut trouver un juste milieu",
+      "Trop d'impôts peuvent pousser certains à chercher des moyens d'éviter de payer",
+      "voire à déplacer leurs actifs à l'étranger",
+      "Un impôt modéré sur la fortune permettrait de contribuer à la redistribution",
+      "sans pour autant encourager l'évasion fiscale"
+    ]
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que le revenu universel permettrait de réduire les inégalités.",
+      "considère que le revenu universel est une bonne idée, mais insuffisante.",
+      "ne croit pas en la viabilité du revenu universel.",
+      ""
+    ],
+    "audio_transcript": "Le revenu universel est une idée révolutionnaire. Si tout le monde avait un revenu de base garanti, cela réduirait la pauvreté, permettrait à chacun de vivre dignement et d'avoir accès aux mêmes opportunités. C'est un moyen efficace de réduire les inégalités qui persistent dans notre société.",
+    "right_option": "A",
+    "highlights": [
+      "Le revenu universel est une idée révolutionnaire",
+      "Si tout le monde avait un revenu de base garanti, cela réduirait la pauvreté",
+      "permettrait à chacun de vivre dignement et d'avoir accès aux mêmes opportunités",
+      "C'est un moyen efficace de réduire les inégalités qui persistent dans notre société"
+    ]
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que le revenu universel permettrait de réduire les inégalités.",
+      "considère que le revenu universel est une bonne idée, mais insuffisante.",
+      "ne croit pas en la viabilité du revenu universel.",
+      ""
+    ],
+    "audio_transcript": "À mon avis, le revenu universel n'est pas la solution miracle. Certes, il peut apporter une aide ponctuelle, mais les inégalités sociales sont bien plus profondes. Il faut agir sur des facteurs comme l'éducation, l'accès à la santé ou encore la fiscalité pour vraiment changer les choses. Un revenu universel, seul, ne suffira pas.",
+    "right_option": "B",
+    "highlights": [
+      "À mon avis, le revenu universel n'est pas la solution miracle",
+      "il peut apporter une aide ponctuelle",
+      "les inégalités sociales sont bien plus profondes",
+      "Il faut agir sur des facteurs comme l'éducation, l'accès à la santé ou encore la fiscalité",
+      "Un revenu universel, seul, ne suffira pas"
+    ]
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée…",
+    "options": [
+      "pense que le revenu universel permettrait de réduire les inégalités.",
+      "considère que le revenu universel est une bonne idée, mais insuffisante.",
+      "ne croit pas en la viabilité du revenu universel.",
+      ""
+    ],
+    "audio_transcript": "Je suis sceptique sur l'idée du revenu universel. Comment financer un tel programme sans alourdir les impôts pour une grande partie de la population ? Et qui nous garantit que cela ne découragera pas un peu les gens de travailler ? Pour moi, c'est une utopie qui risque de créer plus de problèmes qu'elle ne résoudrait.",
+    "right_option": "C",
+    "highlights": [
+      "Je suis sceptique sur l'idée du revenu universel",
+      "Comment financer un tel programme sans alourdir les impôts",
+      "qui nous garantit que cela ne découragera pas un peu les gens de travailler",
+      "Pour moi, c'est une utopie",
+      "risque de créer plus de problèmes qu'elle ne résoudrait"
+    ]
+  },
+  {
+    "question_no": 21,
+    "question": "Selon l’auteur, l’impact de la pollution lumineuse se manifeste principalement par",
+    "options": [
+      "la modification des cycles biologiques naturels qui affecte de manière disproportionnée certaines espèces animales.",
+      "l'accumulation de problèmes de santé chez les humains, bien que les preuves scientifiques restent controversées.",
+      "une perturbation significative des rythmes biologiques, tant chez les animaux que chez les humains, avec des effets variés.",
+      "l'apparition progressive de troubles métaboliques et cardiovasculaires exclusivement chez les habitants des zones urbaines."
+    ],
+    "audio_transcript": "La pollution lumineuse, bien que souvent négligée, a un impact considérable sur les écosystèmes et la santé humaine en altérant le cycle naturel du jour et de la nuit. Elle perturbe les rythmes biologiques de nombreuses espèces animales, notamment celles qui dépendent de l'obscurité pour se nourrir ou se reproduire. Par ailleurs, des études montrent que l'exposition prolongée à une lumière artificielle excessive, surtout dans les environnements urbains, peut affecter le sommeil des humains, entraînant à long terme des problèmes de santé tels que des troubles cardiovasculaires ou métaboliques. Face à ce constat, des solutions émergent comme la réduction de l'éclairage public ou l'utilisation de lumières plus respectueuses de l'environnement. Les véhicules autonomes sont présentés comme une révolution dans le domaine des transports.",
+    "right_option": "C",
+    "highlights": [
+      "La pollution lumineuse, bien que souvent négligée, a un impact considérable sur les écosystèmes et la santé humaine en altérant le cycle naturel du jour et de la nuit",
+      "Elle perturbe les rythmes biologiques de nombreuses espèces animales",
+      "notamment celles qui dépendent de l'obscurité pour se nourrir ou se reproduire",
+      "des études montrent que l'exposition prolongée à une lumière artificielle excessive, surtout dans les environnements urbains, peut affecter le sommeil des humains",
+      "entraînant à long terme des problèmes de santé tels que des troubles cardiovasculaires ou métaboliques"
+    ]
+  },
+  {
+    "question_no": 22,
+    "question": "D’après l’auteur, l’un des obstacles majeurs à l’intégration des véhicules autonomes est lié à",
+    "options": [
+      "l'incapacité des algorithmes actuels à anticiper toutes les situations imprévues sur la route.",
+      "le besoin de redéfinir les infrastructures routières pour s'adapter à cette nouvelle technologie.",
+      "la manière dont les véhicules pourraient gérer des scénarios de dilemme moral en cas d'accident.",
+      "l'absence de consensus sur les avantages économiques de leur utilisation à grande échelle."
+    ],
+    "audio_transcript": "Grâce à des capteurs sophistiqués et des algorithmes d'intelligence artificielle, ces véhicules sont capables de circuler sans intervention humaine. Cependant, leur développement soulève des questions éthiques et légales complexes. Par exemple, en cas d'accident inévitable, comment le véhicule doit-il prioriser les vies ? De plus, l'intégration de ces véhicules dans les infrastructures actuelles pose un défi logistique important. Certains experts estiment qu'avant une adoption à grande échelle, des ajustements majeurs seront nécessaires, tant sur le plan technique que réglementaire.",
+    "right_option": "C",
+    "highlights": [
+      "leur développement soulève des questions éthiques et légales complexes",
+      "en cas d'accident inévitable, comment le véhicule doit-il prioriser les vies",
+      "l'intégration de ces véhicules dans les infrastructures actuelles pose un défi logistique important",
+      "avant une adoption à grande échelle, des ajustements majeurs seront nécessaires",
+      "tant sur le plan technique que réglementaire"
+    ]
+  },
+  {
+    "question_no": 23,
+    "question": "Pourquoi Sylvie Germain se dit-elle préoccupée par les réactions des élèves à son texte ?",
+    "options": [
+      "Elle pense que les élèves n'ont pas fait d'effort pour comprendre son texte.",
+      "Elle estime que cela reflète un manque d'effort et une tendance à éviter toute difficulté.",
+      "Elle s'inquiète de la réaction émotionnelle excessive des élèves face aux examens.",
+      "Elle se sent préoccupée par l'attitude des élèves envers le vocabulaire complexe."
+    ],
+    "audio_transcript": "L'épreuve écrite du bac de français pour les élèves de série générale proposait, pour le commentaire, un texte de l'auteure française Sylvie Germain, extrait de son roman Jour de colère, prix Femina en mille neuf cent quatre-vingt-neuf. Un texte de 20 lignes décrivant neuf frères, sortes d'hommes des bois élevés dans les forêts du Morvan dans un passé indéterminé, prévenait le chapeau de l'épreuve. L'idée pour les élèves était, comme le suggère un corrigé de l'épreuve publié par Le Monde le lendemain, de se demander comment les neuf fils ont-ils été façonnés par l'environnement dans lequel ils ont grandi. Mais, comme l'écrit Le Figaro Étudiant, l'atmosphère sylvicole de l'extrait, l'opacité de certaines images et le champ lexical de la nature ont, semble-t-il, déstabilisé plus d'un candidat. Dans les heures qui suivirent l'épreuve, Twitter, Instagram, TikTok furent envahis de commentaires incendiaires et remplis d'insultes adressées à l'auteure du texte du bac de français, Sylvie Germain. Je vous livre ici les plus légères : « Ton texte, il est fini tôt », « Aucun sens, à part neuf bouffons nus dans la forêt qui vivent dans une maison de merde, je n'ai rien compris », Autre commentaire, un poil plus drôle cette fois : « Tu prends le commentaire, tu ressors de la salle avec une formation de garde forestier », Ou encore : « On peut connaître le nom des neuf fils, SVP ? Ça, ça ne m'avait pas manqué, le Livre de la Jungle. » Les autres commentaires, hyper vulgaires, insultants et parfois menaçants, comme une vidéo TikTok vue cent mille fois et aimée douze mille fois, ont fait réagir, mais cette fois dans l'autre sens : les profs ont pris la défense de Sylvie Germain. « Bonjour l'intelligence des jeunes qui passent le bac de français, qui en veulent à Sylvie Germain parce qu'elle possède plus de trois mots de vocabulaire. Moins gnangnan ! » L'auteure elle-même, Sylvie Germain, interviewée par Le Figaro Étudiant, a déclaré : « Je ne suis qu'un prétexte, je ne me sens pas concernée personnellement, je suis plutôt inquiète du symptôme que cela révèle », dit-elle. Et elle ajoute : « Ils veulent des diplômes sans aucun effort, se clament victimes pour un oui ou pour un non et désignent comme persécuteurs ceux-là même qu'ils injurient et menacent. Quels adultes vont-ils devenir ? » Bonne question, sans doute. En attendant la réponse, un tweet…",
+    "right_option": "B",
+    "highlights": [
+      "Je ne suis qu'un prétexte, je ne me sens pas concernée personnellement, je suis plutôt inquiète du symptôme que cela révèle",
+      "Ils veulent des diplômes sans aucun effort",
+      "se clament victimes pour un oui ou pour un non",
+      "désignent comme persécuteurs ceux-là même qu'ils injurient et menacent"
+    ]
+  },
+  {
+    "question_no": 24,
+    "question": "Quelle est la réaction des professeurs face aux critiques des élèves sur les réseaux sociaux ?",
+    "options": [
+      "Ils estiment que les élèves manquent de vocabulaire pour comprendre des textes plus difficiles.",
+      "Ils défendent l'auteure en soulignant que les élèves manquent de vocabulaire pour ce type de texte.",
+      "Ils pensent que le texte n'était pas adapté au niveau des élèves, qui manquent de vocabulaire.",
+      "Ils réagissent en affirmant que l'intelligence des élèves est insuffisante pour comprendre un texte riche."
+    ],
+    "audio_transcript": "L'épreuve écrite du bac de français pour les élèves de série générale proposait, pour le commentaire, un texte de l'auteure française Sylvie Germain, extrait de son roman Jour de colère, prix Femina en mille neuf cent quatre-vingt-neuf. Un texte de 20 lignes décrivant neuf frères, sortes d'hommes des bois élevés dans les forêts du Morvan dans un passé indéterminé, prévenait le chapeau de l'épreuve. L'idée pour les élèves était, comme le suggère un corrigé de l'épreuve publié par Le Monde le lendemain, de se demander comment les neuf fils ont-ils été façonnés par l'environnement dans lequel ils ont grandi. Mais, comme l'écrit Le Figaro Étudiant, l'atmosphère sylvicole de l'extrait, l'opacité de certaines images et le champ lexical de la nature ont, semble-t-il, déstabilisé plus d'un candidat. Dans les heures qui suivirent l'épreuve, Twitter, Instagram, TikTok furent envahis de commentaires incendiaires et remplis d'insultes adressées à l'auteure du texte du bac de français, Sylvie Germain. Je vous livre ici les plus légères : « Ton texte, il est fini tôt », « Aucun sens, à part neuf bouffons nus dans la forêt qui vivent dans une maison de merde, je n'ai rien compris », Autre commentaire, un poil plus drôle cette fois : « Tu prends le commentaire, tu ressors de la salle avec une formation de garde forestier », Ou encore : « On peut connaître le nom des neuf fils, SVP ? Ça, ça ne m'avait pas manqué, le Livre de la Jungle. » Les autres commentaires, hyper vulgaires, insultants et parfois menaçants, comme une vidéo TikTok vue cent mille fois et aimée douze mille fois, ont fait réagir, mais cette fois dans l'autre sens : les profs ont pris la défense de Sylvie Germain. « Bonjour l'intelligence des jeunes qui passent le bac de français, qui en veulent à Sylvie Germain parce qu'elle possède plus de trois mots de vocabulaire. Moins gnangnan ! » L'auteure elle-même, Sylvie Germain, interviewée par Le Figaro Étudiant, a déclaré : « Je ne suis qu'un prétexte, je ne me sens pas concernée personnellement, je suis plutôt inquiète du symptôme que cela révèle », dit-elle. Et elle ajoute : « Ils veulent des diplômes sans aucun effort, se clament victimes pour un oui ou pour un non et désignent comme persécuteurs ceux-là même qu'ils injurient et menacent. Quels adultes vont-ils devenir ? » Bonne question, sans doute. En attendant la réponse, un tweet…",
+    "right_option": "B",
+    "highlights": [
+      "les profs ont pris la défense de Sylvie Germain",
+      "Bonjour l'intelligence des jeunes qui passent le bac de français, qui en veulent à Sylvie Germain parce qu'elle possède plus de trois mots de vocabulaire"
+    ]
+  },
+  {
+    "question_no": 25,
+    "question": "Quel est l’objectif principal de la campagne impliquant des enfants dans la présentation de la météo de 2050 ?",
+    "options": [
+      "Prédire des événements météorologiques extrêmes projetés pour l'année 2050.",
+      "Avertir l'opinion publique des répercussions potentielles du changement climatique.",
+      "Conscientiser les familles sur l'impact du dérèglement climatique via la participation de leurs enfants.",
+      "Informer la communauté scientifique des risques futurs liés au changement climatique."
+    ],
+    "audio_transcript": "Mesdames et messieurs, merci de nous rejoindre pour un bulletin météo très spécial. Le Programme des Nations Unies pour le développement et l'OMM ont lancé une vaste campagne de sensibilisation au dérèglement climatique. Au cœur de leur communication, les enfants : l'idée leur faire présenter la météo du vingt-deux mars deux mille cinquante. L'objectif : attirer l'attention sur la manière dont le changement climatique affectera le temps et la vie des générations futures, tout en passant quelques messages forts. Du nord au sud, côté climat, rien ne va. Si nous n'écoutons pas les scientifiques, la situation sera bien pire quand je serai grand. Il ne s'agit pas simplement d'un bulletin météo, il en va de notre futur. L'objectif principal est d'impliquer les jeunes générations, car nous pensons qu'il faut aller au cœur des familles et que le moyen d'y parvenir est de passer par leurs enfants et d'impliquer chaque famille dans la discussion sur le changement climatique et sur ce que nous pouvons faire. Bonsoir à tous. Plus proche de chez nous, c'est Martin, 9 ans, qui sait glisser le temps d'une journée dans la peau du présentateur météo, et le moins qu'on puisse dire, c'est qu'il fera chaud. Présentateur météo : Et le moins qu'on puisse dire, c'est qu'il fera chaud pour un mois de mars. L'après-midi, il fera assez chaud au Tessin, 30 degrés à Lucerne, jusqu'à vingt-huit degrés à Genève, vingt-sept degrés en Valais et vingt-quatorze degrés à deux mille mètres, des valeurs au-dessus de la normale. Des prévisions pourtant réalistes, fournies directement par les spécialistes de MétéoSuisse. On a pris les projections climatiques pour la Suisse et on a pris les scénarios sans mesure de protection du climat efficace afin de représenter à quoi une journée chaude pour fin mars 2050 pourrait ressembler. Il s'agit donc d'un exemple de prévision pour 2050, mais qui est malheureusement tout à fait plausible. Le bulletin météo de Martin est visible en intégralité sur nos plateformes. Il aura trente-cinq ans en deux mille cinquante, en espérant que d'ici là, la tendance se soit inversée. Il y a vingt-cinq ans, on aurait parlé d'un beau mois de juin. Bonne soirée à tous.",
+    "right_option": "C",
+    "highlights": [
+      "L'objectif principal est d'impliquer les jeunes générations",
+      "nous pensons qu'il faut aller au cœur des familles",
+      "le moyen d'y parvenir est de passer par leurs enfants",
+      "d'impliquer chaque famille dans la discussion sur le changement climatique",
+      "l'idée leur faire présenter la météo du vingt-deux mars deux mille cinquante",
+      "attirer l'attention sur la manière dont le changement climatique affectera le temps et la vie des générations futures"
+    ]
+  },
+  {
+    "question_no": 26,
+    "question": "Pourquoi les prévisions météorologiques pour 2050 sont-elles jugées plausibles selon MétéoSuisse ?",
+    "options": [
+      "Elles s'appuient sur des projections climatiques réalistes en l'absence de mesures de protection.",
+      "Elles sont fondées sur les tendances actuelles du réchauffement climatique.",
+      "Elles illustrent ce qui pourrait se passer si aucune action efficace n'est mise en œuvre.",
+      "Elles reflètent un scénario vraisemblable basé sur les observations météorologiques contemporaines."
+    ],
+    "audio_transcript": "Mesdames et messieurs, merci de nous rejoindre pour un bulletin météo très spécial. Le Programme des Nations Unies pour le développement et l'OMM ont lancé une vaste campagne de sensibilisation au dérèglement climatique. Au cœur de leur communication, les enfants : l'idée leur faire présenter la météo du vingt-deux mars deux mille cinquante. L'objectif : attirer l'attention sur la manière dont le changement climatique affectera le temps et la vie des générations futures, tout en passant quelques messages forts. Du nord au sud, côté climat, rien ne va. Si nous n'écoutons pas les scientifiques, la situation sera bien pire quand je serai grand. Il ne s'agit pas simplement d'un bulletin météo, il en va de notre futur. L'objectif principal est d'impliquer les jeunes générations, car nous pensons qu'il faut aller au cœur des familles et que le moyen d'y parvenir est de passer par leurs enfants et d'impliquer chaque famille dans la discussion sur le changement climatique et sur ce que nous pouvons faire. Bonsoir à tous. Plus proche de chez nous, c'est Martin, 9 ans, qui sait glisser le temps d'une journée dans la peau du présentateur météo, et le moins qu'on puisse dire, c'est qu'il fera chaud. Présentateur météo : Et le moins qu'on puisse dire, c'est qu'il fera chaud pour un mois de mars. L'après-midi, il fera assez chaud au Tessin, 30 degrés à Lucerne, jusqu'à vingt-huit degrés à Genève, vingt-sept degrés en Valais et vingt-quatorze degrés à deux mille mètres, des valeurs au-dessus de la normale. Des prévisions pourtant réalistes, fournies directement par les spécialistes de MétéoSuisse. On a pris les projections climatiques pour la Suisse et on a pris les scénarios sans mesure de protection du climat efficace afin de représenter à quoi une journée chaude pour fin mars 2050 pourrait ressembler. Il s'agit donc d'un exemple de prévision pour 2050, mais qui est malheureusement tout à fait plausible. Le bulletin météo de Martin est visible en intégralité sur nos plateformes. Il aura trente-cinq ans en deux mille cinquante, en espérant que d'ici là, la tendance se soit inversée. Il y a vingt-cinq ans, on aurait parlé d'un beau mois de juin. Bonne soirée à tous.",
+    "right_option": "A",
+    "highlights": [
+      "On a pris les projections climatiques pour la Suisse et on a pris les scénarios sans mesure de protection du climat efficace afin de représenter à quoi une journée chaude pour fin mars 2050 pourrait ressembler.",
+      "Il s'agit donc d'un exemple de prévision pour 2050, mais qui est malheureusement tout à fait plausible.",
+      "Des prévisions pourtant réalistes, fournies directement par les spécialistes de MétéoSuisse."
+    ]
+  },
+  {
+    "question_no": 27,
+    "question": "Quel est l’objectif principal de Daniel Zielinski dans la traduction des gestes sportifs ?",
+    "options": [
+      "Éliminer tous les anglicismes.",
+      "Faciliter la compréhension pour le public francophone.",
+      "Imposer des termes techniques français.",
+      "Uniformiser les termes avec d'autres langues."
+    ],
+    "audio_transcript": "Année olympique dans un pays francophone : la France. Ce n'était pas arrivé depuis 1976, à Montréal. D'où votre mission, Daniel Zielinski, délégué ministériel à la Francophonie auprès du ministère des Sports. Vous y travaillez depuis longtemps, mais les premières recommandations arrivent, notamment avec une série de publications — dont celle-ci : Parlez-vous break ? — puisque le breakdance est une nouvelle discipline des JO. Mais en disant cela, je fais une énorme erreur, et je souscris à l’anglicisme : il ne faut pas dire breakdance. — Alors non. Mais l'intérêt de notre travail, que nous avons mené avec la DGLFLF — la Délégation générale à la langue française et aux langues de France — qui sont un peu mes petits copains de jeu pour travailler sur ces sujets... On travaille bien sûr avec la Gagnée française, avec les fédérations sportives. Ce qui est le plus important, c’est de comprendre les gestes. Pour nous, la traduction du nom du sport n’est pas vraiment le plus important. Le plus important, c’est de traduire les phases du jeu, les mouvements du jeu, qui sont souvent en anglais dans ces sports-là. Parce que, par exemple, quand je regardais les épreuves de snowboard aux Jeux de Pékin, je ne comprenais rien. Tout simplement parce que les journalistes reprenaient les mots en anglais. Et pourquoi les reprenaient-ils ? Parce qu’ils n’existaient pas en français, et qu’il n’y avait pas de définition française. Donc j'avais beau regarder les images, je ne comprenais pas ce qu’on me disait. L’idée, c’est tout simple : repartir des phases, des gestes, pour que, quand nous allons regarder les Jeux Olympiques, quand nous verrons ces épreuves, nous puissions mieux comprendre. Que l’ensemble des journalistes francophones et que l’ensemble du public francophone puissent comprendre, tout simplement, les images. Parce que les définitions que l’on donnera, les mots que nous proposerons, seront des mots plutôt français. — Mais break ou breakdance, il n’y a quand même pas beaucoup de différences ? — Je reviens à la définition de la discipline. Oui, par exemple, on n’a pas non plus traduit surf. On ne va pas traduire football ou handball. Là, l’idée, c’était de se dire : si on cherche un mot français, autant utiliser, chercher un mot qui ressemble, qui soit — d’ailleurs — dans le dictionnaire. Le mot break y était, mais pas dans la même acception, pas dans la même définition. Et donc, il était important pour nous de trouver les mots qui se rapprochent le plus possible de la langue française, pour qu’éventuellement, on puisse passer à la langue française en utilisant ces mots-là, plutôt que les mots anglais.",
+    "right_option": "B",
+    "highlights": [
+      "L’idée, c’est tout simple : repartir des phases, des gestes, pour que, quand nous allons regarder les Jeux Olympiques, quand nous verrons ces épreuves, nous puissions mieux comprendre.",
+      "Que l’ensemble des journalistes francophones et que l’ensemble du public francophone puissent comprendre, tout simplement, les images.",
+      "Le plus important, c’est de traduire les phases du jeu, les mouvements du jeu",
+      "Pour nous, la traduction du nom du sport n’est pas vraiment le plus important.",
+      "je ne comprenais rien. Tout simplement parce que les journalistes reprenaient les mots en anglais.",
+      "j'avais beau regarder les images, je ne comprenais pas ce qu’on me disait.",
+      "les mots que nous proposerons, seront des mots plutôt français."
+    ]
+  },
+  {
+    "question_no": 28,
+    "question": "Pourquoi l’auteur privilégie-t-il la traduction des mouvements sportifs ?",
+    "options": [
+      "Les mouvements sont plus difficiles à saisir pour le public et nécessitent une clarification terminologique spécifique.",
+      "Les noms de disciplines étant déjà largement acceptés à l'international, il se concentre sur les mouvements, qui varient d'un contexte culturel à l'autre.",
+      "Cela permet aux journalistes d'expliquer les compétitions de manière plus précise et compréhensible pour un public francophone.",
+      "Il cherche à aligner les termes utilisés avec les recommandations de l'Académie française en matière de francisation des mouvements sportifs."
+    ],
+    "audio_transcript": "Année olympique dans un pays francophone : la France. Ce n'était pas arrivé depuis 1976, à Montréal. D'où votre mission, Daniel Zielinski, délégué ministériel à la Francophonie auprès du ministère des Sports. Vous y travaillez depuis longtemps, mais les premières recommandations arrivent, notamment avec une série de publications — dont celle-ci : Parlez-vous break ? — puisque le breakdance est une nouvelle discipline des JO. Mais en disant cela, je fais une énorme erreur, et je souscris à l’anglicisme : il ne faut pas dire breakdance. — Alors non. Mais l'intérêt de notre travail, que nous avons mené avec la DGLFLF — la Délégation générale à la langue française et aux langues de France — qui sont un peu mes petits copains de jeu pour travailler sur ces sujets... On travaille bien sûr avec la Gagnée française, avec les fédérations sportives. Ce qui est le plus important, c’est de comprendre les gestes. Pour nous, la traduction du nom du sport n’est pas vraiment le plus important. Le plus important, c’est de traduire les phases du jeu, les mouvements du jeu, qui sont souvent en anglais dans ces sports-là. Parce que, par exemple, quand je regardais les épreuves de snowboard aux Jeux de Pékin, je ne comprenais rien. Tout simplement parce que les journalistes reprenaient les mots en anglais. Et pourquoi les reprenaient-ils ? Parce qu’ils n’existaient pas en français, et qu’il n’y avait pas de définition française. Donc j'avais beau regarder les images, je ne comprenais pas ce qu’on me disait. L’idée, c’est tout simple : repartir des phases, des gestes, pour que, quand nous allons regarder les Jeux Olympiques, quand nous verrons ces épreuves, nous puissions mieux comprendre. Que l’ensemble des journalistes francophones et que l’ensemble du public francophone puissent comprendre, tout simplement, les images. Parce que les définitions que l’on donnera, les mots que nous proposerons, seront des mots plutôt français. — Mais break ou breakdance, il n’y a quand même pas beaucoup de différences ? — Je reviens à la définition de la discipline. Oui, par exemple, on n’a pas non plus traduit surf. On ne va pas traduire football ou handball. Là, l’idée, c’était de se dire : si on cherche un mot français, autant utiliser, chercher un mot qui ressemble, qui soit — d’ailleurs — dans le dictionnaire. Le mot break y était, mais pas dans la même acception, pas dans la même définition. Et donc, il était important pour nous de trouver les mots qui se rapprochent le plus possible de la langue française, pour qu’éventuellement, on puisse passer à la langue française en utilisant ces mots-là, plutôt que les mots anglais.",
+    "right_option": "C",
+    "highlights": [
+      "Ce qui est le plus important, c’est de comprendre les gestes.",
+      "la traduction du nom du sport n’est pas vraiment le plus important",
+      "Le plus important, c’est de traduire les phases du jeu, les mouvements du jeu, qui sont souvent en anglais dans ces sports-là",
+      "quand je regardais les épreuves de snowboard aux Jeux de Pékin, je ne comprenais rien",
+      "Tout simplement parce que les journalistes reprenaient les mots en anglais",
+      "Parce qu’ils n’existaient pas en français, et qu’il n’y avait pas de définition française",
+      "j'avais beau regarder les images, je ne comprenais pas ce qu’on me disait",
+      "L’idée, c’est tout simple : repartir des phases, des gestes, pour que, quand nous allons regarder les Jeux Olympiques, quand nous verrons ces épreuves, nous puissions mieux comprendre",
+      "Que l’ensemble des journalistes francophones et que l’ensemble du public francophone puissent comprendre, tout simplement, les images",
+      "les définitions que l’on donnera, les mots que nous proposerons, seront des mots plutôt français"
+    ]
+  },
+  {
+    "question_no": 29,
+    "question": "Pourquoi la démocratie participative est-elle parfois perçue comme un obstacle à la démocratie représentative selon Pauline Véron ?",
+    "options": [
+      "Elle permet aux citoyens de prendre des décisions à la place des élus.",
+      "Elle entre en concurrence avec la prise de décision des élus.",
+      "Elle exclut les citoyens de la prise de décision politique.",
+      "Elle rend les processus décisionnels plus longs et compliqués."
+    ],
+    "audio_transcript": "Donc, Pauline Véron, vous avez commencé à évoquer Démocratie Ouverte, dont vous êtes la coprésidente. Je vais citer ce qu’il y a écrit sur votre site. La raison d’être de Démocratie Ouverte, cette association : « Démocratie Ouverte œuvre à la transformation démocratique de nos institutions et de nos orientations afin de relever les défis structurants du XXIe siècle. » C’est très ambitieux. — Ça, ça se traduit comment ? — Ça se traduit par un accompagnement des acteurs publics qui veulent faire plus de démocratie participative. Donc nous accompagnons des régions, des villes, des départements qui initient des dispositifs du type budget participatif, convention citoyenne locale ou nouvelle gouvernance. Par exemple, des villes qui réfléchissent à la façon dont elles peuvent prendre des décisions, à la fois en interne — entre élus et agents — mais aussi avec les citoyens. Donc, nous expérimentons, nous proposons de nouvelles formes de participation citoyenne, parce que nous pensons — et nous travaillons avec de nombreux élus (moi-même, j’ai été élue pendant pas mal d’années, où j’ai pu mettre en œuvre des dispositifs de participation citoyenne) — que cela fonctionne sur le terrain. Nous voyons que, quand on met en place des dispositifs de participation citoyenne — à condition qu’ils soient faits en respectant un certain nombre de critères de qualité (parce que parfois, quand ce n’est pas très bien fait, ça peut être un peu déceptif, et ça se retourne alors contre la démocratie participative) — quand c’est bien fait, c’est un allié de la démocratie représentative. Et je vous rejoins tout à fait quand vous dites que certains parlementaires ont parfois l’impression que la démocratie participative s’oppose à la démocratie représentative. Ce n’est pas du tout le cas. La participation permet au contraire de mieux comprendre comment les décisions sont prises, d’y participer, de donner son point de vue, et d’être entendu. Jamais — je le dis — nous n’avons rencontré de citoyens, dans ces dispositifs, qui souhaitaient se substituer aux élus pour prendre les décisions à leur place. Et ils sont nombreux, ces citoyens, à participer justement à ces démarches, quand on leur en donne les moyens. — Est-ce qu’il y a des décisions qui aboutissent ? — Oui, tout à fait. Par exemple, à travers les budgets participatifs, des votes sont organisés sur des propositions faites par les citoyens, qui sont ensuite mises en œuvre par les communes, alors même qu’elles n’étaient pas proposées initialement par la collectivité. Donc, évidemment, il faut se donner les moyens d’aller chercher les gens dans les quartiers, de réfléchir à une méthode, pour permettre à tout le monde de participer. Mais si on s’en donne vraiment les moyens, et qu’il y a une volonté politique claire, alors on voit venir — notamment — les jeunes, ou des personnes issues des quartiers populaires, qui ont encore plus besoin que d’autres que les politiques publiques s’adressent à eux. Et eux savent ce dont ils ont besoin. Dans ce cas-là, oui, ça fonctionne bien.",
+    "right_option": "B",
+    "highlights": [
+      "certains parlementaires ont parfois l’impression que la démocratie participative s’oppose à la démocratie représentative",
+      "Ce n’est pas du tout le cas",
+      "Jamais — je le dis — nous n’avons rencontré de citoyens, dans ces dispositifs, qui souhaitaient se substituer aux élus pour prendre les décisions à leur place",
+      "La participation permet au contraire de mieux comprendre comment les décisions sont prises",
+      "c’est un allié de la démocratie représentative"
+    ]
+  },
+  {
+    "question_no": 30,
+    "question": "Quels sont les facteurs essentiels pour garantir le succès de la démocratie participative, selon l’intervenante ?",
+    "options": [
+      "Impliquer des experts en politique pour valider les propositions citoyennes.",
+      "Mettre en place des critères de qualité et impliquer activement les citoyens, notamment les jeunes et les habitants des quartiers populaires.",
+      "Limiter la participation aux citoyens les plus qualifiés dans les domaines concernés.",
+      "Utiliser exclusivement des plateformes numériques pour simplifier la participation."
+    ],
+    "audio_transcript": "Donc, Pauline Véron, vous avez commencé à évoquer Démocratie Ouverte, dont vous êtes la coprésidente. Je vais citer ce qu’il y a écrit sur votre site. La raison d’être de Démocratie Ouverte, cette association : « Démocratie Ouverte œuvre à la transformation démocratique de nos institutions et de nos orientations afin de relever les défis structurants du XXIe siècle. » C’est très ambitieux. — Ça, ça se traduit comment ? — Ça se traduit par un accompagnement des acteurs publics qui veulent faire plus de démocratie participative. Donc nous accompagnons des régions, des villes, des départements qui initient des dispositifs du type budget participatif, convention citoyenne locale ou nouvelle gouvernance. Par exemple, des villes qui réfléchissent à la façon dont elles peuvent prendre des décisions, à la fois en interne — entre élus et agents — mais aussi avec les citoyens. Donc, nous expérimentons, nous proposons de nouvelles formes de participation citoyenne, parce que nous pensons — et nous travaillons avec de nombreux élus (moi-même, j’ai été élue pendant pas mal d’années, où j’ai pu mettre en œuvre des dispositifs de participation citoyenne) — que cela fonctionne sur le terrain. Nous voyons que, quand on met en place des dispositifs de participation citoyenne — à condition qu’ils soient faits en respectant un certain nombre de critères de qualité (parce que parfois, quand ce n’est pas très bien fait, ça peut être un peu déceptif, et ça se retourne alors contre la démocratie participative) — quand c’est bien fait, c’est un allié de la démocratie représentative. Et je vous rejoins tout à fait quand vous dites que certains parlementaires ont parfois l’impression que la démocratie participative s’oppose à la démocratie représentative. Ce n’est pas du tout le cas. La participation permet au contraire de mieux comprendre comment les décisions sont prises, d’y participer, de donner son point de vue, et d’être entendu. Jamais — je le dis — nous n’avons rencontré de citoyens, dans ces dispositifs, qui souhaitaient se substituer aux élus pour prendre les décisions à leur place. Et ils sont nombreux, ces citoyens, à participer justement à ces démarches, quand on leur en donne les moyens. — Est-ce qu’il y a des décisions qui aboutissent ? — Oui, tout à fait. Par exemple, à travers les budgets participatifs, des votes sont organisés sur des propositions faites par les citoyens, qui sont ensuite mises en œuvre par les communes, alors même qu’elles n’étaient pas proposées initialement par la collectivité. Donc, évidemment, il faut se donner les moyens d’aller chercher les gens dans les quartiers, de réfléchir à une méthode, pour permettre à tout le monde de participer. Mais si on s’en donne vraiment les moyens, et qu’il y a une volonté politique claire, alors on voit venir — notamment — les jeunes, ou des personnes issues des quartiers populaires, qui ont encore plus besoin que d’autres que les politiques publiques s’adressent à eux. Et eux savent ce dont ils ont besoin. Dans ce cas-là, oui, ça fonctionne bien.",
+    "right_option": "B",
+    "highlights": [
+      "à condition qu’ils soient faits en respectant un certain nombre de critères de qualité",
+      "quand ce n’est pas très bien fait, ça peut être un peu déceptif, et ça se retourne alors contre la démocratie participative",
+      "quand c’est bien fait, c’est un allié de la démocratie représentative",
+      "il faut se donner les moyens d’aller chercher les gens dans les quartiers",
+      "de réfléchir à une méthode, pour permettre à tout le monde de participer",
+      "si on s’en donne vraiment les moyens, et qu’il y a une volonté politique claire",
+      "on voit venir — notamment — les jeunes, ou des personnes issues des quartiers populaires",
+      "qui ont encore plus besoin que d’autres que les politiques publiques s’adressent à eux",
+      "Et eux savent ce dont ils ont besoin",
+      "ils sont nombreux, ces citoyens, à participer justement à ces démarches, quand on leur en donne les moyens"
+    ]
+  },
+  {
+    "question_no": 31,
+    "question": "Quel obstacle est évoqué dans la mise en place des politiques pro-vélo ?",
+    "options": [
+      "La régulation des dispositifs financiers soutenant l'acquisition de vélos à assistance électrique.",
+      "La difficile cohabitation des usagers cyclistes et piétons au sein de certains périmètres urbains.",
+      "L'impossibilité pour les municipalités de déployer des infrastructures adéquates à la pratique cycliste.",
+      "L'opposition manifeste d'une partie de la population face aux initiatives écologiques imposées."
+    ],
+    "audio_transcript": "Avec la montée inexorable des préoccupations liées à la durabilité, les municipalités se trouvent de plus en plus poussées à encourager des pratiques écologiques au sein de leur territoire. Un exemple emblématique est la promotion de l'usage du vélo, devenu central dans les politiques urbaines modernes. Outre l'aménagement d'infrastructures cyclables telles que des pistes sécurisées, certaines villes vont jusqu'à offrir des incitations financières pour l'acquisition de vélos électriques, plus coûteux. Si ces efforts tendent à réduire les émissions de gaz à effet de serre et à décongestionner les espaces urbains, ils posent néanmoins des défis en termes de cohabitation avec les piétons, notamment dans les zones où l'espace est partagé.",
+    "right_option": "B",
+    "highlights": [
+      "ils posent néanmoins des défis en termes de cohabitation avec les piétons",
+      "notamment dans les zones où l'espace est partagé"
+    ]
+  },
+  {
+    "question_no": 32,
+    "question": "Quel est l’un des principaux désavantages du télétravail ?",
+    "options": [
+      "La réduction de la marge de manœuvre des salariés en termes d'organisation.",
+      "Le déclin observable de l'efficacité au sein des structures professionnelles.",
+      "L'isolement croissant, entraînant la raréfaction des dynamiques sociales entre collègues.",
+      "L'éradication complète des rencontres professionnelles en présentiel."
+    ],
+    "audio_transcript": "Le télétravail, autrefois marginal et souvent perçu comme une modalité exceptionnelle, s'est imposé comme une norme durable dans le monde professionnel post-pandémie. Cette transformation radicale, bien que plébiscitée pour la flexibilité qu'elle offre aux employés, n'est pas sans conséquence sur la dynamique de l'entreprise. En effet, bien que le télétravail ait démontré des effets positifs sur la productivité et le bien-être individuel, il est aussi la source d'un isolement croissant chez certains collaborateurs, réduisant ainsi les interactions spontanées qui favorisaient autrefois la créativité et l'esprit d'équipe.",
+    "right_option": "C",
+    "highlights": [
+      "n'est pas sans conséquence sur la dynamique de l'entreprise",
+      "il est aussi la source d'un isolement croissant chez certains collaborateurs",
+      "réduisant ainsi les interactions spontanées qui favorisaient autrefois la créativité et l'esprit d'équipe"
+    ]
+  },
+  {
+    "question_no": 33,
+    "question": "Quel enjeu primordial entrave l’essor des énergies renouvelables ?",
+    "options": [
+      "L'insuffisance d'alternatives viables aux sources énergétiques traditionnelles.",
+      "La modernisation des systèmes d'infrastructures pour assurer une continuité stable dans la distribution.",
+      "La réticence marquée de certaines populations à l'égard de l'implantation du solaire et de l'éolien.",
+      "La difficulté accrue à mobiliser des financements adéquats pour soutenir ces nouvelles structures énergétiques."
+    ],
+    "audio_transcript": "La montée en puissance des énergies renouvelables, bien qu'encourageante, pose de nombreuses questions quant à la gestion des réseaux électriques. En effet, l'intégration massive de sources intermittentes comme l'éolien ou le solaire bouleverse les paradigmes classiques de la production et de la distribution de l'énergie. À cela s'ajoutent les problématiques de stockage de l'électricité excédentaire et la nécessité de moderniser les infrastructures vieillissantes. Le défi est donc de taille : garantir une fourniture stable et continue tout en encourageant une transition écologique rapide et ambitieuse.",
+    "right_option": "B",
+    "highlights": [
+      "l'intégration massive de sources intermittentes comme l'éolien ou le solaire bouleverse les paradigmes classiques de la production et de la distribution de l'énergie",
+      "les problématiques de stockage de l'électricité excédentaire",
+      "la nécessité de moderniser les infrastructures vieillissantes",
+      "Le défi est donc de taille : garantir une fourniture stable et continue",
+      "gestion des réseaux électriques"
+    ]
+  },
+  {
+    "question_no": 34,
+    "question": "D’après ce qui est dit, l’une des inquiétudes liées à l’essor des plateformes éducatives en ligne est :",
+    "options": [
+      "Les difficultés rencontrées par les enseignants pour se familiariser avec l'usage des outils numériques sophistiqués.",
+      "L'éventualité d'une érosion des méthodes pédagogiques conventionnelles.",
+      "Le péril d'une exacerbation des disparités socio-économiques résultant de l'inégalité d'accès aux technologies numériques.",
+      "Les dépenses considérables associées à l'accès aux plateformes éducatives en ligne."
+    ],
+    "audio_transcript": "Les transformations sociétales observées au cours des dernières décennies, notamment l'explosion des technologies numériques, ont considérablement remodelé le paysage de l'éducation. L'accès massif à l'information facilité par Internet et l'apparition de plateformes éducatives en ligne ont profondément modifié la manière dont les savoirs sont transmis. Si ces outils permettent un apprentissage plus flexible et personnalisé, ils soulèvent aussi des inquiétudes quant à la qualité de l'enseignement, à l'accompagnement des élèves et à la fracture numérique qui, pour certains, pourrait exacerber les inégalités existantes.",
+    "right_option": "C",
+    "highlights": [
+      "ils soulèvent aussi des inquiétudes quant à",
+      "à la qualité de l'enseignement, à l'accompagnement des élèves et à la fracture numérique",
+      "la fracture numérique qui, pour certains, pourrait exacerber les inégalités existantes"
+    ]
+  },
+  {
+    "question_no": 35,
+    "question": "D’après ce qui est dit, un obstacle majeur à la transition vers une agriculture durable est :",
+    "options": [
+      "L'opposition économique face aux réformes indispensables.",
+      "Le manque de volonté politique pour réduire la productivité agricole.",
+      "La réticence des consommateurs à adopter des produits locaux.",
+      "La faiblesse des systèmes agricoles traditionnels."
+    ],
+    "audio_transcript": "Alors que les débats sur la souveraineté alimentaire occupent de plus en plus de place sur la scène internationale, il est crucial de reconnaître les fragilités structurelles des systèmes agricoles contemporains. Les modèles agricoles intensifs, qui visent à maximiser la productivité au détriment de la durabilité, sont souvent pointés du doigt pour leur impact environnemental dévastateur. Pourtant, une transition vers une agriculture plus respectueuse de l'environnement, axée sur la résilience et la diversité des cultures, se heurte à des résistances, notamment économiques, car elle implique des réformes profondes et un soutien étatique renforcé.",
+    "right_option": "A",
+    "highlights": [
+      "une transition vers une agriculture plus respectueuse de l'environnement, axée sur la résilience et la diversité des cultures, se heurte à des résistances",
+      "se heurte à des résistances, notamment économiques",
+      "notamment économiques",
+      "car elle implique des réformes profondes et un soutien étatique renforcé"
+    ]
+  },
+  {
+    "question_no": 36,
+    "question": "Selon la critique, un des défauts majeurs du film est :",
+    "options": [
+      "La photographie trop stylisée et irréaliste.",
+      "La flagrante légèreté du scénario et des archétypes des personnages.",
+      "Le manque d'originalité dans l'usage de la bande sonore.",
+      "L'excès de références aux maîtres du cinéma d'action."
+    ],
+    "audio_transcript": "Le dernier long-métrage de Xavier Dolan, bien qu'ambitieux dans son approche visuelle, ne parvient pas tout à fait à transcender ses influences. Il oscille constamment entre hommage et imitation des grands maîtres du cinéma d'auteur. Si la photographie est indéniablement saisissante, capturant avec brio l'intensité émotionnelle des personnages, le scénario, quant à lui, reste superficiel. On peine à s'attacher à ses protagonistes désincarnés, dont les motivations manquent de profondeur. Pourtant, la mise en scène méticuleuse de Dolan et son usage audacieux de la bande sonore témoignent de son indéniable talent.",
+    "right_option": "B",
+    "highlights": [
+      "ne parvient pas tout à fait à transcender ses influences",
+      "oscille constamment entre hommage et imitation",
+      "Si la photographie est indéniablement saisissante",
+      "le scénario, quant à lui, reste superficiel",
+      "On peine à s'attacher à ses protagonistes désincarnés",
+      "dont les motivations manquent de profondeur",
+      "indéniable talent"
+    ]
+  },
+  {
+    "question_no": 37,
+    "question": "Selon l’auteur, l’une des principales difficultés dans l’écriture de son dernier roman était :",
+    "options": [
+      "L'absence de connexions autobiographiques significatives avec le fil narratif.",
+      "La nécessité de forger des personnages à la fois authentiques et psychologiquement crédibles.",
+      "La maîtrise des complexités thématiques tout en naviguant dans une structure narrative non linéaire.",
+      "L'élaboration de dialogues philosophiques à la fois convaincants et d'une profondeur intellectuelle substantielle."
+    ],
+    "audio_transcript": "Lors de cet entretien, l'écrivain Paul Nacker revient sur son processus créatif pour son dernier roman, Les Ombres du passé. Contrairement à ses précédentes œuvres, marquées par une forte composante autobiographique, ce récit s'aventure sur des terrains plus philosophiques. Nacker y interroge le poids du passé et la manière dont les souvenirs façonnent notre identité. Il admet que la rédaction de ce livre fut particulièrement laborieuse, non seulement en raison de la complexité thématique, mais aussi du défi que représentait l'articulation d'un récit non linéaire. Pourtant, Nacker estime que cette structure était nécessaire.",
+    "right_option": "C",
+    "highlights": [
+      "la rédaction de ce livre fut particulièrement laborieuse",
+      "non seulement en raison de la complexité thématique",
+      "mais aussi du défi que représentait l'articulation d'un récit non linéaire"
+    ]
+  },
+  {
+    "question_no": 38,
+    "question": "La force du spectacle d’Alain Durand réside dans :",
+    "options": [
+      "son utilisation d'un humour simple et sans subtilité.",
+      "sa capacité à rendre des situations banales comiques tout en abordant des sujets graves.",
+      "son approche unique de la critique politique directe.",
+      "l'absence totale de thèmes sérieux dans ses sketchs."
+    ],
+    "audio_transcript": "Dans son nouveau One Man Show, Rire pour ne pas pleurer, l'humoriste Alain Durand explore avec une ironie mordante les absurdités du quotidien. Sa capacité à transformer des situations banales, comme faire la queue à la poste ou chercher une place de parking, en moments de pure comédie est tout simplement remarquable. Mais au-delà de ses observations légères, Durand ne se prive pas d'aborder des sujets plus sérieux. Il parvient à critiquer avec finesse la bureaucratie, la politique et même la technologie moderne, tout en gardant un ton délibérément léger. Ce contraste entre des thèmes graves et son humour décalé fait de ce spectacle une réussite incontestable.",
+    "right_option": "B",
+    "highlights": [
+      "Sa capacité à transformer des situations banales, comme faire la queue à la poste ou chercher une place de parking, en moments de pure comédie est tout simplement remarquable",
+      "au-delà de ses observations légères, Durand ne se prive pas d'aborder des sujets plus sérieux",
+      "Il parvient à critiquer avec finesse la bureaucratie, la politique et même la technologie moderne, tout en gardant un ton délibérément léger",
+      "Ce contraste entre des thèmes graves et son humour décalé fait de ce spectacle une réussite incontestable"
+    ]
+  },
+  {
+    "question_no": 39,
+    "question": "Selon la critique, un aspect potentiellement déroutant de la pièce est :",
+    "options": [
+      "le manque de dialogues entre les personnages.",
+      "le rythme lent et les pauses prolongées dans le texte.",
+      "l'utilisation excessive d'effets spéciaux visuels.",
+      "la surabondance de personnages secondaires."
+    ],
+    "audio_transcript": "Cette pièce propose une réflexion poignante sur la solitude et l'incommunicabilité. Le décor minimaliste, constitué uniquement de quelques chaises et d'un éclairage tamisé, renforce le sentiment de vide et d'isolement des personnages. Si la lenteur du rythme peut désorienter certains spectateurs, elle est nécessaire pour accentuer le malaise que la pièce cherche à susciter. Les performances des acteurs sont d'une justesse remarquable, capturant chaque nuance d'émotion avec une intensité déconcertante. Toutefois, l'abstraction du texte, avec ses longues pauses et ses dialogues fragmentés, pourrait en rebuter plus d’un.",
+    "right_option": "B",
+    "highlights": [
+      "Si la lenteur du rythme peut désorienter certains spectateurs",
+      "l'abstraction du texte, avec ses longues pauses et ses dialogues fragmentés, pourrait en rebuter plus d’un"
+    ]
+  },
+  {
+    "question_no": 40,
+    "question": "Selon le réalisateur, quel est l’objectif de sa décision de déconstruire la temporalité dans son film ?",
+    "options": [
+      "Engendrer une confusion délibérée au sein de l'intrigue narrative.",
+      "Illustrer la complexité intrinsèque et la nature évolutive de la réalité contemporaine.",
+      "Évoquer des vérités universelles et intemporelles inhérentes à la société moderne.",
+      "Faciliter l'appréhension cognitive du spectateur."
+    ],
+    "audio_transcript": "Interrogé sur son dernier film Les Illusions perdues, le réalisateur Marc Antoine Leroy revient sur ses choix esthétiques et narratifs. Il explique que son objectif principal était de déconstruire les codes traditionnels du cinéma narratif, en jouant avec la temporalité et en refusant une résolution claire à l'intrigue. Pour lui, cette approche reflète mieux la complexité de la réalité moderne, où tout est constamment en mouvement et où il n'existe plus de vérité absolue. Leroy admet cependant que cette volonté d'expérimentation a parfois été mal reçue par le public, certains critiques lui reprochant une narration trop confuse.",
+    "right_option": "B",
+    "highlights": [
+      "son objectif principal était de déconstruire les codes traditionnels du cinéma narratif",
+      "en jouant avec la temporalité",
+      "cette approche reflète mieux la complexité de la réalité moderne",
+      "où tout est constamment en mouvement",
+      "où il n'existe plus de vérité absolue"
+    ]
+  }
+]

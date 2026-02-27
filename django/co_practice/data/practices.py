@@ -19,6 +19,21 @@ def get_practice_folder(slug):
     return CO_WEB_CONTENT / f'practice_{slug}'
 
 
+def get_audio_mode(slug):
+    """Returns ('full', 'full_raw/filename.mp3') or ('segments', None).
+    Segments take priority over full raw audio if both are present.
+    """
+    audio_dir = get_practice_folder(slug) / 'audio'
+    if list(audio_dir.glob('segment_*.mp3')):
+        return 'segments', None
+    full_raw_dir = audio_dir / 'full_raw'
+    if full_raw_dir.is_dir():
+        mp3s = list(full_raw_dir.glob('*.mp3'))
+        if mp3s:
+            return 'full', f'full_raw/{mp3s[0].name}'
+    return 'segments', None
+
+
 def get_json_file(slug):
     folder = get_practice_folder(slug)
     matches = list(folder.glob('*.json'))
@@ -28,7 +43,7 @@ def get_json_file(slug):
 def discover_practices():
     """Return sorted list of available practice dicts (only folders with a JSON file)."""
     practices = []
-    for folder in sorted(CO_WEB_CONTENT.glob('practice_*')):
+    for folder in sorted(CO_WEB_CONTENT.glob('practice_*'), key=lambda p: int(p.name[len('practice_'):])):
         if not folder.is_dir():
             continue
         if not list(folder.glob('*.json')):

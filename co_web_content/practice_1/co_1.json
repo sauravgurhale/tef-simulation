@@ -1,0 +1,736 @@
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_1_images/co-1-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : Je cherche mon billet d'avion, tu ne l'aurais pas vu Mais si juste devant toi là sur ton livre.",
+    "right_option": "A",
+    "highlights": [
+      "billet d'avion",
+      "sur ton livre"
+    ]
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_1_images/co-1-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : Vous n'avez pas eu trop chaud pendant la balade Heureusement non, on a profité de la fraîcheur de la forêt.",
+    "right_option": "A",
+    "highlights": [
+      "balade",
+      "forêt",
+      "fraîcheur de la forêt"
+    ]
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_1_images/co-1-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : Alors tu ne donnes plus de nouvelles depuis ton départ à la retraite Oui c'est vrai et bien tout va bien je me suis mis à la natation ça conserve.",
+    "right_option": "C",
+    "highlights": [
+      "tu ne donnes plus de nouvelles depuis ton départ à la retraite",
+      "je me suis mis à la natation"
+    ]
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_1_images/co-1-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Transcription : Alors tu es allée à la brocante dimanche dernier Tu as fait de jolies trouvailles Oui j'ai enfin trouvé les verres à pied que je cherchais depuis des mois.",
+    "right_option": "B",
+    "highlights": [
+      "à la brocante",
+      "dimanche dernier",
+      "les verres à pied"
+    ]
+  },
+  {
+    "question_no": 5,
+    "question": "Ce message annonce :",
+    "options": [
+      "Un changement de destination.",
+      "Un problème technique.",
+      "Une modification d'horaire.",
+      "L'arrivée d'un train."
+    ],
+    "audio_transcript": "Transcription : Avis aux voyageurs: le train numéro quatre-vingt-huit cinquante-six à destination de toulouse départ initialement prévu à 10 heures trente-six partira voie 5 avec un retard de 10 minutes.",
+    "right_option": "C",
+    "highlights": [
+      "départ initialement prévu à 10 heures trente-six",
+      "partira",
+      "avec un retard de 10 minutes"
+    ]
+  },
+  {
+    "question_no": 6,
+    "question": "Ce message est :",
+    "options": [
+      "Une bande-annonce d'un film.",
+      "Un bulletin météorologique.",
+      "Une campagne de santé.",
+      "Une annonce publicitaire."
+    ],
+    "audio_transcript": "Transcription : À l'occasion du mois sans tabac, le ministère de la santé vous offre un kit pour vous aider à arrêter. Commandez-le sur tabac-info-service.fr en octobre.",
+    "right_option": "C",
+    "highlights": [
+      "À l'occasion du mois sans tabac",
+      "le ministère de la santé",
+      "vous offre un kit pour vous aider à arrêter",
+      "tabac-info-service.fr"
+    ]
+  },
+  {
+    "question_no": 7,
+    "question": "Ce message est diffusé pour :",
+    "options": [
+      "Prévenir d'un risque.",
+      "Proposer un service.",
+      "Signaler un incident.",
+      "Annoncer un contrôle."
+    ],
+    "audio_transcript": "Transcription : Arrêtons ensemble. Attention des pickpockets peuvent être présents à bord de votre train nous vous invitons à surveiller vos effets personnels Si vous êtes témoin d'un fait suspect, veuillez le signaler au contrôleur qui reste à votre disposition voiture 4 ou au personnel des guichets hangar.",
+    "right_option": "A",
+    "highlights": [
+      "des pickpockets peuvent être présents à bord de votre train",
+      "nous vous invitons à surveiller vos effets personnels",
+      "Si vous êtes témoin d'un fait suspect, veuillez le signaler"
+    ]
+  },
+  {
+    "question_no": 8,
+    "question": "Ce message est diffusé pour :",
+    "options": [
+      "Annoncer un événement.",
+      "Inviter les personnes à s'inscrire.",
+      "Informer du début d'une animation.",
+      "Prévenir d'un changement."
+    ],
+    "audio_transcript": "Transcription : En raison d'un problème technique nous vous informons que le spectacle de contes pour les enfants à partir de 3 ans est reporté à la semaine prochaine Les personnes souhaitant annuler leurs réservations sont priées de se présenter à l'accueil de la médiathèque.",
+    "right_option": "D",
+    "highlights": [
+      "En raison d'un problème technique",
+      "nous vous informons que",
+      "le spectacle de contes pour les enfants à partir de 3 ans est reporté à la semaine prochaine",
+      "Les personnes souhaitant annuler leurs réservations"
+    ]
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle pour :",
+    "options": [
+      "Demander un service.",
+      "Informer du menu.",
+      "Inviter à dîner.",
+      "Proposer une sortie."
+    ],
+    "audio_transcript": "Transcription : Allô ma chérie, c’est maman. Il n’y a plus de pain à la maison, tu peux passer à la boulangerie, s’il te plaît ? Achète quelques gâteaux aussi. Bisous, à ce soir !",
+    "right_option": "A",
+    "highlights": [
+      "tu peux passer à la boulangerie, s’il te plaît",
+      "Il n’y a plus de pain à la maison",
+      "Achète quelques gâteaux aussi"
+    ]
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour :",
+    "options": [
+      "Demander un service.",
+      "Prendre un rendez-vous.",
+      "Adresser un remerciement.",
+      "Faire un reproche."
+    ],
+    "audio_transcript": "Transcription : Salut Mal, c’est Zacharie. Tu pourrais passer chez moi pour me rapporter mon livre d’anglais, s’il te plaît ? Je l’ai oublié sur ton bureau hier quand je suis venu te voir. Merci !",
+    "right_option": "A",
+    "highlights": [
+      "Tu pourrais passer chez moi",
+      "pour me rapporter mon livre d’anglais",
+      "s’il te plaît"
+    ]
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle pour :",
+    "options": [
+      "Proposer son aide.",
+      "Prévenir de son absence.",
+      "Demander un service.",
+      "Vérifier un emploi du temps."
+    ],
+    "audio_transcript": "Transcription : Salut Wang, c’est Tina. Je t’appelle parce que j’ai oublié tes bouquins de biologie chez toi. Tu pourrais me les rapporter demain matin au cours de français ? Merci, et à demain !",
+    "right_option": "C",
+    "highlights": [
+      "Je t’appelle parce que",
+      "j’ai oublié tes bouquins de biologie chez toi",
+      "Tu pourrais me les rapporter demain matin au cours de français"
+    ]
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle pour :",
+    "options": [
+      "Confirmer un rendez-vous.",
+      "Proposer un entretien.",
+      "Offrir un emploi.",
+      "Demander une information."
+    ],
+    "audio_transcript": "Transcription : Bonjour, Johann Boun à l’appareil de l’ambassade du Canada à Bruxelles. Votre candidature au poste d’interprète a retenu notre attention et nous souhaiterions vous rencontrer pour en discuter. Pourriez-vous me rappeler dès que possible pour convenir d’une date ? Merci et bonne journée.",
+    "right_option": "B",
+    "highlights": [
+      "Votre candidature au poste d’interprète a retenu notre attention",
+      "nous souhaiterions vous rencontrer",
+      "pour en discuter",
+      "Pourriez-vous me rappeler dès que possible pour convenir d’une date"
+    ]
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle pour :",
+    "options": [
+      "Proposer une activité.",
+      "Demander un service.",
+      "Fixer un rendez-vous.",
+      "Présenter un produit."
+    ],
+    "audio_transcript": "Transcription : Sophie, j’ai prévu de faire une chasse au trésor avec Paul, Lucas et Eva. Ce sera sans doute samedi prochain dans l’après-midi. Est-ce que ça te tente ? Rappelle-moi, je pourrai t’expliquer de quoi il s’agit exactement. Bisous !",
+    "right_option": "A",
+    "highlights": [
+      "j’ai prévu de faire une chasse au trésor",
+      "Est-ce que ça te tente ?",
+      "je pourrai t’expliquer de quoi il s’agit exactement"
+    ]
+  },
+  {
+    "question_no": 14,
+    "question": "La personne appelle pour :",
+    "options": [
+      "Inviter à un événement.",
+      "Présenter des nouveautés.",
+      "Convoquer à une réunion.",
+      "Fixer un rendez-vous."
+    ],
+    "audio_transcript": "Transcription : Madame Rioux, vous avez gagné un déjeuner pour deux personnes au spa de Cabourg lundi prochain. Ce repas sera suivi d’une animation vous permettant de découvrir l’ensemble de notre gamme de produits cosmétiques. Vous allez recevoir un courriel de confirmation.",
+    "right_option": "A",
+    "highlights": [
+      "vous avez gagné un déjeuner pour deux personnes",
+      "au spa de Cabourg lundi prochain",
+      "Ce repas sera suivi d’une animation",
+      "vous permettant de découvrir l’ensemble de notre gamme de produits cosmétiques",
+      "Vous allez recevoir un courriel de confirmation"
+    ]
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée :",
+    "options": [
+      "Est totalement pour.",
+      "Est plutôt pour.",
+      "Est totalement contre.",
+      "Ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : C'est une option qu'on devrait tous avoir. Moi, je suis libérale. Je pense que c'est quelque chose qui devrait être accessible à tout le monde.",
+    "right_option": "A",
+    "highlights": [
+      "C'est une option qu'on devrait tous avoir",
+      "Moi, je suis libérale",
+      "Je pense que c'est quelque chose qui devrait être accessible à tout le monde"
+    ]
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée :",
+    "options": [
+      "Est totalement pour.",
+      "Est plutôt pour.",
+      "Est totalement contre.",
+      "Ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : C'est vrai que personnellement je ne le ferai pas ça me fait peur j'ai quelque réticence mais chacun est libre de choisir sa propre famille",
+    "right_option": "B",
+    "highlights": [
+      "C'est vrai que personnellement je ne le ferai pas",
+      "ça me fait peur",
+      "j'ai quelque réticence",
+      "mais",
+      "chacun est libre de choisir sa propre famille"
+    ]
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée :",
+    "options": [
+      "Est totalement pour.",
+      "Est plutôt pour.",
+      "Est totalement contre.",
+      "Ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : Pour moi, la famille, c'est vraiment inutile. En fait, je ne comprends pas qu'on ait des enfants adoptés ou biologiques avec ce monde qui devient fou.",
+    "right_option": "C",
+    "highlights": [
+      "Pour moi, la famille, c'est vraiment inutile",
+      "je ne comprends pas qu'on ait des enfants adoptés ou biologiques avec ce monde qui devient fou"
+    ]
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée :",
+    "options": [
+      "Est totalement pour.",
+      "Est pour à certaines conditions.",
+      "Est totalement contre.",
+      "Ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : L’évolution ne va pas dans le bon sens. Les personnes qui habitent loin de la ville n’ont pas vraiment d’autre solution, c’est injuste pour elles.",
+    "right_option": "C",
+    "highlights": [
+      "L’évolution ne va pas dans le bon sens",
+      "n’ont pas vraiment d’autre solution",
+      "c’est injuste pour elles"
+    ]
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée :",
+    "options": [
+      "Est totalement pour.",
+      "Est pour à certaines conditions.",
+      "Est totalement contre.",
+      "Ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : Je trouve que c’est une bonne idée, mais il faudrait d’abord que les routes soient mieux aménagées pour les vélos, par exemple.",
+    "right_option": "B",
+    "highlights": [
+      "Je trouve que c’est une bonne idée",
+      "mais",
+      "il faudrait d’abord que les routes soient mieux aménagées pour les vélos"
+    ]
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée :",
+    "options": [
+      "Est totalement pour.",
+      "Est pour à certaines conditions.",
+      "Est totalement contre.",
+      "Ne se prononce pas."
+    ],
+    "audio_transcript": "Transcription : La plupart des villes limitent déjà l’accès aux voitures, ce qui est une très bonne chose pour la qualité de vie et pour l’environnement.",
+    "right_option": "A",
+    "highlights": [
+      "La plupart des villes limitent déjà l’accès aux voitures",
+      "ce qui est une très bonne chose",
+      "pour la qualité de vie",
+      "pour l’environnement"
+    ]
+  },
+  {
+    "question_no": 21,
+    "question": "Cette chronique :",
+    "options": [
+      "Encourage un rythme de travail ralenti.",
+      "Questionne la place du travail dans nos vies.",
+      "Révèle un paradoxe lié à la charge de travail.",
+      "Dénonce des rythmes de travail intenses."
+    ],
+    "audio_transcript": "Transcription : L'ennui au travail, ça vous parle de livres paraissent à quelques jours d'intervalle pour décrire les ravages de ce nouveau syndrome. Un mal aux conséquences redoutables et qui concernerait pas moins de 30 pour 100 des salariés. Être payé à ne rien faire, pour la plupart des gens, c'est quand même immoral. C'est la honte. On ne peut pas en parler autour de soi et tous les témoignages rapportés par les livres le disent. Ne pas travailler, ça fatigue. Les salariés dépossédés de leur travail sont épuisés. Ils n'arrivent plus à rien faire, même la plus petite tâche qu'on leur confie. Ils se déshabituent du travail. Les conséquences peuvent être graves, dépression, risque d'accident cardiovasculaire accru, on parle même de risque de tentatives de suicide. L'autre conséquence c'est qu'au bout d'un certain temps, ces chômeurs avec un boulot deviennent inemployables.",
+    "right_option": "C",
+    "highlights": [
+      "Être payé à ne rien faire",
+      "Ne pas travailler, ça fatigue",
+      "Les salariés dépossédés de leur travail sont épuisés",
+      "ces chômeurs avec un boulot deviennent inemployables",
+      "qui concernerait pas moins de 30 pour 100 des salariés"
+    ]
+  },
+  {
+    "question_no": 22,
+    "question": "Le projet évoqué vise à :",
+    "options": [
+      "Allier écologie et développement économique.",
+      "Mettre Dakar à la pointe de ce secteur économique.",
+      "Moderniser les infrastructures publiques.",
+      "Faire connaître les métiers liés à l'environnement."
+    ],
+    "audio_transcript": "Transcription : Comment éliminer les déchets en plastique quand votre ville ne dispose d'aucun système de recyclage en les transformant en pavés L'idée vient de 4 jeunes sénégalais de Dakar. En donnant une seconde vie aux déchets plastiques, ils veulent préserver l'environnement, mais aussi créer des emplois. Bien qu'artisanal, le procédé de transformation produit des pavés résistants destinés à recouvrer les cours ou les trottoirs. S'il reste légèrement plus cher que les pavés en ciment, c'est surtout la faible sensibilisation de la population aux questions de dégradation de l'environnement qui freine les ventes. Pour le moment, ce sont plutôt les étrangers qui sont séduits par l'initiative. Le gouvernement belge a octroyé une bourse à ces jeunes entrepreneurs.",
+    "right_option": "A",
+    "highlights": [
+      "En donnant une seconde vie aux déchets plastiques, ils veulent préserver l'environnement, mais aussi créer des emplois",
+      "ils veulent préserver l'environnement",
+      "créer des emplois"
+    ]
+  },
+  {
+    "question_no": 23,
+    "question": "Selon l’intervenante, la justice sociale est un principe :",
+    "options": [
+      "Compris par les plus défavorisés.",
+      "Approuvé par les classes défavorisées.",
+      "Reconnu par les autorités.",
+      "Accepté universellement."
+    ],
+    "audio_transcript": "Transcription : Débuter sa carrière dans un domaine qui vous intéresse dans des milieux populaires expliquez-nous votre passion. Oui, c'était les années soixante-dix alors il était facile de travailler dans l'aide juridique. Je sais que c'est un peu un mot-valise mais c'est sincèrement de la justice sociale. Il est important d'apporter de l'aide aux personnes qui ont besoin de conseils juridiques. On pense que c'est un objectif partagé mais il est surtout compris par les plus vulnérables d'entre nous. Votre recherche se traduit-elle concrètement par des changements dans la vie des gens Oui absolument. La recherche est faite avec les gens qui ont des droits citoyens et non pas à leur insu. Si dans chaque foyer qui le souhaite, on accueillait un anthropologue ou une observatrice, on pourrait vraiment comprendre les problèmes qu'il y a dans les foyers en France. Merci pour votre temps.",
+    "right_option": "A",
+    "highlights": [
+      "c'est sincèrement de la justice sociale",
+      "Il est important d'apporter de l'aide aux personnes qui ont besoin de conseils juridiques",
+      "On pense que c'est un objectif partagé mais il est surtout compris par les plus vulnérables d'entre nous"
+    ]
+  },
+  {
+    "question_no": 24,
+    "question": "La recherche peut contribuer à la justice sociale à condition :",
+    "options": [
+      "De s'appuyer sur la psychologie.",
+      "D'impliquer la population.",
+      "De prendre en compte les inégalités.",
+      "De faire des tests en laboratoire."
+    ],
+    "audio_transcript": "Transcription : Débuter sa carrière dans un domaine qui vous intéresse dans des milieux populaires expliquez-nous votre passion. Oui, c'était les années soixante-dix alors il était facile de travailler dans l'aide juridique. Je sais que c'est un peu un mot-valise mais c'est sincèrement de la justice sociale. Il est important d'apporter de l'aide aux personnes qui ont besoin de conseils juridiques. On pense que c'est un objectif partagé mais il est surtout compris par les plus vulnérables d'entre nous. Votre recherche se traduit-elle concrètement par des changements dans la vie des gens Oui absolument. La recherche est faite avec les gens qui ont des droits citoyens et non pas à leur insu. Si dans chaque foyer qui le souhaite, on accueillait un anthropologue ou une observatrice, on pourrait vraiment comprendre les problèmes qu'il y a dans les foyers en France. Merci pour votre temps.",
+    "right_option": "B",
+    "highlights": [
+      "La recherche est faite avec les gens qui ont des droits citoyens et non pas à leur insu",
+      "Si dans chaque foyer qui le souhaite, on accueillait un anthropologue ou une observatrice, on pourrait vraiment comprendre les problèmes qu'il y a dans les foyers en France",
+      "c'est sincèrement de la justice sociale",
+      "Il est important d'apporter de l'aide aux personnes qui ont besoin de conseils juridiques"
+    ]
+  },
+  {
+    "question_no": 25,
+    "question": "L’invité souligne que :",
+    "options": [
+      "Les plaisirs de la table concernent exclusivement les classes aisées.",
+      "La joie d'un bon repas n'est pas réservée à l'élite.",
+      "L'on mange souvent mieux à la campagne qu'en ville.",
+      "Bien se nourrir devrait être un droit universel."
+    ],
+    "audio_transcript": "Transcription : Michel tremblay pour vous qui êtes philosophe le bonheur est-il de retour dans l'assiette il s'y est toujours trouvé vu par les médias l'assiette c'est le plaisir des snobs des riches urbains qui pratiquent la gastronomie le projecteur sur les tables haut de gamme ne doit pas faire oublier les petites tables dans l'ombre sur lesquelles se jouent des festins miniatures pour les gens hors champ pensez-vous que la pose du repas soit plus que jamais vitale Il est temps de conjurer cette pitoyable solitude qui se manifeste toujours dans le fait de manger tout seul auprès des gens qui eux aussi mangent seuls et se retrouvent dans l'incapacité de faire une communauté à savoir une table digne de ce nom à laquelle on échange, on rit, on vit.",
+    "right_option": "B",
+    "highlights": [
+      "il s'y est toujours trouvé",
+      "vu par les médias l'assiette c'est le plaisir des snobs des riches urbains",
+      "le projecteur sur les tables haut de gamme ne doit pas faire oublier les petites tables dans l'ombre",
+      "sur lesquelles se jouent des festins miniatures pour les gens hors champ",
+      "une table digne de ce nom à laquelle on échange, on rit, on vit"
+    ]
+  },
+  {
+    "question_no": 26,
+    "question": "L’invité :",
+    "options": [
+      "Trouve cohérent que de nos jours les gens mangent seuls.",
+      "Aimerait que le repas redevienne un moment de partage.",
+      "S'attriste de voir autant de gens sauter leur repas.",
+      "Regrette que les gens ne prennent plus le temps de manger."
+    ],
+    "audio_transcript": "Transcription : Michel tremblay pour vous qui êtes philosophe le bonheur est-il de retour dans l'assiette il s'y est toujours trouvé vu par les médias l'assiette c'est le plaisir des snobs des riches urbains qui pratiquent la gastronomie le projecteur sur les tables haut de gamme ne doit pas faire oublier les petites tables dans l'ombre sur lesquelles se jouent des festins miniatures pour les gens hors champ pensez-vous que la pose du repas soit plus que jamais vitale Il est temps de conjurer cette pitoyable solitude qui se manifeste toujours dans le fait de manger tout seul auprès des gens qui eux aussi mangent seuls et se retrouvent dans l'incapacité de faire une communauté à savoir une table digne de ce nom à laquelle on échange, on rit, on vit.",
+    "right_option": "B",
+    "highlights": [
+      "Il est temps de conjurer cette pitoyable solitude qui se manifeste toujours dans le fait de manger tout seul",
+      "se retrouvent dans l'incapacité de faire une communauté à savoir une table digne de ce nom",
+      "à laquelle on échange, on rit, on vit",
+      "pensez-vous que la pose du repas soit plus que jamais vitale",
+      "ne doit pas faire oublier les petites tables dans l'ombre sur lesquelles se jouent des festins miniatures"
+    ]
+  },
+  {
+    "question_no": 27,
+    "question": "Ce reportage traite :",
+    "options": [
+      "De la mauvaise gestion des commerces alimentaires.",
+      "Des difficultés du recyclage des déchets alimentaires.",
+      "Du problème du gaspillage des denrées périssables.",
+      "Des pratiques abusives des supermarchés."
+    ],
+    "audio_transcript": "Transcription : 2000000 de tonnes de nourriture jetée chaque année par les restaurants et les commerces, quasi 30 pour 100 de la nourriture produite perdue gâchée parce qu'on ne sait pas stocker transporté ou transformé. Marie Lévesque vous êtes responsable d'une enseigne bio à Montréal. Il est urgent de constituer un arsenal législatif d'autant que les enjeux sont mondiaux 9000000000 d'humains à nourrir en 2050 ça exige une gestion responsable en contraignant notamment la grande distribution à accepter les produits sans critères esthétiques en fait elle n'est pas les produits sans critères esthétiques en fait elle n'est pas seule en cause lutter contre ça en amont c'est déjà faire accepter les petits défauts consommateurs on mange avec les yeux on bute là-dessus les dates limites de consommation sont aussi un dilemme il y a les normes d'hygiène essentielles mais qui ont tendance à inciter au gâchis pourquoi ne pas donner on ne peut pas risquer l'empoisonnement alors on opte pour la destruction le don entraîne aussi des difficultés de logistique de transport qu'il paye Alors on rend des produits comestibles impropres à la consommation plutôt que de leur permettre pour les dates de péremption dépassées, une valorisation en recyclage dans les circuits de méthanisation ou pour les autres dans les réseaux d'associations d'aide. Une convention pour une collecte sécurisée des invendus serait une première piste.",
+    "right_option": "C",
+    "highlights": [
+      "2000000 de tonnes de nourriture jetée chaque année par les restaurants et les commerces",
+      "quasi 30 pour 100 de la nourriture produite perdue gâchée",
+      "parce qu'on ne sait pas stocker transporté ou transformé",
+      "Il est urgent de constituer un arsenal législatif",
+      "les enjeux sont mondiaux",
+      "9000000000 d'humains à nourrir en 2050",
+      "ça exige une gestion responsable",
+      "en contraignant notamment la grande distribution à accepter les produits sans critères esthétiques",
+      "lutter contre ça en amont c'est déjà faire accepter les petits défauts",
+      "consommateurs on mange avec les yeux",
+      "les dates limites de consommation sont aussi un dilemme",
+      "qui ont tendance à inciter au gâchis",
+      "on ne peut pas risquer l'empoisonnement alors on opte pour la destruction",
+      "le don entraîne aussi des difficultés de logistique de transport",
+      "on rend des produits comestibles impropres à la consommation",
+      "pour les dates de péremption dépassées, une valorisation en recyclage",
+      "Une convention pour une collecte sécurisée des invendus serait une première piste"
+    ]
+  },
+  {
+    "question_no": 28,
+    "question": "L’invitée invite à :",
+    "options": [
+      "Mettre en place un système de redistribution des invendus.",
+      "Recycler sur place des produits rendus dangereux à consommer.",
+      "Renforcer la sécurité alimentaire par des contrôles stricts des dates de péremption.",
+      "Interdire la récupération systématique de produits invendus périmés."
+    ],
+    "audio_transcript": "Transcription : 2000000 de tonnes de nourriture jetée chaque année par les restaurants et les commerces, quasi 30 pour 100 de la nourriture produite perdue gâchée parce qu'on ne sait pas stocker transporté ou transformé. Marie Lévesque vous êtes responsable d'une enseigne bio à Montréal. Il est urgent de constituer un arsenal législatif d'autant que les enjeux sont mondiaux 9000000000 d'humains à nourrir en 2050 ça exige une gestion responsable en contraignant notamment la grande distribution à accepter les produits sans critères esthétiques en fait elle n'est pas les produits sans critères esthétiques en fait elle n'est pas seule en cause lutter contre ça en amont c'est déjà faire accepter les petits défauts consommateurs on mange avec les yeux on bute là-dessus les dates limites de consommation sont aussi un dilemme il y a les normes d'hygiène essentielles mais qui ont tendance à inciter au gâchis pourquoi ne pas donner on ne peut pas risquer l'empoisonnement alors on opte pour la destruction le don entraîne aussi des difficultés de logistique de transport qu'il paye Alors on rend des produits comestibles impropres à la consommation plutôt que de leur permettre pour les dates de péremption dépassées, une valorisation en recyclage dans les circuits de méthanisation ou pour les autres dans les réseaux d'associations d'aide. Une convention pour une collecte sécurisée des invendus serait une première piste.",
+    "right_option": "A",
+    "highlights": [
+      "Une convention pour une collecte sécurisée des invendus serait une première piste",
+      "le don entraîne aussi des difficultés de logistique de transport",
+      "on rend des produits comestibles impropres à la consommation plutôt que de leur permettre pour les dates de péremption dépassées, une valorisation en recyclage dans les circuits de méthanisation ou pour les autres dans les réseaux d'associations d'aide",
+      "pourquoi ne pas donner",
+      "lutter contre ça en amont c'est déjà faire accepter les petits défauts"
+    ]
+  },
+  {
+    "question_no": 29,
+    "question": "Les patients confrontés à la télémédecine :",
+    "options": [
+      "Estiment que les spécialistes doivent se renouveler avec le temps.",
+      "Regrettent que les politiques s'en servent pour gagner des électeurs.",
+      "Sont d'abord sceptiques puis rassurés par les moyens mis en place.",
+      "Constatent le manque de matériel nécessaire au suivi médical."
+    ],
+    "audio_transcript": "Transcription : Tu branches le stéteau, on commence par les poumons s'il te plaît, madame respirez fort la bouche ouverte. Respirez bien fort par la bouche. C'est une consultation pas tout à fait comme les autres. Dans le cabinet médical, il y a bien le fauteuil d'examen, une toise, un stéthoscope, mais le médecin lui se trouve à quatre-cents kilomètres de là dans l'est de la France. Le docteur dit Patricio communique par visioconférence et ausculte via des instruments connectés dont certains ont une mini caméra. Pour l'assister auprès des patients, une infirmière en chair et en os, Julie Maréchal. La belle machine que vous voyez devant vous, c'est le fameux chariot de télémédecine qui en fait un ordinateur qui est équipé donc tous les appareils dont on a besoin pour les consultations donc le stéthoscope. Il y a l'autoscope qui permet de voir les oreilles et le nez. Alors le médecin est derrière son écran et nous on est ces petites mains, il nous guide. Je suis dans l'oreille gauche. C'est bon j'ai vu le tympan au fond. Bernadette soixante-sept ans est une patiente régulière. Elle se souvient de sa première réaction lorsqu'elle a appris l'existence de ce cabinet médical un peu particulier. Est-ce que vous vous êtes essoufflée madame Oh non ça va. Il y a l'effort. Au début je me suis dit mais qu'est-ce que c'est que ces bêtises, on va avoir un ordinateur, comment on va dialoguer puis finalement ça se passe très bien puisqu'on peut échanger avec le docteur, l'infirmière fait tout ce qu'il faut que le docteur ne peut pas faire, pas de problème. À l'origine de l'initiative Christophe Dietrich maire de Laigneville, petite ville de 5000 habitants. Il a refusé il y a 2 ans que sa commune se transforme en désert médical. Il avait alors cherché à recruter un médecin en vain. On avait 2 médecins qui sont partis fin 2000 dix-sept en retraite, mais bon on le voit depuis mi 2015, je cherche des médecins remplaçants. Sachant que la commune met à disposition gratuitement le cabinet médical puisqu'on avait décidé de le racheter. Donc il y a un moment, je me suis retrouvé face à un mur. Du coup la télémédecine s'est imposée à nous et on a décidé de la mettre en route. C'est à. Est venu avec son fils de 15 ans rouge de fièvre, ils habitent la ville voisine. Chez nous on a des médecins qui sont overbookés pendant 2 semaines. Donc on sait bien qu'un enfant quand il est malade on ne peut pas le faire attendre 2 semaines. Mais la télémédecine est-elle une médecine au rabais avec la présence d'une infirmière comme Alain Neville, la réponse est non selon le docteur Paolo Di Patricio qui travaille aussi en cabinet traditionnel. Pour lui la relation soignant malade est réelle et la plupart des actes d'un généraliste peuvent être pratiqués. Beaucoup d'actes sont réalisables en téléconsultation avec un confort d'exercice tout à fait satisfaisant. Il y a certains actes qui ne peuvent pas être réalisés, je pense au suivi pédiatrique néonatologique, on ne peut pas faire d'actes de gynécologie voilà. Dans les déserts médicaux la téléconsultation est une des solutions à Laigneville la salle d'attente était pleine en ce jour d'hiver.",
+    "right_option": "C",
+    "highlights": [
+      "Au début je me suis dit mais qu'est-ce que c'est que ces bêtises, on va avoir un ordinateur, comment on va dialoguer",
+      "puis finalement ça se passe très bien",
+      "puisqu'on peut échanger avec le docteur, l'infirmière fait tout ce qu'il faut que le docteur ne peut pas faire, pas de problème"
+    ]
+  },
+  {
+    "question_no": 30,
+    "question": "D’après le reportage, la télémédecine :",
+    "options": [
+      "Permet aux médecins de mieux gérer leur clientèle.",
+      "Entraîne la fermeture précipitée des cabinets en milieu rural.",
+      "Séduit les jeunes qui l'utilisent de manière régulière.",
+      "S'avère irréalisable pour certaines spécialités médicales."
+    ],
+    "audio_transcript": "Transcription : Tu branches le stéteau, on commence par les poumons s'il te plaît, madame respirez fort la bouche ouverte. Respirez bien fort par la bouche. C'est une consultation pas tout à fait comme les autres. Dans le cabinet médical, il y a bien le fauteuil d'examen, une toise, un stéthoscope, mais le médecin lui se trouve à quatre-cents kilomètres de là dans l'est de la France. Le docteur dit Patricio communique par visioconférence et ausculte via des instruments connectés dont certains ont une mini caméra. Pour l'assister auprès des patients, une infirmière en chair et en os, Julie Maréchal. La belle machine que vous voyez devant vous, c'est le fameux chariot de télémédecine qui en fait un ordinateur qui est équipé donc tous les appareils dont on a besoin pour les consultations donc le stéthoscope. Il y a l'autoscope qui permet de voir les oreilles et le nez. Alors le médecin est derrière son écran et nous on est ces petites mains, il nous guide. Je suis dans l'oreille gauche. C'est bon j'ai vu le tympan au fond. Bernadette soixante-sept ans est une patiente régulière. Elle se souvient de sa première réaction lorsqu'elle a appris l'existence de ce cabinet médical un peu particulier. Est-ce que vous vous êtes essoufflée madame Oh non ça va. Il y a l'effort. Au début je me suis dit mais qu'est-ce que c'est que ces bêtises, on va avoir un ordinateur, comment on va dialoguer puis finalement ça se passe très bien puisqu'on peut échanger avec le docteur, l'infirmière fait tout ce qu'il faut que le docteur ne peut pas faire, pas de problème. À l'origine de l'initiative Christophe Dietrich maire de Laigneville, petite ville de 5000 habitants. Il a refusé il y a 2 ans que sa commune se transforme en désert médical. Il avait alors cherché à recruter un médecin en vain. On avait 2 médecins qui sont partis fin 2000 dix-sept en retraite, mais bon on le voit depuis mi 2015, je cherche des médecins remplaçants. Sachant que la commune met à disposition gratuitement le cabinet médical puisqu'on avait décidé de le racheter. Donc il y a un moment, je me suis retrouvé face à un mur. Du coup la télémédecine s'est imposée à nous et on a décidé de la mettre en route. C'est à. Est venu avec son fils de 15 ans rouge de fièvre, ils habitent la ville voisine. Chez nous on a des médecins qui sont overbookés pendant 2 semaines. Donc on sait bien qu'un enfant quand il est malade on ne peut pas le faire attendre 2 semaines. Mais la télémédecine est-elle une médecine au rabais avec la présence d'une infirmière comme Alain Neville, la réponse est non selon le docteur Paolo Di Patricio qui travaille aussi en cabinet traditionnel. Pour lui la relation soignant malade est réelle et la plupart des actes d'un généraliste peuvent être pratiqués. Beaucoup d'actes sont réalisables en téléconsultation avec un confort d'exercice tout à fait satisfaisant. Il y a certains actes qui ne peuvent pas être réalisés, je pense au suivi pédiatrique néonatologique, on ne peut pas faire d'actes de gynécologie voilà. Dans les déserts médicaux la téléconsultation est une des solutions à Laigneville la salle d'attente était pleine en ce jour d'hiver.",
+    "right_option": "D",
+    "highlights": [
+      "Il y a certains actes qui ne peuvent pas être réalisés",
+      "je pense au suivi pédiatrique néonatologique, on ne peut pas faire d'actes de gynécologie",
+      "Beaucoup d'actes sont réalisables en téléconsultation",
+      "la plupart des actes d'un généraliste peuvent être pratiqués",
+      "Dans les déserts médicaux la téléconsultation est une des solutions"
+    ]
+  },
+  {
+    "question_no": 31,
+    "question": "La hausse des prix vise à :",
+    "options": [
+      "Encourager l'envoi de courriers personnels.",
+      "Compenser des pertes financières.",
+      "Privilégier l'usage d'Internet dans la bureaucratie.",
+      "Éliminer progressivement l'utilisation du timbre."
+    ],
+    "audio_transcript": "Transcription : Aujourd'hui nous recevons l'économiste Gérard Baudouin pour nous parler de l'augmentation du prix du timbre. Pourquoi cette hausse, Monsieur Baudouin ? – Bien, il faut rattraper la baisse du courrier traditionnel, la faute au courrier électronique et à la dématérialisation des documents administratifs. En 20 ans, le nombre de lettres affranchies a été divisé par 2, ce qui fait que la dette de La Poste atteint aujourd'hui, selon les dernières normes comptables, 6,23 milliards d'euros.",
+    "right_option": "B",
+    "highlights": [
+      "il faut rattraper la baisse du courrier traditionnel",
+      "la faute au courrier électronique et à la dématérialisation des documents administratifs",
+      "En 20 ans, le nombre de lettres affranchies a été divisé par 2",
+      "la dette de La Poste atteint aujourd'hui, selon les dernières normes comptables, 6,23 milliards d'euros"
+    ]
+  },
+  {
+    "question_no": 32,
+    "question": "Cette chronique aborde :",
+    "options": [
+      "Les pratiques frauduleuses via les messageries électroniques.",
+      "L'utilisation du piratage informatique à des fins politiques.",
+      "Les conséquences sociétales du harcèlement virtuel.",
+      "Les failles de sécurité en ligne face aux escroqueries."
+    ],
+    "audio_transcript": "Transcription : Parmi les pirates du numérique, il y a les cyber escrocs et en particulier ceux qui exercent depuis des pays émergents, des jeunes principalement opérant depuis des cybercafés et concevant des arnaques par mail qui inondent les serveurs occidentaux. Comment ces arnaques se nourrissent-elles du contexte social, politique et historique ? Au fond, cela s'inscrit dans une pratique très ancienne du banditisme social avec des intrigues qui se moulent sur le même principe, une supercherie à l'avance de frais.",
+    "right_option": "A",
+    "highlights": [
+      "cyber escrocs",
+      "arnaques par mail",
+      "inondent les serveurs occidentaux",
+      "une supercherie à l'avance de frais"
+    ]
+  },
+  {
+    "question_no": 33,
+    "question": "Le projet énoncé a entraîné :",
+    "options": [
+      "Le remplacement du ministre.",
+      "Le licenciement d'employés.",
+      "La fermeture du musée.",
+      "La colère des partenaires sociaux."
+    ],
+    "audio_transcript": "Transcription : Et sur le même procédé, puisqu'il s'agit de susciter l'empathie auprès de personnes spécifiques et de ce fait arriver à les manipuler. C'est aujourd'hui que doit avoir lieu l'appel d'offres pour la privatisation de certains services du plus grand musée londonien. Des salariés plus flexibles, des subventions portées disparues, les syndicats dénoncent une déclaration de guerre qui fait partie de la politique gouvernementale.",
+    "right_option": "D",
+    "highlights": [
+      "les syndicats dénoncent",
+      "une déclaration de guerre",
+      "qui fait partie de la politique gouvernementale"
+    ]
+  },
+  {
+    "question_no": 34,
+    "question": "Aujourd’hui, l’information :",
+    "options": [
+      "Doit être consultée régulièrement pour être comprise.",
+      "Est authentifiée par des journalistes sur les réseaux sociaux.",
+      "Peut être décryptée par tout le monde grâce à internet.",
+      "N'est jamais fiable car on ne peut pas vérifier les sources."
+    ],
+    "audio_transcript": "Transcription : Démonter une information, c'est beaucoup de travail. C'est très facile de faire circuler une fausse information, c'est très long de la vérifier. Aujourd'hui, le faux fait partie de l'information, d'autant plus qu'avec l'explosion des réseaux sociaux, certaines personnes qui n'étaient pas habituées à consulter de l'information se sont mises à recevoir toutes sortes de messages, et elles n'ont pas forcément les codes pour décrypter. Les réseaux sociaux sont donc amenés à payer des journalistes pour vérifier et expliquer l'information qui circule, eux-mêmes confrontés au problème massif de la désinformation.",
+    "right_option": "B",
+    "highlights": [
+      "Démonter une information, c'est beaucoup de travail",
+      "C'est très facile de faire circuler une fausse information, c'est très long de la vérifier",
+      "le faux fait partie de l'information",
+      "avec l'explosion des réseaux sociaux",
+      "certaines personnes qui n'étaient pas habituées à consulter de l'information",
+      "elles n'ont pas forcément les codes pour décrypter",
+      "Les réseaux sociaux sont donc amenés à payer des journalistes pour vérifier et expliquer l'information qui circule",
+      "eux-mêmes confrontés au problème massif de la désinformation"
+    ]
+  },
+  {
+    "question_no": 35,
+    "question": "En matière de transport, cette innovation :",
+    "options": [
+      "Est loin de rivaliser avec la voiture.",
+      "Fait l'unanimité auprès des citoyens.",
+      "Nécessite la mise en place de règles.",
+      "Peine à percer et à se développer."
+    ],
+    "audio_transcript": "Transcription : La voiture polluante semble condamnée à n'être bientôt qu'un vestige du passé. L'alternative devra répondre à une injonction contradictoire : vitesse et écologie. Une innovation très populaire récente concilie l'une et l'autre : la trottinette électrique. Très pratique, elle est décriée par ceux qui la trouvent dangereuse. Au bout de quelques mois, Paris et les autres grandes villes séduites par le dispositif ont commencé à légiférer pour contrer les effets négatifs de cette nouvelle tendance. Comme pour toute nouveauté, il faut penser à la régulation qui accompagne l'innovation.",
+    "right_option": "C",
+    "highlights": [
+      "la trottinette électrique",
+      "Très pratique, elle est décriée par ceux qui la trouvent dangereuse",
+      "Paris et les autres grandes villes séduites par le dispositif ont commencé à légiférer",
+      "pour contrer les effets négatifs de cette nouvelle tendance",
+      "il faut penser à la régulation qui accompagne l'innovation"
+    ]
+  },
+  {
+    "question_no": 36,
+    "question": "Selon l’expert :",
+    "options": [
+      "Nous avons une appétence innée pour les mauvaises nouvelles.",
+      "Les informations diffusées sur le web confortent nos préjugés.",
+      "La peur est un frein à la curiosité de l'être humain.",
+      "Les événements catastrophiques représentent un défi pour la pensée."
+    ],
+    "audio_transcript": "Transcription : Le cerveau est très attentif à nourrir des routines personnelles qui le rassurent, et en même temps, il a besoin d'explorer le possible. Toute nouvelle qui représente un dévoilement ou qui attire notre attention, comme la peur ou une information égocentrée, va être de nature à capter le temps de cerveau disponible. Il s'agit de l'asymétrie de négativité qui a été testée aussi bien sur les stéréotypes sociaux que sur les informations inquiétantes, qui fait qu'on a plus d'intérêt et qu'on mémorise mieux les informations négatives.",
+    "right_option": "A",
+    "highlights": [
+      "Le cerveau est très attentif à nourrir des routines personnelles qui le rassurent",
+      "il a besoin d'explorer le possible",
+      "Toute nouvelle qui représente un dévoilement ou qui attire notre attention, comme la peur ou une information égocentrée, va être de nature à capter le temps de cerveau disponible",
+      "l'asymétrie de négativité",
+      "qui a été testée aussi bien sur les stéréotypes sociaux que sur les informations inquiétantes",
+      "on a plus d'intérêt et qu'on mémorise mieux les informations négatives"
+    ]
+  },
+  {
+    "question_no": 37,
+    "question": "Selon cette information, un groupe d’associations :",
+    "options": [
+      "Porte plainte contre les modérateurs automatiques.",
+      "Dénonce le laxisme face aux contenus illicites.",
+      "Récuse les experts mandatés par l'entreprise.",
+      "Réclame plus de transparence sur les algorithmes."
+    ],
+    "audio_transcript": "Transcription : Quatre associations de lutte contre les discriminations assignent Twitter devant le tribunal pour manquement ancien et persistant à ses obligations légales en matière de modération des contenus. Elles expliquent que, parmi plus de 1 000 tweets haineux signalés, seuls 12 % d'entre eux ont été supprimés dans une période raisonnable allant de 3 à 5 jours. Elles demandent la désignation d'un expert chargé de constater les moyens matériels et humains mis en œuvre par Twitter pour lutter contre la diffusion de ces messages. Twitter rétorque qu'il investit dans des technologies de modération pour réduire la charge qui pèse sur les utilisateurs, en leur évitant de devoir effectuer un signalement. Plus d'un tweet abusif sur deux est désormais détecté automatiquement, plutôt que signalé.",
+    "right_option": "B",
+    "highlights": [
+      "Quatre associations de lutte contre les discriminations assignent Twitter devant le tribunal",
+      "manquement ancien et persistant à ses obligations légales en matière de modération des contenus",
+      "parmi plus de 1 000 tweets haineux signalés, seuls 12 % d'entre eux ont été supprimés",
+      "dans une période raisonnable allant de 3 à 5 jours"
+    ]
+  },
+  {
+    "question_no": 38,
+    "question": "Selon le chroniqueur, Arthur Rimbaud :",
+    "options": [
+      "Éprouve une affection inavouée mais sincère envers sa mère.",
+      "Doit ses tourments à l'absence d'une figure paternelle.",
+      "S'est nourri de ses déboires familiaux pour façonner sa poésie.",
+      "A toujours été soutenu par sa mère dans sa quête esthétique."
+    ],
+    "audio_transcript": "Transcription : Les parents de Rimbaud se séparent quand il a 4 ans. Le père, capitaine d'infanterie, rejoint son corps, comme disent les chamanes et les militaires. Rideau, papa Rimbaud.Des générations de commentateurs psychanalysants pourront voir dans les amitiés viriles d'Arthur la recherche du père. La mère excite la version des Rimbophiles. On la juge avare, hermétique à la poésie, brutale. Mais que s'est-on vraiment dépensée d'une mère le soir à la chandelle, quand son fils est en train de s'autodétruire ? Il est aisé de dénigrer cette mère qu'Arthur appelait la Daronfle. Elle royaumait sa terre, elle retenait son fils dans le provincialisme de l'Ardenne, elle l'observait d'un œil suspicieux élaborer une langue inconnue, fréquenter des faunes, boire de la verte et s'engager à bord de bateaux fous. Mais je crois qu'il y avait une tendresse profonde cachée chez lui à l'égard de cette mère qu'il faisait semblant de maudire.",
+    "right_option": "A",
+    "highlights": [
+      "je crois qu'il y avait une tendresse profonde cachée chez lui à l'égard de cette mère",
+      "qu'il faisait semblant de maudire",
+      "On la juge avare, hermétique à la poésie, brutale",
+      "Il est aisé de dénigrer cette mère",
+      "Elle royaumait sa terre, elle retenait son fils dans le provincialisme de l'Ardenne, elle l'observait d'un œil suspicieux"
+    ]
+  },
+  {
+    "question_no": 39,
+    "question": "D’après le chroniqueur, l’architecture devrait :",
+    "options": [
+      "Permettre aux habitants de profiter du milieu naturel environnant.",
+      "Faire primer la fonctionnalité sur l'esthétique.",
+      "Créer des bâtiments modulables au fil des époques.",
+      "S'intéresser aux habitats de toutes les strates sociales."
+    ],
+    "audio_transcript": "Transcription : On le sait tous, les appartements des étages du haut valent plus cher que ceux du bas, notamment pour des questions de température.Mais le changement climatique pourrait bien inverser la fourchette des prix. Les architectes réfléchissent à adapter ces bâtiments, mais il est difficile, voire impossible, d'isoler des logements pensés avant tout pour être beaux, quitte à avoir trop chaud. Or, c'est une grave erreur, tant la finalité même de l'architecture est climatique en ceci qu'elle transforme artificiellement le climat dans ce qu'il a d'inconfortable pour le rendre habitable. Le toit agit contre le soleil, le mur contre le vent et le froid. Conclusion : quand les constructions humaines sont conçues hors de leur milieu naturel, elles finissent toujours par le payer.",
+    "right_option": "B",
+    "highlights": [
+      "les appartements des étages du haut valent plus cher que ceux du bas, notamment pour des questions de température",
+      "le changement climatique pourrait bien inverser la fourchette des prix",
+      "il est difficile, voire impossible, d'isoler des logements pensés avant tout pour être beaux, quitte à avoir trop chaud",
+      "Or, c'est une grave erreur",
+      "tant la finalité même de l'architecture est climatique",
+      "elle transforme artificiellement le climat dans ce qu'il a d'inconfortable pour le rendre habitable",
+      "Le toit agit contre le soleil, le mur contre le vent et le froid",
+      "quand les constructions humaines sont conçues hors de leur milieu naturel, elles finissent toujours par le payer"
+    ]
+  },
+  {
+    "question_no": 40,
+    "question": "Le chroniqueur :",
+    "options": [
+      "Décrit la démesure de cette pratique.",
+      "Raille la fragilité dans le monde du travail.",
+      "Perçoit dans cette attitude une lutte anticapitaliste.",
+      "Remet en cause cette tendance au paradoxe."
+    ],
+    "audio_transcript": "Transcription : Faiblesse, inconstance, inconsistance, débilité… voilà quelques synonymes fort sympathiques de la fragilité. A priori, rien ne donne envie d'en faire un art. Pourquoi alors voit-on se succéder les éloges de la fragilité ? Comme pour la mode, il faut décrypter la tendance. Et comme d'habitude, ce n'est qu'une histoire d'inversion. L'époque étant à la compétition, au capitalisme fort et féroce, il faut forcément jouer le jeu de la contradiction et de la pseudo-distance critique. Il nous faut alors valoriser son contraire : la fragilité. Alors évidemment, je ne vais pas tomber dans la critique marxiste selon laquelle seuls les plus forts peuvent se permettre d'être fragiles, car ils sauront s’en relever. Mais que penser de cette ode à la fragilité de l'existence ? Comment persister dans l’existence tout en étant affaibli ? Et inversement, que reste-t-il de la fragilité quand on résiste, quand on fait donc preuve de force, malgré tout ?",
+    "right_option": "D",
+    "highlights": [
+      "Pourquoi alors voit-on se succéder les éloges de la fragilité ?",
+      "Et comme d'habitude, ce n'est qu'une histoire d'inversion.",
+      "L'époque étant à la compétition, au capitalisme fort et féroce, il faut forcément jouer le jeu de la contradiction et de la pseudo-distance critique.",
+      "je ne vais pas tomber dans la critique marxiste",
+      "Mais que penser de cette ode à la fragilité de l'existence ?",
+      "Comment persister dans l’existence tout en étant affaibli ?",
+      "Et inversement, que reste-t-il de la fragilité quand on résiste, quand on fait donc preuve de force, malgré tout ?"
+    ]
+  }
+]

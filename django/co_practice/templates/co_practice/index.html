@@ -1,6 +1,13 @@
 {% extends "co_practice/base.html" %}
 {% load static %}
 
+{% block breadcrumb %}
+<span class="text-gray-300">/</span>
+<a href="{% url 'home' %}" class="text-[#7C6452] hover:text-[#5E4A3B] transition-colors">Compréhension Orale</a>
+<span class="text-gray-300">/</span>
+<span class="text-gray-500">Practice {{ practice_slug }}</span>
+{% endblock %}
+
 {% block content %}
 <div class="max-w-3xl mx-auto px-4 py-10"
      x-data="{
@@ -12,23 +19,35 @@
        },
        get attemptedCount() {
          return Object.keys(this.attempted).length;
+       },
+       get firstUnattempted() {
+         for (let i = 1; i <= 40; i++) {
+           if (!this.attempted[i]) return i;
+         }
+         return 1;
        }
      }">
 
   <div class="flex items-start justify-between mb-8">
     <div>
       <p class="text-xs text-gray-400 mb-1">
-        <a href="{% url 'home' %}" class="hover:text-indigo-600">← Accueil</a>
+        <a href="{% url 'home' %}" class="hover:text-[#7C6452]">← Accueil</a>
       </p>
       <h1 class="text-2xl font-bold text-gray-900">TEF CO {{ practice_slug }}</h1>
       <p class="text-sm text-gray-400 mt-1">
         <span x-text="attemptedCount"></span> / 40 questions tentées
       </p>
     </div>
-    <a href="{% url 'results' practice_slug %}"
-       class="inline-flex items-center gap-2 px-4 py-2 bg-indigo-600 text-white text-sm font-semibold rounded hover:bg-indigo-700 transition-colors">
-      Voir les résultats →
-    </a>
+    <div class="flex items-center gap-2">
+      <a :href="'/practice/{{ practice_slug }}/question/' + firstUnattempted + '/'"
+         class="inline-flex items-center gap-2 px-4 py-2 border border-[#A8896E] text-[#A8896E] text-sm font-semibold rounded hover:bg-[#EDE3D6] transition-colors"
+         x-text="attemptedCount > 0 ? 'Continuer →' : 'Commencer →'">
+      </a>
+      <a href="{% url 'results' practice_slug %}"
+         class="inline-flex items-center gap-2 px-4 py-2 bg-[#A8896E] text-white text-sm font-semibold rounded hover:bg-[#7C6452] transition-colors">
+        Voir les résultats →
+      </a>
+    </div>
   </div>
 
   {% for group in groups %}
@@ -40,8 +59,8 @@
       {% for qid in group.questions %}
       <a href="{% url 'question' practice_slug qid %}"
          :class="attempted[{{ qid }}]
-           ? 'border-indigo-400 bg-indigo-50 text-indigo-700 hover:border-indigo-600'
-           : 'border-gray-300 text-gray-700 hover:border-indigo-500 hover:bg-indigo-50 hover:text-indigo-700'"
+           ? 'border-[#A8896E] bg-[#EDE3D6] text-[#5E4A3B] hover:border-[#7C6452]'
+           : 'border-gray-300 text-gray-700 hover:border-[#A8896E] hover:bg-[#EDE3D6] hover:text-[#5E4A3B]'"
          class="w-11 h-11 flex items-center justify-center border-2 rounded font-semibold text-sm transition-colors">
         {{ qid }}
       </a>

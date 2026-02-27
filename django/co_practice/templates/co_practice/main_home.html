@@ -1,0 +1,40 @@
+{% extends "co_practice/base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="max-w-3xl mx-auto px-4 py-14">
+  <h1 class="text-3xl font-bold text-gray-900 mb-1">TEF Practice</h1>
+  <p class="text-sm text-gray-400 mb-10">Choisissez une compétence pour commencer.</p>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+
+    <!-- Compréhension Orale -->
+    <a href="{% url 'home' %}"
+       class="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:border-[#C4AA95] transition-all flex flex-col gap-3">
+      <div class="w-10 h-10 rounded-lg bg-[#EDE3D6] flex items-center justify-center text-[#7C6452] text-xl group-hover:bg-[#E5D8C8] transition-colors">
+        🎧
+      </div>
+      <div>
+        <p class="text-base font-bold text-gray-900">Compréhension Orale</p>
+        <p class="text-xs text-gray-400 mt-0.5">Exercices d'écoute — 40 questions par pratique</p>
+      </div>
+      <span class="mt-auto text-sm font-semibold text-[#7C6452] group-hover:text-[#5E4A3B]">
+        Voir les pratiques →
+      </span>
+    </a>
+
+    <!-- Compréhension Écrite (coming soon) -->
+    <div class="bg-white border border-dashed border-gray-200 rounded-xl p-6 opacity-50 flex flex-col gap-3 cursor-not-allowed select-none">
+      <div class="w-10 h-10 rounded-lg bg-gray-100 flex items-center justify-center text-gray-400 text-xl">
+        📖
+      </div>
+      <div>
+        <p class="text-base font-bold text-gray-500">Compréhension Écrite</p>
+        <p class="text-xs text-gray-400 mt-0.5">Bientôt disponible</p>
+      </div>
+      <span class="mt-auto text-xs text-gray-400 font-medium">À venir</span>
+    </div>
+
+  </div>
+</div>
+{% endblock %}

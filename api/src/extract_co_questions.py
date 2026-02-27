@@ -284,6 +284,27 @@ def safe_dom_correct_index(dom_data: object) -> Optional[int]:
     return None
 
 
+def parse_question_option_title(
+    option_data: object,
+    url_to_local_path: Dict[str, str],
+    images_dir: str,
+) -> str:
+    if not isinstance(option_data, dict):
+        return ""
+
+    raw_title = option_data.get("title", "")
+    title_html = raw_title if isinstance(raw_title, str) else ""
+    option_text, option_images = extract_text_and_images(title_html)
+
+    if option_text:
+        return option_text
+    if option_images:
+        first_image_url = option_images[0]
+        local_path = url_to_local_path.get(first_image_url)
+        return to_image_ref(local_path, images_dir) if local_path else first_image_url
+    return ""
+
+
 def build_output(
     html_path: str,
     output_json_path: str,
@@ -308,6 +329,14 @@ def build_output(
         _, images = extract_text_and_images(title_html)
         question_media[question_id] = images
         image_urls.extend(images)
+        for option_data in question.get("options", []):
+            if not isinstance(option_data, dict):
+                continue
+            option_title = option_data.get("title", "")
+            _, option_images = extract_text_and_images(
+                option_title if isinstance(option_title, str) else ""
+            )
+            image_urls.extend(option_images)
 
     for question_id, dom_data in dom_parser.questions.items():
         for _, img_urls in safe_dom_options(dom_data):
@@ -337,8 +366,9 @@ def build_output(
             )
 
         dom_data = dom_parser.questions.get(question_id, {})
+        dom_options = safe_dom_options(dom_data)
         options: List[str] = []
-        for option_text, img_urls in safe_dom_options(dom_data):
+        for option_text, img_urls in dom_options:
             if option_text:
                 options.append(option_text)
             elif img_urls:
@@ -353,8 +383,26 @@ def build_output(
             else:
                 options.append("")
 
+        if len(options) != 4:
+            options = [
+                parse_question_option_title(option_data, url_to_local_path, images_dir)
+                for option_data in question.get("options", [])
+            ]
+        if len(options) < 4:
+            options.extend([""] * (4 - len(options)))
+        elif len(options) > 4:
+            options = options[:4]
+
         transcript = safe_dom_transcript(dom_data)
         correct_index = safe_dom_correct_index(dom_data)
+        if correct_index is None:
+            for option_index, option_data in enumerate(question.get("options", [])):
+                if (
+                    isinstance(option_data, dict)
+                    and option_data.get("is_true") == "yes"
+                ):
+                    correct_index = option_index
+                    break
         right_option = ""
         if correct_index is not None and 0 <= correct_index < 4:
             right_option = ["A", "B", "C", "D"][correct_index]
@@ -371,14 +419,6 @@ def build_output(
 
     if len(output_questions) != 40:
         raise ValueError(f"Expected 40 questions, found {len(output_questions)}")
-
-    for question in output_questions:
-        options_list = question.get("options")
-        if not isinstance(options_list, list) or len(options_list) != 4:
-            options_len = len(options_list) if isinstance(options_list, list) else 0
-            raise ValueError(
-                f"Question {question.get('question_no')} has {options_len} options"
-            )
 
     with open(output_json_path, "w", encoding="utf-8") as file_handle:
         json.dump(output_questions, file_handle, ensure_ascii=False, indent=2)
