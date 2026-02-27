@@ -2,13 +2,18 @@
 {% load static %}
 
 {% block content %}
+
+{# Embed correct answers safely — avoids double-quote conflicts in x-data attribute #}
+{{ correct_answers|json_script:"co-correct" }}
+
 <div class="max-w-3xl mx-auto px-4 py-10"
      x-data="{
-       correct: {{ correct_answers_json }},
+       correct: {},
        answers: {},
        init() {
+         this.correct = JSON.parse(document.getElementById('co-correct').textContent);
          for (let i = 1; i <= 40; i++) {
-           this.answers[i] = localStorage.getItem('tef_q_' + i) || '';
+           this.answers[i] = localStorage.getItem('tef_p{{ practice_slug }}_q' + i) || '';
          }
        },
        get score() {
@@ -22,11 +27,11 @@
          return Math.round(this.score / 40 * 100);
        },
        groupScore(questions) {
-         let correct = 0, total = questions.length;
+         let c = 0;
          for (const qid of questions) {
-           if (this.answers[qid] && this.answers[qid] === this.correct[qid]) correct++;
+           if (this.answers[qid] && this.answers[qid] === this.correct[qid]) c++;
          }
-         return { correct, total };
+         return { correct: c, total: questions.length };
        },
        statusOf(qid) {
          const a = this.answers[qid];
@@ -35,15 +40,21 @@
        },
        reset() {
          for (let i = 1; i <= 40; i++) {
-           localStorage.removeItem('tef_q_' + i);
+           localStorage.removeItem('tef_p{{ practice_slug }}_q' + i);
          }
          location.reload();
        }
      }">
 
   <div class="flex items-center justify-between mb-8">
-    <h1 class="text-2xl font-bold text-gray-900">Résultats</h1>
-    <a href="{% url 'index' %}" class="text-sm text-indigo-600 underline hover:text-indigo-800">← Accueil</a>
+    <div>
+      <p class="text-xs text-gray-400 mb-1">
+        <a href="{% url 'practice_index' practice_slug %}" class="hover:text-indigo-600">← CO {{ practice_slug }}</a>
+        &nbsp;·&nbsp;
+        <a href="{% url 'home' %}" class="hover:text-indigo-600">Accueil</a>
+      </p>
+      <h1 class="text-2xl font-bold text-gray-900">Résultats — CO {{ practice_slug }}</h1>
+    </div>
   </div>
 
   {# ── Score card ── #}
@@ -79,11 +90,11 @@
     <p class="text-xs font-semibold uppercase tracking-widest text-gray-400 mb-3">{{ group.label }}</p>
     <div class="flex flex-wrap gap-2">
       {% for qid in group.questions %}
-      <a href="{% url 'question' qid %}"
+      <a href="{% url 'question' practice_slug qid %}"
          :class="{
            'border-green-500 bg-green-50 text-green-800': statusOf({{ qid }}) === 'correct',
            'border-red-400 bg-red-50 text-red-800':       statusOf({{ qid }}) === 'wrong',
-           'border-gray-300 bg-white text-gray-500':      statusOf({{ qid }}) === 'unanswered'
+           'border-gray-200 bg-white text-gray-300':      statusOf({{ qid }}) === 'unanswered'
          }"
          class="w-14 h-14 flex flex-col items-center justify-center border-2 rounded font-semibold text-sm transition-colors hover:opacity-80">
         <span>{{ qid }}</span>
@@ -99,10 +110,11 @@
   {% endfor %}
 
   {# ── Reset button ── #}
-  <div class="mt-4">
+  <div class="mt-8 pt-6 border-t border-gray-200">
+    <p class="text-sm text-gray-500 mb-3">Effacer toutes vos réponses sauvegardées et recommencer à zéro.</p>
     <button @click="reset()"
-            class="px-4 py-2 border border-red-300 text-red-600 text-sm font-semibold rounded hover:bg-red-50 transition-colors">
-      Réinitialiser les réponses
+            class="px-5 py-2.5 bg-red-600 text-white text-sm font-semibold rounded hover:bg-red-700 transition-colors">
+      Effacer toutes les réponses
     </button>
   </div>
 

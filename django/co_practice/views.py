@@ -1,60 +1,106 @@
-import json
 from django.shortcuts import render
 from django.http import Http404
+from django.utils.html import escape
 from django.utils.safestring import mark_safe
+
 from .data.questions import get_by_id, get_all
-from .data.audio_map import AUDIO_MAP
-
-GROUPS = [
-    {'label': 'Groupe 1 — Conversations courtes (images)', 'questions': list(range(1, 5))},
-    {'label': 'Groupe 2 — Messages courts',                'questions': list(range(5, 9))},
-    {'label': 'Groupe 3 — Messages téléphoniques',         'questions': list(range(9, 15))},
-    {'label': 'Groupe 4 — Annonces radio',                 'questions': list(range(15, 18))},
-    {'label': 'Groupe 5 — Conversations longues',          'questions': list(range(18, 21))},
-    {'label': 'Groupe 6 — Bulletins d\'information',       'questions': list(range(21, 23))},
-    {'label': 'Groupe 7 — Dialogues (audio partagé)',      'questions': list(range(23, 31))},
-    {'label': 'Groupe 8 — Émissions',                      'questions': list(range(31, 41))},
-]
-
-AUDIO_BASE = 'co_practice/audio/co_18_com/'
-IMAGE_BASE = 'co_practice/images/'
+from .data.audio_maps import get_audio_map
+from .data.practices import discover_practices, get_practice_folder, GROUPS
 
 
-def index(request):
-    return render(request, 'co_practice/index.html', {'groups': GROUPS})
+def _highlighted_transcript(transcript, highlights):
+    """Return transcript as safe HTML with highlight phrases wrapped in <mark>."""
+    if not highlights:
+        return escape(transcript)
+
+    ranges = []
+    for phrase in highlights:
+        pos = transcript.find(phrase)
+        if pos != -1:
+            ranges.append((pos, pos + len(phrase)))
+
+    if not ranges:
+        return escape(transcript)
+
+    ranges.sort()
+    merged = [list(ranges[0])]
+    for start, end in ranges[1:]:
+        if start <= merged[-1][1]:
+            merged[-1][1] = max(merged[-1][1], end)
+        else:
+            merged.append([start, end])
+
+    parts = []
+    cursor = 0
+    for start, end in merged:
+        parts.append(escape(transcript[cursor:start]))
+        parts.append(
+            '<mark class="bg-yellow-200 rounded px-0.5 not-italic">'
+            + escape(transcript[start:end])
+            + '</mark>'
+        )
+        cursor = end
+    parts.append(escape(transcript[cursor:]))
+
+    return mark_safe(''.join(parts))
 
 
-def results(request):
-    correct_answers = {q['question_no']: q['right_option'] for q in get_all()}
-    return render(request, 'co_practice/results.html', {
+def home(request):
+    practices = discover_practices()
+    return render(request, 'co_practice/home.html', {'practices': practices})
+
+
+def practice_index(request, practice_slug):
+    if not get_practice_folder(practice_slug).exists():
+        raise Http404
+    return render(request, 'co_practice/index.html', {
         'groups': GROUPS,
-        'correct_answers_json': mark_safe(json.dumps(correct_answers)),
+        'practice_slug': practice_slug,
     })
 
 
-def question(request, question_id):
+def results(request, practice_slug):
+    if not get_practice_folder(practice_slug).exists():
+        raise Http404
+    correct_answers = {q['question_no']: q['right_option'] for q in get_all(practice_slug)}
+    return render(request, 'co_practice/results.html', {
+        'groups': GROUPS,
+        'correct_answers': correct_answers,
+        'practice_slug': practice_slug,
+    })
+
+
+def question(request, practice_slug, question_id):
+    if not get_practice_folder(practice_slug).exists():
+        raise Http404
     if not 1 <= question_id <= 40:
         raise Http404
 
-    q = get_by_id(question_id)
+    q = get_by_id(practice_slug, question_id)
     if q is None:
         raise Http404
 
-    audio_info = AUDIO_MAP[question_id]
+    audio_map = get_audio_map(practice_slug)
+    audio_info = audio_map[question_id]
 
-    img_path = None
-    if q['image_filename']:
-        img_path = IMAGE_BASE + q['image_filename']
+    audio_base = f'co_practice/{practice_slug}/audio/'
+    image_base = f'co_practice/{practice_slug}/images/'
+
+    img_path = image_base + q['image_filename'] if q['image_filename'] else None
 
     audio_paths = {
-        'intro': AUDIO_BASE + audio_info['intro'] if audio_info['intro'] else None,
+        'intro': audio_base + audio_info['intro'] if audio_info['intro'] else None,
         'intro_label': audio_info['intro_label'],
-        'main': AUDIO_BASE + audio_info['main'],
+        'main': audio_base + audio_info['main'],
         'shared_with': audio_info['shared_with'],
     }
 
     prev_id = question_id - 1 if question_id > 1 else None
     next_id = question_id + 1 if question_id < 40 else None
+
+    highlighted = _highlighted_transcript(
+        q['audio_transcript'], q.get('highlights', [])
+    )
 
     return render(request, 'co_practice/question.html', {
         'question': q,
@@ -62,4 +108,6 @@ def question(request, question_id):
         'audio_paths': audio_paths,
         'prev_id': prev_id,
         'next_id': next_id,
+        'highlighted_transcript': highlighted,
+        'practice_slug': practice_slug,
     })

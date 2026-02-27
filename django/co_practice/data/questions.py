@@ -1,15 +1,18 @@
 import json
 import re
-from pathlib import Path
+from .practices import get_json_file
 
-_QUESTIONS = None
+_CACHE = {}  # slug → list of question dicts
 
-def _load():
-    global _QUESTIONS
-    if _QUESTIONS is not None:
-        return _QUESTIONS
 
-    json_path = Path(__file__).parent.parent.parent.parent / 'co_web_content' / 'co_18.json'
+def _load(slug):
+    if slug in _CACHE:
+        return _CACHE[slug]
+
+    json_path = get_json_file(slug)
+    if json_path is None:
+        raise FileNotFoundError(f'No questions JSON found for practice "{slug}"')
+
     with open(json_path, encoding='utf-8') as f:
         raw = json.load(f)
 
@@ -18,16 +21,16 @@ def _load():
         text = q['question']
         image_filename = None
 
-        match = re.search(r'\n\[image\]\s+co_web_content/co_18_images/(\S+)', text)
+        # Extract image filename from any [image] marker, regardless of path prefix
+        match = re.search(r'\n\[image\]\s+\S+/(\S+)', text)
         if match:
             image_filename = match.group(1)
             text = text[:match.start()].strip()
 
-        options = q['options']
         letters = ['A', 'B', 'C', 'D']
         options_with_letters = [
             {'letter': letters[i], 'text': opt}
-            for i, opt in enumerate(options)
+            for i, opt in enumerate(q['options'])
         ]
 
         questions.append({
@@ -37,17 +40,16 @@ def _load():
             'options_with_letters': options_with_letters,
         })
 
-    _QUESTIONS = questions
-    return _QUESTIONS
+    _CACHE[slug] = questions
+    return questions
 
 
-def get_all():
-    return _load()
+def get_all(slug):
+    return _load(slug)
 
 
-def get_by_id(question_no):
-    questions = _load()
-    for q in questions:
+def get_by_id(slug, question_no):
+    for q in _load(slug):
         if q['question_no'] == question_no:
             return q
     return None

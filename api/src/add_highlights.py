@@ -1,10 +1,12 @@
 """
 Add AI-generated highlights to CO (Compréhension Orale) questions.
 
+Reads the JSON file, updates the `highlights` field on each question in-place,
+and writes the result back to the same file.
+
 Usage:
     python api/src/add_highlights.py \
-        --input co_web_content/co_18.json \
-        --output co_web_content/co_18_highlighted.json \
+        --input co_web_content/practice_18/co_18.json \
         [--model claude-haiku-4-5-20251001]
 """
 
@@ -20,23 +22,47 @@ import anthropic
 load_dotenv(Path(__file__).parent.parent.parent / ".env")
 
 SYSTEM_PROMPT = (
-    "You are helping French language learners identify the key evidence in a listening "
-    "transcript that leads to the correct answer. Always quote text EXACTLY as it appears."
+    "You are helping French language learners study for the TEF oral comprehension exam. "
+    "Your task is to identify ALL key evidence in the audio transcript that a student must "
+    "notice to select the correct answer and confidently reject the incorrect ones. "
+    "Every string you return must be an EXACT verbatim substring of the transcript — "
+    "do not paraphrase, translate, or alter any text."
 )
 
 IMAGE_QUESTION_PROMPT = """\
-This question asks the student to match the audio to one of four images (A/B/C/D). \
-The correct image is {right_option}. Identify the key noun or descriptive phrase(s) in \
-the transcript that visually identify the scene. Return ONLY a JSON array of exact verbatim \
-quoted strings (1–2 items), no explanation.
+This is a TEF oral comprehension question where the student must match the audio to one \
+of four images (A, B, C, D). The correct image is {right_option}.
+
+Identify ALL words and phrases in the transcript that visually describe the scene — \
+including objects, people, locations, and actions — that help identify this specific image \
+and distinguish it from the other three options.
+
+Rules:
+- Return ONLY a JSON array of exact verbatim strings from the transcript
+- Cover every descriptive element relevant to the visual scene
+- Prefer short, specific phrases; avoid quoting unnecessary surrounding words
+- No explanation, no commentary
 
 Transcript: {transcript}\
 """
 
 TEXT_OPTION_PROMPT = """\
-Given this French audio transcript and multiple choice question, identify the EXACT verbatim \
-phrase(s) from the transcript that most directly support the correct answer. Return ONLY a \
-JSON array of quoted strings (1–3 items), no explanation.
+This is a TEF oral comprehension multiple-choice question. Identify ALL key phrases in \
+the transcript that a student must notice to answer correctly.
+
+Include phrases that:
+1. Directly state or imply the correct answer
+2. Contain negations, conditionals, or qualifiers that rule out wrong options \
+   (e.g. "ne … pas", "seulement", "avant de", "à condition que", "jamais")
+3. Contain key quantities, frequencies, or time markers that differentiate the correct \
+   answer from distractors
+4. Express intent, obligation, opinion, or certainty relevant to the correct answer
+
+Rules:
+- Return ONLY a JSON array of exact verbatim strings from the transcript
+- Include ALL relevant phrases — err on the side of completeness
+- Each string must be an exact substring of the transcript
+- No explanation, no commentary
 
 Transcript: {transcript}
 Question: {question}
@@ -44,6 +70,26 @@ Options:
 {options_block}
 Correct answer: {right_option}. {correct_option_text}\
 """
+
+
+def normalize_quotes(s: str) -> str:
+    """Replace curly apostrophes/quotes with straight ones for matching."""
+    return s.replace("\u2019", "'").replace("\u2018", "'").replace("\u201c", '"').replace("\u201d", '"')
+
+
+def fix_highlight(transcript: str, highlight: str) -> str | None:
+    """Return the verbatim transcript span that matches highlight, or None."""
+    if highlight in transcript:
+        return highlight
+    norm_t = normalize_quotes(transcript)
+    norm_h = normalize_quotes(highlight)
+    idx = norm_t.find(norm_h)
+    if idx != -1:
+        return transcript[idx: idx + len(norm_h)]
+    idx = norm_t.lower().find(norm_h.lower())
+    if idx != -1:
+        return transcript[idx: idx + len(norm_h)]
+    return None
 
 
 def is_image_question(options: list[str]) -> bool:
@@ -84,7 +130,7 @@ def extract_highlights(
     prompt = build_prompt(question)
     response = client.messages.create(
         model=model,
-        max_tokens=512,
+        max_tokens=1024,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}],
     )
@@ -102,15 +148,23 @@ def extract_highlights(
     ):
         raise ValueError(f"Expected list of strings, got: {highlights!r}")
 
-    return highlights
+    # Ensure every highlight is a verbatim substring; fix quote mismatches, drop hallucinations.
+    transcript = question["audio_transcript"]
+    verified = []
+    for h in highlights:
+        fixed = fix_highlight(transcript, h)
+        if fixed:
+            verified.append(fixed)
+        else:
+            print(f"  (dropped non-verbatim: {h!r})", flush=True)
+    return verified
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Add LLM-generated highlights to CO questions."
+        description="Update highlights in a CO questions JSON file (in-place)."
     )
-    parser.add_argument("--input", required=True, help="Path to input JSON file")
-    parser.add_argument("--output", required=True, help="Path to output JSON file")
+    parser.add_argument("--input", required=True, help="Path to JSON file (updated in-place)")
     parser.add_argument(
         "--model",
         default="claude-haiku-4-5-20251001",
@@ -118,12 +172,12 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    with open(args.input, encoding="utf-8") as f:
+    input_path = Path(args.input)
+    with open(input_path, encoding="utf-8") as f:
         questions = json.load(f)
 
     client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
-    enriched = []
     for q in questions:
         qno = q.get("question_no", "?")
         print(f"Processing Q{qno}...", end=" ", flush=True)
@@ -134,12 +188,12 @@ def main() -> None:
             print(f"WARNING: could not parse highlights — {exc}")
             highlights = []
 
-        enriched.append({**q, "highlights": highlights})
+        q["highlights"] = highlights
 
-    with open(args.output, "w", encoding="utf-8") as f:
-        json.dump(enriched, f, ensure_ascii=False, indent=2)
+    with open(input_path, "w", encoding="utf-8") as f:
+        json.dump(questions, f, ensure_ascii=False, indent=2)
 
-    print(f"\nWrote {len(enriched)} questions to {args.output}")
+    print(f"\nUpdated {len(questions)} questions in {input_path}")
 
 
 if __name__ == "__main__":

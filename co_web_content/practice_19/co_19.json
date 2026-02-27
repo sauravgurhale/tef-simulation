@@ -1,0 +1,482 @@
+[
+  {
+    "question_no": 1,
+    "question": "Vous allez entendre des conversations entre deux personnes. Indiquez à quel dessin correspond chaque conversation.\n[image] @co_19_images/co-19-1-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Bonjour, je voudrais enregistrer ma valise. — Bien sûr, votre vol est à quelle destination ? — Pour Montréal à 14 heures 30.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 2,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_19_images/co-19-2-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Bonjour, qu'est-ce qui vous amène aujourd'hui ? — J'ai mal à la gorge depuis 3 jours. — D'accord, je vais vous examiner.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 3,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_19_images/co-19-3-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Salut Rachel, pour les prochaines vacances, tu restes en ville ? — Oui, je veux découvrir tous les quartiers, les bâtiments, les monuments.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 4,
+    "question": "Indiquez à quel dessin correspond chaque conversation.\n[image] @co_19_images/co-19-4-min.png",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "audio_transcript": "Tu as des nouvelles de Marina ? Ça fait longtemps. — Oui, je l'ai eue au téléphone. — En ce moment, elle n'a pas une minute à elle, elle passe tout son temps au bureau.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 5,
+    "question": "Ce message annonce",
+    "options": [
+      "L'embarquement immédiat du vol AF352.",
+      "L'annulation du vol AF352.",
+      "Le retard du vol AF352.",
+      "Un changement de porte d'embarquement."
+    ],
+    "audio_transcript": "Mesdames et messieurs, nous vous informons que le vol AF 352 à destination de Toronto est retardé en raison des conditions météorologiques défavorables. Nous vous remercions de votre patience et vous tiendrons informés dès que possible.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 6,
+    "question": "D’après ce message, cette réduction concerne",
+    "options": [
+      "Tous les articles du magasin.",
+      "Les produits frais.",
+      "Les produits en promotion.",
+      "Les articles ménagers."
+    ],
+    "audio_transcript": "Chers clients, aujourd'hui seulement, bénéficiez d'une réduction exceptionnelle de 20 % sur tous les produits Lifray. Profitez-en avant la fermeture du magasin ce soir.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 7,
+    "question": "Ce message informe que ce train",
+    "options": [
+      "Part bientôt pour Marseille.",
+      "A été annulé.",
+      "A changé de quai.",
+      "Est arrivé en retard."
+    ],
+    "audio_transcript": "Le train en provenance de Lyon et à destination de Marseille partira du quai numéro 5 dans 10 minutes. Les passagers sont priés de se rendre sur le quai dès maintenant.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 8,
+    "question": "Ce message indique que la séance",
+    "options": [
+      "A été annulée.",
+      "Va bientôt commencer.",
+      "A été reportée.",
+      "Est complète."
+    ],
+    "audio_transcript": "La séance du film Le Grand Voyage, prévue à dix-huit heures 30, débutera dans quelques minutes. Les spectateurs sont priés de rejoindre la salle dès maintenant.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 9,
+    "question": "La personne appelle pour…",
+    "options": [
+      "donner des précisions.",
+      "promouvoir un article.",
+      "obtenir des informations.",
+      "confirmer sa participation."
+    ],
+    "audio_transcript": "Bonjour, j'ai vu votre publicité pour un atelier de dégustation. Je suis intéressé, mais je voudrais plus de renseignements. Pourriez-vous me rappeler au cinquante-cinq 81 soixante-neuf soixante-quinze vingt-trois ? Merci beaucoup.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 10,
+    "question": "La personne appelle pour…",
+    "options": [
+      "proposer de l'aide.",
+      "vendre un produit.",
+      "inviter à une activité.",
+      "demander un service."
+    ],
+    "audio_transcript": "Salut Williams, j'espère que tu vas bien. Mon ordinateur est encore en panne, le problème n'est pas réglé. Est-ce que tu pourrais regarder une dernière fois ? Bon, je te rappelle, bisous.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 11,
+    "question": "La personne appelle pour…",
+    "options": [
+      "inviter à un Salon.",
+      "proposer un rendez-vous.",
+      "négocier des tarifs.",
+      "demander un service."
+    ],
+    "audio_transcript": "Oui bonjour, c'est Camara de l'Institut français de Guinée. Nous nous sommes rencontrés au salon des entreprises. Vous étiez intéressé par des cours de français pour vos collaborateurs. Je serais ravi de venir vous présenter nos offres. N'hésitez pas à me rappeler.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 12,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Pour refuser un prêt.",
+      "Pour demander un paiement.",
+      "Pour annoncer une acceptation.",
+      "Pour modifier un contrat."
+    ],
+    "audio_transcript": "Bonjour monsieur Frédéric, votre demande de prêt a été acceptée. Après analyse de votre dossier, nous vous invitons à prendre rendez-vous en agence pour signer les documents nécessaires. N'hésitez pas à nous contacter pour toute question. À bientôt.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 13,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Pour annoncer un changement d'adresse.",
+      "Pour signaler un document disponible.",
+      "Pour proposer un rendez-vous.",
+      "Pour demander des informations."
+    ],
+    "audio_transcript": "Bonjour madame Leclerc, c'est la mairie. Votre nouvelle carte d'identité est prête. Vous pouvez venir la récupérer aux heures d'ouverture. Bonne journée.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 14,
+    "question": "La personne appelle pour…",
+    "options": [
+      "Pour demander un paiement.",
+      "Pour refuser une réclamation.",
+      "Pour donner une information sur une demande.",
+      "Pour faire une publicité."
+    ],
+    "audio_transcript": "Bonjour madame Martin, ici Thomas du service clientèle. Nous avons bien reçu votre demande de remboursement. Un conseiller vous contactera sous quarante-huit heures. Merci de votre patience.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 15,
+    "question": "La personne interrogée…",
+    "options": [
+      "y accorde beaucoup d'importance.",
+      "y accorde un peu d'importance.",
+      "n'y accorde pas d'importance.",
+      "ne se prononce pas."
+    ],
+    "audio_transcript": "Il y a le label Made in Cameroun. Ça, c'est bien pour soutenir l'économie locale.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 16,
+    "question": "La personne interrogée…",
+    "options": [
+      "y accorde beaucoup d'importance.",
+      "y accorde un peu d'importance.",
+      "n'y accorde pas d'importance.",
+      "ne se prononce pas."
+    ],
+    "audio_transcript": "J'en achète parfois, si ce n'est pas trop cher.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 17,
+    "question": "La personne interrogée…",
+    "options": [
+      "y accorde beaucoup d'importance.",
+      "y accorde un peu d'importance.",
+      "n'y accorde pas d'importance.",
+      "ne se prononce pas."
+    ],
+    "audio_transcript": "Je n'achète que des produits garantissant le bien-être animal et pour ça il faut de la transparence, donc des labels. C'est pas compliqué, du bio provenant de l'autre bout du monde, non merci, faut arrêter avec ces concepts marketing. Je privilégie le local, le fait maison.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 18,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, j'achète presque exclusivement du bio.",
+      "Oui, mais seulement de temps en temps.",
+      "Non, je ne vois pas l'intérêt.",
+      "Je ne sais pas trop quoi en penser."
+    ],
+    "audio_transcript": "Je fais très attention à ce que je mange, je privilégie toujours le bio.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 19,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, j'achète presque exclusivement du bio.",
+      "Oui, mais seulement de temps en temps.",
+      "Non, je ne vois pas l'intérêt.",
+      "Je ne sais pas trop quoi en penser."
+    ],
+    "audio_transcript": "J'achète du bio si ce n'est pas trop cher, mais je ne fais pas toujours attention.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 20,
+    "question": "La personne interrogée…",
+    "options": [
+      "Oui, j'achète presque exclusivement du bio.",
+      "Oui, mais seulement de temps en temps.",
+      "Non, je ne vois pas l'intérêt.",
+      "Je ne sais pas trop quoi en penser."
+    ],
+    "audio_transcript": "Pour moi, le bio, c'est juste du marketing. Je préfère acheter ce qui est moins cher.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 21,
+    "question": "Ce texte met principalement en lumière :",
+    "options": [
+      "Le comportement agressif du tigre envers les humains.",
+      "La difficulté de repérer le tigre dans son habitat naturel.",
+      "Le danger que représente l’homme pour la survie du tigre.",
+      "L’abondance des tigres dans les forêts du Bangladesh."
+    ],
+    "audio_transcript": "Au Bangladesh, on le surnomme Mama. C'est le tigre du Bengale. Deux cent mille au début du vingtième siècle, il en reste seulement quatre mille, dont la plus grosse partie est ici, dans les mangroves de Sundarbans. Il est pourtant tout en haut de la chaîne alimentaire et normalement, personne ne vient lui chercher des noises. Roi du camouflage, il se fond dans les hautes herbes avant de fondre sur sa proie. Là, tu me vois, là, tu ne me vois pas. Normalement, sa couleur orangée ne gêne pas, car la plupart des animaux qu'il chasse sont daltoniens. Mais l'homme armé d'un fusil, lui, le voit très bien et ne le rate pas. Si rien n'est fait, le tigre du Bengale aura complètement disparu en 2070. Là, tu me vois, là, tu ne me vois plus.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 22,
+    "question": "Selon cette chronique, un des effets du manque de sommeil est…",
+    "options": [
+      "Une meilleure concentration.",
+      "Une augmentation du stress.",
+      "Une réduction des problèmes cardiovasculaires.",
+      "Un gain d'énergie immédiat."
+    ],
+    "audio_transcript": "Le sommeil joue un rôle essentiel dans notre santé physique et mentale. Pourtant, de nombreuses personnes dorment moins que les 7 à 9 heures recommandées par les experts. Le manque de sommeil peut entraîner une baisse de concentration, du stress et même des problèmes cardiovasculaires. Les écrans sont l'un des principaux responsables de cette tendance, car la lumière bleue perturbe l'endormissement. De plus, le stress et les horaires de travail irréguliers compliquent l'adoption d'une routine stable. Pour améliorer la qualité du sommeil, il est conseillé d'éviter les écrans avant de dormir et d'adopter des horaires fixes. Une alimentation équilibrée et la pratique du sport peuvent aussi aider. Enfin, une chambre calme et sombre favorise un sommeil réparateur. Mieux dormir permet d'être plus productif et en meilleure santé au quotidien.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 23,
+    "question": "L’invitée rappelle que",
+    "options": [
+      "la précarité financière des aînés est bien réelle.",
+      "les aides aux personnes âgées ont encore chuté.",
+      "le budget est établi selon des critères contestables.",
+      "la ministre ne fait que tenir une promesse électorale."
+    ],
+    "audio_transcript": "La ministre des Finances a présenté hier son budget qui a pour titre, rendre la vie des Canadiens plus abordable. Gisèle Marcelin, est-ce que les aînés y trouvent leurs comptes ? Le gouvernement fédéral avait annoncé une bonification du supplément de revenus garantis a manifestement été oublié. Rappelons que les personnes qui en bénéficient vivent avec moins de 20000 dollars par an, ce qui est très peu. Les gens mettent leurs mains dans les poches à la fin du mois pour payer le loyer, l'épicerie et ainsi de suite. Au Québec, il existe un crédit d'impôt sur la prolongation de carrière. Est-ce que ça fait une grande différence pour les personnes de soixante-cinq ans et plus qui hésitent à prendre leur retraite ? Financièrement, c'est certain, ainsi que pour la socialisation des aînés. Et avec la pénurie de main-d'oeuvre qui bat son plein, ça aurait été un avantage de mettre dans le budget fédéral ce crédit d'impôt là.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 24,
+    "question": "Selon elle, l’emploi des aînés",
+    "options": [
+      "permet un transfert des compétences.",
+      "apporte une réponse à la crise de l'emploi.",
+      "augmente les recettes provenant des impôts.",
+      "entraîne des coûts de santé supplémentaires."
+    ],
+    "audio_transcript": "La ministre des Finances a présenté hier son budget qui a pour titre, rendre la vie des Canadiens plus abordable. Gisèle Marcelin, est-ce que les aînés y trouvent leurs comptes ? Le gouvernement fédéral avait annoncé une bonification du supplément de revenus garantis a manifestement été oublié. Rappelons que les personnes qui en bénéficient vivent avec moins de 20000 dollars par an, ce qui est très peu. Les gens mettent leurs mains dans les poches à la fin du mois pour payer le loyer, l'épicerie et ainsi de suite. Au Québec, il existe un crédit d'impôt sur la prolongation de carrière. Est-ce que ça fait une grande différence pour les personnes de soixante-cinq ans et plus qui hésitent à prendre leur retraite ? Financièrement, c'est certain, ainsi que pour la socialisation des aînés. Et avec la pénurie de main-d'oeuvre qui bat son plein, ça aurait été un avantage de mettre dans le budget fédéral ce crédit d'impôt là.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 25,
+    "question": "L’invité explique que son métier est motivant parce que :",
+    "options": [
+      "Il permet d'aider les gens.",
+      "II est toujours le même chaque jour.",
+      "Il ne nécessite pas de travail en équipe.",
+      "Il ne présente aucun défi."
+    ],
+    "audio_transcript": "Aujourd'hui, nous avons le plaisir d'accueillir Maxime, pompier depuis 10 ans. Maxime, votre métier est souvent perçu comme héroïque. Qu'est-ce qui vous motive au quotidien ? Effectivement, c'est un métier exigeant. Mais ce qui me motive, c'est l'envie d'aider les gens. Nous intervenons dans des situations d'urgence, que ce soit pour des incendies, des accidents ou des sauvetages. Il faut être prêt à réagir rapidement et à travailler en équipe. Chaque jour est différent et c'est ce qui rend ce métier passionnant. Quels sont selon vous les défis les plus difficiles à surmonter dans votre profession ? Le stress et la fatigue sont des défis constants. Nous devons être en excellentes conditions physiques et mentales pour gérer la pression. De plus, il faut savoir gérer ses émotions face à des situations parfois très dures. Mais malgré tout, le sentiment d'avoir aidé quelqu'un est une grande satisfaction.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 26,
+    "question": "Selon Maxime, un des plus grands défis du métier de pompier est",
+    "options": [
+      "Le manque de variété dans le travail.",
+      "La gestion du stress et de la fatigue.",
+      "L'absence de travail en équipe.",
+      "La possibilité de travailler en bureau."
+    ],
+    "audio_transcript": "Aujourd'hui, nous avons le plaisir d'accueillir Maxime, pompier depuis 10 ans. Maxime, votre métier est souvent perçu comme héroïque. Qu'est-ce qui vous motive au quotidien ? Effectivement, c'est un métier exigeant. Mais ce qui me motive, c'est l'envie d'aider les gens. Nous intervenons dans des situations d'urgence, que ce soit pour des incendies, des accidents ou des sauvetages. Il faut être prêt à réagir rapidement et à travailler en équipe. Chaque jour est différent et c'est ce qui rend ce métier passionnant. Quels sont selon vous les défis les plus difficiles à surmonter dans votre profession ? Le stress et la fatigue sont des défis constants. Nous devons être en excellentes conditions physiques et mentales pour gérer la pression. De plus, il faut savoir gérer ses émotions face à des situations parfois très dures. Mais malgré tout, le sentiment d'avoir aidé quelqu'un est une grande satisfaction.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 27,
+    "question": "Selon l’invitée, un des avantages du télétravail est",
+    "options": [
+      "Une réduction du temps de trajet.",
+      "Une difficulté accrue pour organiser son travail.",
+      "Une augmentation des distractions.",
+      "Une baisse de la productivité."
+    ],
+    "audio_transcript": "Bonjour à tous et bienvenue dans notre émission. Aujourd'hui, nous abordons un sujet d'actualité, le télétravail. Avec la montée du travail à distance, de nombreuses entreprises et employés doivent s'adapter. Pour en parler, nous accueillons madame Sophie Durand, experte en ressources humaines. Merci d'avoir accepté notre invitation. Merci à vous pour l'invitation. C'est un sujet passionnant qui mérite d'être discuté. Le télétravail s'est beaucoup développé ces dernières années. Quels sont, selon vous, ses principaux avantages ? Il offre plus de flexibilité aux employés, réduit les temps de trajet et peut améliorer la productivité. Certains travailleurs trouvent aussi un meilleur équilibre entre vie professionnelle et personnelle. Mais il y a aussi des défis. Pouvez-vous nous en parler ? Bien sûr. L'isolement, la difficulté à séparer vie privée et travail et le manque de communication avec les collègues sont des défis majeurs. De plus, certains employeurs ont du mal à évaluer la performance à distance. Comment peut-on améliorer l'expérience du télétravail ? Une bonne organisation est essentielle. Les entreprises doivent nous fournir des outils adaptés, encourager des réunions régulières et fixer des attentes claires. Il faut aussi veiller au bien-être des employés. Merci pour ces éclairages précieux, madame Durand.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 28,
+    "question": "L’invitée indique que l’un des défis du télétravail est",
+    "options": [
+      "Une diminution du stress.",
+      "Une meilleure concentration au travail.",
+      "Le manque de communication avec les collègues.",
+      "Une interaction plus fréquente avec les employeurs."
+    ],
+    "audio_transcript": "Bonjour à tous et bienvenue dans notre émission. Aujourd'hui, nous abordons un sujet d'actualité, le télétravail. Avec la montée du travail à distance, de nombreuses entreprises et employés doivent s'adapter. Pour en parler, nous accueillons madame Sophie Durand, experte en ressources humaines. Merci d'avoir accepté notre invitation. Merci à vous pour l'invitation. C'est un sujet passionnant qui mérite d'être discuté. Le télétravail s'est beaucoup développé ces dernières années. Quels sont, selon vous, ses principaux avantages ? Il offre plus de flexibilité aux employés, réduit les temps de trajet et peut améliorer la productivité. Certains travailleurs trouvent aussi un meilleur équilibre entre vie professionnelle et personnelle. Mais il y a aussi des défis. Pouvez-vous nous en parler ? Bien sûr. L'isolement, la difficulté à séparer vie privée et travail et le manque de communication avec les collègues sont des défis majeurs. De plus, certains employeurs ont du mal à évaluer la performance à distance. Comment peut-on améliorer l'expérience du télétravail ? Une bonne organisation est essentielle. Les entreprises doivent nous fournir des outils adaptés, encourager des réunions régulières et fixer des attentes claires. Il faut aussi veiller au bien-être des employés. Merci pour ces éclairages précieux, madame Durand.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 29,
+    "question": "Une grande partie du gaspillage alimentaire dans les pays industrialisés provient",
+    "options": [
+      "Des supermarchés et des ménages.",
+      "Des champs et des récoltes.",
+      "Des restaurants et des cantines.",
+      "Des producteurs agricoles."
+    ],
+    "audio_transcript": "La lutte contre le gaspillage alimentaire, un défi mondial. Chaque année, un million de tonnes de nourriture sont jetées à travers le monde alors que de nombreuses populations souffrent de malnutrition. Le gaspillage alimentaire concerne toute la chaîne de production, de l'agriculture à la consommation finale. Selon la FAO, près d'un tiers des aliments produits ne sont jamais consommés, soit environ 1,3 milliard de tonnes de nourriture perdue chaque année. Les causes de ce gaspillage sont multiples. Dans les pays industrialisés, une grande partie des aliments est jetée par les supermarchés et les ménages en raison de dates de péremption mal comprises ou d'achats excessifs. Les promotions incitant à acheter en grande quantité poussent aussi les consommateurs à stocker plus qu'ils ne peuvent consommer. Dans les pays en développement, ce sont surtout les infrastructures de stockage et de transport qui posent problème, entraînant la détérioration des produits avant leur arrivée sur les marchés. Au-delà des pertes financières, le gaspillage alimentaire a un impact écologique considérable. Produire des aliments qui ne seront jamais consommés mobilise des ressources précieuses : eau, terres agricoles, énergies et main-d’œuvre. De plus, les déchets alimentaires en décomposition dans les décharges libèrent du méthane, un gaz à effet de serre bien plus puissant que le CO₂, contribuant ainsi au réchauffement climatique. Face à ce constat, de nombreuses initiatives émergent. Certains pays adoptent des lois interdisant aux supermarchés de jeter les invendus, les obligeant à les donner à des associations caritatives. Des applications mobiles permettent aussi de récupérer à moindre coût des produits proches de leur date limite de consommation. Par ailleurs, les consommateurs sont encouragés à mieux planifier leurs achats et à utiliser des techniques de conservation plus efficaces, comme le stockage sous vide ou la congélation. Réduire le gaspillage alimentaire représente un enjeu économique, écologique et social majeur. Moins de nourriture gaspillée signifie une consommation moindre des ressources naturelles et une réduction des émissions de gaz à effet de serre. La question demeure, sommes-nous prêts à changer nos habitudes pour un modèle plus responsable ?",
+    "right_option": "A"
+  },
+  {
+    "question_no": 30,
+    "question": "Réduire le gaspillage alimentaire permet de limiter",
+    "options": [
+      "Le coût des produits alimentaires.",
+      "L'impact environnemental.",
+      "La production agricole.",
+      "L'importation de denrées."
+    ],
+    "audio_transcript": "La lutte contre le gaspillage alimentaire, un défi mondial. Chaque année, un million de tonnes de nourriture sont jetées à travers le monde alors que de nombreuses populations souffrent de malnutrition. Le gaspillage alimentaire concerne toute la chaîne de production, de l'agriculture à la consommation finale. Selon la FAO, près d'un tiers des aliments produits ne sont jamais consommés, soit environ 1,3 milliard de tonnes de nourriture perdue chaque année. Les causes de ce gaspillage sont multiples. Dans les pays industrialisés, une grande partie des aliments est jetée par les supermarchés et les ménages en raison de dates de péremption mal comprises ou d'achats excessifs. Les promotions incitant à acheter en grande quantité poussent aussi les consommateurs à stocker plus qu'ils ne peuvent consommer. Dans les pays en développement, ce sont surtout les infrastructures de stockage et de transport qui posent problème, entraînant la détérioration des produits avant leur arrivée sur les marchés. Au-delà des pertes financières, le gaspillage alimentaire a un impact écologique considérable. Produire des aliments qui ne seront jamais consommés mobilise des ressources précieuses : eau, terres agricoles, énergies et main-d’œuvre. De plus, les déchets alimentaires en décomposition dans les décharges libèrent du méthane, un gaz à effet de serre bien plus puissant que le CO₂, contribuant ainsi au réchauffement climatique. Face à ce constat, de nombreuses initiatives émergent. Certains pays adoptent des lois interdisant aux supermarchés de jeter les invendus, les obligeant à les donner à des associations caritatives. Des applications mobiles permettent aussi de récupérer à moindre coût des produits proches de leur date limite de consommation. Par ailleurs, les consommateurs sont encouragés à mieux planifier leurs achats et à utiliser des techniques de conservation plus efficaces, comme le stockage sous vide ou la congélation. Réduire le gaspillage alimentaire représente un enjeu économique, écologique et social majeur. Moins de nourriture gaspillée signifie une consommation moindre des ressources naturelles et une réduction des émissions de gaz à effet de serre. La question demeure, sommes-nous prêts à changer nos habitudes pour un modèle plus responsable ?",
+    "right_option": "B"
+  },
+  {
+    "question_no": 31,
+    "question": "Selon ce document, les nouvelles espèces marines sont découvertes grâce à",
+    "options": [
+      "La pollution des océans.",
+      "L'exploration scientifique.",
+      "La disparition de la biodiversité.",
+      "La pêche industrielle."
+    ],
+    "audio_transcript": "Les fonds marins recèlent encore de nombreux mystères. Chaque année, les scientifiques découvrent de nouvelles espèces marines aux caractéristiques étonnantes. Certaines possèdent des capacités d'adaptation uniques comme la bioluminescence ou la résistance à des pressions extrêmes. Ces découvertes permettent de mieux comprendre la biodiversité et d'explorer des solutions pour préserver les océans. Les progrès technologiques, notamment les sous-marins autonomes et les capteurs de haute précision, facilitent l'exploration des grandes profondeurs. Grâce à ces avancées, les chercheurs identifient de nouveaux écosystèmes et analysent leur rôle dans l'équilibre global de la planète. Certaines de ces espèces marines pourraient également inspirer des innovations en médecine ou en biotechnologie. Malgré ces découvertes fascinantes, la pollution des océans et le changement climatique menacent de nombreuses espèces, soulignant l'urgence d'agir pour protéger ces écosystèmes fragiles.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 32,
+    "question": "La fonte des glaciers provoque",
+    "options": [
+      "Une baisse du niveau des océans.",
+      "Une élévation du niveau des mers.",
+      "Une augmentation des terres cultivables.",
+      "Un refroidissement climatique."
+    ],
+    "audio_transcript": "Les glaciers fondent à un rythme alarmant en raison du réchauffement climatique. Ce phénomène entraîne une élévation du niveau des mers, menaçant les populations côtières. De nombreuses espèces animales dépendent des glaciers pour leur survie, comme les ours polaires et les phoques. La fonte des glaciers perturbe également l'approvisionnement en eau douce de 1 000 000 de personnes. Elle peut aussi entraîner des glissements de terrain et des inondations soudaines dans certaines régions. Les scientifiques alertent sur les conséquences désastreuses de cette situation si aucune mesure n'est prise. Des efforts internationaux sont nécessaires pour limiter les effets du changement climatique. Réduire les émissions de gaz à effet de serre est essentiel pour ralentir ce processus.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 33,
+    "question": "L’intelligence artificielle permet",
+    "options": [
+      "De remplacer de nombreuses tâches humaines.",
+      "De limiter les progrès technologiques.",
+      "De supprimer Internet.",
+      "D'analyser de grandes quantités de données."
+    ],
+    "audio_transcript": "L'intelligence artificielle, IA, transforme de nombreux secteurs de l'économie. Elle est utilisée dans la médecine, l'industrie, la finance et même les transports. Grâce aux algorithmes avancés, les machines peuvent analyser d'énormes quantités de données et prendre des décisions rapidement. Certaines IA sont capables de créer du contenu artistique, d'écrire des textes ou de simuler des conversations humaines. Cependant, ces avancées soulèvent aussi des questions éthiques, notamment sur la protection des emplois et la sécurité des données. L'intelligence artificielle continue d'évoluer et jouera un rôle majeur dans le futur. Elle est également utilisée pour améliorer les systèmes de reconnaissance faciale et automatiser des tâches complexes. Malgré son efficacité, l'intervention humaine reste souvent nécessaire pour superviser et corriger ses décisions.",
+    "right_option": "D"
+  },
+  {
+    "question_no": 34,
+    "question": "Les espaces verts en ville permettent",
+    "options": [
+      "De réguler la température urbaine.",
+      "De limiter l'accès aux espaces publics.",
+      "D'améliorer la qualité de l'air.",
+      "De réduire le nombre d'arbres."
+    ],
+    "audio_transcript": "Les espaces verts jouent un rôle essentiel dans les zones urbaines. Ils améliorent la qualité de l'air en absorbant le dioxyde de carbone et réduisent l'effet d'îlots de chaleur. Les parcs et jardins offrent aux habitants des lieux de détente et favorisent le bien-être mental. Ils sont également bénéfiques pour la biodiversité en accueillant de nombreuses espèces animales et végétales. Certaines villes investissent dans la plantation d'arbres et l'aménagement de toits végétalisés pour lutter contre la pollution. Développer les espaces verts est une priorité pour rendre les villes plus agréables à vivre. En plus de leur impact environnemental, ils encouragent aussi la pratique d'activités physiques et renforcent le lien social entre les habitants. De nombreuses études montrent que la présence de verdure en milieu urbain contribue à réduire le stress et l'anxiété.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 35,
+    "question": "L’exploration spatiale permet…",
+    "options": [
+      "De mieux comprendre l'univers.",
+      "De supprimer les satellites.",
+      "D'arrêter les recherches scientifiques.",
+      "De limiter la technologie."
+    ],
+    "audio_transcript": "L'exploration spatiale est un défi technologique et scientifique majeur. Les agences comme la NASA et l'ESA envoient des missions pour étudier les planètes et l'univers. Les avancées dans ce domaine permettent de mieux comprendre l'origine de la Terre et la possibilité de vie ailleurs. Les voyages spatiaux sont cependant coûteux et présentent des risques importants pour les astronautes. Des projets ambitieux comme l'installation d'une base sur la Lune ou une mission habitée vers Mars sont en cours de développement. L'avenir de l'exploration spatiale dépendra des avancées technologiques et du financement des programmes.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 36,
+    "question": "Le commerce équitable vise avant tout à",
+    "options": [
+      "Assurer aux producteurs une rémunération juste et stable.",
+      "Encourager la compétitivité en réduisant les coûts de production.",
+      "Augmenter les marges des intermédiaires.",
+      "Réserver le marché aux grandes entreprises."
+    ],
+    "audio_transcript": "Le commerce équitable vise à garantir une rémunération juste aux producteurs des pays en développement. Il permet aux agriculteurs et artisans de vendre leurs produits à un prix qui reflète leur véritable coût de production. Ce système favorise également de meilleures conditions de travail en interdisant l'exploitation et le travail forcé. Les consommateurs jouent un rôle clé en choisissant des produits labellisés commerce équitable. Le marché du commerce équitable s'est considérablement développé ces dernières années, notamment pour le café, le cacao et le textile. En plus de garantir des revenus stables, il encourage des pratiques agricoles respectueuses de l'environnement. Les coopératives de producteurs bénéficient d'un soutien financier et technique pour améliorer leur production. Ce modèle économique offre une alternative durable au commerce traditionnel. Il contribue aussi à réduire les inégalités économiques en donnant aux petits producteurs un meilleur accès au marché international. Certaines entreprises s'engagent à intégrer davantage de produits issus du commerce équitable dans leur chaîne d'approvisionnement. Malgré son essor, ce système fait face à des défis, notamment en termes de certification et de sensibilisation des consommateurs.",
+    "right_option": "A"
+  },
+  {
+    "question_no": 37,
+    "question": "Le tourisme de masse peut entraîner",
+    "options": [
+      "Une pression excessive sur les ressources naturelles.",
+      "Une pollution accrue.",
+      "Une diminution des impacts environnementaux.",
+      "Une préservation automatique des sites touristiques."
+    ],
+    "audio_transcript": "Le tourisme est un secteur économique majeur, mais il a aussi des effets négatifs sur l'environnement. L'afflux de visiteurs dans certaines régions entraîne une pollution accrue et une surexploitation des ressources naturelles. Les émissions de CO₂ des avions et des bateaux de croisière contribuent au changement climatique. Certaines destinations souffrent de surfréquentations, ce qui dégrade les écosystèmes locaux. L'urbanisation excessive liée au développement touristique peut également détruire des habitats naturels et perturber la faune locale. De plus, la production de déchets dans les zones touristiques, notamment plastiques, atteint des niveaux alarmants, mettant en danger les espèces marines et terrestres. Pour limiter ses impacts, de nouvelles formes de tourisme durable émergent comme l'écotourisme. Les voyageurs sont encouragés à adopter des comportements responsables comme limiter leur consommation de plastique ou privilégier les transports écologiques. Les gouvernements mettent en place des réglementations pour protéger les sites naturels et historiques. Certains pays imposent désormais des quotas de visiteurs pour préserver leurs sites les plus fragiles. Un tourisme plus respectueux de l'environnement est essentiel pour préserver les paysages et la biodiversité.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 38,
+    "question": "L’impact majeur de l’absence d’accès à l’eau potable",
+    "options": [
+      "Est une amélioration des conditions sanitaires.",
+      "Conduit à la contamination de l'environnement naturel.",
+      "Provoque des maladies graves liées à l'eau contaminée.",
+      "Réduit l'utilisation des ressources en eau dans les régions touchées."
+    ],
+    "audio_transcript": "L'eau potable est essentielle à la vie et à la santé humaine, car elle permet de maintenir l'équilibre hydrique du corps et de prévenir de nombreuses maladies. Pourtant, 1 000 000 de personnes à travers le monde n'ont toujours pas accès à une source d'eau propre, ce qui constitue un problème majeur de santé publique. La contamination de l'eau, qu'elle soit causée par des bactéries, des produits chimiques ou des métaux lourds, peut entraîner des maladies graves telles que le choléra et la dysenterie. Dans certaines régions, les sécheresses prolongées et les changements climatiques aggravent cette pénurie, rendant l'approvisionnement en eau encore plus difficile. Les inégalités d'accès à l'eau potable sont particulièrement frappantes dans les pays en développement, où les infrastructures nécessaires à un approvisionnement stable et sécurisé sont souvent inexistantes ou insuffisantes. Pour faire face à cette crise, les gouvernements et les organisations internationales lancent de plus en plus de projets visant à améliorer l'accès à l'eau potable. Des solutions comme la désalinisation de l'eau de mer, la filtration des eaux souterraines et de surface, ainsi que la gestion durable des ressources hydriques sont essentielles pour garantir un approvisionnement en eau fiable et propre à long terme. De plus, la sensibilisation aux pratiques de conservation de l'eau est cruciale pour éviter le gaspillage et préserver cette ressource précieuse. La coopération internationale et l'innovation technologique seront déterminantes pour résoudre ce défi mondial.",
+    "right_option": "C"
+  },
+  {
+    "question_no": 39,
+    "question": "L’accès aux études universitaires pourrait être rendu plus accessible",
+    "options": [
+      "En réduisant le nombre de diplômes proposés par les universités.",
+      "En augmentant les bourses d'études et les prêts étudiants à faible taux d'intérêt.",
+      "En limitant les formations à distance uniquement aux étudiants étrangers.",
+      "En augmentant le coût des frais de scolarité pour financer d'autres programmes."
+    ],
+    "audio_transcript": "Aujourd'hui, l'accès aux études universitaires reste un défi pour de nombreux jeunes. Les frais de scolarité élevés et le coût de la vie rendent difficile l'accès à l'université pour une grande partie de la population. Quelles solutions pourraient être mises en place pour aider les étudiants à surmonter ces obstacles financiers ? Il est vrai que les frais de scolarité élevés et les coûts associés peuvent être un obstacle majeur pour de nombreux jeunes, mais plusieurs solutions peuvent être envisagées. D'abord, les gouvernements pourraient augmenter les bourses d'études et rendre les prêts étudiants plus accessibles avec des taux d'intérêt réduits afin de permettre aux étudiants de financer leurs études sans se retrouver endettés à vie. Ensuite, il serait important de développer davantage les programmes de travail-études où les étudiants peuvent travailler à temps partiel pendant leurs études pour alléger leurs charges financières. De plus, les universités pourraient proposer des formations en ligne ou des cours à distance, ce qui permettrait de réduire les coûts liés au logement et aux déplacements. Enfin, il serait utile d'encourager les partenariats entre les entreprises et les établissements universitaires pour financer les stages ou les formations spécifiques, ce qui permettrait aux étudiants d'acquérir de l'expérience tout en réduisant leurs dépenses.",
+    "right_option": "B"
+  },
+  {
+    "question_no": 40,
+    "question": "Pour limiter le changement climatique, il est essentiel",
+    "options": [
+      "D'augmenter la consommation d'énergie fossile.",
+      "De cesser d'utiliser des énergies renouvelables.",
+      "D'encourager l'exploitation forestière.",
+      "De renforcer les réglementations pour limiter les émissions industrielles."
+    ],
+    "audio_transcript": "Le changement climatique est devenu une préoccupation majeure au niveau mondial. Les effets sont visibles, que ce soit à travers des phénomènes climatiques extrêmes ou la montée du niveau des mers. Quelles actions concrètes peuvent être prises pour ralentir ce processus ? Pour ralentir le changement climatique, il est essentiel d'agir à plusieurs niveaux. Tout d'abord, la réduction des émissions de gaz à effet de serre est cruciale, ce qui implique de passer à des énergies renouvelables comme le solaire et l'éolien, et de diminuer notre dépendance aux énergies fossiles. Les gouvernements peuvent mettre en place des politiques strictes pour limiter les émissions industrielles et promouvoir des transports plus écologiques. De plus, chaque individu peut contribuer en réduisant sa consommation d'énergie et en adoptant des modes de vie plus durables, comme la réduction des déchets et le recyclage. Enfin, il est important de restaurer les écosystèmes naturels, comme les forêts, qui jouent un rôle majeur dans l'absorption du CO₂.",
+    "right_option": "D"
+  }
+]

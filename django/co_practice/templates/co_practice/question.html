@@ -4,10 +4,10 @@
 {% block content %}
 <div class="max-w-5xl mx-auto px-4 py-6">
 
-  {# ── Nav bar ── #}
+  {# ── Top nav ── #}
   <div class="flex items-center justify-between mb-6">
     {% if prev_id %}
-      <a href="{% url 'question' prev_id %}"
+      <a href="{% url 'question' practice_slug prev_id %}"
          class="px-3 py-1.5 rounded border border-gray-300 text-sm text-gray-700 hover:bg-gray-100 transition-colors">
         ← Précédent
       </a>
@@ -18,13 +18,13 @@
     {% endif %}
 
     <span class="text-sm text-gray-500">
-      <a href="{% url 'index' %}" class="underline hover:text-indigo-600">Accueil</a>
+      <a href="{% url 'practice_index' practice_slug %}" class="underline hover:text-indigo-600">Accueil</a>
       &nbsp;·&nbsp; Q {{ question.question_no }} / 40
-      &nbsp;·&nbsp; <a href="{% url 'results' %}" class="underline hover:text-indigo-600">Résultats</a>
+      &nbsp;·&nbsp; <a href="{% url 'results' practice_slug %}" class="underline hover:text-indigo-600">Résultats</a>
     </span>
 
     {% if next_id %}
-      <a href="{% url 'question' next_id %}"
+      <a href="{% url 'question' practice_slug next_id %}"
          class="px-3 py-1.5 rounded border border-gray-300 text-sm text-gray-700 hover:bg-gray-100 transition-colors">
         Suivant →
       </a>
@@ -40,12 +40,12 @@
 
     {# ── Left column: question + answer interaction ── #}
     <div x-data="{
-      selected: localStorage.getItem('tef_q_{{ question.question_no }}') || '',
+      selected: localStorage.getItem('tef_p{{ practice_slug }}_q{{ question.question_no }}') || '',
       showAnswer: false,
       correct: '{{ question.right_option }}',
       choose(letter) {
         this.selected = letter;
-        localStorage.setItem('tef_q_{{ question.question_no }}', letter);
+        localStorage.setItem('tef_p{{ practice_slug }}_q{{ question.question_no }}', letter);
       }
     }">
 
@@ -150,7 +150,7 @@
         <p class="mt-2 text-xs text-gray-400 italic">
           Audio partagé avec la question
           {% for sid in audio_paths.shared_with %}
-            <a href="{% url 'question' sid %}" class="underline hover:text-indigo-500">{{ sid }}</a>{% if not forloop.last %}, {% endif %}
+            <a href="{% url 'question' practice_slug sid %}" class="underline hover:text-indigo-500">{{ sid }}</a>{% if not forloop.last %}, {% endif %}
           {% endfor %}
         </p>
         {% endif %}
@@ -159,17 +159,17 @@
       {# Transcription card #}
       <div class="bg-gray-100 rounded-lg border border-gray-200 p-4">
         <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">Transcription</h3>
-        <p class="text-sm text-gray-700 leading-relaxed">{{ question.audio_transcript }}</p>
+        <p class="text-sm text-gray-700 leading-relaxed">{{ highlighted_transcript }}</p>
       </div>
 
     </div>{# end right column #}
 
   </div>{# end grid #}
 
-  {# ── Bottom nav (duplicate) ── #}
+  {# ── Bottom nav ── #}
   <div class="flex items-center justify-between mt-8">
     {% if prev_id %}
-      <a href="{% url 'question' prev_id %}"
+      <a href="{% url 'question' practice_slug prev_id %}"
          class="px-3 py-1.5 rounded border border-gray-300 text-sm text-gray-700 hover:bg-gray-100 transition-colors">
         ← Précédent
       </a>
@@ -181,11 +181,11 @@
 
     <span class="text-sm text-gray-500">
       Q {{ question.question_no }} / 40
-      &nbsp;·&nbsp; <a href="{% url 'results' %}" class="underline hover:text-indigo-600">Résultats</a>
+      &nbsp;·&nbsp; <a href="{% url 'results' practice_slug %}" class="underline hover:text-indigo-600">Résultats</a>
     </span>
 
     {% if next_id %}
-      <a href="{% url 'question' next_id %}"
+      <a href="{% url 'question' practice_slug next_id %}"
          class="px-3 py-1.5 rounded border border-gray-300 text-sm text-gray-700 hover:bg-gray-100 transition-colors">
         Suivant →
       </a>

@@ -38,3 +38,17 @@ WSGI_APPLICATION = 'tef_co.wsgi.application'
 DATABASES = {}
 
 STATIC_URL = '/static/'
+
+# Auto-register static dirs for every co_web_content/practice_*/ folder.
+# Audio segments → co_practice/<slug>/audio/
+# Image folder(s) → co_practice/<slug>/images/
+_CO_WEB_CONTENT = BASE_DIR.parent / 'co_web_content'
+STATICFILES_DIRS = []
+for _practice_dir in sorted(_CO_WEB_CONTENT.glob('practice_*')):
+    _slug = _practice_dir.name[len('practice_'):]
+    _audio = _practice_dir / 'audio'
+    if _audio.is_dir():
+        STATICFILES_DIRS.append((f'co_practice/{_slug}/audio', _audio))
+    for _d in sorted(_practice_dir.iterdir()):
+        if _d.is_dir() and _d.name != 'audio':
+            STATICFILES_DIRS.append((f'co_practice/{_slug}/images', _d))
