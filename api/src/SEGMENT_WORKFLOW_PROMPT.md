@@ -109,6 +109,37 @@ Then verify:
 
 ---
 
+## Notes from Practice 6 (reference)
+
+- **47 raw segments** produced. Needed **3 drops** to reach 44.
+- `analyze_segments.py` caught **3 near-perfect duplicate pairs** (sim ~0.999): raw_029/030, raw_031/032, raw_033/034. Drop the second of each pair.
+- **Non-standard group structure**: Group 2 has only Q5–Q7 (3 Qs); Group 3 intro at seg_10 (raw_010, 4.2s — confirmed "messages téléphoniques"); Group 4 has 6 Qs; Group 5 has 2 Qs; Group 6 intro at seg_28 (raw_028, 7.2s — confirmed "Intro: entretien") with no separate Q21/Q22 audio between it and the dialogue section.
+- **REORDER required for seg_29–33**: raw_035 (7.3s) = Group 7 intro — appears AFTER the 3 dup dialogue pairs in the raw file; mapped non-sequentially to seg_29. raw_029/031/033 (dialogue pairs 1–3) are remapped to seg_30–32.
+- raw_029 (43.4s) = Dialogue pair 1 Q23–24 → seg_30 ✓ (confirmed)
+- raw_031 (74.3s) = Dialogue pair 2 Q25–26 → seg_31 ✓
+- raw_033 (71.8s) = Dialogue pair 3 Q27–28 → seg_32 ✓
+- raw_036 (89.1s) = Dialogue pair 4 Q29–30 → seg_33 ✓
+- raw_037 (6.6s) = Group 8 intro → seg_34 ✓
+- raw_038–047 = Q31–Q40 → seg_35–44 ✓
+- raw_026 (41.2s) = Q21 full question audio (confirmed); raw_027 (53.9s) = Q22 full question audio (confirmed).
+- **raw_001 (24.5s) had Group 1 intro + Q1 merged** — re-split with min_silence=500ms into 3 parts: raw_001a (3.0s) + raw_001b (5.7s) = Group 1 intro → seg_01; raw_001c (13.4s) = Q1 → seg_02.
+- **Group 6 reorder**: raw_028 (Group 6 intro) moved to seg_26; raw_026 (Q21) → seg_27; raw_027 (Q22) → seg_28. Intro must precede questions.
+- Segment map saved at: `/tmp/co_6_raw/segment_map.json`
+
+## Notes from Practice 8 (reference)
+
+- **46 raw segments** produced. Needed **3 drops** to reach 43 + 1 borrowed = 44.
+- Same structure as practice_7: 3 near-perfect dup pairs (sim ~0.999): raw_030/031, raw_032/033, raw_034/035. Drop second of each.
+- raw_029 (5.2s) = Group 7 intro → seg_29 ✓
+- raw_030 (126.6s) = Dialogue pair 1 (Q23-24, 18.8 c/s) → seg_30 ✓
+- raw_032 (127.7s) = Dialogue pair 2 (Q25-26, 17.1 c/s) → seg_31 ✓
+- raw_034 (135.5s) = Dialogue pair 3 (Q27-28, 19.5 c/s) → seg_32 ✓
+- raw_036 (178.4s) = Dialogue pair 4 (Q29-30, 17.1 c/s) → seg_33 ✓
+- **Group 8 intro NOT present in raw recording** — borrowed from practice_1 `segment_34.mp3` (6.5s) → seg_34.
+- raw_037–046 = Q31–Q40 → seg_35–44 ✓ (all 17–21 c/s)
+- Group 4 intro (raw_018, 29.9s) and Group 5 intro (raw_022, 25.9s) are longer than typical — same confirmed pattern as practice_7.
+- Segment map saved at: `/tmp/co_8_raw/segment_map.json`
+
 ## Notes from Practice 7 (reference)
 
 - **46 raw segments** produced. Needed **3 drops** to reach 43 + 1 borrowed = 44.
