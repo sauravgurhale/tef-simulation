@@ -20,8 +20,13 @@ def get_practice_folder(slug):
 
 
 def get_audio_mode(slug):
-    """Returns ('full', 'full_raw/filename.mp3') or ('segments', None)."""
-    full_raw_dir = get_practice_folder(slug) / 'audio' / 'full_raw'
+    """Returns ('full', 'full_raw/filename.mp3') or ('segments', None).
+    Segments take priority over full raw audio if both are present.
+    """
+    audio_dir = get_practice_folder(slug) / 'audio'
+    if list(audio_dir.glob('segment_*.mp3')):
+        return 'segments', None
+    full_raw_dir = audio_dir / 'full_raw'
     if full_raw_dir.is_dir():
         mp3s = list(full_raw_dir.glob('*.mp3'))
         if mp3s:
