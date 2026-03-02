@@ -15,6 +15,20 @@
       "des frites",
       "une salade",
       "une carafe d'eau"
+    ],
+    "english_translation": "Hello, here is your dish, a steak with fries and a salad on the side. If you need anything else, don't hesitate to let me know. Thank you very much, it looks delicious. Could you also bring me a carafe of water, please?",
+    "english_translation_highlights": [
+      "a steak",
+      "fries",
+      "a salad",
+      "a carafe of water"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_5_images/co-5-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -32,6 +46,19 @@
       "le vol pour Montréal",
       "l'embarquement commencera dans environ 20 minutes",
       "à la porte 14"
+    ],
+    "english_translation": "Excuse me, is the flight to Montreal still scheduled on time? Yes, boarding will begin in about 20 minutes at gate 14. Don't forget.",
+    "english_translation_highlights": [
+      "the flight to Montreal",
+      "boarding will begin in about 20 minutes",
+      "at gate 14"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_5_images/co-5-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -54,6 +81,24 @@
       "dites \"ah\"",
       "examiner votre gorge",
       "infection"
+    ],
+    "english_translation": "Doctor, I have a sore throat and I've had a high fever for 3 days. I'm also very tired. Alright, open your mouth and say \"ah,\" I'm going to examine your throat to see if it's an infection.",
+    "english_translation_highlights": [
+      "Doctor",
+      "a sore throat",
+      "a high fever",
+      "very tired",
+      "open your mouth",
+      "say \"ah\"",
+      "examine your throat",
+      "infection"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_5_images/co-5-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -73,6 +118,21 @@
       "arrive demain matin",
       "un envoi en express",
       "un suivi du colis"
+    ],
+    "english_translation": "I would like to send this package by express delivery so that it arrives tomorrow morning, how much would that cost? Hello ma'am, for an express shipment, that will come to 15 euros. Would you also like package tracking?",
+    "english_translation_highlights": [
+      "send this package",
+      "by express delivery",
+      "arrives tomorrow morning",
+      "an express shipment",
+      "package tracking"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_5_images/co-5-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -90,6 +150,19 @@
       "La séance du film Aventure en Alaska prévue à 20 heures est complète",
       "Une nouvelle séance sera programmée à vingt-deux heures",
       "pour ceux qui souhaitent y assister"
+    ],
+    "english_translation": "The 8 PM showing of the film Adventure in Alaska is sold out. A new showing will be scheduled at 10 PM for those who wish to attend. Please go to the ticket counter to reserve your seats.",
+    "english_translation_highlights": [
+      "The 8 PM showing of the film Adventure in Alaska is sold out",
+      "A new showing will be scheduled at 10 PM",
+      "for those who wish to attend"
+    ],
+    "english_question": "This message announces:",
+    "english_options": [
+      "The cancellation of the film.",
+      "A new screening.",
+      "A discount on the tickets.",
+      "A change of film."
     ]
   },
   {
@@ -110,6 +183,22 @@
       "respecter les drapeaux rouges",
       "de ne pas vous approcher de l'eau",
       "Votre sécurité, c'est une autre priorité"
+    ],
+    "english_translation": "Attention, swimming is prohibited today due to a strong ocean current. Please respect the red flags and do not go near the water. Your safety is our top priority.",
+    "english_translation_highlights": [
+      "swimming is prohibited",
+      "today",
+      "due to a strong ocean current",
+      "respect the red flags",
+      "do not go near the water",
+      "Your safety is our top priority"
+    ],
+    "english_question": "This message announces",
+    "english_options": [
+      "A beach party.",
+      "A swimming lesson.",
+      "A swimming ban.",
+      "A new water activity."
     ]
   },
   {
@@ -128,6 +217,20 @@
       "servi de 6 heures 30 à 10 heures 30",
       "à 10 heures 30",
       "dans la salle de restaurant au rez-de-chaussée"
+    ],
+    "english_translation": "Dear guests, we remind you that breakfast is served from 6:30 to 10:30 in the restaurant on the ground floor. For any special requests, do not hesitate to contact the front desk. We wish you an excellent stay.",
+    "english_translation_highlights": [
+      "breakfast is served from 6:30 to 10:30",
+      "served from 6:30 to 10:30",
+      "to 10:30",
+      "in the restaurant on the ground floor"
+    ],
+    "english_question": "This message informs that breakfast:",
+    "english_options": [
+      "Is available all day.",
+      "Must be reserved in advance.",
+      "Is served in room only.",
+      "Ends at 10:30 AM."
     ]
   },
   {
@@ -145,6 +248,19 @@
       "partira exceptionnellement du quai numéro 7 au lieu du quai habituel",
       "du quai numéro 7",
       "au lieu du quai habituel"
+    ],
+    "english_translation": "TGV train 5678 to Marseille will exceptionally depart from platform number 7 instead of the usual platform. We ask passengers to make their way quickly to this new location. Thank you for your attention and have a good trip.",
+    "english_translation_highlights": [
+      "will exceptionally depart from platform number 7 instead of the usual platform",
+      "from platform number 7",
+      "instead of the usual platform"
+    ],
+    "english_question": "According to this message, the train:",
+    "english_options": [
+      "Has been canceled.",
+      "Will depart with a delay.",
+      "Will change destination.",
+      "Will depart from another platform."
     ]
   },
   {
@@ -161,6 +277,18 @@
     "highlights": [
       "Votre rendez-vous du 15 avril à 10 heures doit être reporté",
       "Merci de nous rappeler pour fixer une nouvelle date"
+    ],
+    "english_translation": "Hello, this is Doctor Morel's office. Your appointment on April 15th at 10 o'clock needs to be rescheduled. Please call us back to set a new date. Have a good day.",
+    "english_translation_highlights": [
+      "Your appointment on April 15th at 10 o'clock needs to be rescheduled",
+      "Please call us back to set a new date"
+    ],
+    "english_question": "The person is calling for",
+    "english_options": [
+      "Request a refund.",
+      "Reschedule a medical appointment.",
+      "Confirm an appointment.",
+      "Obtain medical results."
     ]
   },
   {
@@ -181,6 +309,22 @@
       "est prévu pour demain à 16 heures",
       "Pensez à apporter son carnet de santé",
       "Pour toute modification, appelez-nous"
+    ],
+    "english_translation": "Hello, this is the Animaux Santé veterinary clinic. We are reminding you that your appointment for your dog's vaccination is scheduled for tomorrow at 4 PM. Please remember to bring his health record. For any changes, call us by this evening at the latest. Thank you.",
+    "english_translation_highlights": [
+      "this is the Animaux Santé veterinary clinic",
+      "We are reminding you that your appointment",
+      "for your dog's vaccination",
+      "is scheduled for tomorrow at 4 PM",
+      "Please remember to bring his health record",
+      "For any changes, call us"
+    ],
+    "english_question": "The person is calling to",
+    "english_options": [
+      "Make an appointment.",
+      "Cancel a consultation.",
+      "Confirm an appointment.",
+      "Buy medication."
     ]
   },
   {
@@ -200,6 +344,21 @@
       "pour le train Paris-Montréal du 5 octobre à 9 heures 30",
       "Vous recevrez votre billet par email dans les prochaines heures",
       "Pour toute modification ou annulation, veuillez nous appeler avant la date du voyage"
+    ],
+    "english_translation": "Hello, this is the railway company. We confirm your reservation for the Paris-Montreal train on October 5th at 9:30 AM. You will receive your ticket by email in the next few hours. For any changes or cancellations, please call us before the travel date.",
+    "english_translation_highlights": [
+      "Hello, this is the railway company",
+      "We confirm your reservation",
+      "for the Paris-Montreal train on October 5th at 9:30 AM",
+      "You will receive your ticket by email in the next few hours",
+      "For any changes or cancellations, please call us before the travel date"
+    ],
+    "english_question": "The person is calling for",
+    "english_options": [
+      "Ask for a train schedule.",
+      "Modify their reservation.",
+      "Report a lost baggage.",
+      "Confirm a ticket."
     ]
   },
   {
@@ -216,6 +375,18 @@
     "highlights": [
       "Nous confirmons votre réservation",
       "pour une chambre double du 3 au 5 juin"
+    ],
+    "english_translation": "Hello, this is the Hotel Saint-Pierre. We are confirming your reservation for a double room from June 3rd to 5th. Please contact us if you have any special requests. See you soon.",
+    "english_translation_highlights": [
+      "We are confirming your reservation",
+      "for a double room from June 3rd to 5th"
+    ],
+    "english_question": "The person is calling for",
+    "english_options": [
+      "Cancel a reservation.",
+      "Ask for a discount.",
+      "Confirm a reservation.",
+      "Extend one's stay."
     ]
   },
   {
@@ -234,6 +405,20 @@
       "afin de vous proposer un entretien",
       "pour le poste d'analyste financier",
       "Merci de nous rappeler pour convenir d'une date"
+    ],
+    "english_translation": "Hello Mr. Durand, we are calling on behalf of the company Inter Financière to offer you an interview for the financial analyst position, having noted that your profile matches the requirements of the position. Please call us back to arrange a date.",
+    "english_translation_highlights": [
+      "we are calling on behalf of the company Inter Financière",
+      "to offer you an interview",
+      "for the financial analyst position",
+      "Please call us back to arrange a date"
+    ],
+    "english_question": "The person is calling to",
+    "english_options": [
+      "Apply for a job.",
+      "Schedule an interview appointment.",
+      "Sign an employment contract.",
+      "Negotiate one's salary."
     ]
   },
   {
@@ -251,6 +436,19 @@
       "votre vol de demain est annulé",
       "en raison des conditions météorologiques",
       "Merci de nous contacter pour un report ou un remboursement"
+    ],
+    "english_translation": "Hello, we are informing you that your flight tomorrow has been cancelled due to weather conditions. Please contact us to reschedule or request a refund.",
+    "english_translation_highlights": [
+      "your flight tomorrow has been cancelled",
+      "due to weather conditions",
+      "Please contact us to reschedule or request a refund"
+    ],
+    "english_question": "The person is calling to",
+    "english_options": [
+      "Book a flight.",
+      "Report a lost baggage.",
+      "Request a refund.",
+      "Modify a reservation."
     ]
   },
   {
@@ -268,6 +466,19 @@
       "Je médite et je fais du sport",
       "pour garder mon calme",
       "ça m'aide beaucoup"
+    ],
+    "english_translation": "I meditate and exercise to stay calm, it helps me a lot.",
+    "english_translation_highlights": [
+      "I meditate and exercise",
+      "to stay calm",
+      "it helps me a lot"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "I manage stress well, I have my techniques to stay calm.",
+      "I do my best, but sometimes it's difficult.",
+      "Stress often overwhelms me.",
+      ""
     ]
   },
   {
@@ -285,6 +496,19 @@
       "Le stress me touche souvent",
       "surtout quand les délais sont courts",
       "Je n'ai pas encore trouvé de méthode efficace pour le gérer"
+    ],
+    "english_translation": "Stress often affects me, especially when deadlines are tight. I haven't yet found an effective method to manage it.",
+    "english_translation_highlights": [
+      "Stress often affects me",
+      "especially when deadlines are tight",
+      "I haven't yet found an effective method to manage it"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "I manage stress well, I have my techniques to stay calm.",
+      "I do my best, but sometimes it's difficult.",
+      "Stress often overwhelms me.",
+      ""
     ]
   },
   {
@@ -302,6 +526,19 @@
       "Parfois ça va, parfois c'est difficile",
       "J'essaie de respirer profondément",
       "ça ne suffit pas toujours"
+    ],
+    "english_translation": "Sometimes it's fine, sometimes it's difficult. I try to breathe deeply, but it's not always enough.",
+    "english_translation_highlights": [
+      "Sometimes it's fine, sometimes it's difficult",
+      "I try to breathe deeply",
+      "it's not always enough"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "I manage stress well, I have my techniques to stay calm.",
+      "I do my best, but sometimes it's difficult.",
+      "Stress often overwhelms me.",
+      ""
     ]
   },
   {
@@ -323,6 +560,23 @@
       "bénéficie d'un environnement plus calme",
       "améliore ma concentration",
       "C'est pourquoi"
+    ],
+    "english_translation": "By avoiding the daily commute, I save time and benefit from a calmer environment that improves my concentration. That's why I almost always work remotely, as it seems more practical to me.",
+    "english_translation_highlights": [
+      "I almost always work remotely",
+      "it seems more practical to me",
+      "By avoiding the daily commute",
+      "I save time",
+      "benefit from a calmer environment",
+      "improves my concentration",
+      "That's why"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, I mainly work from home.",
+      "I occasionally work remotely.",
+      "No, I prefer working at the office.",
+      ""
     ]
   },
   {
@@ -341,6 +595,20 @@
       "de temps en temps",
       "me permet de mieux organiser ma journée",
       "tout en maintenant un équilibre entre concentration chez moi et interactions dynamiques au bureau"
+    ],
+    "english_translation": "Working remotely from time to time allows me to better organize my day while maintaining a balance between concentration at home and dynamic interactions at the office.",
+    "english_translation_highlights": [
+      "Working remotely from time to time",
+      "from time to time",
+      "allows me to better organize my day",
+      "while maintaining a balance between concentration at home and dynamic interactions at the office"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, I mainly work from home.",
+      "I occasionally work remotely.",
+      "No, I prefer working at the office.",
+      ""
     ]
   },
   {
@@ -357,6 +625,18 @@
     "highlights": [
       "Je trouve le télétravail moins efficace pour moi",
       "l'environnement structuré du bureau et les interactions directes avec mes collègues me permettent d'être plus productif et de mieux collaborer"
+    ],
+    "english_translation": "I find remote work less effective for me, because the structured office environment and direct interactions with my colleagues allow me to be more productive and collaborate better.",
+    "english_translation_highlights": [
+      "I find remote work less effective for me",
+      "the structured office environment and direct interactions with my colleagues allow me to be more productive and collaborate better"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, I mainly work from home.",
+      "I occasionally work remotely.",
+      "No, I prefer working at the office.",
+      ""
     ]
   },
   {
@@ -374,6 +654,19 @@
       "Pour une utilisation saine, il est recommandé de limiter son temps d'écran et de vérifier ses sources.",
       "limiter son temps d'écran et de vérifier ses sources",
       "Les réseaux sociaux sont un formidable outil à condition de les utiliser avec modération."
+    ],
+    "english_translation": "Social media has become an essential communication tool. It allows people to stay in touch with loved ones, stay informed, and even find work. However, excessive use can have negative consequences. Some studies show that spending too much time on social media can lead to a decline in self-esteem. Indeed, users tend to compare themselves to others and idealize their lives. Moreover, algorithms promote the spread of false information, which can influence public opinion. For healthy use, it is recommended to limit screen time and verify sources. Social media is a wonderful tool, provided it is used in moderation.",
+    "english_translation_highlights": [
+      "For healthy use, it is recommended to limit screen time and verify sources.",
+      "limit screen time and verify sources",
+      "Social media is a wonderful tool, provided it is used in moderation."
+    ],
+    "english_question": "For healthy use of social media, it is recommended to:",
+    "english_options": [
+      "Follow as many popular accounts as possible.",
+      "Limit one's screen time and verify one's sources.",
+      "Spend more than 6 hours per day on one's phone.",
+      "Rely solely on influencers' posts."
     ]
   },
   {
@@ -397,6 +690,25 @@
       "des biais inconscients et des stéréotypes de genre qui entravent la pleine égalité",
       "La lutte pour l'égalité de genre est loin d'être terminée",
       "des efforts continus sont nécessaires"
+    ],
+    "english_translation": "Despite significant progress, gender inequalities persist in many professional sectors. Women still hold lower-paying positions and have fewer career opportunities than their male counterparts. However, initiatives are being put in place to promote equality, such as quotas or mentoring programs. Some companies have managed to reduce these inequalities by adopting inclusive policies, but many challenges remain. Studies show that there are still invisible obstacles such as unconscious biases and gender stereotypes that hinder full equality. The fight for gender equality is far from over, and continued efforts are necessary.",
+    "english_translation_highlights": [
+      "Despite significant progress, gender inequalities persist",
+      "Women still hold lower-paying positions",
+      "have fewer career opportunities than their male counterparts",
+      "initiatives are being put in place to promote equality",
+      "Some companies have managed to reduce these inequalities by adopting inclusive policies, but many challenges remain",
+      "there are still invisible obstacles",
+      "unconscious biases and gender stereotypes that hinder full equality",
+      "The fight for gender equality is far from over",
+      "continued efforts are necessary"
+    ],
+    "english_question": "According to this article, gender inequalities in the workplace:",
+    "english_options": [
+      "Are a problem of the past.",
+      "Are being resolved thanks to inclusive policies.",
+      "Persist, despite efforts to promote equality.",
+      "Are more of a problem in developed countries."
     ]
   },
   {
@@ -416,6 +728,21 @@
       "Depuis mon enfance, j'ai toujours aimé être en contact avec la nature",
       "Même en ville, il est possible de cultiver des plantes sur un balcon ou un rebord de fenêtre",
       "Avec un peu de patience et de connaissances, tout le monde peut profiter des bienfaits du jardinage"
+    ],
+    "english_translation": "Today we welcome Sophie, a gardening enthusiast who is sharing her experience with us. Sophie, where does your love for gardening come from? Since my childhood, I have always loved being in contact with nature. Gardening gives me a sense of calm and allows me to create a living space. In addition, it allows me to eat healthy, organic vegetables. Do you think gardening is accessible to everyone? Yes, absolutely. Even in the city, it is possible to grow plants on a balcony or a windowsill. With a little patience and knowledge, everyone can enjoy the benefits of gardening.",
+    "english_translation_highlights": [
+      "Gardening gives me a sense of calm",
+      "it allows me to eat healthy, organic vegetables",
+      "Since my childhood, I have always loved being in contact with nature",
+      "Even in the city, it is possible to grow plants on a balcony or a windowsill",
+      "With a little patience and knowledge, everyone can enjoy the benefits of gardening"
+    ],
+    "english_question": "According to the guest, gardening allows one to:",
+    "english_options": [
+      "Reduce stress and produce healthy food.",
+      "Stay indoors all day.",
+      "Require advanced skills and a large space.",
+      "Eliminate all interaction with nature."
     ]
   },
   {
@@ -433,6 +760,19 @@
       "Même en ville, il est possible de cultiver des plantes sur un balcon ou un rebord de fenêtre",
       "Oui, absolument",
       "Avec un peu de patience et de connaissances, tout le monde peut profiter des bienfaits du jardinage"
+    ],
+    "english_translation": "Today we welcome Sophie, a gardening enthusiast who is sharing her experience with us. Sophie, where does your love for gardening come from? Since my childhood, I have always loved being in contact with nature. Gardening gives me a sense of calm and allows me to create a living space. In addition, it allows me to eat healthy, organic vegetables. Do you think gardening is accessible to everyone? Yes, absolutely. Even in the city, it is possible to grow plants on a balcony or a windowsill. With a little patience and knowledge, everyone can enjoy the benefits of gardening.",
+    "english_translation_highlights": [
+      "Even in the city, it is possible to grow plants on a balcony or a windowsill",
+      "Yes, absolutely",
+      "With a little patience and knowledge, everyone can enjoy the benefits of gardening"
+    ],
+    "english_question": "The guest indicates that gardening is:",
+    "english_options": [
+      "An activity reserved for people who have a large garden.",
+      "Accessible even in the city.",
+      "Too difficult for beginners.",
+      "Impossible without advanced training."
     ]
   },
   {
@@ -451,6 +791,20 @@
       "l'intermittence des renouvelables demande des solutions de stockage, ce qui augmente les coûts à court terme",
       "Quels sont les principaux obstacles à leur adoption ?",
       "Le coût initial des installations, les résistances politiques et le manque d'infrastructures adaptées"
+    ],
+    "english_translation": "Hello, today we are talking about renewable energies with Mr. Marc Lefebvre, an expert in sustainable development. Thank you for being with us, Mr. Lefebvre. Marc Lefebvre: Thank you for the invitation. I have been working in this field for 15 years, mainly on solar and wind energy. My role is to help businesses and governments reduce their carbon footprint. Interviewer: Can renewable energies compete with fossil fuels? Marc Lefebvre: Yes, thanks to technological advances. For example, the cost of solar energy has dropped by eighty percent in 10 years. But the intermittency of renewables requires storage solutions, which increases costs in the short term. Interviewer: What are the main obstacles to their adoption? Marc Lefebvre: The initial cost of installations, political resistance, and the lack of suitable infrastructure. Tax incentive policies are essential to accelerate the energy transition. Interviewer: Thank you for your expertise.",
+    "english_translation_highlights": [
+      "The initial cost of installations",
+      "the intermittency of renewables requires storage solutions, which increases costs in the short term",
+      "What are the main obstacles to their adoption?",
+      "The initial cost of installations, political resistance, and the lack of suitable infrastructure"
+    ],
+    "english_question": "According to the guest, a major challenge for renewable energies is:",
+    "english_options": [
+      "The high initial cost and intermittency.",
+      "The poor quality of equipment.",
+      "The lack of political will.",
+      "The shortage of qualified researchers."
     ]
   },
   {
@@ -468,6 +822,19 @@
       "grâce aux avancées technologiques",
       "le coût de l'énergie solaire a chuté de quatre-vingts pour cent en 10 ans",
       "Oui, grâce aux avancées technologiques"
+    ],
+    "english_translation": "Hello, today we are talking about renewable energies with Mr. Marc Lefebvre, an expert in sustainable development. Thank you for being with us, Mr. Lefebvre. Marc Lefebvre: Thank you for the invitation. I have been working in this field for 15 years, mainly on solar and wind energy. My role is to help businesses and governments reduce their carbon footprint. Interviewer: Can renewable energies compete with fossil fuels? Marc Lefebvre: Yes, thanks to technological advances. For example, the cost of solar energy has dropped by eighty percent in 10 years. But the intermittency of renewables requires storage solutions, which increases costs in the short term. Interviewer: What are the main obstacles to their adoption? Marc Lefebvre: The initial cost of installations, political resistance, and the lack of suitable infrastructure. Tax incentive policies are essential to accelerate the energy transition. Interviewer: Thank you for your expertise.",
+    "english_translation_highlights": [
+      "thanks to technological advances",
+      "the cost of solar energy has dropped by eighty percent in 10 years",
+      "Yes, thanks to technological advances"
+    ],
+    "english_question": "According to the guest, renewable energies are becoming more competitive thanks to:",
+    "english_options": [
+      "The decrease in the cost of solar energy.",
+      "The rise in oil prices.",
+      "The decline in fossil fuel investments.",
+      "Easy access to renewable resources."
     ]
   },
   {
@@ -487,6 +854,21 @@
       "Chaque destination m'a apporté quelque chose d'unique, que ce soit à travers la gastronomie, les traditions ou les rencontres avec les habitants",
       "Ce périple m'a aussi fait réaliser à quel point le monde est vaste et diversifié",
       "J'ai vécu des expériences inoubliables"
+    ],
+    "english_translation": "Today, we have the pleasure of welcoming Thomas, a traveler who has just completed a trip around the world. Interviewer: Thomas, what drove you to undertake this great journey? Thomas: I have always dreamed of discovering new cultures and meeting people from all over the world. This trip allowed me to learn a lot about others, but also about myself. I had unforgettable experiences. Each destination brought me something unique, whether through the food, the traditions, or the encounters with the local people. This journey also made me realize how vast and diverse the world is. Interviewer: What were the biggest challenges you encountered? Thomas: Managing the budget was a real challenge. You have to plan well and be careful with your spending to avoid unpleasant surprises. Moreover, adapting to different cultures and ways of life is not always easy, but that is what makes the experience rewarding. Sometimes, the language barrier made communication difficult, but I learned to use other means to make myself understood, such as gestures or translation apps. Traveling alone also confronted me with moments of loneliness, but it allowed me to get to know myself better and gain independence.",
+    "english_translation_highlights": [
+      "I have always dreamed of discovering new cultures",
+      "This trip allowed me to learn a lot about others, but also about myself",
+      "Each destination brought me something unique, whether through the food, the traditions, or the encounters with the local people",
+      "This journey also made me realize how vast and diverse the world is",
+      "I had unforgettable experiences"
+    ],
+    "english_question": "The guest explains that his/her trip allowed him/her:",
+    "english_options": [
+      "To discover new cultures.",
+      "To stay in a single country.",
+      "To avoid any interaction with others.",
+      "To spend all one's money without thinking."
     ]
   },
   {
@@ -507,6 +889,22 @@
       "s'adapter à différentes cultures et modes de vie n'est pas toujours facile",
       "la barrière de la langue compliquait la communication",
       "Voyager seul m'a aussi confronté à des moments de solitude"
+    ],
+    "english_translation": "Today, we have the pleasure of welcoming Thomas, a traveler who has just completed a trip around the world. Interviewer: Thomas, what motivated you to undertake this great journey? Thomas: I have always dreamed of discovering new cultures and meeting people from all over the world. This trip allowed me to learn a lot about others, but also about myself. I had unforgettable experiences. Each destination brought me something unique, whether through the cuisine, the traditions, or the encounters with the locals. This journey also made me realize just how vast and diverse the world is. Interviewer: What were the biggest challenges you encountered? Thomas: Managing the budget was a real challenge. You have to plan carefully and watch your spending to avoid unpleasant surprises. Moreover, adapting to different cultures and ways of life is not always easy, but that is what makes the experience rewarding. Sometimes, the language barrier made communication difficult, but I learned to use other means to make myself understood, such as gestures or translation apps. Traveling alone also confronted me with moments of loneliness, but it allowed me to know myself better and gain independence.",
+    "english_translation_highlights": [
+      "What were the biggest challenges you encountered?",
+      "Managing the budget was a real challenge",
+      "You have to plan carefully and watch your spending to avoid unpleasant surprises",
+      "adapting to different cultures and ways of life is not always easy",
+      "the language barrier made communication difficult",
+      "Traveling alone also confronted me with moments of loneliness"
+    ],
+    "english_question": "According to Thomas, one of the greatest challenges of a round-the-world trip is:",
+    "english_options": [
+      "Managing the budget and unexpected expenses.",
+      "The fact of always staying in one's country.",
+      "The lack of diversity in the cultures visited.",
+      "The total impossibility of preparing one's itinerary in advance."
     ]
   },
   {
@@ -524,6 +922,19 @@
       "Des domaines comme la finance, la santé, la logistique et le marketing sont particulièrement concernés",
       "Dans la finance, par exemple, les algorithmes permettent de détecter les fraudes bancaires en temps réel et d'optimiser les stratégies d'investissement",
       "Dans le secteur médical, l'IA est capable d'analyser des images radiologiques pour détecter des anomalies avec une précision parfois supérieure à celle des médecins"
+    ],
+    "english_translation": "Artificial intelligence (AI) has progressively transformed the world of work. Many sectors are seeing their practices evolve with the integration of advanced algorithms capable of analyzing massive amounts of data, automating complex tasks, and even making certain decisions. Fields such as finance, healthcare, logistics, and marketing are particularly affected. Companies are adopting artificial intelligence to increase their productivity and reduce human errors. In finance, for example, algorithms make it possible to detect bank fraud in real time and optimize investment strategies. In the medical sector, AI is capable of analyzing radiological images to detect anomalies with a precision that sometimes exceeds that of doctors. However, this technological revolution raises concerns. Many workers fear that automation will lead to the elimination of certain jobs. Repetitive and administrative occupations are particularly threatened. Nevertheless, experts believe that AI will not completely replace humans but will rather transform the nature of jobs. New skills will be necessary, and continuing education will become essential to adapt to changes in the labor market. On the other hand, artificial intelligence raises ethical and regulatory questions: how can we ensure the responsible use of these technologies? How can we avoid algorithmic biases that can lead to discrimination? Governments and international organizations are working on developing legislative frameworks to regulate AI and prevent these abuses. In any case, artificial intelligence is progressively establishing itself as an indispensable tool, capable of revolutionizing the ways we work, produce, and consume. The key to success lies in a controlled transition where technology is put at the service of humans rather than the other way around.",
+    "english_translation_highlights": [
+      "Fields such as finance, healthcare, logistics, and marketing are particularly affected",
+      "In finance, for example, algorithms make it possible to detect bank fraud in real time and optimize investment strategies",
+      "In the medical sector, AI is capable of analyzing radiological images to detect anomalies with a precision that sometimes exceeds that of doctors"
+    ],
+    "english_question": "Artificial intelligence is primarily adopted in the sectors:",
+    "english_options": [
+      "Finance and medical fields where it improves accuracy and detection.",
+      "Entertainment and tourism to optimize customer experiences.",
+      "Fashion and design to create autonomous clothing.",
+      "Publishing and bookselling to automate the writing of books."
     ]
   },
   {
@@ -546,6 +957,24 @@
       "l'intelligence artificielle pose des questions éthiques et réglementaires",
       "comment garantir une utilisation responsable de ces technologies",
       "Comment éviter les biais algorithmiques qui peuvent entraîner des discriminations"
+    ],
+    "english_translation": "Artificial intelligence (AI) has progressively transformed the world of work. Many sectors are seeing their practices evolve with the integration of advanced algorithms capable of analyzing massive amounts of data, automating complex tasks, and even making certain decisions. Fields such as finance, healthcare, logistics, and marketing are particularly affected. Companies are adopting artificial intelligence to increase their productivity and reduce human errors. In finance, for example, algorithms make it possible to detect banking fraud in real time and optimize investment strategies. In the medical sector, AI is capable of analyzing radiological images to detect anomalies with a precision that sometimes exceeds that of doctors. However, this technological revolution raises concerns. Many workers fear that automation will lead to the elimination of certain jobs. Repetitive and administrative occupations are particularly threatened. Nevertheless, experts believe that AI will not completely replace humans but will rather transform the nature of jobs. New skills will be necessary, and continuing education will become essential to adapt to changes in the labor market. On the other hand, artificial intelligence raises ethical and regulatory questions: how can we ensure responsible use of these technologies? How can we avoid algorithmic biases that can lead to discrimination? Governments and international organizations are working on developing legislative frameworks to regulate AI and prevent these abuses. In any case, artificial intelligence is progressively establishing itself as an indispensable tool, capable of revolutionizing the way we work, produce, and consume. The key to success lies in a controlled transition where technology is placed at the service of humans rather than the other way around.",
+    "english_translation_highlights": [
+      "this technological revolution raises concerns",
+      "Many workers fear that automation will lead to the elimination of certain jobs",
+      "Repetitive and administrative occupations are particularly threatened",
+      "AI will not completely replace humans",
+      "will rather transform the nature of jobs",
+      "artificial intelligence raises ethical and regulatory questions",
+      "how can we ensure responsible use of these technologies",
+      "How can we avoid algorithmic biases that can lead to discrimination"
+    ],
+    "english_question": "One of the concerns raised by the development of AI is:",
+    "english_options": [
+      "A growing necessity for human personnel in all sectors.",
+      "The inefficiency of algorithms in processing large quantities of data.",
+      "An immediate threat to the complete disappearance of international trade.",
+      "The negative impact on employment with the automation of repetitive tasks."
     ]
   },
   {
@@ -564,6 +993,20 @@
       "de limiter l'impact du changement climatique",
       "Les énergies renouvelables jouent un rôle de plus en plus important",
       "alternatives durables aux énergies fossiles"
+    ],
+    "english_translation": "Renewable energies play an increasingly important role in the global energy transition. Solar, wind, and hydroelectric energy are sustainable alternatives to fossil fuels. They help reduce greenhouse gas emissions and limit the impact of climate change. Many countries are investing heavily in these technologies to ensure a cleaner energy future. However, challenges remain, particularly the cost of infrastructure and dependence on weather conditions. Despite these obstacles, technological advances are improving the efficiency and profitability of renewable energies. Furthermore, public awareness and government policies encourage their large-scale adoption.",
+    "english_translation_highlights": [
+      "They help reduce greenhouse gas emissions",
+      "limit the impact of climate change",
+      "Renewable energies play an increasingly important role",
+      "sustainable alternatives to fossil fuels"
+    ],
+    "english_question": "According to this document, the main impact of renewable energies concerns:",
+    "english_options": [
+      "An unexpected rise in pollution levels despite their adoption.",
+      "A gradual reduction in greenhouse gas emissions.",
+      "An accelerated depletion of natural resources essential to their operation.",
+      "A paradoxical strengthening of dependence on traditional fossil fuels."
     ]
   },
   {
@@ -579,6 +1022,17 @@
     "right_option": "B",
     "highlights": [
       "Leur intensité a augmenté ces dernières décennies en raison du changement climatique"
+    ],
+    "english_translation": "Storms are natural phenomena that can cause significant damage. They destroy infrastructure, uproot trees, and flood entire territories. Their intensity has increased in recent decades due to climate change. Coastal areas are particularly vulnerable, experiencing violent winds and destructive tides. Affected populations often have to be evacuated, resulting in economic and human losses. To limit the effects of storms, it is crucial to improve warning systems and reinforce buildings. Moreover, reforestation of coastal areas can help reduce erosion and the impact of violent winds. International cooperation is also essential to implement effective prevention and adaptation strategies.",
+    "english_translation_highlights": [
+      "Their intensity has increased in recent decades due to climate change"
+    ],
+    "english_question": "Storms are becoming more intense due to:",
+    "english_options": [
+      "The increase in tourist flows in exposed areas.",
+      "The progressive impact of global warming on weather phenomena.",
+      "The increased exploitation of agricultural land influencing air currents.",
+      "Overfishing altering oceanic and atmospheric dynamics."
     ]
   },
   {
@@ -601,6 +1055,24 @@
       "les innovations en génétique ouvrent la voie à des traitements personnalisés plus efficaces",
       "Les hôpitaux intègrent également des outils connectés pour un meilleur suivi des patients",
       "Malgré ces avancées, des défis persistent"
+    ],
+    "english_translation": "Modern medicine has made enormous progress in recent years. New therapies make it possible to treat previously incurable diseases. Technologies like artificial intelligence and robotics are revolutionizing healthcare. Vaccines have helped eradicate certain deadly epidemics. Despite these advances, challenges persist, particularly access to care for disadvantaged populations. Research continues to evolve to improve quality and life expectancy. Moreover, innovations in genetics are paving the way for more effective personalized treatments. Hospitals are also integrating connected tools for better patient monitoring.",
+    "english_translation_highlights": [
+      "Modern medicine has made enormous progress in recent years",
+      "New therapies make it possible to treat previously incurable diseases",
+      "Technologies like artificial intelligence and robotics are revolutionizing healthcare",
+      "Vaccines have helped eradicate certain deadly epidemics",
+      "Research continues to evolve to improve quality and life expectancy",
+      "innovations in genetics are paving the way for more effective personalized treatments",
+      "Hospitals are also integrating connected tools for better patient monitoring",
+      "Despite these advances, challenges persist"
+    ],
+    "english_question": "Modern medicine primarily favors:",
+    "english_options": [
+      "An increased dependence on medical technologies without any real human advancement.",
+      "The total eradication of all existing viral infections.",
+      "A limitation of technological advances in the scientific field.",
+      "The improvement of treatments and the management of complex pathologies."
     ]
   },
   {
@@ -618,6 +1090,19 @@
       "Elle est causée par les émissions industrielles, les véhicules et les feux de forêt",
       "la réduction des énergies fossiles",
       "l'amélioration de la régulation des émissions industrielles"
+    ],
+    "english_translation": "Air pollution is a major problem that affects human health and the environment. It is caused by industrial emissions, vehicles, and wildfires. Prolonged exposure to fine particles can cause respiratory and cardiovascular diseases. In large cities, air quality deteriorates rapidly, increasing the risks for the population. Measures such as reducing fossil fuels and developing clean transportation are essential. Fighting air pollution is a global public health challenge. Furthermore, improving the regulation of industrial emissions and promoting green technologies can help reduce pollution. Collaboration between governments, businesses, and citizens is crucial for a healthier future.",
+    "english_translation_highlights": [
+      "It is caused by industrial emissions, vehicles, and wildfires",
+      "reducing fossil fuels",
+      "improving the regulation of industrial emissions"
+    ],
+    "english_question": "Air pollution is mainly caused by:",
+    "english_options": [
+      "Organic agriculture.",
+      "Fossil fuels.",
+      "Drinking water.",
+      "Recycling."
     ]
   },
   {
@@ -635,6 +1120,19 @@
       "Elle a des conséquences graves sur l'agriculture",
       "réduisant les rendements des cultures",
       "provoquant des pénuries alimentaires"
+    ],
+    "english_translation": "Drought is a climatic phenomenon that leads to a prolonged lack of water. It has serious consequences for agriculture, reducing crop yields and causing food shortages. Farmers must adapt their practices by using more efficient irrigation techniques. Some regions are developing drought-resistant crops to limit losses. Global warming is exacerbating this problem and making drought periods more frequent. Sustainable water management policies are necessary to protect agricultural resources. Furthermore, research into technological solutions, such as smart irrigation, can offer ways to better manage drought periods. Governments must collaborate to implement resilience strategies in the face of climate change.",
+    "english_translation_highlights": [
+      "It has serious consequences for agriculture",
+      "reducing crop yields",
+      "causing food shortages"
+    ],
+    "english_question": "Drought mainly affects:",
+    "english_options": [
+      "Coastal areas and rising sea levels.",
+      "Agricultural yields and food shortages.",
+      "Domestic water consumption in large cities.",
+      "The construction industry due to water shortages."
     ]
   },
   {
@@ -657,6 +1155,24 @@
       "Soutenir la recherche universitaire est essentiel pour l'avenir",
       "la collaboration entre les universités et les entreprises permet de transformer les découvertes en solutions concrètes au service de la société",
       "Cette synergie stimule également la compétitivité à l'échelle mondiale"
+    ],
+    "english_translation": "Universities are centers of innovation where many discoveries come to light. They train the researchers and experts who contribute to scientific advancements. University laboratories develop new technologies in various fields such as medicine, engineering, and computer science. Many startups also emerge thanks to university research projects. Access to quality higher education is therefore a key factor in economic development. Supporting university research is essential for the future. Furthermore, collaboration between universities and businesses helps transform discoveries into concrete solutions that serve society. This synergy also stimulates competitiveness on a global scale.",
+    "english_translation_highlights": [
+      "Universities are centers of innovation where many discoveries come to light",
+      "They train the researchers and experts who contribute to scientific advancements",
+      "University laboratories develop new technologies in various fields such as medicine, engineering, and computer science",
+      "Many startups also emerge thanks to university research projects",
+      "Access to quality higher education is therefore a key factor in economic development",
+      "Supporting university research is essential for the future",
+      "collaboration between universities and businesses helps transform discoveries into concrete solutions that serve society",
+      "This synergy also stimulates competitiveness on a global scale"
+    ],
+    "english_question": "Universities promote:",
+    "english_options": [
+      "The abandonment of scientific training and research.",
+      "The reduction in the number of researchers and innovations.",
+      "The creation of scientific discoveries and innovation.",
+      "The end of applied research projects."
     ]
   },
   {
@@ -678,6 +1194,23 @@
       "Il favorise aussi les interactions sociales",
       "Même une marche quotidienne de 30 minutes peut avoir des effets positifs sur la santé",
       "Intégrer le sport dans son quotidien est une excellente habitude pour vivre plus longtemps et en meilleure santé"
+    ],
+    "english_translation": "Sport plays an essential role in maintaining good physical and mental health. It helps strengthen the heart, improve blood circulation, and prevent many diseases. Regular physical activity also reduces stress and anxiety by releasing endorphins. In addition to the physical benefits, sport helps develop discipline and perseverance. It also promotes social interactions, particularly in team sports. Today, many companies encourage their employees to engage in physical activity to improve their well-being. Even a daily 30-minute walk can have positive effects on health. Incorporating sport into one's daily routine is an excellent habit for living longer and in better health.",
+    "english_translation_highlights": [
+      "Sport plays an essential role in maintaining good physical and mental health",
+      "It helps strengthen the heart, improve blood circulation, and prevent many diseases",
+      "Regular physical activity also reduces stress and anxiety by releasing endorphins",
+      "In addition to the physical benefits, sport helps develop discipline and perseverance",
+      "It also promotes social interactions",
+      "Even a daily 30-minute walk can have positive effects on health",
+      "Incorporating sport into one's daily routine is an excellent habit for living longer and in better health"
+    ],
+    "english_question": "Practicing a sport regularly allows you to:",
+    "english_options": [
+      "Reduce stress while increasing the risk of long-term injuries.",
+      "Improve mental and physical health, but only if the activity is intense.",
+      "Strengthen the immune system and decrease physical endurance in the long term.",
+      "Strengthen physical and mental health by reducing stress."
     ]
   },
   {
@@ -693,6 +1226,17 @@
     "right_option": "B",
     "highlights": [
       "des millions de cyberattaques sont menées à travers le monde, visant à voler des données ou à perturber des systèmes informatiques"
+    ],
+    "english_translation": "With the rise of digital technology, cybersecurity has become a major challenge for businesses and individuals. Every day, millions of cyberattacks are carried out around the world, aimed at stealing data or disrupting computer systems. Hackers use various techniques such as phishing, ransomware, or spyware. Protecting personal data is a crucial challenge, especially with the increase in remote work and online storage. Governments are strengthening cybersecurity laws to require companies to protect their information. Experts recommend that users choose complex passwords and enable two-factor authentication. Raising employee awareness of digital risks is also essential to prevent data leaks. Investing in cybersecurity is now a priority for any organization. Furthermore, advances in artificial intelligence make it possible to better detect and counter threats in real time. However, cybercriminals are constantly developing new strategies, making the fight against cybercrime ever more complex.",
+    "english_translation_highlights": [
+      "millions of cyberattacks are carried out around the world, aimed at stealing data or disrupting computer systems"
+    ],
+    "english_question": "Cyberattacks primarily aim to:",
+    "english_options": [
+      "Access systems to secretly evaluate their robustness.",
+      "Steal confidential information or disrupt computer systems.",
+      "Exploit security flaws to improve existing protections.",
+      "Destabilize digital infrastructures to limit data overload."
     ]
   },
   {
@@ -715,6 +1259,24 @@
       "investir dans la restauration des écosystèmes dégradés",
       "l'éducation et la sensibilisation du public jouent un rôle clé",
       "il est essentiel de soutenir les projets de recherche sur les espèces menacées"
+    ],
+    "english_translation": "Many animal species are in danger due to the loss of their natural habitat, poaching, and climate change. How can we protect these species before they disappear? To protect endangered animals, a comprehensive approach is necessary. First, it is important to strengthen wildlife protection laws and ensure better enforcement of these laws, particularly by combating poaching and reducing demand for animal-derived products. Governments can also establish protected areas where natural habitats are preserved, and invest in the restoration of degraded ecosystems. Moreover, public education and awareness play a key role. The more people understand the importance of biodiversity, the more inclined they will be to adopt environmentally responsible behaviors. Finally, it is essential to support research projects on threatened species in order to better understand their needs and the threats they face.",
+    "english_translation_highlights": [
+      "Many animal species are in danger due to the loss of their natural habitat, poaching, and climate change",
+      "To protect endangered animals, a comprehensive approach is necessary",
+      "it is important to strengthen wildlife protection laws and ensure better enforcement of these laws",
+      "combating poaching and reducing demand for animal-derived products",
+      "Governments can also establish protected areas where natural habitats are preserved",
+      "invest in the restoration of degraded ecosystems",
+      "public education and awareness play a key role",
+      "it is essential to support research projects on threatened species"
+    ],
+    "english_question": "To protect endangered species, it is essential:",
+    "english_options": [
+      "To observe species without interfering with their environment.",
+      "To restore habitats and strictly enforce laws.",
+      "To limit restrictions to let nature adapt.",
+      "To authorize regulated trade to fund their protection."
     ]
   },
   {
@@ -737,6 +1299,24 @@
       "limiter la publicité pour les aliments transformés et riches en sucre",
       "en particulier auprès des enfants",
       "Offrir des incitations fiscales aux producteurs de produits locaux et durables pourrait également rendre les aliments sains plus accessibles à tous"
+    ],
+    "english_translation": "Nowadays, more and more people suffer from diet-related diseases, such as obesity or diabetes. It is essential to find solutions to improve eating habits and prevent these health problems. What can be done to encourage healthier eating? Encouraging healthy eating starts with education. Schools, public health campaigns, and the media can play a key role in raising awareness among the population about the benefits of a balanced diet, with an emphasis on the consumption of fruits, vegetables, lean proteins, and whole grains. Furthermore, governments should implement policies aimed at limiting advertising for processed and sugar-rich foods, particularly targeting children. Offering tax incentives to producers of local and sustainable products could also make healthy foods more accessible to everyone. Finally, it is important to adopt a personal approach. Each individual must become aware of their diet and choose more nutritious options, while limiting the consumption of added sugars and saturated fats. Better information about the impact of food choices would also help people adopt better habits in the long term.",
+    "english_translation_highlights": [
+      "more and more people suffer from diet-related diseases, such as obesity or diabetes",
+      "It is essential to find solutions to improve eating habits and prevent these health problems",
+      "Encouraging healthy eating starts with education",
+      "Schools, public health campaigns, and the media can play a key role in raising awareness among the population about the benefits of a balanced diet",
+      "governments should implement policies aimed at limiting advertising for processed and sugar-rich foods, particularly targeting children",
+      "limiting advertising for processed and sugar-rich foods",
+      "particularly targeting children",
+      "Offering tax incentives to producers of local and sustainable products could also make healthy foods more accessible to everyone"
+    ],
+    "english_question": "One way to encourage healthier eating would be:",
+    "english_options": [
+      "To limit advertising of sugar-rich food products for adults.",
+      "To encourage the consumption of low-cost processed products.",
+      "To strengthen public health campaigns and limit certain food advertisements.",
+      "To increase online advertising for fruits and vegetables."
     ]
   }
 ]

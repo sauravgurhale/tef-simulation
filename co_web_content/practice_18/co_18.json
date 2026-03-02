@@ -16,6 +16,21 @@
       "aujourd'hui",
       "il aurait dû passer il y a 5 minutes",
       "il arrive vite"
+    ],
+    "english_translation": "– The bus is late today. – Yes, it should have come 5 minutes ago. – Let's hope it arrives soon.",
+    "english_translation_highlights": [
+      "The bus",
+      "late",
+      "today",
+      "it should have come 5 minutes ago",
+      "it arrives soon"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] co_web_content/co_18_images/co-18-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -33,6 +48,19 @@
       "un café allongé",
       "du sucre",
       "un café"
+    ],
+    "english_translation": "\"Hello, I'll have an americano, please.\" \"Very well, and with sugar?\" \"No thank you, just a coffee.\"",
+    "english_translation_highlights": [
+      "an americano",
+      "sugar",
+      "a coffee"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] co_web_content/co_18_images/co-18-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -50,6 +78,19 @@
       "une baguette",
       "2 croissants",
       "3 euros 20 centimes"
+    ],
+    "english_translation": "– Hello, I'd like a baguette and 2 croissants, please. – Here you go, that'll be 3 euros and 20 cents. – Here you are. – Thank you.",
+    "english_translation_highlights": [
+      "a baguette",
+      "2 croissants",
+      "3 euros and 20 cents"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] co_web_content/co_18_images/co-18-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -67,6 +108,19 @@
       "promotion sur les fruits",
       "des pommes et des bananes",
       "du lait"
+    ],
+    "english_translation": "\"Look, this promotion on fruits is interesting.\" \"Yes, let's get some apples and bananas.\" \"Okay, and we also need milk.\"",
+    "english_translation_highlights": [
+      "promotion on fruits",
+      "apples and bananas",
+      "milk"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] co_web_content/co_18_images/co-18-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -82,6 +136,17 @@
     "right_option": "B",
     "highlights": [
       "Pour fêter la Saint-Nicolas, la visite est gratuite pour les enfants de moins de 12 ans"
+    ],
+    "english_translation": "Welcome to the Brussels Planetarium. To celebrate Saint Nicholas' Day, admission is free for children under 12. Enjoy your visit.",
+    "english_translation_highlights": [
+      "To celebrate Saint Nicholas' Day, admission is free for children under 12"
+    ],
+    "english_question": "According to this message, today…",
+    "english_options": [
+      "the site closes later.",
+      "the rates are different.",
+      "adults do not pay.",
+      "there is a new exhibition."
     ]
   },
   {
@@ -104,6 +169,24 @@
       "Correspondance interrégionale pour Berne",
       "prochain départ : 15 heures 12",
       "voie 2"
+    ],
+    "english_translation": "Ladies and gentlemen, we are arriving at Neuchâtel station. This train continues to Zurich. Intercity connection for Geneva Airport, next departure: 3:34 PM, platform 5. Interregional connection for Bern, next departure: 3:12 PM, platform 2.",
+    "english_translation_highlights": [
+      "we are arriving at Neuchâtel station",
+      "This train continues to Zurich",
+      "Intercity connection for Geneva Airport",
+      "next departure: 3:34 PM",
+      "platform 5",
+      "Interregional connection for Bern",
+      "next departure: 3:12 PM",
+      "platform 2"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "the end of this train's journey.",
+      "a delay of several minutes.",
+      "a change in departure time.",
+      "information about other trains."
     ]
   },
   {
@@ -121,6 +204,19 @@
       "En raison de la sécheresse",
       "il est strictement interdit d'allumer des feux et de faire des barbecues",
       "Merci également de faire très attention à vos cigarettes"
+    ],
+    "english_translation": "Dear friends, welcome to the Festival du Bout du Monde. Due to the drought, it is strictly forbidden to light fires and have barbecues within the festival grounds as well as in the camping area. Please also be very careful with your cigarettes.",
+    "english_translation_highlights": [
+      "Due to the drought",
+      "it is strictly forbidden to light fires and have barbecues",
+      "Please also be very careful with your cigarettes"
+    ],
+    "english_question": "This message…",
+    "english_options": [
+      "announces violent storms.",
+      "calls for everyone's vigilance.",
+      "reminds of the smoking ban.",
+      "indicates where the campsite is located."
     ]
   },
   {
@@ -139,6 +235,20 @@
       "Jusqu'au 10 février",
       "à l'achat de cent-vingt-cinq dollars en carte cadeau",
       "recevez 2 passes au Carnaval de Québec d'une valeur de 50 dollars"
+    ],
+    "english_translation": "Dear visitors, your Laurier Québec shopping center is a partner of the Quebec Carnival. Until February 10, with the purchase of one hundred and twenty-five dollars in gift cards, receive 2 passes to the Quebec Carnival valued at 50 dollars. Visit customer service for all the details.",
+    "english_translation_highlights": [
+      "your Laurier Québec shopping center is a partner of the Quebec Carnival",
+      "Until February 10",
+      "with the purchase of one hundred and twenty-five dollars in gift cards",
+      "receive 2 passes to the Quebec Carnival valued at 50 dollars"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "the price of admission.",
+      "targeted promotions.",
+      "an exceptional offer.",
+      "the start of an entertainment event."
     ]
   },
   {
@@ -154,6 +264,17 @@
     "right_option": "B",
     "highlights": [
       "il manque un justificatif concernant votre statut au Canada"
+    ],
+    "english_translation": "Hello, this is the Centre francophone du Grand Toronto. You filled out the service request form, but a supporting document regarding your status in Canada is missing.",
+    "english_translation_highlights": [
+      "a supporting document regarding your status in Canada is missing"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "offer a job.",
+      "inform of a problem.",
+      "confirm a registration.",
+      "advertise a service."
     ]
   },
   {
@@ -171,6 +292,19 @@
       "je n'arrive toujours pas à la faire marcher",
       "j’ai tout installé correctement",
       "Est-ce que vous pouvez me rappeler"
+    ],
+    "english_translation": "Yes, hello, I ordered a printer from you, I received it yesterday and I still can't get it to work. Yet I installed everything correctly. This is the third time I've called. Can you call me back? I am Mr. Leblanc. Thank you.",
+    "english_translation_highlights": [
+      "I still can't get it to work",
+      "I installed everything correctly",
+      "Can you call me back"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "get help.",
+      "return an item.",
+      "get a refund.",
+      "complain about a service."
     ]
   },
   {
@@ -188,6 +322,19 @@
       "Je vous appelle concernant votre voyage prévu demain matin à 7 heures",
       "À cause des travaux à la gare d'autocars Montréal Berri",
       "le départ se fera devant la Grande Bibliothèque, juste en face de la gare"
+    ],
+    "english_translation": "Hello, this is Ivan from Greyhound. I'm calling you regarding your trip scheduled for tomorrow morning at 7 o'clock. Due to construction work at the Montreal Berri bus station, the departure will take place in front of the Grande Bibliothèque, just across from the station. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "I'm calling you regarding your trip scheduled for tomorrow morning at 7 o'clock",
+      "Due to construction work at the Montreal Berri bus station",
+      "the departure will take place in front of the Grande Bibliothèque, just across from the station"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "modify a schedule.",
+      "notify of a delay.",
+      "cancel a trip.",
+      "inform of a change."
     ]
   },
   {
@@ -205,6 +352,19 @@
       "Je vous appelle pour confirmer notre rendez-vous",
       "de demain à 10 heures",
       "Merci de me rappeler si vous devez changer l'horaire"
+    ],
+    "english_translation": "Hello Mr. Dupont, this is Marie from Logitech. I'm calling to confirm our appointment tomorrow at 10 o'clock. Please call me back if you need to change the time. Have a good day.",
+    "english_translation_highlights": [
+      "I'm calling to confirm our appointment",
+      "tomorrow at 10 o'clock",
+      "Please call me back if you need to change the time"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To schedule an appointment.",
+      "To cancel an appointment.",
+      "To confirm an appointment.",
+      "To request a document."
     ]
   },
   {
@@ -222,6 +382,19 @@
       "On organise une sortie ce samedi soir",
       "Dis-moi si tu veux venir",
       "à quelle heure tu seras dispo"
+    ],
+    "english_translation": "Hi Paul, it's Sophie. We're organizing an outing this Saturday evening. Let me know if you want to come and what time you'll be available. See you soon.",
+    "english_translation_highlights": [
+      "We're organizing an outing this Saturday evening",
+      "Let me know if you want to come",
+      "what time you'll be available"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To ask for a favor.",
+      "To invite Paul on an outing.",
+      "To give an address.",
+      "To wish a happy birthday."
     ]
   },
   {
@@ -239,6 +412,19 @@
       "Nous devons reporter votre rendez-vous",
       "prévu ce jeudi",
       "Merci de nous rappeler pour fixer une nouvelle date"
+    ],
+    "english_translation": "Hello, this is Doctor Morel's office. We need to reschedule your appointment planned for this Thursday. Please call us back to set a new date. Have a good day.",
+    "english_translation_highlights": [
+      "We need to reschedule your appointment",
+      "planned for this Thursday",
+      "Please call us back to set a new date"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To ask for a service.",
+      "To confirm an appointment.",
+      "To give a medical result.",
+      "To change the time of an appointment."
     ]
   },
   {
@@ -257,6 +443,20 @@
       "pour construire une maison dans mon village natal en Kabylie",
       "y passer ma retraite",
       "depuis 10 ans"
+    ],
+    "english_translation": "I live in Algiers for work, but for 10 years I've been saving everything I can to build a house in my native village in Kabylie and spend my retirement there.",
+    "english_translation_highlights": [
+      "I've been saving everything I can",
+      "to build a house in my native village in Kabylie",
+      "spend my retirement there",
+      "for 10 years"
+    ],
+    "english_question": "The person being questioned…",
+    "english_options": [
+      "saves for a specific project.",
+      "saves for the future of their children.",
+      "saves to deal with emergencies.",
+      "is unable to save."
     ]
   },
   {
@@ -275,6 +475,20 @@
       "mais honnêtement c'est compliqué",
       "ne serait-ce que",
       "j'ai un peu peur"
+    ],
+    "english_translation": "I'd really like to be able to save a little each month, even if just to pay for a nice vacation for my kids, but honestly it's tough. And in case of any major problems, I'm a bit scared.",
+    "english_translation_highlights": [
+      "I'd really like to be able to save",
+      "but honestly it's tough",
+      "even if just",
+      "I'm a bit scared"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "saves for a specific project.",
+      "saves for the future of their children.",
+      "saves to deal with emergencies.",
+      "is unable to save."
     ]
   },
   {
@@ -292,6 +506,19 @@
       "j'aimerais que mon fils ait un meilleur métier que moi",
       "les études, c'est dispendieux",
       "Il a que 12 ans, mais il faut déjà prévoir"
+    ],
+    "english_translation": "I started working very young and I would like my son to have a better job than me. But education is expensive. He's only 12, but you already have to plan ahead.",
+    "english_translation_highlights": [
+      "I would like my son to have a better job than me",
+      "education is expensive",
+      "He's only 12, but you already have to plan ahead"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "saves for a specific project.",
+      "saves for the future of their children.",
+      "saves to deal with emergencies.",
+      "is unable to save."
     ]
   },
   {
@@ -308,6 +535,18 @@
     "highlights": [
       "Le sport, c'est ma passion",
       "J'en fais plusieurs fois par semaine"
+    ],
+    "english_translation": "Sport is my passion. I do it several times a week.",
+    "english_translation_highlights": [
+      "Sport is my passion",
+      "I do it several times a week"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "I do it very regularly, it's essential for me.",
+      "I do it from time to time, but it's not a priority.",
+      "I don't do any sport at all.",
+      "I have no opinion on the matter."
     ]
   },
   {
@@ -324,6 +563,18 @@
     "highlights": [
       "J'aime bien en faire de temps en temps",
       "je manque souvent de motivation"
+    ],
+    "english_translation": "I like to do it from time to time, but I often lack motivation.",
+    "english_translation_highlights": [
+      "I like to do it from time to time",
+      "I often lack motivation"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "I do it very regularly, it's essential for me.",
+      "I do it from time to time, but it's not a priority.",
+      "I don't do any sport at all.",
+      "I have no opinion on the matter."
     ]
   },
   {
@@ -340,6 +591,18 @@
     "highlights": [
       "le sport ne m'intéresse pas",
       "Je préfère passer mon temps autrement"
+    ],
+    "english_translation": "Honestly, sports don't interest me. I prefer to spend my time doing other things.",
+    "english_translation_highlights": [
+      "sports don't interest me",
+      "I prefer to spend my time doing other things"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "I do it very regularly, it's essential for me.",
+      "I do it from time to time, but it's not a priority.",
+      "I don't do any sport at all.",
+      "I have no opinion on the matter."
     ]
   },
   {
@@ -359,6 +622,21 @@
       "Les enzymes pourraient être intégrées à une solution liquide et versées sur du plastique en déchetterie",
       "dans des lieux où la collecte et le recyclage sont difficiles",
       "voire à terme dans des foyers individuels"
+    ],
+    "english_translation": "Of the 400 million tons of plastic materials produced each year, roughly one third are polyethylenes. Derived from petrochemistry, simple and inexpensive to manufacture, they are notably widely used for packaging. A team of Spanish researchers has just demonstrated that enzymes present in the saliva of larvae of a moth, the greater wax moth, attack polyethylene within a few hours. Much additional work and experimentation will be needed to fully understand the process, but the researchers are already envisioning different potential applications. The enzymes could be incorporated into a liquid solution and poured onto plastic at waste disposal sites, in places where collection and recycling are difficult, or even eventually in individual households. This is good news in the fight against what the UN describes as a global scourge.",
+    "english_translation_highlights": [
+      "enzymes present in the saliva of larvae of a moth, the greater wax moth, attack polyethylene within a few hours",
+      "the researchers are already envisioning different potential applications",
+      "The enzymes could be incorporated into a liquid solution and poured onto plastic at waste disposal sites",
+      "in places where collection and recycling are difficult",
+      "or even eventually in individual households"
+    ],
+    "english_question": "This discovery could make it possible to…",
+    "english_options": [
+      "eliminate certain plastic waste.",
+      "detect micro-plastics in food.",
+      "produce a form of biodegradable plastic.",
+      "treat diseases caused by the ingestion of plastic."
     ]
   },
   {
@@ -379,6 +657,22 @@
       "Il offre de nombreux avantages",
       "une meilleure conciliation entre vie professionnelle et personnelle",
       "les employés gagnent du temps en évitant les trajets quotidiens"
+    ],
+    "english_translation": "With the development of new technologies, remote work has become a common practice. It offers many advantages, notably a better balance between professional and personal life. Moreover, employees save time by avoiding daily commutes. However, remote work also presents challenges. Some workers experience social isolation and have difficulty separating their private life from their professional life. Additionally, employers must adapt their management methods to this new organization. For remote work to be effective, it is important to establish fixed schedules and maintain good communication with colleagues. In the future, many companies will likely adopt a hybrid model combining remote work and in-office presence.",
+    "english_translation_highlights": [
+      "remote work also presents challenges",
+      "Some workers experience social isolation",
+      "have difficulty separating their private life from their professional life",
+      "It offers many advantages",
+      "a better balance between professional and personal life",
+      "employees save time by avoiding daily commutes"
+    ],
+    "english_question": "According to this article, one of the disadvantages of remote work is…",
+    "english_options": [
+      "A decrease in commute time.",
+      "A risk of social isolation.",
+      "A better work-life balance.",
+      "A reduction in transportation costs."
     ]
   },
   {
@@ -402,6 +696,25 @@
       "obligation de parler français entre nous",
       "Mais je le connaissais, car je l'entendais",
       "Tu ne passes pas du russe au français non plus"
+    ],
+    "english_translation": "Sports journalist Dave Apana is returning to Mauritius for the first time in twenty-five years. Journalist: Dave, why such a long break? Dave Apana: Lots of people used to tell me: \"Mauritius is great\" and all that. And I would reply: \"Maybe, I wouldn't know.\" I came two or three times when I was a kid, with my parents. And then later, in my adult life, coming to Mauritius was expensive. Journalist: Did you speak Creole at home? Dave Apana: My parents were part of that generation of immigrants from the seventies who wanted their children to be completely assimilated. So we were required to speak French among ourselves. But I knew it, because I heard it… It's not like switching from Russian to French either, you know.",
+    "english_translation_highlights": [
+      "for the first time in twenty-five years",
+      "Lots of people used to tell me: \"Mauritius is great\"",
+      "Maybe, I wouldn't know",
+      "I came two or three times when I was a kid",
+      "in my adult life, coming to Mauritius was expensive",
+      "My parents were part of that generation of immigrants from the seventies who wanted their children to be completely assimilated",
+      "we were required to speak French among ourselves",
+      "But I knew it, because I heard it",
+      "It's not like switching from Russian to French either"
+    ],
+    "english_question": "The guest…",
+    "english_options": [
+      "has always dreamed of discovering Mauritius.",
+      "was long uninterested in his origins.",
+      "finds that the island has changed since his childhood.",
+      "admits that he knows little about his parents' country."
     ]
   },
   {
@@ -418,6 +731,18 @@
     "highlights": [
       "Mes parents ont fait partie de cette génération d'immigrés des années soixante-dix qui voulaient que leurs enfants soient complètement assimilés",
       "obligation de parler français entre nous"
+    ],
+    "english_translation": "Sports journalist Dave Apana is returning to Mauritius for the first time in twenty-five years. Journalist: Dave, why such a long break? Dave Apana: A lot of people would tell me: \"Mauritius is amazing\" and all that. And I would reply: \"Maybe, I wouldn't know.\" I came two or three times when I was a kid, with my parents. And then later, in my adult life, coming to Mauritius was expensive. Journalist: Did you speak Creole at home? Dave Apana: My parents were part of that generation of immigrants from the seventies who wanted their children to be completely assimilated. So we were required to speak French among ourselves. But I knew it, because I heard it… It's not like switching from Russian to French either, you know.",
+    "english_translation_highlights": [
+      "My parents were part of that generation of immigrants from the seventies who wanted their children to be completely assimilated",
+      "we were required to speak French among ourselves"
+    ],
+    "english_question": "He explains that for his parents,",
+    "english_options": [
+      "Mauritian Creole would be easy for him to master.",
+      "bilingualism represented a fundamental value.",
+      "foreign languages facilitated academic success.",
+      "French was perceived as a condition for integration."
     ]
   },
   {
@@ -435,6 +760,19 @@
       "une plateforme de débat, de partage d'expériences et d'analyses autour des sujets qui conditionnent le développement du Maroc",
       "l'objectif de lever le voile sur les obstacles qui entravent les progrès de la condition de la femme marocaine",
       "il s'agit ici d'expliquer comment le cadre législatif, les infrastructures, les politiques publiques, les technologies et la sensibilisation permettraient de donner à la femme marocaine la place qui lui va de droit"
+    ],
+    "english_translation": "The word \"vocaux Tout des forums\" is a debate platform, a space for sharing experiences and analyses around the subjects that shape Morocco's development. Our guest presents this new edition scheduled for December 2nd in Casablanca. This year, the MTF will focus on the theme \"Women: Essential Actors of Morocco,\" with the objective of unveiling the obstacles that hinder progress in the condition of Moroccan women. Yet, for more than two decades, there has been a genuine momentum in favor of promoting gender equality. Admittedly, by lifting the burdens of the past, the country has above all freed its future by choosing bold reforms. But the aim here is to explain how the legislative framework, infrastructure, public policies, technologies, and awareness-raising could give Moroccan women the place that is rightfully theirs.",
+    "english_translation_highlights": [
+      "a debate platform, a space for sharing experiences and analyses around the subjects that shape Morocco's development",
+      "the objective of unveiling the obstacles that hinder progress in the condition of Moroccan women",
+      "the aim here is to explain how the legislative framework, infrastructure, public policies, technologies, and awareness-raising could give Moroccan women the place that is rightfully theirs"
+    ],
+    "english_question": "The stakeholders of the Morocco Today Forum want…",
+    "english_options": [
+      "advance thinking on major themes.",
+      "exchange views on upcoming economic reforms.",
+      "share best practices between neighboring countries.",
+      "talk about the past in an open and transparent way."
     ]
   },
   {
@@ -452,6 +790,19 @@
       "il s'agit ici d'expliquer comment le cadre législatif, les infrastructures, les politiques publiques, les technologies et la sensibilisation permettraient de donner à la femme marocaine la place qui lui va de droit",
       "l'objectif de lever le voile sur les obstacles qui entravent les progrès de la condition de la femme marocaine",
       "lever le voile sur les obstacles"
+    ],
+    "english_translation": "The word \"vocaux\" Tout des forums is a platform for debate, sharing experiences, and analysis around the issues that shape Morocco's development. Our guest presents this new edition scheduled for December 2nd in Casablanca. This year, the MTF will focus on the theme \"Women: Indispensable Actors of Morocco,\" with the objective of shedding light on the obstacles that hinder progress in the condition of Moroccan women. Yet, for more than two decades, there has been a genuine momentum in favor of promoting gender equality. Admittedly, by lifting the burdens of the past, the country has above all freed its future by choosing bold reforms. But the aim here is to explain how the legislative framework, infrastructure, public policies, technologies, and awareness-raising could give Moroccan women the place that is rightfully theirs.",
+    "english_translation_highlights": [
+      "the aim here is to explain how the legislative framework, infrastructure, public policies, technologies, and awareness-raising could give Moroccan women the place that is rightfully theirs",
+      "the objective of shedding light on the obstacles that hinder progress in the condition of Moroccan women",
+      "shedding light on the obstacles"
+    ],
+    "english_question": "According to the guest,",
+    "english_options": [
+      "the obstacles to progress are cultural in nature.",
+      "the governing bodies cultivate immobility.",
+      "a thorough review of the context is a necessary step.",
+      "women have long been a pillar of development."
     ]
   },
   {
@@ -467,6 +818,17 @@
     "right_option": "A",
     "highlights": [
       "Un manque de sommeil peut entraîner stress, problème de concentration et maladies chroniques."
+    ],
+    "english_translation": "Welcome everyone. Today, we're talking about sleep, an essential element for our health. Yet many people experience sleep disorders. To discuss this, we welcome Doctor Lucas Martin, a sleep specialist. — Doctor, thank you for being with us. — Thank you for the invitation, it's a pleasure to address this important topic. During sleep, our brain processes information, eliminates toxins, and regulates our emotions. Physically, it's also a time for repair for our cells and our immune system. A lack of sleep can lead to stress, concentration problems, and chronic diseases. We often hear that our lifestyles disrupt our sleep. What are the main factors? — The use of screens before sleeping, stress, eating late, or even a lack of physical activity play a major role. Many people don't maintain a regular schedule, which disrupts their biological clock. What advice would you give to improve sleep quality? — Stick to fixed schedules, avoid screens before bedtime, limit caffeine in the afternoon, and promote a calm atmosphere in the bedroom. Simple habits can make a big difference. Thank you, Doctor Martin, for this valuable advice.",
+    "english_translation_highlights": [
+      "A lack of sleep can lead to stress, concentration problems, and chronic diseases."
+    ],
+    "english_question": "According to the guest, a lack of sleep can lead to",
+    "english_options": [
+      "concentration problems and stress.",
+      "an improvement in intellectual abilities.",
+      "a reduction in energy needs.",
+      "an immediate strengthening of the immune system."
     ]
   },
   {
@@ -488,6 +850,23 @@
       "limiter la caféine l'après-midi",
       "favoriser une atmosphère calme dans la chambre",
       "De simples habitudes peuvent faire une grande différence"
+    ],
+    "english_translation": "Welcome, everyone. Today, we're talking about sleep, an essential element for our health. Yet many people experience sleep disorders. To discuss this, we welcome Doctor Lucas Martin, a sleep specialist. — Doctor, thank you for being with us. — Thank you for the invitation, it's a pleasure to address this important topic. During sleep, our brain processes information, eliminates toxins, and regulates our emotions. Physically, it's also a time of repair for our cells and our immune system. A lack of sleep can lead to stress, concentration problems, and chronic diseases. We often hear that our lifestyles disrupt our sleep. What are the main factors? — The use of screens before sleeping, stress, eating late, or even a lack of physical activity play a major role. Many people don't follow a regular schedule, which disrupts their biological clock. What advice would you give to improve the quality of sleep? — Stick to fixed schedules, avoid screens before bedtime, limit caffeine in the afternoon, and create a calm atmosphere in the bedroom. Simple habits can make a big difference. Thank you, Doctor Martin, for this valuable advice.",
+    "english_translation_highlights": [
+      "The use of screens before sleeping",
+      "Many people don't follow a regular schedule, which disrupts their biological clock",
+      "Stick to fixed schedules",
+      "avoid screens before bedtime",
+      "limit caffeine in the afternoon",
+      "create a calm atmosphere in the bedroom",
+      "Simple habits can make a big difference"
+    ],
+    "english_question": "The guest explains that for better sleep, it is recommended to:",
+    "english_options": [
+      "Avoid screens and maintain a regular schedule.",
+      "Drink coffee late in the evening.",
+      "Work late to accumulate fatigue.",
+      "Sleep with the light on."
     ]
   },
   {
@@ -509,6 +888,23 @@
       "Il faut trouver la bonne porte de communication et la bonne porte de motivation.",
       "Le but, c’est de stimuler un maximum les patients avec ce qu’ils aiment.",
       "des résultats encourageants"
+    ],
+    "english_translation": "If you were left for 6 months in a room without windows, and then you feel the wind, and the rain, and the snow, and the sun, you'd think that's quite nice. Dr. Karine Diserens is convinced of it. Taking a patient with severe brain injuries outside, even bedridden and even in the middle of winter, has nothing to do with mistreatment — it's quite the opposite. The three-hundred-square-meter garden built in the heart of the Lausanne University Hospitals is an opportunity and the surest path to recovery. These are precisely patients with cognitive-motor dissociation, but also patients with profound disorders of consciousness. As soon as there is a natural element and motivation, they can interact better. Caroline Atouël is a physiotherapist; she has seen what the garden could trigger in mute patients who didn't move. \"We went outside in the middle of winter. He lived in Châtel-Saint-Denis, he used to ski, he loves snow, and we knew that. In that garden where it was cold, the weather was getting worse and worse, he was well dressed, he still had a tracheotomy. The first snowflakes of the season fell, and it was the first time I saw him move his head and lift his face to the sky like that, to feel the snow on his face.\" Since then, Olivier Grandjean has left the hospital; he even put his skis back on this year. The former patient knows what he owes to the therapeutic garden. \"My mother was a doctor, and she told me: when you get fresh air and you're outside, the connections in the brain improve. My wife felt it herself too. She had the impression that I was much better outside than inside. For her, it was hope.\" But the acute neurorehabilitation unit is not limited to the garden. Here, what they aim to do is stimulate patients in a minimally conscious state as much as possible, for example by verticalizing them in their beds using robotic systems that give them the sensation of walking, or by bringing a bit of their daily life into the hospital. Loïc Bernays, physiotherapist: \"We've had patients who said nothing, absolutely nothing. The first word that was spoken was in the garden, and it wasn't thanks to the garden — it was because the person was able to bring their dog. It's motivation that makes people recover. You have to find the right door of communication and the right door of motivation. We practically know what type of underwear they wear, but it's to know: did they shower in the morning, did they shower in the evening, what do they like to drink, what do they like to eat? Because if you don't like Coke, and someone makes you drink Coke to stimulate you, you're going to spit it out. The goal is to stimulate patients as much as possible with what they love.\" Among the one hundred and forty-one people studied who went through the unit, the results show it: patients with cognitive-motor dissociation recover better and faster when they are properly stimulated — encouraging results when you consider that a third of these patients are generally misdiagnosed as being in a vegetative state. Jérémy Lanche, Lausanne, RFI.",
+    "english_translation_highlights": [
+      "The three-hundred-square-meter garden built in the heart of the Lausanne University Hospitals is an opportunity and the surest path to recovery.",
+      "As soon as there is a natural element and motivation, they can interact better.",
+      "what they aim to do is stimulate patients in a minimally conscious state as much as possible, for example by verticalizing them in their beds using robotic systems",
+      "It's motivation that makes people recover.",
+      "You have to find the right door of communication and the right door of motivation.",
+      "The goal is to stimulate patients as much as possible with what they love.",
+      "encouraging results"
+    ],
+    "english_question": "The university hospitals of Lausanne have implemented",
+    "english_options": [
+      "innovative care practices.",
+      "measures against patient mistreatment.",
+      "group therapy sessions in a garden.",
+      "studies on the impact of climate on healing."
     ]
   },
   {
@@ -527,6 +923,20 @@
       "Il faut trouver la bonne porte de communication et la bonne porte de motivation.",
       "Le but, c’est de stimuler un maximum les patients avec ce qu’ils aiment.",
       "C’est la motivation qui fait que les gens récupèrent."
+    ],
+    "english_translation": "If you were left for 6 months in a room without a window, and then afterward you feel the wind, and the rain, and the snow, and the sun, you'd think that's not bad at all. Dr. Karine Diserens is convinced of it. Taking a patient with severe brain injuries outside, even bedridden and even in the middle of winter, has nothing to do with mistreatment — it's quite the opposite. The three-hundred-square-meter garden created in the heart of the Lausanne University Hospitals is an opportunity and the surest path to recovery. These are precisely the patients with cognitive-motor dissociation, but also patients with profound disorders of consciousness. As soon as there's a natural element and motivation, they can interact better. Caroline Atouël is a physiotherapist; she has seen what the garden could trigger in mute patients who didn't move. \"We went outside in the middle of winter. He lived in Châtel-Saint-Denis, he used to ski, he loves snow, and we knew that. In this garden where it was cold, the weather was getting increasingly dreary, he was well dressed, he still had a tracheotomy. The first snowflakes of the season fell, and it was the first time I saw him move his head and lift his head to the sky like that, to feel the snow on his face.\" Since then, Olivier Grandjean has left the hospital; he even put his skis back on this year. The former patient knows what he owes to the therapeutic garden. \"My mother was a doctor, and she told me: when you get fresh air and you're outside, the connections in the brain improve. My wife felt it herself too. She had the impression that I was much better outside than inside. For her, it was hope.\" But the acute neurorehabilitation unit is not limited to the garden. Here, what they aim to do is stimulate patients in a minimally conscious state as much as possible — for example, by verticalizing them in their beds using robotic systems that give them the sensation of walking, or by bringing a bit of their daily life into the hospital. Loïc Bernays, physiotherapist: \"We had patients who said nothing, absolutely nothing. The first word that was spoken was in the garden, and it wasn't thanks to the garden — it was because the person was able to bring their dog. It's motivation that makes people recover. You have to find the right door of communication and the right door of motivation. We practically know what type of underwear they wear, but it's to find out: did they shower in the morning, did they shower in the evening, what do they like to drink, what do they like to eat? Because if you don't like Coke, and someone makes you drink Coke to stimulate you, you're going to spit it out. The goal is to stimulate patients as much as possible with what they love.\" Among the one hundred and forty-one people studied who passed through the unit, the results show it: patients with cognitive-motor dissociation recover better and faster when they are properly stimulated — encouraging results when you consider that a third of these patients are generally misdiagnosed as being in a vegetative state. Jérémy Lanche, Lausanne, RFI.",
+    "english_translation_highlights": [
+      "We practically know what type of underwear they wear, but it's to find out: did they shower in the morning, did they shower in the evening, what do they like to drink, what do they like to eat?",
+      "You have to find the right door of communication and the right door of motivation.",
+      "The goal is to stimulate patients as much as possible with what they love.",
+      "It's motivation that makes people recover."
+    ],
+    "english_question": "We learn that",
+    "english_options": [
+      "communicating results motivates patients.",
+      "diagnostic errors have dropped in a few months.",
+      "patients' relatives are very motivated to help.",
+      "caregivers seek to better understand patients."
     ]
   },
   {
@@ -548,6 +958,23 @@
       "l'entrevue porte sur votre formation et vos réalisations",
       "Si vous manquez d'expérience sur un point précis, vous pouvez faire valoir un cours ou une expérience similaire",
       "parler de votre capacité d'adaptation"
+    ],
+    "english_translation": "Every month, Radio-Canada talks about youth employment, and today a special segment: how to perform well during an interview. The first point is to prepare well. A few days before the interview, learn about the company—what its activities are, who its clientele is. Usually, the interview focuses on your education and your accomplishments. If you lack experience in a specific area, you can highlight a course or a similar experience and talk about your ability to adapt.",
+    "english_translation_highlights": [
+      "The first point is to prepare well",
+      "A few days before the interview, learn about the company",
+      "what its activities are",
+      "who its clientele is",
+      "the interview focuses on your education and your accomplishments",
+      "If you lack experience in a specific area, you can highlight a course or a similar experience",
+      "talk about your ability to adapt"
+    ],
+    "english_question": "The journalist notably advises to",
+    "english_options": [
+      "show that you have resources.",
+      "ask the recruiter questions.",
+      "prepare and learn a speech.",
+      "highlight your leisure activities."
     ]
   },
   {
@@ -565,6 +992,19 @@
       "Le chef du parti Québec repose ses exigences",
       "il demande au gouvernement d'accorder aux partis de l'opposition une audience avec la personne qui voudra nommer à ce poste",
       "Les Péquistes veulent aussi que le candidat obtienne l'appui formel d'au moins 12 partis de l'opposition"
+    ],
+    "english_translation": "The leader of the Parti Québécois is reiterating his demands in the very sensitive matter of the presidency of Hydro-Québec. Let us recall that Hydro-Québec is a Quebec state-owned corporation responsible for the production, transmission, and distribution of electricity in Quebec, and that its sole shareholder is the Government of Quebec. Specifically, he is asking the government to grant the opposition parties a hearing with the person it intends to appoint to the position. The Péquistes also want the candidate to obtain the formal support of at least 12 opposition parties.",
+    "english_translation_highlights": [
+      "The leader of the Parti Québécois is reiterating his demands",
+      "he is asking the government to grant the opposition parties a hearing with the person it intends to appoint to the position",
+      "The Péquistes also want the candidate to obtain the formal support of at least 12 opposition parties"
+    ],
+    "english_question": "The Parti Québécois",
+    "english_options": [
+      "denounces the dealings between the other parties.",
+      "demands the appointment of a candidate from its field.",
+      "wants a public debate on the future of Hydro-Québec.",
+      "wishes to have a role to play in an appointment."
     ]
   },
   {
@@ -585,6 +1025,22 @@
       "Faut-il détruire ou réhabiliter les quartiers précaires ou indignes",
       "Comment acheminer les services essentiels dans des villes non planifiées",
       "quelles innovations pour construire vite, mieux et moins cher"
+    ],
+    "english_translation": "Continuing our special week examining world demographics. Today, we ask the question: with 8 billion inhabitants, including 1 billion poorly housed, are there too many of us to live in housing that meets human rights standards? Should precarious or substandard neighborhoods be demolished or rehabilitated? How can essential services be delivered in unplanned cities? And above all, what innovations exist to build quickly, better, and more cheaply in a context of rising construction costs? These questions are at once technical, political, and economic, and we're going to discuss them with you, Slimane Belmani.",
+    "english_translation_highlights": [
+      "with 8 billion inhabitants, including 1 billion poorly housed, are there too many of us to live in housing that meets human rights standards",
+      "housing that meets human rights standards",
+      "human rights",
+      "Should precarious or substandard neighborhoods be demolished or rehabilitated",
+      "How can essential services be delivered in unplanned cities",
+      "what innovations exist to build quickly, better, and more cheaply"
+    ],
+    "english_question": "The theme of this show is",
+    "english_options": [
+      "access to decent housing for all.",
+      "speculation on the real estate market.",
+      "the growing insalubrity of social housing.",
+      "living conditions in unhealthy areas."
     ]
   },
   {
@@ -602,6 +1058,19 @@
       "La pollution de l'air est devenue un problème majeur dans les grandes villes",
       "Elle est principalement causée par les émissions industrielles, les gaz d'échappement des véhicules et la déforestation",
       "les émissions industrielles"
+    ],
+    "english_translation": "Air pollution has become a major problem in large cities. It is primarily caused by industrial emissions, vehicle exhaust fumes, and deforestation. This pollution has serious consequences for health, including respiratory and cardiovascular diseases. Numerous studies show that prolonged exposure to polluted air reduces life expectancy. To limit this pollution, several solutions are being implemented, such as the development of public transportation and the use of clean energy. The commitment of citizens is also essential to preserve air quality and protect public health.",
+    "english_translation_highlights": [
+      "Air pollution has become a major problem in large cities",
+      "It is primarily caused by industrial emissions, vehicle exhaust fumes, and deforestation",
+      "industrial emissions"
+    ],
+    "english_question": "According to this document, one of the main causes of air pollution is",
+    "english_options": [
+      "Water consumption.",
+      "Industrial emissions.",
+      "The use of renewable energy.",
+      "Waste reduction."
     ]
   },
   {
@@ -620,6 +1089,20 @@
       "De nombreuses entreprises adoptent des outils digitaux pour améliorer leur productivité",
       "Le télétravail est devenu une pratique courante",
       "permettant aux employés de travailler à distance grâce aux nouvelles technologies"
+    ],
+    "english_translation": "With the rise of digital technology, the world of work is undergoing a rapid transformation. Many companies are adopting digital tools to improve their productivity. Remote work has become a common practice, allowing employees to work from a distance thanks to new technologies. However, this evolution also poses challenges, particularly in terms of cybersecurity and work-life balance. Workers must adapt by developing new digital skills to remain competitive in the job market.",
+    "english_translation_highlights": [
+      "With the rise of digital technology, the world of work is undergoing a rapid transformation",
+      "Many companies are adopting digital tools to improve their productivity",
+      "Remote work has become a common practice",
+      "allowing employees to work from a distance thanks to new technologies"
+    ],
+    "english_question": "Digital technology has transformed work by enabling",
+    "english_options": [
+      "A massive return to manual labor.",
+      "The increase in business travel.",
+      "A growing adoption of remote work.",
+      "A total elimination of jobs."
     ]
   },
   {
@@ -638,6 +1121,20 @@
       "Elles permettent de réduire les émissions de gaz à effet de serre",
       "de limiter l'impact du changement climatique",
       "alternatives durables aux énergies fossiles"
+    ],
+    "english_translation": "Renewable energies play an increasingly important role in the global energy transition. Solar, wind, and hydroelectric energy are sustainable alternatives to fossil fuels. They help reduce greenhouse gas emissions and limit the impact of climate change. Many countries are investing heavily in these technologies to ensure a cleaner energy future. However, challenges remain, particularly the cost of infrastructure and dependence on weather conditions. Some renewable energies, such as wind and solar, are intermittent, which requires efficient storage solutions. Despite these challenges, technological advances are improving their efficiency and accessibility. In the long term, these energies represent a key solution for meeting energy needs while preserving the environment.",
+    "english_translation_highlights": [
+      "Renewable energies play an increasingly important role in the global energy transition",
+      "They help reduce greenhouse gas emissions",
+      "limit the impact of climate change",
+      "sustainable alternatives to fossil fuels"
+    ],
+    "english_question": "Renewable energies mainly contribute to",
+    "english_options": [
+      "An increase in pollution.",
+      "A reduction in greenhouse gas emissions.",
+      "A disappearance of natural resources.",
+      "A total dependence on fossil fuels."
     ]
   },
   {
@@ -662,6 +1159,26 @@
       "permettant d'optimiser les ventes et d'améliorer l'engagement des clients",
       "le marketing d'influence connaît un essor important",
       "le marketing digital continue de s'imposer comme un levier incontournable pour les entreprises cherchant à accroître leur visibilité et leur chiffre d'affaires"
+    ],
+    "english_translation": "Digital marketing has become an essential tool for modern businesses. Thanks to social media and online advertising campaigns, brands can reach a wider audience. This transformation has upended traditional business strategies, forcing companies to constantly innovate. Today, platform algorithms analyze consumer behavior to offer them personalized content. Advertising targeting has thus become more precise, making it possible to optimize sales and improve customer engagement. At the same time, influencer marketing is experiencing significant growth, with content creators playing a key role in product promotion. However, this evolution also raises ethical challenges, particularly regarding the protection of personal data and transparency. Consumers must remain vigilant against deceptive practices and disguised advertisements. Despite these issues, digital marketing continues to establish itself as an essential lever for businesses seeking to increase their visibility and revenue.",
+    "english_translation_highlights": [
+      "Digital marketing has become an essential tool for modern businesses",
+      "brands can reach a wider audience",
+      "Thanks to social media and online advertising campaigns",
+      "This transformation has upended traditional business strategies",
+      "forcing companies to constantly innovate",
+      "platform algorithms analyze consumer behavior",
+      "Advertising targeting has thus become more precise",
+      "making it possible to optimize sales and improve customer engagement",
+      "influencer marketing is experiencing significant growth",
+      "digital marketing continues to establish itself as an essential lever for businesses seeking to increase their visibility and revenue"
+    ],
+    "english_question": "Digital marketing allows companies to",
+    "english_options": [
+      "Limit themselves to traditional commercial strategies.",
+      "Expand their reach by integrating advanced digital technologies.",
+      "Maintain television advertising while ignoring digital.",
+      "Abandon digital in favor of classic advertising formats."
     ]
   },
   {
@@ -680,6 +1197,20 @@
       "L'absence de routes praticables et la distance par rapport aux centres urbains limitent leur développement économique",
       "Les habitants de ces zones rencontrent des difficultés pour accéder aux soins de santé, à l'éducation et aux opportunités d'emploi",
       "Le manque de réseau de communication, comme l'internet haut débit, constitue également un frein à leur intégration dans l'économie numérique"
+    ],
+    "english_translation": "Certain rural regions suffer from a lack of infrastructure and access to essential services. The absence of passable roads and the distance from urban centers limit their economic development. The inhabitants of these areas face difficulties accessing healthcare, education, and employment opportunities. The lack of communication networks, such as high-speed internet, also constitutes a barrier to their integration into the digital economy. Governments and international organizations are attempting to provide solutions by investing in the construction of roads, bridges, and communication networks. Rural development projects also include the establishment of schools and health centers to improve the quality of life of local populations. However, these efforts require significant funding and strong political will. Combating isolation is a crucial challenge in reducing territorial inequalities and promoting harmonious development on a national scale.",
+    "english_translation_highlights": [
+      "Certain rural regions suffer from a lack of infrastructure and access to essential services",
+      "The absence of passable roads and the distance from urban centers limit their economic development",
+      "The inhabitants of these areas face difficulties accessing healthcare, education, and employment opportunities",
+      "The lack of communication networks, such as high-speed internet, also constitutes a barrier to their integration into the digital economy"
+    ],
+    "english_question": "One of the major problems of landlocked regions is",
+    "english_options": [
+      "Overpopulation.",
+      "A lack of infrastructure.",
+      "Strong industrialization.",
+      "Great accessibility."
     ]
   },
   {
@@ -699,6 +1230,21 @@
       "la végétalisation des villes",
       "l'amélioration de l'isolation des bâtiments",
       "la sensibilisation du public aux gestes de prévention"
+    ],
+    "english_translation": "Heat waves are becoming increasingly frequent and intense due to climate change. They have impacts on health and the environment. What are the main risks associated with these phenomena? Heat waves can cause serious health problems, including heatstroke, dehydration, and cardiovascular complications, particularly among the elderly and children. They also have consequences for agriculture, reducing crop yields and increasing the risk of forest fires. In urban areas, the heat island effect worsens the phenomenon, making temperatures even more extreme. It is essential to implement adaptation measures such as greening cities, improving building insulation, and raising public awareness about preventive actions. Access to drinking water and the establishment of cooling centers are also effective solutions. In the long term, the fight against climate change is the only true response to limit these episodes of extreme heat.",
+    "english_translation_highlights": [
+      "Access to drinking water and the establishment of cooling centers are also effective solutions.",
+      "It is essential to implement adaptation measures",
+      "greening cities",
+      "improving building insulation",
+      "raising public awareness about preventive actions"
+    ],
+    "english_question": "A measure to protect oneself from heat waves is",
+    "english_options": [
+      "To have access to drinking water and cooling centers.",
+      "To install artificial cooling systems in all spaces.",
+      "To practice outdoor exercises to adapt to the heat.",
+      "To maintain complete isolation from outside air by closing all windows."
     ]
   },
   {
@@ -716,6 +1262,19 @@
       "une alimentation équilibrée apporte à notre organisme les nutriments nécessaires à son bon fonctionnement",
       "Elle permet de prévenir plusieurs maladies comme l'obésité, le diabète et les maladies cardiovasculaires",
       "les maladies cardiovasculaires"
+    ],
+    "english_translation": "Today, we welcome Dr. Laurent Dupont, a nutrition specialist. Doctor, can you explain to us why a balanced diet is essential for health? And what are the main foods to avoid in order to stay healthy? Of course, a balanced diet provides our body with the nutrients necessary for its proper functioning. It helps prevent several diseases such as obesity, diabetes, and cardiovascular diseases. It is important to consume a variety of foods, including fruits, vegetables, proteins, and complex carbohydrates. It is recommended to limit the consumption of refined sugars, saturated fats, and ultra-processed foods. These products increase the risk of chronic diseases and promote weight gain.",
+    "english_translation_highlights": [
+      "a balanced diet provides our body with the nutrients necessary for its proper functioning",
+      "It helps prevent several diseases such as obesity, diabetes, and cardiovascular diseases",
+      "cardiovascular diseases"
+    ],
+    "english_question": "According to this discussion, a balanced diet helps prevent",
+    "english_options": [
+      "Neurological diseases.",
+      "Communicable diseases.",
+      "Respiratory diseases.",
+      "Cardiovascular diseases."
     ]
   }
 ]

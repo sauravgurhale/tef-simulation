@@ -14,6 +14,19 @@
       "on offre à Jacques pour son départ",
       "un cadeau",
       "faire une cagnotte"
+    ],
+    "english_translation": "\"What should we get Jacques for his leaving?\"\n\"Sylvie would like us to get him a gift.\"\n\"Frankly, it would be too complicated to choose a gift he'd like.\"\n\"In my opinion, we should rather put together a collection.\"",
+    "english_translation_highlights": [
+      "we get Jacques for his leaving",
+      "a gift",
+      "put together a collection"
+    ],
+    "english_question": "You will hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_4_images/co-4-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -32,6 +45,20 @@
       "au deuxième étage",
       "le premier bureau à droite",
       "en sortant de l'ascenseur"
+    ],
+    "english_translation": "— Hello, I'm looking for Mrs. Denis's office. — Hello ma'am, it's on the second floor, it's the first office on the right, as you come out of the elevator.",
+    "english_translation_highlights": [
+      "Mrs. Denis's office",
+      "on the second floor",
+      "the first office on the right",
+      "as you come out of the elevator"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_4_images/co-4-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -51,6 +78,21 @@
       "avant la fin de la semaine",
       "je suis débordé",
       "je n'ai même pas eu le temps de déjeuner"
+    ],
+    "english_translation": "— Hi Karim, how are you? — Not at all. I'm very stressed because I have to finish a client's project before the end of the week, but I'm swamped. Yesterday, I didn't even have time to eat lunch.",
+    "english_translation_highlights": [
+      "I'm very stressed",
+      "I have to finish a client's project",
+      "before the end of the week",
+      "I'm swamped",
+      "I didn't even have time to eat lunch"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_4_images/co-4-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -67,6 +109,18 @@
     "highlights": [
       "l'exposition",
       "prolongée"
+    ],
+    "english_translation": "— Marie, the exhibition I told you about has been extended. Would you like to go? — Yes, I'd love to.",
+    "english_translation_highlights": [
+      "the exhibition",
+      "extended"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_4_images/co-4-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -84,6 +138,19 @@
       "Les voyageurs sont invités à monter à bord",
       "départ prévu à 16 heures 15",
       "partira voie 5"
+    ],
+    "english_translation": "Your attention, please: the train to Nancy, scheduled to depart at 4:15 PM, will leave from platform 5. Passengers are invited to board.",
+    "english_translation_highlights": [
+      "Passengers are invited to board",
+      "scheduled to depart at 4:15 PM",
+      "will leave from platform 5"
+    ],
+    "english_question": "This message announces that…",
+    "english_options": [
+      "the train has departed.",
+      "the train is delayed.",
+      "the passengers must board the train.",
+      "the train will arrive in Nancy at 4:15 PM."
     ]
   },
   {
@@ -101,6 +168,19 @@
       "la pièce reprendra dans 5 minutes",
       "les téléphones doivent être éteints durant la représentation",
       "Des agents passeront dans la salle régulièrement pour vérifier que c'est bien le cas"
+    ],
+    "english_translation": "Ladies and gentlemen, the play will resume in 5 minutes. We remind you that phones must be turned off during the performance. Ushers will pass through the auditorium regularly to verify that this is indeed the case. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "the play will resume in 5 minutes",
+      "phones must be turned off during the performance",
+      "Ushers will pass through the auditorium regularly to verify that this is indeed the case"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "the resumption of the play.",
+      "the requisition of phones.",
+      "the authorization to film the play.",
+      "the presence of police officers in the room."
     ]
   },
   {
@@ -120,6 +200,21 @@
       "Ne ratez pas cette aubaine",
       "Rendez-vous au rayon boucherie",
       "vous n'avez plus que quelques heures"
+    ],
+    "english_translation": "Dear customers, you only have a few hours left to take advantage of exceptional discounts in the butcher section. Chicken thighs and pork chops are 50 percent off. Don't miss this bargain. Head to the butcher section.",
+    "english_translation_highlights": [
+      "exceptional discounts in the butcher section",
+      "Chicken thighs and pork chops are 50 percent off",
+      "Don't miss this bargain",
+      "Head to the butcher section",
+      "you only have a few hours left"
+    ],
+    "english_question": "In this message, it is announced…",
+    "english_options": [
+      "50 euro discounts on meat.",
+      "promotions in the butcher section.",
+      "the end of the discounts in 48 hours.",
+      "the extension of the promotion."
     ]
   },
   {
@@ -136,6 +231,18 @@
     "highlights": [
       "Il reste des places",
       "pour la conférence"
+    ],
+    "english_translation": "Welcome to the Immigration Employment Canada fair. There are still spots available for the conference Skilled Worker: Which Province Should You Immigrate To? Head to tent eighteen.",
+    "english_translation_highlights": [
+      "There are still spots available",
+      "for the conference"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "that there are seats available for a conference.",
+      "that you need to make an appointment to attend the conference.",
+      "that the conference will take place in Canada.",
+      "that work is being offered at tent 18."
     ]
   },
   {
@@ -154,6 +261,20 @@
       "Je suis intéressée",
       "j'aimerais vous l'acheter",
       "s'il est toujours disponible"
+    ],
+    "english_translation": "Hello, I'm calling about the ad for the exercise bike 9 that you're selling. I'm interested and I'd like to buy it from you if it's still available. I'll call you back this evening. Thank you.",
+    "english_translation_highlights": [
+      "I'm calling about the ad for the exercise bike",
+      "I'm interested",
+      "I'd like to buy it from you",
+      "if it's still available"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to lend a new bike.",
+      "to make an announcement.",
+      "to sell an exercise bike.",
+      "to buy an exercise bike."
     ]
   },
   {
@@ -172,6 +293,20 @@
       "j'aurai la maison jusqu'à dimanche soir",
       "Mes parents partent en week-end vendredi soir",
       "Je vais aussi prévenir Sophia et Lucien"
+    ],
+    "english_translation": "Hi Lila, it's Marie. My parents are going away for the weekend Friday evening, so I'll have the house until Sunday evening. Do you want to come over? I'm also going to let Sophia and Lucien know. I'll call you back tonight, ciao.",
+    "english_translation_highlights": [
+      "Do you want to come over?",
+      "I'll have the house until Sunday evening",
+      "My parents are going away for the weekend Friday evening",
+      "I'm also going to let Sophia and Lucien know"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to invite a friend to her home.",
+      "to rent out her house.",
+      "to go away for the weekend.",
+      "to organize a party at her parents' house."
     ]
   },
   {
@@ -190,6 +325,20 @@
       "j'ai besoin du dossier Collins",
       "il n'est pas dans ton classeur",
       "Rappelle-moi pour me dire où tu l'as mis"
+    ],
+    "english_translation": "Hello Adama, it's Jacques. Sorry to bother you during your vacation, but I need the Collins file. It's super urgent because the client is asking me for a meeting the day after tomorrow. I need to review the file, but it's not in your filing cabinet. Call me back to tell me where you put it, please. Thanks in advance.",
+    "english_translation_highlights": [
+      "It's super urgent",
+      "I need the Collins file",
+      "it's not in your filing cabinet",
+      "Call me back to tell me where you put it"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to organize a meeting with a client.",
+      "to ask where a file is located.",
+      "to send a file.",
+      "to ask a colleague to come back to the office."
     ]
   },
   {
@@ -207,6 +356,19 @@
       "votre niveau vous permet d'entrer directement dans le groupe B2",
       "La session intensive de préparation au TEF commence dans une semaine",
       "Rappelez-moi rapidement pour finaliser votre inscription"
+    ],
+    "english_translation": "Hello Mrs. Mourad, this is Laura from the Alliance Française de Montréal. I've reviewed your French test, and your level allows you to enter directly into the B2 group. The intensive TEF preparation session starts in one week. Please call me back quickly to finalize your registration. Thank you.",
+    "english_translation_highlights": [
+      "your level allows you to enter directly into the B2 group",
+      "The intensive TEF preparation session starts in one week",
+      "Please call me back quickly to finalize your registration"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to announce acceptance into a TEF preparation program.",
+      "to announce a recruitment.",
+      "to request information about the TEF.",
+      "to become a teacher."
     ]
   },
   {
@@ -225,6 +387,20 @@
       "j'ai le plaisir de vous annoncer que vous avez le poste",
       "Vous serez en formation du 15 février au vingt-six février",
       "Je vous ai envoyé un courriel avec des documents qu'il faut remplir"
+    ],
+    "english_translation": "Hello Mrs. Denis, this is Victoria Tran from TD Bank. Following your interview, I'm pleased to inform you that you got the position. You will be in training from February 15th to February 26th. I've sent you an email with documents that need to be filled out and returned to me. Contact me as soon as possible, thank you.",
+    "english_translation_highlights": [
+      "Following your interview",
+      "I'm pleased to inform you that you got the position",
+      "You will be in training from February 15th to February 26th",
+      "I've sent you an email with documents that need to be filled out"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to organize a job interview.",
+      "to dismiss an employee.",
+      "to announce a recruitment.",
+      "to contact a trainer."
     ]
   },
   {
@@ -243,6 +419,20 @@
       "pour immigrer au Canada",
       "Est-ce que vous auriez une place disponible ?",
       "Mon ami Ali m'a donné votre numéro"
+    ],
+    "english_translation": "Hello Mr. Courbier, this is Laurent Malounga. My friend Ali gave me your number. I am preparing for the TEF exam to immigrate to Canada. Would you have an available spot? I will contact you again tomorrow. Thank you, goodbye.",
+    "english_translation_highlights": [
+      "I am preparing for the TEF exam",
+      "to immigrate to Canada",
+      "Would you have an available spot?",
+      "My friend Ali gave me your number"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to find a teacher for his friend.",
+      "to ask a teacher to train him.",
+      "to become a French teacher.",
+      "to prepare for his TEF interview."
     ]
   },
   {
@@ -262,6 +452,21 @@
       "Mais vu l’état déplorable de la jeunesse, peut-être qu’il faut essayer",
       "Mais honnêtement, j’ai peu d’espoir que ça marche",
       "malheureusement"
+    ],
+    "english_translation": "If we were in 1904, that could work easily, but we're in 2024. It would be really hard to impose that on today's youth because they want to express their identity at all costs on social media. But given the deplorable state of the youth, maybe we need to try. But honestly, I have little hope that it will work, unfortunately.",
+    "english_translation_highlights": [
+      "If we were in 1904, that could work easily, but we're in 2024",
+      "It would be really hard to impose that on today's youth",
+      "But given the deplorable state of the youth, maybe we need to try",
+      "But honestly, I have little hope that it will work",
+      "unfortunately"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "is 100% for it",
+      "is moderately for it.",
+      "is against it.",
+      ""
     ]
   },
   {
@@ -280,6 +485,20 @@
       "ça leur permettra d’avoir conscience de la vie en groupe et qu’il faut respecter les règles",
       "c’est une bonne idée",
       "il faut le faire"
+    ],
+    "english_translation": "Personally, I think that young people are not disciplined nowadays. So, dressing the same way as in the old days would allow them to become aware of group life and that rules must be respected. So, it's a good idea, it should be done.",
+    "english_translation_highlights": [
+      "Personally, I think that young people are not disciplined nowadays",
+      "would allow them to become aware of group life and that rules must be respected",
+      "it's a good idea",
+      "it should be done"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "is 100% for it",
+      "is moderately for it.",
+      "is against it.",
+      ""
     ]
   },
   {
@@ -298,6 +517,20 @@
       "Pas possible",
       "les gens ne vont pas l’accepter",
       "ils auront bien raison"
+    ],
+    "english_translation": "Here in Montreal, that couldn't work in public schools. Not possible, people won't accept it, and they'll be quite right.",
+    "english_translation_highlights": [
+      "that couldn't work",
+      "Not possible",
+      "people won't accept it",
+      "they'll be quite right"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "is 100% for it",
+      "is moderately for it.",
+      "is against it.",
+      ""
     ]
   },
   {
@@ -314,6 +547,18 @@
     "highlights": [
       "Absolument pas",
       "Je n’irai nulle part"
+    ],
+    "english_translation": "Absolutely not. I love my country. I know it's not perfect, but compared to most countries in the world, the quality of life is very good. I'm not going anywhere.",
+    "english_translation_highlights": [
+      "Absolutely not",
+      "I'm not going anywhere"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "would really want to.",
+      "would kind of want to.",
+      "would not want to at all.",
+      ""
     ]
   },
   {
@@ -332,6 +577,20 @@
       "Je ne désire pas partir à tout prix",
       "l’herbe n’est pas plus verte ailleurs",
       "si j’en ai l’occasion, je le ferai peut-être"
+    ],
+    "english_translation": "I have mixed feelings, actually. I don't want to leave at all costs, and besides, as they say, the grass isn't greener on the other side. But if I get the chance, I might do it.",
+    "english_translation_highlights": [
+      "I have mixed feelings",
+      "I don't want to leave at all costs",
+      "the grass isn't greener on the other side",
+      "if I get the chance, I might do it"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "would really want to.",
+      "would somewhat want to.",
+      "would not want to at all.",
+      ""
     ]
   },
   {
@@ -350,6 +609,20 @@
       "Si je pouvais, je partirais demain",
       "franchement",
       "j’en peux plus de la mentalité française"
+    ],
+    "english_translation": "That's my dream. If I could, I'd leave tomorrow, because honestly, I can't stand the French mentality anymore. People are too closed-minded here.",
+    "english_translation_highlights": [
+      "That's my dream",
+      "If I could, I'd leave tomorrow",
+      "honestly",
+      "I can't stand the French mentality anymore"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "would really want to.",
+      "would somewhat want to.",
+      "would not want to at all.",
+      ""
     ]
   },
   {
@@ -369,6 +642,21 @@
       "sensibilise la population martiniquaise à l’importance de trier et de recycler nos déchets",
       "Leurs actions ne se limitent pas au ramassage des déchets, mais s’étendent également à l’éducation environnementale dans les écoles et les communautés locales",
       "créer une Martinique plus propre et plus durable pour les générations futures"
+    ],
+    "english_translation": "Today, we are shining a spotlight on the association Act for a Green Future, which is passionately committed to the environment in Martinique. At the heart of their efforts is recycling, a crucial practice for the preservation of our ecosystem. This association, made up of dedicated volunteers, raises awareness among the Martinican population about the importance of sorting and recycling our waste. Their actions are not limited to waste collection but also extend to environmental education in schools and local communities. Their goal: to create a cleaner and more sustainable Martinique for future generations. Act for a Green Future embodies hope and commitment to a better future.",
+    "english_translation_highlights": [
+      "passionately committed to the environment in Martinique",
+      "At the heart of their efforts is recycling, a crucial practice for the preservation of our ecosystem",
+      "raises awareness among the Martinican population about the importance of sorting and recycling our waste",
+      "Their actions are not limited to waste collection but also extend to environmental education in schools and local communities",
+      "create a cleaner and more sustainable Martinique for future generations"
+    ],
+    "english_question": "This column presents an association…",
+    "english_options": [
+      "that collects green-colored waste.",
+      "that promotes Martinique.",
+      "that takes actions to preserve the environment in Martinique.",
+      "that offers jobs in the field of waste recycling."
     ]
   },
   {
@@ -390,6 +678,23 @@
       "permettant à l’esprit de se détendre et de se recentrer",
       "prenons quelques instants chaque jour",
       "pour nous étirer, pour nourrir notre corps et apaiser notre esprit"
+    ],
+    "english_translation": "In our hectic lives, we often neglect a simple but crucial practice: stretching the body. Whether through yoga, stretching, or simple stretches, this regular activity offers unsuspected benefits. In addition to promoting muscular flexibility and preventing injuries, it also releases accumulated mental tension. Stretching offers a moment of calm and inner connection, allowing the mind to relax and refocus. So let's take a few moments each day to stretch, to nourish our bodies and soothe our minds. In this flexibility, let us find the key to a vital balance and a fulfilling life.",
+    "english_translation_highlights": [
+      "this regular activity offers unsuspected benefits",
+      "In addition to promoting muscular flexibility and preventing injuries",
+      "it also releases accumulated mental tension",
+      "Stretching offers a moment of calm and inner connection",
+      "allowing the mind to relax and refocus",
+      "let's take a few moments each day",
+      "to stretch, to nourish our bodies and soothe our minds"
+    ],
+    "english_question": "According to this chronicle…",
+    "english_options": [
+      "stretching makes muscles flexible, prevents injuries, and allows one to clear the mind.",
+      "one must stretch every morning.",
+      "one must stretch in a quiet place with a good internet connection.",
+      "flexibility increases balance and consequently reduces the risk of falling."
     ]
   },
   {
@@ -406,6 +711,18 @@
     "highlights": [
       "Malheureusement, jusqu’à présent, les discussions ont été peu fructueuses",
       "peu fructueuses"
+    ],
+    "english_translation": "I am with the representative of the Force Travailleuse union, Gérard Domé. — Good morning, Mr. Domé. — Good morning, thank you for having me. Can you explain the reasons for this strike movement? — Of course, we are protesting against precarious working conditions and low wages in our industry. This is a concerning situation, especially when you consider the importance of workers in your sector. — Do you think management is willing to negotiate? — Unfortunately, so far, discussions have been unfruitful. We hope that this strike will draw their attention to our demands. — How do you see the future of this movement? — We will remain determined until our demands are heard. We are ready to continue the fight for as long as it takes to obtain justice for the workers in our industry. — Congratulations on your recent victory. Can you tell us what this means to you? — Thank you very much. Winning this prize is an incredible validation of all the hard work I have put into my writing. It is an honor to be recognized by my peers and to see my work appreciated at this level. — Your novel has been praised for its originality and depth. How did you draw your inspiration for this story? — Inspiration often comes from various sources, but for this novel in particular, I was inspired by events from my own life as well as observations of the society around me. I tried to create authentic characters and place them in complex situations to explore universal themes. — Your success is a source of inspiration for many aspiring writers. Do you have any advice for them? — I would say persevere and believe in your unique voice. Write with passion and authenticity, and never underestimate the power of revision and hard work. And above all, never let doubt stop you.",
+    "english_translation_highlights": [
+      "Unfortunately, so far, discussions have been unfruitful",
+      "unfruitful"
+    ],
+    "english_question": "According to the invited person…",
+    "english_options": [
+      "the discussions with management have borne fruit.",
+      "the discussions with management have not brought a solution.",
+      "one must no longer discuss with management.",
+      "the strike will continue but we must be careful."
     ]
   },
   {
@@ -422,6 +739,18 @@
     "highlights": [
       "Nous resterons déterminés jusqu’à ce que nos demandes soient entendues",
       "Nous sommes prêts à continuer la lutte aussi longtemps qu’il le faudra pour obtenir justice pour les travailleurs de notre industrie"
+    ],
+    "english_translation": "I am with the representative of the Force Travailleuse union, Gérard Domé. — Good morning, Mr. Domé. — Good morning, thank you for having me. Can you explain the reasons for this strike movement? — Of course, we are protesting against precarious working conditions and low wages in our industry. This is a worrying situation, especially when you consider the importance of workers in your sector. — Do you think management is willing to negotiate? — Unfortunately, so far, discussions have been unfruitful. We hope that this strike will draw their attention to our demands. — How do you see the future of this movement? — We will remain determined until our demands are heard. We are ready to continue the fight for as long as it takes to obtain justice for the workers in our industry. — Congratulations on your recent victory. Can you tell us what this means to you? — Thank you very much. Winning this prize is an incredible validation of all the hard work I have put into my writing. It is an honor to be recognized by my peers and to see my work appreciated at this level. — Your novel has been praised for its originality and depth. How did you draw your inspiration for this story? — Inspiration often comes from various sources, but for this novel in particular, I was inspired by events from my own life as well as observations of the society around me. I tried to create authentic characters and place them in complex situations to explore universal themes. — Your success is a source of inspiration for many aspiring writers. Do you have any advice for them? — I would say persevere and believe in your unique voice. Write with passion and authenticity, and never underestimate the power of revision and hard work. And above all, never let doubts stop you.",
+    "english_translation_highlights": [
+      "We will remain determined until our demands are heard",
+      "We are ready to continue the fight for as long as it takes to obtain justice for the workers in our industry"
+    ],
+    "english_question": "The guest indicates that…",
+    "english_options": [
+      "the director is deaf.",
+      "the strikers want fixed-term jobs.",
+      "the strike is too long.",
+      "the strike will continue as long as the workers' demands are not heard."
     ]
   },
   {
@@ -438,6 +767,18 @@
     "highlights": [
       "C’est un honneur d’être reconnu par mes pairs et de voir mon travail apprécié à ce niveau.",
       "Remporter ce prix est une validation incroyable de tout le travail acharné que j’ai mis dans mon écriture."
+    ],
+    "english_translation": "I am with the representative of the Force Travailleuse union, Gérard Domé. — Good morning, Mr. Domé. — Good morning, thank you for having me. Can you explain to us the reasons for this strike movement? — Of course, we are protesting against precarious working conditions and low wages in our industry. It's a worrying situation, especially when you consider the importance of workers in your sector. — Do you think management is willing to negotiate? — Unfortunately, so far, discussions have been unfruitful. We hope that this strike will draw their attention to our demands. — How do you see the future of this movement? — We will remain determined until our demands are heard. We are ready to continue the fight for as long as it takes to obtain justice for the workers in our industry. — Congratulations on your recent victory. Can you tell us what it means to you? — Thank you very much. Winning this prize is an incredible validation of all the hard work I have put into my writing. It is an honor to be recognized by my peers and to see my work appreciated at this level. — Your novel has been praised for its originality and depth. How did you draw your inspiration for this story? — Inspiration often comes from various sources, but for this novel in particular, I was inspired by events from my own life as well as by observations of the society around me. I tried to create authentic characters and place them in complex situations to explore universal themes. — Your success is a source of inspiration for many aspiring writers. Do you have any advice for them? — I would say persevere and believe in your unique voice. Write with passion and authenticity, and never underestimate the power of revision and hard work. And above all, never let doubts stop you.",
+    "english_translation_highlights": [
+      "It is an honor to be recognized by my peers and to see my work appreciated at this level.",
+      "Winning this prize is an incredible validation of all the hard work I have put into my writing."
+    ],
+    "english_question": "The guest is honored…",
+    "english_options": [
+      "that other writers appreciated his/her book and gave him/her a prize.",
+      "that readers find his/her characters authentic.",
+      "having given a prize to a budding writer.",
+      "that his/her father gave him/her a prize."
     ]
   },
   {
@@ -453,6 +794,17 @@
     "right_option": "B",
     "highlights": [
       "J’ai essayé de créer des personnages authentiques et de les placer dans des situations complexes pour explorer des thèmes universels."
+    ],
+    "english_translation": "I am with the representative of the Force Travailleuse union, Gérard Domé. — Good morning, Mr. Domé. — Good morning, thank you for having me. Can you explain to us the reasons for this strike movement? — Of course, we are protesting against precarious working conditions and low wages in our industry. This is a concerning situation, especially when you consider the importance of workers in your sector. — Do you think management is willing to negotiate? — Unfortunately, so far, discussions have been unfruitful. We hope that this strike will draw their attention to our demands. — How do you see the future of this movement? — We will remain determined until our demands are heard. We are ready to continue the fight for as long as it takes to obtain justice for the workers in our industry. — Congratulations on your recent victory. Can you tell us what this means to you? — Thank you very much. Winning this prize is an incredible validation of all the hard work I have put into my writing. It is an honor to be recognized by my peers and to see my work appreciated at this level. — Your novel has been praised for its originality and depth. How did you draw your inspiration for this story? — Inspiration often comes from various sources, but for this novel in particular, I was inspired by events from my own life as well as observations of the society around me. I tried to create authentic characters and place them in complex situations to explore universal themes. — Your success is a source of inspiration for many aspiring writers. Do you have any advice to give them? — I would say to persevere and believe in your unique voice. Write with passion and authenticity, and never underestimate the power of revision and hard work. And above all, never let doubt stop you.",
+    "english_translation_highlights": [
+      "I tried to create authentic characters and place them in complex situations to explore universal themes."
+    ],
+    "english_question": "The guest claims that her characters…",
+    "english_options": [
+      "live in several universes.",
+      "allow him/her to address themes that concern all human beings.",
+      "are original.",
+      "are complex."
     ]
   },
   {
@@ -470,6 +822,19 @@
       "je suis vraiment indigné par le fait que l’organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société",
       "Au lieu d’investir dans des infrastructures sportives coûteuses, nous devrions nous concentrer sur des problèmes urgents tels que le logement abordable, l’éducation et la santé",
       "Ces ressources financières pourraient être mieux utilisées pour améliorer la vie de nos concitoyens plutôt que de servir une compétition mondiale"
+    ],
+    "english_translation": "With me, Mr. Pascal Fleuret, president of the association Urgences Logement Paris. — Good morning Mr. Fleuret, can you explain to us why you are angry about the organization of the Olympic Games in Paris? — Good morning, I am truly outraged by the fact that the organization of the Olympic Games in Paris is neglecting the essential needs of our society. Instead of investing in costly sports infrastructure, we should be focusing on urgent problems such as affordable housing, education, and health. These financial resources could be better used to improve the lives of our fellow citizens rather than serving a global competition. — Your point of view highlights important questions regarding society's priorities. Do you think your association can influence decisions concerning the Olympic Games? — We will continue to put pressure and raise awareness on this issue. It is crucial that the authorities take into account the concerns of the population and reassess their priorities regarding public spending.",
+    "english_translation_highlights": [
+      "I am truly outraged by the fact that the organization of the Olympic Games in Paris is neglecting the essential needs of our society",
+      "Instead of investing in costly sports infrastructure, we should be focusing on urgent problems such as affordable housing, education, and health",
+      "These financial resources could be better used to improve the lives of our fellow citizens rather than serving a global competition"
+    ],
+    "english_question": "The invited person thinks…",
+    "english_options": [
+      "that the Olympic Games are worthy.",
+      "that the money spent on the Olympic Games should have been used for the needs of the population.",
+      "that the Olympic Games must be canceled.",
+      "that the public spends too much money to watch the Olympic Games."
     ]
   },
   {
@@ -488,6 +853,20 @@
       "continuerons",
       "faire pression",
       "sensibiliser"
+    ],
+    "english_translation": "With me, Mr. Pascal Fleuret, president of the association Urgences Logement Paris. — Good morning Mr. Fleuret, can you explain to us why you are angry about the organization of the Olympic Games in Paris? — Good morning, I am truly outraged by the fact that the organization of the Olympic Games in Paris is neglecting the essential needs of our society. Instead of investing in costly sports infrastructure, we should be focusing on urgent problems such as affordable housing, education, and health. These financial resources could be better used to improve the lives of our fellow citizens rather than serving a global competition. — Your point of view highlights important questions regarding society's priorities. Do you think your association can influence decisions concerning the Olympic Games? — We will continue to put pressure and raise awareness on this issue. It is crucial that the authorities take into account the concerns of the population and reassess their priorities regarding public spending.",
+    "english_translation_highlights": [
+      "We will continue to put pressure and raise awareness on this issue",
+      "will continue",
+      "put pressure",
+      "raise awareness"
+    ],
+    "english_question": "The guest indicates that his/her association…",
+    "english_options": [
+      "is under pressure.",
+      "has a great influence on public authorities.",
+      "does not want to pay for the Olympic Games.",
+      "will continue to actively take action to make its concerns heard."
     ]
   },
   {
@@ -514,6 +893,28 @@
       "ça impacte négativement l’équilibre entre mon travail et ma vie personnelle",
       "Ces témoignages mettent en lumière la diversité d’expériences liées au travail à distance",
       "Si certains y trouvent une meilleure conciliation entre vie professionnelle et personnelle, d’autres font face à des obstacles en matière de communication et d’isolement"
+    ],
+    "english_translation": "In a world in perpetual evolution, remote work has become a reality for many professionals. This new way of working has sparked diverging opinions regarding its advantages and disadvantages. To learn more, we met with two people who have lived this experience. Sophie, a freelance graphic designer, shares her positive experience with remote work. She emphasizes that working from home has allowed her to better manage her time and avoid stressful commutes. \"I feel more productive and more fulfilled in my work. It has also given me the opportunity to work with clients from around the world without being limited by my geographic location. I can work from anywhere and for any client in the world, and frankly, it's great.\" On the other hand, for Antoine, a sales manager in a multinational company, remote work has been a challenge. He expresses the difficulties encountered in communicating with his team and the feeling of isolation he sometimes experiences. \"It's harder to separate professional life and personal life when your office is at home. The boundary between the two can become blurred and often, it negatively impacts the balance between my work and my personal life.\" These testimonials highlight the diversity of experiences related to remote work. While some find a better balance between professional and personal life, others face obstacles in terms of communication and isolation. This underscores the importance of finding a balance between flexibility and structure in this new way of working. Technological tools play a crucial role in facilitating remote communication and collaboration. However, it is also essential for employers to recognize the individual needs of their employees and to implement policies that promote well-being and productivity. Let us conclude with the words of Laura Pervier, a sociologist of work: \"Remote work offers interesting opportunities, but also presents unique challenges. If we understand the needs and preferences of each individual, it is possible to make the most of this new way of working, by creating a balance between flexibility and support.\"",
+    "english_translation_highlights": [
+      "remote work has become a reality for many professionals",
+      "This new way of working has sparked diverging opinions regarding its advantages and disadvantages",
+      "we met with two people who have lived this experience",
+      "Sophie, a freelance graphic designer, shares her positive experience with remote work",
+      "working from home has allowed her to better manage her time and avoid stressful commutes",
+      "I feel more productive and more fulfilled in my work",
+      "for Antoine, a sales manager in a multinational company, remote work has been a challenge",
+      "He expresses the difficulties encountered in communicating with his team and the feeling of isolation he sometimes experiences",
+      "It's harder to separate professional life and personal life when your office is at home",
+      "it negatively impacts the balance between my work and my personal life",
+      "These testimonials highlight the diversity of experiences related to remote work",
+      "While some find a better balance between professional and personal life, others face obstacles in terms of communication and isolation"
+    ],
+    "english_question": "This report deals with…",
+    "english_options": [
+      "a survey on the effects of remote work on men and women.",
+      "the advantages and disadvantages of remote work, through the testimonies of two workers.",
+      "the reluctance of companies towards remote work.",
+      "the consensus of professionals regarding remote work."
     ]
   },
   {
@@ -532,6 +933,20 @@
       "Ces témoignages mettent en lumière la diversité d’expériences liées au travail à distance",
       "Si certains y trouvent une meilleure conciliation entre vie professionnelle et personnelle, d’autres font face à des obstacles",
       "Cela souligne l’importance de trouver un équilibre entre flexibilité et structure dans cette nouvelle façon de travailler"
+    ],
+    "english_translation": "In a world in perpetual evolution, remote work has become a reality for many professionals. This new way of working has sparked diverging opinions regarding its advantages and disadvantages. To learn more, we met with two people who have lived this experience. Sophie, a freelance graphic designer, shares her positive experience with remote work. She emphasizes that working from home has allowed her to better manage her time and avoid stressful commutes. \"I feel more productive and more fulfilled in my work. It has also given me the opportunity to work with clients from all over the world without being limited by my geographic location. I can work from anywhere and for any client in the world, and honestly, it's great.\" On the other hand, for Antoine, a sales manager at a multinational company, remote work has been a challenge. He expresses the difficulties encountered in communicating with his team and the feeling of isolation he sometimes experiences. \"It's harder to separate professional life and personal life when your office is at home. The boundary between the two can become blurred, and often it negatively impacts the balance between my work and my personal life.\" These testimonies highlight the diversity of experiences related to remote work. While some find a better balance between professional and personal life, others face obstacles in terms of communication and isolation. This underscores the importance of finding a balance between flexibility and structure in this new way of working. Technological tools play a crucial role in facilitating remote communication and collaboration. However, it is also essential for employers to recognize the individual needs of their employees and to implement policies that promote well-being and productivity. Let us conclude with the words of Laura Pervier, a sociologist of work: \"Remote work offers interesting opportunities but also presents unique challenges. If we understand the needs and preferences of each individual, it is possible to make the most of this new way of working, by creating a balance between flexibility and support.\"",
+    "english_translation_highlights": [
+      "it is also essential for employers to recognize the individual needs of their employees and to implement policies that promote well-being and productivity",
+      "These testimonies highlight the diversity of experiences related to remote work",
+      "While some find a better balance between professional and personal life, others face obstacles",
+      "This underscores the importance of finding a balance between flexibility and structure in this new way of working"
+    ],
+    "english_question": "According to the journalist…",
+    "english_options": [
+      "employers must be concerned about the well-being and productivity of employees who work remotely.",
+      "remote work makes balancing personal and professional life impossible.",
+      "remote work harms productivity.",
+      "it is best to reduce remote work in order to restore a balance."
     ]
   },
   {
@@ -549,6 +964,19 @@
       "C’est l’histoire vraie d’un groupe de prisonniers",
       "réalisé par Peter Where, est un véritable bijou cinématographique",
       "histoire vraie"
+    ],
+    "english_translation": "What if we had a movie night at home? The Way Back, directed by Peter Weir, is a true cinematic gem. It's the true story of a group of prisoners who escaped from a Siberian gulag during World War II. Embark on this poignant epic where hope and resilience defy adversity, carried by an exceptional cast with Jim Sturgess, Ed Harris, and Colin Farrell, this film will transport you to the heart of a deeply moving human adventure. Don't miss this broadcast tonight on France 2 at 9:05 PM.",
+    "english_translation_highlights": [
+      "It's the true story of a group of prisoners",
+      "directed by Peter Weir, is a true cinematic gem",
+      "true story"
+    ],
+    "english_question": "According to this chronicle…",
+    "english_options": [
+      "this film dates from World War II.",
+      "the actors are Siberian.",
+      "the film is based on real events.",
+      "this Russian film was shot in Siberia."
     ]
   },
   {
@@ -569,6 +997,22 @@
       "Leur action vise à tenir ces dirigeants pour responsables de leurs actes",
       "plaidant pour des mesures concrètes en faveur de la préservation de l’environnement",
       "la responsabilité des entreprises dans la lutte contre le changement climatique et la protection de notre écosystème"
+    ],
+    "english_translation": "A non-governmental organization has decided to file a complaint against the leaders of major corporations for their harmful practices toward the environment. This NGO, determined to defend our planet, asserts that the leaders of these companies are responsible for serious ecological damage. Their action aims to hold these leaders accountable for their actions, advocating for concrete measures in favor of environmental preservation. This initiative raises crucial questions about corporate responsibility in the fight against climate change and the protection of our ecosystem. Stay tuned for the latest developments in this case, which could well mark a turning point in collective environmental awareness.",
+    "english_translation_highlights": [
+      "A non-governmental organization has decided to file a complaint against the leaders of major corporations",
+      "for their harmful practices toward the environment",
+      "the leaders of these companies are responsible for serious ecological damage",
+      "Their action aims to hold these leaders accountable for their actions",
+      "advocating for concrete measures in favor of environmental preservation",
+      "corporate responsibility in the fight against climate change and the protection of our ecosystem"
+    ],
+    "english_question": "According to this message…",
+    "english_options": [
+      "the leaders and the NGO are fighting against climate change.",
+      "the NGO pities the leaders who destroy the environment.",
+      "the NGO finds the leaders eco-responsible.",
+      "the NGO's complaint aims to prove the leaders' responsibility regarding the destruction of the environment."
     ]
   },
   {
@@ -591,6 +1035,24 @@
       "En plus de l’ordre du jour, je tiens à tous vous féliciter pour le travail accompli récemment",
       "Vos efforts ont été remarquables",
       "ont contribué au succès de notre entreprise"
+    ],
+    "english_translation": "Hello everyone, thank you for being here today. Before we begin our meeting, I would like to go over the agenda. First, we will discuss the results from the last quarter and the next steps to achieve our objectives. Then, we will review the ongoing projects and any obstacles encountered. Finally, we will address questions regarding human resources and recruitment needs. I encourage you to share your ideas and concerns throughout the meeting. In addition to the agenda, I want to congratulate all of you for the work accomplished recently. Your efforts have been remarkable and have contributed to the success of our company. Thank you for your commitment and dedication.",
+    "english_translation_highlights": [
+      "Before we begin our meeting, I would like to go over the agenda",
+      "First, we will discuss the results from the last quarter and the next steps to achieve our objectives",
+      "Then, we will review the ongoing projects and any obstacles encountered",
+      "Finally, we will address questions regarding human resources and recruitment needs",
+      "I encourage you to share your ideas and concerns throughout the meeting",
+      "In addition to the agenda, I want to congratulate all of you for the work accomplished recently",
+      "Your efforts have been remarkable",
+      "have contributed to the success of our company"
+    ],
+    "english_question": "This person…",
+    "english_options": [
+      "announces that the second item on the agenda is an update on ongoing projects and problems encountered.",
+      "calls to give the agenda.",
+      "reproaches the employees for their lack of effort.",
+      "announces that the results of the last quarter will be discussed."
     ]
   },
   {
@@ -610,6 +1072,21 @@
       "Le président Macron a souligné l’importance de préserver cette tradition",
       "les bouquinistes font partie intégrante du paysage parisien",
       "Cette décision est saluée comme une victoire pour la préservation de l’identité culturelle de Paris"
+    ],
+    "english_translation": "President Macron has decided not to displace the bouquinistes of Paris as initially planned for the 2024 Olympic Games. This decision follows months of debates and protests. The bouquinistes, iconic symbols of the capital, expressed their concern about the preservation of this unique cultural heritage. President Macron emphasized the importance of preserving this tradition for future generations, affirming that the bouquinistes are an integral part of the Parisian landscape. This decision is hailed as a victory for the preservation of Paris's cultural identity and the respect of its history.",
+    "english_translation_highlights": [
+      "President Macron has decided not to displace the bouquinistes of Paris as initially planned",
+      "This decision follows months of debates and protests",
+      "President Macron emphasized the importance of preserving this tradition",
+      "the bouquinistes are an integral part of the Parisian landscape",
+      "This decision is hailed as a victory for the preservation of Paris's cultural identity"
+    ],
+    "english_question": "According to the journalist…",
+    "english_options": [
+      "the bouquinistes are responsible for preserving Parisian cultural heritage.",
+      "President Macron wants the history of the bouquinistes to be taught to younger generations.",
+      "President Macron changed his mind regarding the expulsion of the bouquinistes from Paris.",
+      "the bouquinistes are going to change their location during the Olympic Games."
     ]
   },
   {
@@ -626,6 +1103,18 @@
     "highlights": [
       "sera accessible dès demain et jusqu’en septembre 2024",
       "De la naissance de l’anatomie à l’avènement de la perspective en peinture"
+    ],
+    "english_translation": "The exhibition \"Renaissance Today\" will be accessible starting tomorrow and until September 2024. Come discover the artistic and intellectual effervescence of this pivotal period in history. Masterpieces by Leonardo da Vinci, Michelangelo, and Raphael are on display, bearing witness to the creative genius of the Renaissance. Explore the revolutionary scientific discoveries that shaped the modern world. From the birth of anatomy to the advent of perspective in painting, immerse yourself in the spirit of innovation that characterizes the Renaissance. Don't miss this captivating exhibition, open to all, for a journey through time to the heart of the golden age of European culture. Head to the art gallery starting tomorrow to experience this unique event.",
+    "english_translation_highlights": [
+      "will be accessible starting tomorrow and until September 2024",
+      "From the birth of anatomy to the advent of perspective in painting"
+    ],
+    "english_question": "Based on this message…",
+    "english_options": [
+      "the exhibition begins in September 2024.",
+      "the scientific discoveries of the Renaissance caused a revolution.",
+      "the spirit of the Renaissance is new.",
+      "anatomy is a discipline born during the Renaissance."
     ]
   },
   {
@@ -644,6 +1133,20 @@
       "Les principales causes identifiées incluent l’excès de vitesse, l’usage du téléphone au volant et le non-respect des feux rouges",
       "Le nombre d’accidents de la route dans la capitale a augmenté de manière significative",
       "les résultats sont alarmants"
+    ],
+    "english_translation": "Let's move on to the next topic, road safety in Paris. According to a recent investigation conducted by our team, the results are alarming. The number of road accidents in the capital has increased significantly over the past year. The main causes identified include speeding, using a phone while driving, and running red lights. Authorities are warning against these dangerous behaviors and calling for greater vigilance on Parisian roads. To address this situation, strengthened control and awareness measures will be put in place. It is essential that everyone takes responsibility to ensure the safety of all.",
+    "english_translation_highlights": [
+      "using a phone while driving",
+      "The main causes identified include speeding, using a phone while driving, and running red lights",
+      "The number of road accidents in the capital has increased significantly",
+      "the results are alarming"
+    ],
+    "english_question": "The survey shows that…",
+    "english_options": [
+      "the use of cell phones while driving is one of the causes of road accidents.",
+      "the authorities are going to place lookouts on the roads.",
+      "the number of accidents has slightly increased over the past year.",
+      "road accidents are increasing because there are not enough police."
     ]
   },
   {
@@ -661,6 +1164,19 @@
       "Parmi les jeunes Canadiens âgés de 18 à 34 ans, ce pourcentage grimpe même à 60 %",
       "consomment au moins un repas dans un fast-food chaque jour",
       "près de 40 % des Canadiens consomment au moins un repas dans un fast-food chaque jour"
+    ],
+    "english_translation": "According to the most recent data, nearly 40% of Canadians consume at least one meal from a fast-food restaurant each day. This alarming figure raises questions about our eating habits and their impacts on our health. Among young Canadians aged 18 to 34, this percentage climbs to as high as 60%, which represents a concerning trend toward an unbalanced diet often rich in empty calories. Fast food meals, often high in fat, sugar, and salt, contribute to obesity and numerous health problems, such as cardiovascular disease and diabetes. It is therefore essential to raise public awareness about the dangers of these dietary choices. Stay tuned for tips and alternatives for a healthier and more balanced diet.",
+    "english_translation_highlights": [
+      "Among young Canadians aged 18 to 34, this percentage climbs to as high as 60%",
+      "consume at least one meal from a fast-food restaurant each day",
+      "nearly 40% of Canadians consume at least one meal from a fast-food restaurant each day"
+    ],
+    "english_question": "Based on this message…",
+    "english_options": [
+      "40% of Canadians like fast food and are obese.",
+      "60% of young Canadians eat at least one meal per day at a fast-food restaurant.",
+      "there are 40% fast-food restaurants.",
+      "Canadians are becoming insensitive to the effects of overly fatty food."
     ]
   },
   {
@@ -682,6 +1198,23 @@
       "Cette tendance pourrait avoir des répercussions significatives sur l’économie",
       "avec des secteurs particulièrement touchés comme la restauration et le commerce de détail",
       "Les entreprises doivent désormais relever le défi de retenir leurs employés"
+    ],
+    "english_translation": "Nearly 4 million Americans resigned in July, a historically high figure. The \"Great Resignation\" refers to the trend where a growing number of workers are leaving their jobs. The reasons are multiple: a desire for a career change, the search for better working conditions, or an increased need for flexibility and work-life balance. This trend could have significant repercussions on the economy, with sectors particularly affected such as food service and retail. Companies must now rise to the challenge of retaining their employees. This situation raises questions about the future of the American job market.",
+    "english_translation_highlights": [
+      "Nearly 4 million Americans resigned in July",
+      "a historically high figure",
+      "The \"Great Resignation\" refers to the trend where a growing number of workers are leaving their jobs",
+      "The reasons are multiple: a desire for a career change, the search for better working conditions, or an increased need for flexibility and work-life balance",
+      "This trend could have significant repercussions on the economy",
+      "with sectors particularly affected such as food service and retail",
+      "Companies must now rise to the challenge of retaining their employees"
+    ],
+    "english_question": "According to the journalist…",
+    "english_options": [
+      "Americans are resigning in a grand fashion.",
+      "4 million Americans are looking for a job.",
+      "Americans are on strike.",
+      "the sectors that suffer the most from mass resignations are the restaurant industry and retail."
     ]
   },
   {
@@ -708,6 +1241,28 @@
       "y compris le gouvernement, les entreprises et la société civile",
       "Il souligne l’importance d’adopter une approche inclusive et participative",
       "pour garantir que les politiques et les programmes répondent aux besoins réels des jeunes Sénégalais"
+    ],
+    "english_translation": "The Economic and Social Council of Senegal has published its report on youth. The report highlights the challenges facing Senegalese youth, particularly in terms of employment, education, and access to economic opportunities. It underscores the urgency of adopting policies and programs aimed at improving the situation of young people in the country. Among the report's main recommendations is the need to strengthen vocational training and apprenticeship programs in order to better prepare young people for the labor market. It also emphasizes the importance of promoting youth entrepreneurship and supporting job creation in sectors with high growth potential. The report also calls for better coordination among the various stakeholders involved in youth promotion, including the government, businesses, and civil society. It stresses the importance of adopting an inclusive and participatory approach to ensure that policies and programs meet the real needs of young Senegalese people.",
+    "english_translation_highlights": [
+      "The Economic and Social Council of Senegal has published its report on youth",
+      "highlights the challenges facing Senegalese youth",
+      "particularly in terms of employment, education, and access to economic opportunities",
+      "It underscores the urgency of adopting policies and programs aimed at improving the situation of young people",
+      "Among the report's main recommendations is the need to strengthen vocational training and apprenticeship programs",
+      "in order to better prepare young people for the labor market",
+      "It also emphasizes the importance of promoting youth entrepreneurship",
+      "supporting job creation in sectors with high growth potential",
+      "The report also calls for better coordination among the various stakeholders involved in youth promotion",
+      "including the government, businesses, and civil society",
+      "It stresses the importance of adopting an inclusive and participatory approach",
+      "to ensure that policies and programs meet the real needs of young Senegalese people"
+    ],
+    "english_question": "This message explains that…",
+    "english_options": [
+      "the Economic and Social Council of Senegal wrote a book about youth.",
+      "young Senegalese people accept the challenges.",
+      "vocational training for young people is essential to help them find work.",
+      "the report provides the contact details of the various actors involved in the promotion of youth."
     ]
   },
   {
@@ -728,6 +1283,22 @@
       "Il est donc essentiel d’être vigilant et de ne jamais divulguer d’informations sensibles lors d’appels téléphoniques non sollicités",
       "Les autorités mettent en garde contre ces pratiques frauduleuses et encouragent les consommateurs à signaler tout appel suspect aux services compétents",
       "Des mesures sont également prises pour sensibiliser le public aux risques liés aux arnaques téléphoniques et pour renforcer la lutte contre ces activités illégales"
+    ],
+    "english_translation": "Let's dive into the phenomenon of phone scams plaguing France. These scams take different forms, ranging from fraudulent calls from fake call centers claiming to represent legitimate businesses or public institutions to phishing attempts aimed at obtaining victims' personal and banking information. These scams can have devastating consequences for victims, ranging from financial loss to identity theft. It is therefore essential to be vigilant and never disclose sensitive information during unsolicited phone calls. Authorities are warning against these fraudulent practices and encouraging consumers to report any suspicious calls to the appropriate services. Measures are also being taken to raise public awareness of the risks associated with phone scams and to strengthen the fight against these illegal activities.",
+    "english_translation_highlights": [
+      "These scams take different forms, ranging from fraudulent calls from fake call centers claiming to represent legitimate businesses or public institutions to phishing attempts aimed at obtaining victims' personal and banking information",
+      "These scams can have devastating consequences for victims, ranging from financial loss to identity theft",
+      "from financial loss to identity theft",
+      "It is therefore essential to be vigilant and never disclose sensitive information during unsolicited phone calls",
+      "Authorities are warning against these fraudulent practices and encouraging consumers to report any suspicious calls to the appropriate services",
+      "Measures are also being taken to raise public awareness of the risks associated with phone scams and to strengthen the fight against these illegal activities"
+    ],
+    "english_question": "This message informs about…",
+    "english_options": [
+      "the increase in phone thefts.",
+      "the victims of phone scams who can have their money stolen and their identity usurped.",
+      "the recruitment of guards to protect the victims.",
+      "the authorities who do not grasp the extent of the risks linked to these scams."
     ]
   }
 ]

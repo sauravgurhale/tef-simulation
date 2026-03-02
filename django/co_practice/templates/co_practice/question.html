@@ -130,6 +130,21 @@
         {% endfor %}
       </div>
 
+      {% if question.english_question %}
+      {# English translation of question + options #}
+      <div class="mt-3 p-3 bg-blue-50 border border-blue-100 rounded text-sm text-gray-600">
+        <p class="font-medium text-blue-400 uppercase tracking-wide text-xs mb-1">Translation</p>
+        <p class="mb-2">{{ question.english_question }}</p>
+        {% if question.english_options_with_letters %}
+        <ul class="space-y-0.5">
+          {% for opt in question.english_options_with_letters %}
+          <li><span class="font-semibold text-gray-400">{{ opt.letter }}.</span> {{ opt.text }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+      {% endif %}
+
     </div>{# end left column #}
 
     {# ── Right column: audio + transcript ── #}
@@ -187,6 +202,19 @@
       <div class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm">
         <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">Audio</h3>
 
+        {% if audio_mode == 'full' %}
+        <div>
+          <p class="text-xs text-gray-400 mb-1">Audio complet</p>
+          <audio controls class="w-full"
+                 x-ref="mainAudio"
+                 @loadedmetadata="onMeta"
+                 @timeupdate="onTimeUpdate"
+                 @seeked="onTimeUpdate">
+            <source src="{% static full_audio_path %}" type="audio/mpeg">
+          </audio>
+        </div>
+        {% else %}
+
         {% if audio_paths.intro %}
         <div class="mb-3">
           <p class="text-xs text-gray-400 mb-1">Introduction — {{ audio_paths.intro_label }}</p>
@@ -215,6 +243,8 @@
           {% endfor %}
         </p>
         {% endif %}
+
+        {% endif %}
       </div>
 
       {# Transcription card #}
@@ -231,6 +261,14 @@
         </div>
         <p class="text-sm text-gray-700 leading-relaxed" x-ref="transcriptEl">{{ highlighted_transcript }}</p>
       </div>
+
+      {% if highlighted_english %}
+      {# English translation card #}
+      <div class="bg-blue-50 rounded-lg border border-blue-100 p-4">
+        <h3 class="text-sm font-semibold text-blue-400 uppercase tracking-wide mb-2">Translation</h3>
+        <p class="text-sm text-gray-700 leading-relaxed">{{ highlighted_english }}</p>
+      </div>
+      {% endif %}
 
     </div>{# end right column #}
 

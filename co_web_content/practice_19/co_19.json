@@ -16,6 +16,21 @@
       "destination",
       "Montréal",
       "14 heures 30"
+    ],
+    "english_translation": "Hello, I would like to check in my suitcase. — Of course, what is your flight's destination? — To Montreal at 2:30 PM.",
+    "english_translation_highlights": [
+      "check in my suitcase",
+      "your flight",
+      "destination",
+      "Montreal",
+      "2:30 PM"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_19_images/co-19-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -32,6 +47,18 @@
     "highlights": [
       "mal à la gorge",
       "vous examiner"
+    ],
+    "english_translation": "Hello, what brings you in today? — I've had a sore throat for 3 days. — Alright, I'm going to examine you.",
+    "english_translation_highlights": [
+      "a sore throat",
+      "examine you"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_19_images/co-19-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -50,6 +77,20 @@
       "découvrir tous les quartiers",
       "les bâtiments",
       "les monuments"
+    ],
+    "english_translation": "Hi Rachel, for the upcoming vacation, are you staying in town? — Yes, I want to discover all the neighborhoods, the buildings, the monuments.",
+    "english_translation_highlights": [
+      "staying in town",
+      "discover all the neighborhoods",
+      "the buildings",
+      "the monuments"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_19_images/co-19-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -66,6 +107,18 @@
     "highlights": [
       "elle n'a pas une minute à elle",
       "elle passe tout son temps au bureau"
+    ],
+    "english_translation": "Have you heard from Marina? It's been a long time. — Yes, I spoke to her on the phone. — Right now, she doesn't have a minute to herself, she spends all her time at the office.",
+    "english_translation_highlights": [
+      "she doesn't have a minute to herself",
+      "she spends all her time at the office"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_19_images/co-19-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -82,6 +135,18 @@
     "highlights": [
       "le vol AF 352 à destination de Toronto est retardé",
       "en raison des conditions météorologiques défavorables"
+    ],
+    "english_translation": "Ladies and gentlemen, we inform you that flight AF 352 to Toronto is delayed due to unfavorable weather conditions. We thank you for your patience and will keep you informed as soon as possible.",
+    "english_translation_highlights": [
+      "flight AF 352 to Toronto is delayed",
+      "due to unfavorable weather conditions"
+    ],
+    "english_question": "This message announces",
+    "english_options": [
+      "The immediate boarding of flight AF352.",
+      "The cancellation of flight AF352.",
+      "The delay of flight AF352.",
+      "A change of boarding gate."
     ]
   },
   {
@@ -98,6 +163,18 @@
     "highlights": [
       "sur tous les produits Lifray",
       "aujourd'hui seulement"
+    ],
+    "english_translation": "Dear customers, today only, enjoy an exceptional 20% discount on all Lifray products. Take advantage of it before the store closes this evening.",
+    "english_translation_highlights": [
+      "on all Lifray products",
+      "today only"
+    ],
+    "english_question": "According to this message, this discount concerns",
+    "english_options": [
+      "All items in the store.",
+      "Fresh products.",
+      "Products on sale.",
+      "Household items."
     ]
   },
   {
@@ -115,6 +192,19 @@
       "Le train en provenance de Lyon et à destination de Marseille",
       "partira du quai numéro 5 dans 10 minutes",
       "à destination de Marseille"
+    ],
+    "english_translation": "The train from Lyon heading to Marseille will depart from platform number 5 in 10 minutes. Passengers are asked to make their way to the platform now.",
+    "english_translation_highlights": [
+      "The train from Lyon heading to Marseille",
+      "will depart from platform number 5 in 10 minutes",
+      "heading to Marseille"
+    ],
+    "english_question": "This message informs that this train",
+    "english_options": [
+      "Is leaving soon for Marseille.",
+      "Has been cancelled.",
+      "Has changed platforms.",
+      "Arrived late."
     ]
   },
   {
@@ -132,6 +222,19 @@
       "prévue à dix-huit heures 30",
       "débutera dans quelques minutes",
       "Les spectateurs sont priés de rejoindre la salle dès maintenant"
+    ],
+    "english_translation": "The screening of the film The Grand Voyage, scheduled for 6:30 PM, will begin in a few minutes. Spectators are kindly asked to proceed to the theater now.",
+    "english_translation_highlights": [
+      "scheduled for 6:30 PM",
+      "will begin in a few minutes",
+      "Spectators are kindly asked to proceed to the theater now"
+    ],
+    "english_question": "This message indicates that the session",
+    "english_options": [
+      "Has been cancelled.",
+      "Is about to begin.",
+      "Has been postponed.",
+      "Is full."
     ]
   },
   {
@@ -150,6 +253,20 @@
       "Je suis intéressé",
       "mais je voudrais plus de renseignements",
       "Pourriez-vous me rappeler"
+    ],
+    "english_translation": "Hello, I saw your advertisement for a tasting workshop. I'm interested, but I would like more information. Could you call me back at 55 81 69 75 23? Thank you very much.",
+    "english_translation_highlights": [
+      "I saw your advertisement for a tasting workshop",
+      "I'm interested",
+      "but I would like more information",
+      "Could you call me back"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "provide details.",
+      "promote an article.",
+      "obtain information.",
+      "confirm one's participation."
     ]
   },
   {
@@ -167,6 +284,19 @@
       "Est-ce que tu pourrais regarder une dernière fois ?",
       "Mon ordinateur est encore en panne",
       "le problème n'est pas réglé"
+    ],
+    "english_translation": "Hi Williams, I hope you're doing well. My computer is broken down again, the problem isn't fixed. Could you take one last look at it? Anyway, I'll call you back, kisses.",
+    "english_translation_highlights": [
+      "Could you take one last look at it?",
+      "My computer is broken down again",
+      "the problem isn't fixed"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "offer help.",
+      "sell a product.",
+      "invite to an activity.",
+      "ask for a favor."
     ]
   },
   {
@@ -185,6 +315,20 @@
       "N'hésitez pas à me rappeler",
       "Vous étiez intéressé par des cours de français pour vos collaborateurs",
       "Nous nous sommes rencontrés au salon des entreprises"
+    ],
+    "english_translation": "Yes, hello, this is Camara from the French Institute of Guinea. We met at the business fair. You were interested in French courses for your colleagues. I would be delighted to come and present our offers to you. Don't hesitate to call me back.",
+    "english_translation_highlights": [
+      "I would be delighted to come and present our offers to you",
+      "Don't hesitate to call me back",
+      "You were interested in French courses for your colleagues",
+      "We met at the business fair"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "invite to a Trade Show.",
+      "propose an appointment.",
+      "negotiate rates.",
+      "request a service."
     ]
   },
   {
@@ -202,6 +346,19 @@
       "votre demande de prêt a été acceptée",
       "Après analyse de votre dossier",
       "nous vous invitons à prendre rendez-vous en agence pour signer les documents nécessaires"
+    ],
+    "english_translation": "Hello Mr. Frédéric, your loan application has been approved. After reviewing your file, we invite you to schedule an appointment at the branch to sign the necessary documents. Do not hesitate to contact us with any questions. See you soon.",
+    "english_translation_highlights": [
+      "your loan application has been approved",
+      "After reviewing your file",
+      "we invite you to schedule an appointment at the branch to sign the necessary documents"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To refuse a loan.",
+      "To request a payment.",
+      "To announce an acceptance.",
+      "To modify a contract."
     ]
   },
   {
@@ -219,6 +376,19 @@
       "c'est la mairie",
       "Votre nouvelle carte d'identité est prête",
       "Vous pouvez venir la récupérer"
+    ],
+    "english_translation": "Hello Mrs. Leclerc, this is the town hall. Your new identity card is ready. You can come pick it up during opening hours. Have a good day.",
+    "english_translation_highlights": [
+      "this is the town hall",
+      "Your new identity card is ready",
+      "You can come pick it up"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To announce a change of address.",
+      "To report a document available.",
+      "To propose an appointment.",
+      "To request information."
     ]
   },
   {
@@ -237,6 +407,20 @@
       "Nous avons bien reçu votre demande de remboursement",
       "Un conseiller vous contactera sous quarante-huit heures",
       "Merci de votre patience"
+    ],
+    "english_translation": "Hello Mrs. Martin, this is Thomas from customer service. We have received your refund request. An advisor will contact you within forty-eight hours. Thank you for your patience.",
+    "english_translation_highlights": [
+      "Hello Mrs. Martin, this is Thomas from customer service",
+      "We have received your refund request",
+      "An advisor will contact you within forty-eight hours",
+      "Thank you for your patience"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To request a payment.",
+      "To refuse a claim.",
+      "To provide information about a request.",
+      "To make an advertisement."
     ]
   },
   {
@@ -254,6 +438,19 @@
       "Il y a le label Made in Cameroun",
       "Ça, c'est bien",
       "pour soutenir l'économie locale"
+    ],
+    "english_translation": "There is the Made in Cameroon label. That's good for supporting the local economy.",
+    "english_translation_highlights": [
+      "There is the Made in Cameroon label",
+      "That's good",
+      "for supporting the local economy"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "places a lot of importance on it.",
+      "places a little importance on it.",
+      "does not place any importance on it.",
+      "does not express an opinion."
     ]
   },
   {
@@ -270,6 +467,18 @@
     "highlights": [
       "J'en achète parfois",
       "si ce n'est pas trop cher"
+    ],
+    "english_translation": "I sometimes buy some, if it's not too expensive.",
+    "english_translation_highlights": [
+      "I sometimes buy some",
+      "if it's not too expensive"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "places a lot of importance on it.",
+      "places a little importance on it.",
+      "does not place any importance on it.",
+      "does not express an opinion."
     ]
   },
   {
@@ -289,6 +498,21 @@
       "donc des labels",
       "Je privilégie le local",
       "le fait maison"
+    ],
+    "english_translation": "I only buy products that guarantee animal welfare, and for that you need transparency, so labels. It's not complicated—organic products from the other side of the world, no thank you, we need to stop with these marketing concepts. I prioritize local products and homemade goods.",
+    "english_translation_highlights": [
+      "I only buy products that guarantee animal welfare",
+      "you need transparency",
+      "so labels",
+      "I prioritize local products",
+      "homemade goods"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "considers it very important.",
+      "considers it somewhat important.",
+      "does not consider it important.",
+      "does not express an opinion."
     ]
   },
   {
@@ -305,6 +529,18 @@
     "highlights": [
       "Je fais très attention à ce que je mange",
       "je privilégie toujours le bio"
+    ],
+    "english_translation": "I'm very careful about what I eat, I always choose organic.",
+    "english_translation_highlights": [
+      "I'm very careful about what I eat",
+      "I always choose organic"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, I buy almost exclusively organic.",
+      "Yes, but only from time to time.",
+      "No, I don't see the point.",
+      "I'm not really sure what to think about it."
     ]
   },
   {
@@ -321,6 +557,18 @@
     "highlights": [
       "J'achète du bio si ce n'est pas trop cher",
       "je ne fais pas toujours attention"
+    ],
+    "english_translation": "I buy organic if it's not too expensive, but I don't always pay attention.",
+    "english_translation_highlights": [
+      "I buy organic if it's not too expensive",
+      "I don't always pay attention"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, I buy almost exclusively organic.",
+      "Yes, but only from time to time.",
+      "No, I don't see the point.",
+      "I'm not really sure what to think about it."
     ]
   },
   {
@@ -337,6 +585,18 @@
     "highlights": [
       "le bio, c'est juste du marketing",
       "Je préfère acheter ce qui est moins cher"
+    ],
+    "english_translation": "For me, organic is just marketing. I prefer to buy what is cheaper.",
+    "english_translation_highlights": [
+      "organic is just marketing",
+      "I prefer to buy what is cheaper"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, I buy almost exclusively organic.",
+      "Yes, but only from time to time.",
+      "No, I don't see the point.",
+      "I'm not really sure what to think about it."
     ]
   },
   {
@@ -357,6 +617,22 @@
       "la plupart des animaux qu'il chasse sont daltoniens",
       "Mais l'homme armé d'un fusil, lui, le voit très bien et ne le rate pas",
       "Si rien n'est fait, le tigre du Bengale aura complètement disparu en 2070"
+    ],
+    "english_translation": "In Bangladesh, he is nicknamed Mama. This is the Bengal tiger. Two hundred thousand at the beginning of the twentieth century, only four thousand remain, the largest portion of which is here, in the mangroves of the Sundarbans. Yet he sits at the very top of the food chain, and normally, no one comes looking for trouble with him. King of camouflage, he blends into the tall grass before pouncing on his prey. Now you see me, now you don't. Normally, his orange color isn't a problem, because most of the animals he hunts are colorblind. But a man armed with a rifle can see him very well and doesn't miss. If nothing is done, the Bengal tiger will have completely disappeared by 2070. Now you see me, now you don't.",
+    "english_translation_highlights": [
+      "Two hundred thousand at the beginning of the twentieth century, only four thousand remain",
+      "normally, no one comes looking for trouble with him",
+      "King of camouflage, he blends into the tall grass before pouncing on his prey",
+      "most of the animals he hunts are colorblind",
+      "But a man armed with a rifle can see him very well and doesn't miss",
+      "If nothing is done, the Bengal tiger will have completely disappeared by 2070"
+    ],
+    "english_question": "This text mainly highlights:",
+    "english_options": [
+      "The aggressive behavior of the tiger towards humans.",
+      "The difficulty of spotting the tiger in its natural habitat.",
+      "The danger that humans pose to the survival of the tiger.",
+      "The abundance of tigers in the forests of Bangladesh."
     ]
   },
   {
@@ -372,6 +648,17 @@
     "right_option": "B",
     "highlights": [
       "Le manque de sommeil peut entraîner une baisse de concentration, du stress et même des problèmes cardiovasculaires"
+    ],
+    "english_translation": "Sleep plays an essential role in our physical and mental health. Yet many people sleep less than the 7 to 9 hours recommended by experts. Lack of sleep can lead to decreased concentration, stress, and even cardiovascular problems. Screens are one of the main culprits behind this trend, as blue light disrupts the ability to fall asleep. Additionally, stress and irregular work schedules make it difficult to establish a stable routine. To improve sleep quality, it is advisable to avoid screens before bed and to maintain a fixed schedule. A balanced diet and regular exercise can also help. Finally, a quiet and dark bedroom promotes restorative sleep. Better sleep allows us to be more productive and healthier in our daily lives.",
+    "english_translation_highlights": [
+      "Lack of sleep can lead to decreased concentration, stress, and even cardiovascular problems"
+    ],
+    "english_question": "According to this article, one of the effects of sleep deprivation is…",
+    "english_options": [
+      "Better concentration.",
+      "An increase in stress.",
+      "A reduction in cardiovascular problems.",
+      "An immediate energy boost."
     ]
   },
   {
@@ -389,6 +676,19 @@
       "les personnes qui en bénéficient vivent avec moins de 20000 dollars par an",
       "ce qui est très peu",
       "Les gens mettent leurs mains dans les poches à la fin du mois pour payer le loyer, l'épicerie et ainsi de suite"
+    ],
+    "english_translation": "The Minister of Finance presented her budget yesterday, titled \"Making Life More Affordable for Canadians.\" Gisèle Marcelin, are seniors getting what they need from it? The federal government had announced an increase to the Guaranteed Income Supplement, which has clearly been forgotten. Let's remember that the people who benefit from it live on less than $20,000 a year, which is very little. People are digging into their pockets at the end of the month to pay rent, groceries, and so on. In Quebec, there is a tax credit for career extension. Does that make a big difference for people aged sixty-five and over who are hesitant to retire? Financially, it certainly does, as well as for the socialization of seniors. And with the labor shortage in full swing, it would have been an advantage to include that tax credit in the federal budget.",
+    "english_translation_highlights": [
+      "the people who benefit from it live on less than $20,000 a year",
+      "which is very little",
+      "People are digging into their pockets at the end of the month to pay rent, groceries, and so on"
+    ],
+    "english_question": "The guest recalls that",
+    "english_options": [
+      "the financial precariousness of seniors is very real.",
+      "aid for the elderly has dropped yet again.",
+      "the budget is established according to questionable criteria.",
+      "the minister is merely keeping an electoral promise."
     ]
   },
   {
@@ -406,6 +706,19 @@
       "avec la pénurie de main-d'oeuvre qui bat son plein",
       "ça aurait été un avantage de mettre dans le budget fédéral ce crédit d'impôt là",
       "Financièrement, c'est certain, ainsi que pour la socialisation des aînés"
+    ],
+    "english_translation": "The Minister of Finance presented her budget yesterday, titled \"Making Life More Affordable for Canadians.\" Gisèle Marcelin, are seniors getting their fair share? The federal government had announced an enhancement to the Guaranteed Income Supplement, which has clearly been forgotten. Let's remember that the people who benefit from it live on less than $20,000 a year, which is very little. People are digging into their pockets at the end of the month to pay rent, groceries, and so on. In Quebec, there is a tax credit for career extension. Does it make a big difference for people aged sixty-five and older who are hesitant to retire? Financially, it certainly does, as well as for the socialization of seniors. And with the labor shortage in full swing, it would have been an advantage to include that tax credit in the federal budget.",
+    "english_translation_highlights": [
+      "with the labor shortage in full swing",
+      "it would have been an advantage to include that tax credit in the federal budget",
+      "Financially, it certainly does, as well as for the socialization of seniors"
+    ],
+    "english_question": "According to her, the employment of seniors",
+    "english_options": [
+      "allows a transfer of skills.",
+      "provides a response to the employment crisis.",
+      "increases tax revenue.",
+      "leads to additional health costs."
     ]
   },
   {
@@ -425,6 +738,21 @@
       "Chaque jour est différent et c'est ce qui rend ce métier passionnant",
       "Il faut être prêt à réagir rapidement et à travailler en équipe",
       "le sentiment d'avoir aidé quelqu'un est une grande satisfaction"
+    ],
+    "english_translation": "Today, we have the pleasure of welcoming Maxime, a firefighter for 10 years. Maxime, your profession is often perceived as heroic. What motivates you on a daily basis? Indeed, it's a demanding profession. But what motivates me is the desire to help people. We intervene in emergency situations, whether it's for fires, accidents, or rescues. You have to be ready to react quickly and to work as a team. Every day is different, and that's what makes this profession exciting. In your opinion, what are the most difficult challenges to overcome in your profession? Stress and fatigue are constant challenges. We must be in excellent physical and mental condition to handle the pressure. Moreover, you have to know how to manage your emotions in the face of sometimes very tough situations. But despite everything, the feeling of having helped someone is a great satisfaction.",
+    "english_translation_highlights": [
+      "what motivates me is the desire to help people",
+      "We intervene in emergency situations",
+      "Every day is different, and that's what makes this profession exciting",
+      "You have to be ready to react quickly and to work as a team",
+      "the feeling of having helped someone is a great satisfaction"
+    ],
+    "english_question": "The guest explains that his/her job is motivating because:",
+    "english_options": [
+      "It allows helping people.",
+      "It is always the same every day.",
+      "It does not require teamwork.",
+      "It presents no challenges."
     ]
   },
   {
@@ -442,6 +770,19 @@
       "Le stress et la fatigue sont des défis constants",
       "Nous devons être en excellentes conditions physiques et mentales pour gérer la pression",
       "il faut savoir gérer ses émotions face à des situations parfois très dures"
+    ],
+    "english_translation": "Today, we have the pleasure of welcoming Maxime, a firefighter for 10 years. Maxime, your profession is often perceived as heroic. What motivates you on a daily basis? Indeed, it is a demanding profession. But what motivates me is the desire to help people. We intervene in emergency situations, whether it's for fires, accidents, or rescues. You have to be ready to react quickly and work as a team. Every day is different, and that's what makes this profession exciting. In your opinion, what are the most difficult challenges to overcome in your profession? Stress and fatigue are constant challenges. We must be in excellent physical and mental condition to handle the pressure. Moreover, you have to know how to manage your emotions when facing sometimes very difficult situations. But despite everything, the feeling of having helped someone is a great satisfaction.",
+    "english_translation_highlights": [
+      "Stress and fatigue are constant challenges",
+      "We must be in excellent physical and mental condition to handle the pressure",
+      "you have to know how to manage your emotions when facing sometimes very difficult situations"
+    ],
+    "english_question": "According to Maxime, one of the greatest challenges of the firefighting profession is",
+    "english_options": [
+      "The lack of variety in the work.",
+      "The management of stress and fatigue.",
+      "The absence of teamwork.",
+      "The possibility of working in an office."
     ]
   },
   {
@@ -458,6 +799,18 @@
     "highlights": [
       "réduit les temps de trajet",
       "Il offre plus de flexibilité aux employés, réduit les temps de trajet et peut améliorer la productivité"
+    ],
+    "english_translation": "Hello everyone and welcome to our show. Today, we're tackling a current topic: remote work. With the rise of working from home, many companies and employees have had to adapt. To discuss this, we welcome Mrs. Sophie Durand, a human resources expert. Thank you for accepting our invitation. Thank you for the invitation. It's a fascinating subject that deserves to be discussed. Remote work has developed significantly in recent years. In your opinion, what are its main advantages? It offers more flexibility to employees, reduces commute times, and can improve productivity. Some workers also find a better balance between their professional and personal lives. But there are also challenges. Can you tell us about them? Of course. Isolation, the difficulty of separating personal life and work, and the lack of communication with colleagues are major challenges. Additionally, some employers struggle to evaluate performance remotely. How can the remote work experience be improved? Good organization is essential. Companies need to provide us with suitable tools, encourage regular meetings, and set clear expectations. It's also important to look after employees' well-being. Thank you for these valuable insights, Mrs. Durand.",
+    "english_translation_highlights": [
+      "reduces commute times",
+      "It offers more flexibility to employees, reduces commute times, and can improve productivity"
+    ],
+    "english_question": "According to the guest, one of the advantages of remote work is",
+    "english_options": [
+      "A reduction in commute time.",
+      "An increased difficulty in organizing one's work.",
+      "An increase in distractions.",
+      "A decrease in productivity."
     ]
   },
   {
@@ -473,6 +826,17 @@
     "right_option": "C",
     "highlights": [
       "L'isolement, la difficulté à séparer vie privée et travail et le manque de communication avec les collègues sont des défis majeurs."
+    ],
+    "english_translation": "Hello everyone and welcome to our show. Today, we are tackling a current topic: remote work. With the rise of working from home, many companies and employees have had to adapt. To discuss this, we welcome Mrs. Sophie Durand, a human resources expert. Thank you for accepting our invitation. Thank you for having me. It's a fascinating subject that deserves to be discussed. Remote work has developed significantly in recent years. In your opinion, what are its main advantages? It offers more flexibility to employees, reduces commute times, and can improve productivity. Some workers also find a better balance between their professional and personal lives. But there are also challenges. Can you tell us about them? Of course. Isolation, the difficulty of separating personal life and work, and the lack of communication with colleagues are major challenges. Additionally, some employers find it difficult to evaluate performance remotely. How can the remote work experience be improved? Good organization is essential. Companies need to provide us with suitable tools, encourage regular meetings, and set clear expectations. It's also important to look after the well-being of employees. Thank you for these valuable insights, Mrs. Durand.",
+    "english_translation_highlights": [
+      "Isolation, the difficulty of separating personal life and work, and the lack of communication with colleagues are major challenges."
+    ],
+    "english_question": "The guest indicates that one of the challenges of remote work is",
+    "english_options": [
+      "A decrease in stress.",
+      "Better concentration at work.",
+      "The lack of communication with colleagues.",
+      "More frequent interaction with employers."
     ]
   },
   {
@@ -490,6 +854,19 @@
       "Dans les pays industrialisés, une grande partie des aliments est jetée par les supermarchés et les ménages",
       "en raison de dates de péremption mal comprises ou d'achats excessifs",
       "Les promotions incitant à acheter en grande quantité poussent aussi les consommateurs à stocker plus qu'ils ne peuvent consommer"
+    ],
+    "english_translation": "The fight against food waste: a global challenge. Every year, one million tons of food are thrown away around the world while many populations suffer from malnutrition. Food waste affects the entire production chain, from agriculture to final consumption. According to the FAO, nearly one-third of all food produced is never consumed, amounting to approximately 1.3 billion tons of food lost each year. The causes of this waste are numerous. In industrialized countries, a large portion of food is thrown away by supermarkets and households due to poorly understood expiration dates or excessive purchasing. Promotions encouraging bulk buying also push consumers to stock more than they can consume. In developing countries, it is mainly storage and transportation infrastructure that poses a problem, leading to the deterioration of products before they reach the markets. Beyond financial losses, food waste has a considerable ecological impact. Producing food that will never be consumed uses up precious resources: water, farmland, energy, and labor. Moreover, food waste decomposing in landfills releases methane, a greenhouse gas far more potent than CO₂, thus contributing to climate change. Faced with this reality, many initiatives are emerging. Some countries are adopting laws that prohibit supermarkets from throwing away unsold goods, requiring them to donate them to charitable organizations. Mobile applications also make it possible to purchase products nearing their use-by date at a lower cost. Furthermore, consumers are encouraged to better plan their purchases and to use more effective preservation techniques, such as vacuum storage or freezing. Reducing food waste represents a major economic, ecological, and social challenge. Less wasted food means lower consumption of natural resources and a reduction in greenhouse gas emissions. The question remains: are we ready to change our habits for a more responsible model?",
+    "english_translation_highlights": [
+      "In industrialized countries, a large portion of food is thrown away by supermarkets and households",
+      "due to poorly understood expiration dates or excessive purchasing",
+      "Promotions encouraging bulk buying also push consumers to stock more than they can consume"
+    ],
+    "english_question": "A large part of food waste in industrialized countries comes from",
+    "english_options": [
+      "Supermarkets and households.",
+      "Fields and harvests.",
+      "Restaurants and canteens.",
+      "Agricultural producers."
     ]
   },
   {
@@ -508,6 +885,20 @@
       "Moins de nourriture gaspillée signifie une consommation moindre des ressources naturelles et une réduction des émissions de gaz à effet de serre",
       "le gaspillage alimentaire a un impact écologique considérable",
       "les déchets alimentaires en décomposition dans les décharges libèrent du méthane, un gaz à effet de serre bien plus puissant que le CO₂, contribuant ainsi au réchauffement climatique"
+    ],
+    "english_translation": "The fight against food waste: a global challenge. Every year, one million tons of food are thrown away around the world while many populations suffer from malnutrition. Food waste affects the entire production chain, from agriculture to final consumption. According to the FAO, nearly one-third of all food produced is never consumed, representing approximately 1.3 billion tons of food lost each year. The causes of this waste are numerous. In industrialized countries, a large portion of food is thrown away by supermarkets and households due to misunderstood expiration dates or excessive purchases. Promotions encouraging bulk buying also push consumers to stock more than they can consume. In developing countries, it is mainly storage and transportation infrastructure that poses a problem, leading to the deterioration of products before they reach the markets. Beyond financial losses, food waste has a considerable ecological impact. Producing food that will never be consumed uses precious resources: water, agricultural land, energy, and labor. Moreover, food waste decomposing in landfills releases methane, a greenhouse gas far more potent than CO₂, thus contributing to climate change. Faced with this reality, many initiatives are emerging. Some countries are adopting laws prohibiting supermarkets from throwing away unsold goods, requiring them to donate them to charitable organizations. Mobile applications also allow people to purchase products nearing their expiration date at a reduced cost. Furthermore, consumers are encouraged to better plan their purchases and to use more effective preservation techniques, such as vacuum storage or freezing. Reducing food waste represents a major economic, ecological, and social challenge. Less wasted food means lower consumption of natural resources and a reduction in greenhouse gas emissions. The question remains: are we ready to change our habits for a more responsible model?",
+    "english_translation_highlights": [
+      "Reducing food waste represents a major economic, ecological, and social challenge",
+      "Less wasted food means lower consumption of natural resources and a reduction in greenhouse gas emissions",
+      "food waste has a considerable ecological impact",
+      "food waste decomposing in landfills releases methane, a greenhouse gas far more potent than CO₂, thus contributing to climate change"
+    ],
+    "english_question": "Reducing food waste helps to limit",
+    "english_options": [
+      "The cost of food products.",
+      "The environmental impact.",
+      "Agricultural production.",
+      "The importation of foodstuffs."
     ]
   },
   {
@@ -527,6 +918,21 @@
       "Grâce à ces avancées, les chercheurs identifient de nouveaux écosystèmes",
       "Ces découvertes permettent de mieux comprendre la biodiversité",
       "la pollution des océans et le changement climatique menacent de nombreuses espèces"
+    ],
+    "english_translation": "The ocean floors still hold many mysteries. Each year, scientists discover new marine species with astonishing characteristics. Some possess unique adaptive capabilities such as bioluminescence or resistance to extreme pressures. These discoveries help us better understand biodiversity and explore solutions for preserving the oceans. Technological advances, particularly autonomous submarines and high-precision sensors, facilitate the exploration of great depths. Thanks to these advances, researchers identify new ecosystems and analyze their role in the overall balance of the planet. Some of these marine species could also inspire innovations in medicine or biotechnology. Despite these fascinating discoveries, ocean pollution and climate change threaten many species, highlighting the urgency of acting to protect these fragile ecosystems.",
+    "english_translation_highlights": [
+      "Each year, scientists discover new marine species",
+      "Technological advances, particularly autonomous submarines and high-precision sensors, facilitate the exploration of great depths",
+      "Thanks to these advances, researchers identify new ecosystems",
+      "These discoveries help us better understand biodiversity",
+      "ocean pollution and climate change threaten many species"
+    ],
+    "english_question": "According to this document, new marine species are discovered thanks to",
+    "english_options": [
+      "Ocean pollution.",
+      "Scientific exploration.",
+      "The disappearance of biodiversity.",
+      "Industrial fishing."
     ]
   },
   {
@@ -544,6 +950,19 @@
       "Les glaciers fondent à un rythme alarmant en raison du réchauffement climatique",
       "Ce phénomène entraîne une élévation du niveau des mers",
       "menaçant les populations côtières"
+    ],
+    "english_translation": "Glaciers are melting at an alarming rate due to global warming. This phenomenon is causing a rise in sea levels, threatening coastal populations. Many animal species depend on glaciers for their survival, such as polar bears and seals. The melting of glaciers also disrupts the freshwater supply of one million people. It can also lead to landslides and flash floods in certain regions. Scientists are warning about the disastrous consequences of this situation if no action is taken. International efforts are necessary to limit the effects of climate change. Reducing greenhouse gas emissions is essential to slow down this process.",
+    "english_translation_highlights": [
+      "Glaciers are melting at an alarming rate due to global warming",
+      "This phenomenon is causing a rise in sea levels",
+      "threatening coastal populations"
+    ],
+    "english_question": "The melting of glaciers causes",
+    "english_options": [
+      "A drop in ocean levels.",
+      "A rise in sea levels.",
+      "An increase in cultivable land.",
+      "A climate cooling."
     ]
   },
   {
@@ -563,6 +982,21 @@
       "Certaines IA sont capables de créer du contenu artistique, d'écrire des textes ou de simuler des conversations humaines",
       "Elle est également utilisée pour améliorer les systèmes de reconnaissance faciale et automatiser des tâches complexes",
       "Malgré son efficacité, l'intervention humaine reste souvent nécessaire pour superviser et corriger ses décisions"
+    ],
+    "english_translation": "Artificial intelligence, AI, is transforming numerous sectors of the economy. It is used in medicine, industry, finance, and even transportation. Thanks to advanced algorithms, machines can analyze enormous quantities of data and make decisions quickly. Some AIs are capable of creating artistic content, writing texts, or simulating human conversations. However, these advances also raise ethical questions, particularly regarding job protection and data security. Artificial intelligence continues to evolve and will play a major role in the future. It is also used to improve facial recognition systems and automate complex tasks. Despite its efficiency, human intervention often remains necessary to supervise and correct its decisions.",
+    "english_translation_highlights": [
+      "machines can analyze enormous quantities of data and make decisions quickly",
+      "It is used in medicine, industry, finance, and even transportation",
+      "Some AIs are capable of creating artistic content, writing texts, or simulating human conversations",
+      "It is also used to improve facial recognition systems and automate complex tasks",
+      "Despite its efficiency, human intervention often remains necessary to supervise and correct its decisions"
+    ],
+    "english_question": "Artificial intelligence allows",
+    "english_options": [
+      "To replace many human tasks.",
+      "To limit technological progress.",
+      "To delete the Internet.",
+      "To analyze large amounts of data."
     ]
   },
   {
@@ -586,6 +1020,25 @@
       "Développer les espaces verts est une priorité pour rendre les villes plus agréables à vivre",
       "encouragent aussi la pratique d'activités physiques et renforcent le lien social entre les habitants",
       "la présence de verdure en milieu urbain contribue à réduire le stress et l'anxiété"
+    ],
+    "english_translation": "Green spaces play an essential role in urban areas. They improve air quality by absorbing carbon dioxide and reduce the heat island effect. Parks and gardens offer residents places to relax and promote mental well-being. They are also beneficial for biodiversity by hosting numerous animal and plant species. Some cities invest in planting trees and developing green roofs to combat pollution. Developing green spaces is a priority to make cities more pleasant to live in. In addition to their environmental impact, they also encourage physical activity and strengthen social bonds between residents. Numerous studies show that the presence of greenery in urban environments helps reduce stress and anxiety.",
+    "english_translation_highlights": [
+      "Green spaces play an essential role in urban areas",
+      "They improve air quality by absorbing carbon dioxide",
+      "reduce the heat island effect",
+      "Parks and gardens offer residents places to relax and promote mental well-being",
+      "beneficial for biodiversity by hosting numerous animal and plant species",
+      "invest in planting trees and developing green roofs to combat pollution",
+      "Developing green spaces is a priority to make cities more pleasant to live in",
+      "also encourage physical activity and strengthen social bonds between residents",
+      "the presence of greenery in urban environments helps reduce stress and anxiety"
+    ],
+    "english_question": "Green spaces in the city allow",
+    "english_options": [
+      "To regulate urban temperature.",
+      "To limit access to public spaces.",
+      "To improve air quality.",
+      "To reduce the number of trees."
     ]
   },
   {
@@ -603,6 +1056,19 @@
       "L'exploration spatiale est un défi technologique et scientifique majeur",
       "Les agences comme la NASA et l'ESA envoient des missions pour étudier les planètes et l'univers",
       "Les avancées dans ce domaine permettent de mieux comprendre l'origine de la Terre et la possibilité de vie ailleurs"
+    ],
+    "english_translation": "Space exploration is a major technological and scientific challenge. Agencies like NASA and ESA send missions to study planets and the universe. Advances in this field allow for a better understanding of the origin of Earth and the possibility of life elsewhere. Space travel is, however, costly and presents significant risks for astronauts. Ambitious projects such as establishing a base on the Moon or a crewed mission to Mars are currently under development. The future of space exploration will depend on technological advances and the funding of programs.",
+    "english_translation_highlights": [
+      "Space exploration is a major technological and scientific challenge",
+      "Agencies like NASA and ESA send missions to study planets and the universe",
+      "Advances in this field allow for a better understanding of the origin of Earth and the possibility of life elsewhere"
+    ],
+    "english_question": "Space exploration allows…",
+    "english_options": [
+      "To better understand the universe.",
+      "To eliminate satellites.",
+      "To stop scientific research.",
+      "To limit technology."
     ]
   },
   {
@@ -620,6 +1086,19 @@
       "Le commerce équitable vise à garantir une rémunération juste aux producteurs des pays en développement",
       "Il permet aux agriculteurs et artisans de vendre leurs produits à un prix qui reflète leur véritable coût de production",
       "En plus de garantir des revenus stables"
+    ],
+    "english_translation": "Fair trade aims to guarantee fair compensation for producers in developing countries. It allows farmers and artisans to sell their products at a price that reflects their true cost of production. This system also promotes better working conditions by prohibiting exploitation and forced labor. Consumers play a key role by choosing products labeled as fair trade. The fair trade market has grown considerably in recent years, particularly for coffee, cocoa, and textiles. In addition to guaranteeing stable incomes, it encourages environmentally friendly agricultural practices. Producer cooperatives receive financial and technical support to improve their production. This economic model offers a sustainable alternative to traditional trade. It also helps reduce economic inequalities by giving small producers better access to the international market. Some companies are committed to incorporating more fair trade products into their supply chain. Despite its growth, this system faces challenges, particularly in terms of certification and consumer awareness.",
+    "english_translation_highlights": [
+      "Fair trade aims to guarantee fair compensation for producers in developing countries",
+      "It allows farmers and artisans to sell their products at a price that reflects their true cost of production",
+      "In addition to guaranteeing stable incomes"
+    ],
+    "english_question": "Fair trade aims above all to",
+    "english_options": [
+      "Ensure producers receive fair and stable compensation.",
+      "Encourage competitiveness by reducing production costs.",
+      "Increase the margins of intermediaries.",
+      "Reserve the market for large enterprises."
     ]
   },
   {
@@ -640,6 +1119,22 @@
       "Certaines destinations souffrent de surfréquentations, ce qui dégrade les écosystèmes locaux",
       "L'urbanisation excessive liée au développement touristique peut également détruire des habitats naturels et perturber la faune locale",
       "la production de déchets dans les zones touristiques, notamment plastiques, atteint des niveaux alarmants"
+    ],
+    "english_translation": "Tourism is a major economic sector, but it also has negative effects on the environment. The influx of visitors to certain regions leads to increased pollution and overexploitation of natural resources. CO₂ emissions from airplanes and cruise ships contribute to climate change. Some destinations suffer from overcrowding, which degrades local ecosystems. Excessive urbanization linked to tourism development can also destroy natural habitats and disturb local wildlife. Moreover, waste production in tourist areas, particularly plastics, reaches alarming levels, endangering marine and terrestrial species. To limit its impacts, new forms of sustainable tourism are emerging, such as ecotourism. Travelers are encouraged to adopt responsible behaviors, such as limiting their plastic consumption or favoring eco-friendly transportation. Governments are implementing regulations to protect natural and historical sites. Some countries now impose visitor quotas to preserve their most fragile sites. A more environmentally respectful tourism is essential to preserve landscapes and biodiversity.",
+    "english_translation_highlights": [
+      "Tourism is a major economic sector, but it also has negative effects on the environment",
+      "The influx of visitors to certain regions leads to increased pollution and overexploitation of natural resources",
+      "CO₂ emissions from airplanes and cruise ships contribute to climate change",
+      "Some destinations suffer from overcrowding, which degrades local ecosystems",
+      "Excessive urbanization linked to tourism development can also destroy natural habitats and disturb local wildlife",
+      "waste production in tourist areas, particularly plastics, reaches alarming levels"
+    ],
+    "english_question": "Mass tourism can lead to",
+    "english_options": [
+      "Excessive pressure on natural resources.",
+      "Increased pollution.",
+      "A decrease in environmental impacts.",
+      "An automatic preservation of tourist sites."
     ]
   },
   {
@@ -658,6 +1153,20 @@
       "1 000 000 de personnes à travers le monde n'ont toujours pas accès à une source d'eau propre",
       "ce qui constitue un problème majeur de santé publique",
       "La contamination de l'eau, qu'elle soit causée par des bactéries, des produits chimiques ou des métaux lourds, peut entraîner des maladies graves telles que le choléra et la dysenterie"
+    ],
+    "english_translation": "Drinking water is essential to life and human health, as it helps maintain the body's water balance and prevent many diseases. Yet, one million people around the world still do not have access to a clean water source, which constitutes a major public health problem. Water contamination, whether caused by bacteria, chemicals, or heavy metals, can lead to serious diseases such as cholera and dysentery. In some regions, prolonged droughts and climate change are worsening this shortage, making water supply even more difficult. Inequalities in access to drinking water are particularly striking in developing countries, where the infrastructure needed for a stable and secure supply is often nonexistent or insufficient. To address this crisis, governments and international organizations are increasingly launching projects aimed at improving access to drinking water. Solutions such as seawater desalination, groundwater and surface water filtration, as well as sustainable management of water resources, are essential to ensuring a reliable and clean water supply in the long term. Moreover, raising awareness about water conservation practices is crucial to avoiding waste and preserving this precious resource. International cooperation and technological innovation will be decisive in solving this global challenge.",
+    "english_translation_highlights": [
+      "Drinking water is essential to life and human health",
+      "one million people around the world still do not have access to a clean water source",
+      "which constitutes a major public health problem",
+      "Water contamination, whether caused by bacteria, chemicals, or heavy metals, can lead to serious diseases such as cholera and dysentery"
+    ],
+    "english_question": "The major impact of the lack of access to drinking water",
+    "english_options": [
+      "Is an improvement of sanitary conditions.",
+      "Leads to the contamination of the natural environment.",
+      "Causes serious diseases related to contaminated water.",
+      "Reduces the use of water resources in affected regions."
     ]
   },
   {
@@ -679,6 +1188,23 @@
       "les universités pourraient proposer des formations en ligne ou des cours à distance, ce qui permettrait de réduire les coûts liés au logement et aux déplacements",
       "encourager les partenariats entre les entreprises et les établissements universitaires pour financer les stages ou les formations spécifiques",
       "permettrait aux étudiants d'acquérir de l'expérience tout en réduisant leurs dépenses"
+    ],
+    "english_translation": "Today, access to university education remains a challenge for many young people. High tuition fees and the cost of living make it difficult for a large portion of the population to access university. What solutions could be put in place to help students overcome these financial obstacles? It is true that high tuition fees and associated costs can be a major obstacle for many young people, but several solutions can be considered. First, governments could increase scholarships and make student loans more accessible with reduced interest rates, in order to allow students to finance their studies without ending up in debt for life. Next, it would be important to further develop work-study programs where students can work part-time during their studies to lighten their financial burden. Moreover, universities could offer online training or distance learning courses, which would help reduce costs related to housing and transportation. Finally, it would be useful to encourage partnerships between businesses and universities to fund internships or specific training programs, which would allow students to gain experience while reducing their expenses.",
+    "english_translation_highlights": [
+      "governments could increase scholarships",
+      "make student loans more accessible with reduced interest rates",
+      "in order to allow students to finance their studies",
+      "work-study programs where students can work part-time during their studies to lighten their financial burden",
+      "universities could offer online training or distance learning courses, which would help reduce costs related to housing and transportation",
+      "encourage partnerships between businesses and universities to fund internships or specific training programs",
+      "would allow students to gain experience while reducing their expenses"
+    ],
+    "english_question": "Access to university studies could be made more accessible",
+    "english_options": [
+      "By reducing the number of degrees offered by universities.",
+      "By increasing scholarships and low-interest student loans.",
+      "By limiting distance learning programs only to foreign students.",
+      "By increasing tuition fees to fund other programs."
     ]
   },
   {
@@ -705,6 +1231,28 @@
       "la réduction des déchets et le recyclage",
       "il est important de restaurer les écosystèmes naturels, comme les forêts",
       "qui jouent un rôle majeur dans l'absorption du CO₂"
+    ],
+    "english_translation": "Climate change has become a major concern worldwide. The effects are visible, whether through extreme weather events or rising sea levels. What concrete actions can be taken to slow down this process? To slow down climate change, it is essential to act on several levels. First of all, reducing greenhouse gas emissions is crucial, which means transitioning to renewable energies such as solar and wind power, and decreasing our dependence on fossil fuels. Governments can implement strict policies to limit industrial emissions and promote greener transportation. Additionally, each individual can contribute by reducing their energy consumption and adopting more sustainable lifestyles, such as reducing waste and recycling. Finally, it is important to restore natural ecosystems, such as forests, which play a major role in absorbing CO₂.",
+    "english_translation_highlights": [
+      "Climate change has become a major concern",
+      "To slow down climate change, it is essential to act on several levels",
+      "reducing greenhouse gas emissions is crucial",
+      "transitioning to renewable energies such as solar and wind power",
+      "decreasing our dependence on fossil fuels",
+      "Governments can implement strict policies to limit industrial emissions",
+      "promote greener transportation",
+      "each individual can contribute by reducing their energy consumption",
+      "adopting more sustainable lifestyles",
+      "reducing waste and recycling",
+      "it is important to restore natural ecosystems, such as forests",
+      "which play a major role in absorbing CO₂"
+    ],
+    "english_question": "To limit climate change, it is essential",
+    "english_options": [
+      "To increase fossil energy consumption.",
+      "To stop using renewable energies.",
+      "To encourage logging.",
+      "To strengthen regulations to limit industrial emissions."
     ]
   }
 ]

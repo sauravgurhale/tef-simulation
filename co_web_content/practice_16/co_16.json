@@ -14,6 +14,19 @@
       "le vélo",
       "Depuis que je l'utilise",
       "je ne dépense absolument rien pour le transport"
+    ],
+    "english_translation": "Tell me Claude, what is the best way to save on transportation in this city. I recommend cycling. Since I started using it, I spend absolutely nothing on transportation.",
+    "english_translation_highlights": [
+      "cycling",
+      "Since I started using it",
+      "I spend absolutely nothing on transportation"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_16_images/co-16-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -30,6 +43,18 @@
     "highlights": [
       "une chute dans l'escalier",
       "je me suis cassé le bras"
+    ],
+    "english_translation": "I sent you a message yesterday, but you're taking a long time to respond. Will you be joining us on Friday? Unfortunately no, I fell down the stairs on Friday and broke my arm.",
+    "english_translation_highlights": [
+      "fell down the stairs",
+      "broke my arm"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_16_images/co-16-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -46,6 +71,18 @@
     "highlights": [
       "du parapente",
       "parapente"
+    ],
+    "english_translation": "Hi Stéphanie, I'm calling to invite you to spend the weekend with me. We could go paragliding, it's really exciting. I love doing that. What time shall we meet?",
+    "english_translation_highlights": [
+      "paragliding",
+      "paragliding"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_16_images/co-16-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -62,6 +99,18 @@
     "highlights": [
       "coincé au bureau",
       "ne suis pas sur le point de quitter"
+    ],
+    "english_translation": "Hi Jacques, still stuck at the office and I'm not about to leave anytime soon. No worries Paul, we'll reschedule for later.",
+    "english_translation_highlights": [
+      "stuck at the office",
+      "not about to leave"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_16_images/co-16-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -81,6 +130,21 @@
       "Rendez-vous au parc central",
       "Joignez-vous à nous",
       "rendre notre quartier plus propre et agréable pour tous"
+    ],
+    "english_translation": "Dear neighbors, this Saturday at 10 o'clock, we are organizing a neighborhood cleanup. Meet at the central park with your gloves and garbage bags. Join us to make our neighborhood cleaner and more pleasant for everyone. See you Saturday, 10 o'clock at the central park.",
+    "english_translation_highlights": [
+      "this Saturday at 10 o'clock",
+      "we are organizing a neighborhood cleanup",
+      "Meet at the central park",
+      "Join us",
+      "make our neighborhood cleaner and more pleasant for everyone"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "A visit to the central park.",
+      "A community activity.",
+      "A recycling campaign.",
+      "A distribution of cleaning tools."
     ]
   },
   {
@@ -98,6 +162,19 @@
       "un portefeuille marron a été retrouvé",
       "Si vous avez perdu cet objet",
       "merci de vous rendre à l'accueil pour le récupérer"
+    ],
+    "english_translation": "Dear visitors, a brown wallet has been found in the children's books section. If you have lost this item, please go to the front desk to retrieve it. Thank you for your attention.",
+    "english_translation_highlights": [
+      "a brown wallet has been found",
+      "If you have lost this item",
+      "please go to the front desk to retrieve it"
+    ],
+    "english_question": "In this message…",
+    "english_options": [
+      "Someone is asked to come pick up a lost item.",
+      "Someone is asked to come retrieve a lost book.",
+      "Someone is asked to come identify an item at the book section.",
+      "Someone is asked to come to the reception to retrieve a lost book."
     ]
   },
   {
@@ -118,6 +195,22 @@
       "de 9 heures à dix-sept heures",
       "profiter des bonnes affaires",
       "de l'animation"
+    ],
+    "english_translation": "Hello everyone. Don't miss our big clearance sale this Saturday at the central park. Hundreds of stands await you from 9 AM to 5 PM. Come one, come all to enjoy the great deals and entertainment.",
+    "english_translation_highlights": [
+      "Don't miss our big clearance sale",
+      "this Saturday at the central park",
+      "Hundreds of stands await you",
+      "from 9 AM to 5 PM",
+      "enjoy the great deals",
+      "entertainment"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "A large public sale.",
+      "The reservation of stands at the park.",
+      "A large performance at the central park.",
+      "Tourist information about Paris."
     ]
   },
   {
@@ -135,6 +228,19 @@
       "Des objets uniques et précieux seront proposés aux plus offrants",
       "aux plus offrants",
       "ce samedi à 14 heures au centre culturel"
+    ],
+    "english_translation": "Ladies and gentlemen, join us this Saturday at 2 PM at the cultural center for an exceptional event. Unique and precious items will be offered to the highest bidders. Don't miss this rare opportunity to walk away with priceless treasures. See you Saturday.",
+    "english_translation_highlights": [
+      "Unique and precious items will be offered to the highest bidders",
+      "to the highest bidders",
+      "this Saturday at 2 PM at the cultural center"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "A treasure hunt.",
+      "A charitable work.",
+      "An auction.",
+      "Festivities at the cultural center."
     ]
   },
   {
@@ -152,6 +258,19 @@
       "Je voulais savoir si tu as une place libre dans ta voiture",
       "pour le mariage de tante Odile",
       "Je comptais y aller avec la mienne, mais finalement je ne pourrais pas"
+    ],
+    "english_translation": "I wanted to know if you have a free spot in your car for Aunt Odile's wedding. I was planning to go with mine, but in the end I won't be able to. Can you call me later?",
+    "english_translation_highlights": [
+      "I wanted to know if you have a free spot in your car",
+      "for Aunt Odile's wedding",
+      "I was planning to go with mine, but in the end I won't be able to"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Recall an event.",
+      "Request help.",
+      "Lend a car.",
+      "Announce one's absence."
     ]
   },
   {
@@ -171,6 +290,21 @@
       "La nourriture était délicieuse",
       "l'ambiance géniale",
       "Je suis tellement comblé"
+    ],
+    "english_translation": "Hi Gladys, just to let you know that I had a great evening yesterday with François. The food was delicious and the atmosphere was amazing. We absolutely have to go back there together soon. I'm so happy.",
+    "english_translation_highlights": [
+      "just to let you know",
+      "I had a great evening",
+      "The food was delicious",
+      "the atmosphere was amazing",
+      "I'm so happy"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Invite a friend to a party.",
+      "Recommend a restaurant.",
+      "Thank a friend.",
+      "Share one's joy."
     ]
   },
   {
@@ -188,6 +322,19 @@
       "j'ai besoin que tu m'aides",
       "je ne sais quoi faire pour y remédier",
       "Excuse-moi de t'appeler aussi tard, mais c'est parce que"
+    ],
+    "english_translation": "Sorry for calling you so late, but it's because the baby has been crying nonstop for quite a while and I don't know what to do about it. So, I need you to help me.",
+    "english_translation_highlights": [
+      "I need you to help me",
+      "I don't know what to do about it",
+      "Sorry for calling you so late, but it's because"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Ask for advice.",
+      "Talk about her day.",
+      "Complain about the baby.",
+      "Apologize for being late."
     ]
   },
   {
@@ -207,6 +354,21 @@
       "optez pour notre service de suivi personnalisé avec le compteur Linky",
       "Il vous permet de surveiller en temps réel votre consommation et d'identifier les économies possibles",
       "Contactez-nous pour plus d'informations et pour vous inscrire dès aujourd'hui"
+    ],
+    "english_translation": "Dear subscribers, are you concerned about your electricity consumption? We have a solution for you: choose our personalized monitoring service with the Linky meter. It allows you to monitor your consumption in real time and identify possible savings. Contact us for more information and to sign up today.",
+    "english_translation_highlights": [
+      "Dear subscribers, are you concerned about your electricity consumption?",
+      "We have a solution for you",
+      "choose our personalized monitoring service with the Linky meter",
+      "It allows you to monitor your consumption in real time and identify possible savings",
+      "Contact us for more information and to sign up today"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Obtain personalized follow-up.",
+      "Acquire a new meter.",
+      "Discover an electricity service.",
+      "Make a proposal."
     ]
   },
   {
@@ -223,6 +385,18 @@
     "highlights": [
       "je ne fais plus partie des effectifs de la société ATS",
       "juste pour t'informer que"
+    ],
+    "english_translation": "It's your old friend, just to let you know that I'm no longer on the payroll of ATS company. We'll see each other soon to talk about it. See you soon.",
+    "english_translation_highlights": [
+      "I'm no longer on the payroll of ATS company",
+      "just to let you know that"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To inform of an assignment.",
+      "To say that he has lost his job.",
+      "To talk about the company's workforce.",
+      "To announce good news."
     ]
   },
   {
@@ -240,6 +414,19 @@
       "je n'ai rien à faire ce soir",
       "Que dirais-tu d'aller boire un verre au Grand Lilas ?",
       "Ça nous changera les idées"
+    ],
+    "english_translation": "Hey, it's Mathieu. Listen, I've got nothing to do tonight. How about going for a drink at the Grand Lilas? It'll take our minds off things. Call me back, please.",
+    "english_translation_highlights": [
+      "I've got nothing to do tonight",
+      "How about going for a drink at the Grand Lilas?",
+      "It'll take our minds off things"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To say that she is bored.",
+      "have a drink",
+      "To ask for a favor.",
+      "To invite her friend to a party."
     ]
   },
   {
@@ -256,6 +443,18 @@
     "highlights": [
       "moi je suis limité financièrement",
       "cette mesure est un coup de massue pour moi"
+    ],
+    "english_translation": "Listen, I'm financially limited, but my children eat properly at their school canteen. So this measure is a devastating blow for me.",
+    "english_translation_highlights": [
+      "I'm financially limited",
+      "this measure is a devastating blow for me"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is favorable.",
+      "Is favorable under certain conditions.",
+      "Is unfavorable.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -274,6 +473,20 @@
       "même si cela peut favoriser une alimentation plus durable",
       "Je pense que la mesure doit être accompagnée d'options équilibrées",
       "pour répondre aux besoins nutritionnels des enfants"
+    ],
+    "english_translation": "The point is not just to ban meat at school, even if that can promote a more sustainable diet. I think the measure must be accompanied by balanced options to meet the nutritional needs of children.",
+    "english_translation_highlights": [
+      "The point is not just to ban meat at school",
+      "even if that can promote a more sustainable diet",
+      "I think the measure must be accompanied by balanced options",
+      "to meet the nutritional needs of children"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is favorable.",
+      "Is favorable under certain conditions.",
+      "Is unfavorable.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -291,6 +504,19 @@
       "Interdire la viande dans les cantines scolaires, c'est bafouer les préférences alimentaires de tous les enfants",
       "n'oublions pas les carences nutritionnelles",
       "Pour moi, ça reste à revoir"
+    ],
+    "english_translation": "Banning meat in school cafeterias means disregarding the dietary preferences of all children, and let's not forget the nutritional deficiencies. For me, that still needs to be reconsidered.",
+    "english_translation_highlights": [
+      "Banning meat in school cafeterias means disregarding the dietary preferences of all children",
+      "let's not forget the nutritional deficiencies",
+      "For me, that still needs to be reconsidered"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is favorable.",
+      "Is favorable under certain conditions.",
+      "Is unfavorable.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -308,6 +534,19 @@
       "je pense qu'il est effectivement moins évident de se faire de l'argent aujourd'hui qu'il y a 20 ans",
       "moins évident",
       "en raison de l'augmentation du coût de la vie, de la concurrence accrue et de la précarité de l'emploi"
+    ],
+    "english_translation": "A lot of things have changed. Personally, I think it is indeed less easy to make money today than it was 20 years ago, due to the increased cost of living, greater competition, and job insecurity.",
+    "english_translation_highlights": [
+      "I think it is indeed less easy to make money today than it was 20 years ago",
+      "less easy",
+      "due to the increased cost of living, greater competition, and job insecurity"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Considers it to be more difficult.",
+      "Considers it to be easier.",
+      "Considers the challenges to be the same.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -326,6 +565,20 @@
       "les défis ont évolué avec le temps",
       "les opportunités ont aussi augmenté",
       "ce qui équilibre les difficultés rencontrées"
+    ],
+    "english_translation": "That's really an interesting question. I think making money today is comparable to 20 years ago. I explain this by the fact that challenges have evolved over time, but opportunities have also increased, which balances out the difficulties encountered.",
+    "english_translation_highlights": [
+      "making money today is comparable to 20 years ago",
+      "challenges have evolved over time",
+      "opportunities have also increased",
+      "which balances out the difficulties encountered"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Considers that it is more difficult.",
+      "Considers that it is easier.",
+      "Considers that the challenges are the same.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -344,6 +597,20 @@
       "aujourd'hui se faire de l'argent n'est plus le parcours du combattant",
       "On en gagne, ce qui n'était pas du tout le cas à l'époque de nos parents",
       "C'était pas évident"
+    ],
+    "english_translation": "It seems obvious, actually. Thanks to the opportunities offered by technology and the digital economy, making money today is no longer an uphill battle. We can earn it, which was not at all the case in our parents' time. It wasn't easy.",
+    "english_translation_highlights": [
+      "It seems obvious, actually",
+      "making money today is no longer an uphill battle",
+      "We can earn it, which was not at all the case in our parents' time",
+      "It wasn't easy"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Considers it to be more difficult.",
+      "Considers it to be easier.",
+      "Considers the challenges to be the same.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -364,6 +631,22 @@
       "cette pratique est encore controversée et manque de preuves scientifiques solides",
       "Bien que certains viticulteurs rapportent des améliorations notables, d'autres restent sceptiques",
       "considérant ces résultats comme anecdotiques"
+    ],
+    "english_translation": "Today, let's talk about wine with musical oenodynamics, known as a revolutionary method where music is used to improve the quality of wine. By playing specific pieces of music in vineyards and cellars, winemakers observe that sound vibrations stimulate beneficial microorganisms, enriching the wine's aromas, which results in a higher quality wine. Various musical genres, from classical to jazz, are selected according to the different phases of production, offering a harmonious and innovative approach to modern viticulture. However, this practice is still controversial and lacks solid scientific evidence to support its effects. While some winemakers report notable improvements, others remain skeptical, considering these results to be anecdotal.",
+    "english_translation_highlights": [
+      "music is used to improve the quality of wine",
+      "sound vibrations stimulate beneficial microorganisms, enriching the wine's aromas",
+      "which results in a higher quality wine",
+      "this practice is still controversial and lacks solid scientific evidence",
+      "While some winemakers report notable improvements, others remain skeptical",
+      "considering these results to be anecdotal"
+    ],
+    "english_question": "This innovative technique…",
+    "english_options": [
+      "Is unanimously agreed upon in the wine world.",
+      "Improves the growth of vines.",
+      "Allows for the improvement of wine.",
+      "Allows for a tenfold increase in wine production."
     ]
   },
   {
@@ -386,6 +669,24 @@
       "L'objectif est d'identifier les gisements potentiels d'hydrogène blanc et d'évaluer la faisabilité de leur exploitation à grande échelle",
       "une production qui peut être polluante et dispendieuse",
       "Selon les premières estimations, ces réserves naturelles pourraient non seulement répondre à une partie des besoins énergétiques de la province, mais aussi positionner le Québec comme un leader mondial dans le secteur de l'hydrogène propre"
+    ],
+    "english_translation": "Today, let's go to Quebec, where it already powers trains and cars. It could one day help propel part of the transportation industry. Hydrogen is a fuel that emits no greenhouse gases. It is classified as gray, blue, or green depending on how it is produced — a production process that can be polluting and expensive. But scientists are interested in an entirely new category: white hydrogen. Geologist Jasmin Raymond believes that Quebec's subsurface contains significant quantities of this fuel, whose production involves no carbon dioxide emissions, making it a particularly attractive resource for the energy transition. Teams of Quebec researchers have begun studying local geological formations, focusing on regions such as the Appalachians and the Canadian Shield. The goal is to identify potential white hydrogen deposits and assess the feasibility of their large-scale extraction. According to initial estimates, these natural reserves could not only meet part of the province's energy needs but also position Quebec as a global leader in the clean hydrogen sector.",
+    "english_translation_highlights": [
+      "Today, let's go to Quebec, where it already powers trains and cars.",
+      "It could one day help propel part of the transportation industry.",
+      "scientists are interested in an entirely new category: white hydrogen",
+      "whose production involves no carbon dioxide emissions",
+      "Teams of Quebec researchers have begun studying local geological formations",
+      "The goal is to identify potential white hydrogen deposits and assess the feasibility of their large-scale extraction",
+      "a production process that can be polluting and expensive",
+      "According to initial estimates, these natural reserves could not only meet part of the province's energy needs but also position Quebec as a global leader in the clean hydrogen sector"
+    ],
+    "english_question": "This column reports…",
+    "english_options": [
+      "An energy resource exploited on a large scale.",
+      "A fuel whose production is polluting.",
+      "An expensive energy resource.",
+      "An emerging energy resource."
     ]
   },
   {
@@ -413,6 +714,29 @@
       "pouvoir jongler vie sociale, familiale et professionnelle",
       "c'est de travailler dans une entreprise qui reflète aussi leurs valeurs",
       "Ils sont de plus en plus nombreux à exiger"
+    ],
+    "english_translation": "Hello Mrs. Prochu. Hello. So, we can sense that employees are asking for more, that there are growing expectations on their part — that's what you note in your report. To what extent will employees and candidates have the upper hand next year? I think this trend will continue to be confirmed. As you mentioned, there are many jobs and fewer candidates, so they have plenty of choices. They will seek flexibility, they will look for jobs that allow them to continue their training, that allow them to evolve in a healthy and supportive environment. So they will keep the upper hand next year, certainly. What are the most frequent demands? Is it salary? I would say that salary falls in third place. What matters most to candidates is really flexibility — being able to juggle their social, family, and professional lives. It's also about working for a company that reflects their values. More and more of them are demanding, for example, to work in a context where the employer considers the environment as something important. So there you go.",
+    "english_translation_highlights": [
+      "we can sense that employees are asking for more, that there are growing expectations on their part",
+      "I think this trend will continue to be confirmed",
+      "there are many jobs and fewer candidates",
+      "they have plenty of choices",
+      "They will seek flexibility",
+      "they will look for jobs that allow them to continue their training",
+      "that allow them to evolve in a healthy and supportive environment",
+      "they will keep the upper hand next year, certainly",
+      "salary falls in third place",
+      "What matters most to candidates is really flexibility",
+      "being able to juggle their social, family, and professional lives",
+      "working for a company that reflects their values",
+      "More and more of them are demanding"
+    ],
+    "english_question": "The invited person claims that…",
+    "english_options": [
+      "The labor shortage will disrupt the job market.",
+      "Employers will become increasingly demanding.",
+      "Most job seekers will be drawn to the lure of profit.",
+      "The number of vacant positions could decline next year."
     ]
   },
   {
@@ -433,6 +757,22 @@
       "Ce qui est le plus important chez les candidats, c'est vraiment une flexibilité",
       "pouvoir jongler vie sociale, familiale et professionnelle",
       "c'est de travailler dans une entreprise qui reflète aussi leurs valeurs"
+    ],
+    "english_translation": "Hello Mrs. Prochu. Hello. So, we can sense that employees are asking for more, that there are growing expectations on their part—that's what you note in your report. To what extent will employees and candidates have the upper hand next year? I think this trend will continue to be confirmed. As you mentioned, there are many jobs and fewer candidates, so they have plenty of choices. They will be looking for flexibility, they will be looking for jobs that allow them to continue their training, that allow them to work in a healthy and supportive environment. So they will keep the upper hand next year, certainly. What are the most frequent demands? Is it salary? I would say that salary falls in third place. What matters most to candidates is really flexibility—being able to juggle their social, family, and professional lives—and working for a company that also reflects their values. More and more of them are demanding, for example, to work in a setting where the employer considers the environment as something important. So there you go.",
+    "english_translation_highlights": [
+      "there are many jobs and fewer candidates, so they have plenty of choices",
+      "They will be looking for flexibility",
+      "I would say that salary falls in third place",
+      "What matters most to candidates is really flexibility",
+      "being able to juggle their social, family, and professional lives",
+      "working for a company that also reflects their values"
+    ],
+    "english_question": "According to her, candidates will above all be looking for…",
+    "english_options": [
+      "Compensation commensurate with their performance.",
+      "Exorbitant salaries in order to improve their living conditions.",
+      "The ability to balance multiple areas of life.",
+      "An increasingly time-consuming professional life."
     ]
   },
   {
@@ -456,6 +796,25 @@
       "Pas nécessairement",
       "jouer à ce jeu-là, les spécialistes vont nous dire que c'est très, très risqué",
       "ce que j'ai dans l'impression, c'est d'avoir un enfant l'année prochaine, si oui, les coûts ça peut régénérer"
+    ],
+    "english_translation": "We welcome Denis Doucet, spokesperson for Multi-Prêts Mortgages. Good evening, Mr. Doucet. Good evening. So, it's a unique situation. We're seeing the number of transactions declining, and prices have also dropped from their peak. In fact, CMHC expects prices to fall further by the end of the year. Desjardins is talking about a seventeen percent decline between the peak and the end of 2023 in Quebec. Would you tell new buyers, if they have a bit of time on their side, to wait? Not necessarily. Buying a house is like some people trying to buy on the stock market and saying, \"I'll wait for the stocks to drop before buying them.\" Playing that game, the experts will tell you, is very, very risky. I think that when people commit to a project to buy a house, they need to check their budget, check their capacity, and perhaps select a house that's compatible with their means. Speaking of borrowing capacity, to what extent do the pre-approvals we can get from financial institutions take into account the rising cost of living and other expenses we might have? Should we rely on that and go that far? The pre-approval is a calculation that doesn't take into account inflation or other factors—it's solely meant to tell people: look, beyond this amount, you won't be able to borrow. So it's the absolute limit. But before that, it was one of the indicators. People need to do a budgeting exercise, get advice either from a mortgage broker or a personal finance advisor, and try to assess, based on their budget, what additional expenses they can anticipate. And it's not just about the short term, because unfortunately people often keep a horizon of six months or a year, but what I have in mind is, are you planning to have a child next year? If so, the costs that can generate—and at that point, we can establish a payment that people can live with comfortably.",
+    "english_translation_highlights": [
+      "they need to check their budget",
+      "check their capacity",
+      "select a house that's compatible with their means",
+      "People need to do a budgeting exercise",
+      "get advice either from a mortgage broker or a personal finance advisor",
+      "try to assess, based on their budget, what additional expenses they can anticipate",
+      "Not necessarily",
+      "Playing that game, the experts will tell you, is very, very risky",
+      "are you planning to have a child next year? If so, the costs that can generate"
+    ],
+    "english_question": "Before the acquisition of a new residence, the specialist recommends…",
+    "english_options": [
+      "To carefully evaluate their financial situation.",
+      "To step back until prices drop.",
+      "To not hesitate to speculate on market fluctuations.",
+      "To wait for stock prices to drop on the stock exchange."
     ]
   },
   {
@@ -476,6 +835,22 @@
       "Les gens doivent faire un exercice budgétaire, se faire conseiller soit par un courtier hypothécaire, soit par un conseiller en finances personnelles",
       "ce que j'ai dans l'impression, c'est d'avoir un enfant l'année prochaine, si oui, les coûts ça peut régénérer",
       "à ce moment-là on peut établir un paiement avec lequel les gens pourront vivre correctement"
+    ],
+    "english_translation": "We welcome Denis Doucet, spokesperson for Multi-Prêts Mortgages. Good evening, Mr. Doucet. Good evening. So, it's a particular situation. We see that the number of transactions is decreasing, and prices have also pulled back from their peak. In fact, CMHC expects prices to decline further by the end of the year. Desjardins is talking about seventeen percent between the peak and the end of 2023 in Quebec. Would you tell new buyers, if they have a bit of time ahead of them, to wait? Not necessarily. Buying a house is like some people trying to buy on the stock market and saying \"I'm going to wait for stocks to drop before buying them\" — playing that game, specialists will tell us it's very, very risky. I think that when people commit to a project to buy a house, they need to check their budget, check their capacity, and perhaps select a house that will be compatible with their means. Speaking of borrowing capacity, to what extent do pre-approvals from financial institutions take into account the rising cost of living and other expenses one might have? Should we rely on that, go that far? The pre-approval is a calculation that doesn't take into account inflation or other factors — it's solely to tell people: look, beyond this amount, you won't be able to borrow. So it's the absolute limit. But before that, it was one of the indicators. People need to do a budgeting exercise, get advice either from a mortgage broker or a personal finance advisor, and try to assess, based on their budget, what additional costs they can anticipate. And it's not just short-term, because unfortunately people often keep a horizon of six months or a year, but what I mean is, are you planning to have a child next year? If so, the costs that can generate — and at that point, we can establish a payment that people will be able to live with comfortably.",
+    "english_translation_highlights": [
+      "The pre-approval is a calculation that doesn't take into account inflation or other factors",
+      "it's solely to tell people: look, beyond this amount, you won't be able to borrow",
+      "So it's the absolute limit",
+      "People need to do a budgeting exercise, get advice either from a mortgage broker or a personal finance advisor",
+      "are you planning to have a child next year? If so, the costs that can generate",
+      "at that point, we can establish a payment that people will be able to live with comfortably"
+    ],
+    "english_question": "Provisional approvals of loans granted by banks…",
+    "english_options": [
+      "Are based on the increase in the cost of living.",
+      "Serve as short-term budget planning.",
+      "Consider the in-depth analysis of financial history.",
+      "Do not align with economic realities."
     ]
   },
   {
@@ -497,6 +872,23 @@
       "si la flotte ne cesse d’augmenter, on va effectivement rater le virage",
       "s’il y a une hausse du nombre de voitures à essence en ce moment",
       "il faudrait mettre en place un système de bonus-malus pour à la fois continuer à encourager les véhicules électriques, mais aussi décourager l’achat de véhicules énergivores"
+    ],
+    "english_translation": "Of the number of gasoline vehicles higher than ever in 2023. So, are we on the right track to meet the targets in terms of electric vehicle sales? We take stock with Daniel Breton and the CEO of Electric Mobility Canada. Good evening. Good evening. So, sales of electric and hybrid vehicles are up, that's what we're seeing, but those of gasoline cars are still growing. Mr. Breton, are we missing the turn toward zero-emission mobility in Quebec? In fact, yes. That is to say, if we don't take a more radical turn in transportation, which, I remind you, is the leading source of emissions in Quebec, we're going to… because yes, we want more and more people to buy electric cars, but we also want to reduce these greenhouse gas emissions. So, if the fleet keeps growing, we will indeed miss the turn. Now, Quebec says that if there's an increase in the number of gasoline cars right now, it's because of rapid population growth. Does that explanation hold up in your view? I think it is indeed part of the explanation, but it's not the whole explanation. Look, we must not forget that when we look at the announcement made by the Quebec government to ban the budget stating that it wanted to stop subsidizing the purchase of electric vehicles while not discouraging the purchase of gasoline vehicles, including energy-intensive gasoline vehicles... I had said, and I've said it many times, we should put in place a bonus-malus system to both continue encouraging electric vehicles and also discourage the purchase of energy-intensive vehicles. I'll remind you, in 2007, Stephen Harper's Conservative government put in place a bonus-malus system: 2,000 dollars for a green vehicle, 4,000 dollars as a penalty for an energy-intensive vehicle, and all of it in a fiscally neutral way. If in 2007 the Conservatives were able to do it, there's no reason why in 2024 the Quebec government can't do it.",
+    "english_translation_highlights": [
+      "sales of electric and hybrid vehicles are up",
+      "those of gasoline cars are still growing",
+      "are we missing the turn toward zero-emission mobility in Quebec?",
+      "In fact, yes",
+      "if the fleet keeps growing, we will indeed miss the turn",
+      "if there's an increase in the number of gasoline cars right now",
+      "we should put in place a bonus-malus system to both continue encouraging electric vehicles and also discourage the purchase of energy-intensive vehicles"
+    ],
+    "english_question": "According to this interview…",
+    "english_options": [
+      "The shift toward zero-emission mobility is an ambitious and unrealistic project.",
+      "Zero-emission vehicles are struggling to sell on the market.",
+      "Zero-emission vehicles represent a low rate of registration.",
+      "The number of energy-intensive vehicles tends to fade over time."
     ]
   },
   {
@@ -517,6 +909,22 @@
       "2000 dollars pour un véhicule vert, 4000 dollars de malus pour un véhicule énergivore",
       "de façon fiscalement neutre",
       "en 2024 le gouvernement du Québec ne puisse pas le faire"
+    ],
+    "english_translation": "Of the number of gasoline vehicles higher than ever in 2023. So, are we on the right track to reach the targets in terms of electric vehicle sales? We take stock with Daniel Breton and the CEO of Electric Mobility Canada. Good evening. Good evening. So, sales of electric and hybrid vehicles are up, that's what we're seeing, but those of gasoline cars are still growing. Mr. Breton, are we missing the turn toward zero-emission mobility in Quebec? In fact, yes. That is to say, if we don't take a more radical turn in transportation, which, I'll remind you, is the number one source of emissions in Quebec, we're going to… because yes, we want more and more people to buy electric cars, but we also want to reduce these greenhouse gas emissions. So, if the fleet keeps growing, we are indeed going to miss the turn. Well, Quebec says that if there's an increase in the number of gasoline cars right now, it's because of a rapid increase in population. Does that explanation hold up in your view? I think it's indeed part of the explanation, but it's not the whole explanation. Listen, we mustn't forget that when we look at the announcement made by the Quebec government to ban the budget stating that it wanted to stop subsidizing the purchase of electric vehicles while not discouraging the purchase of gasoline vehicles, including energy-hungry gasoline vehicles... I had spoken about it, I've said it many times, we need to put in place a bonus-malus system to both continue encouraging electric vehicles and also discourage the purchase of energy-hungry vehicles. I'll remind you, in 2007, Stephen Harper's Conservative government put in place a bonus-malus system: 2,000 dollars for a green vehicle, 4,000 dollars in penalties for an energy-hungry vehicle, and all of it fiscally neutral. If in 2007 the Conservatives were able to do it, there's no reason why in 2024 the Quebec government can't do it.",
+    "english_translation_highlights": [
+      "we need to put in place a bonus-malus system to both continue encouraging electric vehicles and also discourage the purchase of energy-hungry vehicles",
+      "discourage the purchase of energy-hungry vehicles",
+      "a bonus-malus system",
+      "2,000 dollars for a green vehicle, 4,000 dollars in penalties for an energy-hungry vehicle",
+      "fiscally neutral",
+      "in 2024 the Quebec government can't do it"
+    ],
+    "english_question": "To achieve successful mobility, the person interviewed suggests…",
+    "english_options": [
+      "To reduce the acquisition cost of electric vehicles.",
+      "To subsidize the purchase of eco-friendly vehicles.",
+      "To use a fiscal mechanism limiting the appeal of energy-intensive cars.",
+      "To raise awareness among drivers about the harmful effects of greenhouse gases."
     ]
   },
   {
@@ -536,6 +944,21 @@
       "C'est vraiment l'idée selon laquelle il n'y a plus de culture commune, il n'y a plus d'identité nationale, il n'y a que des cultures les unes à côté des autres.",
       "Est-ce que c'est le rôle de l'école d'enseigner le multiculturalisme pendant 10 ans alors qu'au Québec, en très grande majorité, les gens sont contre le multiculturalisme ?",
       "La grande majorité de la population propose un autre modèle d'intégration, qui est celui de l'intégration des nouveaux arrivants à une culture fondatrice."
+    ],
+    "english_translation": "The only French-speaking province within an English-speaking North America, Quebec is questioning its identity. The recent arrival of immigrants from all corners of the world makes this a burning topical issue. A sociologist's study on the new ethics and religious culture course has reignited the debate. Joël Querret denounces the multiculturalism of the program. \"It's really the idea that there is no longer a common culture, there is no longer a national identity, there are only cultures side by side. Is it the role of the school to teach multiculturalism for 10 years when in Quebec, the vast majority of people are against multiculturalism?\" The great majority of the population proposes another model of integration, which is that of integrating newcomers into a founding culture. Concerned, the Parti Québécois, which fights for an independent Quebec, first called for the withdrawal of the course, before ultimately advocating for a parliamentary committee on the issue. The program's designers maintain, however, that Catholicism and Protestantism as practiced in Quebec take precedence over the other religious currents taught to students. Philosopher Luc Bégin: \"It is not a denial of self, it is an affirmation, a call for a stronger affirmation based on what we are. Of course, it can have impacts on Quebec identity. From the moment Quebec society opens itself to immigration as it is doing now, one cannot think that there will be no modification of this Quebec identity. But identity, what is it? It is something that is constantly evolving within you.\" According to the program's designer, children learn to engage in dialogue with others and to avoid prejudices. Jean Simon follows the program at the Institut Saint-Joseph in Quebec City: \"If we ever see someone different, who is in another religion, we'll be prepared, we won't reject them because we want to know why they are like that. We'll understand why they're not like us, why they say yes on the contrary or no. Even if someone asks us something, we have to stay as we are, we have to believe what we want to believe, we must not let ourselves be swayed.\" This call for openness doesn't worry only francophones: immigrants are also afraid that their children will assimilate too quickly into Quebec culture. Pascal Guerricola, Quebec City, RFI.",
+    "english_translation_highlights": [
+      "A sociologist's study on the new ethics and religious culture course has reignited the debate.",
+      "Joël Querret denounces the multiculturalism of the program.",
+      "It's really the idea that there is no longer a common culture, there is no longer a national identity, there are only cultures side by side.",
+      "Is it the role of the school to teach multiculturalism for 10 years when in Quebec, the vast majority of people are against multiculturalism?",
+      "The great majority of the population proposes another model of integration, which is that of integrating newcomers into a founding culture."
+    ],
+    "english_question": "In this report, the sociologist…",
+    "english_options": [
+      "Advocates for learning about multiculturalism in the school environment.",
+      "Denounces the integration of newcomers into a common culture.",
+      "Recalls that the religions forming Quebec's identity remain predominant.",
+      "Protests against the glorification of a juxtaposition of cultures at the expense of a common culture."
     ]
   },
   {
@@ -555,6 +978,21 @@
       "On va comprendre pourquoi il n'est pas comme nous",
       "Cet appel à l'ouverture",
       "Ce n'est pas un déni de soi, c'est une affirmation, un appel à une affirmation davantage solide fondée sur ce que l'on est"
+    ],
+    "english_translation": "The sole francophone province within an English-speaking North America, Quebec is questioning its identity. The recent arrival of immigrants from all corners of the world makes this a burning issue of the day. A sociologist's study on the new ethics and religious culture course has reignited the debate. Joël Querret denounces the program's multiculturalism. \"It's really the idea that there is no longer a common culture, there is no longer a national identity, there are only cultures side by side. Is it the role of schools to teach multiculturalism for 10 years when in Quebec, the vast majority of people are against multiculturalism?\" The large majority of the population proposes another model of integration, one based on integrating newcomers into a founding culture. Concerned, the Parti Québécois, which fights for an independent Quebec, first demanded the withdrawal of the course, before ultimately advocating for a parliamentary committee on the issue. The program's designers maintain, however, that Catholicism and Protestantism as practiced in Quebec take precedence over the other religious currents taught to students. Philosopher Luc Bégin: \"This is not a denial of self; it is an affirmation, a call for a stronger affirmation based on who we are. Of course, it can have impacts on Quebec identity. From the moment Quebec society opens itself to immigration as it is doing now, one cannot think that there will be no change to this Quebec identity. But what is identity? It is something that is constantly evolving within you.\" According to the program's designer, children learn to engage in dialogue with others and to avoid prejudices. Jean Simon follows the program at the Institut Saint-Joseph in Quebec City: \"If we ever see someone different, who is of another religion, we'll be prepared, we won't reject them because we want to understand why they are that way. We'll understand why they're not like us, why they say yes instead of no. Even if someone asks us something, we have to stay true to who we are, we have to believe what we want to believe, we must not let ourselves be swayed.\" This call for openness doesn't only worry francophones: immigrants are also afraid that their children will assimilate too quickly into Quebec culture. Pascal Guerricola, Quebec City, RFI.",
+    "english_translation_highlights": [
+      "children learn to engage in dialogue with others and to avoid prejudices",
+      "If we ever see someone different, who is of another religion, we'll be prepared, we won't reject them because we want to understand why they are that way",
+      "We'll understand why they're not like us",
+      "This call for openness",
+      "This is not a denial of self; it is an affirmation, a call for a stronger affirmation based on who we are"
+    ],
+    "english_question": "According to the supporters of the new ethics and religious culture program…",
+    "english_options": [
+      "It promotes an inclusive society.",
+      "It comes at the cost of a communicational dissonance.",
+      "It allows students to assimilate into Québécois culture.",
+      "It helps preserve the Québécois identity threatened by multiculturalism."
     ]
   },
   {
@@ -571,6 +1009,18 @@
     "highlights": [
       "On voit de moins en moins d'argent comptant dans l'espace public",
       "de plus en plus de commerces qui le refusent"
+    ],
+    "english_translation": "We see less and less cash in public spaces and more and more businesses that refuse it. What Alexandre from Option consommateurs tells me is that banks want to move toward a system like that because the elimination of cash represents enormous advantages for the banks.",
+    "english_translation_highlights": [
+      "We see less and less cash in public spaces",
+      "more and more businesses that refuse it"
+    ],
+    "english_question": "Based on this extract…",
+    "english_options": [
+      "The volume of cash transactions has dropped.",
+      "The use of cash is widespread in the public space.",
+      "The physical nature and portability of cash remain an asset.",
+      "Cash is increasingly valued by financial institutions."
     ]
   },
   {
@@ -588,6 +1038,19 @@
       "L’objectif de Fola Jummy et ses amis est de pousser les autorités du Nigeria à promouvoir les voitures électriques",
       "promouvoir les voitures électriques",
       "contribuer à la réduction des émissions de carbone dans l’atmosphère"
+    ],
+    "english_translation": "Technology is booming in Nigeria. Mechanical engineering graduates from the University of Lagos have built an electric car. Using locally sourced materials, they were able to put together this means of transportation. The goal of Fola Jummy and his friends is to push Nigerian authorities to promote electric cars, which, according to these students, could contribute to reducing carbon emissions in the atmosphere.",
+    "english_translation_highlights": [
+      "The goal of Fola Jummy and his friends is to push Nigerian authorities to promote electric cars",
+      "promote electric cars",
+      "contribute to reducing carbon emissions in the atmosphere"
+    ],
+    "english_question": "The project in question aims to…",
+    "english_options": [
+      "To encourage youth to pursue research and innovation.",
+      "To encourage electric mobility in the country.",
+      "To increase the means of transportation in the country.",
+      "To promote the use of recycled materials."
     ]
   },
   {
@@ -606,6 +1069,20 @@
       "du moins qui ne figure plus sur les catalogues des tours opérateurs",
       "Pourtant, sur place, la paix est revenue",
       "le pays dispose de nombreux atouts pour le plus grand plaisir des voyageurs"
+    ],
+    "english_translation": "It's a forgotten natural paradise, or at least one that no longer appears in tour operators' catalogs: Sierra Leone. Its image remains associated with civil war and poverty. Yet, on the ground, peace has returned and the country has many assets for the great pleasure of travelers.",
+    "english_translation_highlights": [
+      "Its image remains associated with civil war and poverty",
+      "or at least one that no longer appears in tour operators' catalogs",
+      "Yet, on the ground, peace has returned",
+      "the country has many assets for the great pleasure of travelers"
+    ],
+    "english_question": "This land…",
+    "english_options": [
+      "Has always struggled with being a subject of curiosity.",
+      "Is plagued by tensions and armed conflicts.",
+      "Has a tarnished image due to its tumultuous past.",
+      "Is the favored destination of nature enthusiasts."
     ]
   },
   {
@@ -624,6 +1101,20 @@
       "six millions de dollars pour la reconstruction de l’hôpital Saint-Michel",
       "Inauguré l’an dernier, il fait face aujourd’hui à un manque de personnel, de matériel, de financement aussi",
       "on peut se demander si ce genre de projet est la meilleure façon pour la communauté internationale d’aider un pays comme Haïti"
+    ],
+    "english_translation": "While the world mobilizes to bring emergency aid to the victims of Hurricane Irma in the Caribbean, the time will eventually come to think about reconstruction, as was the case, for example, in Haiti after the terrible earthquake of 2010. A lot of money was invested there, and we went back to see one of the flagship projects of the Canadian Red Cross, funded with your donations collected after the earthquake: six million dollars for the reconstruction of Saint-Michel Hospital in the city of Jacmel. Inaugurated last year, it now faces a shortage of staff, equipment, and funding as well. So, one can wonder whether this kind of project is the best way for the international community to help a country like Haiti.",
+    "english_translation_highlights": [
+      "the time will eventually come to think about reconstruction",
+      "six million dollars for the reconstruction of Saint-Michel Hospital",
+      "Inaugurated last year, it now faces a shortage of staff, equipment, and funding as well",
+      "one can wonder whether this kind of project is the best way for the international community to help a country like Haiti"
+    ],
+    "english_question": "This person…",
+    "english_options": [
+      "Launches an SOS in favor of the victims of the disaster.",
+      "Praises the initiatives of the Red Cross in the region.",
+      "Urges to rebuild the region struck by the disaster.",
+      "Questions the strategy deployed to rebuild Haiti."
     ]
   },
   {
@@ -647,6 +1138,25 @@
       "on lui met dans son logiciel des milliers de photos",
       "Il apprend à reconnaître les formes, les couleurs des déchets",
       "avec ses six bras articulés, il retire tout ce qui ne se recycle pas"
+    ],
+    "english_translation": "Max is a big red six-legged spider that hovers over a conveyor belt. On this belt pass the waste items you have at home in your recycling bin, and Max is trained to remove all the mistakes. Because you sort very well, but you may have neighbors who do whatever they please. Yesterday morning, there was a pair of shoes and a doll on the belt that had no business being there. So the robot learns: thousands of photos are loaded into its software. It learns to recognize the shapes and colors of waste, and with its six articulated arms, it removes everything that can't be recycled.",
+    "english_translation_highlights": [
+      "Max is a big red six-legged spider that hovers over a conveyor belt",
+      "On this belt pass the waste items you have at home in your recycling bin",
+      "Max is trained to remove all the mistakes",
+      "Because you sort very well, but you may have neighbors who do whatever they please",
+      "Yesterday morning, there was a pair of shoes and a doll on the belt that had no business being there",
+      "So the robot learns",
+      "thousands of photos are loaded into its software",
+      "It learns to recognize the shapes and colors of waste",
+      "with its six articulated arms, it removes everything that can't be recycled"
+    ],
+    "english_question": "Which robot…",
+    "english_options": [
+      "Helps keep public spaces clean.",
+      "Provides more details on waste separation.",
+      "Is designed to pick up and empty full bins.",
+      "Recycles used materials with great precision."
     ]
   },
   {
@@ -666,6 +1176,21 @@
       "peut sembler intimidant",
       "Les risques sont donc plus importants pour les personnes allergiques",
       "Avec les changements climatiques, guêpes et frelons seront de plus en plus présents"
+    ],
+    "english_translation": "You may have noticed this insect in your garden. The European hornet is gaining ground in Quebec. Twice as large as a native wasp, it can seem intimidating. Native wasps measure between 7 and 8 millimeters including the antennae, while European hornets measure between eighteen and twenty-five millimeters, up to 40 millimeters including the antennae. The risks are therefore greater for allergic individuals if they get stung. With climate change, wasps and hornets will be increasingly present.",
+    "english_translation_highlights": [
+      "The European hornet is gaining ground in Quebec",
+      "Twice as large as a native wasp",
+      "can seem intimidating",
+      "The risks are therefore greater for allergic individuals",
+      "With climate change, wasps and hornets will be increasingly present"
+    ],
+    "english_question": "Based on this excerpt…",
+    "english_options": [
+      "The European hornet remains harmless.",
+      "The European hornet is a seasonal insect.",
+      "The European hornet could take up residence in Quebec.",
+      "The European hornet derives from a mutation of the native wasp."
     ]
   },
   {
@@ -685,6 +1210,21 @@
       "et c’est ce qui pollue le plus",
       "lorsque les voitures roulent ou pas qu’elles polluent le plus",
       "Donc essayons de trouver des solutions de stationnement pour cela"
+    ],
+    "english_translation": "It's about finding real ways to have a parking space, because eighty percent of vehicles are systematically looking for a spot and driving around in circles, and that's what pollutes the most. Because, if we look at the diesel effect, which is fashionable today, we can see very clearly that the diesel effect today is that it's when cars are driving or not that they pollute the most, not just diesels, but we're talking about diesel in particular. So let's try to find parking solutions for that.",
+    "english_translation_highlights": [
+      "It's about finding real ways to have a parking space",
+      "eighty percent of vehicles are systematically looking for a spot and driving around in circles",
+      "and that's what pollutes the most",
+      "when cars are driving or not that they pollute the most",
+      "So let's try to find parking solutions for that"
+    ],
+    "english_question": "Pollution resulting from transport in the city…",
+    "english_options": [
+      "Is very much akin to a grandstanding effect.",
+      "Is due to poor management of public space.",
+      "Is due to an increase in the number of vehicles.",
+      "Remains mostly associated with a shortage of parking spaces."
     ]
   },
   {
@@ -704,6 +1244,21 @@
       "dernière offensive en date : celle de l’Académie de médecine",
       "Dans un communiqué virulent, elle vient de réclamer l’arrêt total du remboursement des remèdes homéopathiques",
       "dont l’efficacité resterait non approuvée"
+    ],
+    "english_translation": "Remedial session at the University of Lille. Here, homeopathy has been taught for 10 years. Each year, around thirty students take the diploma. Yet this specialization is far from being unanimously supported within the medical profession. The battle is nothing new; the latest offensive comes from the Academy of Medicine. In a scathing statement, it has just called for the complete end of reimbursement for homeopathic remedies, whose effectiveness remains unproven.",
+    "english_translation_highlights": [
+      "this specialization is far from being unanimously supported within the medical profession",
+      "The battle is nothing new",
+      "the latest offensive comes from the Academy of Medicine",
+      "In a scathing statement, it has just called for the complete end of reimbursement for homeopathic remedies",
+      "whose effectiveness remains unproven"
+    ],
+    "english_question": "Regarding this alternative medicine…",
+    "english_options": [
+      "Its delisting from reimbursement has not taken effect.",
+      "The Academy of Medicine has put it in the hot seat.",
+      "Its teaching is approved by the Academy of Medicine.",
+      "Its teaching has become widespread in all universities."
     ]
   },
   {
@@ -727,6 +1282,25 @@
       "Les bureaux vacants du Grand Montréal pourraient remplir l’équivalent d’au moins 13 fois la Place Ville-Marie",
       "cette tendance va prendre de l’ampleur au cours de la prochaine décennie",
       "le travail s’est transformé à jamais"
+    ],
+    "english_translation": "Four years ago, many of you were hearing about it for the first time, and for many, it was love at first sight: remote work. When the world plunged into the pandemic, work was transformed forever. We see it today—when the federal government tries to bring its employees back to the office three days a week, it sparks an uproar. It's one of many signs that remote work wasn't just a temporary solution to the pandemic and that it continues to transform our habits, our cities. Downtown Montreal has never been so quiet. Nearly 20% of office space is unoccupied. That's twice as much empty space as before the pandemic. The impact is lasting. The vacant offices in Greater Montreal could fill the equivalent of at least 13 times Place Ville-Marie, and this trend will only grow over the next decade.",
+    "english_translation_highlights": [
+      "remote work wasn't just a temporary solution to the pandemic",
+      "it continues to transform our habits, our cities",
+      "Downtown Montreal has never been so quiet",
+      "Nearly 20% of office space is unoccupied",
+      "That's twice as much empty space as before the pandemic",
+      "The impact is lasting",
+      "The vacant offices in Greater Montreal could fill the equivalent of at least 13 times Place Ville-Marie",
+      "this trend will only grow over the next decade",
+      "work was transformed forever"
+    ],
+    "english_question": "Remote work…",
+    "english_options": [
+      "Is struggling in Montreal.",
+      "Revitalizes businesses.",
+      "Remains a temporary solution.",
+      "Changes the face of cities."
     ]
   },
   {
@@ -746,6 +1320,21 @@
       "les vents plus chauds que d’habitude ont favorisé la prolifération de ces parasites",
       "les arbres, sans nerfs, sont malades, la qualité des olives laisse à désirer, et les rendements sont beaucoup moins importants, entraînant des pénuries",
       "Ce problème ne se limite pas à l’Italie, que ce soit la sécheresse en Espagne ou encore les inondations et les feux de forêt dévastateurs en Grèce"
+    ],
+    "english_translation": "In Puglia, Italy, olive oil has been produced for centuries. It is a pillar of the region's economy. Today, nearly 15% of the world's production comes from here, but this production is under threat. Luigi D'Amico's olive trees have been ravaged by flies and a destructive bacterium known as Xylella fastidiosa. In recent months, warmer-than-usual winds have encouraged the proliferation of these pests. As a result, the trees are unhealthy, the quality of the olives leaves much to be desired, and yields are much lower, leading to shortages. This problem is not limited to Italy—whether it be drought in Spain or devastating floods and wildfires in Greece.",
+    "english_translation_highlights": [
+      "this production is under threat",
+      "Luigi D'Amico's olive trees have been ravaged by flies and a destructive bacterium",
+      "warmer-than-usual winds have encouraged the proliferation of these pests",
+      "the trees are unhealthy, the quality of the olives leaves much to be desired, and yields are much lower, leading to shortages",
+      "This problem is not limited to Italy—whether it be drought in Spain or devastating floods and wildfires in Greece"
+    ],
+    "english_question": "Which statement is correct regarding olive oil?",
+    "english_options": [
+      "It is not rare on the market.",
+      "Its production is only affected by a bacterium.",
+      "Its production is subject to intensive agricultural practices.",
+      "Its production is jeopardized by the combination of several challenges."
     ]
   }
 ]

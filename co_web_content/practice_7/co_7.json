@@ -14,6 +14,19 @@
       "une part de tarte aux pommes",
       "un gâteau au chocolat",
       "le gâteau au chocolat"
+    ],
+    "english_translation": "Would you prefer a slice of apple pie or a chocolate cake? — I'll have the chocolate cake instead. Thank you.",
+    "english_translation_highlights": [
+      "a slice of apple pie",
+      "a chocolate cake",
+      "the chocolate cake"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_7_images/co-7-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -32,6 +45,20 @@
       "pique-nique",
       "coucher de soleil",
       "magnifique"
+    ],
+    "english_translation": "Do you want to meet by the lake for a picnic? — Yes, that sounds perfect. The sunset is beautiful.",
+    "english_translation_highlights": [
+      "by the lake",
+      "picnic",
+      "sunset",
+      "beautiful"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_7_images/co-7-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -50,6 +77,20 @@
       "de longs cheveux blonds",
       "porte souvent des lunettes",
       "un sourire chaleureux"
+    ],
+    "english_translation": "Have you seen our new colleague? She has long blond hair and often wears glasses. — Yes, I met her yesterday. She has a warm smile.",
+    "english_translation_highlights": [
+      "new colleague",
+      "long blond hair",
+      "often wears glasses",
+      "a warm smile"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_7_images/co-7-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -66,6 +107,18 @@
     "highlights": [
       "musée",
       "expositions d’art contemporain"
+    ],
+    "english_translation": "I booked tickets for the museum, are you interested? — Yes, I love contemporary art exhibitions.",
+    "english_translation_highlights": [
+      "museum",
+      "contemporary art exhibitions"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_7_images/co-7-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -83,6 +136,19 @@
       "en raison de travaux de maintenance",
       "le réseau Wi-Fi sera temporairement indisponible",
       "ce vendredi de 10 heures à 12 heures"
+    ],
+    "english_translation": "Dear customers, due to maintenance work, the Wi-Fi network will be temporarily unavailable this Friday from 10 AM to 12 PM. We apologize for any inconvenience and thank you for your understanding.",
+    "english_translation_highlights": [
+      "due to maintenance work",
+      "the Wi-Fi network will be temporarily unavailable",
+      "this Friday from 10 AM to 12 PM"
+    ],
+    "english_question": "This public announcement…",
+    "english_options": [
+      "informs of a power outage.",
+      "announces an exceptional closure.",
+      "informs of a service interruption.",
+      "offers a new deal."
     ]
   },
   {
@@ -99,6 +165,18 @@
     "highlights": [
       "la navette pour l’aéroport partira exceptionnellement du quai numéro 5 aujourd’hui",
       "en raison de travaux sur le quai habituel"
+    ],
+    "english_translation": "Dear passengers, please note that the airport shuttle will exceptionally depart from platform number 5 today, due to construction work on the usual platform. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "the airport shuttle will exceptionally depart from platform number 5 today",
+      "due to construction work on the usual platform"
+    ],
+    "english_question": "This public announcement…",
+    "english_options": [
+      "announces a change of location.",
+      "informs of a cancellation.",
+      "offers a discount.",
+      "indicates a permanent closure."
     ]
   },
   {
@@ -116,6 +194,19 @@
       "l’exposition temporaire Les Couleurs du Temps fermera ses portes ce dimanche à 18 h",
       "fermera ses portes",
       "Profitez des derniers jours"
+    ],
+    "english_translation": "Ladies and gentlemen, we would like to remind you that the temporary exhibition Colors of Time will be closing its doors this Sunday at 6 PM. Take advantage of the last few days to discover this unique collection at the Museum of Fine Arts.",
+    "english_translation_highlights": [
+      "the temporary exhibition Colors of Time will be closing its doors this Sunday at 6 PM",
+      "will be closing its doors",
+      "Take advantage of the last few days"
+    ],
+    "english_question": "This public announcement…",
+    "english_options": [
+      "invites to an inauguration.",
+      "informs of the end of an exhibition.",
+      "offers a guided tour.",
+      "announces an event extension."
     ]
   },
   {
@@ -133,6 +224,19 @@
       "nous avons prolongé l’horaire de la piscine municipale jusqu’à 22 heures ce samedi",
       "prolongé",
       "jusqu’à 22 heures"
+    ],
+    "english_translation": "Dear customers, due to high demand, we have extended the municipal pool hours until 10 PM this Saturday. Take advantage of it for a relaxing evening.",
+    "english_translation_highlights": [
+      "we have extended the municipal pool hours until 10 PM this Saturday",
+      "extended",
+      "until 10 PM"
+    ],
+    "english_question": "This public announcement…",
+    "english_options": [
+      "informs of an early closure.",
+      "announces a closure for renovations.",
+      "announces an extension of hours.",
+      "offers a sports activity."
     ]
   },
   {
@@ -150,6 +254,19 @@
       "Je voulais juste te dire que",
       "j’ai déposé les documents que tu m’as demandés à l’accueil",
       "Tu pourras les récupérer quand tu veux"
+    ],
+    "english_translation": "Hi Marc, it's Justine. I just wanted to let you know that I dropped off the documents you asked me for at the front desk. You can pick them up whenever you want.",
+    "english_translation_highlights": [
+      "I just wanted to let you know that",
+      "I dropped off the documents you asked me for at the front desk",
+      "You can pick them up whenever you want"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "inform about the availability of documents.",
+      "schedule an appointment at the reception.",
+      "ask for help to submit documents.",
+      "cancel a meeting at the reception."
     ]
   },
   {
@@ -167,6 +284,19 @@
       "Je voulais savoir si vous pouviez confirmer",
       "notre rendez-vous de jeudi prochain à 10 heures",
       "Si ce n’est pas possible, faites-le-moi savoir"
+    ],
+    "english_translation": "Hello Mr. Lefebvre, this is Sarah. I wanted to know if you could confirm our appointment next Thursday at 10 o'clock. If that's not possible, please let me know. Thank you.",
+    "english_translation_highlights": [
+      "I wanted to know if you could confirm",
+      "our appointment next Thursday at 10 o'clock",
+      "If that's not possible, please let me know"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "schedule an appointment for Thursday.",
+      "cancel an appointment.",
+      "confirm an appointment.",
+      "change the time of an appointment."
     ]
   },
   {
@@ -184,6 +314,19 @@
       "Je t’appelle pour te prévenir que je serai un peu en retard ce soir",
       "je serai un peu en retard",
       "Je te rejoindrai directement au restaurant"
+    ],
+    "english_translation": "Hi Thomas, it's Julie. I'm calling to let you know that I'll be a little late tonight. I'll meet you directly at the restaurant. See you later.",
+    "english_translation_highlights": [
+      "I'm calling to let you know that I'll be a little late tonight",
+      "I'll be a little late",
+      "I'll meet you directly at the restaurant"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "cancel a restaurant appointment.",
+      "report a delay.",
+      "suggest another meeting place.",
+      "confirm a restaurant reservation."
     ]
   },
   {
@@ -202,6 +345,20 @@
       "Je vous appelle pour vous informer que",
       "le livre que vous avez commandé est arrivé",
       "Vous pouvez venir le chercher quand vous le souhaitez"
+    ],
+    "english_translation": "Hello Mrs. Dupont, this is Martin from the bookstore. I'm calling to let you know that the book you ordered has arrived. You can come pick it up whenever you like. Have a good day.",
+    "english_translation_highlights": [
+      "this is Martin from the bookstore",
+      "I'm calling to let you know that",
+      "the book you ordered has arrived",
+      "You can come pick it up whenever you like"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "announce the arrival of a book.",
+      "set up an appointment at the bookstore.",
+      "request feedback on the order.",
+      "propose a new order."
     ]
   },
   {
@@ -220,6 +377,20 @@
       "tu dois passer à la pharmacie",
       "pour récupérer tes médicaments",
       "Ils sont prêts depuis ce matin"
+    ],
+    "english_translation": "Hello Claire, it's Paul. Just to remind you that you need to stop by the pharmacy to pick up your medication. They've been ready since this morning. If you have any issues, let me know.",
+    "english_translation_highlights": [
+      "Just to remind you that",
+      "you need to stop by the pharmacy",
+      "to pick up your medication",
+      "They've been ready since this morning"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "schedule an appointment at the pharmacy.",
+      "remind of a task to be completed.",
+      "ask for help picking up medications.",
+      "inform of a problem with the order."
     ]
   },
   {
@@ -236,6 +407,18 @@
     "highlights": [
       "le dîner de ce soir est reporté à demain",
       "même heure, même endroit"
+    ],
+    "english_translation": "Hi Mathieu, it's Sophie. I wanted to let you know that tonight's dinner has been postponed to tomorrow, same time, same place. I hope that works for you. We'll keep in touch. Talk later.",
+    "english_translation_highlights": [
+      "tonight's dinner has been postponed to tomorrow",
+      "same time, same place"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "cancel a dinner.",
+      "confirm a dinner.",
+      "change the location of the dinner.",
+      "postpone the dinner to a later time."
     ]
   },
   {
@@ -255,6 +438,21 @@
       "Quand on vise un objectif ambitieux, on ne peut pas compter les heures",
       "Mon projet est tellement important pour moi",
       "je suis prêt à repousser certaines activités personnelles pour le mener à bien"
+    ],
+    "english_translation": "Everyone says you need to take time for yourself. I believe there are moments in life when you have to go the extra mile. When you're aiming for an ambitious goal, you can't count the hours. My project is so important to me that I'm willing to put aside certain personal activities to see it through.",
+    "english_translation_highlights": [
+      "Everyone says you need to take time for yourself",
+      "there are moments in life when you have to go the extra mile",
+      "When you're aiming for an ambitious goal, you can't count the hours",
+      "My project is so important to me",
+      "I'm willing to put aside certain personal activities to see it through"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that it is necessary to make sacrifices to succeed.",
+      "thinks that it is necessary to find a balance between work and free time.",
+      "considers that professional success should not encroach on free time.",
+      ""
     ]
   },
   {
@@ -275,6 +473,22 @@
       "je veille toujours à réserver du temps pour me ressourcer",
       "passer des moments avec mes proches",
       "À quoi bon réussir si on ne peut pas en profiter avec ceux qu'on aime"
+    ],
+    "english_translation": "It's true that success requires effort, but I don't think it should come at the expense of one's health or personal relationships. I sometimes work late, but I always make sure to set aside time to recharge and spend moments with my loved ones. What's the point of succeeding if you can't enjoy it with the people you love?",
+    "english_translation_highlights": [
+      "success requires effort",
+      "I don't think it should come at the expense of one's health or personal relationships",
+      "I sometimes work late",
+      "I always make sure to set aside time to recharge",
+      "spend moments with my loved ones",
+      "What's the point of succeeding if you can't enjoy it with the people you love"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that it is necessary to make sacrifices to succeed.",
+      "thinks that it is necessary to find a balance between work and free time.",
+      "considers that professional success should not encroach on free time.",
+      ""
     ]
   },
   {
@@ -293,6 +507,20 @@
       "Le travail est important, bien sûr",
       "je ne veux pas me retrouver à regretter d'avoir laissé passer des moments précieux simplement pour gravir quelques échelons professionnels",
       "se plonger corps et âme dans leur travail au point de ne plus rien voir d'autre"
+    ],
+    "english_translation": "I've seen people around me throw themselves body and soul into their work to the point of no longer seeing anything else. For my part, I prefer to slow down and savor life. Work is important, of course, but I don't want to end up regretting having let precious moments pass by simply to climb a few rungs on the professional ladder.",
+    "english_translation_highlights": [
+      "I prefer to slow down and savor life",
+      "Work is important, of course",
+      "I don't want to end up regretting having let precious moments pass by simply to climb a few rungs on the professional ladder",
+      "throw themselves body and soul into their work to the point of no longer seeing anything else"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that it is necessary to make sacrifices to succeed.",
+      "thinks that it is necessary to find a balance between work and free time.",
+      "considers that professional success should not encroach on free time.",
+      ""
     ]
   },
   {
@@ -313,6 +541,22 @@
       "pour éviter les maladies avant qu'elles n'apparaissent",
       "la prévention peut éviter bien des soucis",
       "Une fois qu'une maladie est là, le traitement est certes important, mais la prévention"
+    ],
+    "english_translation": "For me, prevention is the key to maintaining good health in the long term. Adopting a healthy lifestyle, having regular check-ups, and avoiding risk factors are essential measures to prevent diseases before they appear. Once a disease is present, treatment is certainly important, but prevention can avoid a lot of problems.",
+    "english_translation_highlights": [
+      "For me, prevention is the key",
+      "to maintaining good health in the long term",
+      "Adopting a healthy lifestyle, having regular check-ups, and avoiding risk factors are essential measures",
+      "to prevent diseases before they appear",
+      "prevention can avoid a lot of problems",
+      "Once a disease is present, treatment is certainly important, but prevention"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that prevention is essential to avoid diseases.",
+      "thinks that treating diseases is more crucial than prevention.",
+      "considers that prevention and treatment are equally important.",
+      ""
     ]
   },
   {
@@ -332,6 +576,21 @@
       "quand on est confronté à une pathologie",
       "Parfois, même avec une excellente prévention, les maladies surviennent",
       "il est crucial d'avoir des traitements efficaces"
+    ],
+    "english_translation": "I understand the importance of prevention, but I firmly believe that the treatment of diseases is what truly matters when one is faced with a pathology. Sometimes, even with excellent prevention, diseases occur, and it is crucial to have effective treatments to deal with them and care for patients.",
+    "english_translation_highlights": [
+      "I understand the importance of prevention, but",
+      "I firmly believe that the treatment of diseases is what truly matters",
+      "when one is faced with a pathology",
+      "Sometimes, even with excellent prevention, diseases occur",
+      "it is crucial to have effective treatments"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that prevention is essential to avoid diseases.",
+      "thinks that treating diseases is more crucial than prevention.",
+      "considers that prevention and treatment are equally important.",
+      ""
     ]
   },
   {
@@ -351,6 +610,21 @@
       "mais il est également nécessaire d'avoir des traitements efficaces",
       "pour les maladies qui peuvent survenir malgré toutes les précautions",
       "Il faut donc équilibrer les efforts entre la prévention et le traitement"
+    ],
+    "english_translation": "I think both aspects are important. Prevention helps reduce risks and maintain good health, but it is also necessary to have effective treatments for diseases that can occur despite all precautions. Therefore, efforts must be balanced between prevention and treatment.",
+    "english_translation_highlights": [
+      "I think both aspects are important",
+      "Prevention helps reduce risks and maintain good health",
+      "but it is also necessary to have effective treatments",
+      "for diseases that can occur despite all precautions",
+      "Therefore, efforts must be balanced between prevention and treatment"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that prevention is essential to avoid diseases.",
+      "thinks that treating diseases is more crucial than prevention.",
+      "considers that prevention and treatment are equally important.",
+      ""
     ]
   },
   {
@@ -371,6 +645,22 @@
       "Le maire, pris entre deux feux",
       "a finalement décidé de reporter la décision",
       "Cette situation illustre bien les défis auxquels sont confrontées les autorités locales lorsqu'il s'agit de concilier des intérêts parfois opposés"
+    ],
+    "english_translation": "In many cases, decisions made by local authorities are often influenced by political, economic, and social considerations. Take the recent example of a city in the south of France where an urban development project was suspended following pressure from various interest groups. Residents were concerned about the environmental impact of the project, while local entrepreneurs saw it as an opportunity to revitalize the economy. The mayor, caught between two fires, ultimately decided to postpone the decision, citing the need for more public consultations. This situation clearly illustrates the challenges faced by local authorities when it comes to reconciling sometimes opposing interests.",
+    "english_translation_highlights": [
+      "decisions made by local authorities are often influenced by political, economic, and social considerations",
+      "an urban development project was suspended following pressure from various interest groups",
+      "Residents were concerned about the environmental impact of the project, while local entrepreneurs saw it as an opportunity to revitalize the economy",
+      "The mayor, caught between two fires",
+      "ultimately decided to postpone the decision",
+      "This situation clearly illustrates the challenges faced by local authorities when it comes to reconciling sometimes opposing interests"
+    ],
+    "english_question": "The author of this column",
+    "english_options": [
+      "describes the difficulty for local authorities in reconciling divergent interests.",
+      "criticizes local entrepreneurs for their lack of environmental consideration.",
+      "defends the mayor's decision to suspend the urban development project.",
+      "supports the importance of public consultations for urban projects."
     ]
   },
   {
@@ -391,6 +681,22 @@
       "le déséquilibre de ce fragile écosystème, souvent dû à une mauvaise alimentation ou à l'utilisation excessive d'antibiotiques, peut entraîner des conséquences négatives pour la santé",
       "Les scientifiques cherchent maintenant à développer des thérapies ciblées pour restaurer l'équilibre du microbiome",
       "avec l'espoir de prévenir et de traiter une gamme de maladies"
+    ],
+    "english_translation": "The study of microbiomes, those communities of microorganisms living in symbiosis with their host, has revolutionized our understanding of human health. Researchers have discovered that the diversity of bacteria present in the gut plays a crucial role in regulating the immune system. In particular, certain bacterial strains are linked to chronic diseases, while others can protect against serious infections. However, the imbalance of this fragile ecosystem, often caused by poor diet or the excessive use of antibiotics, can lead to negative health consequences. Scientists are now seeking to develop targeted therapies to restore the balance of the microbiome, with the hope of preventing and treating a range of diseases.",
+    "english_translation_highlights": [
+      "The study of microbiomes, those communities of microorganisms living in symbiosis with their host, has revolutionized our understanding of human health",
+      "the diversity of bacteria present in the gut plays a crucial role in regulating the immune system",
+      "certain bacterial strains are linked to chronic diseases, while others can protect against serious infections",
+      "the imbalance of this fragile ecosystem, often caused by poor diet or the excessive use of antibiotics, can lead to negative health consequences",
+      "Scientists are now seeking to develop targeted therapies to restore the balance of the microbiome",
+      "with the hope of preventing and treating a range of diseases"
+    ],
+    "english_question": "This column mainly explains that",
+    "english_options": [
+      "intestinal bacteria are solely responsible for serious infections.",
+      "antibiotics are essential for maintaining a healthy microbiome.",
+      "the study of the microbiome has paved the way for new therapeutic approaches.",
+      "a balanced diet has no impact on microbiological health."
     ]
   },
   {
@@ -412,6 +718,23 @@
       "Les conditions doivent être extrêmement précises, et il reste encore beaucoup à apprendre.",
       "C'est une possibilité que les scientifiques prennent très au sérieux.",
       "Cependant, il est important de souligner que"
+    ],
+    "english_translation": "Today we dive into the mysteries of the universe in the company of Dr. Lemoine, an expert in astrophysics. Recently, scientists have made fascinating discoveries about exoplanets. Dr. Lemoine, can you explain to us why these discoveries are so crucial for our understanding of the cosmos? — Of course. The recent discoveries about exoplanets, that is, planets outside our solar system, are revolutionary for several reasons. First, they expand our knowledge of the conditions under which Earth-like planets can exist. We have discovered planets that are located in what is called the habitable zone of their star, that is, a region where liquid water could exist, which is essential for life as we know it. — Does this mean that we could find life elsewhere in the universe? — It is a possibility that scientists take very seriously. However, it is important to emphasize that detecting a planet in the habitable zone does not guarantee that it harbors life. The conditions must be extremely precise, and there is still much to learn. What is exciting is that these discoveries bring us closer to answering this great question: are we alone in the universe?",
+    "english_translation_highlights": [
+      "The recent discoveries about exoplanets, that is, planets outside our solar system, are revolutionary for several reasons.",
+      "First, they expand our knowledge of the conditions under which Earth-like planets can exist.",
+      "We have discovered planets that are located in what is called the habitable zone of their star, that is, a region where liquid water could exist, which is essential for life as we know it.",
+      "detecting a planet in the habitable zone does not guarantee that it harbors life.",
+      "The conditions must be extremely precise, and there is still much to learn.",
+      "It is a possibility that scientists take very seriously.",
+      "However, it is important to emphasize that"
+    ],
+    "english_question": "Why are recent discoveries about exoplanets considered revolutionary?",
+    "english_options": [
+      "They prove that Earth is unique in the universe.",
+      "They show that all exoplanets are habitable.",
+      "They allow us to better understand the conditions that make life possible.",
+      "They confirm that life exists on other planets."
     ]
   },
   {
@@ -431,6 +754,21 @@
       "ce qui est essentiel pour la vie telle que nous la connaissons",
       "la détection d'une planète dans la zone habitable ne garantit pas qu'elle abrite de la vie",
       "Les conditions doivent être extrêmement précises"
+    ],
+    "english_translation": "Today we dive into the mysteries of the universe in the company of Dr. Lemoine, an expert in astrophysics. Recently, scientists have made fascinating discoveries about exoplanets. Dr. Lemoine, can you explain to us why these discoveries are so crucial for our understanding of the cosmos? — Of course. The recent discoveries about exoplanets, that is, planets outside our solar system, are revolutionary for several reasons. First, they expand our knowledge of the conditions under which Earth-like planets can exist. We have discovered planets that are located in what is called the habitable zone of their star, that is, a region where liquid water could exist, which is essential for life as we know it. — Does this mean that we could find life elsewhere in the universe? — It is a possibility that scientists take very seriously. However, it is important to emphasize that detecting a planet in the habitable zone does not guarantee that it harbors life. The conditions must be extremely precise, and there is still much to learn. What is exciting is that these discoveries bring us closer to answering this great question: are we alone in the universe?",
+    "english_translation_highlights": [
+      "We have discovered planets that are located in what is called the habitable zone of their star",
+      "that is, a region where liquid water could exist",
+      "which is essential for life as we know it",
+      "detecting a planet in the habitable zone does not guarantee that it harbors life",
+      "The conditions must be extremely precise"
+    ],
+    "english_question": "What is one of the essential conditions for a planet to be considered potentially habitable?",
+    "english_options": [
+      "It must be located at a fixed distance from Earth.",
+      "It must be in the \"habitable zone\" of its star.",
+      "It must be the same size as Earth.",
+      "It must have advanced life forms."
     ]
   },
   {
@@ -450,6 +788,21 @@
       "Cela a permis d'améliorer la précision des diagnostics",
       "L'IA reste un outil qui nécessite une supervision humaine",
       "il est crucial que les médecins continuent de jouer un rôle central dans le processus de diagnostic"
+    ],
+    "english_translation": "Today, we have the pleasure of welcoming Mr. Lefebvre, director of the technological innovation center. Good morning, Mr. Lefebvre. — Could you tell us about recent advances in the field of artificial intelligence applied to medicine? — Good morning. Yes, of course. Over the past five years, we have witnessed significant progress, particularly with regard to AI-assisted medical diagnosis. For example, algorithms are now capable of analyzing thousands of medical images in a matter of seconds, identifying anomalies that might escape the human eye. This has improved the accuracy of diagnoses, thereby reducing the number of incorrect diagnoses. — That sounds revolutionary. But are there limitations to these technologies? — Absolutely. AI remains a tool that requires human supervision. The systems can sometimes misinterpret data, and it is crucial that doctors continue to play a central role in the diagnostic process. Moreover, there are ethical concerns related to patient data confidentiality that must be carefully considered.",
+    "english_translation_highlights": [
+      "algorithms are now capable of analyzing thousands of medical images in a matter of seconds",
+      "identifying anomalies that might escape the human eye",
+      "This has improved the accuracy of diagnoses",
+      "AI remains a tool that requires human supervision",
+      "it is crucial that doctors continue to play a central role in the diagnostic process"
+    ],
+    "english_question": "What is the main advantage of AI algorithms in medicine according to Mr. Lefèvre?",
+    "english_options": [
+      "They completely replace doctors in diagnosis.",
+      "They reduce the cost of medical treatments.",
+      "They can quickly analyze a large number of medical images.",
+      "They make patient treatment faster."
     ]
   },
   {
@@ -469,6 +822,21 @@
       "il est crucial que les médecins continuent de jouer un rôle central dans le processus de diagnostic",
       "il y a des préoccupations éthiques liées à la confidentialité des données patients",
       "qui doivent être soigneusement considérées"
+    ],
+    "english_translation": "Today, we have the pleasure of welcoming Mr. Lefebvre, director of the technological innovation center. Hello, Mr. Lefebvre. — Could you tell us about recent advances in the field of artificial intelligence applied to medicine? — Hello. Yes, of course. Over the past five years, we have witnessed significant progress, particularly with regard to AI-assisted medical diagnosis. For example, algorithms are now capable of analyzing thousands of medical images in just a few seconds, identifying anomalies that might escape the human eye. This has helped improve diagnostic accuracy, thereby reducing the number of misdiagnoses. — That sounds revolutionary. But are there limits to these technologies? — Absolutely. AI remains a tool that requires human oversight. The systems can sometimes misinterpret data, and it is crucial that doctors continue to play a central role in the diagnostic process. Furthermore, there are ethical concerns related to patient data confidentiality that must be carefully considered.",
+    "english_translation_highlights": [
+      "AI remains a tool that requires human oversight",
+      "The systems can sometimes misinterpret data",
+      "it is crucial that doctors continue to play a central role in the diagnostic process",
+      "there are ethical concerns related to patient data confidentiality",
+      "that must be carefully considered"
+    ],
+    "english_question": "What is the main concern regarding the use of AI in medicine according to Mr. Lefèvre?",
+    "english_options": [
+      "The system always interprets data incorrectly.",
+      "The difficulty of obtaining medical data.",
+      "Potential errors in data interpretation.",
+      "The rapid obsolescence of technologies."
     ]
   },
   {
@@ -484,6 +852,17 @@
     "right_option": "B",
     "highlights": [
       "la perception du Canada comme un pays accueillant, avec une politique d'immigration relativement ouverte"
+    ],
+    "english_translation": "Today, we welcome Mr. Dupuis, a specialist in migration issues, to discuss the recent increase in migrant arrivals in Canada. — Mr. Dupuis, can you explain the main causes of this influx? — Of course. Several factors explain this influx. First, the geopolitical situation in certain regions of the world is driving many people to seek refuge in more stable countries like Canada. Then, there is the perception of Canada as a welcoming country, with a relatively open immigration policy. Finally, the need for labor in certain Canadian economic sectors also attracts migrants seeking opportunities. — Does this influx pose particular challenges for Canada? — Absolutely. Although Canada has a tradition of welcoming newcomers, the rapid increase in arrivals can put a strain on infrastructure, particularly in terms of housing, healthcare, and education. Moreover, the integration of newcomers requires ongoing efforts, both on the part of the migrants and Canadian institutions.",
+    "english_translation_highlights": [
+      "the perception of Canada as a welcoming country, with a relatively open immigration policy"
+    ],
+    "english_question": "What is one of the main reasons why Canada is perceived as an attractive destination by migrants?",
+    "english_options": [
+      "The English language is widely spoken there.",
+      "Canada has a relatively open immigration policy.",
+      "The climate is favorable all year round.",
+      "Salaries there are the highest in the world."
     ]
   },
   {
@@ -501,6 +880,19 @@
       "l'augmentation rapide des arrivées peut mettre à rude épreuve les infrastructures, notamment en matière de logement, de santé et d'éducation",
       "l'intégration des nouveaux arrivants nécessite des efforts continus",
       "tant du côté des migrants que des institutions canadiennes"
+    ],
+    "english_translation": "Today, we welcome Mr. Dupuis, a specialist in migration issues, to discuss the recent increase in migrant arrivals in Canada. — Mr. Dupuis, can you explain the main causes of this influx? — Of course. Several factors explain this influx. First, the geopolitical situation in certain regions of the world is driving many people to seek refuge in more stable countries like Canada. Then, there is the perception of Canada as a welcoming country, with a relatively open immigration policy. Finally, the need for labor in certain Canadian economic sectors also attracts migrants seeking opportunities. — Does this influx pose particular challenges for Canada? — Absolutely. Although Canada has a tradition of welcoming newcomers, the rapid increase in arrivals can put a strain on infrastructure, particularly in terms of housing, health care, and education. Moreover, the integration of newcomers requires continuous efforts, both on the part of the migrants and Canadian institutions.",
+    "english_translation_highlights": [
+      "the rapid increase in arrivals can put a strain on infrastructure, particularly in terms of housing, health care, and education",
+      "the integration of newcomers requires continuous efforts",
+      "both on the part of the migrants and Canadian institutions"
+    ],
+    "english_question": "What is one of the major challenges that Canada must address in the face of the influx of migrants?",
+    "english_options": [
+      "The management of national borders.",
+      "The lack of natural resources to meet the needs of migrants.",
+      "Ensuring the social cohesion of newcomers within Canadian society.",
+      "The control of inflation due to the arrival of new workers."
     ]
   },
   {
@@ -525,6 +917,26 @@
       "il faut absolument que nos vagues soient protégées",
       "Il faut les protéger et éviter que des projets d’entreprises privées ne détruisent les sites sur lesquels on peut pratiquer",
       "d’autres pays de la région ont suivi son exemple"
+    ],
+    "english_translation": "Lima is not known for its beauty, except when you reach its view of the ocean, dotted with numerous surfers. Yet this iconic landscape of the capital could well have disappeared in 2016 if the waves of four of its beaches had not been protected by the breakwater law. Javier Amaya, who runs a surf school in Lima, says he is relieved by this measure. — It's important for us, because we were able to see that after breakwater projects were carried out, the geography of the beaches could change, and the shape of the waves as well. The instructor also notes that biodiversity had been affected, particularly through the disappearance of a seaweed used in the recipe for ceviche. But in order to protect a wave under this law, its significance must be proven through a technical assessment carried out by an independent oceanographer. It is the Asla por Tu Ola campaign that works to gather the funds to finance this process. Carolina Butrich, coordinator of the campaign, looks back at the conditions that allowed Peru to become the first country in the world to protect its waves: — We had been negotiating for thirteen years on how to implement the law, when Peru won the Pan American Games at Punta Rocas beach. Now, at that time, this beach was threatened by the construction of a jetty. The Peruvian surf team, the athletes, and a few people from the federation's leadership then took advantage of being invited to Congress to say: \"Thank you very much for this honorable invitation, but our waves absolutely must be protected.\" Peru is indeed among the most renowned countries for surfing, particularly thanks to a beach in the north of the country, in the village of Malabrigo, which is home to Chicama, the longest left-hand wave in the world. Victor Vessino, a surfer for twenty years, maintains that Peruvian waves have something exceptional in their consistency: — All year round, we have waves with good shape, good size, and a lot of power. So they are perfect for learning to surf. We need to protect them and prevent private company projects from destroying the sites where we can practice. The wave protection system in Peru seems to be bearing fruit, as other countries in the region have followed its example: Chile, Panama, Uruguay, and since April 2024, Ecuador.",
+    "english_translation_highlights": [
+      "had not been protected by the breakwater law",
+      "It's important for us",
+      "the geography of the beaches could change, and the shape of the waves as well",
+      "biodiversity had been affected",
+      "its significance must be proven through a technical assessment carried out by an independent oceanographer",
+      "Peru won the Pan American Games at Punta Rocas beach",
+      "this beach was threatened by the construction of a jetty",
+      "our waves absolutely must be protected",
+      "We need to protect them and prevent private company projects from destroying the sites where we can practice",
+      "other countries in the region have followed its example"
+    ],
+    "english_question": "What was the main objective of the breakwater law adopted in Peru?",
+    "english_options": [
+      "Preserve beaches for tourism.",
+      "Protect waves for surfing and the marine ecosystem.",
+      "Increase the number of international surfers.",
+      "Reduce ocean pollution."
     ]
   },
   {
@@ -541,6 +953,18 @@
     "highlights": [
       "après la réalisation de projets de brise-lames, la géographie des plages a pu changer, et la forme des vagues aussi",
       "la biodiversité avait alors été affectée"
+    ],
+    "english_translation": "Lima is not known for its beauty, except when you reach its view of the ocean, dotted with numerous surfers. Yet this iconic landscape of the capital could well have disappeared in 2016 if the waves of four of its beaches had not been protected by the breakwater law. Javier Amaya, who runs a surf school in Lima, says he is relieved by this measure. — It's important for us, because we were able to see that after breakwater projects were carried out, the geography of the beaches could change, and the shape of the waves as well. The instructor also notes that biodiversity had been affected, particularly through the disappearance of a seaweed used in the ceviche recipe. But in order to protect a wave under this law, its significance must be proven through a technical assessment carried out by an independent oceanographer. It is the Asla por Tu Ola campaign that works to gather the funds to finance this process. Carolina Butrich, coordinator of the campaign, looks back at the conditions that allowed Peru to become the first country in the world to protect its waves: — We had been negotiating the terms of implementation of the law for thirteen years, when Peru won the Pan American Games at Punta Rocas beach. Now, at that time, this beach was threatened by the construction of a jetty. The Peruvian surf team, the athletes, and a few people from the federation's leadership then took advantage of being invited to Congress to say: \"Thank you very much for this honorable invitation, but our waves absolutely need to be protected.\" Peru is indeed among the most renowned countries for surfing, particularly thanks to a beach in the north of the country, in the village of Malabrigo, which is home to Chicama, the longest left-hand wave in the world. Victor Vessino, who has been surfing for twenty years, assures that Peruvian waves have something exceptional in their consistency: — All year round, we have waves with good shape, good size, and a lot of power. So they are perfect for learning to surf. We need to protect them and prevent private company projects from destroying the sites where we can practice. The wave protection system in Peru seems to be bearing fruit, as other countries in the region have followed its example: Chile, Panama, Uruguay, and since April 2024, Ecuador.",
+    "english_translation_highlights": [
+      "after breakwater projects were carried out, the geography of the beaches could change, and the shape of the waves as well",
+      "biodiversity had been affected"
+    ],
+    "english_question": "According to Javier Amaya, how has the breakwater law affected the beaches?",
+    "english_options": [
+      "It led to a reduction in the number of waves.",
+      "It changed the geography of the beaches and the shape of the waves.",
+      "It improved the quality of the seawater.",
+      "It allowed the creation of new beaches."
     ]
   },
   {
@@ -559,6 +983,20 @@
       "environ, qui est à poste égal et à expérience égale",
       "c'est ce qu'on appelle la discrimination pure",
       "même avec la même expérience, et en faisant un même poste avec les mêmes responsabilités, les femmes sont payées en moyenne 10 % de moins que les hommes"
+    ],
+    "english_translation": "The gender pay gap is still a reality in 2021. — How do you estimate this gap? — Absolutely. Well, it's not us who estimate the gap. We actually take a figure produced by Eurostat, which is the European statistics agency, which shows that there is a pay gap between women and men, on a full-time equivalent basis, of around 16.5%. When we talk about the pay gap in France, or anywhere else in the world for that matter, you can use many different figures. For me, there are three that help explain three different realities: this figure of 16.5%, on a full-time equivalent basis; there is also a figure that is around 10% or so, which is for equal positions and equal experience — this is what we call pure discrimination. This means that even with the same experience, and doing the same job with the same responsibilities, women are paid on average 10% less than men. And then there is this last figure, which is around 25% or so, produced by INSEE, which shows that there is a pay gap — and in this case, it's across all positions combined, all working hours.",
+    "english_translation_highlights": [
+      "a figure that is around 10%",
+      "or so, which is for equal positions and equal experience",
+      "this is what we call pure discrimination",
+      "even with the same experience, and doing the same job with the same responsibilities, women are paid on average 10% less than men"
+    ],
+    "english_question": "What is the percentage difference in salary for the same position and experience, which represents pure discrimination?",
+    "english_options": [
+      "16.5%",
+      "10%",
+      "25%",
+      "30%"
     ]
   },
   {
@@ -576,6 +1014,19 @@
       "l'artiste a dessinée, puis transformée en la déformant et en la recouvrant de couches de lettres accumulées",
       "en la déformant et en la recouvrant de couches de lettres accumulées",
       "La main a été transformée en une sorte de monstre noir, composé de mots incompréhensibles et désordonnés"
+    ],
+    "english_translation": "This work by the English artist currently residing in Germany, Tony Cragg, is a monumental bronze sculpture he called Manipulation. Manipulation is an explicit reference to a hand that the artist drew, then transformed by distorting it and covering it with layers of accumulated letters. Cragg says: the hand is a beautifully articulated form. The hand has been transformed into a kind of black monster, composed of incomprehensible and disordered words, a tentacular beast, the fruit of a strange manipulation. Paul Claudel wrote: \"Order is the pleasure of reason, but disorder is the delight of the imagination.\" Try to think about that.",
+    "english_translation_highlights": [
+      "the artist drew, then transformed by distorting it and covering it with layers of accumulated letters",
+      "by distorting it and covering it with layers of accumulated letters",
+      "The hand has been transformed into a kind of black monster, composed of incomprehensible and disordered words"
+    ],
+    "english_question": "How did Tony Cragg modify the shape of the hand in his sculpture?",
+    "english_options": [
+      "By painting it in bright colors",
+      "By modifying it and masking it with accumulated letters",
+      "By sculpting it in marble",
+      "By cutting it into pieces"
     ]
   },
   {
@@ -595,6 +1046,21 @@
       "Un montant astronomique que le texte du Sénat explique en particulier par les traitements médicaux appliqués aux personnes atteintes par cette pollution atmosphérique",
       "Il explique également par une mortalité accrue : quarante-deux mille morts prématurés chaque année en France",
       "par l'absentéisme en entreprise également"
+    ],
+    "english_translation": "Under our microscope now: air pollution is costly for French taxpayers. Very costly, even. That is the conclusion of a senatorial report made public today, a report that recommends swift measures. One hundred and one billion euros — a little more, even — is what CO₂ emissions and other fine particles would cost France, and that, every year. An astronomical amount that the Senate text explains in particular by the medical treatments administered to people affected by this air pollution. It also explains it by increased mortality: forty-two thousand premature deaths every year in France, and by workplace absenteeism as well.",
+    "english_translation_highlights": [
+      "air pollution is costly for French taxpayers",
+      "One hundred and one billion euros — a little more, even — is what CO₂ emissions and other fine particles would cost France, and that, every year",
+      "An astronomical amount that the Senate text explains in particular by the medical treatments administered to people affected by this air pollution",
+      "It also explains it by increased mortality: forty-two thousand premature deaths every year in France",
+      "and by workplace absenteeism as well"
+    ],
+    "english_question": "What is the most significant impact of air pollution according to the report?",
+    "english_options": [
+      "The degradation of buildings",
+      "Absenteeism in the workplace",
+      "The increase in mortality",
+      "The decline in profitability in the agricultural sector"
     ]
   },
   {
@@ -616,6 +1082,23 @@
       "de réduire leur stress",
       "Bien sûr, il y a des avantages",
       "il y a aussi des côtés négatifs"
+    ],
+    "english_translation": "You know, with the health crisis, remote work has become unavoidable for many of us. Before, it was rather rare, but now it's almost the norm. Of course, there are advantages, like no longer wasting time commuting and having more flexibility. But there are also downsides: for example, some people feel more loneliness, and it's sometimes difficult to separate work and personal life. That said, the majority of people still say that remote work has allowed them to be more productive and reduce their stress.",
+    "english_translation_highlights": [
+      "the majority of people still say that remote work has allowed them to be more productive",
+      "no longer wasting time commuting and having more flexibility",
+      "some people feel more loneliness",
+      "it's sometimes difficult to separate work and personal life",
+      "reduce their stress",
+      "Of course, there are advantages",
+      "there are also downsides"
+    ],
+    "english_question": "Based on what is said, remote work",
+    "english_options": [
+      "is mainly perceived as a source of stress by employees.",
+      "makes it difficult to distinguish between professional and personal life.",
+      "was only used by a minority during the crisis.",
+      "has allowed most people to be more productive."
     ]
   },
   {
@@ -634,6 +1117,20 @@
       "en installant de la terre et en installant des végétaux, on vient tout simplement consommer la pollution",
       "les plantes se nourrissent finalement de CO₂",
       "on vient quelque part améliorer la qualité de l'air en ville"
+    ],
+    "english_translation": "In an urban farm in Paris, for example, you can find two production methods: agroecology, inspired by the principles of permaculture, and hydroponics, a soilless cultivation technique. In practical terms, the plants grow in water, used in a closed circuit to consume as little as possible. So, these two practices are extremely complementary and both make a lot of sense. That's why we selected them. Growing in open soil is actually perhaps the one that has the most benefits for the city, because by installing soil and plants, you simply end up absorbing pollution, since plants ultimately feed on CO₂, and in a way you end up improving the air quality in the city.",
+    "english_translation_highlights": [
+      "Growing in open soil is actually perhaps the one that has the most benefits for the city",
+      "by installing soil and plants, you simply end up absorbing pollution",
+      "plants ultimately feed on CO₂",
+      "in a way you end up improving the air quality in the city"
+    ],
+    "english_question": "According to the person interviewed, one of the advantages of outdoor cultivation is",
+    "english_options": [
+      "the reduction of water needs.",
+      "the decrease of pollution and thus improving air quality.",
+      "the decrease of production costs.",
+      "the ease of installation in small spaces."
     ]
   },
   {
@@ -651,6 +1148,19 @@
       "il y a des défis",
       "comme la protection des données personnelles",
       "Les citoyens doivent être informés sur comment leurs informations sont utilisées"
+    ],
+    "english_translation": "Smart cities are an increasingly popular concept. Advanced technologies are used to improve the quality of life for residents. For example, traffic lights can now adapt in real time to traffic to avoid congestion. But despite these innovations, there are challenges, such as the protection of personal data. Citizens must be informed about how their information is used.",
+    "english_translation_highlights": [
+      "there are challenges",
+      "such as the protection of personal data",
+      "Citizens must be informed about how their information is used"
+    ],
+    "english_question": "Based on what is stated, one of the major concerns in smart cities is",
+    "english_options": [
+      "the increase in traffic jams.",
+      "real-time traffic management.",
+      "personal data can be disclosed.",
+      "the installation of new technologies."
     ]
   },
   {
@@ -674,6 +1184,25 @@
       "cette chaleur est récupérée pour chauffer de l'eau",
       "distribuée autour de moi, dans la serre, pour chauffer la serre",
       "c'est un autre intérêt qu'on voit, nous, dans l'association de serre en toiture dans des milieux urbains : c'est de venir réutiliser"
+    ],
+    "english_translation": "We are consumers of waste, since in order to bring fertilization to our soils, we can consume urban waste. For example: coffee grounds from Parisian brasseries, beer spent grain from beer brewers, mushroom trimmings from mushroom producers. The greenhouse allows us to tame the vagaries of the climate a little. So, when there were periods of frost, we didn't suffer from it, because it's true that in a greenhouse, we were protected from that climate. And we protected ourselves from that climate by reusing an urban heat source, which is that of a data center located in the basement of the building. All these computer servers emit a tremendous amount of heat, and that heat is recovered to heat water, which is distributed around me, in the greenhouse, to heat the greenhouse. And so, it's true that this is another benefit that we see in combining rooftop greenhouses in urban environments: it's about reusing—",
+    "english_translation_highlights": [
+      "The greenhouse allows us to tame the vagaries of the climate a little",
+      "when there were periods of frost, we didn't suffer from it",
+      "because it's true that in a greenhouse, we were protected from that climate",
+      "we protected ourselves from that climate by reusing an urban heat source",
+      "an urban heat source, which is that of a data center",
+      "All these computer servers emit a tremendous amount of heat",
+      "that heat is recovered to heat water",
+      "distributed around me, in the greenhouse, to heat the greenhouse",
+      "this is another benefit that we see in combining rooftop greenhouses in urban environments: it's about reusing—"
+    ],
+    "english_question": "Based on what is stated, one advantage of using greenhouses in urban areas is",
+    "english_options": [
+      "the reduction of frost periods.",
+      "the reuse of heat from existing urban sources.",
+      "the use of urban waste to fertilize soils.",
+      "the decrease in costs related to agricultural production."
     ]
   },
   {
@@ -691,6 +1220,19 @@
       "certains trouvent que cela peut rendre difficile la séparation entre le temps de travail et le temps libre",
       "rendre difficile la séparation entre le temps de travail et le temps libre",
       "Mais certains trouvent que cela peut rendre difficile"
+    ],
+    "english_translation": "You have surely noticed that more and more companies are offering flexible work. This means that you can choose your working hours or even work remotely. This has obvious advantages, such as a better work-life balance. But some find that it can make it difficult to separate work time from free time.",
+    "english_translation_highlights": [
+      "some find that it can make it difficult to separate work time from free time",
+      "make it difficult to separate work time from free time",
+      "But some find that it can make it difficult"
+    ],
+    "english_question": "A disadvantage of flexible working is",
+    "english_options": [
+      "the difficulty of balancing work and personal life.",
+      "the reduction of working hours.",
+      "work and free time are inseparable.",
+      "the decrease in productivity."
     ]
   },
   {
@@ -708,6 +1250,19 @@
       "les produits locaux ont souvent meilleur goût et conservent plus de nutriments",
       "conservent plus de nutriments",
       "réduire l'empreinte carbone liée au transport des aliments"
+    ],
+    "english_translation": "The current trend in nutrition is to favor local and seasonal foods. This not only helps support local producers, but also reduces the carbon footprint associated with food transportation. Moreover, local products often taste better and retain more nutrients. Large supermarkets are even beginning to offer entire sections dedicated to local products.",
+    "english_translation_highlights": [
+      "local products often taste better and retain more nutrients",
+      "retain more nutrients",
+      "reduces the carbon footprint associated with food transportation"
+    ],
+    "english_question": "According to the speech, one advantage of local foods is",
+    "english_options": [
+      "their lower cost.",
+      "their better preservation.",
+      "their better nutritional quality.",
+      "their availability throughout the year."
     ]
   },
   {
@@ -725,6 +1280,19 @@
       "certains critiquent la rémunération insuffisante des artistes sur ces plateformes",
       "Les revenus générés ne sont pas toujours équitables pour les créateurs",
       "Cela permet de découvrir facilement de nouveaux artistes"
+    ],
+    "english_translation": "With the rise of streaming platforms, the way we consume music has changed a lot. Instead of buying albums, we listen to tracks via streaming. This makes it easy to discover new artists, but some criticize the insufficient compensation of artists on these platforms. The revenue generated is not always fair for creators.",
+    "english_translation_highlights": [
+      "some criticize the insufficient compensation of artists on these platforms",
+      "The revenue generated is not always fair for creators",
+      "This makes it easy to discover new artists"
+    ],
+    "english_question": "According to the speech, a problem with streaming platforms is",
+    "english_options": [
+      "the difficulty of discovering new artists.",
+      "the fact that artists are not sufficiently compensated.",
+      "artists are not compensated at all.",
+      "the high cost of subscriptions."
     ]
   }
 ]

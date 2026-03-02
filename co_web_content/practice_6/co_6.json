@@ -18,6 +18,23 @@
       "nous allons le prendre en charge tout de suite",
       "Je vais examiner ses poumons",
       "voir s'ils présentent d'autres symptômes"
+    ],
+    "english_translation": "\"My dog looks sick, he's having trouble breathing. He's also very tired and has barely been eating since yesterday.\"\n\n\"Okay, we'll take care of him right away. I'm going to examine his lungs and see if there are any other symptoms.\"",
+    "english_translation_highlights": [
+      "My dog looks sick",
+      "he's having trouble breathing",
+      "He's also very tired",
+      "has barely been eating since yesterday",
+      "we'll take care of him right away",
+      "I'm going to examine his lungs",
+      "see if there are any other symptoms"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_6_images/co-6-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -39,6 +56,23 @@
       "contrôle visuel",
       "correction",
       "travaillez sur écran"
+    ],
+    "english_translation": "\"For the past few weeks, I've been getting headaches at the end of the day. I think my glasses are no longer suited. My vision is getting blurry, especially for reading.\" \"All right, we'll do a complete eye exam.\" \"If necessary, we'll adjust the prescription. This often happens after a few years, especially if you work on a screen.\"",
+    "english_translation_highlights": [
+      "headaches",
+      "glasses",
+      "vision is getting blurry",
+      "reading",
+      "eye exam",
+      "prescription",
+      "work on a screen"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_6_images/co-6-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -60,6 +94,23 @@
       "déplacée temporairement",
       "produits sans gluten",
       "en face du rayon confiture"
+    ],
+    "english_translation": "\"Excuse me, I'm looking for the organic whole wheat flour. I can't find it in the usual aisle, only the regular white flour and semolina.\" \"It's been temporarily moved next to the gluten-free products, just across from the jam aisle.\" \"I can walk you there if you'd like.\"",
+    "english_translation_highlights": [
+      "organic whole wheat flour",
+      "usual aisle",
+      "regular white flour",
+      "semolina",
+      "temporarily moved",
+      "gluten-free products",
+      "across from the jam aisle"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_6_images/co-6-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -79,6 +130,21 @@
       "suivi budgétaire",
       "prévisionnels et réalisés",
       "ajuster en temps réel"
+    ],
+    "english_translation": "\"This quarter, we really need to improve our budget tracking. The gaps between forecasts and actuals are still too significant.\" \"We could do a monthly review with each department head to adjust in real time. That would help avoid any unpleasant surprises.\"",
+    "english_translation_highlights": [
+      "monthly review",
+      "department head",
+      "budget tracking",
+      "forecasts and actuals",
+      "adjust in real time"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_6_images/co-6-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -97,6 +163,20 @@
       "permettant de maximiser le rendement de votre portefeuille",
       "tout en réduisant les risques",
       "grâce à une gestion dynamique basée sur des modèles économiques avancés"
+    ],
+    "english_translation": "We offer you a flexible investment solution that maximizes the return on your portfolio while reducing risks through dynamic management based on advanced economic models.",
+    "english_translation_highlights": [
+      "We offer you a flexible investment solution",
+      "that maximizes the return on your portfolio",
+      "while reducing risks",
+      "through dynamic management based on advanced economic models"
+    ],
+    "english_question": "This message concerns:",
+    "english_options": [
+      "Dynamic risk management through advanced economic models.",
+      "An investment offering with tailored portfolio management.",
+      "Maximizing portfolio returns with risk solutions.",
+      "A flexible investment solution to maximize returns."
     ]
   },
   {
@@ -115,6 +195,20 @@
       "permet une personnalisation poussée des parcours éducatifs",
       "avec des modules interactifs et des évaluations en temps réel",
       "afin d'assurer une progression optimale des étudiants tout au long de leur formation"
+    ],
+    "english_translation": "Our e-learning platform enables extensive personalization of educational pathways, with interactive modules and real-time assessments, to ensure optimal student progression throughout their training.",
+    "english_translation_highlights": [
+      "Our e-learning platform",
+      "enables extensive personalization of educational pathways",
+      "with interactive modules and real-time assessments",
+      "to ensure optimal student progression throughout their training"
+    ],
+    "english_question": "This message concerns:",
+    "english_options": [
+      "The optimization of student progression through interactive modules.",
+      "The personalization of educational paths on the e-learning platform.",
+      "An e-learning platform with real-time assessments.",
+      "The adaptation of courses based on student needs on an online platform."
     ]
   },
   {
@@ -132,6 +226,19 @@
       "pour votre sécurité",
       "il est strictement interdit de laisser vos bagages sans surveillance dans les zones publiques de l'aéroport",
       "Si vous apercevez un objet abandonné, merci de prévenir immédiatement un membre du personnel de sécurité"
+    ],
+    "english_translation": "We remind you that, for your safety and the smooth running of your travels, it is strictly forbidden to leave your luggage unattended in the public areas of the airport. If you notice an abandoned item, please immediately notify a member of the security staff.",
+    "english_translation_highlights": [
+      "for your safety",
+      "it is strictly forbidden to leave your luggage unattended in the public areas of the airport",
+      "If you notice an abandoned item, please immediately notify a member of the security staff"
+    ],
+    "english_question": "This message concerns:",
+    "english_options": [
+      "The procedure in case of abandoned luggage.",
+      "The monitoring of luggage by passengers.",
+      "The safety of passengers in the airport.",
+      "The restrictions on objects in public areas."
     ]
   },
   {
@@ -151,6 +258,21 @@
       "en raison des travaux de maintenance",
       "Nous nous excusons pour tout inconvénient",
       "vous remercions de votre compréhension et de votre patience"
+    ],
+    "english_translation": "Please pay attention to the upcoming announcements regarding adjustments to the train schedule due to maintenance work. We apologize for any inconvenience and thank you for your understanding and patience.",
+    "english_translation_highlights": [
+      "Please pay attention to the upcoming announcements",
+      "regarding adjustments to the train schedule",
+      "due to maintenance work",
+      "We apologize for any inconvenience",
+      "thank you for your understanding and patience"
+    ],
+    "english_question": "This message concerns:",
+    "english_options": [
+      "The possible delays related to maintenance work.",
+      "The regular maintenance of metro infrastructures.",
+      "The apologies for public transportation disruptions.",
+      "The adjustments of train schedules due to construction work."
     ]
   },
   {
@@ -168,6 +290,19 @@
       "Je souhaitais faire un point rapide sur les documents que vous avez transmis hier",
       "Certains éléments nécessitent clarification",
       "avant notre réunion prévue vendredi"
+    ],
+    "english_translation": "Hello Mr. Lemoine, this is Claire Béranger from the legal department at Novalex. I wanted to do a quick review of the documents you sent over yesterday. Some elements require clarification before our meeting scheduled for Friday. Could you call me back as soon as possible?",
+    "english_translation_highlights": [
+      "I wanted to do a quick review of the documents you sent over yesterday",
+      "Some elements require clarification",
+      "before our meeting scheduled for Friday"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Contest a contract.",
+      "Request clarifications on documents.",
+      "Cancel Friday's meeting.",
+      "Forward an urgent file."
     ]
   },
   {
@@ -187,6 +322,21 @@
       "lequel pourrait être réaffecté",
       "selon une approche opportuniste",
       "dans le respect d'une logique de préservation du capital initial"
+    ],
+    "english_translation": "Hello, I am contacting you to reconsider a wealth management configuration related to a dormant portfolio, which could be reallocated following an opportunistic approach, but always in keeping with a logic of preserving the initial capital.",
+    "english_translation_highlights": [
+      "I am contacting you to reconsider a wealth management configuration",
+      "related to a dormant portfolio",
+      "which could be reallocated",
+      "following an opportunistic approach",
+      "in keeping with a logic of preserving the initial capital"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Convert an inactive portfolio to cash.",
+      "Close a savings product.",
+      "Redeploy capital into active management.",
+      "Optimize estate tax planning."
     ]
   },
   {
@@ -204,6 +354,19 @@
       "Je me permets de revenir vers vous concernant les écarts constatés dans les flux de trésorerie prévisionnels",
       "Une révision dynamique des hypothèses sous-jacentes serait peut-être à envisager",
       "avant la prochaine clôture intermédiaire"
+    ],
+    "english_translation": "Hello, I am reaching out to you again regarding the discrepancies noted in the projected cash flows. A dynamic revision of the underlying assumptions might be worth considering before the next interim closing.",
+    "english_translation_highlights": [
+      "I am reaching out to you again regarding the discrepancies noted in the projected cash flows",
+      "A dynamic revision of the underlying assumptions might be worth considering",
+      "before the next interim closing"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Verify an external audit.",
+      "Review an investment strategy.",
+      "Readjust a forecasted cash flow plan.",
+      "Reconcile historical accounting data."
     ]
   },
   {
@@ -221,6 +384,19 @@
       "nous vous proposons d'avancer notre entretien",
       "prévu initialement la semaine prochaine",
       "Suite à l'évolution du calendrier fiscal"
+    ],
+    "english_translation": "Hello Mrs. Mercier, this is Paul André from the firm Mercure Associés. Due to changes in the tax calendar, we would like to suggest moving up our meeting originally scheduled for next week. Please let me know your availability.",
+    "english_translation_highlights": [
+      "we would like to suggest moving up our meeting",
+      "originally scheduled for next week",
+      "Due to changes in the tax calendar"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Change the nature of the interview.",
+      "Move up an initially scheduled appointment.",
+      "Confirm an existing date.",
+      "Propose an additional interview."
     ]
   },
   {
@@ -239,6 +415,20 @@
       "Avant validation finale, il est impératif que nous échangions ensemble",
       "ajustements importants",
       "cahier des charges"
+    ],
+    "english_translation": "Hello Mrs. Delmas, this is Fabien from the company Vecto. The steering committee has decided to make significant adjustments to the specifications. Before final approval, it is imperative that we discuss this together. Please contact me back quickly.",
+    "english_translation_highlights": [
+      "The steering committee has decided to make significant adjustments to the specifications",
+      "Before final approval, it is imperative that we discuss this together",
+      "significant adjustments",
+      "specifications"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Introduce a new supplier.",
+      "Inform about changes in an ongoing project.",
+      "Reject a business proposal.",
+      "Prepare a confidential meeting."
     ]
   },
   {
@@ -256,6 +446,19 @@
       "Je voulais te prévenir que",
       "la réunion de demain a été avancée à 9 heures",
       "a été avancée"
+    ],
+    "english_translation": "Hi, it's Jeanne. I wanted to let you know that tomorrow's meeting has been moved up to 9 o'clock. If that's a problem for you, let me know; otherwise, I'll see you there. Thanks and talk soon.",
+    "english_translation_highlights": [
+      "I wanted to let you know that",
+      "tomorrow's meeting has been moved up to 9 o'clock",
+      "has been moved up"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Confirm the meeting time.",
+      "Inform about changes in an ongoing project.",
+      "Propose another time for the meeting.",
+      "Announce a time change for the meeting."
     ]
   },
   {
@@ -269,7 +472,16 @@
     ],
     "audio_transcript": "",
     "right_option": "A",
-    "highlights": []
+    "highlights": [],
+    "english_translation": "",
+    "english_translation_highlights": [],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, financial stability ensures long-term security.",
+      "It depends on each person's perspective.",
+      "I have no opinion.",
+      ""
+    ]
   },
   {
     "question_no": 16,
@@ -282,7 +494,16 @@
     ],
     "audio_transcript": "",
     "right_option": "B",
-    "highlights": []
+    "highlights": [],
+    "english_translation": "",
+    "english_translation_highlights": [],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, financial stability ensures long-term security.",
+      "It depends on each person's perspective.",
+      "I have no opinion.",
+      ""
+    ]
   },
   {
     "question_no": 17,
@@ -295,7 +516,16 @@
     ],
     "audio_transcript": "",
     "right_option": "C",
-    "highlights": []
+    "highlights": [],
+    "english_translation": "",
+    "english_translation_highlights": [],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, financial stability ensures long-term security.",
+      "It depends on each person's perspective.",
+      "I have no opinion.",
+      ""
+    ]
   },
   {
     "question_no": 18,
@@ -311,6 +541,18 @@
     "highlights": [
       "J'éprouve un grand plaisir à flâner dans les musées",
       "que je privilégie dès que l'occasion se présente"
+    ],
+    "english_translation": "I take great pleasure in strolling through museums. It is a moment of intellectual elevation and artistic contemplation that I cherish whenever the opportunity arises.",
+    "english_translation_highlights": [
+      "I take great pleasure in strolling through museums",
+      "that I cherish whenever the opportunity arises"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, as often as possible.",
+      "Occasionally, depending on the exhibitions.",
+      "Rarely, it doesn't really appeal to me.",
+      ""
     ]
   },
   {
@@ -331,6 +573,22 @@
       "mais ce n'est pas une habitude ancrée",
       "J'apprécie de découvrir ce qui m'entoure quand l'occasion se présente",
       "sans pour autant que cela fasse partie de mes habitudes régulières"
+    ],
+    "english_translation": "If an exhibition seems interesting to me, or if a friend suggests a visit, I'm happy to go along, but it's not an ingrained habit. I enjoy discovering what's around me when the opportunity arises, without it necessarily being part of my regular routine.",
+    "english_translation_highlights": [
+      "If an exhibition seems interesting to me",
+      "or if a friend suggests a visit",
+      "I'm happy to go along",
+      "but it's not an ingrained habit",
+      "I enjoy discovering what's around me when the opportunity arises",
+      "without it necessarily being part of my regular routine"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, as often as possible.",
+      "Occasionally, depending on the exhibitions.",
+      "Rarely, it doesn't really appeal to me.",
+      ""
     ]
   },
   {
@@ -347,6 +605,18 @@
     "highlights": [
       "ne m'a jamais vraiment captivé",
       "J'ai toujours trouvé que l'expérience prenait tout son sens lorsqu'elle est vécue pleinement, en mouvement et non observée à travers un filtre"
+    ],
+    "english_translation": "The idea of standing frozen in front of objects or works as if in a still frame has never really captivated me. I've always found that the experience takes on its full meaning when it is fully lived, in motion, and not observed through a filter.",
+    "english_translation_highlights": [
+      "has never really captivated me",
+      "I've always found that the experience takes on its full meaning when it is fully lived, in motion, and not observed through a filter"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Yes, as often as possible.",
+      "Occasionally, depending on the exhibitions.",
+      "Rarely, it doesn't really appeal to me.",
+      ""
     ]
   },
   {
@@ -362,6 +632,17 @@
     "right_option": "D",
     "highlights": [
       "certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple"
+    ],
+    "english_translation": "Travel agencies allow people who are not used to traveling to be guided, advised, and directed in their choice of destination, as well as their flight and hotel bookings. But clearly, they are also a trap, as they charge premium prices for services that clients can find two or three times cheaper online. Furthermore, agencies often offer accommodations in their partner hotels, which are not necessarily the best or the best located. Finally, some agencies, under the pretext of advising inexperienced travelers, sell services that the client does not necessarily need, such as guide services for example.",
+    "english_translation_highlights": [
+      "some agencies, under the pretext of advising inexperienced travelers, sell services that the client does not necessarily need, such as guide services for example"
+    ],
+    "english_question": "What criticism is made of travel agencies regarding guide services?",
+    "english_options": [
+      "They offer experienced guides at competitive prices.",
+      "They impose guide services on inexperienced travelers.",
+      "They only recommend guides that are necessary for travelers.",
+      "They charge clients for unnecessary guide services."
     ]
   },
   {
@@ -383,6 +664,23 @@
       "en anglais le quantified self",
       "le pèse-personne connecté enregistre votre poids au jour le jour",
       "vous permet de retrouver les données sur votre mobile via une application dédiée"
+    ],
+    "english_translation": "It is in the field of health that we find the greatest number of connected objects. It must be said that human physiological data constitutes a tremendous field of investigation. The parameters to monitor are numerous, and technology today makes it possible to quantify all of this in real time: this is the famous phenomenon of self-measurement, known in English as the quantified self. For example, the connected scale records your weight day by day and allows you to retrieve the data on your mobile via a dedicated application. It even goes further today with the measurement of heart rate through the feet—yes, it works—the CO₂ level in the room, or even the announcement of the weather forecast for the day. Another type of health equipment is the connected blood pressure monitor, intended for those who suffer from cardiovascular diseases and who need to monitor their blood pressure on a daily basis. This type of product costs less than a hundred euros each. And then there are also all sorts of small accessories for certain conditions that are...",
+    "english_translation_highlights": [
+      "It is in the field of health that we find the greatest number of connected objects",
+      "human physiological data constitutes a tremendous field of investigation",
+      "technology today makes it possible to quantify all of this in real time",
+      "this is the famous phenomenon of self-measurement",
+      "known in English as the quantified self",
+      "the connected scale records your weight day by day",
+      "allows you to retrieve the data on your mobile via a dedicated application"
+    ],
+    "english_question": "What phenomenon is being referred to when talking about daily weight measurement recorded by a connected object?",
+    "english_options": [
+      "Self-assessment",
+      "Empowerment",
+      "Self-measurement",
+      "Automation"
     ]
   },
   {
@@ -402,6 +700,21 @@
       "le stress",
       "une alimentation tardive et l'absence de routine de sommeil sont des facteurs clés",
       "Ces éléments perturbent notre horloge biologique et altèrent la qualité de notre sommeil"
+    ],
+    "english_translation": "Welcome everyone. Today we are talking about sleep, essential to our health. To discuss this, we have Doctor Lucas Martin, a sleep specialist. Thank you for being with us, Doctor. Thank you for the invitation, it's a pleasure to talk about this important topic. Why is sleep so crucial for our well-being? Sleep allows the brain to process information, eliminate toxins, and regulate emotions. It also plays a vital role in physical repair and strengthening the immune system. What are the main factors that disrupt our sleep? Screens before bed, stress, late eating, and the lack of a sleep routine are key factors. These elements disrupt our biological clock and impair the quality of our sleep.",
+    "english_translation_highlights": [
+      "Sleep allows the brain to process information, eliminate toxins, and regulate emotions",
+      "It also plays a vital role in physical repair and strengthening the immune system",
+      "stress",
+      "late eating, and the lack of a sleep routine are key factors",
+      "These elements disrupt our biological clock and impair the quality of our sleep"
+    ],
+    "english_question": "According to Dr. Martin, lack of sleep can lead to:",
+    "english_options": [
+      "An increase in cholesterol and vision disorders.",
+      "Stress, concentration disorders and chronic diseases.",
+      "Loss of bone density and difficulty digesting lipids.",
+      "Early onset of neurodegenerative diseases."
     ]
   },
   {
@@ -422,6 +735,22 @@
       "l'absence de routine de sommeil",
       "des facteurs clés",
       "Ces éléments perturbent notre horloge biologique et altèrent la qualité de notre sommeil"
+    ],
+    "english_translation": "Welcome, everyone. Today, we're talking about sleep, which is essential to our health. To discuss this, we have Doctor Lucas Martin, a sleep specialist. Thank you for being with us, Doctor. Thank you for the invitation; it's a pleasure to talk about this important topic. Why is sleep so crucial for our well-being? Sleep allows the brain to process information, eliminate toxins, and regulate emotions. It also plays a vital role in physical repair and strengthening the immune system. What are the main factors that disrupt our sleep? Screens before bed, stress, late-night eating, and the lack of a sleep routine are key factors. These elements disrupt our biological clock and impair the quality of our sleep.",
+    "english_translation_highlights": [
+      "Screens before bed",
+      "stress",
+      "late-night eating",
+      "the lack of a sleep routine",
+      "key factors",
+      "These elements disrupt our biological clock and impair the quality of our sleep"
+    ],
+    "english_question": "According to Dr. Martin, the main factor that disrupts sleep is:",
+    "english_options": [
+      "Prolonged exposure to blue light from screens before sleeping.",
+      "Excessive consumption of animal proteins in the evening.",
+      "Lack of oxygenation in the sleeping space.",
+      "Prolonged use of non-prescribed sedatives."
     ]
   },
   {
@@ -442,6 +771,22 @@
       "Non seulement en tant qu'idéal moral, mais aussi comme un impératif politique",
       "la philosophie doit intervenir",
       "Les avancées numériques soulèvent des questions éthiques et existentielles que seule une réflexion philosophique rigoureuse peut éclairer"
+    ],
+    "english_translation": "Ladies and gentlemen, today we have the honor of welcoming philosopher and professor emeritus Jean-Philippe Rousseau. Mr. Rousseau, thank you for joining us to discuss the contributions of modern philosophy to today's society. Thank you for your invitation. Philosophy, far from being an abstract discipline, has profound implications for the way we understand the great existential, political, and social questions. It continues to influence the foundations of our contemporary thought. What role does modern philosophy play in contemporary debates on freedom and individual autonomy? Modern philosophy, particularly through thinkers such as Kant and Foucault, sheds light on the question of autonomy—not only as a moral ideal, but also as a political imperative. It examines the balance between individual freedom and social constraints, which remains a central subject in our contemporary societies. Do you think modern philosophy is still relevant in the face of today's technological and digital challenges? Absolutely. And it is precisely in these moments of rapid technological evolution that philosophy must intervene. Digital advances raise ethical and existential questions that only rigorous philosophical reflection can illuminate, such as the question of human nature in the age of artificial intelligence and mass surveillance.",
+    "english_translation_highlights": [
+      "It examines the balance between individual freedom and social constraints",
+      "which remains a central subject in our contemporary societies",
+      "Modern philosophy, particularly through thinkers such as Kant and Foucault, sheds light on the question of autonomy",
+      "not only as a moral ideal, but also as a political imperative",
+      "philosophy must intervene",
+      "Digital advances raise ethical and existential questions that only rigorous philosophical reflection can illuminate"
+    ],
+    "english_question": "According to Mr. Rousseau, modern philosophy helps to:",
+    "english_options": [
+      "Define a new conception of artificial intelligence.",
+      "Question the relationship between individual freedom and social constraints.",
+      "Resolve internal political conflicts in contemporary societies.",
+      "Eliminate social and economic inequalities."
     ]
   },
   {
@@ -463,6 +808,23 @@
       "Elle interroge l'équilibre entre la liberté individuelle et les contraintes sociales",
       "la question de l'autonomie",
       "un impératif politique"
+    ],
+    "english_translation": "Ladies and gentlemen, today we have the honor of welcoming philosopher and professor emeritus Jean-Philippe Rousseau. Mr. Rousseau, thank you for joining us to discuss the contributions of modern philosophy in today's society. Thank you for your invitation. Philosophy, far from being an abstract discipline, has profound implications for how we understand the great existential, political, and social questions. It continues to influence the foundations of our contemporary thought. What role does modern philosophy play in contemporary debates on freedom and individual autonomy? Modern philosophy, particularly through thinkers like Kant or Foucault, sheds light on the question of autonomy — not only as a moral ideal, but also as a political imperative. It examines the balance between individual freedom and social constraints, which remains a central issue in our contemporary societies. Do you believe that modern philosophy is still relevant in the face of today's technological and digital challenges? Absolutely. And it is precisely in these moments of rapid technological evolution that philosophy must step in. Digital advances raise ethical and existential questions that only rigorous philosophical reflection can illuminate, such as the question of human nature in the age of artificial intelligence and mass surveillance.",
+    "english_translation_highlights": [
+      "modern philosophy is still relevant in the face of today's technological and digital challenges",
+      "it is precisely in these moments of rapid technological evolution that philosophy must step in",
+      "Digital advances raise ethical and existential questions that only rigorous philosophical reflection can illuminate",
+      "the question of human nature in the age of artificial intelligence and mass surveillance",
+      "It examines the balance between individual freedom and social constraints",
+      "the question of autonomy",
+      "a political imperative"
+    ],
+    "english_question": "According to Mr. Rousseau, modern philosophy is particularly relevant today for:",
+    "english_options": [
+      "Manage the impact of new technologies on individual autonomy.",
+      "Promote technological progress through ethical reflection.",
+      "Create new political systems for the digital era.",
+      "Reconcile ideological divergences in contemporary society."
     ]
   },
   {
@@ -482,6 +844,21 @@
       "ce qui fragilise les institutions multilatérales",
       "D'autre part, la question du changement climatique et des inégalités économiques mondiales nécessite une coopération renforcée et des mécanismes de gouvernance plus efficaces",
       "les défis globaux, comme la santé publique mondiale ou la crise climatique, imposent une coopération"
+    ],
+    "english_translation": "Today, we are addressing a topic of global significance: global governance and its contemporary challenges. To discuss this, we have the honor of welcoming Ms. Claire Dupuis, an expert in geopolitics and a specialist in international relations. Ms. Dupuis, thank you for coming. It's a pleasure to be here. The question of global governance is of paramount importance in the current context of multipolarity and growing interdependence among nations. In your view, what are the main challenges that global governance must face today? The challenges are numerous. On one hand, there is the rise of unilateralism and geopolitical tensions between major powers, which weakens multilateral institutions. On the other hand, the issue of climate change and global economic inequalities requires strengthened cooperation and more effective governance mechanisms. Is international cooperation still viable in the face of sometimes divergent national interests? That is the entire question. National interests may sometimes seem irreconcilable, but the reality is that global challenges, such as global public health or the climate crisis, demand cooperation. It is these collective issues that should compel nations to find common ground despite their differences.",
+    "english_translation_highlights": [
+      "The challenges are numerous.",
+      "On one hand, there is the rise of unilateralism and geopolitical tensions between major powers",
+      "which weakens multilateral institutions",
+      "On the other hand, the issue of climate change and global economic inequalities requires strengthened cooperation and more effective governance mechanisms",
+      "global challenges, such as global public health or the climate crisis, demand cooperation"
+    ],
+    "english_question": "According to Mrs. Dupuis, one of the main challenges of global governance is:",
+    "english_options": [
+      "The management of international migration flows.",
+      "The political instability of democratic regimes.",
+      "The democratization of new technologies.",
+      "The rise of unilateralism and geopolitical tensions."
     ]
   },
   {
@@ -500,6 +877,20 @@
       "Ce sont ces enjeux collectifs qui devraient obliger les nations à trouver des terrains d'entente malgré leurs divergences.",
       "imposent une coopération",
       "obliger les nations à trouver des terrains d'entente malgré leurs divergences"
+    ],
+    "english_translation": "Today, we are addressing a topic of global scope: global governance and its contemporary challenges. To discuss this, we have the honor of welcoming Mrs. Claire Dupuis, an expert in geopolitics and a specialist in international relations. Mrs. Dupuis, thank you for coming. It's a pleasure to be here. The question of global governance is of paramount importance in the current context of multipolarity and growing interdependence among nations. In your view, what are the main challenges that global governance must face today? The challenges are numerous. On one hand, there is the rise of unilateralism and geopolitical tensions between major powers, which weakens multilateral institutions. On the other hand, the issue of climate change and global economic inequalities requires strengthened cooperation and more effective governance mechanisms. Is international cooperation still viable in the face of sometimes divergent national interests? That is the whole question. National interests may sometimes seem irreconcilable, but the reality is that global challenges, such as worldwide public health or the climate crisis, demand cooperation. It is these collective issues that should compel nations to find common ground despite their differences.",
+    "english_translation_highlights": [
+      "National interests may sometimes seem irreconcilable, but the reality is that global challenges, such as worldwide public health or the climate crisis, demand cooperation.",
+      "It is these collective issues that should compel nations to find common ground despite their differences.",
+      "demand cooperation",
+      "compel nations to find common ground despite their differences"
+    ],
+    "english_question": "According to Mrs. Dupuis, can international cooperation succeed despite divergent national interests?",
+    "english_options": [
+      "No, because the tensions between world powers are too strong.",
+      "Yes, but only within the framework of limited intergovernmental organizations.",
+      "Yes, provided that global issues, such as the climate crisis, necessitate cooperation.",
+      "No, because nations prefer to isolate themselves."
     ]
   },
   {
@@ -517,6 +908,19 @@
       "Offrant des transactions décentralisées et anonymes, elles attirent de plus en plus d'utilisateurs à la recherche de nouvelles opportunités d'investissement et de moyens alternatifs de paiement",
       "des transactions décentralisées et anonymes",
       "attirent de plus en plus d'utilisateurs"
+    ],
+    "english_translation": "The Rise of Cryptocurrencies and the Challenges of Financial Regulation. Since the creation of Bitcoin in 2009, cryptocurrencies have experienced a spectacular rise, transforming the financial industry and challenging traditional monetary systems. Offering decentralized and anonymous transactions, they are attracting more and more users seeking new investment opportunities and alternative means of payment. However, this technological revolution comes with significant risks. Cryptocurrencies are often associated with illicit activities such as money laundering and terrorism financing, due to their relative anonymity and the lack of regulation. Financial authorities worldwide are faced with a dilemma: how to regulate this new form of currency while preserving its innovative nature? Some countries have adopted strict regulations, such as China, banning all cryptocurrency-related activities, while others, like the United States, opt for a more moderate approach aimed at protecting investors without stifling innovation. Traditional financial institutions, for their part, are trying to adapt by creating their own solutions based on blockchain technology, while monitoring market developments. The future of cryptocurrencies will largely depend on regulators' ability to strike a balance between consumer protection and the preservation of innovation. At the same time, ethical questions are emerging. Do cryptocurrencies, by enabling anonymous transactions, foster a freer world or a riskier one?",
+    "english_translation_highlights": [
+      "Offering decentralized and anonymous transactions, they are attracting more and more users seeking new investment opportunities and alternative means of payment",
+      "decentralized and anonymous transactions",
+      "attracting more and more users"
+    ],
+    "english_question": "Cryptocurrencies mainly attract users thanks to:",
+    "english_options": [
+      "Their strict regulation and security.",
+      "Their governmental support in all countries.",
+      "Their total transparency in transactions.",
+      "Their decentralization and anonymity."
     ]
   },
   {
@@ -534,6 +938,19 @@
       "Les autorités financières à l'échelle mondiale sont confrontées à un dilemme : comment encadrer cette nouvelle forme de monnaie tout en préservant son caractère innovant ?",
       "Certains pays ont adopté des régulations strictes, comme la Chine, interdisant toute activité liée aux cryptomonnaies, tandis que d'autres, comme les États-Unis, optent pour une approche plus modérée visant à protéger les investisseurs sans étouffer l'innovation.",
       "L'avenir des cryptomonnaies dépendra largement de la capacité des régulateurs à trouver un équilibre entre la protection des consommateurs et la préservation de l'innovation."
+    ],
+    "english_translation": "The Rise of Cryptocurrencies and the Challenges of Financial Regulation. Since the creation of Bitcoin in 2009, cryptocurrencies have experienced a spectacular rise, transforming the financial industry and challenging traditional monetary systems. Offering decentralized and anonymous transactions, they attract more and more users seeking new investment opportunities and alternative means of payment. However, this technological revolution comes with significant risks. Cryptocurrencies are often associated with illicit activities such as money laundering and terrorism financing, due to their relative anonymity and the lack of regulation. Financial authorities worldwide face a dilemma: how to regulate this new form of currency while preserving its innovative nature? Some countries have adopted strict regulations, such as China, banning all cryptocurrency-related activities, while others, like the United States, opt for a more moderate approach aimed at protecting investors without stifling innovation. Traditional financial institutions, for their part, are trying to adapt by creating their own solutions based on blockchain technology, while monitoring market developments. The future of cryptocurrencies will largely depend on regulators' ability to strike a balance between consumer protection and the preservation of innovation. At the same time, ethical questions are emerging. Do cryptocurrencies, by enabling anonymous transactions, foster a freer world or a riskier one?",
+    "english_translation_highlights": [
+      "Financial authorities worldwide face a dilemma: how to regulate this new form of currency while preserving its innovative nature?",
+      "Some countries have adopted strict regulations, such as China, banning all cryptocurrency-related activities, while others, like the United States, opt for a more moderate approach aimed at protecting investors without stifling innovation.",
+      "The future of cryptocurrencies will largely depend on regulators' ability to strike a balance between consumer protection and the preservation of innovation."
+    ],
+    "english_question": "Financial regulators are faced with:",
+    "english_options": [
+      "A dilemma between regulating innovation and protecting consumers.",
+      "The necessity to ban all cryptocurrency transactions.",
+      "The pressure to create new national digital currencies.",
+      "The impossibility of keeping up with technological evolution."
     ]
   },
   {
@@ -553,6 +970,21 @@
       "En cas de refus, une justification motivée est obligatoire",
       "Le respect des plages horaires de disponibilité est impératif",
       "sous réserve d'accord"
+    ],
+    "english_translation": "As part of the reform of working conditions, partial remote work is authorized for up to 2 days per week, subject to approval by the direct supervisor. The employee must submit their request in writing at least 7 days before the intended date. Approval depends on the needs of the department, attendance requirements, and the continuity of duties. In the event of a refusal, a justified explanation is mandatory. Compliance with the designated availability time slots is imperative. The remote work charter also specifies responsibilities regarding cybersecurity and confidentiality. Any violation may result in the temporary suspension of this work arrangement.",
+    "english_translation_highlights": [
+      "partial remote work is authorized for up to 2 days per week, subject to approval by the direct supervisor",
+      "Approval depends on the needs of the department, attendance requirements, and the continuity of duties",
+      "In the event of a refusal, a justified explanation is mandatory",
+      "Compliance with the designated availability time slots is imperative",
+      "subject to approval"
+    ],
+    "english_question": "According to this document, the implementation of remote work depends mainly on:",
+    "english_options": [
+      "An annual quota of fixed days allocated by the HR department.",
+      "A pre-established collective schedule limiting individual flexibility.",
+      "Conditional approval taking into account the continuity of service.",
+      "Automatic validation as soon as the request deadlines are met."
     ]
   },
   {
@@ -576,6 +1008,25 @@
       "L'inspection recommande une révision des procédures internes",
       "une formation renforcée du personnel financier",
       "la mise en place d'un outil de suivi automatisé"
+    ],
+    "english_translation": "The annual inspection highlighted several shortcomings in the unit's budget management. The discrepancies between forecasts and actual expenditures exceed the tolerance thresholds defined by the ministerial circular of March 3. The justification for expenditure lines is often missing or incomplete, which compromises financial traceability. First-level controls were not systematically carried out, and credit commitments were not always validated by an authorized accounting officer. The inspection recommends a revision of internal procedures, enhanced training for financial staff, and the implementation of an automated tracking tool to improve transparency.",
+    "english_translation_highlights": [
+      "The annual inspection highlighted several shortcomings in the unit's budget management",
+      "The discrepancies between forecasts and actual expenditures exceed the tolerance thresholds",
+      "The justification for expenditure lines is often missing or incomplete",
+      "which compromises financial traceability",
+      "First-level controls were not systematically carried out",
+      "credit commitments were not always validated by an authorized accounting officer",
+      "The inspection recommends a revision of internal procedures",
+      "enhanced training for financial staff",
+      "the implementation of an automated tracking tool"
+    ],
+    "english_question": "According to this document, the irregularities observed originate from:",
+    "english_options": [
+      "The divergent interpretation of accounting standards by local entities.",
+      "The absence of mandatory regulatory training for processing officers.",
+      "The combined failure of internal controls and commitment monitoring.",
+      "The obsolescence of budgetary reporting IT tools."
     ]
   },
   {
@@ -594,6 +1045,20 @@
       "L'usager devra consentir explicitement à chaque nouvelle collecte de données",
       "Les changements portent principalement sur les modalités d'accès aux données sensibles, la gestion des droits d'utilisation et les nouvelles procédures de confidentialité des données personnelles",
       "En cas de non-adhésion aux nouvelles conditions, l'accès au service Korba sera suspendu"
+    ],
+    "english_translation": "Starting from the first of May, the general terms and conditions of use of the digital services of the government platform will be modified. The changes mainly concern the procedures for accessing sensitive data, the management of usage rights, and the new personal data privacy procedures. The user will have to explicitly consent to each new data collection, and a data breach notification mechanism will be put in place. In the event of non-adherence to the new conditions, access to the Korba service will be suspended. An explanatory guide will be posted online to help with understanding these changes. These modifications aim to strengthen the security and privacy of personal information.",
+    "english_translation_highlights": [
+      "Starting from the first of May, the general terms and conditions of use of the digital services of the government platform will be modified",
+      "The user will have to explicitly consent to each new data collection",
+      "The changes mainly concern the procedures for accessing sensitive data, the management of usage rights, and the new personal data privacy procedures",
+      "In the event of non-adherence to the new conditions, access to the Korba service will be suspended"
+    ],
+    "english_question": "According to this document, users will mainly have to:",
+    "english_options": [
+      "Consent to data collection by accepting the new terms.",
+      "Install a new application dedicated to personal data management.",
+      "Submit an explicit request for each type of service requested.",
+      "Review the internal procedures before any update."
     ]
   },
   {
@@ -612,6 +1077,20 @@
       "Des failles dans les protocoles d'accès aux systèmes informatiques ont été identifiées",
       "notamment l'utilisation des mots de passe partagés",
       "Ces mesures visent à renforcer la sécurité des données"
+    ],
+    "english_translation": "The latest risk management report highlights several vulnerabilities related to data security. Flaws in the access protocols for computer systems have been identified, notably the use of shared passwords. It is recommended to establish an access management policy prioritizing multi-factor authentication. Cybersecurity training sessions will be offered to employees to raise their awareness of risks and best practices. A thorough analysis will be carried out during the next audit to evaluate the effectiveness of the measures implemented. These measures aim to strengthen data security and prevent any breaches.",
+    "english_translation_highlights": [
+      "It is recommended to establish an access management policy prioritizing multi-factor authentication",
+      "Flaws in the access protocols for computer systems have been identified",
+      "notably the use of shared passwords",
+      "These measures aim to strengthen data security"
+    ],
+    "english_question": "According to this document, the priority in terms of IT security is:",
+    "english_options": [
+      "To strengthen access protocols through multifactor authentication.",
+      "To install real-time monitoring systems for sensitive data.",
+      "To introduce security controls at the workstation level.",
+      "To limit the use of shared passwords to ensure security."
     ]
   },
   {
@@ -631,6 +1110,21 @@
       "Cet entretien fait suite à l'incident survenu le 10 mai",
       "votre conduite non conforme aux règles de l'entreprise",
       "une décision définitive sera prise"
+    ],
+    "english_translation": "Hereby, we inform you that a disciplinary meeting is scheduled for May 15 at 2:30 PM in the human resources offices. This meeting follows the incident that occurred on May 10 regarding your conduct, which was not in compliance with company rules. We invite you to attend with your union representative if you wish, to discuss the alleged facts and any potential sanctions. At the conclusion of this meeting, a final decision will be made, and you will be notified in writing within 5 days. We kindly ask you to confirm your attendance.",
+    "english_translation_highlights": [
+      "to discuss the alleged facts",
+      "any potential sanctions",
+      "This meeting follows the incident that occurred on May 10",
+      "your conduct, which was not in compliance with company rules",
+      "a final decision will be made"
+    ],
+    "english_question": "According to this document, the main purpose of the disciplinary interview is:",
+    "english_options": [
+      "To verify the compliance of internal rules with employee expectations.",
+      "To analyze the alleged facts in order to consider an appropriate measure.",
+      "To evaluate the impact of incidents on the productivity of other colleagues.",
+      "To re-examine working conditions within an adversarial framework."
     ]
   },
   {
@@ -649,6 +1143,20 @@
       "Toute utilisation personnelle est interdite",
       "sauf autorisation explicite de la direction",
       "Un contrôle mensuel des kilomètres parcourus sera effectué afin de garantir une utilisation conforme aux règles internes"
+    ],
+    "english_translation": "Company vehicles are allocated for professional missions only. Any personal use is prohibited, unless explicitly authorized by management. Drivers must comply with road safety regulations and regularly maintain the vehicles. Vehicles must be returned in their original condition after each mission. A monthly check of kilometers traveled will be carried out to ensure compliance with internal rules. Management reserves the right to withdraw a vehicle from any employee who does not comply with its directives. These measures aim to optimize the use of company resources and reduce unnecessary costs.",
+    "english_translation_highlights": [
+      "Company vehicles are allocated for professional missions only",
+      "Any personal use is prohibited",
+      "unless explicitly authorized by management",
+      "A monthly check of kilometers traveled will be carried out to ensure compliance with internal rules"
+    ],
+    "english_question": "According to this document, the use of company vehicles is mainly limited by:",
+    "english_options": [
+      "A rigorous control of fuel levels and kilometers traveled.",
+      "An obligation of immediate return after each service mission.",
+      "A restriction on personal trips and a control of their usage.",
+      "The need to fill out a prior authorization request form."
     ]
   },
   {
@@ -668,6 +1176,21 @@
       "n'ont pas respecté les délais imposés pour le dépôt des justificatifs",
       "ont omis de faire valider les dépenses par les responsables hiérarchiques",
       "Les anomalies observées ont des répercussions sur la transparence et la fiabilité des comptes"
+    ],
+    "english_translation": "The internal audit, conducted from April 10 to 14, revealed significant discrepancies between the written procedures and their actual implementation, particularly in the processing of professional expense reimbursement requests. Some departments did not comply with the required deadlines for submitting supporting documents, and others failed to have expenses approved by their line managers. The observed anomalies have repercussions on the transparency and reliability of the accounts. It is recommended to implement a training module for the employees concerned and to strengthen the automated controls in the expense management system.",
+    "english_translation_highlights": [
+      "significant discrepancies between the written procedures and their actual implementation",
+      "particularly in the processing of professional expense reimbursement requests",
+      "did not comply with the required deadlines for submitting supporting documents",
+      "failed to have expenses approved by their line managers",
+      "The observed anomalies have repercussions on the transparency and reliability of the accounts"
+    ],
+    "english_question": "According to this document, the application of budgetary procedures is compromised mainly by:",
+    "english_options": [
+      "A lack of training for financial managers and field agents.",
+      "The absence of systematic validation of reimbursement requests.",
+      "Reluctance of employees to use the integrated computer system.",
+      "The inefficiency of automated internal controls for expense tracking."
     ]
   },
   {
@@ -687,6 +1210,21 @@
       "Si elle offre des opportunités de croissance, elle génère aussi des défis liés à la fiscalité, à la protection des données et à l'emploi",
       "Certains secteurs comme la logistique et la finance en sont profondément transformés",
       "elle génère aussi des défis"
+    ],
+    "english_translation": "The digital economy is based on the use of information technologies to produce, consume, and exchange. It transforms traditional models by introducing new services such as online platforms or e-commerce. While it offers growth opportunities, it also generates challenges related to taxation, data protection, and employment. Certain sectors such as logistics and finance have been profoundly transformed by it. The regulation of these new activities remains uneven across countries. Discussions are underway to adapt laws to the digital giants.",
+    "english_translation_highlights": [
+      "The digital economy is based on the use of information technologies to produce, consume, and exchange",
+      "It transforms traditional models by introducing new services such as online platforms or e-commerce",
+      "While it offers growth opportunities, it also generates challenges related to taxation, data protection, and employment",
+      "Certain sectors such as logistics and finance have been profoundly transformed by it",
+      "it also generates challenges"
+    ],
+    "english_question": "According to this document, the digital economy:",
+    "english_options": [
+      "Concerns only the communication sector.",
+      "Eliminates the need for human labor.",
+      "Proposes new models while raising challenges.",
+      "Slows down traditional commercial exchanges."
     ]
   },
   {
@@ -708,6 +1246,23 @@
       "il est important d'adopter une approche personnelle",
       "Chaque individu doit prendre conscience de son alimentation et choisir des options plus nutritives",
       "Une meilleure information sur l'impact des choix alimentaires permettrait également d'adopter de meilleures habitudes"
+    ],
+    "english_translation": "Nowadays, more and more people suffer from diet-related diseases such as obesity or diabetes. It is essential to find solutions to improve eating habits and prevent these health problems. What can be done to encourage healthier eating? Encouraging healthy eating starts with education. Schools, public health campaigns, and the media can play a key role in raising public awareness of the benefits of a balanced diet, with an emphasis on consuming fruits, vegetables, lean proteins, and whole grains. Moreover, governments should implement policies aimed at limiting advertising for processed and sugar-rich foods, especially targeting children. Offering tax incentives for producers of local and sustainable products could also make healthy foods more accessible to everyone. Finally, it is important to adopt a personal approach. Each individual must become aware of their diet and choose more nutritious options, while limiting the consumption of added sugars and saturated fats. Better information about the impact of food choices would also help people adopt better habits in the long term.",
+    "english_translation_highlights": [
+      "Encouraging healthy eating starts with education",
+      "Schools, public health campaigns, and the media can play a key role",
+      "governments should implement policies",
+      "Offering tax incentives for producers of local and sustainable products",
+      "it is important to adopt a personal approach",
+      "Each individual must become aware of their diet and choose more nutritious options",
+      "Better information about the impact of food choices would also help people adopt better habits"
+    ],
+    "english_question": "According to this discussion, the promotion of a healthier diet is primarily based on:",
+    "english_options": [
+      "A synergy between education, public policies, and individual accountability.",
+      "A systemic reform of international agri-food sectors.",
+      "A direct intervention of processing industries in nutritional management.",
+      "An equitable redistribution of food resources on a global scale."
     ]
   },
   {
@@ -727,6 +1282,21 @@
       "Une clarification des textes, une centralisation des services et une meilleure interopérabilité entre administrations sont également nécessaires.",
       "De surcroît, toute réforme devrait s'accompagner d'une formation continue des agents afin qu'ils deviennent facilitateurs plutôt que simples exécutants.",
       "Il ne s'agit donc pas uniquement d'alléger, mais de repenser fondamentalement la logique d'accès au droit."
+    ],
+    "english_translation": "For several years, numerous reports have highlighted the excessive complexity of administrative procedures. It is not uncommon for citizens to give up on rights or benefits due to a lack of understanding or because of overly burdensome processes. The need for simplification has now become a democratic imperative as much as a requirement for efficiency. This observation is widely shared. The regulatory labyrinth, combined with an overload of documentation, often discourages users. Genuine simplification requires an overhaul of internal processes, but also a change in attitude from the administrations themselves. It is not enough to digitize a procedure if the underlying architecture remains unchanged. A clarification of legal texts, a centralization of services, and better interoperability between administrations are also necessary. Furthermore, any reform should be accompanied by ongoing training for public servants so that they become facilitators rather than mere executors. A more transparent administration would also help restore the trust of citizens, which is often undermined by the perceived opacity of existing systems. It is therefore not simply a matter of streamlining, but of fundamentally rethinking the logic of access to rights.",
+    "english_translation_highlights": [
+      "Genuine simplification requires an overhaul of internal processes, but also a change in attitude from the administrations themselves.",
+      "It is not enough to digitize a procedure if the underlying architecture remains unchanged.",
+      "A clarification of legal texts, a centralization of services, and better interoperability between administrations are also necessary.",
+      "Furthermore, any reform should be accompanied by ongoing training for public servants so that they become facilitators rather than mere executors.",
+      "It is therefore not simply a matter of streamlining, but of fundamentally rethinking the logic of access to rights."
+    ],
+    "english_question": "According to this discussion, administrative simplification primarily requires:",
+    "english_options": [
+      "A temporary suspension of complex rules.",
+      "A complete delegation to private actors.",
+      "A radical reduction of public workforce.",
+      "An overhaul of internal circuits and practices."
     ]
   }
 ]

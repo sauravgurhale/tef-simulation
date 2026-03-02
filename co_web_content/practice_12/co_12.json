@@ -15,6 +15,20 @@
       "le tricotage",
       "le centre Don Bosco",
       "activités"
+    ],
+    "english_translation": "Tell me Sandra, how do you plan to keep Loïc busy during the holidays? He's going to learn pottery, even though this year the Don Bosco center is offering a multitude of activities, including knitting.",
+    "english_translation_highlights": [
+      "learn pottery",
+      "knitting",
+      "the Don Bosco center",
+      "activities"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_12_images/co-12-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -34,6 +48,21 @@
       "Au fond du couloir",
       "à gauche de l'ascenseur",
       "l'ascenseur"
+    ],
+    "english_translation": "Excuse me, please, where is the staircase in this building located? At the end of the hallway, just to the left of the elevator.",
+    "english_translation_highlights": [
+      "the staircase",
+      "building",
+      "At the end of the hallway",
+      "to the left of the elevator",
+      "the elevator"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_12_images/co-12-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -51,6 +80,19 @@
       "au restaurant La Marmite",
       "avec Jacques",
       "cuisine russe"
+    ],
+    "english_translation": "I called you all afternoon, but your phone wasn't going through. I hope nothing serious happened. You're worrying for nothing. Actually, I was with Jacques at the restaurant La Marmite, where I discovered Russian cuisine. We had a really great time.",
+    "english_translation_highlights": [
+      "at the restaurant La Marmite",
+      "with Jacques",
+      "Russian cuisine"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_12_images/co-12-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -68,6 +110,19 @@
       "Je vais jouer aux carpes",
       "avec mes copines",
       "Elles viendront toutes à la maison"
+    ],
+    "english_translation": "What are you doing tonight after school? Well tonight, no television. I'm going to play cards with my friends. They'll all come over to my house.",
+    "english_translation_highlights": [
+      "I'm going to play cards",
+      "with my friends",
+      "They'll all come over to my house"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_12_images/co-12-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -88,6 +143,22 @@
       "dans la cour de l'école",
       "Au programme : un spectacle des élèves, des stands de jeux et un goûter convivial",
       "cette belle fin d'année"
+    ],
+    "english_translation": "Dear students and dear parents, We would like to remind you that the end-of-year celebration for Les Étoiles primary school will take place this Friday, June twenty-third, starting at 2 PM in the school courtyard. On the program: a student performance, game stands, and a friendly afternoon snack. We are counting on your presence to celebrate this wonderful end of the year together. Thank you and see you soon.",
+    "english_translation_highlights": [
+      "the end-of-year celebration",
+      "this Friday, June twenty-third",
+      "starting at 2 PM",
+      "in the school courtyard",
+      "On the program: a student performance, game stands, and a friendly afternoon snack",
+      "this wonderful end of the year"
+    ],
+    "english_question": "This ad is reminiscent of…",
+    "english_options": [
+      "A ceremony marking the end of the year.",
+      "A show prepared by the school students.",
+      "An open house day at the school.",
+      "A parent-teacher meeting."
     ]
   },
   {
@@ -105,6 +176,19 @@
       "la séance d'information sur la prévention des infections nosocomiales va bientôt commencer",
       "Nous convions tout le monde dans la salle de conférence du rez-de-chaussée",
       "tous les patients, visiteurs et membres du personnel sont invités à y participer"
+    ],
+    "english_translation": "Dear patients and staff members, We would like to inform you that the information session on the prevention of nosocomial infections will be starting soon. We invite everyone to the conference room on the ground floor. We would also like to remind you that all patients, visitors, and staff members are invited to attend. Thank you for your attention.",
+    "english_translation_highlights": [
+      "the information session on the prevention of nosocomial infections will be starting soon",
+      "We invite everyone to the conference room on the ground floor",
+      "all patients, visitors, and staff members are invited to attend"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "The beginning of the presentation of the hospital's services.",
+      "A free medical consultation for patients and staff.",
+      "That an infection is spreading within the hospital.",
+      "The beginning of the information session."
     ]
   },
   {
@@ -121,6 +205,18 @@
     "highlights": [
       "la piscine fermera exceptionnellement à dix-huit heures",
       "pour des travaux de maintenance"
+    ],
+    "english_translation": "Dear visitors, We would like to remind you that the pool will exceptionally close at six o'clock PM for maintenance work. Please make your arrangements accordingly. We apologize for any inconvenience caused and thank you for your understanding.",
+    "english_translation_highlights": [
+      "the pool will exceptionally close at six o'clock PM",
+      "for maintenance work"
+    ],
+    "english_question": "For maintenance reasons, the pool…",
+    "english_options": [
+      "Will be closed all day.",
+      "Will close later today.",
+      "Will be operational after 6 PM.",
+      "Will not be operational after 6 PM."
     ]
   },
   {
@@ -139,6 +235,20 @@
       "Votre voiture bloque la voie réservée aux ambulances",
       "doit être déplacée de toute urgence",
       "Merci de votre coopération"
+    ],
+    "english_translation": "Attention: the owner of the vehicle with license plate ABC one-twenty-three XXZ is asked to report to the front desk immediately. Your car is blocking the lane reserved for ambulances and must be moved urgently. Thank you for your cooperation.",
+    "english_translation_highlights": [
+      "the owner of the vehicle with license plate ABC one-twenty-three XXZ is asked to report to the front desk immediately",
+      "Your car is blocking the lane reserved for ambulances",
+      "must be moved urgently",
+      "Thank you for your cooperation"
+    ],
+    "english_question": "It is asked…",
+    "english_options": [
+      "To park a vehicle elsewhere.",
+      "To attend a meeting at the reception.",
+      "To enter the ambulance.",
+      "To block a lane."
     ]
   },
   {
@@ -156,6 +266,19 @@
       "Je voulais te demander si tu pourrais m’accompagner demain soir à la gare",
       "car ma voiture est en panne",
       "Ce serait vraiment gentil de ta part"
+    ],
+    "english_translation": "Hi sweetheart, it's Mom. I hope you're doing well. I wanted to ask if you could take me to the train station tomorrow evening, because my car broke down. That would be really kind of you. Thank you so much and see you soon.",
+    "english_translation_highlights": [
+      "I wanted to ask if you could take me to the train station tomorrow evening",
+      "because my car broke down",
+      "That would be really kind of you"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To inform that his/her car has broken down.",
+      "To accompany his/her son.",
+      "To check in / get news.",
+      "To ask for a favor."
     ]
   },
   {
@@ -174,6 +297,20 @@
       "Est-ce que tu pourrais me prêter un peu d’argent ?",
       "J’en ai vraiment besoin en ce moment",
       "je te rembourserai dès que possible"
+    ],
+    "english_translation": "Hi Clovis, it's Jean. I hope you're doing well. I wanted to ask you a small favor. Could you lend me some money? I really need it right now, and I'll pay you back as soon as possible. Thanks in advance.",
+    "english_translation_highlights": [
+      "I wanted to ask you a small favor",
+      "Could you lend me some money?",
+      "I really need it right now",
+      "I'll pay you back as soon as possible"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Report his/her departure.",
+      "Request financial assistance.",
+      "Repay a money loan.",
+      "Claim his/her money."
     ]
   },
   {
@@ -192,6 +329,20 @@
       "que dirais-tu d’organiser un anniversaire surprise pour grand-père",
       "Je pense que ça lui ferait vraiment plaisir",
       "qu’on en parle et qu’on puisse tout planifier ensemble"
+    ],
+    "english_translation": "Hi Anthony, it's Clara. I hope you're doing well. An idea just crossed my mind: what would you say about organizing a surprise birthday party for Grandpa? I think it would really make him happy. Call me when you have a moment so we can talk about it and plan everything together. Talk soon.",
+    "english_translation_highlights": [
+      "An idea just crossed my mind",
+      "what would you say about organizing a surprise birthday party for Grandpa",
+      "I think it would really make him happy",
+      "we can talk about it and plan everything together"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Remind about grandfather's birthday.",
+      "Check up on his grandfather.",
+      "Make a suggestion.",
+      "Organize Anthony's birthday."
     ]
   },
   {
@@ -209,6 +360,19 @@
       "Je devais recevoir un colis en urgence depuis le 6 du mois, mais je n’ai toujours rien reçu",
       "Pourriez-vous vérifier son statut",
       "me tenir informé dès que possible"
+    ],
+    "english_translation": "Hello, I was supposed to receive a package urgently since the 6th of the month, but I still haven't received anything. Could you check its status and keep me informed as soon as possible? It is actually a book, with the shipping reference from Belgium being 12 23 41. You can call me back at 09 76 54 32 11. Thank you very much.",
+    "english_translation_highlights": [
+      "I was supposed to receive a package urgently since the 6th of the month, but I still haven't received anything",
+      "Could you check its status",
+      "keep me informed as soon as possible"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Complain about a delivery delay.",
+      "Change the package delivery address.",
+      "Cancel an ongoing order.",
+      "Request a refund."
     ]
   },
   {
@@ -227,6 +391,20 @@
       "car je viens de partir en urgence pour Londres",
       "Merci de prévenir les personnes concernées",
       "de reprogrammer les rendez-vous si possible"
+    ],
+    "english_translation": "Hello Miss Guérin, I wanted to ask you to cancel all my appointments, as I have just left urgently for London. Please notify the people concerned and reschedule the appointments if possible. See you soon.",
+    "english_translation_highlights": [
+      "I wanted to ask you to cancel all my appointments",
+      "as I have just left urgently for London",
+      "Please notify the people concerned",
+      "reschedule the appointments if possible"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Confirm an appointment in London.",
+      "Cancel appointments.",
+      "Make a reservation for London.",
+      "Plan his arrival in London."
     ]
   },
   {
@@ -245,6 +423,20 @@
       "Peux-tu me communiquer la nouvelle date dès que tu la connais",
       "C’est assez urgent pour moi afin de m’organiser",
       "Je compte sur toi"
+    ],
+    "english_translation": "Hi Nicolas, it's Judith. I just found out that the tax law exam has been postponed. Can you let me know the new date as soon as you have it? It's quite urgent for me so I can get organized. I'm counting on you.",
+    "english_translation_highlights": [
+      "the tax law exam has been postponed",
+      "Can you let me know the new date as soon as you have it",
+      "It's quite urgent for me so I can get organized",
+      "I'm counting on you"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To find out about the content of the tax law exam.",
+      "To know when the tax law exam will take place.",
+      "To announce that the tax law exam has been postponed.",
+      "To ask for advice for the tax law exam."
     ]
   },
   {
@@ -265,6 +457,22 @@
       "augmenter vos opportunités de carrière",
       "Cela peut également conduire à une satisfaction professionnelle et personnelle accrue",
       "pourquoi ne pas essayer"
+    ],
+    "english_translation": "Opting for a career change can offer several advantages: discovering new passions, improving your skills, and increasing your career opportunities. It can also lead to greater professional and personal satisfaction. So, why not give it a try?",
+    "english_translation_highlights": [
+      "Opting for a career change can offer several advantages",
+      "discovering new passions",
+      "improving your skills",
+      "increasing your career opportunities",
+      "It can also lead to greater professional and personal satisfaction",
+      "why not give it a try"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Could change profession without any problem.",
+      "Would change profession only if forced to.",
+      "Would have difficulty changing profession.",
+      ""
     ]
   },
   {
@@ -284,6 +492,21 @@
       "malgré les défis",
       "la perte de stabilité financière",
       "la nécessité d’acquérir de nouvelles compétences"
+    ],
+    "english_translation": "If I truly have no other choice, opting for a career change can be an opportunity for renewal. I think that, despite the challenges such as the loss of financial stability and the need to acquire new skills, it can offer a chance to discover new horizons, improve one's resilience, and potentially find greater professional satisfaction in a field that better aligns with one's passions and talents.",
+    "english_translation_highlights": [
+      "If I truly have no other choice",
+      "opting for a career change",
+      "despite the challenges",
+      "the loss of financial stability",
+      "the need to acquire new skills"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Could change profession without any problem.",
+      "Would change profession only if forced to.",
+      "Would have difficulty changing profession.",
+      ""
     ]
   },
   {
@@ -304,6 +527,22 @@
       "d’un risque d’insatisfaction dans le nouveau domaine",
       "Cela peut aussi entraîner des défis d’adaptation",
       "un investissement de temps considérable"
+    ],
+    "english_translation": "I have always considered career change as an obstacle course. In fact, it is almost always accompanied by a loss of financial stability, the need to learn new skills, and a risk of dissatisfaction in the new field. It can also lead to adaptation challenges and a considerable investment of time.",
+    "english_translation_highlights": [
+      "I have always considered career change as an obstacle course",
+      "it is almost always accompanied by a loss of financial stability",
+      "the need to learn new skills",
+      "a risk of dissatisfaction in the new field",
+      "It can also lead to adaptation challenges",
+      "a considerable investment of time"
+    ],
+    "english_question": "The person being questioned…",
+    "english_options": [
+      "Could change profession without any problem.",
+      "Would change profession only if forced to.",
+      "Would have difficulty changing profession.",
+      ""
     ]
   },
   {
@@ -322,6 +561,20 @@
       "mais c’est faisable",
       "donc je peux le faire",
       "cela permet de se déconnecter, de se détendre et de se concentrer sur des activités non numériques"
+    ],
+    "english_translation": "Spending 2 days without a smartphone can be a challenge, but it's doable, so I can do it. In fact, it allows you to disconnect, relax, and focus on non-digital activities, that's it.",
+    "english_translation_highlights": [
+      "Spending 2 days without a smartphone can be a challenge",
+      "but it's doable",
+      "so I can do it",
+      "it allows you to disconnect, relax, and focus on non-digital activities"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Could very well go two days without a smartphone.",
+      "Could try to go without their smartphone for two days.",
+      "Would have difficulty going without their smartphone for two days.",
+      ""
     ]
   },
   {
@@ -340,6 +593,20 @@
       "C’est essentiel",
       "ça rend difficile de s’en passer",
       "même pour une courte période"
+    ],
+    "english_translation": "Listen, I can't go 2 days without my smartphone. It's essential for communication, access to information, managing daily tasks, and that makes it hard to go without it, even for a short period.",
+    "english_translation_highlights": [
+      "I can't go 2 days without my smartphone",
+      "It's essential",
+      "that makes it hard to go without it",
+      "even for a short period"
+    ],
+    "english_question": "The person being questioned…",
+    "english_options": [
+      "Could very well go two days without a smartphone.",
+      "Could try to go without their smartphone for two days.",
+      "Would have a hard time going without their smartphone for two days.",
+      ""
     ]
   },
   {
@@ -358,6 +625,20 @@
       "je le fais souvent",
       "Je me déconnecte, je me détends, et je profite du moment présent sans distraction numérique",
       "Cette pause régulière m’aide à recharger mes batteries mentales et à améliorer ma concentration"
+    ],
+    "english_translation": "I am fully willing to spend 2 days without my smartphone, and I often do so to limit stress. I disconnect, I relax, and I enjoy the present moment without digital distraction. This regular break helps me recharge my mental batteries and improve my focus on important tasks.",
+    "english_translation_highlights": [
+      "I am fully willing to spend 2 days without my smartphone",
+      "I often do so",
+      "I disconnect, I relax, and I enjoy the present moment without digital distraction",
+      "This regular break helps me recharge my mental batteries and improve my focus"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Could very well go two days without a smartphone.",
+      "Could try to go without their smartphone for two days.",
+      "Is firmly opposed to remote work.",
+      ""
     ]
   },
   {
@@ -378,6 +659,22 @@
       "réduction des déchets",
       "Le but : créer une société plus soutenable et équitable pour tous",
       "Adopter la décroissance, c’est repenser notre rapport à la consommation et à la nature"
+    ],
+    "english_translation": "Hello everyone. Today, we're going to talk about degrowth advocates. Who are they and what do they stand for? Degrowth advocates promote a way of life aimed at reducing consumption and production in order to preserve the environment and improve quality of life. They challenge our economic model based on unlimited growth and propose that the world live differently, by focusing on essential needs and limiting waste. This philosophy applies to all aspects of life: local food, waste reduction, resource sharing. The goal: to create a more sustainable and equitable society for all. Adopting degrowth means rethinking our relationship with consumption and nature for a more responsible future. Thank you for listening, see you soon for a new column.",
+    "english_translation_highlights": [
+      "Degrowth advocates promote a way of life aimed at reducing consumption and production in order to preserve the environment and improve quality of life",
+      "They challenge our economic model based on unlimited growth",
+      "propose that the world live differently, by focusing on essential needs and limiting waste",
+      "waste reduction",
+      "The goal: to create a more sustainable and equitable society for all",
+      "Adopting degrowth means rethinking our relationship with consumption and nature"
+    ],
+    "english_question": "What is the main philosophy of the degrowth movement?",
+    "english_options": [
+      "Increase industrial production",
+      "Limit production and consume less to protect the planet.",
+      "Promote unlimited economic growth",
+      "Increase the consumption of technological goods"
     ]
   },
   {
@@ -399,6 +696,23 @@
       "le talent individuel prime souvent sur l’esprit d’équipe",
       "Les réseaux sociaux amplifient ce phénomène",
       "chaque joueur étant une marque à part entière"
+    ],
+    "english_translation": "Today, let's talk about football, a team sport by essence, but one that seems to be sliding more and more toward individualism. Football stars have become true global icons, often more recognized for their individual exploits than for their team spirit. The media and sponsors highlight the performances of star players, sometimes overshadowing the importance of the collective. Exorbitant salaries and record transfers reflect this trend, where individual talent often takes precedence over team spirit. Social media amplifies this phenomenon, with each player being a brand in their own right. But let's not forget the very essence of football: a sport where victory is built together. To rediscover the magic of collective play, it is crucial to value altruism and solidarity on the pitch.",
+    "english_translation_highlights": [
+      "a team sport by essence, but one that seems to be sliding more and more toward individualism",
+      "often more recognized for their individual exploits than for their team spirit",
+      "The media and sponsors highlight the performances of star players",
+      "sometimes overshadowing the importance of the collective",
+      "individual talent often takes precedence over team spirit",
+      "Social media amplifies this phenomenon",
+      "with each player being a brand in their own right"
+    ],
+    "english_question": "What recent trend in football is highlighted in this column?",
+    "english_options": [
+      "An increased appreciation of team spirit.",
+      "The individual feats of players are constantly highlighted.",
+      "A decrease in the salaries of star players.",
+      "Automation"
     ]
   },
   {
@@ -416,6 +730,19 @@
       "Le Prix Artemisia est un prix littéraire français qui récompense chaque année une bande dessinée réalisée par une ou plusieurs femmes",
       "il vise à mettre en lumière le talent des femmes dans un domaine souvent dominé par les hommes",
       "et à encourager la diversité dans la création artistique"
+    ],
+    "english_translation": "– Hello and welcome to our show. Today, we have the pleasure of welcoming Marie Dupuis, a comic book specialist and member of the Prix Artemisia jury. Hello Marie. – Hello, and thank you for having me. – To start, can you explain to us what the Prix Artemisia is? – Of course. The Prix Artemisia is a French literary prize that each year rewards a comic book created by one or more women. Established in 2007, it aims to highlight the talent of women in a field often dominated by men, and to encourage diversity in artistic creation. – What are the selection criteria for this prize? – The selection criteria include narrative quality, the richness of the illustrations, the originality of the subject, and the impact of the work. We look for comic books that offer new perspectives and that are capable of reaching a wide audience. The jury, made up of professionals in the field, takes these elements into account to determine the winner. – Thank you. Now tell us, what are the impacts of the Prix Artemisia on the careers of the winners? – The Prix Artemisia can have a significant impact on the careers of the winners. It brings them increased visibility, both with the public and with publishers. This can result in increased sales, collaboration proposals, and sometimes even adaptations of their works into other formats. Additionally, it strengthens their credibility and reputation in the comic book world. – Thank you very much for this information about the Prix Artemisia. – Thank you, it was a pleasure to share this with your listeners. – That's all for today. Thank you for listening, and see you next time for a new show.",
+    "english_translation_highlights": [
+      "The Prix Artemisia is a French literary prize that each year rewards a comic book created by one or more women",
+      "it aims to highlight the talent of women in a field often dominated by men",
+      "and to encourage diversity in artistic creation"
+    ],
+    "english_question": "What is the main mission of the Artémisia prize?",
+    "english_options": [
+      "Reward the best science fiction comics.",
+      "Encourage variety in women's art.",
+      "Financially support comic book authors.",
+      "Promote children's comics."
     ]
   },
   {
@@ -434,6 +761,20 @@
       "Il leur apporte une visibilité accrue, tant auprès du public que des éditeurs",
       "Cela peut se traduire par une augmentation des ventes, des propositions de collaboration, et parfois même des adaptations de leurs œuvres en d’autres formats",
       "cela renforce leur crédibilité et leur notoriété dans le milieu de la bande dessinée"
+    ],
+    "english_translation": "– Hello and welcome to our show. Today, we have the pleasure of welcoming Marie Dupuis, a comic book specialist and member of the Prix Artemisia jury. Hello Marie. – Hello, and thank you for having me. – To start, can you explain to us what the Prix Artemisia is? – Of course. The Prix Artemisia is a French literary prize that each year rewards a comic book created by one or more women. Established in 2007, it aims to highlight the talent of women in a field often dominated by men, and to encourage diversity in artistic creation. – What are the selection criteria for this prize? – The selection criteria include narrative quality, the richness of the illustrations, the originality of the subject, and the impact of the work. We look for comic books that offer new perspectives and that are capable of reaching a wide audience. The jury, made up of professionals in the field, takes these elements into account to determine the winner. – Thank you. Now tell us, what are the impacts of the Prix Artemisia on the careers of the winners? – The Prix Artemisia can have a significant impact on the careers of the winners. It brings them increased visibility, both with the public and with publishers. This can result in increased sales, collaboration proposals, and sometimes even adaptations of their works into other formats. Furthermore, it strengthens their credibility and their reputation in the comic book world. – Thank you very much for this information about the Prix Artemisia. – Thank you, it was a pleasure to share this with your listeners. – That's all for today. Thank you for listening, and see you next time for a new show.",
+    "english_translation_highlights": [
+      "The Prix Artemisia can have a significant impact on the careers of the winners",
+      "It brings them increased visibility, both with the public and with publishers",
+      "This can result in increased sales, collaboration proposals, and sometimes even adaptations of their works into other formats",
+      "it strengthens their credibility and their reputation in the comic book world"
+    ],
+    "english_question": "What impact did Pauline Aubry's victory have on her career?",
+    "english_options": [
+      "She received a significant financial reward.",
+      "Her work was widely acclaimed and translated into many languages.",
+      "She started teaching comics.",
+      "She stopped creating comics to dedicate herself to writing novels."
     ]
   },
   {
@@ -454,6 +795,22 @@
       "faire des propositions à nos futurs décideurs politiques",
       "À qui s’adressent ces propositions ?",
       "tous les décideurs"
+    ],
+    "english_translation": "– Taking the side of young people, a plea for youth. A few weeks before the presidential election, the Apprentis d'Auteuil Foundation is publishing, and I quote, \"its little book of public interest.\" Its director general is the guest on this 12:30 show: Nicolas Touriel, hello and welcome. – Hello. – Yet another manifesto… What's the point? A question you asked yourself while writing this work. What is your answer? – It's a \"because\" first and foremost. It is the result of a consultation with young people and families. It draws on their words, their questions about the future, about the difficulties they face. It also draws on our convictions, our experiences: in terms of combating school dropout, in terms of professional integration, in terms of support for parents. The goal: to provide concrete answers, and also to make proposals to our future political decision-makers. – Indeed, one manifesto, twenty proposals. Who are these proposals aimed at? Are the presidential candidates the primary targets? – Of course, the presidential candidates are targeted. But, I would say: all decision-makers in the public sphere, and also decision-makers in the private sector. Because our absolute conviction is that what our country needs is a kind of alliance between young people, families, schools, businesses, public authorities… And on issues as challenging as school dropout and professional integration, everyone needs to pitch in.",
+    "english_translation_highlights": [
+      "Of course, the presidential candidates are targeted",
+      "But, I would say: all decision-makers in the public sphere, and also decision-makers in the private sector",
+      "our absolute conviction is that what our country needs is a kind of alliance between young people, families, schools, businesses, public authorities",
+      "make proposals to our future political decision-makers",
+      "Who are these proposals aimed at?",
+      "all decision-makers"
+    ],
+    "english_question": "The manifesto in question targets…",
+    "english_options": [
+      "Only presidential candidates.",
+      "The decision-making actors of public and private bodies.",
+      "International institutions.",
+      "Future political decision-makers."
     ]
   },
   {
@@ -474,6 +831,22 @@
       "notre conviction absolue",
       "en termes de lutte contre le décrochage scolaire, en termes d’insertion professionnelle",
       "apporter des réponses concrètes"
+    ],
+    "english_translation": "– Taking the side of young people, a plea for youth. A few weeks before the presidential election, the Apprentis d'Auteuil Foundation is publishing, and I quote, \"its little book of public interest.\" Its director general is the guest on this 12:30 program: Nicolas Touriel, hello and welcome. – Hello. – Yet another manifesto… What's the point? A question you asked yourself while writing this work. What is your answer? – It's a \"because\" first and foremost. It is the result of consultation with young people and families. It draws on their words, their questions about the future, about their difficulties. It also draws on our convictions, our experiences: in terms of fighting against dropping out of school, in terms of professional integration, in terms of support for parents. The goal: to provide concrete answers, and also to make proposals to our future political decision-makers. – Indeed, one manifesto, twenty proposals. Who are these proposals aimed at? Are the presidential candidates the primary targets? – Of course, the presidential candidates are targeted. But, I would say: all decision-makers in the public sphere, and also decision-makers in the private sector. Because our absolute conviction is that our country needs a kind of alliance between young people, families, schools, businesses, public authorities… And on issues as difficult as dropping out of school and professional integration, everyone needs to get involved.",
+    "english_translation_highlights": [
+      "our country needs a kind of alliance between young people, families, schools, businesses, public authorities",
+      "And on issues as difficult as dropping out of school and professional integration, everyone needs to get involved",
+      "all decision-makers in the public sphere, and also decision-makers in the private sector",
+      "our absolute conviction",
+      "in terms of fighting against dropping out of school, in terms of professional integration",
+      "to provide concrete answers"
+    ],
+    "english_question": "What does the foundation recommend regarding solutions to challenges such as school dropout and employment integration?",
+    "english_options": [
+      "Initiatives must be led solely by public authorities.",
+      "Young people must take the lead on initiatives in agreement with public authorities and businesses.",
+      "An understanding between the government, the professional and educational sectors, young people, and families is necessary.",
+      "Solutions must be found by education experts without outside intervention."
     ]
   },
   {
@@ -492,6 +865,20 @@
       "Tout d’abord, il y a la question de la sélection et de la présentation des contenus historiques.",
       "Il est essentiel de garantir une approche équilibrée et inclusive, qui reflète la diversité de perspectives et d’expériences.",
       "Ensuite, il y a la nécessité d’intégrer les nouvelles technologies et les méthodes pédagogiques innovantes pour captiver les élèves et les encourager à s’engager dans l’apprentissage de l’histoire."
+    ],
+    "english_translation": "– Hello and welcome to our show. Today, we have the pleasure of welcoming Doctor Thomas Leclerc, historian and specialist in history education. Good morning, Doctor. – Thank you for having me. – To start, tell us: why is the teaching of history so important in our society? – History is crucial because it allows us to understand the present by analyzing the past. By teaching history, we pass on to future generations the lessons of the past, the major events, and the influential figures who shaped our world. It is an essential tool for developing critical thinking, active citizenship, and respect for different cultures and civilizations. – What are the current challenges in teaching history? – We face several challenges. First of all, there is the question of selecting and presenting historical content. It is essential to ensure a balanced and inclusive approach that reflects the diversity of perspectives and experiences. Then, there is the need to integrate new technologies and innovative teaching methods to captivate students and encourage them to engage in learning history. – How can we make the teaching of history more relevant and engaging for today's youth? – It is crucial to make history relevant by connecting it to students' current concerns. This can be done by addressing contemporary themes through a historical perspective, using concrete examples, and encouraging debates and discussions in the classroom. Field trips, research projects, and interactions with living witnesses of history can also enrich the learning experience. – Thank you very much, Doctor Leclerc, for these insights on such an important subject. – Thank you, it was a pleasure to discuss it. – That's all for today. Thank you for listening, and see you next time for a new show.",
+    "english_translation_highlights": [
+      "We face several challenges.",
+      "First of all, there is the question of selecting and presenting historical content.",
+      "It is essential to ensure a balanced and inclusive approach that reflects the diversity of perspectives and experiences.",
+      "Then, there is the need to integrate new technologies and innovative teaching methods to captivate students and encourage them to engage in learning history."
+    ],
+    "english_question": "The main challenges of teaching history according to Dr. Leclerc…",
+    "english_options": [
+      "Managing large classes and the lack of resources.",
+      "The selection of historical content as well as their presentation through innovative methods.",
+      "The absence of appropriate textbooks.",
+      "Low student participation and the lack of parental support."
     ]
   },
   {
@@ -511,6 +898,21 @@
       "en utilisant des exemples concrets",
       "en encourageant les débats et les discussions en classe",
       "Les sorties sur le terrain, les projets de recherche et les interactions avec des témoins vivants de l’histoire peuvent également enrichir l’expérience d’apprentissage"
+    ],
+    "english_translation": "– Hello and welcome to our show. Today, we have the pleasure of welcoming Doctor Thomas Leclerc, historian and specialist in history education. Good morning, Doctor. – Thank you for having me. – To start, tell us: why is the teaching of history so important in our society? – History is crucial because it allows us to understand the present by analyzing the past. By teaching history, we pass on to future generations the lessons of the past, the major events, and the influential figures who shaped our world. It is an essential tool for developing critical thinking, active citizenship, and respect for different cultures and civilizations. – What are the current challenges in teaching history? – We face several challenges. First, there is the question of selecting and presenting historical content. It is essential to ensure a balanced and inclusive approach that reflects the diversity of perspectives and experiences. Then, there is the need to integrate new technologies and innovative teaching methods to captivate students and encourage them to engage in learning history. – How can we make the teaching of history more relevant and engaging for today's youth? – It is crucial to make history relevant by connecting it to students' current concerns. This can be done by addressing contemporary themes through a historical perspective, using concrete examples, and encouraging debates and discussions in the classroom. Field trips, research projects, and interactions with living witnesses of history can also enrich the learning experience. – Thank you very much, Doctor Leclerc, for these insights on such an important subject. – Thank you, it was a pleasure to discuss it. – That's all for today. Thank you for listening, and see you next time for a new show.",
+    "english_translation_highlights": [
+      "It is crucial to make history relevant by connecting it to students' current concerns",
+      "This can be done by addressing contemporary themes through a historical perspective",
+      "using concrete examples",
+      "encouraging debates and discussions in the classroom",
+      "Field trips, research projects, and interactions with living witnesses of history can also enrich the learning experience"
+    ],
+    "english_question": "How does Dr. Leclerc propose to make the teaching of history more relevant to today's youth?",
+    "english_options": [
+      "By increasing the amount of homework.",
+      "By connecting historical events to current problems and issues",
+      "By focusing solely on ancient historical facts.",
+      "By reducing the number of history classes."
     ]
   },
   {
@@ -529,6 +931,20 @@
       "les huîtres ont été interdites à la vente pendant plus de 3 semaines",
       "La raison de cette baisse des ventes porte un mot le neuro virus responsable de la gastro-entérite",
       "après de fortes pluies cet hiver ce virus présent dans les eaux usées s'est déversé dans le bassin d'Arcachon"
+    ],
+    "english_translation": "This order is one that Lucas Simon, an oyster farmer, hears less and less often behind his stand at this Bordeaux market. Sale. Sir, that's — I don't know — the fifth or sixth one today. I won't say we don't sell any, but we're not selling as many oysters as we should be selling right now. In terms of numbers, we're at roughly 50 percent fewer sales compared to last year. The reason for this drop in sales comes down to one word: norovirus, responsible for gastroenteritis. After heavy rains this winter, this virus present in wastewater spilled into the Arcachon basin. At the beginning of January, oysters were banned from sale for over three weeks. It really created a falling out with consumers, and consumption is really struggling to pick back up. Thierry Laffont is an oyster farmer; he is also president of the association for the defense of the waters of the Arcachon basin, and he is accusing the syndicate in charge of water management, SIBA. I filed a complaint precisely against SIBA as established — I filed it on behalf of the water defense association and in my own name as a consequence, because I consider them to be the source of major harm and water pollution, and for my business with significant economic consequences. Those who are responsible — so it's entirely normal to file a complaint. To say that the environment in which we work is polluted — that's not the most reassuring thing for what's going to end up on the plate afterward, obviously. What you have to realize is that there comes a point where you can no longer just maintain a reserved position and simply say things. On April 2nd, the judicial court of Bordeaux ruled in favor of the oyster farmer. The syndicate and its subsidiary managed by the Veolia group must carry out emergency work so that wastewater no longer overflows into the Arcachon basin. Christelle de Traverse, the director of operations for Veolia Eau in the southwest: This means for a company like ours, but also for the local authority, undertaking work and looking ahead by saying this exceptional situation could happen again, and here is how we are going to deal with it. With climate change, it will happen again. We are now working to identify these exceptional situations as far upstream as possible in order to be able to advise local authorities and propose solutions to them. In the meantime, on the basin, professionals hope that the return of good weather will bring customers back. A major communication campaign has been launched on the roads, in the small oyster shacks, and the same message posted on signs: Let's reconnect.",
+    "english_translation_highlights": [
+      "this virus present in wastewater spilled into the Arcachon basin. At the beginning of January",
+      "oysters were banned from sale for over three weeks",
+      "The reason for this drop in sales comes down to one word: norovirus, responsible for gastroenteritis",
+      "After heavy rains this winter, this virus present in wastewater spilled into the Arcachon basin"
+    ],
+    "english_question": "The sale of oysters from the Arcachon basin was banned in January…",
+    "english_options": [
+      "Due to a decrease in demand.",
+      "Due to their contamination by a virus.",
+      "Due to a shortage of oysters.",
+      "Due to new fishing regulations."
     ]
   },
   {
@@ -547,6 +963,20 @@
       "Syndicat et sa filiale gérée par le groupe Veolia doivent réaliser des travaux d'urgence",
       "pour que les eaux usées ne débordent plus dans le bassin d'Arcachon",
       "Ça implique pour une entreprise comme la nôtre, mais aussi pour la collectivité d'engager des travaux"
+    ],
+    "english_translation": "This order is one that Lucas Simon, an oyster farmer, hears less and less often behind his stand at this Bordeaux market. Sales. Sir, that's the, I don't know, fifth or sixth one today. I won't say we don't sell any 8s, we don't sell as many oysters as we should be selling right now. In terms of figures, we're at roughly 50 percent fewer sales compared to last year. The reason for this drop in sales can be summed up in one word: norovirus, responsible for gastroenteritis. After heavy rains this winter, this virus present in wastewater spilled into the Arcachon basin. In early January, oysters were banned from sale for more than three weeks. It really created a falling out with consumers, and consumption is really struggling to pick back up. Thierry Laffont is an oyster farmer. He is also president of the association for the defense of the waters of the Arcachon basin, and he is accusing the authority in charge of water management, SIBA. I filed a complaint precisely against SIBA as established. I filed it on behalf of the water defense association and in my own name as a consequence, because I consider them to be the source of major harm and water pollution, and for my business with significant economic consequences. Those who are responsible — so it's entirely normal to file a complaint. To say that the environment in which we work is polluted is not exactly the most reassuring thing for what ends up on people's plates afterward, obviously. What you have to realize is that there comes a point where you can no longer just maintain a reserved position and keep things to yourself. On April 2nd, the judicial court of Bordeaux ruled in favor of the oyster farmer. The authority and its subsidiary managed by the Veolia group must carry out emergency works so that wastewater no longer overflows into the Arcachon basin. Christelle de Traverse, the director of operations for Veolia Eau in the southwest: This means for a company like ours, but also for the local authority, undertaking works and looking ahead by saying this exceptional situation could happen again, and here is how we are going to deal with it. With climate change, it will happen again. We are now working to really identify these exceptional situations as far upstream as possible in order to advise local authorities and propose solutions to them. In the meantime, on the basin, professionals hope that the return of good weather will bring customers back. A major communication campaign has been launched on the roads, in the small oyster shacks, and the same message has been posted on signs: Let's reconnect.",
+    "english_translation_highlights": [
+      "On April 2nd, the judicial court of Bordeaux ruled in favor of the oyster farmer.",
+      "The authority and its subsidiary managed by the Veolia group must carry out emergency works",
+      "so that wastewater no longer overflows into the Arcachon basin",
+      "This means for a company like ours, but also for the local authority, undertaking works"
+    ],
+    "english_question": "What was the decision of the Bordeaux judicial court regarding the water management of the Arcachon basin?",
+    "english_options": [
+      "To close the Arcachon basin because of climate change.",
+      "To ban the sale of oysters forever.",
+      "To begin work to prevent pollution from wastewater.",
+      "To compensate the oyster farmers without carrying out any work."
     ]
   },
   {
@@ -566,6 +996,21 @@
       "une douzaine d'établissements pilotes",
       "Mais sur le terrain en ce jour de rentrée",
       "beaucoup n'ont étonnamment rien remarqué"
+    ],
+    "english_translation": "The announcement had been made with great fanfare by Nicolas Sarkozy. Designated police officers were to be deployed starting last May in a dozen pilot schools across France. All middle schools grouped in the same department, the ninety-two, whose president is none other than Nicolas Sarkozy. But on the ground, on this back-to-school day for fifth graders, many surprisingly hadn't noticed anything.",
+    "english_translation_highlights": [
+      "The announcement had been made with great fanfare",
+      "Designated police officers were to be deployed starting last May",
+      "a dozen pilot schools",
+      "But on the ground, on this back-to-school day",
+      "many surprisingly hadn't noticed anything"
+    ],
+    "english_question": "The implementation of this initiative caused surprises at the start of the school year because…",
+    "english_options": [
+      "The students noticed major changes.",
+      "The teachers were poorly informed.",
+      "There were no visible signs of the initiative.",
+      "Minimal fish protein near the coast."
     ]
   },
   {
@@ -583,6 +1028,19 @@
       "une personne sur 10 seulement a franchi le pas",
       "Préparer sa succession et rédiger un testament de son vivant",
       "une décision utile, mais délicate pour l'immense majorité des Français"
+    ],
+    "english_translation": "Preparing one's succession and drafting a will while still alive—a useful but delicate decision for the vast majority of French people. Today, only one person in 10 has taken the step.",
+    "english_translation_highlights": [
+      "only one person in 10 has taken the step",
+      "Preparing one's succession and drafting a will while still alive",
+      "a useful but delicate decision for the vast majority of French people"
+    ],
+    "english_question": "According to the document…",
+    "english_options": [
+      "One in ten French people has difficulty preparing their succession.",
+      "The percentage of French people who have written their last will is estimated at 10%.",
+      "Most French people find that writing a will is useless.",
+      "One in ten French people considers writing a will to be a delicate matter."
     ]
   },
   {
@@ -600,6 +1058,19 @@
       "la direction de la centrale fait face à une crise grave",
       "la multiplication d'actes désespérés de la part d'agents EDF fait forcément planer le soupçon sur les conditions de travail",
       "le soupçon sur les conditions de travail"
+    ],
+    "english_translation": "The nuclear power plant is located in the open countryside, a site under high surveillance a few kilometers from the small town of Avoine. A site recently bereaved by the suicide of a 50-year-old executive. The man held a high level of responsibility in the operation of the reactors. This is the third suicide since August 2006, the fourth since the summer of 2004. The management of the plant is therefore facing a serious crisis, as the increasing number of desperate acts by EDF employees inevitably casts suspicion on working conditions.",
+    "english_translation_highlights": [
+      "the management of the plant is therefore facing a serious crisis",
+      "the increasing number of desperate acts by EDF employees inevitably casts suspicion on working conditions",
+      "suspicion on working conditions"
+    ],
+    "english_question": "What would be the implications of the recent suicides for the nuclear power plant?",
+    "english_options": [
+      "Working conditions deemed poor for EDF employees.",
+      "A significant loss of energy production.",
+      "A malfunction in the operation of the reactors.",
+      "The increase in desperate acts among a greater number of EDF employees."
     ]
   },
   {
@@ -617,6 +1088,19 @@
       "elle craint un terme que les non-fumeurs aient le sentiment de travailler plus que les autres",
       "ne veut pas jouer aux gendarmes",
       "chacun sort donc à sa guise quand il l'entend"
+    ],
+    "english_translation": "In the construction company Batcot, as in all French companies, since February, employees go outside to smoke—that is, more than half the staff. Dominique Pimont, the boss, doesn't want to play police. For now, everyone goes out as they please whenever they feel like it, but she fears that eventually the non-smokers will feel they are working more than the others.",
+    "english_translation_highlights": [
+      "she fears that eventually the non-smokers will feel they are working more than the others",
+      "doesn't want to play police",
+      "everyone goes out as they please whenever they feel like it"
+    ],
+    "english_question": "What is the boss's main concern regarding employees' cigarette breaks?",
+    "english_options": [
+      "A perception of injustice among non-smoking staff.",
+      "An increase in health costs due to the dangers of cigarettes.",
+      "A reduction in overall productivity due to workers going outside.",
+      "A decrease in workplace safety due to heavy tobacco consumption."
     ]
   },
   {
@@ -637,6 +1121,22 @@
       "on va vous faciliter l'accès au magasin",
       "on va vous permettre d'avoir du covoiturage pour arriver en magasin",
       "toute une élaboration de services autour du produit qui est en train de se mettre en place"
+    ],
+    "english_translation": "Today's consumer has the choice between buying a product online or going to a store to purchase their product. And traditional retail, which originated from physical commerce, must face the challenge of going digital. That is to say, we are moving from a product-based economy to a service-based economy, meaning that beyond selling a product, services will be associated with it—cooking classes, easier access to the store, for example by offering carpooling to get to the store. There is a whole range of services being developed around the product that is currently being put in place.",
+    "english_translation_highlights": [
+      "we are moving from a product-based economy to a service-based economy",
+      "beyond selling a product, services will be associated with it",
+      "cooking classes",
+      "easier access to the store",
+      "offering carpooling to get to the store",
+      "a whole range of services being developed around the product that is currently being put in place"
+    ],
+    "english_question": "What strategy is mentioned for improving the in-store shopping experience?",
+    "english_options": [
+      "Offer more competitive prices than online ones.",
+      "Expand store parking lots.",
+      "Combine complementary services with products.",
+      "Extend store opening hours."
     ]
   },
   {
@@ -654,6 +1154,19 @@
       "La clé de ce succès, des applications de livraison accessibles sur les smartphones",
       "des applications de livraison accessibles sur les smartphones",
       "accessibles sur les smartphones"
+    ],
+    "english_translation": "Since the beginning of the pandemic, having meals delivered to the office or home has become a habit for many. After conquering major cities, this new way of consuming is spreading to small towns and even rural areas. The key to this success: delivery apps accessible on smartphones. It takes just a few clicks to choose a meal from dozens of nearby restaurants and have it delivered in under 20 minutes. 7 out of 10 meal orders are placed through these apps, which are predominantly Anglo-Saxon.",
+    "english_translation_highlights": [
+      "The key to this success: delivery apps accessible on smartphones",
+      "delivery apps accessible on smartphones",
+      "accessible on smartphones"
+    ],
+    "english_question": "What is the origin of the success of meal delivery applications?",
+    "english_options": [
+      "The diversity of available restaurants.",
+      "The speed of delivery in under twenty minutes.",
+      "The conquest of small towns and rural areas.",
+      "The accessibility of applications on smartphones."
     ]
   },
   {
@@ -671,6 +1184,19 @@
       "il existe un logo à 5 couleurs qu'on appelle le Nutri-Score",
       "L'objectif, c'est d'aider les consommateurs à faire des meilleurs choix nutritionnels",
       "de pousser les industriels à améliorer leurs produits"
+    ],
+    "english_translation": "How can you tell at a glance whether cereals, fruit yogurts, or a ready-made meal are nutritionally balanced? Until recently, you had to pore over the small table printed on the back of the packaging. But since 2017, you may have noticed, there is a 5-color logo called the Nutri-Score. The objective is to help consumers make better nutritional choices and to push manufacturers to improve their products.",
+    "english_translation_highlights": [
+      "there is a 5-color logo called the Nutri-Score",
+      "The objective is to help consumers make better nutritional choices",
+      "to push manufacturers to improve their products"
+    ],
+    "english_question": "What is this about?",
+    "english_options": [
+      "A practical way to decipher foods offering optimal nutritional quality.",
+      "A logo for identifying balanced yogurts.",
+      "A practical way to limit the use of packaging.",
+      "A manifesto allowing consumers to choose products of high nutritional quality."
     ]
   },
   {
@@ -691,6 +1217,22 @@
       "des problèmes gravissimes de santé publique",
       "10 ans de vie en moins pour les grands obèses",
       "la malbouffe tue désormais plus que le tabac"
+    ],
+    "english_translation": "7 million French people today officially suffer from obesity-related problems in the broad sense, figures that are also rising with the economic crisis. In the past, people used to say that when the rich lose weight, the poor die — we have clearly entered a different era. In other words, the crisis is also making people fatter, with extremely serious public health consequences: 10 fewer years of life for the severely obese. Unhealthy eating now kills more than tobacco, a historic first — at least according to the findings just published by the United Nations.",
+    "english_translation_highlights": [
+      "7 million French people today officially suffer from obesity-related problems in the broad sense",
+      "figures that are also rising with the economic crisis",
+      "the crisis is also making people fatter",
+      "extremely serious public health consequences",
+      "10 fewer years of life for the severely obese",
+      "Unhealthy eating now kills more than tobacco"
+    ],
+    "english_question": "What observation is made?",
+    "english_options": [
+      "The poor are starving during the crisis.",
+      "Junk food kills as much as tobacco consumption.",
+      "The rich lose weight during this period of crisis.",
+      "Obesity is gaining ground with the economic crisis."
     ]
   },
   {
@@ -707,6 +1249,18 @@
     "highlights": [
       "Les prix des loyers augmentent, rendant l'accès au logement difficile pour de nombreuses personnes, notamment les jeunes et les familles à faibles revenus",
       "notamment les jeunes et les familles à faibles revenus"
+    ],
+    "english_translation": "The housing crisis in France is becoming increasingly worrying. Rental prices are rising, making access to housing difficult for many people, particularly young people and low-income families. Cities lack social and affordable housing, which exacerbates inequalities. It is crucial that measures be taken to increase the housing supply and regulate prices in order to guarantee a roof over everyone's head.",
+    "english_translation_highlights": [
+      "Rental prices are rising, making access to housing difficult for many people, particularly young people and low-income families",
+      "particularly young people and low-income families"
+    ],
+    "english_question": "Which demographic group is specifically affected by the housing crisis in France?",
+    "english_options": [
+      "The elderly and the young.",
+      "Self-employed workers with low incomes.",
+      "Young people and families of modest means.",
+      "Recent immigrants and the young."
     ]
   },
   {
@@ -724,6 +1278,19 @@
       "cette pratique peut entraîner des problèmes de santé graves",
       "Il est important de sensibiliser sur les dangers de cette habitude",
       "promouvoir des alternatives plus saines"
+    ],
+    "english_translation": "In Haiti, clay is often consumed due to traditional beliefs or because of mineral deficiencies. However, this practice can lead to serious health problems. It is important to raise awareness about the dangers of this habit and to promote healthier alternatives.",
+    "english_translation_highlights": [
+      "this practice can lead to serious health problems",
+      "It is important to raise awareness about the dangers of this habit",
+      "promote healthier alternatives"
+    ],
+    "english_question": "It is imminent to…",
+    "english_options": [
+      "Encourage the use of clay in traditional Haitian cuisine.",
+      "Educate about the risks of this practice and encourage optimal choices.",
+      "Establish strict government regulations on clay consumption.",
+      "Encourage the consumption of clay as a source of essential minerals."
     ]
   }
 ]

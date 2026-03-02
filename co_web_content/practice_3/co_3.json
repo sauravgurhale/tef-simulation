@@ -14,6 +14,19 @@
       "un cadeau pour l’anniversaire de Thomas",
       "un abonnement à un magazine de voyage",
       "Il adore explorer de nouveaux endroits"
+    ],
+    "english_translation": "— Have you already thought about a gift for Thomas's birthday? — Yes, maybe a subscription to a travel magazine. He loves exploring new places.",
+    "english_translation_highlights": [
+      "a gift for Thomas's birthday",
+      "a subscription to a travel magazine",
+      "He loves exploring new places"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_3_images/co-3-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -32,6 +45,20 @@
       "téléphone",
       "table basse",
       "salon"
+    ],
+    "english_translation": "\"Can I borrow your charger for my phone?\" \"Of course. It's on the coffee table in the living room.\"",
+    "english_translation_highlights": [
+      "charger",
+      "phone",
+      "coffee table",
+      "living room"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_3_images/co-3-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -50,6 +77,20 @@
       "visites nocturnes",
       "cet été",
       "un soir"
+    ],
+    "english_translation": "— Did you know the museum is doing night visits this summer? Do you feel like going one evening? — Yes, I'd love to.",
+    "english_translation_highlights": [
+      "the museum",
+      "night visits",
+      "this summer",
+      "one evening"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_3_images/co-3-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -66,6 +107,18 @@
     "highlights": [
       "un client",
       "très agressif"
+    ],
+    "english_translation": "— Hi Emma, how are you? — Not really. I had a hard time with a customer today, and on top of that he was very aggressive.",
+    "english_translation_highlights": [
+      "a customer",
+      "very aggressive"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_3_images/co-3-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -83,6 +136,19 @@
       "pour votre sécurité",
       "veuillez surveiller vos enfants",
       "ne pas les laisser s’approcher des animaux"
+    ],
+    "english_translation": "Ladies and gentlemen, for your safety, please watch your children and do not let them approach the animals. Thank you for your attention.",
+    "english_translation_highlights": [
+      "for your safety",
+      "please watch your children",
+      "do not let them approach the animals"
+    ],
+    "english_question": "This message announces that…",
+    "english_options": [
+      "the security service watches the children.",
+      "parents must prevent their children from approaching the animals.",
+      "the children approach the animals.",
+      "the children are safe."
     ]
   },
   {
@@ -98,6 +164,17 @@
     "right_option": "C",
     "highlights": [
       "les appareils électroniques doivent être éteints pendant la représentation"
+    ],
+    "english_translation": "We remind you that electronic devices must be turned off during the performance. Thank you for your cooperation.",
+    "english_translation_highlights": [
+      "electronic devices must be turned off during the performance"
+    ],
+    "english_question": "This message announces that…",
+    "english_options": [
+      "during the performance electronic devices are used.",
+      "electronic devices are forbidden.",
+      "electronic devices must be turned off during the performance.",
+      "the performance is electronic."
     ]
   },
   {
@@ -113,6 +190,17 @@
     "right_option": "A",
     "highlights": [
       "Nous devrions arriver à destination à l’heure prévue"
+    ],
+    "english_translation": "Ladies and gentlemen, the captain welcomes you aboard this flight. We should arrive at our destination at the scheduled time. Our crew is at your disposal for any requests.",
+    "english_translation_highlights": [
+      "We should arrive at our destination at the scheduled time"
+    ],
+    "english_question": "In this message, it is announced…",
+    "english_options": [
+      "the plane should arrive at the destination on time.",
+      "the crew is indisposed.",
+      "it is time to take off.",
+      "the passengers must board on time."
     ]
   },
   {
@@ -133,6 +221,22 @@
       "Jusqu’à -45 %",
       "les outils de jardin, les plantes et les meubles d’extérieur",
       "avant la fin des soldes"
+    ],
+    "english_translation": "Dear customers, this is the last day to discover our incredible discounts in the gardening section, in the basement of our shopping center. Up to 45% off garden tools, plants, and outdoor furniture. Hurry, before the sale ends!",
+    "english_translation_highlights": [
+      "this is the last day",
+      "incredible discounts",
+      "gardening section",
+      "Up to 45% off",
+      "garden tools, plants, and outdoor furniture",
+      "before the sale ends"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "all gardening products are 45% off.",
+      "some gardening products can reach 45% off.",
+      "it is the first day of sales.",
+      "plants are 45% off."
     ]
   },
   {
@@ -150,6 +254,19 @@
       "Je voulais juste vérifier si tout va bien pour toi",
       "J’espère que ton nouveau poste te plaît",
       "Appelle-moi quand tu pourras"
+    ],
+    "english_translation": "Hi Sonia, it's Mom. I just wanted to check if everything's going well for you. I hope you're enjoying your new position. Call me when you can. Kisses.",
+    "english_translation_highlights": [
+      "I just wanted to check if everything's going well for you",
+      "I hope you're enjoying your new position",
+      "Call me when you can"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to congratulate her daughter.",
+      "to get news from her daughter.",
+      "to say hello to her mom.",
+      "to go to the post office."
     ]
   },
   {
@@ -167,6 +284,19 @@
       "je ne pourrai pas assister à la réunion ce soir",
       "car j’ai un imprévu",
       "Désolé pour ce contretemps"
+    ],
+    "english_translation": "Hello Clara, I hope you receive this message in time. Unfortunately, I won't be able to attend the meeting tonight because something unexpected came up. Sorry for the inconvenience.",
+    "english_translation_highlights": [
+      "I won't be able to attend the meeting tonight",
+      "because something unexpected came up",
+      "Sorry for the inconvenience"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to organize a meeting with a client.",
+      "to request a meeting.",
+      "to attend a meeting.",
+      "to inform that she will be absent from a meeting."
     ]
   },
   {
@@ -184,6 +314,19 @@
       "J’aimerais discuter d’une éventuelle entrevue avec vous",
       "Vous m’avez laissé votre CV pour le poste de technicien informatique",
       "Merci de me rappeler au plus vite"
+    ],
+    "english_translation": "Hello, this is Mrs. Lemoine from TechnoServe. You left me your resume for the IT technician position. I would like to discuss a possible interview with you. Please call me back as soon as possible.",
+    "english_translation_highlights": [
+      "I would like to discuss a possible interview with you",
+      "You left me your resume for the IT technician position",
+      "Please call me back as soon as possible"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to offer a job interview.",
+      "to send a CV.",
+      "to work at the TechnoServe company.",
+      "to fire an IT technician."
     ]
   },
   {
@@ -202,6 +345,20 @@
       "En raison des prévisions météorologiques",
       "il se pourrait que le départ soit décalé",
       "Pouvez-vous me rappeler au 800 123 5987"
+    ],
+    "english_translation": "Hello Mr. Dupuis, this is Pauline from Voyage Express company. I'm calling you regarding your bus reservation for tomorrow morning. Due to the weather forecast, the departure may be delayed. Can you call me back at 800 123 5987? Thank you.",
+    "english_translation_highlights": [
+      "I'm calling you regarding your bus reservation for tomorrow morning",
+      "Due to the weather forecast",
+      "the departure may be delayed",
+      "Can you call me back at 800 123 5987"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to warn a traveler that the bus might depart late.",
+      "to announce the weather.",
+      "to book a bus ticket.",
+      "to talk to Pauline."
     ]
   },
   {
@@ -220,6 +377,20 @@
       "Ça fait deux heures que j’attends",
       "toujours pas de nouvelles",
       "Merci de me rappeler dès que possible"
+    ],
+    "english_translation": "Hello, this is Mr. Mbai again regarding the delivery of my fridge, at 12 Rue des Oliviers. I've been waiting for two hours, and still no news. Please call me back as soon as possible.",
+    "english_translation_highlights": [
+      "this is Mr. Mbai again regarding the delivery of my fridge",
+      "I've been waiting for two hours",
+      "still no news",
+      "Please call me back as soon as possible"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to deliver a fridge.",
+      "to change his address.",
+      "to find out why his fridge still hasn't been delivered.",
+      "to have the fridge delivered at 2 PM."
     ]
   },
   {
@@ -236,6 +407,18 @@
     "highlights": [
       "Envoie une copie à Jessica, s’il te plaît",
       "j’ai bien reçu le compte rendu de la réunion"
+    ],
+    "english_translation": "Yes Sarah, I did receive the meeting report. Send a copy to Jessica, please. Thanks in advance.",
+    "english_translation_highlights": [
+      "Send a copy to Jessica, please",
+      "I did receive the meeting report"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to talk about the report with Jessica.",
+      "so that Sarah sends a copy of the report to Jessica.",
+      "to ask Sarah for the report.",
+      "to talk about the report with Sarah."
     ]
   },
   {
@@ -252,6 +435,18 @@
     "highlights": [
       "Donc non, je suis pas d’accord",
       "Ça pourrait mener à des dérives"
+    ],
+    "english_translation": "People might complain just because the doctor didn't prescribe the medication they prefer. So no, I don't agree. It could lead to abuses.",
+    "english_translation_highlights": [
+      "So no, I don't agree",
+      "It could lead to abuses"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "completely for.",
+      "rather favorable.",
+      "completely against.",
+      ""
     ]
   },
   {
@@ -270,6 +465,20 @@
       "ça dépend aussi du contexte",
       "Dans certains cas, ça pourrait même être bénéfique pour les médecins",
       "pourquoi pas"
+    ],
+    "english_translation": "I think patients can provide valuable feedback, but it also depends on the context. In some cases, it could even be beneficial for doctors, so why not.",
+    "english_translation_highlights": [
+      "I think patients can provide valuable feedback",
+      "it also depends on the context",
+      "In some cases, it could even be beneficial for doctors",
+      "why not"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "completely for.",
+      "rather favorable.",
+      "completely against.",
+      ""
     ]
   },
   {
@@ -286,6 +495,18 @@
     "highlights": [
       "Je crois que c’est une très bonne idée",
       "ça pourrait aider à améliorer les soins"
+    ],
+    "english_translation": "Patients often have an interesting perspective on the way they are cared for. I believe it is a very good idea and that it could help improve care.",
+    "english_translation_highlights": [
+      "I believe it is a very good idea",
+      "it could help improve care"
+    ],
+    "english_question": "The person being questioned is…",
+    "english_options": [
+      "completely for.",
+      "rather favorable.",
+      "completely against.",
+      ""
     ]
   },
   {
@@ -302,6 +523,18 @@
     "highlights": [
       "Je n’ai jamais vraiment fait attention à ce que je mange",
       "Je ne pense pas que ce soit crucial"
+    ],
+    "english_translation": "I've never really paid attention to what I eat and I'm doing fine. I don't think it's crucial.",
+    "english_translation_highlights": [
+      "I've never really paid attention to what I eat",
+      "I don't think it's crucial"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is not important.",
+      "has no opinion on the matter.",
+      ""
     ]
   },
   {
@@ -320,6 +553,20 @@
       "c’est absolument essentiel",
       "Une alimentation équilibrée est la base d’une bonne santé",
       "ça a été prouvé scientifiquement"
+    ],
+    "english_translation": "As a dietitian, I would say that yes, it is absolutely essential. A balanced diet is the foundation of good health; that has been scientifically proven.",
+    "english_translation_highlights": [
+      "As a dietitian, I would say that yes",
+      "it is absolutely essential",
+      "A balanced diet is the foundation of good health",
+      "that has been scientifically proven"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is not important.",
+      "has no opinion on the matter.",
+      ""
     ]
   },
   {
@@ -337,6 +584,19 @@
       "c’est important",
       "ce n’est pas la fin du monde",
       "il faut aussi savoir se faire plaisir de temps en temps"
+    ],
+    "english_translation": "I try to eat healthily, but I think you also need to know how to treat yourself from time to time. So, it's important, but it's not the end of the world if you indulge a little.",
+    "english_translation_highlights": [
+      "it's important",
+      "it's not the end of the world",
+      "you also need to know how to treat yourself from time to time"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is important but not essential.",
+      "thinks it is not important.",
+      ""
     ]
   },
   {
@@ -354,6 +614,19 @@
       "Une coopérative locale a mis en place un service de compostage collectif accessible à tous les habitants des environs",
       "Chaque semaine, un camion collecte les déchets organiques chez les particuliers et les restaurants",
       "puis les transforme en compost de qualité distribué gratuitement aux jardiniers locaux"
+    ],
+    "english_translation": "This morning, I'm taking you to Brittany to discover a remarkable ecological initiative. A local cooperative has set up a collective composting service accessible to all residents in the surrounding area. Each week, a truck collects organic waste from private households and restaurants, then transforms it into quality compost distributed free of charge to local gardeners. This initiative helps reduce waste, enrich the soil, and create a true virtuous cycle in the region. In a time of environmental crisis, this is a wonderful illustration of what can be accomplished at the local level to preserve our planet and strengthen the bonds between residents.",
+    "english_translation_highlights": [
+      "A local cooperative has set up a collective composting service accessible to all residents in the surrounding area",
+      "Each week, a truck collects organic waste from private households and restaurants",
+      "then transforms it into quality compost distributed free of charge to local gardeners"
+    ],
+    "english_question": "This article presents a cooperative that…",
+    "english_options": [
+      "collects and recycles plastics from the region.",
+      "organizes a collective composting service for residents and restaurants.",
+      "develops a solar energy network for local households.",
+      "offers gardening classes to raise ecological awareness."
     ]
   },
   {
@@ -374,6 +647,22 @@
       "Selon les neurologues, cela stimule la mémoire, améliore la concentration et réduit le stress",
       "la lecture a également des vertus méditatives",
       "En prenant le temps de plonger dans un bon livre, on s’offre une pause bien méritée, un moment de calme dans un quotidien souvent trépidant"
+    ],
+    "english_translation": "Dear listeners, today I invite you to rediscover reading, a simple pleasure that sometimes seems forgotten in our hyperconnected world. Reading is not just about escaping; it is also an excellent exercise for the brain. According to neurologists, it stimulates memory, improves concentration, and reduces stress. But that's not all: reading also has meditative qualities. By taking the time to dive into a good book, you give yourself a well-deserved break, a moment of calm in an often hectic daily life. So, whether you are fans of novels, essays, or poetry, don't hesitate to treat yourself to this little pleasure regularly. It is a gift you give to your mind, and it will carry you much further than you think.",
+    "english_translation_highlights": [
+      "a simple pleasure that sometimes seems forgotten in our hyperconnected world",
+      "Reading is not just about escaping",
+      "it is also an excellent exercise for the brain",
+      "According to neurologists, it stimulates memory, improves concentration, and reduces stress",
+      "reading also has meditative qualities",
+      "By taking the time to dive into a good book, you give yourself a well-deserved break, a moment of calm in an often hectic daily life"
+    ],
+    "english_question": "According to this chronicle…",
+    "english_options": [
+      "reading has become obsolete in a hyperconnected world.",
+      "reading only allows one to escape and be entertained.",
+      "reading offers cognitive benefits such as improved memory and reduced stress.",
+      "reading has no effect on concentration or stress."
     ]
   },
   {
@@ -395,6 +684,23 @@
       "Nous devons penser à une transition progressive",
       "Interdire brutalement, c’est risquer de pénaliser des milliers de personnes",
       "Il est essentiel d’investir d’abord dans des alternatives efficaces"
+    ],
+    "english_translation": "Tonight, we welcome the prefect of Lyon, Mrs. Isabelle Martin. — Good evening, Mrs. Martin. — Good evening, Mr. Dupuis. — While protests against urban pollution are increasing, you recently stated that Lyon is on the right track to becoming a greener city. Is that really possible? — The real challenge is that there is still a lot to be done to reduce car traffic and improve public transportation. By going in this direction, Lyon will become greener and greener. — Why did you choose not to ban diesel vehicles from the city center? — We need to think about a gradual transition. Banning them abruptly means risking penalizing thousands of people. It is essential to first invest in effective alternatives, such as bike lanes and electric transportation.",
+    "english_translation_highlights": [
+      "The real challenge is that there is still a lot to be done to reduce car traffic and improve public transportation",
+      "there is still a lot to be done",
+      "Lyon is on the right track to becoming a greener city",
+      "By going in this direction, Lyon will become greener and greener",
+      "We need to think about a gradual transition",
+      "Banning them abruptly means risking penalizing thousands of people",
+      "It is essential to first invest in effective alternatives"
+    ],
+    "english_question": "According to the invited person…",
+    "english_options": [
+      "Lyon has already become a completely green city.",
+      "reducing car traffic and improving public transportation are important challenges.",
+      "there is no more urban pollution in Lyon thanks to her.",
+      "vehicles must be banned from the city center of Lyon."
     ]
   },
   {
@@ -412,6 +718,19 @@
       "Nous devons penser à une transition progressive.",
       "Interdire brutalement, c’est risquer de pénaliser des milliers de personnes.",
       "Il est essentiel d’investir d’abord dans des alternatives efficaces, comme des pistes cyclables et des transports électriques."
+    ],
+    "english_translation": "Tonight, we welcome the Prefect of Lyon, Mrs. Isabelle Martin. — Good evening, Mrs. Martin. — Good evening, Mr. Dupuis. — While protests against urban pollution are increasing, you recently stated that Lyon is on the right track to becoming a greener city. Is that really possible? — The real challenge is that there is still a lot to be done to reduce car traffic and improve public transportation. By moving in this direction, Lyon will become greener and greener. — Why did you choose not to ban diesel vehicles from the city center? — We need to think about a gradual transition. Banning them abruptly means risking penalizing thousands of people. It is essential to first invest in effective alternatives, such as bike lanes and electric transportation.",
+    "english_translation_highlights": [
+      "We need to think about a gradual transition.",
+      "Banning them abruptly means risking penalizing thousands of people.",
+      "It is essential to first invest in effective alternatives, such as bike lanes and electric transportation."
+    ],
+    "english_question": "The guest indicates that…",
+    "english_options": [
+      "diesel vehicles will never be banned in Lyon.",
+      "the immediate ban on diesel vehicles is the best solution.",
+      "a progressive transition is necessary so as not to penalize residents.",
+      "current public transportation is sufficient to reduce pollution."
     ]
   },
   {
@@ -431,6 +750,21 @@
       "dont les œuvres artistiques sont indissociables de ses inventions",
       "l’art n’est pas seulement une question de talent, c’est aussi un outil puissant pour comprendre et interpréter le monde",
       "Encourager les jeunes à explorer ces domaines, c’est leur donner des clés pour innover"
+    ],
+    "english_translation": "Professor Sarah Ben Ali, you are hosting a conference at the University of Tunis on the importance of the arts in modern education. — Why emphasize art in an increasingly technological world? — The problem is that we steer young people toward technical fields while forgetting that art stimulates creativity, which is an essential skill even in technology. I often cite the example of Leonardo da Vinci, whose artistic works are inseparable from his inventions. — Is it difficult today to convince institutions to integrate more art into school curricula? — It is a challenge, particularly in scientific institutions, which tend to see art as foreign to science. But art is not just a matter of talent; it is also a powerful tool for understanding and interpreting the world. Encouraging young people to explore these fields means giving them the keys to innovate.",
+    "english_translation_highlights": [
+      "art stimulates creativity, which is an essential skill even in technology",
+      "we steer young people toward technical fields while forgetting that art stimulates creativity",
+      "whose artistic works are inseparable from his inventions",
+      "art is not just a matter of talent; it is also a powerful tool for understanding and interpreting the world",
+      "Encouraging young people to explore these fields means giving them the keys to innovate"
+    ],
+    "english_question": "According to the guest…",
+    "english_options": [
+      "art and technology have no connection.",
+      "creativity, stimulated by art, is essential even in technological fields.",
+      "art is less important than technical subjects in education.",
+      "art only concerns talented people."
     ]
   },
   {
@@ -449,6 +783,20 @@
       "notamment dans les institutions scientifiques",
       "qui tendent à voir l’art comme étranger à la science",
       "nous orientons les jeunes vers des domaines techniques en oubliant que l’art stimule la créativité"
+    ],
+    "english_translation": "Professor Sarah Ben Ali, you are hosting a conference at the University of Tunis on the importance of the arts in modern education. — Why emphasize art in an increasingly technological world? — The problem is that we steer young people toward technical fields while forgetting that art stimulates creativity, which is an essential skill even in technology. I often cite the example of Leonardo da Vinci, whose artistic works are inseparable from his inventions. — Is it difficult today to convince institutions to integrate more art into school curricula? — It is a challenge, particularly in scientific institutions, which tend to see art as foreign to science. But art is not just a matter of talent; it is also a powerful tool for understanding and interpreting the world. Encouraging young people to explore these fields means giving them the keys to innovate.",
+    "english_translation_highlights": [
+      "It is a challenge",
+      "particularly in scientific institutions",
+      "which tend to see art as foreign to science",
+      "we steer young people toward technical fields while forgetting that art stimulates creativity"
+    ],
+    "english_question": "According to the guest, the institutions…",
+    "english_options": [
+      "easily integrate art into their school programs.",
+      "see art as an important tool for scientific innovation.",
+      "struggle to integrate art into programs, especially in scientific disciplines.",
+      "give no importance to the teaching of technical subjects."
     ]
   },
   {
@@ -465,6 +813,18 @@
     "highlights": [
       "C’est une ville portuaire, au carrefour de l’Europe et de la Méditerranée, ce qui en fait un point stratégique pour le commerce, y compris le commerce illicite.",
       "Cette position géographique, combinée à des quartiers où le chômage est élevé et les perspectives économiques sont limitées, crée un environnement propice à l’implantation des réseaux de trafic de drogue."
+    ],
+    "english_translation": "Today, we welcome Antoine Leclerc, sociologist and specialist in urban security issues. We are going to talk about drug trafficking in Marseille. — Good morning, Mr. Leclerc. — Good morning, thank you for having me. — Why is Marseille particularly affected by this phenomenon? — It is a port city, at the crossroads of Europe and the Mediterranean, which makes it a strategic point for trade, including illicit trade. This geographical position, combined with neighborhoods where unemployment is high and economic prospects are limited, creates an environment conducive to the establishment of drug trafficking networks. — The violence linked to this trafficking seems to be intensifying. To what do you attribute this escalation? — Competition between networks has increased in recent years. New players, often very young, are trying to carve out a place for themselves, which leads to an increase in violence. Moreover, the organization of networks has become more fragmented, with small gangs fighting over control of territory, which increases conflicts. — Law enforcement is stepping up operations to counter this phenomenon. Is that sufficient, in your opinion? — Police efforts are essential and must continue. But repression alone will not solve everything. It is crucial to accompany these measures with prevention policies. Young people must have viable alternatives to drug trafficking in order to truly reduce the appeal of this world.",
+    "english_translation_highlights": [
+      "It is a port city, at the crossroads of Europe and the Mediterranean, which makes it a strategic point for trade, including illicit trade.",
+      "This geographical position, combined with neighborhoods where unemployment is high and economic prospects are limited, creates an environment conducive to the establishment of drug trafficking networks."
+    ],
+    "english_question": "The invited person thinks that…",
+    "english_options": [
+      "Marseille is affected by drug trafficking due to its modern port infrastructure.",
+      "Marseille's geographical position and high unemployment in certain neighborhoods facilitate the development of trafficking networks.",
+      "Drug trafficking is a recent problem in Marseille.",
+      "The phenomenon is caused solely by the inaction of local authorities."
     ]
   },
   {
@@ -484,6 +844,21 @@
       "Il est crucial d’accompagner ces mesures par des politiques de prévention.",
       "Les jeunes doivent avoir des alternatives viables au trafic de drogue",
       "pour réellement réduire l’attractivité de ce milieu"
+    ],
+    "english_translation": "Today, we welcome Antoine Leclerc, sociologist and specialist in urban security issues. We are going to talk about drug trafficking in Marseille. — Good morning, Mr. Leclerc. — Good morning, thank you for having me. — Why is Marseille particularly affected by this phenomenon? — It is a port city, at the crossroads of Europe and the Mediterranean, which makes it a strategic point for trade, including illicit trade. This geographical position, combined with neighborhoods where unemployment is high and economic prospects are limited, creates an environment conducive to the establishment of drug trafficking networks. — The violence linked to this trafficking seems to be intensifying. To what do you attribute this escalation? — Competition between networks has increased in recent years. New players, often very young, are trying to carve out a place for themselves, which leads to an increase in violence. Moreover, the organization of networks has become more fragmented, with small gangs fighting over control of territory, which heightens conflicts. — Law enforcement is stepping up operations to counter this phenomenon. Is that sufficient, in your opinion? — Police efforts are essential and must continue. But repression alone will not solve everything. It is crucial to accompany these measures with prevention policies. Young people must have viable alternatives to drug trafficking in order to truly reduce the appeal of this environment.",
+    "english_translation_highlights": [
+      "Police efforts are essential and must continue.",
+      "repression alone will not solve everything",
+      "It is crucial to accompany these measures with prevention policies.",
+      "Young people must have viable alternatives to drug trafficking",
+      "in order to truly reduce the appeal of this environment"
+    ],
+    "english_question": "For the guest…",
+    "english_options": [
+      "police repression is sufficient to solve the drug trafficking problem in Marseille.",
+      "only prevention will make it possible to eradicate drug trafficking.",
+      "police efforts must be accompanied by prevention policies and the creation of alternatives for young people.",
+      "the young people of Marseille are not involved in drug trafficking networks."
     ]
   },
   {
@@ -511,6 +886,29 @@
       "Franchement, c’est génial",
       "les Jeux olympiques de Paris ne sont plus seulement une compétition internationale, mais bien un moment de liesse partagé par toute une nation",
       "Un pari réussi, malgré les doutes initiaux"
+    ],
+    "english_translation": "In the stadiums, on the giant screens set up in parks, and in bars, the atmosphere is festive. The performances of French athletes, who have already won several medals, are sparking waves of enthusiasm across the country. Supporters, dressed in blue, white, and red, gather by the thousands to cheer on their champions. Yet, just a few months ago, this very event was raising concerns among certain political figures, particularly on the extremes of the political spectrum. There was talk of excessive public spending, security risks, and a possible social divide. Some feared that these Games would only benefit an elite, leaving aside the concerns of the most modest French citizens. But it must be acknowledged that since the Games began, the reality has been quite different. The security measures, closely scrutinized, have proven effective, and events are taking place without any major incidents. The costs, although substantial, are offset by considerable economic and tourism benefits. The public has shown up in force, and the critics have largely fallen silent in the face of the obvious popular success. Nadia, an expatriate living in Canada, took last-minute leave to return to France and take part in the excitement of the Games: \"It's wonderful to see the French proud of their athletes. Everyone is happy, it's incredible. Honestly, it's amazing. I was abroad and I came back to Paris specifically for this—I didn't want to miss it.\" In this month of July 2024, the Paris Olympic Games are no longer just an international competition, but truly a moment of joy shared by an entire nation. A successful gamble, despite the initial doubts. Georges Altice, Paris, Radio Française.",
+    "english_translation_highlights": [
+      "the atmosphere is festive",
+      "The performances of French athletes, who have already won several medals, are sparking waves of enthusiasm across the country",
+      "Supporters, dressed in blue, white, and red, gather by the thousands to cheer on their champions",
+      "since the Games began, the reality has been quite different",
+      "The security measures, closely scrutinized, have proven effective, and events are taking place without any major incidents",
+      "The costs, although substantial, are offset by considerable economic and tourism benefits",
+      "The public has shown up in force",
+      "the critics have largely fallen silent in the face of the obvious popular success",
+      "It's wonderful to see the French proud of their athletes",
+      "Everyone is happy, it's incredible",
+      "Honestly, it's amazing",
+      "the Paris Olympic Games are no longer just an international competition, but truly a moment of joy shared by an entire nation",
+      "A successful gamble, despite the initial doubts"
+    ],
+    "english_question": "This report deals with…",
+    "english_options": [
+      "the management of public spending in France.",
+      "concerns related to safety in stadiums.",
+      "the national enthusiasm generated by the Paris 2024 Olympic Games.",
+      "the difficulty of organizing sporting events in France."
     ]
   },
   {
@@ -540,6 +938,31 @@
       "Tout le monde est joyeux, c’est incroyable",
       "les Jeux olympiques de Paris ne sont plus seulement une compétition internationale, mais bien un moment de liesse partagé par toute une nation",
       "Un pari réussi, malgré les doutes initiaux"
+    ],
+    "english_translation": "In the stadiums, on the giant screens set up in parks, and in bars, the atmosphere is festive. The performances of French athletes, who have already won several medals, are sparking waves of enthusiasm across the country. Supporters, dressed in blue, white, and red, gather by the thousands to cheer on their champions. Yet, just a few months ago, this very event was raising concerns among certain political figures, particularly at the extremes of the political spectrum. There was talk of excessive public spending, security risks, and a possible social divide. Some feared that these Games would only benefit an elite, leaving aside the concerns of the most modest French citizens. But it must be acknowledged that since the Games began, the reality has been quite different. The security measures, closely scrutinized, have proven effective, and events are proceeding without any major incident. The costs, although substantial, are offset by considerable economic and tourism benefits. The public has shown up in force, and the critics have largely fallen silent in the face of the obvious popular success. Nadia, an expatriate living in Canada, took last-minute leave to return to France and take part in the excitement of the Games: \"It's wonderful to see the French proud of their athletes. Everyone is happy, it's incredible. Honestly, it's amazing. I was abroad and I came back to Paris specifically for this—I didn't want to miss it.\" In this month of July 2024, the Paris Olympic Games are no longer just an international competition, but truly a moment of joy shared by an entire nation. A successful gamble, despite the initial doubts. Georges Altice, Paris, Radio Française.",
+    "english_translation_highlights": [
+      "the atmosphere is festive",
+      "The performances of French athletes, who have already won several medals, are sparking waves of enthusiasm across the country",
+      "Supporters, dressed in blue, white, and red, gather by the thousands to cheer on their champions",
+      "just a few months ago, this very event was raising concerns among certain political figures",
+      "There was talk of excessive public spending, security risks, and a possible social divide",
+      "Some feared that these Games would only benefit an elite, leaving aside the concerns of the most modest French citizens",
+      "it must be acknowledged that since the Games began, the reality has been quite different",
+      "The security measures, closely scrutinized, have proven effective",
+      "events are proceeding without any major incident",
+      "The costs, although substantial, are offset by considerable economic and tourism benefits",
+      "the critics have largely fallen silent in the face of the obvious popular success",
+      "It's wonderful to see the French proud of their athletes",
+      "Everyone is happy, it's incredible",
+      "the Paris Olympic Games are no longer just an international competition, but truly a moment of joy shared by an entire nation",
+      "A successful gamble, despite the initial doubts"
+    ],
+    "english_question": "According to the journalist…",
+    "english_options": [
+      "the Paris 2024 Olympic Games caused a significant social divide.",
+      "the initial concerns regarding the safety and costs of the Games proved to be well-founded.",
+      "the Games helped unite the nation, despite the initial criticism.",
+      "sporting events in France take place with several incidents."
     ]
   },
   {
@@ -558,6 +981,20 @@
       "un film qui retrace la vie du légendaire pianiste et chanteur",
       "Jamie Foxx incarne Charles avec brio",
       "Ce biopic explore son parcours, ses batailles personnelles et sa contribution immense à la musique soul"
+    ],
+    "english_translation": "And why not end this Sunday with music, with Ray Charles? Tonight at 9 PM, Arte is broadcasting Ray, a film that traces the life of the legendary pianist and singer. This biopic explores his journey, his personal battles, and his immense contribution to soul music. Jamie Foxx portrays Charles brilliantly, delivering a memorable performance both vocally and artistically.",
+    "english_translation_highlights": [
+      "Tonight at 9 PM, Arte is broadcasting Ray",
+      "a film that traces the life of the legendary pianist and singer",
+      "Jamie Foxx portrays Charles brilliantly",
+      "This biopic explores his journey, his personal battles, and his immense contribution to soul music"
+    ],
+    "english_question": "According to this chronicle…",
+    "english_options": [
+      "the film Ray will be broadcast on France 2 tonight.",
+      "Ray is a documentary about soul music.",
+      "Jamie Foxx plays the role of Ray Charles in the film broadcast tonight on Arte.",
+      "the film Ray focuses solely on Ray Charles's musical career, without mentioning his personal struggles."
     ]
   },
   {
@@ -578,6 +1015,22 @@
       "leur plan pour réduire de quarante-cinq pour cent leurs émissions de CO₂",
       "sur une période de cinq ans",
       "ces entreprises ont trop longtemps ignoré leurs responsabilités"
+    ],
+    "english_translation": "In Germany, the NGO Cleaner sent a letter this Thursday to twenty-five major companies denouncing their environmental impact. The organization is asking these companies to publish by March 15 their plan to reduce their CO₂ emissions by forty-five percent over a five-year period. According to the Cleaner spokesperson, these companies have ignored their responsibilities for too long, endangering the planet for the sake of their economic growth. They must now take action to preserve a healthy environment for future generations.",
+    "english_translation_highlights": [
+      "the NGO Cleaner",
+      "The organization is asking these companies to publish",
+      "by March 15",
+      "their plan to reduce their CO₂ emissions by forty-five percent",
+      "over a five-year period",
+      "these companies have ignored their responsibilities for too long"
+    ],
+    "english_question": "According to this information…",
+    "english_options": [
+      "Clean Earth is a governmental organization in Germany.",
+      "Clean Earth asks companies to reduce their CO2 emissions by 45% in one year.",
+      "Clean Earth requires companies to publish their CO2 emission reduction plans.",
+      "Clean Earth congratulates these companies for their ecological efforts."
     ]
   },
   {
@@ -595,6 +1048,19 @@
       "D’abord, un retour rapide sur l’e-mail de Marie concernant le partenariat avec Greentech",
       "Ensuite, nous passerons en revue les chiffres des ventes pour le trimestre en cours",
       "Enfin, Michel nous présentera les dernières mises à jour sur le projet de refonte du site web"
+    ],
+    "english_translation": "Hello everyone, thank you for being here this morning. On the agenda, we have several points to cover. First, a quick follow-up on Marie's email regarding the partnership with Greentech. Then, we will review the sales figures for the current quarter, followed by an update on internal communication. Finally, Michel will present the latest updates on the website redesign project. If you have any questions before we begin, don't hesitate.",
+    "english_translation_highlights": [
+      "First, a quick follow-up on Marie's email regarding the partnership with Greentech",
+      "Then, we will review the sales figures for the current quarter",
+      "Finally, Michel will present the latest updates on the website redesign project"
+    ],
+    "english_question": "The manager…",
+    "english_options": [
+      "begins with a detailed review of the quarterly sales.",
+      "informs that Michel will speak first about the website redesign.",
+      "invites the team to ask questions after the presentation.",
+      "plans to discuss the partnership with GreenTech first."
     ]
   },
   {
@@ -614,6 +1080,21 @@
       "a mis en place un ambitieux plan pour doubler les espaces verts",
       "Ce projet, bien que coûteux, a permis à la ville de se démarquer",
       "récemment"
+    ],
+    "english_translation": "Bordeaux was recently voted the greenest city in France. This recognition is a source of pride for the mayor, Julie Lefebvre, who implemented an ambitious plan to double green spaces in urban areas. This project, although costly, has allowed the city to stand out, particularly in terms of quality of life. As municipal elections approach, all candidates are now committing to continuing these efforts and going even further to make Bordeaux a model of a sustainable city.",
+    "english_translation_highlights": [
+      "Bordeaux was recently voted the greenest city in France",
+      "This recognition is a source of pride for the mayor, Julie Lefebvre, who implemented an ambitious plan to double green spaces in urban areas",
+      "implemented an ambitious plan to double green spaces",
+      "This project, although costly, has allowed the city to stand out",
+      "recently"
+    ],
+    "english_question": "According to this information…",
+    "english_options": [
+      "Bordeaux was elected the greenest city in Europe.",
+      "Julie Lefebvre is the candidate in the next municipal elections.",
+      "The city of Bordeaux has implemented a plan to double its green spaces.",
+      "Bordeaux's ecological plan has been recently recognized."
     ]
   },
   {
@@ -633,6 +1114,21 @@
       "des artistes comme MC Solaar ont utilisé la musique pour exprimer leur identité et leur place dans la société française",
       "Leur travail a été une réponse aux défis de l’intégration et aux discriminations",
       "les jeunes issus de l’immigration avaient autant leur place dans le paysage culturel français que quiconque"
+    ],
+    "english_translation": "The exhibition Nouvelle Vague explores the artistic effervescence of urban youth from the 1980s to the 1990s. This era was marked by the influences of American hip-hop on young people from the French suburbs, particularly those from immigrant backgrounds. The title echoes the cultural movement of those decades, when artists like MC Solaar used music to express their identity and their place in French society. Their work was a response to the challenges of integration and discrimination, affirming that young people from immigrant backgrounds had just as much of a place in the French cultural landscape as anyone else.",
+    "english_translation_highlights": [
+      "The exhibition Nouvelle Vague explores the artistic effervescence of urban youth from the 1980s to the 1990s",
+      "This era was marked by the influences of American hip-hop on young people from the French suburbs, particularly those from immigrant backgrounds",
+      "artists like MC Solaar used music to express their identity and their place in French society",
+      "Their work was a response to the challenges of integration and discrimination",
+      "young people from immigrant backgrounds had just as much of a place in the French cultural landscape as anyone else"
+    ],
+    "english_question": "Based on this chronicle…",
+    "english_options": [
+      "the exhibition highlights the art of young people from immigrant backgrounds in the 90s.",
+      "the exhibition \"Nouvelle Vague\" is dedicated to classical music of the 90s.",
+      "MC Solaar is the only artist presented in the exhibition.",
+      "the exhibition focuses solely on the challenges of integration without addressing discrimination."
     ]
   },
   {
@@ -651,6 +1147,20 @@
       "en attendant la mise en place du permis à points",
       "suspend",
       "temporairement"
+    ],
+    "english_translation": "The General Directorate of Transport has decided to temporarily suspend sanctions related to the withdrawal of driving licenses, pending the implementation of the points-based license system. This decision aims to streamline administrative procedures and focus on road accident prevention. License suspensions often lead to disproportionate consequences, particularly for professional drivers who risk losing their jobs over minor offenses.",
+    "english_translation_highlights": [
+      "has decided to temporarily suspend sanctions related to the withdrawal of driving licenses",
+      "pending the implementation of the points-based license system",
+      "suspend",
+      "temporarily"
+    ],
+    "english_question": "According to this message…",
+    "english_options": [
+      "the general directorate of transport has decided to eliminate penalties related to traffic violations.",
+      "the points-based license system has already been implemented by the general directorate of transport.",
+      "the suspension of penalties for license withdrawal is temporary, pending the implementation of the points-based license system.",
+      "license suspensions do not apply to professional drivers."
     ]
   },
   {
@@ -672,6 +1182,23 @@
       "Nos produits sont frais, locaux et issus d’une agriculture raisonnée",
       "Nous souhaitons simplement offrir une option saine et authentique aux habitants de Lyon",
       "Ce modèle pourrait être étendu à d’autres villes françaises dans les mois à venir"
+    ],
+    "english_translation": "In order to promote local products and support French agriculture, the city of Lyon has inaugurated the first Marché Express, a fast-food concept where customers can enjoy dishes prepared from local products. This project aims to offer an alternative to international fast-food chains, which dominate the urban landscape. The manager of Marché Express explains: \"We are not trying to compete with fast-food giants. Our products are fresh, local, and sourced from sustainable farming. We simply wish to offer a healthy and authentic option to the residents of Lyon.\" This model could be expanded to other French cities in the coming months.",
+    "english_translation_highlights": [
+      "In order to promote local products and support French agriculture",
+      "a fast-food concept where customers can enjoy dishes prepared from local products",
+      "This project aims to offer an alternative to international fast-food chains",
+      "We are not trying to compete with fast-food giants",
+      "Our products are fresh, local, and sourced from sustainable farming",
+      "We simply wish to offer a healthy and authentic option to the residents of Lyon",
+      "This model could be expanded to other French cities in the coming months"
+    ],
+    "english_question": "Based on this chronicle…",
+    "english_options": [
+      "the \"Marché Express\" only offers vegetarian dishes.",
+      "the concept of the \"Marché Express\" seeks to replace international fast-food chains.",
+      "the \"Marché Express\" offers dishes prepared from local products to promote French agriculture.",
+      "the project is limited to Lyon and will not be extended to other cities."
     ]
   },
   {
@@ -690,6 +1217,20 @@
       "L’un des principaux obstacles est le coût initial des installations, qui reste prohibitif pour de nombreuses familles",
       "la complexité des démarches administratives décourage les particuliers",
       "il est essentiel de simplifier l’accès à ces technologies et de réduire leurs coûts pour les ménages"
+    ],
+    "english_translation": "This morning we will look at the report from the National Energy Agency concerning the transition to renewable energy in France. The document reveals that, despite the efforts made to encourage the installation of solar panels and wind turbines, the country is still far from reaching its objectives. One of the main obstacles is the initial cost of installations, which remains prohibitive for many families. Moreover, the complexity of administrative procedures discourages private individuals. For France to become a leader in renewable energy, it is essential to simplify access to these technologies and reduce their costs for households.",
+    "english_translation_highlights": [
+      "the country is still far from reaching its objectives",
+      "One of the main obstacles is the initial cost of installations, which remains prohibitive for many families",
+      "the complexity of administrative procedures discourages private individuals",
+      "it is essential to simplify access to these technologies and reduce their costs for households"
+    ],
+    "english_question": "According to this message…",
+    "english_options": [
+      "France has already reached its renewable energy targets.",
+      "the main obstacle to the energy transition in France is the lack of solar and wind technologies.",
+      "the National Energy Agency offers no solutions to simplify access to renewable energies.",
+      "the high cost of installations and administrative complexity are hindering the adoption of renewable energies in France."
     ]
   },
   {
@@ -708,6 +1249,20 @@
       "Beaucoup préfèrent désormais les plateformes de streaming et les contenus disponibles à la demande",
       "cette désaffection télévisuelle",
       "Le modèle classique de la télévision, avec ses horaires fixes et ses publicités, semble de moins en moins en phase avec les attentes d’une génération habituée à la flexibilité et à l’absence d’interruption publicitaire"
+    ],
+    "english_translation": "Are young French people abandoning traditional television? The question arises as figures show a continuous decline in viewership among 18-30 year olds. Many now prefer streaming platforms and on-demand content. According to some analysts, this television disenchantment could upend the French media industry. The traditional television model, with its fixed schedules and advertisements, seems increasingly out of step with the expectations of a generation accustomed to flexibility and the absence of commercial interruptions. Some predict that if this trend continues, channels will have to radically rethink their offerings to remain relevant.",
+    "english_translation_highlights": [
+      "continuous decline in viewership among 18-30 year olds",
+      "Many now prefer streaming platforms and on-demand content",
+      "this television disenchantment",
+      "The traditional television model, with its fixed schedules and advertisements, seems increasingly out of step with the expectations of a generation accustomed to flexibility and the absence of commercial interruptions"
+    ],
+    "english_question": "According to the journalist…",
+    "english_options": [
+      "young French people prefer streaming platforms to traditional television.",
+      "traditional television is experiencing rising viewership among 18-30 year olds.",
+      "young French people are watching traditional television more and more.",
+      "television channels are not planning any changes in response to this trend."
     ]
   },
   {
@@ -729,6 +1284,23 @@
       "prouver cette manipulation peut s’avérer compliquée",
       "Dans certains cas, le produit est de qualité et la baisse de prix s’explique par un surplus de stock",
       "Cependant"
+    ],
+    "english_translation": "Imagine a pair of sports shoes advertised at 200 euros, then marked down to 120 euros, only to end up slashed to 70 euros. An impressive reduction, but is it really a good deal? In some cases, the product is of quality and the price drop is explained by excess stock. However, it's not uncommon for the initial price to be artificially inflated to simulate a significant discount. This practice, although common, violates consumer protection regulations, which stipulate that the original price must be justified and must have been applied over a reasonable period. The problem for buyers is determining whether the original price was legitimate. Retailers often use this gray area to attract customers, but proving this manipulation can turn out to be complicated.",
+    "english_translation_highlights": [
+      "it's not uncommon for the initial price to be artificially inflated to simulate a significant discount",
+      "This practice, although common, violates consumer protection regulations",
+      "The problem for buyers is determining whether the original price was legitimate",
+      "Retailers often use this gray area to attract customers",
+      "proving this manipulation can turn out to be complicated",
+      "In some cases, the product is of quality and the price drop is explained by excess stock",
+      "However"
+    ],
+    "english_question": "According to this information…",
+    "english_options": [
+      "merchants always comply with pricing regulations.",
+      "it is easy for consumers to prove that the initial price is artificially inflated.",
+      "some merchants artificially inflate initial prices to simulate significant discounts.",
+      "discounts are all genuine, you just need a surplus of stock."
     ]
   }
 ]

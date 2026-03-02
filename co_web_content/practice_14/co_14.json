@@ -14,6 +14,19 @@
       "je vais préparer des légumes",
       "les enfants",
       "ils adorent ça"
+    ],
+    "english_translation": "Hi Clara, tonight I'm going to prepare some vegetables. Do you think the kids will enjoy them? That's a good idea because they love that.",
+    "english_translation_highlights": [
+      "I'm going to prepare some vegetables",
+      "the kids",
+      "they love that"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_14_images/co-14-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -32,6 +45,20 @@
       "dans ta chambre",
       "il dort",
       "sous le lit"
+    ],
+    "english_translation": "I've been looking for the cat for a while. Do you know where it is? It's in your room, sleeping under the bed.",
+    "english_translation_highlights": [
+      "the cat",
+      "in your room",
+      "sleeping",
+      "under the bed"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_14_images/co-14-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -47,6 +74,17 @@
     "right_option": "D",
     "highlights": [
       "spectacle de rue"
+    ],
+    "english_translation": "Hi Stella, do you feel like taking part in a street show? Great, I've always dreamed of doing that, when is it?",
+    "english_translation_highlights": [
+      "street show"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_14_images/co-14-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -63,6 +101,18 @@
     "highlights": [
       "au bureau",
       "un retard d'environ 30 minutes"
+    ],
+    "english_translation": "Hello Pierre, we're all waiting for you, where are you? Sorry, I'm still at the office. I'm going to arrive about 30 minutes late.",
+    "english_translation_highlights": [
+      "at the office",
+      "about 30 minutes late"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_14_images/co-14-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -82,6 +132,21 @@
       "Formulée avec des ingrédients naturels, Éclats Brillant",
       "hydrate, régénère et illumine votre peau",
       "Ne manquez pas cette opportunité"
+    ],
+    "english_translation": "Dear customers, come to the cosmetics section to discover the new revolutionary skincare range. Formulated with natural ingredients, Éclats Brillant hydrates, regenerates, and illuminates your skin. Don't miss this opportunity to shine!",
+    "english_translation_highlights": [
+      "come to the cosmetics section to discover",
+      "the new revolutionary skincare range",
+      "Formulated with natural ingredients, Éclats Brillant",
+      "hydrates, regenerates, and illuminates your skin",
+      "Don't miss this opportunity"
+    ],
+    "english_question": "In this message, they are announcing…",
+    "english_options": [
+      "The end of the promotion of a new product.",
+      "The shelving of a new product.",
+      "The opening of the cosmetics section.",
+      "The return to the store of a skincare product."
     ]
   },
   {
@@ -99,6 +164,19 @@
       "attacher votre ceinture",
       "garder vos effets personnels avec vous à tout moment",
       "Ne vous levez qu'en cas d'urgence ou bien quand le bus est à l'arrêt"
+    ],
+    "english_translation": "Dear passengers, welcome aboard. Please fasten your seatbelt and keep your personal belongings with you at all times. Only stand up in case of emergency or when the bus is at a stop. Have a good trip.",
+    "english_translation_highlights": [
+      "fasten your seatbelt",
+      "keep your personal belongings with you at all times",
+      "Only stand up in case of emergency or when the bus is at a stop"
+    ],
+    "english_question": "This message announces, …",
+    "english_options": [
+      "The boarding of passengers.",
+      "The departure of the bus.",
+      "The bus stop.",
+      "Safety instructions."
     ]
   },
   {
@@ -116,6 +194,19 @@
       "le train en provenance de Lyon et à destination de Paris",
       "arrivera avec un retard d'une heure",
       "en raison d'un incident sur la voie"
+    ],
+    "english_translation": "Attention dear travelers, we inform you that the train coming from Lyon and headed to Paris will arrive with a one-hour delay due to an incident on the track. We apologize for this inconvenience and thank you for your understanding.",
+    "english_translation_highlights": [
+      "the train coming from Lyon and headed to Paris",
+      "will arrive with a one-hour delay",
+      "due to an incident on the track"
+    ],
+    "english_question": "In this message, it is announced…",
+    "english_options": [
+      "The late arrival of the train departing for Lyon.",
+      "A serious accident on the track.",
+      "The cancellation of the train coming from Lyon.",
+      "The late arrival of a train."
     ]
   },
   {
@@ -135,6 +226,21 @@
       "de 10 heures à dix-huit heures",
       "Venez profiter de nos offres spéciales",
       "trouver le cadeau parfait pour vos proches"
+    ],
+    "english_translation": "Dear customers, for the Christmas holidays, your favorite store will be exceptionally open this Sunday from 10 AM to 6 PM. Come take advantage of our special offers and find the perfect gift for your loved ones. Happy holidays.",
+    "english_translation_highlights": [
+      "for the Christmas holidays",
+      "your favorite store will be exceptionally open this Sunday",
+      "from 10 AM to 6 PM",
+      "Come take advantage of our special offers",
+      "find the perfect gift for your loved ones"
+    ],
+    "english_question": "This message is broadcast for, …",
+    "english_options": [
+      "Announce the store's Sunday opening.",
+      "Wish customers a merry Christmas.",
+      "Announce the store's opening on Christmas Day.",
+      "Announce the store's opening after 6 PM."
     ]
   },
   {
@@ -152,6 +258,19 @@
       "je dois reporter notre sortie prévue demain",
       "On peut se retrouver la semaine prochaine",
       "Appelle-moi quand tu as un moment pour en discuter"
+    ],
+    "english_translation": "Hi Pierre, it's Chloé. Sorry, I have to postpone our outing planned for tomorrow. Can we meet up next week? Call me when you have a moment to discuss it. Thanks, talk soon.",
+    "english_translation_highlights": [
+      "I have to postpone our outing planned for tomorrow",
+      "Can we meet up next week",
+      "Call me when you have a moment to discuss it"
+    ],
+    "english_question": "The person is calling for, …",
+    "english_options": [
+      "Organize an outing.",
+      "Postpone an appointment.",
+      "Ask for a favor.",
+      "Apologize for a delay."
     ]
   },
   {
@@ -170,6 +289,20 @@
       "je ne pourrai pas venir en classe aujourd'hui",
       "Peux-tu m'envoyer tes notes de cours plus tard ?",
       "Merci beaucoup"
+    ],
+    "english_translation": "Hi Luc, it's Cassandra. I have a bad flu and I won't be able to come to class today. Can you send me your class notes later? Thanks a lot and see you soon.",
+    "english_translation_highlights": [
+      "I have a bad flu",
+      "I won't be able to come to class today",
+      "Can you send me your class notes later?",
+      "Thanks a lot"
+    ],
+    "english_question": "The person is calling for, …",
+    "english_options": [
+      "To know the health status of his/her friend.",
+      "To know when the class will take place.",
+      "To ask for help.",
+      "To postpone an appointment to a later time."
     ]
   },
   {
@@ -188,6 +321,20 @@
       "de demain à 13 heures",
       "avec le dentiste",
       "Merci de nous rappeler"
+    ],
+    "english_translation": "Hello Mr. Tapie, this is Dr. Clemenceau's office. We are calling to confirm your appointment tomorrow at 1 PM with the dentist. Please call us back at this number.",
+    "english_translation_highlights": [
+      "We are calling to confirm your appointment",
+      "tomorrow at 1 PM",
+      "with the dentist",
+      "Please call us back"
+    ],
+    "english_question": "The person is calling for, …",
+    "english_options": [
+      "Make an appointment with a dentist.",
+      "Know if the patient will keep his appointment.",
+      "Reschedule his 1 PM appointment.",
+      "Inquire about Dr. Clémenceau's services."
     ]
   },
   {
@@ -205,6 +352,19 @@
       "je t'appelle concernant le pont numéro 12",
       "penses-tu qu'il serait mieux de l'équiper d'un moteur 9",
       "Rappelle-moi vite"
+    ],
+    "english_translation": "Hello Séraphin, I'm calling you about bridge number 12. Given our financial situation, which isn't very good at the moment, do you think it would be better to equip it with a engine 9? Then we would just need to overhaul the old one. Call me back quickly.",
+    "english_translation_highlights": [
+      "I'm calling you about bridge number 12",
+      "do you think it would be better to equip it with a engine 9",
+      "Call me back quickly"
+    ],
+    "english_question": "The person is calling to, …",
+    "english_options": [
+      "Get a colleague's opinion.",
+      "Find out about the new engine.",
+      "Order a new engine.",
+      "Announce a shipment."
     ]
   },
   {
@@ -220,6 +380,17 @@
     "right_option": "A",
     "highlights": [
       "Je t'appelle pour savoir quels sont les plus beaux endroits à visiter dans ta ville"
+    ],
+    "english_translation": "Hello Judith, how are you? I'm calling to find out what the most beautiful places to visit in your city are. Actually, I'm going to spend the weekend there with my children. Can you call me back later? Thank you.",
+    "english_translation_highlights": [
+      "I'm calling to find out what the most beautiful places to visit in your city are"
+    ],
+    "english_question": "The person is calling for, …",
+    "english_options": [
+      "To obtain information.",
+      "To find out if the city is attractive.",
+      "To inform of one's arrival in the city.",
+      "To announce one's visit to the city."
     ]
   },
   {
@@ -240,6 +411,22 @@
       "nous sommes en nombre limité",
       "Pierre et Marie ont chopé un virus",
       "Tu pourras repartir en vacances à la fin du mois"
+    ],
+    "english_translation": "Hello Julie, it's Gaspard. How are you? I'm calling to ask you to come back to Paris urgently to give us a hand in the operating room. The thing is, patients are flooding into the hospital and we're short-staffed because Pierre and Marie have caught a virus. You can go back on vacation at the end of the month. I hope you understand. See you soon.",
+    "english_translation_highlights": [
+      "I'm calling to ask you to come back to Paris urgently",
+      "to give us a hand in the operating room",
+      "patients are flooding into the hospital",
+      "we're short-staffed",
+      "Pierre and Marie have caught a virus",
+      "You can go back on vacation at the end of the month"
+    ],
+    "english_question": "The person is calling for, …",
+    "english_options": [
+      "Give Julie news from the hospital.",
+      "Tell Julie that her colleagues are sick.",
+      "Interrupt Julie's vacation.",
+      "Ask Julie to go on vacation."
     ]
   },
   {
@@ -258,6 +445,20 @@
       "Cela encourage leur imagination, améliore leurs compétences linguistiques et les prépare mieux pour l'avenir",
       "Cependant, il est crucial de choisir des livres adaptés à leurs intérêts",
       "pour susciter leur amour de la lecture plutôt que de les forcer à lire contre leur gré"
+    ],
+    "english_translation": "I think that imposing reading on children can be beneficial. It encourages their imagination, improves their language skills, and better prepares them for the future. However, it is crucial to choose books suited to their interests to foster their love of reading rather than forcing them to read against their will.",
+    "english_translation_highlights": [
+      "I think that imposing reading on children can be beneficial",
+      "It encourages their imagination, improves their language skills, and better prepares them for the future",
+      "However, it is crucial to choose books suited to their interests",
+      "to foster their love of reading rather than forcing them to read against their will"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Thinks we should do it without hesitation.",
+      "Thinks we should do it taking their taste into account.",
+      "Thinks we should not do it at all.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -275,6 +476,19 @@
       "Pour moi, imposer la lecture aux enfants est essentiel",
       "Cela développe leur imagination, améliore leurs compétences linguistiques et prépare leur avenir",
       "C'est une base incontournable de l'éducation"
+    ],
+    "english_translation": "For me, imposing reading on children is essential. It develops their imagination, improves their language skills, and prepares them for the future. It is an indispensable foundation of education.",
+    "english_translation_highlights": [
+      "For me, imposing reading on children is essential",
+      "It develops their imagination, improves their language skills, and prepares them for the future",
+      "It is an indispensable foundation of education"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Thinks we should do it without hesitation.",
+      "Thinks we should do it taking their taste into account.",
+      "Thinks we should not do it at all.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -292,6 +506,19 @@
       "c'est de l'histoire ancienne",
       "n'est plus nécessaire aujourd'hui",
       "Imposer la lecture aux enfants n'est plus nécessaire"
+    ],
+    "english_translation": "For me, that's ancient history. Forcing children to read is no longer necessary today. New technologies and sports activities offer rich and educational alternatives for their development.",
+    "english_translation_highlights": [
+      "that's ancient history",
+      "is no longer necessary today",
+      "Forcing children to read is no longer necessary"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Thinks we should do it without hesitation.",
+      "Thinks we should do it taking their taste into account.",
+      "Thinks we should not do it at all.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -310,6 +537,20 @@
       "Cette pratique prive les enfants de la socialisation nécessaire",
       "limite leur accès à des ressources éducatives diversifiées",
       "peut affecter leur développement global"
+    ],
+    "english_translation": "I strongly oppose homeschooling. This practice deprives children of necessary socialization, limits their access to diverse educational resources, and can affect their overall development.",
+    "english_translation_highlights": [
+      "I strongly oppose homeschooling",
+      "This practice deprives children of necessary socialization",
+      "limits their access to diverse educational resources",
+      "can affect their overall development"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is in favor of this practice.",
+      "Is in favor of this practice in certain cases.",
+      "Is totally against this practice.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -329,6 +570,21 @@
       "pour les enfants ayant des besoins spéciaux",
       "elle peut offrir une adaptation et une attention personnalisée essentielles à leur développement",
       "Alors, dans ce cas, pourquoi ne pas essayer ?"
+    ],
+    "english_translation": "People always think that homeschooling limits socialization and access to varied educational resources. However, for children with special needs, it can offer adaptation and personalized attention essential to their development. So, in that case, why not give it a try?",
+    "english_translation_highlights": [
+      "People always think that homeschooling limits socialization and access to varied educational resources.",
+      "However",
+      "for children with special needs",
+      "it can offer adaptation and personalized attention essential to their development",
+      "So, in that case, why not give it a try?"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is in favor of this practice.",
+      "Is in favor of this practice in certain cases.",
+      "Is totally against this practice.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -346,6 +602,19 @@
       "Il est difficile de donner un avis sur la question",
       "D'un côté",
       "De l'autre"
+    ],
+    "english_translation": "It is difficult to give an opinion on the matter. On one hand, it offers flexibility and individualized attention, especially for children with specific needs. On the other hand, it can limit socialization and access to a diversity of educational resources.",
+    "english_translation_highlights": [
+      "It is difficult to give an opinion on the matter",
+      "On one hand",
+      "On the other hand"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is in favor of this practice.",
+      "Is in favor of this practice in certain cases.",
+      "Is totally against this practice.",
+      "Has no opinion on the matter."
     ]
   },
   {
@@ -368,6 +637,24 @@
       "les inspirant à développer leur imagination et leur amour pour les livres",
       "l’accès à la culture peut changer des vies",
       "Son bibliomotocaro n’est pas seulement une bibliothèque ambulante"
+    ],
+    "english_translation": "This morning, let's go to Italy to talk about Antonio Lacava, a former Italian schoolteacher at the heart of a remarkable initiative. Aboard his bibliomotocaro, a mobile library that he transformed from an old van, Antonio travels through the villages of the Basilicata region. His goal: to make reading accessible to all children, even those living in the most remote areas. Every week, he brings books and the joy of reading to hundreds of children, inspiring them to develop their imagination and their love for books. Antonio Lacava embodies passion and devotion, proving that access to culture can change lives. His bibliomotocaro is not just a mobile library: it is a symbol of generosity and dedication to the education and well-being of younger generations.",
+    "english_translation_highlights": [
+      "former Italian schoolteacher",
+      "bibliomotocaro, a mobile library",
+      "Antonio travels through the villages of the Basilicata region",
+      "to make reading accessible to all children, even those living in the most remote areas",
+      "he brings books and the joy of reading to hundreds of children",
+      "inspiring them to develop their imagination and their love for books",
+      "access to culture can change lives",
+      "His bibliomotocaro is not just a mobile library"
+    ],
+    "english_question": "According to this column, the former schoolteacher…",
+    "english_options": [
+      "Transmits culture to young people in urban areas.",
+      "Travels across the country to teach poor children to read.",
+      "Instills a love of reading in children in the countryside.",
+      "Sells books in his/her mobile library."
     ]
   },
   {
@@ -387,6 +674,21 @@
       "prêts à cuisiner pour eux des plats traditionnels et à partager des histoires autour de la table",
       "c’est une opportunité de tisser des liens, d’échanger des cultures",
       "vivre un moment authentique"
+    ],
+    "english_translation": "Hello everyone. Today, let's talk about food surfing, a culinary trend that is gaining in popularity. Food surfing allows travelers to discover local gastronomy in a unique way, by sharing a meal with locals in their homes. Thanks to online platforms, foodies can connect with passionate hosts, ready to cook traditional dishes for them and share stories around the table. This immersive experience offers much more than just a meal: it's an opportunity to forge connections, exchange cultures, and live an authentic moment, off the beaten path. Food surfing transforms every meal into an unforgettable culinary and human adventure.",
+    "english_translation_highlights": [
+      "Food surfing allows travelers to discover local gastronomy in a unique way, by sharing a meal with locals in their homes",
+      "foodies can connect with passionate hosts",
+      "ready to cook traditional dishes for them and share stories around the table",
+      "it's an opportunity to forge connections, exchange cultures",
+      "live an authentic moment"
+    ],
+    "english_question": "This practice offers the opportunity…",
+    "english_options": [
+      "To significantly reduce travel costs.",
+      "To meet people from the region.",
+      "To take part in local cooking classes.",
+      "To access affordable accommodations."
     ]
   },
   {
@@ -407,6 +709,22 @@
       "c'est vraiment l'un des médiums qui nous permettent de… voilà, d'incarner et d'expérimenter d'autres choses qu'on ne vit pas forcément dans le quotidien",
       "Et le côté sociabilisant aussi",
       "j'ai beaucoup joué en ligne aussi"
+    ],
+    "english_translation": "You are the founder and president of the Afro-Gameuse association. With you, we'll talk about the video game sector in Africa and also in the diaspora. So perhaps just a question to start: we're not very used to seeing women claim the title of gamers. How did you… how did you get into the world of video games? I simply discovered video games when I was young, in Benin. Coming back from school, I stumbled upon a great café. I came across a great café where there were computers, which immediately intrigued me a lot. So, with all my classmates, we went inside, and the owner was kind enough to let me use the computers. And on that computer, there was the game Prince of Persia, which was created in 1989. That's how I started playing video games. It was really the first adventure video game I discovered, and since then, I've actually never stopped. But what did you enjoy about video games, about that universe? I think it's… it's just a world, you know. It's a whole world. It's a very immersive universe that tells us stories, that can also develop a lot of things in us, in terms of skills, in terms of abilities. That's something I discovered much later, but I was fascinated by the idea of immersing myself in a story and embodying a character who, in this case, had nothing to do with me. I think it's really one of the mediums that allows us to… you know, to embody and experience other things that we don't necessarily experience in everyday life. And the social aspect too, because I also played a lot online when I was with all the others. So yes, exactly, that's a question I wanted to ask you. Because often, the generations that didn't grow up with video games have the impression that video games isolate you, that you're alone in front of a computer. Is that still true today, in 2022? I think gamers—both male and female—are stigmatized on this point. That was the case for a long time in Africa, and also in France and elsewhere. It's starting to change a little because we're beginning to realize that it's ultimately a sector with great potential, not only economically, but in any case, even on a personal level. We're realizing that video games aren't just a waste of time. You learn things, you develop skills, for example. For instance, I know that I greatly developed my ability to speak English. Before that, it wasn't necessarily something that interested me.",
+    "english_translation_highlights": [
+      "that tells us stories",
+      "I was fascinated by the idea of immersing myself in a story",
+      "embodying a character who, in this case, had nothing to do with me",
+      "it's really one of the mediums that allows us to… you know, to embody and experience other things that we don't necessarily experience in everyday life",
+      "And the social aspect too",
+      "I also played a lot online"
+    ],
+    "english_question": "What major aspect of the video game appealed to the guest?",
+    "english_options": [
+      "The act of embodying very famous characters.",
+      "The opportunity to earn financial rewards.",
+      "The ability to interact in other worlds.",
+      "The high quality of the game's graphics."
     ]
   },
   {
@@ -426,6 +744,21 @@
       "on commence à se rendre compte que c'est finalement un secteur qui est porteur, non seulement économiquement, mais en tout cas, même de manière personnelle.",
       "On se rend compte que le jeu vidéo n'est pas juste une perte de temps.",
       "On apprend des choses, on développe des compétences"
+    ],
+    "english_translation": "You are the founder and president of the Afro-Gameuse association. With you, we'll talk about the video game sector in Africa and also in the diaspora. So perhaps just a question to start: we're not really used to seeing women claim the identity of gamers. How did you… how did you enter the world of video games? I simply discovered video games when I was young, in Benin. Coming back from school, I stumbled upon a great café. I came across a great café where there were computers, which immediately intrigued me a lot. So, with all my classmates, we went inside, and the owner was kind enough to let me use the computers. And on that computer, there was the game Prince of Persia, which was created in 1989. That's how I started playing video games. It was really the first adventure video game I discovered, and since then, I've actually never stopped. But what did you enjoy, actually, about video games, about that universe? I think it's… it's just a world, you know. It's a whole world. It's a universe that is very immersive, that tells us stories, that can also develop a lot of things in us, in terms of skills, in terms of abilities. That's something I discovered much later, but I was fascinated by the idea of immersing myself in a story and embodying a character who, in this case, had nothing to do with me. I think it's really one of the mediums that allows us to… you know, to embody and experience other things that we don't necessarily live in our daily lives. And also the social aspect, because I played a lot online too, when I was with all the others. So yes, precisely, that's a question I wanted to ask you. Because often, the generations that didn't grow up with video games have the impression that video games isolate you, that you're alone in front of a computer. Is that still true today, in 2022? I think gamers, both male and female, are stigmatized on this point. That was the case for a long time in Africa, and also in France and elsewhere. It's starting to change a little because, precisely, people are beginning to realize that it's ultimately a sector that is promising, not only economically, but in any case, even on a personal level. People are realizing that video games aren't just a waste of time. You learn things, you develop skills, for example. For instance, I know that I greatly developed my ability to speak English. You know, before that, it wasn't necessarily something that interested me.",
+    "english_translation_highlights": [
+      "That was the case for a long time in Africa, and also in France and elsewhere.",
+      "It's starting to change a little",
+      "people are beginning to realize that it's ultimately a sector that is promising, not only economically, but in any case, even on a personal level.",
+      "People are realizing that video games aren't just a waste of time.",
+      "You learn things, you develop skills"
+    ],
+    "english_question": "Which statement is correct?",
+    "english_options": [
+      "The perception of older people towards video games has evolved positively.",
+      "Video games solely play the role of a perfect outlet.",
+      "Frequent use of video games constitutes a source of isolation.",
+      "Video games should be democratized in schools."
     ]
   },
   {
@@ -455,6 +788,31 @@
       "on ne peut pas rester indifférent face à ce drame",
       "Il faut un plan mondial à cet égard",
       "quelles sont les deux ou trois priorités que vous avez impulsées depuis que vous êtes Secrétaire générale, en 2014"
+    ],
+    "english_translation": "You have been the Secretary General of the Francophonie for nearly two and a half years. You've already touched on your priorities a little, but I wanted to ask you: what are the two or three priorities you have driven since becoming Secretary General in 2014? What matters enormously to me is, on the one hand, that we take action — as I was saying earlier — on this calamity that is youth unemployment. I also find it very serious to see poverty… but the feminization of poverty. Why? Because, while the exact opposite should be happening, you have banking institutions that consider investing in economic initiatives led by young people and women — very small, small and medium-sized enterprises, and larger ones too, industries — to be a high-risk investment. Yet what we need to make them understand is that it's the opposite. They are creating risk, and they end up creating instability, by failing to invest in the vital forces that young people and women represent. And everything proves us right on this. So this is not something we alone champion at the Francophonie — we have also placed a great deal of focus on this issue. And it's serious, because when you see the drama, the tragedy of those migrants who, driven by a feeling of disenchantment, of deadlock, of a blocked future, take every risk and fall into the nets of unscrupulous predators and criminal organizations… That tells you how urgently we need to act on this. Because we cannot remain indifferent in the face of this tragedy. A global plan is needed in this regard. We can see that the ambitions of the Francophonie have evolved. It's true that in the beginning, the Francophonie was about the French language, it was about defending culture. That remains, of course. That is still a very important part of it: the Francophonie is the French language, it is also cultural diversity. — Yes, of course. Because in fact, I'll say it again: being 84 states and governments across five continents, what this economic strategy is producing is that it is remotivating certain countries that had drifted away, that were part of the francophone space, that were part of the Francophonie, but had distanced themselves somewhat, feeling that the French language almost lacked relevance.",
+    "english_translation_highlights": [
+      "What matters enormously to me is, on the one hand, that we take action",
+      "on this calamity that is youth unemployment",
+      "I also find it very serious to see poverty… but the feminization of poverty",
+      "the feminization of poverty",
+      "investing in economic initiatives led by young people and women",
+      "to be a high-risk investment",
+      "Yet what we need to make them understand is that it's the opposite",
+      "by failing to invest in the vital forces that young people and women represent",
+      "we have also placed a great deal of focus on this issue",
+      "And it's serious, because",
+      "the drama, the tragedy of those migrants",
+      "driven by a feeling of disenchantment, of deadlock, of a blocked future",
+      "we cannot remain indifferent in the face of this tragedy",
+      "A global plan is needed in this regard",
+      "what are the two or three priorities you have driven since becoming Secretary General in 2014"
+    ],
+    "english_question": "One of the main objectives highlighted since the guest took office…",
+    "english_options": [
+      "The promotion of the French language and the organization of cultural festivals.",
+      "The expansion of the Francophonie to new continents.",
+      "The education of vital forces that are youth and women.",
+      "The fight against the increase in poverty linked to inequalities between men and women."
     ]
   },
   {
@@ -477,6 +835,24 @@
       "Alors que ce qu’il faut leur faire comprendre, c’est que c’est le contraire.",
       "Il faut un plan mondial à cet égard.",
       "Ce qui m’importe énormément, c’est, d’une part, qu’on agisse"
+    ],
+    "english_translation": "You have been the Secretary General of the Francophonie for nearly two and a half years. You have already touched on your priorities a little, but I wanted to ask you: what are the two or three priorities you have driven since becoming Secretary General in 2014? What matters enormously to me is, on the one hand, that we take action — as I was saying earlier — on this calamity that is youth unemployment. I also find it very serious to see poverty… but the feminization of poverty. Why? Because, while the exact opposite should be done, you have banking institutions that consider investing in economic initiatives led by young people and by women — very small, small and medium-sized enterprises, and larger ones too, industries — that it's a high-risk investment. Whereas what we need to make them understand is that it's the opposite. They are creating risk, and they end up creating instability, by not investing in these vital forces that young people and women represent. And everything proves us right on this. So that's not just something we champion at the Francophonie — we have also focused heavily on this issue. And it's serious, because when you see the drama, the tragedy of those migrants who, driven by a feeling of disenchantment, of deadlock, of a blocked future, take every risk and fall into the nets of unscrupulous predators and criminal organizations… That tells you how urgently we need to act on this. Because we cannot remain indifferent in the face of this tragedy. A global plan is needed in this regard. We can see that the ambitions of the Francophonie have evolved. It's true that in the beginning, the Francophonie was about the French language, it was about defending culture. That remains, of course. That also remains a very important part: the Francophonie is the French language, it is also cultural diversity. — Yes, of course. Because in fact, I'll say it again: being 84 states and governments across five continents, what this economic strategy is producing is that it is re-motivating certain countries that had drifted away, that were part of the francophone space, that were part of the Francophonie, but had somewhat distanced themselves, feeling that the French language almost lacked relevance.",
+    "english_translation_highlights": [
+      "We can see that the ambitions of the Francophonie have evolved.",
+      "It's true that in the beginning, the Francophonie was about the French language, it was about defending culture.",
+      "That remains, of course.",
+      "That also remains a very important part: the Francophonie is the French language, it is also cultural diversity.",
+      "consider investing in economic initiatives led by young people and by women — very small, small and medium-sized enterprises, and larger ones too, industries — that it's a high-risk investment.",
+      "Whereas what we need to make them understand is that it's the opposite.",
+      "A global plan is needed in this regard.",
+      "What matters enormously to me is, on the one hand, that we take action"
+    ],
+    "english_question": "According to the guest…",
+    "english_options": [
+      "Banks are less reluctant to place their trust in young people's projects.",
+      "The ambitions of the Francophonie have evolved over time.",
+      "The promotion of Francophone culture is the organization's priority.",
+      "It would be necessary to move towards engagement in social issues."
     ]
   },
   {
@@ -499,6 +875,24 @@
       "c’est un peu ça la spécificité de ce festival",
       "une nuit arabophone et une nuit francophone",
       "la cathédrale du Sacré-Cœur de Casablanca reste un lieu d’échange de culture"
+    ],
+    "english_translation": "You are the producer of Comedia Blanca. — Exactly. It's the first edition of this comedy festival in Morocco's economic capital. So, how did you come up with the idea of launching this festival? Well, look, we… actually, we started this trend. It's the agency that organizes this event. We created it with my wife a little over two years ago, and we've put on quite a few stand-up shows, etc. There are notably quite a few Moroccan stand-up comedians in Morocco, but we didn't have this cultural exchange, meaning… We have French shows, we have an audience for French-speaking francophone artists, and we have an audience for Moroccan artists, but we didn't have the exchange of both at the same time. Above all, there was also everything we've been through recently: wars, Covid, etc. There was quite a bit of gloom. So we said to ourselves: why not bring a little touch, a little touch of joy, of good cheer? We don't claim to change the world, but just to create a little bit of that smile, to bring that smile back to people's lips. We said to ourselves: come on, let's launch a festival, we went out and found artists, and that's how the idea came about. So there you go. Yes, because what you were saying is that you wanted to bring together francophone and Arabic-speaking artists — that's kind of the specificity of this festival? There will be two nights, because it's on May 17th and 18th. So one Arabic-speaking night and one French-speaking night, is that right? And it takes place at the Sacred Heart Cathedral. How did you come up with the idea of holding a comedy festival in a cathedral? Well, the Sacred Heart Cathedral is a cathedral that has been deconsecrated today. It's become an events venue only very very recently, actually. And the Sacred Heart Cathedral of Casablanca remains a place of cultural exchange. It's been a quite exceptional landmark of the city, located right in the center of Casablanca.",
+    "english_translation_highlights": [
+      "we didn't have this cultural exchange",
+      "We have French shows, we have an audience for French-speaking francophone artists, and we have an audience for Moroccan artists, but we didn't have the exchange of both at the same time",
+      "why not bring a little touch, a little touch of joy, of good cheer",
+      "We don't claim to change the world, but just to create a little bit of that smile, to bring that smile back to people's lips",
+      "you wanted to bring together francophone and Arabic-speaking artists",
+      "that's kind of the specificity of this festival",
+      "one Arabic-speaking night and one French-speaking night",
+      "the Sacred Heart Cathedral of Casablanca remains a place of cultural exchange"
+    ],
+    "english_question": "What was the main objective behind the creation of the Comediablanca festival?",
+    "english_options": [
+      "Promote only Moroccan artists.",
+      "Create a blend of cultures between French-speaking and Arabic-speaking artists.",
+      "Organize shows in different countries.",
+      "Replace other festivals canceled due to COVID."
     ]
   },
   {
@@ -517,6 +911,20 @@
       "C’est devenu un lieu d’événements depuis très très récemment d’ailleurs",
       "la cathédrale du Sacré-Cœur de Casablanca reste un lieu d’échange de culture",
       "Ça a été un monument assez exceptionnel de la ville, qui est en plein centre-ville de Casablanca"
+    ],
+    "english_translation": "You are the producer of Comedia Blanca. — Exactly. This is the first edition of this comedy festival in Morocco's economic capital. So, how did you come up with the idea of launching this festival? Well, look, we… in fact, we started this trend. It's the agency that organizes this event. We created it with my wife a little over two years ago, and we've done quite a few stand-up shows, etc. In Morocco, there are quite a few Moroccan stand-up comedians, but we didn't have this cultural exchange, meaning… We have French shows, we have an audience for French-speaking francophone artists, and we have an audience for Moroccan artists, but we didn't have the exchange of both at the same time. Above all, there was also everything we've been through recently: wars, Covid, etc. There was quite a lot of gloom. So we said to ourselves: why not bring a little touch, a little touch of joy, of good cheer? We don't claim to change the world, but just to create a little bit of that smile, to bring that smile back to people's lips. We said to ourselves: come on, let's launch a festival, we went out to find artists, and that's how the idea came about. So there you go. Yes, because what you were saying is that you wanted to bring together French-speaking and Arabic-speaking artists — that's kind of the specificity of this festival? There will be two nights, because it's on May 17th and 18th. So one Arabic-speaking night and one French-speaking night, is that right? And it takes place at the Sacred Heart Cathedral. How did you come up with the idea of holding a comedy festival in a cathedral? Well, the Sacred Heart Cathedral is a cathedral that has now been deconsecrated. It has become an events venue very, very recently, in fact. And the Sacred Heart Cathedral of Casablanca remains a place of cultural exchange. It has been a quite exceptional monument of the city, located right in the center of Casablanca.",
+    "english_translation_highlights": [
+      "the Sacred Heart Cathedral is a cathedral that has now been deconsecrated",
+      "It has become an events venue very, very recently, in fact",
+      "the Sacred Heart Cathedral of Casablanca remains a place of cultural exchange",
+      "It has been a quite exceptional monument of the city, located right in the center of Casablanca"
+    ],
+    "english_question": "The cathedral was chosen as the festival venue because…",
+    "english_options": [
+      "It is no longer used for religious ceremonies.",
+      "It has always served as an event venue.",
+      "It is located on the outskirts of Casablanca.",
+      "It remains a historical site rarely used for events."
     ]
   },
   {
@@ -539,6 +947,24 @@
       "l'association Le Chaos du Petit Nanterre, qui privilégie la prévention.",
       "Nous, en tant que professionnels, par moments, on sent l'avenir un peu bloqué pour ces jeunes.",
       "L'autorité pour les terriers, ça ne sert strictement à rien s'il n'y a même pas de personnes comme nous pour pouvoir justement en discuter avec eux."
+    ],
+    "english_translation": "It's time for editing. The first separation. The first thing is: you have to take the money. Five teenagers lean over the computer of Franck Brammy, a professional director, to choose the scenes they will keep. Their film's theme is difference, or how the rejection of that difference can lead to violence. So, basically, it's two young people who got into an argument because they're stuck: one about the other's weight and the other about the other's mother. They head home and, as it happens, they run into someone in the building. And especially, that wide shot there, I collected. Sofiane appears on screen in this scene; Ibrahim was behind the camera. I was in the content and kept moving forward while they were dancing at the same time. The teenagers had the choice between four themes, four sources of violence identified by their youth workers. Freyt Tassen Lendu is one of them. \"The four themes we targeted: difference, social media, mobility, and risky behavior. It's an observation we made: young people could put themselves in danger through these four themes. Often, young people will tease each other about their differences, whether it's about clothing, body type, or even religion sometimes. What's important for us is really to help them access empathy, meaning what you wouldn't want done to you, I'm not going to resolve.\" Ibrahim, 14, says: \"I chose this because difference is what interests me. I think it's recurring in schools, the teasing, it can be dangerous. It's good, especially since many fly off the handle at the drop of a hat. So it doesn't happen for no reason — it could happen to me or it could happen to someone else for no reason.\" For Sofiane and Ibrahim, raising awareness and dialogue are the only solution to curb violence. They don't believe in the firmness that the government advocates. \"Because, honestly, when there's too much authority, there have often been violence, riots, there's been abuse of power, of violence, where young people no longer speak up and adults don't listen.\" Their street youth workers agree. Laurence Moreau and Walli Koïta work for the association Le Chaos du Petit Nanterre, which prioritizes prevention. \"We, as professionals, at times feel the future is somewhat blocked for these young people. There should be more of us. Authority for the sake of authority serves absolutely no purpose if there aren't even people like us to actually discuss things with them.\" In June, the fifteen or so teenagers who participated in this workshop will present their film at the Théâtre des Amandiers in Nanterre. An evening whose title could be: Violence with Reason. That is, in any case, what Fatoumata would like the audience to take away from it.",
+    "english_translation_highlights": [
+      "Their film's theme is difference, or how the rejection of that difference can lead to violence.",
+      "The four themes we targeted: difference, social media, mobility, and risky behavior.",
+      "It's an observation we made: young people could put themselves in danger through these four themes.",
+      "What's important for us is really to help them access empathy",
+      "For Sofiane and Ibrahim, raising awareness and dialogue are the only solution to curb violence.",
+      "the association Le Chaos du Petit Nanterre, which prioritizes prevention.",
+      "We, as professionals, at times feel the future is somewhat blocked for these young people.",
+      "Authority for the sake of authority serves absolutely no purpose if there aren't even people like us to actually discuss things with them."
+    ],
+    "english_question": "The film made by these teenagers aims to…",
+    "english_options": [
+      "Make the voices of young people heard on social inequalities.",
+      "Prevent aggressive behaviors among young audiences.",
+      "Promote access to education for young people from poor neighborhoods.",
+      "Put an end to violence in university residences."
     ]
   },
   {
@@ -560,6 +986,23 @@
       "Laurence Moreau et Walli Koïta travaillent pour l'association Le Chaos du Petit Nanterre",
       "Nous, en tant que professionnels",
       "Il faudrait qu'on soit plus nombreux"
+    ],
+    "english_translation": "It's time for editing. The first separation. The first thing is: you have to take the money. Five teenagers lean over the computer of Franck Brammy, a professional director, to choose the scenes they're going to keep. Their film's theme is difference, or how the rejection of that difference can lead to violence. So, basically, it's two young people who got into an argument because they're stuck: one about the other's weight and the other about the other's mother. They go home and, as it happens, they run into someone in the building. And especially, that wide shot there, I collected. Sofiane appears on screen in this scene; Ibrahim was behind the camera. I was in the content and it kept moving forward while they were dancing at the same time. The teenagers had the choice between four themes, four sources of violence identified by their youth workers. Freyt Tassen Lendu is one of them. \"The four themes we targeted: difference, social media, mobility, and risky behavior. It's an observation we made: young people could put themselves in danger through these four themes. Often, young people will tease each other about their differences, whether it's about clothing, body type, or even religion sometimes. What's important for us is really to help them access empathy, meaning what you wouldn't want done to you, I'm not going to solve it.\" Ibrahim, 14, says: \"I chose this because difference is what interests me. I think it's recurring in schools, the teasing, it can be dangerous. It's good, especially since there are many who fly off the handle. So it doesn't happen for no reason; it could happen to me or it could happen to someone close to me for no reason.\" For Sofiane and Ibrahim, raising awareness and dialogue are the only solution to curb violence. The firmness advocated by the government — they don't believe in it. \"Because, honestly, when there's too much authority, there have often been acts of violence, riots, there's been abuse of power, of violence, where young people stop talking and adults don't listen.\" Their street youth workers agree. Laurence Moreau and Walli Koïta work for the association Le Chaos du Petit Nanterre, which favors prevention. \"We, as professionals, at times we feel the future is somewhat blocked for these young people. There should be more of us. Authority for the sake of authority is absolutely useless if there aren't even people like us to be able to discuss things with them.\" In June, the fifteen or so teenagers who participated in this workshop will present their film at the Théâtre des Amandiers in Nanterre. An evening whose title could be: Violence with Reason. That's in any case what Fatoumata would like the audience to take away from it.",
+    "english_translation_highlights": [
+      "Five teenagers lean over the computer of Franck Brammy, a professional director",
+      "Freyt Tassen Lendu is one of them",
+      "The teenagers had the choice between four themes, four sources of violence identified by their youth workers",
+      "Their street youth workers agree",
+      "Laurence Moreau and Walli Koïta work for the association Le Chaos du Petit Nanterre",
+      "We, as professionals",
+      "There should be more of us"
+    ],
+    "english_question": "These teenagers are accompanied in their work by…",
+    "english_options": [
+      "Social workers.",
+      "Public authorities.",
+      "The regional authorities.",
+      "The Nantes theater."
     ]
   },
   {
@@ -577,6 +1020,19 @@
       "cela ne garantit pas nécessairement une amélioration durable de la productivité ou de la cohésion d'équipe",
       "sans une véritable intégration de ces activités dans la culture d'entreprise et une réflexion sur leurs objectifs, elles risquent de n'être que des distractions temporaires",
       "Pour qu'elles apportent un véritable bénéfice, il est essentiel de les accompagner d'une démarche stratégique"
+    ],
+    "english_translation": "Games have certainly invaded the workplace in recent years, but these playful approaches come up against a major obstacle. We play, we relax, we take our minds off things, but this doesn't necessarily guarantee a lasting improvement in productivity or team cohesion. Indeed, without truly integrating these activities into the company culture and reflecting on their objectives, they risk being nothing more than temporary distractions. For them to bring real benefit, it is essential to accompany them with a strategic approach aimed at strengthening well-being and collaboration within teams.",
+    "english_translation_highlights": [
+      "this doesn't necessarily guarantee a lasting improvement in productivity or team cohesion",
+      "without truly integrating these activities into the company culture and reflecting on their objectives, they risk being nothing more than temporary distractions",
+      "For them to bring real benefit, it is essential to accompany them with a strategic approach"
+    ],
+    "english_question": "The implementation of gamification approaches in the workplace",
+    "english_options": [
+      "Always guarantees better team cohesion.",
+      "Remains costly for a range of companies.",
+      "Is considered an obstacle to productivity.",
+      "Might not lead to better performance."
     ]
   },
   {
@@ -595,6 +1051,20 @@
       "ils ne sont pas toujours précis à 100 %",
       "Les erreurs de laboratoire, les contaminations ou les limites des méthodes d'analyse peuvent conduire à des résultats incorrects",
       "des variations peuvent entraîner des conclusions différentes sur les mêmes échantillons"
+    ],
+    "english_translation": "Among the toys, another gift is now carving out a prime spot under the Christmas tree of American families: the DNA analysis kit. Last year, these genetic tests were a huge hit during Black Friday, the sales day held on the last Friday of November. Prohibited in France without a medical prescription, these over-the-counter tests began to take off in the United States in 2013 and have experienced exponential growth since 2016. The number of users surpassed the 10 million mark at the beginning of the year, a figure multiplied by 13 in 5 years. However, some professionals have reservations about DNA tests, pointing out that they are not always 100% accurate. Laboratory errors, contamination, or limitations of analytical methods can lead to incorrect results. Regarding data interpretation, variations can lead to different conclusions from the same samples.",
+    "english_translation_highlights": [
+      "some professionals have reservations about DNA tests",
+      "they are not always 100% accurate",
+      "Laboratory errors, contamination, or limitations of analytical methods can lead to incorrect results",
+      "variations can lead to different conclusions from the same samples"
+    ],
+    "english_question": "DNA tests…",
+    "english_options": [
+      "Leave some experts skeptical.",
+      "Are unanimously agreed upon among researchers.",
+      "Are widely contested in France.",
+      "Struggle to gain ground."
     ]
   },
   {
@@ -620,6 +1090,27 @@
       "servent de baromètre pour mesurer l'ampleur d'un mécontentement ou d'un soutien",
       "elles contribuent à animer le débat public",
       "rappeler aux décideurs politiques les attentes de la population"
+    ],
+    "english_translation": "In France, they are hardly more than bottles tossed into the murky waters of current events. However, beneath their apparent futility, petitions reveal a society in search of being heard and recognized. Online petitions have become a popular means of expression, allowing everyone to make their voice heard on a variety of subjects. They reflect a diversity of opinions and concerns, ranging from local issues to global problems. By gathering signatures, they bear witness to a collective desire for change and action, even if their concrete impact often remains limited. They offer an outlet for citizen frustrations and serve as a barometer for measuring the extent of discontent or support. In this sense, they help enliven public debate and remind political decision-makers of the population's expectations.",
+    "english_translation_highlights": [
+      "they are hardly more than bottles tossed into the murky waters of current events",
+      "beneath their apparent futility, petitions reveal a society in search of being heard and recognized",
+      "Online petitions have become a popular means of expression",
+      "allowing everyone to make their voice heard on a variety of subjects",
+      "They reflect a diversity of opinions and concerns",
+      "By gathering signatures, they bear witness to a collective desire for change and action",
+      "even if their concrete impact often remains limited",
+      "They offer an outlet for citizen frustrations",
+      "serve as a barometer for measuring the extent of discontent or support",
+      "they help enliven public debate",
+      "remind political decision-makers of the population's expectations"
+    ],
+    "english_question": "Despite their derisory use, petitions…",
+    "english_options": [
+      "Are the main means of expression in a company.",
+      "Constitute an invaluable democratic tool.",
+      "Always guarantee immediate changes in policy.",
+      "Are not very successful because signatories fear being put on a list."
     ]
   },
   {
@@ -638,6 +1129,20 @@
       "Ce dernier incarne à lui seul tous les défis environnementaux",
       "La survie du rhinocéros blanc dépend de notre capacité à répondre aux défis environnementaux",
       "le magazine espère inciter chacun à contribuer à la préservation de notre planète et de ses précieuses espèces"
+    ],
+    "english_translation": "As part of its new documentary series The Animal World, the Sunday magazine tells this week the story of the white rhinoceros. The latter single-handedly embodies all the environmental challenges, particularly climate change. The survival of the white rhinoceros depends on our ability to respond to environmental challenges effectively and in a coordinated manner. By raising public awareness through poignant stories and striking images, the magazine hopes to encourage everyone to contribute to the preservation of our planet and its precious species.",
+    "english_translation_highlights": [
+      "As part of its new documentary series The Animal World, the Sunday magazine tells this week the story of the white rhinoceros",
+      "The latter single-handedly embodies all the environmental challenges",
+      "The survival of the white rhinoceros depends on our ability to respond to environmental challenges",
+      "the magazine hopes to encourage everyone to contribute to the preservation of our planet and its precious species"
+    ],
+    "english_question": "The Sunday magazine will talk to listeners about…",
+    "english_options": [
+      "The dangers threatening the planet in general.",
+      "Acts of cruelty towards animal species.",
+      "An endangered species.",
+      "The ways and means to curb global warming."
     ]
   },
   {
@@ -657,6 +1162,21 @@
       "Les personnes ayant un handicap visuel seront avec un tandem et un guide durant toute la course",
       "Les personnes en fauteuil auront un matériel spécifique, notamment un handbike en vélo et un fauteuil d'athlétisme",
       "Les personnes debout qui ont un handicap de bras ou de jambe, ou une prothèse, utiliseront leur matériel en vélo et en course à pied"
+    ],
+    "english_translation": "Para-triathlon is simply the adaptation of triathlon for people with disabilities. It has been a Paralympic discipline since Rio in 2016. People with visual impairments will be with a tandem and a guide throughout the entire race. Wheelchair users will have specific equipment, notably a handbike for the cycling portion and a racing wheelchair. Standing athletes who have an arm or leg disability, or a prosthesis, will use their own equipment for cycling and running.",
+    "english_translation_highlights": [
+      "Para-triathlon is simply the adaptation of triathlon for people with disabilities",
+      "It has been a Paralympic discipline since Rio in 2016",
+      "People with visual impairments will be with a tandem and a guide throughout the entire race",
+      "Wheelchair users will have specific equipment, notably a handbike for the cycling portion and a racing wheelchair",
+      "Standing athletes who have an arm or leg disability, or a prosthesis, will use their own equipment for cycling and running"
+    ],
+    "english_question": "In this extract, it is about…",
+    "english_options": [
+      "An event organized in favor of disabled people.",
+      "A promotion of several sports equipment.",
+      "A sport for athletes subject to disabilities.",
+      "An awareness campaign on the benefits of running."
     ]
   },
   {
@@ -674,6 +1194,19 @@
       "Provoquée en grande partie par les particules fines issues des gaz d'échappement, la pollution de l'air est responsable chaque année de 48 000 morts en France",
       "Les grandes villes sont bien sûr les plus concernées",
       "en dehors des zones de montagne, personne n'est épargné"
+    ],
+    "english_translation": "Caused largely by fine particles from exhaust fumes, air pollution is responsible each year for 48,000 deaths in France, nearly one death in ten. This is one of the conclusions of a study by Santé publique France published two weeks ago. Major cities are of course the most affected, but another worrying finding: outside mountain areas, no one is spared.",
+    "english_translation_highlights": [
+      "Caused largely by fine particles from exhaust fumes, air pollution is responsible each year for 48,000 deaths in France",
+      "Major cities are of course the most affected",
+      "outside mountain areas, no one is spared"
+    ],
+    "english_question": "In France, air pollution…",
+    "english_options": [
+      "Is omnipresent.",
+      "Causes fewer deaths.",
+      "Spares mountainous regions.",
+      "Also affects mountains."
     ]
   },
   {
@@ -694,6 +1227,22 @@
       "certains ont développé de l'innovation, des compétences",
       "la Chine a énormément investi dans la formation et dans la technologie, l'innovation comme moteur du développement",
       "pour beaucoup de pays BMA, c'est une question encore considérée comme un secteur à part"
+    ],
+    "english_translation": "Today, the digital revolution is not a sector—digital is a vector, a vector for the entire economy. And so, indeed, we have very, very large inequalities between countries because some have access not only to connectivity, which is the bare minimum, I would say, but beyond that, some have developed innovation and skills. China was mentioned: yes, China has invested enormously in education and in technology, innovation as a driver of development, whereas for many least developed countries, it is still considered a separate sector.",
+    "english_translation_highlights": [
+      "digital is a vector, a vector for the entire economy",
+      "we have very, very large inequalities between countries",
+      "some have access not only to connectivity",
+      "some have developed innovation and skills",
+      "China has invested enormously in education and in technology, innovation as a driver of development",
+      "for many least developed countries, it is still considered a separate sector"
+    ],
+    "english_question": "The guest points out that in certain countries, …",
+    "english_options": [
+      "Digitization does not yet serve as a driver of economic recovery.",
+      "The digital divide could be avoided by supporting LDCs.",
+      "Inequalities are linked to social differences.",
+      "Digital technology cannot constitute a vector of development."
     ]
   },
   {
@@ -714,6 +1263,22 @@
       "elles étaient plutôt à ne pas montrer",
       "au XVIIIe siècle, on ne montrait pas son corps",
       "c'est vraiment un acte social avant d'être un acte d'élégance"
+    ],
+    "english_translation": "The function of the glove was manifold. First of all, people were dirty, hands were not pretty at all, they were rather something not to be shown. Let us not forget either that in the 18th century, one did not show one's body. So it was truly a social act before being an act of elegance.",
+    "english_translation_highlights": [
+      "The function of the glove was manifold",
+      "people were dirty",
+      "hands were not pretty at all",
+      "they were rather something not to be shown",
+      "in the 18th century, one did not show one's body",
+      "it was truly a social act before being an act of elegance"
+    ],
+    "english_question": "At the time, people used gloves to…",
+    "english_options": [
+      "Protect their hands from dirt.",
+      "Avoid certain contagious diseases.",
+      "Camouflage the ugliness of hands.",
+      "Protect their hands from the cold."
     ]
   },
   {
@@ -731,6 +1296,19 @@
       "un bon poème, disons, ne donnera pas forcément une chanson",
       "l'inverse aussi",
       "ça dépend de ce qu'on entend dans sa tête"
+    ],
+    "english_translation": "I started working on poems that I had written in English and playing the piano, and that led to songs. So, I think either way, you can start by writing poetry and then make songs. But a good poem, let's say, won't necessarily make a good song, and the reverse is also true. So it depends on what you hear in your head. I often speak about music when I compose songs, and when I write poems, I hear a kind of muffled music that accompanies my texts, and Peter hears something else since he was inspired to actually compose.",
+    "english_translation_highlights": [
+      "a good poem, let's say, won't necessarily make a good song",
+      "the reverse is also true",
+      "it depends on what you hear in your head"
+    ],
+    "english_question": "This artist thinks that…",
+    "english_options": [
+      "To compose a song, you must always start from a poem.",
+      "A beautiful poem does not always produce a song.",
+      "Creating a beautiful song requires having a committed/engaged text.",
+      "To write a poem, you must first have composed songs."
     ]
   },
   {
@@ -749,6 +1327,20 @@
       "faire voyager l'art et la culture",
       "toucher le plus large public possible",
       "une exposition immersive réalisée grâce aux collections du musée du Louvre"
+    ],
+    "english_translation": "It is a giant of the seas, the largest sailing catamaran ever built: forty-seven meters long, eighteen meters wide. But it is also the very first museum-boat in the world. Until 2026, Art Explora will travel the shores of the Mediterranean, visiting around twenty cities in 15 different countries, with the goal of bringing art and culture on the road to reach the widest possible audience. On board, notably, is an immersive exhibition created using the collections of the Louvre Museum.",
+    "english_translation_highlights": [
+      "the very first museum-boat in the world",
+      "bringing art and culture on the road",
+      "reach the widest possible audience",
+      "an immersive exhibition created using the collections of the Louvre Museum"
+    ],
+    "english_question": "This boat offers…",
+    "english_options": [
+      "Cruises around the Mediterranean at competitive prices.",
+      "An immersive exhibition in partnership with about twenty museums.",
+      "Artistic activities accessible for free.",
+      "Innovative artistic and cultural experiences."
     ]
   }
 ]

@@ -12,6 +12,17 @@
     "right_option": "A",
     "highlights": [
       "spectacle de théâtre"
+    ],
+    "english_translation": "– Hi Louise, how are you? – Hi Marie, I'm doing well, thanks. And you? – I'm fine, thanks. Say, did you go see the theater show last night? – Yes, I was there, it was really impressive. – Really? Did you enjoy it? – Oh yes, I enjoyed it a lot.",
+    "english_translation_highlights": [
+      "theater show"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which picture corresponds to each conversation.\n[image] @co_10_images/co-10-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -29,6 +40,19 @@
       "devoirs de mathématiques",
       "équations",
       "expliquer étape par étape"
+    ],
+    "english_translation": "– Hi, can you help me with my math homework? – Of course. – I'm struggling with these equations, they're so complex. – Don't worry, I'll explain to you step by step. – Thank you so much, you're really good at math.",
+    "english_translation_highlights": [
+      "math homework",
+      "equations",
+      "explain to you step by step"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_10_images/co-10-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -44,6 +68,17 @@
     "right_option": "B",
     "highlights": [
       "boire un café"
+    ],
+    "english_translation": "– Hello. How are you? – Very well, thank you. And you? – Very well. I'm happy to see you. Do you have time right now? – Yes, I'm not working today. – Do you want to go get a coffee? – With pleasure.",
+    "english_translation_highlights": [
+      "get a coffee"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_10_images/co-10-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -65,6 +100,23 @@
       "un rhume",
       "en attendant le bus",
       "dans le froid"
+    ],
+    "english_translation": "\"Hello sir, I would like something for a cough, please.\" \"Lozenges or syrup?\" \"Both. I would also need aspirin in tablet form.\" \"Yes sir, will that be all?\" \"No, I would also like some eye drops. I caught a cold waiting for the bus in the cold.\"",
+    "english_translation_highlights": [
+      "something for a cough",
+      "Lozenges or syrup",
+      "aspirin in tablet form",
+      "some eye drops",
+      "a cold",
+      "waiting for the bus",
+      "in the cold"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_10_images/co-10-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -82,6 +134,19 @@
       "En raison de difficultés d'acheminement du personnel",
       "est supprimé",
       "Nous vous prions d’accepter nos excuses"
+    ],
+    "english_translation": "Due to staff transport difficulties, the first-class long-distance supplementary train, sleeper service number 3684, bound for Brussels-Midi, initially scheduled to depart at 23:16, has been cancelled. We kindly ask you to accept our apologies. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "Due to staff transport difficulties",
+      "has been cancelled",
+      "We kindly ask you to accept our apologies"
+    ],
+    "english_question": "This message…",
+    "english_options": [
+      "calls staff to the platform",
+      "informs of a slight train delay",
+      "apologizes for the service interruption",
+      "announces a train cancellation"
     ]
   },
   {
@@ -98,6 +163,18 @@
     "highlights": [
       "nous fermerons aujourd’hui à dix-sept heures au lieu de dix-huit heures",
       "au lieu de"
+    ],
+    "english_translation": "Ladies and gentlemen, welcome to our exhibition. We remind you that we will be closing today at five o'clock instead of six o'clock.",
+    "english_translation_highlights": [
+      "we will be closing today at five o'clock instead of six o'clock",
+      "instead of"
+    ],
+    "english_question": "This message…",
+    "english_options": [
+      "indicates a schedule change",
+      "repeats the opening hours",
+      "announces the start of the exhibition",
+      "welcomes the customers"
     ]
   },
   {
@@ -116,6 +193,20 @@
       "au rayon librairie à 15 heures",
       "Nous vous invitons à nous rejoindre au deuxième étage à cette occasion",
       "viendra"
+    ],
+    "english_translation": "Ladies and gentlemen, Mr. Amine Habib will be signing his latest novel in the bookstore section at 3 p.m. We invite you to join us on the second floor for this occasion.",
+    "english_translation_highlights": [
+      "Mr. Amine Habib will be signing his latest novel",
+      "in the bookstore section at 3 p.m.",
+      "We invite you to join us on the second floor for this occasion",
+      "will be signing"
+    ],
+    "english_question": "This message…",
+    "english_options": [
+      "indicates the location of the bookstore section",
+      "informs customers about an event",
+      "promotes a well-known author",
+      "reminds of the store's hours"
     ]
   },
   {
@@ -132,6 +223,18 @@
     "highlights": [
       "nous allons bientôt fermer",
       "Nous vous prions de bien vouloir vous rendre à la caisse"
+    ],
+    "english_translation": "Ladies and gentlemen, we will be closing soon. Please make your way to the checkout.",
+    "english_translation_highlights": [
+      "we will be closing soon",
+      "Please make your way to the checkout"
+    ],
+    "english_question": "This message…",
+    "english_options": [
+      "gives the accepted payment methods",
+      "repeats the store's closing hours",
+      "invites customers to finish their shopping",
+      "announces a technical problem at the registers"
     ]
   },
   {
@@ -149,6 +252,19 @@
       "Je vous appelle au sujet de votre rendez-vous de 11 heures avec le Docteur Bertrand",
       "il a une urgence et ne pourra pas assurer ses consultations aujourd’hui",
       "Seriez-vous disponible demain à 14 heures ?"
+    ],
+    "english_translation": "Hello Mrs. Marchand, this is the Lac Clinic. I'm calling you about your 11 o'clock appointment with Doctor Bertrand. Unfortunately, he has an emergency and will not be able to hold his consultations today. Would you be available tomorrow at 2 PM? Please call me back as soon as possible at 04 62 10 00 95. Have a good day.",
+    "english_translation_highlights": [
+      "I'm calling you about your 11 o'clock appointment with Doctor Bertrand",
+      "he has an emergency and will not be able to hold his consultations today",
+      "Would you be available tomorrow at 2 PM?"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "confirm a medical examination",
+      "warn of an emergency",
+      "propose a new date",
+      "schedule a consultation"
     ]
   },
   {
@@ -167,6 +283,20 @@
       "j’allais être en retard",
       "à mon rendez-vous avec Monsieur Java",
       "pour dire que j’allais être en retard"
+    ],
+    "english_translation": "Yes, hello, this is Mrs. Garcia. So I'm stuck on the highway because of an accident, and so I was calling to say that I'm going to be late for my appointment with Mr. Java. If it's possible to let him know before 2 PM, before the start of the meeting, that would be great, thank you very much.",
+    "english_translation_highlights": [
+      "I'm stuck on the highway because of an accident",
+      "I'm going to be late",
+      "for my appointment with Mr. Java",
+      "to say that I'm going to be late"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "report an accident",
+      "make an appointment",
+      "organize a meeting",
+      "announce a delay"
     ]
   },
   {
@@ -185,6 +315,20 @@
       "C’est bon pour moi",
       "Je viendrai avec Simon",
       "Je m’occupe du gâteau et des bougies"
+    ],
+    "english_translation": "Hi Justine, I hope you're doing well. I saw your email about Lucas's birthday next weekend. It works for me. I'll come with Simon, it'll be a chance for you all to finally meet him. I'll take care of the cake and the candles. There's a great bakery in my neighborhood. Kisses.",
+    "english_translation_highlights": [
+      "I saw your email about Lucas's birthday next weekend",
+      "It works for me",
+      "I'll come with Simon",
+      "I'll take care of the cake and the candles"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "send an invitation",
+      "confirm one's attendance",
+      "order a cake",
+      "announce one's arrival"
     ]
   },
   {
@@ -206,6 +350,23 @@
       "Elle est inscrite chez vous en conduite accompagnée",
       "elle vient de parcourir 3000 kilomètres",
       "pour le rendez-vous pédagogique des 3000 kilomètres"
+    ],
+    "english_translation": "Hello, I'm Aline's mother. She is enrolled with you for accompanied driving, and she has just completed 3,000 kilometers. She finished not very long ago. I would therefore like to make an appointment, you know, for the 3,000-kilometer pedagogical meeting. So if someone could call me back to schedule this appointment and also at the same time let me know, remind me of the price of this appointment and how long it lasts. Thank you very much for calling back. Talk soon, goodbye.",
+    "english_translation_highlights": [
+      "I would therefore like to make an appointment",
+      "if someone could call me back to schedule this appointment",
+      "let me know, remind me of the price of this appointment",
+      "how long it lasts",
+      "She is enrolled with you for accompanied driving",
+      "she has just completed 3,000 kilometers",
+      "for the 3,000-kilometer pedagogical meeting"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "ask for information",
+      "register her daughter for a driving course",
+      "make a payment for a course",
+      "confirm an appointment"
     ]
   },
   {
@@ -224,6 +385,20 @@
       "C’est vraiment dommage",
       "on sera en Argentine à cette date",
       "J’ai bien reçu ton faire-part de mariage"
+    ],
+    "english_translation": "Hi Bastien, it's Lisa. I got your wedding invitation, but we won't be able to come. It's really a shame. Alex and I will be in Argentina on that date. It's a trip we had planned for a long time and that had been canceled because of Covid last year. In any case, I'm super happy for you two, and I can't wait to see the photos and videos of the ceremony.",
+    "english_translation_highlights": [
+      "we won't be able to come",
+      "It's really a shame",
+      "will be in Argentina on that date",
+      "I got your wedding invitation"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "announce one's absence from an event",
+      "congratulate a friend on their marriage",
+      "announce one's imminent departure",
+      "plan a trip among friends"
     ]
   },
   {
@@ -242,6 +417,20 @@
       "sur les produits que je dois utiliser",
       "pour rénover mes décorations en laiton",
       "est-ce qu’un spécialiste des peintures peut me rappeler"
+    ],
+    "english_translation": "From the café-restaurant Les 3 Brasseurs in Blagnac. So, I'd like to get some information about the products I should use to renovate my brass decorations here in my restaurant. So, can a paint specialist call me back?",
+    "english_translation_highlights": [
+      "I'd like to get some information",
+      "about the products I should use",
+      "to renovate my brass decorations",
+      "can a paint specialist call me back"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "offer information",
+      "ask for advice",
+      "buy a product",
+      "plan renovations"
     ]
   },
   {
@@ -261,6 +450,21 @@
       "sur des termes en effet généraux",
       "le mieux, c’est de pouvoir aller dans des pays étrangers",
       "pour pouvoir pratiquer au maximum"
+    ],
+    "english_translation": "Because for me, you need a lot of practice, and today teachers at school focus on a lot of theory, on general terms indeed. But the best thing is to be able to go to foreign countries to practice as much as possible, and to actually learn English.",
+    "english_translation_highlights": [
+      "you need a lot of practice",
+      "teachers at school focus on a lot of theory",
+      "on general terms indeed",
+      "the best thing is to be able to go to foreign countries",
+      "to practice as much as possible"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks that English is learned very well at school",
+      "thinks that English is learned adequately at school",
+      "thinks that English is not learned well at school",
+      ""
     ]
   },
   {
@@ -279,6 +483,20 @@
       "c’est pour ça que nous, les Français, avons du mal à parler anglais ou même d’autres langues",
       "on a investi beaucoup de temps, surtout à l’école très jeune, sur du vocabulaire qui ne va pas nécessairement nous servir par la suite",
       "la trousse, qui ne m’a pas forcément été utile"
+    ],
+    "english_translation": "I find that in France, the overall language learning system has quite a few shortcomings, and that's why we French people struggle to speak English or even other languages. I find that we invested a lot of time, especially in school at a very young age, on vocabulary that won't necessarily be useful to us later on. I have memories from middle school of spending several months on pencil case vocabulary, which wasn't necessarily useful to me, and I realize that I ultimately learned much more through music, TV shows, and movies.",
+    "english_translation_highlights": [
+      "I find that in France, the overall language learning system has quite a few shortcomings",
+      "that's why we French people struggle to speak English or even other languages",
+      "we invested a lot of time, especially in school at a very young age, on vocabulary that won't necessarily be useful to us later on",
+      "pencil case vocabulary, which wasn't necessarily useful to me"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks that English is learned very well at school",
+      "thinks that English is learned adequately at school",
+      "thinks that English is not learned well at school",
+      ""
     ]
   },
   {
@@ -297,6 +515,20 @@
       "des professeurs qui ne parlaient pas du tout bien anglais",
       "qui allaient rechercher sur Google Trad des mots",
       "surtout par rapport à d’autres pays"
+    ],
+    "english_translation": "Right away, whether you're in private or public school, the education is not at all the same. Whether you're lucky enough to be in European sections or not… And even in European sections, I was… I had teachers who didn't speak English well at all, who would look up words on Google Translate. So I think there's really a problem in education, especially compared to other countries.",
+    "english_translation_highlights": [
+      "there's really a problem in education",
+      "teachers who didn't speak English well at all",
+      "who would look up words on Google Translate",
+      "especially compared to other countries"
+    ],
+    "english_question": "The person being questioned…",
+    "english_options": [
+      "thinks that English is learned very well at school",
+      "thinks that English is learned adequately at school",
+      "thinks that English is not learned well at school",
+      ""
     ]
   },
   {
@@ -318,6 +550,23 @@
       "il y a une partie de la jeunesse qui ne veut pas travailler non plus",
       "il y a des aides",
       "tout le monde, il y a des flemmards, il y a des gens qui aiment travailler"
+    ],
+    "english_translation": "Honestly, I don't agree. It's just that they're more selective, let's say. Nowadays, young people don't want to do a job they don't like, so they have more criteria. But then again, yes, it's true, there's a portion of the youth that doesn't want to work either — let's not kid ourselves. Because there's financial aid, there's stuff… So they wait to be helped. But it's like always: everyone, there are lazy people, there are people who like to work, that's just how it is.",
+    "english_translation_highlights": [
+      "I don't agree",
+      "they're more selective",
+      "young people don't want to do a job they don't like",
+      "they have more criteria",
+      "there's a portion of the youth that doesn't want to work either",
+      "there's financial aid",
+      "everyone, there are lazy people, there are people who like to work"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks that young people no longer want to work",
+      "thinks that young people want to work sometimes",
+      "thinks that young people want to work",
+      ""
     ]
   },
   {
@@ -335,6 +584,19 @@
       "C’est pas qu’on ne veut plus travailler",
       "on veut travailler dans de meilleures conditions",
       "les jeunes sont des fainéants"
+    ],
+    "english_translation": "It's not that we don't want to work anymore—we want to work under better conditions. What that means, first of all, is raising wages, because the people who generally say young people are lazy didn't have the same economic system. So we have less purchasing power. Everything goes up except our salaries. Even if you earn your degrees now, the number of people with a master's degree on the market means it's not valued as much anymore. I personally know plenty of people who have degrees but can't break into the job market due to lack of experience, and so on. So it's easy to call us lazy.",
+    "english_translation_highlights": [
+      "It's not that we don't want to work anymore",
+      "we want to work under better conditions",
+      "young people are lazy"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks that young people no longer want to work",
+      "thinks that young people want to work sometimes",
+      "thinks that young people want to work",
+      ""
     ]
   },
   {
@@ -353,6 +615,20 @@
       "on est la génération auto-entrepreneur",
       "si on ne trouve pas de travail, on se le crée nous-mêmes",
       "on est plus débrouillards que les anciens"
+    ],
+    "english_translation": "\"Young people don't want to work anymore\" — that's false. Because in reality, when it comes down to it, we're the self-employed generation. So, if we can't find work, we create it ourselves. That makes us more resourceful than the older generations.",
+    "english_translation_highlights": [
+      "\"Young people don't want to work anymore\" — that's false.",
+      "we're the self-employed generation",
+      "if we can't find work, we create it ourselves",
+      "us more resourceful than the older generations"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks that young people no longer want to work",
+      "thinks that young people want to work sometimes",
+      "thinks that young people want to work",
+      ""
     ]
   },
   {
@@ -377,6 +653,26 @@
       "ça lutte contre l’anxiété, la dépression",
       "c’est aussi quelque chose qui est extrêmement important",
       "l’activité physique régulière sera bénéfique"
+    ],
+    "english_translation": "You must not stop, because indeed, when physical activity is part of our balance, ultimately, stopping it will promote that imbalance. And then ultimately, it will promote the acceleration, why not, of the disease. We know that practicing regular physical activity is beneficial because it improves physical fitness. And that, generally speaking, it's always better to have good physical fitness in order to fight against a disease. It's good for morale, it fights against anxiety, depression, and that is also something that is extremely important in order to fight against diseases. But even more specifically, for certain diseases, we know that it helps prevent cancer recurrence, for example, to fight against diabetes, high blood pressure, asthma… Well, we know that for all of these, regular physical activity will be beneficial.",
+    "english_translation_highlights": [
+      "You must not stop",
+      "when physical activity is part of our balance",
+      "stopping it will promote that imbalance",
+      "practicing regular physical activity",
+      "it improves physical fitness",
+      "it's always better to have good physical fitness",
+      "It's good for morale",
+      "it fights against anxiety, depression",
+      "that is also something that is extremely important",
+      "regular physical activity will be beneficial"
+    ],
+    "english_question": "Physical activity…",
+    "english_options": [
+      "gives visible results in a short time",
+      "helps maintain a physical and mental balance",
+      "should be practiced only by athletes",
+      "has different effects depending on the individual"
     ]
   },
   {
@@ -394,6 +690,19 @@
       "il y a plein de fautes qui deviennent des règles",
       "ça fait partie de l’évolution logique d’une langue",
       "la forme fautive"
+    ],
+    "english_translation": "We're going to talk about mistakes and rules, because in grammar, we're accustomed — and it makes sense — to contrasting rules and mistakes. But did you know that many mistakes become rules, and that this is part of the logical evolution of a language? I'm going to give you a few examples, borrowed in part from the linguist Henri Frei in *The Grammar of Mistakes*. So, for example, from the standpoint of phonetics, we can cite metatheses, that is, phonetic modifications of a word through the rearrangement of one or more sounds. For example, \"fromage\" comes from the Latin *formaticum*, *formaggio* in Italian, and it used to be pronounced \"formage,\" then, by mistake, \"fromage.\" And ultimately, the erroneous form…",
+    "english_translation_highlights": [
+      "many mistakes become rules",
+      "this is part of the logical evolution of a language",
+      "the erroneous form"
+    ],
+    "english_question": "Mistakes in the language…",
+    "english_options": [
+      "often become linguistic norms",
+      "are systematically perceived as incorrect",
+      "have no influence on the evolution of a language",
+      "constitute the sole area of study in grammar"
     ]
   },
   {
@@ -416,6 +725,24 @@
       "essayer de trouver le bon équilibre entre la raison et les sensations",
       "entre les sciences et la poésie, les qualités nécessaires",
       "il faut quand même éprouver une certaine fascination"
+    ],
+    "english_translation": "Hello. Thank you for being with us. Thank you. As a philosopher, between the natural sciences and poetry, how would you define your approach? How do you characterize it? Are you already being presented as a philosopher of nature, of the living world today? That's a good question, and indeed, it reveals that there is a sort of blind spot here, inside, in the hollows of these disciplines. In my view, it's a place that deserves to be explored, because precisely, I believe that the culture of the living world that we need cannot be content with being merely a science of the living. At the same time, it needs the sciences, and so that requires creating these strange chimeras between poetry, literature, ethology, and scientific ecology. After that, we'll see—if someone wants to find a label for me, they will. And you often say that you need, and that you have needed, to try to find the right balance between reason and sensations. We were perhaps touching on that between science and poetry, the necessary qualities. You don't necessarily like the word \"wonder,\" but you do say that one must still experience a certain fascination—that is, knowing how to open your eyes wide, look, and admire what we have around us. Absolutely. It's true that I feel the word \"wonder\" in the culture we've inherited has unfortunately, I would say, been blunted in its capacity for politicization and in its capacity to convey importance. It's as if it had been pushed into a purely aesthetic realm, and in doing so, I would say, disengaged.",
+    "english_translation_highlights": [
+      "between the natural sciences and poetry",
+      "there is a sort of blind spot here, inside, in the hollows of these disciplines",
+      "the culture of the living world that we need cannot be content with being merely a science of the living",
+      "At the same time, it needs the sciences",
+      "that requires creating these strange chimeras between poetry, literature, ethology, and scientific ecology",
+      "to try to find the right balance between reason and sensations",
+      "between science and poetry, the necessary qualities",
+      "one must still experience a certain fascination"
+    ],
+    "english_question": "The guest describes his approach as",
+    "english_options": [
+      "a set of distinct disciplines",
+      "a rejection of poetry in favor of science",
+      "a simple analysis of scientific facts",
+      "an exploration of the links between science and art"
     ]
   },
   {
@@ -432,6 +759,18 @@
     "highlights": [
       "C’est vrai que j’ai l’impression que le mot « émerveillement » dans la culture dont on hérite a malheureusement, je dirais, été épointé dans sa capacité de politisation et dans sa capacité à restituer de l’importance.",
       "C’est comme s’il avait été repoussé dans un champ esthétique, et était ce faisant, je dirais, désengagé."
+    ],
+    "english_translation": "Hello. Thank you for being with us. Thank you. As a philosopher, between natural sciences and poetry, how would you define your approach? How do you describe it? Are you already presented as a philosopher of nature, of the living world today? That's a good question, and indeed, it reveals that there is a kind of blind spot here, inside, in the hollows of these disciplines. In my view, it's a place that deserves to be explored, because precisely, I believe the culture of the living world that we need cannot be content with being merely a science of the living. At the same time, it needs the sciences, and so it requires creating these strange chimeras between poetry, literature, ethology, and scientific ecology. After that, we'll see—if someone wants to find a label for me, they will. And you often say that you need, and that you needed, to try to find the right balance between reason and sensations. We were perhaps alluding to this between science and poetry, the necessary qualities. You don't necessarily like the word \"wonder,\" but you do say that one must still experience a certain fascination—that is, knowing how to open your eyes wide, look, and admire what we have around us. Absolutely. It's true that I feel the word \"wonder\" in the culture we've inherited has unfortunately, I would say, been blunted in its capacity for politicization and in its capacity to restore a sense of importance. It's as if it had been pushed into a purely aesthetic field, and in doing so, I would say, disengaged.",
+    "english_translation_highlights": [
+      "It's true that I feel the word \"wonder\" in the culture we've inherited has unfortunately, I would say, been blunted in its capacity for politicization and in its capacity to restore a sense of importance.",
+      "It's as if it had been pushed into a purely aesthetic field, and in doing so, I would say, disengaged."
+    ],
+    "english_question": "He regrets…",
+    "english_options": [
+      "that poetry is not sufficiently valued",
+      "that reason takes precedence over sensations",
+      "the meaning that the word 'wonder' has taken on",
+      "that people are not open enough"
     ]
   },
   {
@@ -460,6 +799,30 @@
       "j'aimerais ça partager ces belles photos-là",
       "Ils ont tous imaginé un programme de merchandising, la télévision éventuellement",
       "la télévision éventuellement"
+    ],
+    "english_translation": "First, tell us a little bit about how all of this came about, because you left everything to create and set up this project. Yes, yes, I'm a sales and marketing girl. I worked for 10 years in the industry, and I traveled for work, and I brought my 2 stuffed animals with me, Biscuit and Cassonade. Then I took photos of them for a good ten years, and I had the opportunity to redirect my career, and I asked myself what I really liked doing. When we talk about passion, I thought it's completely crazy, but I love taking photos of my stuffed animals. Then I thought, I'd like to share those beautiful photos. So I started imagining a business model with Biscuit and Cassonade. So I was envisioning books, and I thought, well, these are photos, so kids are going to want the stuffed animals. They all imagined a merchandising program, television eventually. So I took the leap, and now it's been 3 years, we've launched 8 books. And now we have a beautiful box set at Costco, by the way, which we're presenting today. Oh yes, with the stuffed animal. Yes. And that's pretty exciting. What's quite impressive is that the stuffed animals are small, but the locations are real. These aren't places that were created specifically to take photos for the books. These are, you know, if we're in Paris, you see the Eiffel Tower, the real Eiffel Tower. That's right, because it's a project about introducing the discovery of the world. So Biscuit and Cassonade, they travel. Here, they're in Paris, they're in New York, they're in Mexico. So these are real locations, which means they don't feel out of place in the environment. It's the perspective. I really lie down on the ground to take the photos.",
+    "english_translation_highlights": [
+      "I started imagining a business model with Biscuit and Cassonade",
+      "I was envisioning books",
+      "it's been 3 years, we've launched 8 books",
+      "And now we have a beautiful box set at Costco",
+      "the stuffed animals are small, but the locations are real",
+      "These aren't places that were created specifically to take photos for the books",
+      "These are, you know, if we're in Paris, you see the Eiffel Tower, the real Eiffel Tower",
+      "it's a project about introducing the discovery of the world",
+      "Biscuit and Cassonade, they travel",
+      "these are real locations",
+      "I love taking photos of my stuffed animals",
+      "I'd like to share those beautiful photos",
+      "They all imagined a merchandising program, television eventually",
+      "television eventually"
+    ],
+    "english_question": "The presented project…",
+    "english_options": [
+      "involves the creation of a television series",
+      "is a book series with original characters",
+      "focuses on children's programs",
+      "was imagined by an amateur photographer"
     ]
   },
   {
@@ -480,6 +843,22 @@
       "ce sont des lieux réels",
       "j'aimerais ça partager ces belles photos-là",
       "j'aime ça, faire des photos de mes toutous"
+    ],
+    "english_translation": "First, tell us a little bit about how all of this came about, because you left everything to create and set up this project. Yes, yes, I'm a sales and marketing girl. I worked for 10 years in the industry, and I traveled for work, and I brought my 2 stuffed animals with me, Biscuit and Cassonade. Then I took photos of them for a good ten years, and I had the opportunity to redirect my career, and I asked myself what I really liked doing. When we talk about passion, I thought it's completely crazy, but I love taking photos of my stuffed animals. Then I thought, I'd love to share those beautiful photos. So I started imagining a business model with Biscuit and Cassonade. So I envisioned books, and I thought, well, these are photos, so kids are going to want the stuffed animals. They all imagined a merchandising program, eventually television. So I took the leap, and now it's been 3 years, we've launched 8 books. And now we have a nice box set at Costco, by the way, which we're presenting today. Oh yes, with the stuffed animal. Yes. And that's pretty exciting. What's quite impressive is that the stuffed animals are small, but the locations are real. These aren't places that were specially created to take photos for the books. They're, you know, if we're in Paris, we see the Eiffel Tower, the real Eiffel Tower. That's right, because it's a project about introducing the discovery of the world. So Biscuit and Cassonade, they travel. Here, they're in Paris, they're in New York, they're in Mexico. So these are real locations, which means they don't feel out of place in the environment. It's the perspective. I really lie down on the ground to take the photos.",
+    "english_translation_highlights": [
+      "it's a project about introducing the discovery of the world",
+      "Biscuit and Cassonade, they travel",
+      "they're in Paris, they're in New York, they're in Mexico",
+      "these are real locations",
+      "I'd love to share those beautiful photos",
+      "I love taking photos of my stuffed animals"
+    ],
+    "english_question": "According to the guest, the objective of this project is to…",
+    "english_options": [
+      "create short and realistic stories",
+      "sell one's product on a global scale",
+      "see life with a new perspective",
+      "encourage the exploration of the world"
     ]
   },
   {
@@ -500,6 +879,22 @@
       "de manière plus variée",
       "on peut trouver des exemples positifs qui aident à dédramatiser",
       "à faire mieux comprendre la santé mentale"
+    ],
+    "english_translation": "Does fiction tend to fuel prejudices about mental illness or, on the contrary, to clarify things? I find that currently, we're at a point where it tends to clarify things, since we have more and more examples, such as the very recent French series *Mentale*, examples of ways to talk about mental health in a positive manner and also in a more varied way. So it can range from series about teenagers to documentaries, including dramatic films or comedies, and among all these examples, in the polyphony around the subject, we can find positive examples that help to de-dramatize and to better understand mental health. Can the fact that a celebrity publicly acknowledges their mental disorder also help deconstruct certain preconceived ideas? Indeed, we live in a society where the media and public figures hold a great deal of space and have a lot of influence worldwide in the media and in our society, and so they take on many subjects, whether it's politics, art, or social issues. And the fact that mental health is part of that is ultimately a fairly accurate reflection of the high prevalence of mental disorders in our society. And so this can be a very good entry point into the subject, a very good way to decode and also to remove the stigma around mental illness, which unfortunately still too often remains stigmatized.",
+    "english_translation_highlights": [
+      "we're at a point where it tends to clarify things",
+      "more and more examples",
+      "of ways to talk about mental health in a positive manner",
+      "in a more varied way",
+      "we can find positive examples that help to de-dramatize",
+      "to better understand mental health"
+    ],
+    "english_question": "According to the guest, fiction…",
+    "english_options": [
+      "reinforces prejudices about mental disorders",
+      "clarifies preconceived ideas about mental health",
+      "remains neutral without influencing perceptions",
+      "strays too far from the reality of young people"
     ]
   },
   {
@@ -520,6 +915,22 @@
       "un très bon moyen de décoder, de décomplexer aussi vis-à-vis de la maladie mentale",
       "une célébrité assume publiquement son trouble psychique",
       "ça peut aider à déconstruire certaines idées reçues"
+    ],
+    "english_translation": "Does fiction tend to fuel prejudices about mental illness or, on the contrary, to clarify things? I find that currently, we're at a point where it tends to clarify things, since we have more and more examples, such as the very recent French series *Mentale*, examples of ways to talk about mental health in a positive way and also in a more varied way. So it can range from series about teenagers to documentaries, including dramatic films or comedies, and among all these examples, in the polyphony around the subject, we can find positive examples that help to take the drama out of it and to better understand mental health. Can the fact that a celebrity publicly acknowledges their mental health condition also help deconstruct certain preconceived ideas? Indeed, we live in a society where the media and public figures hold a great deal of space and have a lot of influence worldwide in the media and in our society, and so they take on many subjects, whether it's politics, art, or societal issues. And the fact that mental health is part of that is ultimately a fairly accurate reflection of the high prevalence of mental health disorders in our society. And so this can be a very good entry point into the subject, a very good way to decode and also to remove the stigma around mental illness, which unfortunately still remains too often stigmatized.",
+    "english_translation_highlights": [
+      "they take on many subjects",
+      "mental health is part of that",
+      "this can be a very good entry point into the subject",
+      "a very good way to decode and also to remove the stigma around mental illness",
+      "a celebrity publicly acknowledges their mental health condition",
+      "that can help deconstruct certain preconceived ideas"
+    ],
+    "english_question": "The discussion on mental health…",
+    "english_options": [
+      "is often marginalized by mainstream media",
+      "only concerns a minority of the population",
+      "benefits from the engagement of influential personalities",
+      "remains a sensitive subject when it concerns celebrities"
     ]
   },
   {
@@ -554,6 +965,36 @@
       "les mois où je suis à six-cents francs, je ne vais pas me permettre de prendre un abonnement",
       "je suis obligée de frauder quoi",
       "Ce n’est même pas que j’ai envie et que je me dis, c’est vraiment que je n’ai pas le choix"
+    ],
+    "english_translation": "After 9 hours of work, Andrea leaves the gas station that employs him. A full-time position for a modest salary, about four thousand five hundred gross francs per month, family allowance included. \"I don't earn a huge amount since I don't have a degree. It's all based on my experience. So I earn minimum wage, even though I'm the manager here at the station, and it forces me to work 100% otherwise I can't support myself, my children, and still have a little bit of pleasure, let's put it that way.\" This young thirty-something living in the Chablais region of Vaud separated from her ex-partner a little over 2 years ago. The change in life is radical. — Hi. — Hi. — How are you? — Good, and you? — Are you doing your homework at uni? — Yeah. \"Now you're all alone, you have to pay for everything with your salary, the rent, the food and everything. So for me, what's the priority is the children. The children can't be lacking anything. As for me, it doesn't matter. But I… do you manage? I grit my teeth a bit, and we manage.\" Gritting her teeth, especially since Andrea has been housing her sister since the beginning of last year. A literature student at the University of Lausanne, it's impossible for Lydia to live on her own. \"It's a bit of a blessing to be able to be here, to only have to pay five hundred francs in rent, so to speak, and to have, to know that actually, if I'm hungry, if I'm out and I don't have, I don't have enough money, if I come back here, no matter what it is, I'll have food on the table, and yeah. My sister really came to my rescue on that one. I couldn't, I really couldn't survive without her.\" A relief for Lydia, even though living in Roche means 2 hours of daily commuting to get to classes. To finance her studies, the young woman works part-time; her income fluctuates a lot, fifteen hundred francs per month on average, insufficient to cover her needs. \"Five hundred francs go straight to rent, I set aside four hundred francs for food, and the rest goes to everything like phone, insurance, train pass, often train fines because, well. So the months where I'm at six hundred francs, I'm not going to allow myself to buy a pass at one thousand eight hundred and five francs from SBB. So, well, I… I mean, I'm forced to dodge fares. It's not even that I want to and think, it's really that I have no choice but to get around, and I can't walk from here to Lausanne.\"",
+    "english_translation_highlights": [
+      "I don't earn a huge amount since I don't have a degree",
+      "I earn minimum wage",
+      "it forces me to work 100% otherwise I can't support myself, my children",
+      "This young thirty-something living in the Chablais region of Vaud separated from her ex-partner a little over 2 years ago",
+      "The change in life is radical",
+      "you're all alone, you have to pay for everything with your salary, the rent, the food and everything",
+      "what's the priority is the children",
+      "The children can't be lacking anything",
+      "As for me, it doesn't matter",
+      "I grit my teeth a bit, and we manage",
+      "Gritting her teeth",
+      "Andrea has been housing her sister since the beginning of last year",
+      "it's impossible for Lydia to live on her own",
+      "her income fluctuates a lot, fifteen hundred francs per month on average, insufficient to cover her needs",
+      "Five hundred francs go straight to rent",
+      "I set aside four hundred francs for food, and the rest goes to everything like phone, insurance, train pass",
+      "often train fines",
+      "the months where I'm at six hundred francs, I'm not going to allow myself to buy a pass",
+      "I'm forced to dodge fares",
+      "It's not even that I want to and think, it's really that I have no choice"
+    ],
+    "english_question": "This report illustrates…",
+    "english_options": [
+      "the difficulties of balancing work and family life",
+      "the working conditions of current jobs",
+      "the importance of pursuing higher education",
+      "the financial pressure felt by parents"
     ]
   },
   {
@@ -574,6 +1015,22 @@
       "Donc ma foi, je… enfin, je suis obligée de frauder quoi",
       "insuffisant pour subvenir à ses besoins",
       "ses revenus fluctuent beaucoup"
+    ],
+    "english_translation": "After 9 hours of work, Andrea leaves the gas station that employs him. A full-time position for a modest salary, about four thousand five hundred gross francs per month, family allowance included. \"I don't earn a huge amount given that I don't have a diploma. It's all based on my experience. So I earn minimum wage, even though I'm the manager here at the station, and it forces me to work 100% otherwise I can't support myself, my children, and still have a little bit of pleasure, let's put it that way.\" This young woman in her thirties, living in the Chablais region of Vaud, separated from her former partner a little over 2 years ago. The change in life is radical. — Hi. — Hi. — How are you? — Good, and you? — Are you doing your homework at uni? — Yeah. \"Now you're all alone, you have to pay for everything with your salary — rent, food, and everything. So for me, the priority is the children. The children can't be lacking anything. As for me, it doesn't matter. But I… do you manage? I grit my teeth a bit, and we manage.\" Gritting her teeth, especially since Andrea has been housing her sister since the beginning of last year. A literature student at the University of Lausanne, it's impossible for Lydia to live on her own. \"It's a bit of a blessing to be able to be here, to only pay five hundred francs in rent, so to speak, and to have, to know that actually, if I'm hungry, if I'm out and I don't have, I don't have enough money, if I come back here, no matter what it is, I'll have food on the table, and yeah. My sister really came to my rescue on this one. I couldn't, I really couldn't survive without her.\" A relief for Lydia, even though living in Roche means 2 hours of daily commuting to get to classes. To finance her studies, the young woman works part-time; her income fluctuates a lot, fifteen hundred francs per month on average, insufficient to meet her needs. \"Five hundred francs goes straight to rent, I set aside four hundred francs for food, and the rest goes to everything like phone, insurance, train pass, often train fines because, well, you know. So the months when I'm at six hundred francs, I'm not going to allow myself to buy a pass at one thousand eight hundred and five francs from the SBB. So, well, I… I mean, I'm forced to dodge fares. It's not even that I want to and I think to myself — it's really that I have no choice but to get around, and I can't walk from here to Lausanne.\"",
+    "english_translation_highlights": [
+      "I'm forced to dodge fares",
+      "It's not even that I want to and I think to myself — it's really that I have no choice but to get around",
+      "the months when I'm at six hundred francs, I'm not going to allow myself to buy a pass at one thousand eight hundred and five francs from the SBB",
+      "So, well, I… I mean, I'm forced to dodge fares",
+      "insufficient to meet her needs",
+      "her income fluctuates a lot"
+    ],
+    "english_question": "According to this report, Lydia…",
+    "english_options": [
+      "has an advantageous train subscription",
+      "walks to avoid transportation costs each month",
+      "does not always pay for transportation services",
+      "has developed a strict budget that covers all their needs"
     ]
   },
   {
@@ -592,6 +1049,20 @@
       "Leur mise en circulation fait suite à la décision prise le 7 novembre dernier à Douala par le comité ministériel de l'Union monétaire de l'Afrique centrale",
       "le comité ministériel de l'Union monétaire de l'Afrique centrale",
       "la décision prise le 7 novembre dernier"
+    ],
+    "english_translation": "New banknotes have been in circulation since this Thursday in the countries of the Economic Community of Central Africa. Their release follows the decision made on November 7th in Douala by the ministerial committee of the Central African Monetary Union. In addition to this so-called 2020 series, the banknotes that have been in circulation since 2002 retain their legal tender status in the CEMAC zone.",
+    "english_translation_highlights": [
+      "New banknotes have been in circulation since this Thursday",
+      "Their release follows the decision made on November 7th in Douala by the ministerial committee of the Central African Monetary Union",
+      "the ministerial committee of the Central African Monetary Union",
+      "the decision made on November 7th"
+    ],
+    "english_question": "New banknotes are circulating thanks…",
+    "english_options": [
+      "to a decision made last December",
+      "to the ministerial committee of the Monetary Union",
+      "to an initiative by the banks of Central Africa",
+      "to the approval of the heads of state of the region"
     ]
   },
   {
@@ -614,6 +1085,24 @@
       "et ceux qui voudraient bien apprendre",
       "mais qui doivent patienter le temps que leurs profs finissent d'aider ceux qui traînent la patte ou qui plantent leurs poings dans le mur",
       "celle qui manque de discipline"
+    ],
+    "english_translation": "they don't get the help they need and end up in public school in what's called the regular class. The regular class is anything but regular. It's made up of the left behind, of those who are \"left over,\" so to speak—students who didn't manage to qualify for special educational programs, those who weren't born with a silver spoon in their mouth, and those who would love to learn but have to wait while their teachers finish helping those who are lagging behind or punching their fists into the wall. That's what Madame Isabelle's class looks like—the one that lacks discipline.",
+    "english_translation_highlights": [
+      "The regular class is anything but regular",
+      "It's made up of the left behind",
+      "of those who are \"left over,\" so to speak",
+      "students who didn't manage to qualify for special educational programs",
+      "those who weren't born with a silver spoon in their mouth",
+      "and those who would love to learn",
+      "but have to wait while their teachers finish helping those who are lagging behind or punching their fists into the wall",
+      "the one that lacks discipline"
+    ],
+    "english_question": "The regular class is described as…",
+    "english_options": [
+      "a motivating and stimulating learning environment",
+      "a class for particularly talented students",
+      "a grouping of students with different levels",
+      "a model of discipline and academic achievement"
     ]
   },
   {
@@ -634,6 +1123,22 @@
       "le journal intime, c'est ringard, c'est daté",
       "Tenir un journal, c'est peut-être une activité vieillotte et à contre-courant",
       "nous savons aujourd'hui quelques bonnes raisons de nous méfier de tout ce qui est moderne"
+    ],
+    "english_translation": "I cost almost nothing, I'm very eco-friendly, accessible to everyone. Scientific studies show that I do a world of good for the mind and body, and yet fewer and fewer people take an interest in me, and even fewer spend time with me. Who am I? The personal diary. Yes, I know, the personal diary is old-fashioned, outdated, sentimental, full of clichés, the opposite of the modernity of stupid glowing screens plugged in everywhere. I don't care. Keeping a diary may be an old-fashioned and countercultural activity, but after all, walking or gardening are also old-fashioned and countercultural. And yet, today we know a few good reasons to be wary of everything that is modern and mainstream. Often, it's only there to manipulate our brains.",
+    "english_translation_highlights": [
+      "I cost almost nothing, I'm very eco-friendly, accessible to everyone",
+      "Scientific studies show that I do a world of good for the mind and body",
+      "fewer and fewer people take an interest in me, and even fewer spend time with me",
+      "the personal diary is old-fashioned, outdated",
+      "Keeping a diary may be an old-fashioned and countercultural activity",
+      "today we know a few good reasons to be wary of everything that is modern"
+    ],
+    "english_question": "This document highlights…",
+    "english_options": [
+      "the often overlooked benefits of keeping a diary",
+      "the tendency of young people towards superfluous activities",
+      "the obvious inefficiency of technological innovations",
+      "the idea of a modern diary on screen"
     ]
   },
   {
@@ -658,6 +1163,26 @@
       "Avec ces deux millions et demi de tonnes de gaz qui sortiront chaque année dès l'an prochain de son sous-sol",
       "le Sénégal sera un petit producteur",
       "mais il pourra peser sur les décisions du cartel"
+    ],
+    "english_translation": "The twentieth member of the organization, which will now include eight African countries, among them Nigeria and Angola. The GECF, also known as the OPEC of gas, is not as powerful as its oil counterpart, but amid the global energy crisis, its geopolitical weight is only growing. The GECF accounts for seventy percent of the world's gas reserves and forty-three percent of production. With the two and a half million tons of gas that will come out of its subsoil each year starting next year, Senegal will be a small producer, but it will be able to influence the cartel's decisions.",
+    "english_translation_highlights": [
+      "The twentieth member of the organization",
+      "which will now include eight African countries, among them Nigeria and Angola",
+      "The GECF, also known as the OPEC of gas",
+      "is not as powerful as its oil counterpart",
+      "amid the global energy crisis",
+      "its geopolitical weight is only growing",
+      "The GECF accounts for seventy percent of the world's gas reserves and forty-three percent of production",
+      "With the two and a half million tons of gas that will come out of its subsoil each year starting next year",
+      "Senegal will be a small producer",
+      "but it will be able to influence the cartel's decisions"
+    ],
+    "english_question": "This document deals with…",
+    "english_options": [
+      "the economic impact of the energy crisis in Africa",
+      "the rise of Senegal as an oil power",
+      "the geopolitical repercussions of oil production",
+      "the African countries richest in gas resources"
     ]
   },
   {
@@ -673,6 +1198,17 @@
     "right_option": "A",
     "highlights": [
       "Le rassemblement était organisé pour protester contre le vote du conseil municipal en faveur du maintien de cette statue dans le parc"
+    ],
+    "english_translation": "And protesters toppled the statue of John A. MacDonald in a park in Hamilton this afternoon. The protesters used a rope that they tied around the neck of the statue before pulling it to the ground. The gathering was organized to protest the city council's vote in favor of keeping the statue in the park. I remind you that former Prime Minister of Canada, John A. MacDonald, is criticized for his role in the founding of residential schools for Indigenous peoples in the country.",
+    "english_translation_highlights": [
+      "The gathering was organized to protest the city council's vote in favor of keeping the statue in the park"
+    ],
+    "english_question": "The demonstration was held in response to…",
+    "english_options": [
+      "the City's response regarding a statue in a park",
+      "a political decision by the Prime Minister of Canada",
+      "a campaign to erect new monuments",
+      "proposals for reconciliation with Indigenous peoples"
     ]
   },
   {
@@ -692,6 +1228,21 @@
       "Puis si tu lances la soupe sur une toile blanche, du coup c'est un happening d'art contemporain, tu peux revendre ça 500 000 balles facilement et ensuite planter quelques arbres dans la foulée",
       "ce n'est pas la première fois que les activistes ciblent une œuvre d'art",
       "deux militants se sont collés la main à un tableau"
+    ],
+    "english_translation": "It was just before gluing their hands to the wall that two British climate activists threw tomato soup on Vincent Van Gogh's Sunflowers. Oh, that irritated me—I really like tomato soup, what a waste! Besides, if you throw soup on a blank canvas, then it's a contemporary art happening, you could easily resell that for 500,000 bucks and then plant a few trees while you're at it. In any case, this story got a lot of people talking. Yet it's not the first time activists have targeted a work of art. For example, right here at the Museum of Fine Arts in Lausanne, a month ago, two activists glued their hands to a painting by Giovanni Giacometti.",
+    "english_translation_highlights": [
+      "It was just before gluing their hands to the wall that two British climate activists threw tomato soup on Vincent Van Gogh's Sunflowers",
+      "Oh, that irritated me—I really like tomato soup, what a waste!",
+      "Besides, if you throw soup on a blank canvas, then it's a contemporary art happening, you could easily resell that for 500,000 bucks and then plant a few trees while you're at it",
+      "it's not the first time activists have targeted a work of art",
+      "two activists glued their hands to a painting"
+    ],
+    "english_question": "The columnist is mocking…",
+    "english_options": [
+      "the creativity of contemporary artists",
+      "the spontaneous vandalism of famous works",
+      "the environmental footprint of art",
+      "the methods of climate activists"
     ]
   },
   {
@@ -708,6 +1259,18 @@
     "highlights": [
       "C'est un peu comme aller voir un mafieux pour lui dire : « Arrêtez de vendre de la drogue, ça rend vos clients dépendants et malheureux. » Ou aller voir un marchand d'armes pour lui dire : « Arrêtez de vendre des armes, ça alimente les conflits et ça tue les gens. »",
       "Non mais c'est sûr que le dealer ou le marchand d'armes va répondre : « Mais justement, c'est ça le but, mon coco. »"
+    ],
+    "english_translation": "So at Davos, along with Vanessa, there was Greta Thunberg and other young environmental activists from various countries. These young people came to remind the old folks who run our world that their poor management is severely mortgaging all of our futures with the plundering of resources, pollution, growing inequalities, tax evasion, and so on. It's quite a curious approach, isn't it? It's a bit like going to see a mobster and telling him: \"Stop selling drugs, it makes your clients dependent and miserable.\" Or going to see an arms dealer and telling him: \"Stop selling weapons, it fuels conflicts and kills people.\" I mean, obviously the dealer or the arms dealer is going to respond: \"That's exactly the point, buddy.\"",
+    "english_translation_highlights": [
+      "It's a bit like going to see a mobster and telling him: \"Stop selling drugs, it makes your clients dependent and miserable.\" Or going to see an arms dealer and telling him: \"Stop selling weapons, it fuels conflicts and kills people.\"",
+      "I mean, obviously the dealer or the arms dealer is going to respond: \"That's exactly the point, buddy.\""
+    ],
+    "english_question": "The analogy used shows…",
+    "english_options": [
+      "the ineffectiveness of political speeches",
+      "the hypocritical nature of certain leaders",
+      "the danger of dependence on resources",
+      "the determination of young activists"
     ]
   },
   {
@@ -724,6 +1287,18 @@
     "highlights": [
       "leurs intérêts",
       "développer leur potentiel"
+    ],
+    "english_translation": "This is the Emerald project. Pierre Antoine, which is a project in its own right within the organization Motivation, whose mission is precisely to prevent school dropout, sedentary lifestyles, and delinquency among youth in disadvantaged areas. And so the Emerald project in this case is dedicated to young girls and women aged 10 to 25 in these intervention areas. Our goal is to promote activities that are adapted to their realities, their interests, and to truly develop their potential.",
+    "english_translation_highlights": [
+      "their interests",
+      "develop their potential"
+    ],
+    "english_question": "The project activities must…",
+    "english_options": [
+      "be designed by motivated and brilliant young people",
+      "be based on approved educational models",
+      "reflect the sociocultural realities of the participants",
+      "be mandatory for all young girls in the region"
     ]
   },
   {
@@ -742,6 +1317,20 @@
       "des précipitations à prévoir",
       "une zone de basse pression",
       "impact sur les conditions météorologiques"
+    ],
+    "english_translation": "This Thursday, a low-pressure zone will pass near Switzerland. Its trajectory will go through southern Germany and northern France, but it will also have an impact on weather conditions in our regions. The weather will be rather gloomy with precipitation expected. The snow line will be around 1,000 meters in the northern Jura in the morning and 2,500 meters in the Alps. At dawn, the temperature will be 4 to 5 degrees, or even 6 around Lake Geneva and in Valais.",
+    "english_translation_highlights": [
+      "The weather will be rather gloomy",
+      "precipitation expected",
+      "a low-pressure zone",
+      "impact on weather conditions"
+    ],
+    "english_question": "Time is described as…",
+    "english_options": [
+      "gray and cloudy",
+      "mild and pleasant",
+      "rainy and mild",
+      "windy and dry"
     ]
   },
   {
@@ -760,6 +1349,20 @@
       "Ce week-end, ce sont les qualifications et les matchs du premier tour du tournoi",
       "eux débuteront lundi",
       "Cinq mille spectateurs pourront y assister par séance"
+    ],
+    "english_translation": "After a year's absence, the big stars of the world tennis scene are back at the National Bank Open. This weekend is for qualifications, and the first-round matches of the tournament will begin on Monday. Five thousand spectators will be allowed to attend per session, and some had been waiting for this moment for a long time.",
+    "english_translation_highlights": [
+      "After a year's absence, the big stars of the world tennis scene are back at the National Bank Open",
+      "This weekend is for qualifications, and the first-round matches of the tournament",
+      "will begin on Monday",
+      "Five thousand spectators will be allowed to attend per session"
+    ],
+    "english_question": "This document addresses…",
+    "english_options": [
+      "the prolonged absence of tennis stars",
+      "the preparation of a major tennis tournament",
+      "an amateur tennis competition",
+      "the closure of the National Bank Open"
     ]
   }
 ]

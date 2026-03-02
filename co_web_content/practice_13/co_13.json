@@ -13,6 +13,18 @@
     "highlights": [
       "au café",
       "près du parc"
+    ],
+    "english_translation": "Hi, where are you right now? I'm at the café near the park, and you?",
+    "english_translation_highlights": [
+      "at the café",
+      "near the park"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which picture corresponds to each conversation.\n[image] @co_13_images/co-13-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -29,6 +41,18 @@
     "highlights": [
       "un livre",
       "un téléphone portable"
+    ],
+    "english_translation": "What could we get Julie for her birthday? I thought of a book, but she already has a lot of them. In that case, why not a mobile phone? She's been spoiled lately.",
+    "english_translation_highlights": [
+      "a book",
+      "a mobile phone"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_13_images/co-13-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -45,6 +69,18 @@
     "highlights": [
       "chef cuisinier",
       "grand hôtel"
+    ],
+    "english_translation": "It's been a long time since we last saw each other. What do you do for work now? I worked as a waiter for 4 years, but now I'm a head chef at a big hotel in town.",
+    "english_translation_highlights": [
+      "head chef",
+      "big hotel"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_13_images/co-13-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -61,6 +97,18 @@
     "highlights": [
       "un documentaire",
       "sur la fabrication des médicaments"
+    ],
+    "english_translation": "Did you see the new show about dogs and cats last night? No, but I watched a documentary about the manufacturing of medicines and I found it very interesting.",
+    "english_translation_highlights": [
+      "a documentary",
+      "about the manufacturing of medicines"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_13_images/co-13-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -79,6 +127,20 @@
       "Pour la sécurité de tous et la santé des animaux",
       "merci de ne pas les nourrir",
       "Votre coopération est essentielle"
+    ],
+    "english_translation": "Attention, dear visitors. For everyone's safety and the health of the animals, please do not feed them. Your cooperation is essential. We wish you a pleasant time on our premises, and we thank you for your understanding.",
+    "english_translation_highlights": [
+      "do not feed them",
+      "For everyone's safety and the health of the animals",
+      "please do not feed them",
+      "Your cooperation is essential"
+    ],
+    "english_question": "Based on the announcement…",
+    "english_options": [
+      "The park is very well secured.",
+      "Visitors must not feed the animals.",
+      "Visitors must not run in the park.",
+      "The animals in the park are healthy."
     ]
   },
   {
@@ -96,6 +158,19 @@
       "la conférence sur les innovations technologiques, censée se tenir au pavillon central, se tiendra plutôt au pavillon B",
       "censée se tenir au pavillon central",
       "se tiendra plutôt au pavillon B"
+    ],
+    "english_translation": "Ladies and gentlemen. Please note that the conference on technological innovations, originally scheduled to be held at the central pavilion, will instead be held at Pavilion B. Thank you for your attention and enjoy the event.",
+    "english_translation_highlights": [
+      "the conference on technological innovations, originally scheduled to be held at the central pavilion, will instead be held at Pavilion B",
+      "originally scheduled to be held at the central pavilion",
+      "will instead be held at Pavilion B"
+    ],
+    "english_question": "The message announces…",
+    "english_options": [
+      "The closing of the pavilion.",
+      "The beginning of the conference.",
+      "A change of room.",
+      "The end of the conference."
     ]
   },
   {
@@ -113,6 +188,19 @@
       "le stand d'exposition temporaire fermera ses portes en maintenance à partir de 15 heures",
       "rouvrira à 16 heures",
       "temporaire"
+    ],
+    "english_translation": "Dear visitors, please note that the temporary exhibition stand will close for maintenance from 3 PM and will reopen at 4 PM. We thank you for your understanding and invite you to enjoy the other attractions in the meantime.",
+    "english_translation_highlights": [
+      "the temporary exhibition stand will close for maintenance from 3 PM",
+      "will reopen at 4 PM",
+      "temporary"
+    ],
+    "english_question": "This message announces that…",
+    "english_options": [
+      "The stand will offer other attractions.",
+      "The stand will not be operational for one hour.",
+      "The stand will close permanently from 3 PM.",
+      "The maintenance operations are postponed."
     ]
   },
   {
@@ -131,6 +219,20 @@
       "pour découvrir de délicieuses spécialités de notre région",
       "Ne manquez pas cette opportunité",
       "de prendre part à ce voyage culturel aux 1000 saveurs"
+    ],
+    "english_translation": "Hello everyone. You are all invited to the main hall to discover delicious specialties from our region. Don't miss this opportunity to take part in this cultural journey of a thousand flavors.",
+    "english_translation_highlights": [
+      "You are all invited to the main hall",
+      "to discover delicious specialties from our region",
+      "Don't miss this opportunity",
+      "to take part in this cultural journey of a thousand flavors"
+    ],
+    "english_question": "Visitors are invited to…",
+    "english_options": [
+      "Take part in a trip",
+      "Discover the region.",
+      "Exit the main hall",
+      "Participate in a tasting."
     ]
   },
   {
@@ -148,6 +250,19 @@
       "Peux-tu t'occuper de la traduction de la documentation du projet communautaire de l'Est ?",
       "c'est urgent",
       "Nos clients espagnols arrivent d'après-demain"
+    ],
+    "english_translation": "Hello Adrien, it's Gérald. Can you take care of the translation of the documentation for the Eastern community project? Our Spanish clients are arriving the day after tomorrow, it's urgent. Thanks in advance and have a good day.",
+    "english_translation_highlights": [
+      "Can you take care of the translation of the documentation for the Eastern community project?",
+      "it's urgent",
+      "Our Spanish clients are arriving the day after tomorrow"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Announce the arrival of clients.",
+      "Ask to translate documents.",
+      "Plan a trip to the east.",
+      "Request a project document urgently."
     ]
   },
   {
@@ -166,6 +281,20 @@
       "bravo pour la sortie de ton nouveau livre",
       "C'est une belle réussite",
       "je suis très fière de toi"
+    ],
+    "english_translation": "Hi Sylvia, how are you this morning? I'm calling to congratulate you on the release of your new book. It's a great achievement and I'm very proud of you. I can't wait to read it and discover your work. Talk to you soon.",
+    "english_translation_highlights": [
+      "I'm calling to congratulate you",
+      "congratulate you on the release of your new book",
+      "It's a great achievement",
+      "I'm very proud of you"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Congratulate Sylvia.",
+      "Check in / Get some news.",
+      "Read a book.",
+      "Discover a work."
     ]
   },
   {
@@ -182,6 +311,18 @@
     "highlights": [
       "Merci de réserver les places pour le vol de 4 heures demain matin pour Istanbul",
       "Il est crucial que nous arrivions tôt pour ne pas manquer le début du conseil d'administration"
+    ],
+    "english_translation": "Good evening Stéphane. Please book the seats on the 4 a.m. flight tomorrow morning to Istanbul. It is crucial that we arrive early so we don't miss the start of the board meeting.",
+    "english_translation_highlights": [
+      "Please book the seats on the 4 a.m. flight tomorrow morning to Istanbul",
+      "It is crucial that we arrive early so we don't miss the start of the board meeting"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Book a flight to Istanbul.",
+      "Organize a board meeting.",
+      "Give an instruction.",
+      "Suggest to his friend to visit Istanbul."
     ]
   },
   {
@@ -200,6 +341,20 @@
       "j'aimerais en savoir davantage",
       "notamment le prix et le lieu exact",
       "Pouvez-vous me les communiquer"
+    ],
+    "english_translation": "Hello, I am interested in your weightlifting classes, but I would like to know more, particularly the price and the exact location. Could you send me that information urgently? Thank you.",
+    "english_translation_highlights": [
+      "I am interested in your weightlifting classes",
+      "I would like to know more",
+      "particularly the price and the exact location",
+      "Could you send me that information"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Know where the sports center is located.",
+      "Obtain information.",
+      "Start weightlifting classes.",
+      "Offer an urgent service."
     ]
   },
   {
@@ -217,6 +372,19 @@
       "je vais rentrer à la maison aux alentours de minuit",
       "mes amis viennent de m'inviter à un dîner spectacle",
       "je compte m'y rendre directement après le travail"
+    ],
+    "english_translation": "Hi sweetheart. How are you? Just to let you know that I'll be coming home around midnight. Actually, my friends just invited me to a dinner show, and I plan to go there directly after work. Kisses to the kids.",
+    "english_translation_highlights": [
+      "I'll be coming home around midnight",
+      "my friends just invited me to a dinner show",
+      "I plan to go there directly after work"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Plan an outing with friends.",
+      "Invite her husband to a dinner show.",
+      "Find out how the children are doing.",
+      "Inform of a late return."
     ]
   },
   {
@@ -233,6 +401,18 @@
     "highlights": [
       "Dis-moi où se trouve exactement le bureau de poste du sixième arrondissement",
       "Je voudrais urgemment retirer un colis ce matin"
+    ],
+    "english_translation": "Hi Jérôme, it's Sacha. Can you tell me where exactly the post office in the sixth arrondissement is? I urgently need to pick up a package this morning. I'm waiting for your call.",
+    "english_translation_highlights": [
+      "Can you tell me where exactly the post office in the sixth arrondissement is",
+      "I urgently need to pick up a package this morning"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Pick up his/her package.",
+      "Send a package.",
+      "Find out a location.",
+      "Accompany him/her to the post office."
     ]
   },
   {
@@ -251,6 +431,20 @@
       "elles sont populaires",
       "offrent une diversité de contenus",
       "créent des emplois"
+    ],
+    "english_translation": "Reality TV shows are criticized for their negative impact on social values and the mental health of participants, but they are popular, offer a diversity of content, and create jobs. Therefore, eliminating these shows would limit viewers' freedom of choice.",
+    "english_translation_highlights": [
+      "Therefore, eliminating these shows would limit viewers' freedom of choice",
+      "they are popular",
+      "offer a diversity of content",
+      "create jobs"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is for the removal of reality TV shows.",
+      "Is against the removal of reality TV shows.",
+      "Suggests a truly limited broadcast of reality TV shows.",
+      "Has difficulty taking a stance on the issue."
     ]
   },
   {
@@ -270,6 +464,21 @@
       "elles ont un impact néfaste sur la santé mentale des participants",
       "dégradent la qualité des contenus télévisuels",
       "Cela influence négativement les jeunes"
+    ],
+    "english_translation": "Reality TV shows must be eliminated because they promote superficial values, they have a harmful impact on the mental health of participants, and they degrade the quality of television content. This negatively influences young people.",
+    "english_translation_highlights": [
+      "Reality TV shows must be eliminated",
+      "they promote superficial values",
+      "they have a harmful impact on the mental health of participants",
+      "they degrade the quality of television content",
+      "This negatively influences young people"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is for the removal of reality TV shows.",
+      "Is against the removal of reality TV shows.",
+      "Suggests a truly limited broadcasting of reality TV shows.",
+      "Has difficulty taking a stance on the question."
     ]
   },
   {
@@ -288,6 +497,20 @@
       "D'un côté, elles ont des effets négatifs sur les valeurs sociales, mais de l'autre, elles sont populaires et génèrent des emplois",
       "Il est donc difficile de trancher",
       "sans tous les aspects"
+    ],
+    "english_translation": "The question of eliminating reality TV shows is complex. On one hand, they have negative effects on social values, but on the other hand, they are popular and generate jobs. It is therefore difficult to decide without considering all aspects.",
+    "english_translation_highlights": [
+      "The question of eliminating reality TV shows is complex",
+      "On one hand, they have negative effects on social values, but on the other hand, they are popular and generate jobs",
+      "It is therefore difficult to decide",
+      "without considering all aspects"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is for the removal of reality TV shows.",
+      "Is against the removal of reality TV shows.",
+      "Suggests a truly limited broadcast of reality TV shows.",
+      "Has difficulty taking a stance on the question."
     ]
   },
   {
@@ -305,6 +528,19 @@
       "Je suis fermement opposé à la présence des animaux de compagnie au bureau",
       "fermement opposé",
       "Ils peuvent causer des allergies, des distractions, des conflits entre collègues, et créer un environnement de travail moins professionnel"
+    ],
+    "english_translation": "I am firmly opposed to the presence of pets in the office. They can cause allergies, distractions, conflicts between colleagues, and create a less professional work environment.",
+    "english_translation_highlights": [
+      "I am firmly opposed to the presence of pets in the office",
+      "firmly opposed",
+      "They can cause allergies, distractions, conflicts between colleagues, and create a less professional work environment"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is totally in favor of the presence of pets in the office.",
+      "Is totally against the presence of pets in the office.",
+      "Would be in favor of the presence of pets in the office under certain conditions.",
+      "Does not take a stance on the question."
     ]
   },
   {
@@ -324,6 +560,21 @@
       "augmentent la productivité",
       "améliorent très bien le moral de l'équipe",
       "favorisent un environnement de travail plus détendu et plus convivial"
+    ],
+    "english_translation": "I am totally in favor of having pets in the office. In fact, they reduce stress, increase productivity, and greatly improve team morale, not to mention that they foster a more relaxed and friendly work environment.",
+    "english_translation_highlights": [
+      "I am totally in favor of having pets in the office",
+      "they reduce stress",
+      "increase productivity",
+      "greatly improve team morale",
+      "foster a more relaxed and friendly work environment"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is totally in favor of the presence of pets in the office.",
+      "Is totally against the presence of pets in the office.",
+      "Would be in favor of the presence of pets in the office under certain conditions.",
+      "Does not take a stance on the matter."
     ]
   },
   {
@@ -343,6 +594,21 @@
       "des zones dédiées",
       "des règles de propreté strictes",
       "le consentement de tous les employés"
+    ],
+    "english_translation": "I am in favor of the presence of pets in the office, provided that measures are taken such as dedicated zones, strict cleanliness rules, and the consent of all employees. This would ensure a harmonious and stress-free environment for everyone.",
+    "english_translation_highlights": [
+      "I am in favor of the presence of pets in the office",
+      "provided that measures are taken",
+      "dedicated zones",
+      "strict cleanliness rules",
+      "the consent of all employees"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is totally in favor of the presence of pets in the office.",
+      "Is totally against the presence of pets in the office.",
+      "Would be in favor of the presence of pets in the office under certain conditions.",
+      "Does not take a stance on the issue."
     ]
   },
   {
@@ -363,6 +629,22 @@
       "bien souvent, il ne mange pas ses proies",
       "il tue aussi des insectes, des oiseaux",
       "plus de 50 espèces peuvent figurer à son menu en Europe occidentale"
+    ],
+    "english_translation": "It's the French people's favorite animal: the cat. There are 12 million small felines in households, but the cat is a formidable predator. To assess the damage it causes to biodiversity, the National Museum of Natural History is launching a participatory survey on the internet. Observe your pet's behavior, count the number of prey it brings home, and if you want to go further, your companion can be fitted with GPS trackers for a few days and miniaturized cameras. The goal is to better understand its territory and predatory behavior, because even when well fed, cats hunt and, more often than not, they don't eat their prey. We know about their appetite for rodents. That's actually the reason why medieval farmers opened their farm doors to them—to watch over the grain, to protect their cereal crops—but they also kill insects and birds. It's estimated that more than 50 species can be on their menu in Western Europe.",
+    "english_translation_highlights": [
+      "the cat is a formidable predator",
+      "To assess the damage it causes to biodiversity",
+      "even when well fed, cats hunt",
+      "more often than not, they don't eat their prey",
+      "they also kill insects and birds",
+      "more than 50 species can be on their menu in Western Europe"
+    ],
+    "english_question": "Based on this chronicle…",
+    "english_options": [
+      "Today, cats cause less damage to biodiversity.",
+      "Well-fed cats are not interested in hunting.",
+      "The French are showing a certain decline in interest in cats.",
+      "Cats cause considerably high wildlife mortality."
     ]
   },
   {
@@ -385,6 +667,24 @@
       "Plusieurs facteurs expliquent cette tendance",
       "une prise de conscience accrue des préoccupations de santé",
       "des changements de régime alimentaire vers des options perçues comme plus saines"
+    ],
+    "english_translation": "Hello everyone. Today, we are going to talk about the French relationship with butter. Traditionally, butter is a pillar of French cuisine, used in a multitude of dishes and pastries. However, in recent years, its consumption has decreased. Several factors explain this trend: an increased awareness of health concerns, dietary changes toward options perceived as healthier, and the rise of alternatives such as margarines and vegetable oils. Despite this, butter remains a culinary symbol in France, appreciated for its taste and its role in gastronomy. It remains essential, but its consumption is adapting to new dietary habits.",
+    "english_translation_highlights": [
+      "in recent years, its consumption has decreased",
+      "butter remains a culinary symbol in France",
+      "Despite this",
+      "the rise of alternatives such as margarines and vegetable oils",
+      "its consumption is adapting to new dietary habits",
+      "Several factors explain this trend",
+      "an increased awareness of health concerns",
+      "dietary changes toward options perceived as healthier"
+    ],
+    "english_question": "This column reveals that…",
+    "english_options": [
+      "Butter has lost its place as a culinary symbol in France.",
+      "The increase in the price of butter has caused its consumption to drop.",
+      "Butter is losing momentum in France.",
+      "Butter is being replaced by much less expensive alternatives."
     ]
   },
   {
@@ -417,6 +717,34 @@
       "Ce n'est pas se mêler pour se mêler",
       "bien sûr que chacun a droit à son petit jardin secret",
       "non seulement je surveille, non seulement je me mêle, non seulement je protège et non seulement je sanctionne s'il y a un problème"
+    ],
+    "english_translation": "A part of our youth is sick and is sliding into delinquency that has become uncontrollable — it is the number one concern, the absolute urgency of the moment. To address this, you, the Minister for Cities and Citizenship, aim to restore parental authority over teenagers. How do you plan to respond to this? My ambition above all is to overhaul the strategy for delinquency prevention, which hasn't been done for several years now — that's the first thing. My ambition — and it's not just the minister speaking, it's also the mother of a teenager — my ambition is to say to parents: parents, regain confidence in authority — you are the authority. The first face of authority that a teenager sees, that a child sees, is the parents. So, regaining confidence in authority means knowing how to say: this is right, this is wrong, you're allowed to do this, you're not allowed to do that. I want to come back to something that has struck me in recent years, which is the idea that a teenager has a private life. A teenager is a minor, so parents have the right to look through their phone, to search their room if there are drugs, for example. I believe they need to get more involved in their children's lives. They need to be more engaged. Not just get more involved, but to protect them. It's not meddling for the sake of meddling — of course everyone is entitled to their own little private space. So we're talking about a private space? Yes, there's no problem with that. No, but I not only monitor, I not only get involved, I not only protect, but I also discipline if there is a problem.",
+    "english_translation_highlights": [
+      "A part of our youth is sick and is sliding into delinquency that has become uncontrollable",
+      "the number one concern, the absolute urgency of the moment",
+      "To address this",
+      "to restore parental authority over teenagers",
+      "My ambition above all is to overhaul the strategy for delinquency prevention",
+      "parents, regain confidence in authority",
+      "you are the authority",
+      "The first face of authority that a teenager sees, that a child sees, is the parents",
+      "regaining confidence in authority",
+      "knowing how to say: this is right, this is wrong, you're allowed to do this, you're not allowed to do that",
+      "I want to come back to something that has struck me in recent years",
+      "parents have the right to look through their phone, to search their room if there are drugs, for example",
+      "I believe they need to get more involved in their children's lives",
+      "They need to be more engaged",
+      "Not just get more involved, but to protect them",
+      "It's not meddling for the sake of meddling",
+      "of course everyone is entitled to their own little private space",
+      "I not only monitor, I not only get involved, I not only protect, but I also discipline if there is a problem"
+    ],
+    "english_question": "What theme best suits this interview?",
+    "english_options": [
+      "Authoritarian education and its consequences on adolescents.",
+      "How to put delinquent minors back on the right track.",
+      "Parental authority and its perverse effects on juvenile delinquency.",
+      "Seeking distractions to avoid emotions."
     ]
   },
   {
@@ -441,6 +769,26 @@
       "ce n'est pas seulement la ministre qui parle, c'est aussi la maman du nadeau",
       "Un adolescent est un mineur, donc les parents ont le droit de fouiller dans le téléphone, de chercher quelque chose dans la chambre",
       "non seulement je surveille, non seulement je me mêle, non seulement je protège et non seulement je sanctionne s'il y a un problème"
+    ],
+    "english_translation": "A part of our youth is sick and is sliding into delinquency that has become uncontrollable — this is the number one concern, the absolute urgency of the moment. To address this, you, the Minister for Urban Affairs and Citizenship, aim to restore parental authority over teenagers. How do you plan to respond to this? My main ambition is to revamp this strategy for delinquency prevention, which hasn't been done for several years now — that's the first thing. My ambition — and it's not just the minister speaking, it's also the mother of a teenager — my ambition is to say to parents: parents, regain confidence in authority — you are the authority. The first face of authority that a teenager encounters and that a child sees is their parents. So, regaining confidence in authority means knowing how to say: this is right, this is wrong, you're allowed to do this, you're not allowed to do that. I want to come back to something that has struck me in recent years, which is the idea that a teenager has a private life. A teenager is a minor, so parents have the right to go through their phone, to search their room if there are drugs, for example. I believe they need to get more involved in their children's lives. They need to be more engaged. Not only get more involved, but to protect them. It's not meddling for the sake of meddling — of course everyone is entitled to their own little private space. So we're talking about private space? Yes, there's no problem with that. No, but I not only monitor, I not only get involved, I not only protect, but I also impose consequences if there's a problem.",
+    "english_translation_highlights": [
+      "My main ambition is to revamp this strategy for delinquency prevention",
+      "my ambition is to say to parents: parents, regain confidence in authority — you are the authority",
+      "The first face of authority that a teenager encounters and that a child sees is their parents",
+      "So, regaining confidence in authority means knowing how to say: this is right, this is wrong, you're allowed to do this, you're not allowed to do that",
+      "I believe they need to get more involved in their children's lives",
+      "They need to be more engaged",
+      "Not only get more involved, but to protect them",
+      "it's not just the minister speaking, it's also the mother of a teenager",
+      "A teenager is a minor, so parents have the right to go through their phone, to search their room",
+      "I not only monitor, I not only get involved, I not only protect, but I also impose consequences if there's a problem"
+    ],
+    "english_question": "According to the guest, what measure should be taken to prevent delinquency among adolescents?",
+    "english_options": [
+      "Let adolescents enjoy complete privacy",
+      "Restore parental discipline with adolescents.",
+      "Confiscate their phones and search their rooms.",
+      "Punish adolescents less so as not to affect their mental health."
     ]
   },
   {
@@ -466,6 +814,27 @@
       "ces chercheurs ont été aidés par un logiciel d'analyse d'image qui a calculé le taux de rouge sur la peau des poules",
       "l'équipe a filmé le comportement de 6 poules domestiques",
       "les chercheurs ont ainsi pu isoler dix-huit mille images de ces poules dans différents contextes de calme ou de stress"
+    ],
+    "english_translation": "Chickens also blush, and they do so when they experience emotions. This is the very serious finding established by researchers at INRAE, the French National Research Institute for the Environment, Agriculture and Food. Yes indeed, flushing cheeks don't only happen to humans — chickens can also change color around their comb or around their beak. During strong emotions, they can blush with pleasure when presented with appetizing food, or turn scarlet when they are captured or when they find themselves in the presence of an unfamiliar human. On the other hand, in a resting state, their skin appears much paler. This is what researchers at INRAE's Centre-Val de Loire unit have very seriously established. So how did the researchers notice this blushing beneath the feathers? Well, these researchers were assisted by image analysis software that calculated the level of redness on the chickens' skin in areas where there are fewer feathers. To feed this software, the team filmed the behavior of six domestic hens in an orchard over three weeks, and the researchers were thus able to isolate eighteen thousand images of these chickens in different contexts of calm or stress. But then, what could be the applications of this research? What's the point of knowing that chickens change color during strong emotions? That's a good question. Well, it could help improve animal welfare. Last week, you may recall, ANSES, the French Agency for Food Safety, proposed the introduction of new labeling to inform consumers about the farming conditions of the meat they buy — a sort of score system with letters from A to E to rate animal welfare in the production chain. And indeed, criteria such as the blushing of poultry could help establish virtuous farming conditions. Moreover, in recent years, other research teams have also worked on the cries of goats or the grunting of pigs, and using artificial intelligence, they have managed to identify vocalizations that express hunger, pain, rivalry, or conversely, companionship among fellow animals.",
+    "english_translation_highlights": [
+      "Chickens also blush, and they do so when they experience emotions",
+      "This is the very serious finding established by researchers at INRAE",
+      "flushing cheeks don't only happen to humans — chickens can also change color",
+      "During strong emotions, they can blush with pleasure",
+      "turn scarlet when they are captured",
+      "when they find themselves in the presence of an unfamiliar human",
+      "in a resting state, their skin appears much paler",
+      "This is what researchers at INRAE's Centre-Val de Loire unit have very seriously established",
+      "these researchers were assisted by image analysis software that calculated the level of redness on the chickens' skin",
+      "the team filmed the behavior of six domestic hens",
+      "the researchers were thus able to isolate eighteen thousand images of these chickens in different contexts of calm or stress"
+    ],
+    "english_question": "According to these researchers…",
+    "english_options": [
+      "Chickens have visible and measurable emotional responses.",
+      "The theory that chickens have emotions is absurd.",
+      "The skin of some chickens generally turns red under the feathers when they are at rest.",
+      "Chickens have no emotional reaction to stress."
     ]
   },
   {
@@ -486,6 +855,22 @@
       "En cas d'émotions fortes, elles peuvent ainsi rougir de plaisir face à certains aliments appétissants ou devenir écarlates quand on les capture",
       "dans un contexte de repos, leur peau apparaît beaucoup plus claire",
       "l’ANSES, l’Agence Française de Sécurité Sanitaire de l’Alimentation, a proposé la mise en place d'un nouvel étiquetage pour informer les consommateurs sur les conditions d'élevage"
+    ],
+    "english_translation": "Chickens also blush, and they do so when they experience emotions. This is the very serious finding established by researchers at INRAE, the French National Research Institute for the Environment, Agriculture and Food. Yes indeed, flushing cheeks don't only happen to humans — chickens can also change color on their comb or around the beak. When experiencing strong emotions, they can blush with pleasure when presented with appetizing food, or turn scarlet when captured or when they find themselves in the presence of an unfamiliar human. On the other hand, in a resting state, their skin appears much paler. This is what researchers at INRAE's Centre-Val de Loire unit have very seriously established. So how did the researchers notice this blushing beneath the feathers? Well, these researchers were aided by image analysis software that calculated the level of redness on the chickens' skin in areas where there are fewer feathers. To feed this software, the team filmed the behavior of six domestic hens in an orchard over three weeks, and the researchers were thus able to isolate eighteen thousand images of these chickens in various calm or stressful contexts. But then, what could be the applications of this research? What's the point of knowing that chickens change color when experiencing strong emotions? That's a good question. Well, it could help improve animal welfare. Last week, you may recall, ANSES, the French Agency for Food Safety, proposed the introduction of new labeling to inform consumers about the farming conditions of the meat they buy — a sort of score system with letters from A to E to rate animal welfare in the production chain. And indeed, criteria such as the blushing of poultry could help establish virtuous farming conditions. Moreover, in recent years, other research teams have also worked on the cries of goats or the grunting of pigs, and they have managed, thanks to artificial intelligence, to identify vocalizations that express hunger, pain, rivalry, or on the contrary, companionship among fellow animals.",
+    "english_translation_highlights": [
+      "it could help improve animal welfare",
+      "criteria such as the blushing of poultry could help establish virtuous farming conditions",
+      "What's the point of knowing that chickens change color when experiencing strong emotions?",
+      "When experiencing strong emotions, they can blush with pleasure when presented with appetizing food, or turn scarlet when captured",
+      "in a resting state, their skin appears much paler",
+      "ANSES, the French Agency for Food Safety, proposed the introduction of new labeling to inform consumers about the farming conditions"
+    ],
+    "english_question": "The results of this research will allow…",
+    "english_options": [
+      "To improve the behavior of animals on farms.",
+      "To determine a new indicator of animal welfare.",
+      "The establishment of techniques aimed at promoting eco-responsible farming.",
+      "To facilitate the domestication of animals."
     ]
   },
   {
@@ -503,6 +888,19 @@
       "La suppression des emplois aidés est une décision controversée",
       "Ces dispositifs ont été essentiels pour aider des personnes en difficulté à retrouver un emploi",
       "Leur disparition risque de créer un vide important"
+    ],
+    "english_translation": "Hello Blandine Meryl, thank you for joining us. Today, we are going to talk about the elimination of subsidized jobs. In a few words, what is your general opinion on this elimination? Hello, thank you for having me. The elimination of subsidized jobs is a controversial decision. These programs have been essential in helping people in difficulty find employment and in supporting sectors such as associations and local authorities. Their disappearance risks creating a significant gap, especially for organizations that rely heavily on this support to operate. So, we are curious to know what alternatives you would propose to offset the elimination of subsidized jobs? To offset this elimination, it is crucial to implement more sustainable employment policies. This could include vocational training programs tailored to labor market needs, incentives for companies that hire people in difficulty, and increased support for local small and medium-sized businesses. It is also important to develop specific solutions for associations and local authorities, perhaps in the form of grants or new types of subsidized contracts, so that they can continue to provide their essential services. Thank you very much Blandine Meryl for these answers, it was a pleasure.",
+    "english_translation_highlights": [
+      "The elimination of subsidized jobs is a controversial decision",
+      "These programs have been essential in helping people in difficulty find employment",
+      "Their disappearance risks creating a significant gap"
+    ],
+    "english_question": "What is the guest's general opinion on the elimination of subsidized jobs?",
+    "english_options": [
+      "She thinks it is a justified decision.",
+      "She finds it a questionable resolution.",
+      "She is totally in favor of this removal.",
+      "She has no opinion on the matter."
     ]
   },
   {
@@ -524,6 +922,23 @@
       "Il est également important de développer des solutions spécifiques pour les associations et les collectivités",
       "peut-être sous forme de subventions ou de nouveaux types de contrats aidés",
       "pour qu'elles puissent fournir leurs services essentiels"
+    ],
+    "english_translation": "Hello Blandine Meryl, thank you for joining us. Today, we are going to talk about the elimination of subsidized jobs. In a few words, what is your general opinion on this elimination? Hello, thank you for having me. The elimination of subsidized jobs is a controversial decision. These programs have been essential in helping people in difficulty find employment and in supporting sectors such as associations and local authorities. Their disappearance risks creating a significant gap, especially for organizations that rely heavily on this support to operate. So, we are curious to know what alternatives you propose to compensate for the elimination of subsidized jobs? To compensate for this elimination, it is crucial to implement more sustainable employment policies. This could include professional training programs tailored to the needs of the labor market, incentives for companies that hire people in difficulty, and increased support for local small and medium-sized businesses. It is also important to develop specific solutions for associations and local authorities, perhaps in the form of grants or new types of subsidized contracts, so that they can continue to provide their essential services. Thank you very much Blandine Meryl for these answers, it was a pleasure.",
+    "english_translation_highlights": [
+      "To compensate for this elimination, it is crucial to implement more sustainable employment policies",
+      "This could include professional training programs tailored to the needs of the labor market",
+      "incentives for companies that hire people in difficulty",
+      "increased support for local small and medium-sized businesses",
+      "It is also important to develop specific solutions for associations and local authorities",
+      "perhaps in the form of grants or new types of subsidized contracts",
+      "so that they can continue to provide their essential services"
+    ],
+    "english_question": "What alternative does Blandine Meril propose to compensate for the elimination of subsidized jobs?",
+    "english_options": [
+      "Abandon all forms of support for associations and local authorities.",
+      "Invest in promising sectors likely to create many jobs.",
+      "Reduce government subsidies.",
+      "The implementation of sustainable employment policies."
     ]
   },
   {
@@ -544,6 +959,22 @@
       "le dernier survivant est mort l'année dernière",
       "le dernier témoin du massacre d'Oradour",
       "Conserver la mémoire du massacre dans la pierre"
+    ],
+    "english_translation": "My grandfather used to make cakes. When he came out, there was a German, an SS officer, at the door. He said to him: \"Yeah, but I've got cakes in the oven, what do we do about them?\" And the SS officer replied in French: \"Don't worry, we'll take care of you soon enough.\" And then my grandfather was taken with the other men, and he was shot. The church was burned. We're right here, across from the pastry shop of Café Quentin, which belonged to my grandparents, facing what remains of the façade. — Yes, of the façade, yes. There is only the wind to disturb the silence of the ruins back in Glane. Nature and time are at work on what remains of the old café of Maurice Gautier's grandparents, where cracks and trees mark the storefront. Façades no longer hold up, the walls on the sides barely stand. The storm of ninety-nine did enormous damage. So, like this one here, there were plenty in the pot. This one held up, but many fell that day. That is why an appeal for donations was launched a year ago by the Heritage Foundation. The money collected should primarily be used to restore the façades of the homes, explains Benoît Sannery, president of the National Association of Families of the Martyrs of Oradour-sur-Glane. Preserving the buildings standing, because it's not just a village with a church and ten houses in all — it was a village with three hundred buildings, including one hundred and twenty residential homes. So that's also one of the factors that explains the Nazis' choice of Oradour. Today we have the example of Lidice in the Czech Republic, a village roughly as large as Oradour, but absolutely nothing remains. And in fact, memory is harder to maintain since there are no longer any physical traces. Preserving the memory of the massacre in stone is all the more important because the last survivor died last year. My name is Agathe Hébras, I am the granddaughter of Robert Hébras, who was the last witness of the Oradour massacre. I remember hearing him say: \"Oh look, that wall there, it's fallen down, that object there, I can't see it anymore.\" And so, let's say over the last ten years, he often raised the alarm about the need to take care of the ruins. The ruins are falling into ruin, and the difficulty is therefore to repair without altering their character. You can't rebuild because it doesn't make sense to rebuild a ruin. So you have to preserve a ruined building in the best possible state of destruction. So choices will have to be made, building by building, to determine whether in some cases a bit of reconstruction is needed in order to maintain a cluster. But it really is a question of conservation that is extremely delicate, in the case of this site. Work is about to begin, as eight hundred thousand euros in donations have already been collected out of the twenty million that the restoration of the site will cost. The difference will be covered by the State.",
+    "english_translation_highlights": [
+      "My grandfather used to make cakes. When he came out, there was a German, an SS officer, at the door.",
+      "And then my grandfather was taken with the other men, and he was shot.",
+      "The church was burned.",
+      "the last survivor died last year",
+      "the last witness of the Oradour massacre",
+      "Preserving the memory of the massacre in stone"
+    ],
+    "english_question": "What happened in this region years before?",
+    "english_options": [
+      "Atrocities were committed.",
+      "A massive escape of prisoners of war.",
+      "A natural disaster destroyed the village.",
+      "The grandchildren of the martyrs organized a memorial."
     ]
   },
   {
@@ -569,6 +1000,27 @@
       "il va falloir faire des choix, bâtiment par bâtiment, pour savoir si dans certains cas, on ne fait pas un peu de reconstruction pour pouvoir maintenir un îlot",
       "c'est vraiment une question de conservation qui est extrêmement délicate",
       "Des travaux vont commencer, car huit cent mille euros de dons ont déjà été collectés sur les vingt millions que coûte la restauration du site"
+    ],
+    "english_translation": "My grandfather used to make cakes. When he came out, there was a German, an SS officer, at the door. He said to him: \"Yeah, but I've got cakes in the oven, what do we do about them?\" And the SS officer replied in French: \"Don't worry, we'll take care of you soon enough.\" And then my grandfather was taken with the other men and was shot. The church was burned. We're right here, across from the pastry shop of Café Quentin, which belonged to my grandparents, facing what remains of the façade. — Yes, the façade, yes. Only the wind disturbs the silence of the ruins back in Glane. Nature and time are at work on what remains of the old café of Maurice Gautier's grandparents, where cracks and trees mark the storefront. Façades no longer hold up, the side walls are barely standing. The storm of '99 caused enormous damage. So, like this one here, there were plenty in the pot. That one held, but many fell that day. That's why an appeal for donations was launched a year ago by the Heritage Foundation. The money collected should primarily be used to restore the façades of the houses, explains Benoît Sannery, president of the National Association of Families of the Martyrs of Oradour-sur-Glane. Preserving the standing buildings, because it's not just a village with a church and ten houses in all — it was a village with three hundred buildings, including one hundred and twenty residential homes. So that's also one of the factors that explains the Nazis' choice of Oradour. Today we have the example of Lidice in the Czech Republic, a village roughly as large as Oradour, but absolutely nothing remains. And in fact, memory is harder to maintain because there are no longer any physical traces. Preserving the memory of the massacre in stone is all the more important since the last survivor died last year. My name is Agathe Hébras, I'm the granddaughter of Robert Hébras, who was the last witness of the Oradour massacre. I remember hearing him say: \"Oh look, that wall there has fallen down, I can't see that object anymore.\" And so, let's say over the last ten years, he often raised the alarm that we needed to take care of the ruins. The ruins are falling into ruin, and the difficulty is therefore to repair without distorting them. You can't rebuild because it makes no sense to rebuild a ruin. So you have to preserve a ruined building in the best possible state of destruction. Choices will have to be made, building by building, to determine whether in some cases a bit of reconstruction is needed to maintain a cluster. But it's truly a conservation issue that is extremely delicate in this case. Work is about to begin, as eight hundred thousand euros in donations have already been collected out of the twenty million euros the restoration of the site will cost. The difference will be covered by the State.",
+    "english_translation_highlights": [
+      "an appeal for donations was launched a year ago by the Heritage Foundation",
+      "The money collected should primarily be used to restore the façades of the houses",
+      "Preserving the standing buildings",
+      "memory is harder to maintain because there are no longer any physical traces",
+      "Preserving the memory of the massacre in stone is all the more important",
+      "The ruins are falling into ruin, and the difficulty is therefore to repair without distorting them",
+      "You can't rebuild because it makes no sense to rebuild a ruin",
+      "you have to preserve a ruined building in the best possible state of destruction",
+      "Choices will have to be made, building by building, to determine whether in some cases a bit of reconstruction is needed to maintain a cluster",
+      "it's truly a conservation issue that is extremely delicate",
+      "Work is about to begin, as eight hundred thousand euros in donations have already been collected out of the twenty million euros the restoration of the site will cost"
+    ],
+    "english_question": "What is the main objective of the fundraising campaign launched by the Fondation du patrimoine?",
+    "english_options": [
+      "Build a new memorial at Oradour-sur-Glane.",
+      "Fund educational projects for local schools in Oradour-sur-Glane.",
+      "Stabilize and renovate certain parts of the ruins of Oradour-sur-Glane.",
+      "Organize cultural events in the region."
     ]
   },
   {
@@ -587,6 +1039,20 @@
       "vise à prévenir le décrochage solaire",
       "faciliter l'accès au diplôme et à la qualification des jeunes en situation de décrochage",
       "sécuriser les parcours de formation"
+    ],
+    "english_translation": "The mission to combat school dropout, LMALDS, aims to prevent school dropout, facilitate access to diplomas and qualifications for young people in dropout situations, and secure educational pathways.",
+    "english_translation_highlights": [
+      "The mission to combat school dropout",
+      "aims to prevent school dropout",
+      "facilitate access to diplomas and qualifications for young people in dropout situations",
+      "secure educational pathways"
+    ],
+    "english_question": "The association is committed to the fight against…",
+    "english_options": [
+      "Delinquency in the school environment.",
+      "The discontinuation of schooling through dropout.",
+      "The phenomenon of youth illiteracy.",
+      "The lack of relevance of certain training programs."
     ]
   },
   {
@@ -604,6 +1070,19 @@
       "Ils ne sont plus qu'une petite centaine à venir se reproduire dans la rivière Allier",
       "en dépit d'un plan de sauvegarde mis en place",
       "La situation est préoccupante"
+    ],
+    "english_translation": "Where have the wild salmon of the Allier gone? The situation is concerning. Only about a hundred of them still come to reproduce in the Allier river, despite a conservation plan established by the Ministry of the Environment in nineteen ninety-four and the funding of the largest salmon restocking hatchery in Europe.",
+    "english_translation_highlights": [
+      "Only about a hundred of them still come to reproduce in the Allier river",
+      "despite a conservation plan established",
+      "The situation is concerning"
+    ],
+    "english_question": "Despite the rescue plan…",
+    "english_options": [
+      "Wild salmon are invading the Allier river",
+      "Wild salmon are reproducing at a rapid rate.",
+      "Wild salmon are becoming increasingly rare.",
+      "Farmed salmon are tending to disappear."
     ]
   },
   {
@@ -622,6 +1101,20 @@
       "la sieste est devenue incontournable pour améliorer la productivité",
       "si elle est aujourd'hui utilisée par les professionnels",
       "elle est même devenue un business à part entière"
+    ],
+    "english_translation": "An office in a bedroom, and why not the other way around? More and more companies are installing beds in their premises, because napping has become essential for improving productivity. Once frowned upon, it is now embraced by professionals and has even become a business in its own right.",
+    "english_translation_highlights": [
+      "More and more companies are installing beds in their premises",
+      "napping has become essential for improving productivity",
+      "it is now embraced by professionals",
+      "has even become a business in its own right"
+    ],
+    "english_question": "What observation is made about napping in the workplace?",
+    "english_options": [
+      "It constitutes a form of laziness.",
+      "It is gaining ground.",
+      "It is losing momentum.",
+      "It struggles to be accepted by professionals."
     ]
   },
   {
@@ -638,6 +1131,18 @@
     "highlights": [
       "Une autre menace pèse sur certaines villes pour les années à venir",
       "Des mesures satellites montrent que de nombreuses mégalopoles chinoises s'enfoncent, s'enfoncent dangereusement dans le sol"
+    ],
+    "english_translation": "China is currently suffering from torrential rains and flooding. Another threat looms over certain cities in the years to come. Satellite measurements show that many Chinese megacities are sinking, sinking dangerously into the ground.",
+    "english_translation_highlights": [
+      "Another threat looms over certain cities in the years to come",
+      "Satellite measurements show that many Chinese megacities are sinking, sinking dangerously into the ground"
+    ],
+    "english_question": "What worrying fact for the future is highlighted in this extract?",
+    "english_options": [
+      "Several urban areas are sinking.",
+      "Torrential rains increase flooding.",
+      "Megacities are increasingly overcrowded.",
+      "Rainfall is omnipresent due to climate change."
     ]
   },
   {
@@ -657,6 +1162,21 @@
       "offrant aux femmes des compétitions sportives internationales longtemps réservées aux hommes",
       "une pionnière du sport féminin",
       "a fondé la Fédération sportive féminine internationale"
+    ],
+    "english_translation": "Alice Milliat was a pioneer of women's sports at the beginning of the twentieth century. She founded the International Women's Sports Federation in 1921 and organized the first Women's World Games in 1922, offering women international sports competitions long reserved for men. Her fight paved the way for greater inclusion of women in sports.",
+    "english_translation_highlights": [
+      "Her fight paved the way for greater inclusion of women in sports",
+      "organized the first Women's World Games in 1922",
+      "offering women international sports competitions long reserved for men",
+      "a pioneer of women's sports",
+      "founded the International Women's Sports Federation"
+    ],
+    "english_question": "What was the impact of Alice Milliat's fight on sport?",
+    "english_options": [
+      "Reduction of women's sports competitions.",
+      "Opening of new sports competitions for men.",
+      "Better representation of women in the field of sports.",
+      "Elimination of the Women's World Games."
     ]
   },
   {
@@ -675,6 +1195,20 @@
       "près de quatre-mille trajets seront effectués chaque jour en fauteuil roulant",
       "Paris deux-mille-vingt-quatre a promis la présence de 1000 taxis adaptés à ces personnes",
       "Un service de navette reliant les grandes gares parisiennes aux sites de compétition sera aussi mis en place durant les jeux"
+    ],
+    "english_translation": "At the time of the Olympic Games, the transportation system in the Île-de-France region is also being put to the test. At the heart of this challenge is accessibility for people with reduced mobility. According to organizers' estimates, nearly four thousand trips will be made each day by wheelchair. Paris 2024 has promised the availability of 1,000 taxis adapted for these individuals. A shuttle service connecting the major Parisian train stations to competition venues will also be set up during the Games.",
+    "english_translation_highlights": [
+      "At the heart of this challenge is accessibility for people with reduced mobility",
+      "nearly four thousand trips will be made each day by wheelchair",
+      "Paris 2024 has promised the availability of 1,000 taxis adapted for these individuals",
+      "A shuttle service connecting the major Parisian train stations to competition venues will also be set up during the Games"
+    ],
+    "english_question": "What is the main challenge for Paris region (Île-de-France) transportation during the Olympic Games?",
+    "english_options": [
+      "The reduction of transportation costs.",
+      "Safety for a large number of passengers.",
+      "Access for people with limited or no mobility.",
+      "The increase in the number of metro lines."
     ]
   },
   {
@@ -694,6 +1228,21 @@
       "le résultat est clair, le marché de l'immobilier ralentit dans toute l'Union européenne",
       "le marché de l'immobilier ralentit",
       "les ventes de logements neufs et anciens ont reculé de plus de 20 pour 100 l'an dernier"
+    ],
+    "english_translation": "In the space of less than 3 years, the European Central Bank went from negative interest rates to record interest rates of 4 percent today. If you add to that the inflation linked to Covid and the war in Ukraine, the result is clear: the real estate market is slowing down across the entire European Union. In France, sales of new and existing homes fell by more than 20 percent last year compared to 2022.",
+    "english_translation_highlights": [
+      "In the space of less than 3 years, the European Central Bank went from negative interest rates to record interest rates of 4 percent today",
+      "the inflation linked to Covid and the war in Ukraine",
+      "the result is clear: the real estate market is slowing down across the entire European Union",
+      "the real estate market is slowing down",
+      "sales of new and existing homes fell by more than 20 percent last year"
+    ],
+    "english_question": "What is the observation made in the text?",
+    "english_options": [
+      "Home sales in France increased by more than 20% last year.",
+      "The European Central Bank maintains negative interest rates.",
+      "The European Union real estate market is promising.",
+      "The European Union real estate industry is doing poorly."
     ]
   },
   {
@@ -715,6 +1264,23 @@
       "mercredi 12 juin",
       "dans certaines villes du Hebei",
       "la province autour de la capitale chinoise"
+    ],
+    "english_translation": "Temperatures are soaring in northern China, with a high heat alert in effect, particularly for the capital Beijing. Temperatures exceeded 40 degrees on Wednesday, June 12, in some cities in Hebei, the province surrounding the Chinese capital.",
+    "english_translation_highlights": [
+      "Temperatures are soaring in northern China",
+      "high heat alert in effect",
+      "particularly for the capital Beijing",
+      "Temperatures exceeded 40 degrees",
+      "Wednesday, June 12",
+      "in some cities in Hebei",
+      "the province surrounding the Chinese capital"
+    ],
+    "english_question": "Based on this excerpt…",
+    "english_options": [
+      "The north of the country is facing a shortage of thermometers.",
+      "Moderate temperatures are recorded throughout the country.",
+      "A heat wave is observed across the entire territory.",
+      "The north of the country is experiencing an episode of high temperatures."
     ]
   },
   {
@@ -731,6 +1297,18 @@
     "highlights": [
       "La baisse du prix des produits les plus consommés",
       "Des premières mesures ont été annoncées ce jeudi 13 juin pour les produits de consommation courante comme le riz, l'huile et le pain"
+    ],
+    "english_translation": "The drop in prices of the most consumed products was the most anticipated announcement by the Senegalese since Bassirou Diomaye Faye came to power. The young president had promised to tackle the high cost of living from his inauguration speech onward. Initial measures were announced this Thursday, June 13, for everyday consumer products such as rice, oil, and bread.",
+    "english_translation_highlights": [
+      "The drop in prices of the most consumed products",
+      "Initial measures were announced this Thursday, June 13, for everyday consumer products such as rice, oil, and bread"
+    ],
+    "english_question": "According to the announcement, today…",
+    "english_options": [
+      "Basic necessities are more affordable.",
+      "The high cost of living is completely resolved.",
+      "The president's inauguration speech is expected.",
+      "Everyday consumer products are scarce."
     ]
   },
   {
@@ -747,6 +1325,18 @@
     "highlights": [
       "le gouvernement a promis d'enquêter",
       "sur de graves abus dans un abattoir envers des chevaux"
+    ],
+    "english_translation": "A new animal abuse scandal is shaking Ireland, the land of horses. Following a documentary broadcast by Irish public television, the government has promised to investigate serious abuses against horses at a slaughterhouse, including thoroughbreds that had participated in horse racing.",
+    "english_translation_highlights": [
+      "the government has promised to investigate",
+      "serious abuses against horses at a slaughterhouse"
+    ],
+    "english_question": "Following the broadcast of the documentary on animal cruelty, the government is going to…",
+    "english_options": [
+      "Shed light on these abuses.",
+      "Increase subsidies for horse racing.",
+      "Regulate the operation of slaughterhouses.",
+      "Close the incriminated slaughterhouse."
     ]
   }
 ]

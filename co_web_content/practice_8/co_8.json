@@ -14,6 +14,19 @@
       "à la bibliothèque",
       "bibliothèque",
       "quelques livres à rendre"
+    ],
+    "english_translation": "Do you want to meet at the library or the museum this afternoon? The library preferably, I have some books to return.",
+    "english_translation_highlights": [
+      "at the library",
+      "The library",
+      "some books to return"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_8_images/co-8-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -31,6 +44,19 @@
       "mon portefeuille",
       "posé juste à côté de mes clés",
       "Il est tombé sous la table"
+    ],
+    "english_translation": "Where is my wallet? I'm sure it was placed right next to my keys. Ah, there it is. It fell under the table.",
+    "english_translation_highlights": [
+      "my wallet",
+      "placed right next to my keys",
+      "It fell under the table"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_8_images/co-8-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -49,6 +75,20 @@
       "sur la table",
       "dans le salon",
       "à côté de la télévision"
+    ],
+    "english_translation": "Did you see my wireless headphones? They were on the table earlier. Yes, they're in the living room next to the television.",
+    "english_translation_highlights": [
+      "my wireless headphones",
+      "on the table",
+      "in the living room",
+      "next to the television"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_8_images/co-8-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -67,6 +107,20 @@
       "Elle a coupé ses cheveux",
       "ils sont très courts",
       "bouclés"
+    ],
+    "english_translation": "Have you noticed Sophie recently? She cut her hair, now it's very short and curly. Yes, it really suits her.",
+    "english_translation_highlights": [
+      "Sophie",
+      "She cut her hair",
+      "it's very short",
+      "curly"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_8_images/co-8-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -85,6 +139,20 @@
       "en raison de difficultés techniques imprévues",
       "à une date ultérieure",
       "resteront valables pour la nouvelle représentation"
+    ],
+    "english_translation": "Ladies and gentlemen, please note that the symphonic concert scheduled for this evening at the Verdi Auditorium has been postponed to a later date due to unforeseen technical difficulties. We invite you to keep your tickets, which will remain valid for the new performance. We thank you for your understanding and ask that you accept our apologies for this inconvenience.",
+    "english_translation_highlights": [
+      "the symphonic concert scheduled for this evening at the Verdi Auditorium has been postponed to a later date",
+      "due to unforeseen technical difficulties",
+      "to a later date",
+      "will remain valid for the new performance"
+    ],
+    "english_question": "This public announcement…",
+    "english_options": [
+      "proposes a new date for a show.",
+      "informs of a postponement due to construction work.",
+      "announces the definitive cancellation of the concert.",
+      "offers an immediate refund of the tickets."
     ]
   },
   {
@@ -103,6 +171,20 @@
       "réservation obligatoire",
       "Nous vous encourageons à réserver vos créneaux via notre site internet ou directement à l'accueil du musée",
       "afin de garantir votre entrée"
+    ],
+    "english_translation": "Dear visitors, due to the exceptional influx of visitors, access to the Dream of the Orient exhibition will now require a mandatory reservation. We encourage you to book your time slots through our website or directly at the museum reception desk to guarantee your entry. We thank you for your understanding.",
+    "english_translation_highlights": [
+      "access to the Dream of the Orient exhibition will now require a mandatory reservation",
+      "mandatory reservation",
+      "We encourage you to book your time slots through our website or directly at the museum reception desk",
+      "to guarantee your entry"
+    ],
+    "english_question": "This public announcement…",
+    "english_options": [
+      "announces the early closure of the exhibition.",
+      "informs of the necessity to reserve access.",
+      "offers an exceptional guided tour.",
+      "informs of free admission for the coming days."
     ]
   },
   {
@@ -122,6 +204,21 @@
       "pour des travaux de maintenance sur les voies",
       "Des solutions de remplacement par bus ont été mises en place",
       "Veuillez consulter les horaires alternatifs"
+    ],
+    "english_translation": "Dear passengers, we would like to inform you that the railway line connecting Lyon to Geneva will be interrupted next weekend for track maintenance work. Replacement bus services have been put in place. Please check the alternative schedules on our website or at the ticket counters of the affected stations.",
+    "english_translation_highlights": [
+      "the railway line connecting Lyon to Geneva will be interrupted",
+      "next weekend",
+      "for track maintenance work",
+      "Replacement bus services have been put in place",
+      "Please check the alternative schedules"
+    ],
+    "english_question": "This public announcement…",
+    "english_options": [
+      "announces a train drivers' strike.",
+      "informs of a possible delay on the line.",
+      "informs of the temporary suspension of a service.",
+      "offers an additional train service."
     ]
   },
   {
@@ -138,6 +235,18 @@
     "highlights": [
       "l'inscription à l'atelier de photographie du samedi prochain doit impérativement être confirmée avant mercredi",
       "nous vous encourageons à finaliser votre réservation rapidement"
+    ],
+    "english_translation": "Dear participants, we remind you that registration for next Saturday's photography workshop must be confirmed by Wednesday at the latest. The workshop will be led by a renowned professional and will take place in the Lumière room. As spots are limited, we encourage you to finalize your reservation quickly.",
+    "english_translation_highlights": [
+      "registration for next Saturday's photography workshop must be confirmed by Wednesday at the latest",
+      "we encourage you to finalize your reservation quickly"
+    ],
+    "english_question": "This public announcement…",
+    "english_options": [
+      "informs of a cancellation due to insufficient number of registrants.",
+      "offers to confirm participation in an event.",
+      "announces a change in the workshop time.",
+      "informs of a reduction in registration fees."
     ]
   },
   {
@@ -157,6 +266,21 @@
       "je ne sais pas trop quoi lui prendre",
       "Tu as des idées ?",
       "Si tu veux venir avec moi, fais-moi signe"
+    ],
+    "english_translation": "Hi Sophie, it's Julien. I wanted to remind you that tomorrow is Paul's birthday. I was thinking of going to buy him a gift after work, but I'm not really sure what to get him. Do you have any ideas? If you want to come with me, let me know. Talk soon.",
+    "english_translation_highlights": [
+      "I wanted to remind you that tomorrow is Paul's birthday",
+      "I was thinking of going to buy him a gift after work",
+      "I'm not really sure what to get him",
+      "Do you have any ideas?",
+      "If you want to come with me, let me know"
+    ],
+    "english_question": "Why is Julien calling?",
+    "english_options": [
+      "to ask for help choosing a gift.",
+      "to confirm an appointment for Paul's birthday.",
+      "to invite Sophie to a party.",
+      "to apologize for not being able to buy a gift."
     ]
   },
   {
@@ -173,6 +297,18 @@
     "highlights": [
       "il y a une erreur dans la dernière page",
       "Je te renvoie tout ça par mail avec les corrections"
+    ],
+    "english_translation": "Hi Nathalie, it's Mélanie. I received the documents you sent me, thanks. However, there's an error on the last page. I'm sending everything back to you by email with the corrections. Let me know if that works for you. Have a good day.",
+    "english_translation_highlights": [
+      "there's an error on the last page",
+      "I'm sending everything back to you by email with the corrections"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "report an error in a document.",
+      "thank Nathalie for sending him/her documents.",
+      "request a new version of the documents.",
+      "suggest a modification to the document."
     ]
   },
   {
@@ -190,6 +326,19 @@
       "votre colis est bien arrivé",
       "il semble y avoir un souci avec l'adresse de livraison",
       "Pouvez-vous nous rappeler pour confirmer l'adresse correcte"
+    ],
+    "english_translation": "Hello Mr. Dupont, this is Stéphane from the delivery company. I wanted to let you know that your package has arrived, but there seems to be an issue with the delivery address. Could you call us back to confirm the correct address? Thank you and have a good day.",
+    "english_translation_highlights": [
+      "your package has arrived",
+      "there seems to be an issue with the delivery address",
+      "Could you call us back to confirm the correct address"
+    ],
+    "english_question": "Why is Stéphane calling?",
+    "english_options": [
+      "to verify the delivery address.",
+      "to inform that the package has been lost.",
+      "to cancel a delivery.",
+      "to propose a new delivery."
     ]
   },
   {
@@ -208,6 +357,20 @@
       "J'ai quelques cartons à déplacer",
       "je n'y arriverai pas seul",
       "Fais-moi savoir si tu es disponible"
+    ],
+    "english_translation": "Hi Marc, it's Sarah. I hope everything's going well. Tell me, would you have time to give me a hand moving this weekend? I have a few boxes to move, but I won't be able to manage on my own. Let me know if you're available. Thanks a lot.",
+    "english_translation_highlights": [
+      "would you have time to give me a hand moving this weekend",
+      "I have a few boxes to move",
+      "I won't be able to manage on my own",
+      "Let me know if you're available"
+    ],
+    "english_question": "Why is Sarah calling?",
+    "english_options": [
+      "to ask for help with a move.",
+      "to invite Marc to an event this weekend.",
+      "to give some news.",
+      "to offer help to Marc."
     ]
   },
   {
@@ -225,6 +388,19 @@
       "Je vous appelle pour vous informer que",
       "notre équipe passera chez vous demain matin",
       "pour une inspection de votre installation solaire"
+    ],
+    "english_translation": "Hello Mr. Lefebvre, this is Claire from the company Environnement Vert. I'm calling to let you know that our team will be coming to your home tomorrow morning for an inspection of your solar installation. Don't hesitate to contact me if you have any questions. Talk to you soon.",
+    "english_translation_highlights": [
+      "I'm calling to let you know that",
+      "our team will be coming to your home tomorrow morning",
+      "for an inspection of your solar installation"
+    ],
+    "english_question": "Why is Claire calling?",
+    "english_options": [
+      "to announce a scheduled inspection.",
+      "to propose an appointment.",
+      "to confirm the installation of solar panels.",
+      "to request additional information about the installation."
     ]
   },
   {
@@ -242,6 +418,19 @@
       "Je voulais juste te prévenir",
       "j'ai finalement trouvé la recette du gâteau au chocolat que tu cherchais",
       "Je te l'envoie par mail dès que je rentre chez moi"
+    ],
+    "english_translation": "Hi Emma, it's Lucie. I just wanted to let you know that I finally found the chocolate cake recipe you were looking for. I'll send it to you by email as soon as I get home. I hope you'll like it as much as I do. Talk to you later.",
+    "english_translation_highlights": [
+      "I just wanted to let you know",
+      "I finally found the chocolate cake recipe you were looking for",
+      "I'll send it to you by email as soon as I get home"
+    ],
+    "english_question": "Why is Lucie calling?",
+    "english_options": [
+      "to inform Emma that she has found a recipe.",
+      "to suggest a new recipe to Emma.",
+      "to ask Emma's opinion on a recipe.",
+      "to confirm the receipt of an email."
     ]
   },
   {
@@ -260,6 +449,20 @@
       "indispensable pour réduire les écarts de richesse",
       "les plus fortunés doivent contribuer davantage",
       "C'est une question d'équité"
+    ],
+    "english_translation": "I am convinced that wealth taxes are an indispensable tool for reducing wealth gaps. In a just society, the wealthiest must contribute more to fund public services and help the most disadvantaged. It is a matter of equity.",
+    "english_translation_highlights": [
+      "I am convinced that wealth taxes are an indispensable tool",
+      "indispensable tool for reducing wealth gaps",
+      "the wealthiest must contribute more",
+      "It is a matter of equity"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that wealth taxes are essential for reducing inequalities.",
+      "thinks that wealth taxes discourage investment and innovation.",
+      "considers that wealth taxes should be moderate to avoid tax evasion.",
+      ""
     ]
   },
   {
@@ -277,6 +480,19 @@
       "en taxant trop les plus riches, on finit par les décourager d'investir dans l'économie, l'innovation, les nouvelles entreprises",
       "Taxer trop lourdement la fortune peut donc freiner la croissance et nuire à l'économie",
       "Tout cela dépend de ceux qui ont les moyens de prendre des risques financiers"
+    ],
+    "english_translation": "This kind of tax has a perverse effect: by taxing the wealthiest too heavily, you end up discouraging them from investing in the economy, innovation, and new businesses. All of this depends on those who have the means to take financial risks. Taxing wealth too heavily can therefore slow growth and harm the economy.",
+    "english_translation_highlights": [
+      "by taxing the wealthiest too heavily, you end up discouraging them from investing in the economy, innovation, and new businesses",
+      "Taxing wealth too heavily can therefore slow growth and harm the economy",
+      "All of this depends on those who have the means to take financial risks"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that wealth taxes are essential for reducing inequalities.",
+      "thinks that wealth taxes discourage investment and innovation.",
+      "considers that wealth taxes should be moderate to avoid tax evasion.",
+      ""
     ]
   },
   {
@@ -297,6 +513,22 @@
       "voire à déplacer leurs actifs à l'étranger",
       "Un impôt modéré sur la fortune permettrait de contribuer à la redistribution",
       "sans pour autant encourager l'évasion fiscale"
+    ],
+    "english_translation": "It is necessary to tax large fortunes, but a fair balance must be found. Too many taxes can push some people to seek ways to avoid paying, or even to move their assets abroad. A moderate wealth tax would help contribute to redistribution without encouraging tax evasion.",
+    "english_translation_highlights": [
+      "It is necessary to tax large fortunes",
+      "a fair balance must be found",
+      "Too many taxes can push some people to seek ways to avoid paying",
+      "or even to move their assets abroad",
+      "A moderate wealth tax would help contribute to redistribution",
+      "without encouraging tax evasion"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "believes that wealth taxes are essential for reducing inequalities.",
+      "thinks that wealth taxes discourage investment and innovation.",
+      "considers that wealth taxes should be moderate to avoid tax evasion.",
+      ""
     ]
   },
   {
@@ -315,6 +547,20 @@
       "Si tout le monde avait un revenu de base garanti, cela réduirait la pauvreté",
       "permettrait à chacun de vivre dignement et d'avoir accès aux mêmes opportunités",
       "C'est un moyen efficace de réduire les inégalités qui persistent dans notre société"
+    ],
+    "english_translation": "Universal basic income is a revolutionary idea. If everyone had a guaranteed basic income, it would reduce poverty, allow everyone to live with dignity, and have access to the same opportunities. It is an effective way to reduce the inequalities that persist in our society.",
+    "english_translation_highlights": [
+      "Universal basic income is a revolutionary idea",
+      "If everyone had a guaranteed basic income, it would reduce poverty",
+      "allow everyone to live with dignity, and have access to the same opportunities",
+      "It is an effective way to reduce the inequalities that persist in our society"
+    ],
+    "english_question": "The person being questioned…",
+    "english_options": [
+      "thinks that universal basic income would help reduce inequalities.",
+      "considers that universal basic income is a good idea, but insufficient.",
+      "does not believe in the viability of universal basic income.",
+      ""
     ]
   },
   {
@@ -334,6 +580,21 @@
       "les inégalités sociales sont bien plus profondes",
       "Il faut agir sur des facteurs comme l'éducation, l'accès à la santé ou encore la fiscalité",
       "Un revenu universel, seul, ne suffira pas"
+    ],
+    "english_translation": "In my opinion, universal basic income is not a miracle solution. Admittedly, it can provide occasional assistance, but social inequalities run much deeper. We need to act on factors such as education, access to healthcare, and taxation to truly change things. A universal basic income, on its own, will not be enough.",
+    "english_translation_highlights": [
+      "In my opinion, universal basic income is not a miracle solution",
+      "it can provide occasional assistance",
+      "social inequalities run much deeper",
+      "We need to act on factors such as education, access to healthcare, and taxation",
+      "A universal basic income, on its own, will not be enough"
+    ],
+    "english_question": "The person being questioned…",
+    "english_options": [
+      "thinks that universal basic income would help reduce inequalities.",
+      "considers that universal basic income is a good idea, but insufficient.",
+      "does not believe in the viability of universal basic income.",
+      ""
     ]
   },
   {
@@ -353,6 +614,21 @@
       "qui nous garantit que cela ne découragera pas un peu les gens de travailler",
       "Pour moi, c'est une utopie",
       "risque de créer plus de problèmes qu'elle ne résoudrait"
+    ],
+    "english_translation": "I am skeptical about the idea of universal basic income. How would such a program be funded without increasing taxes for a large portion of the population? And who can guarantee that it wouldn't somewhat discourage people from working? To me, it's a utopia that risks creating more problems than it would solve.",
+    "english_translation_highlights": [
+      "I am skeptical about the idea of universal basic income",
+      "How would such a program be funded without increasing taxes",
+      "who can guarantee that it wouldn't somewhat discourage people from working",
+      "To me, it's a utopia",
+      "risks creating more problems than it would solve"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks that universal basic income would help reduce inequalities.",
+      "considers that universal basic income is a good idea, but insufficient.",
+      "does not believe in the viability of universal basic income.",
+      ""
     ]
   },
   {
@@ -372,6 +648,21 @@
       "notamment celles qui dépendent de l'obscurité pour se nourrir ou se reproduire",
       "des études montrent que l'exposition prolongée à une lumière artificielle excessive, surtout dans les environnements urbains, peut affecter le sommeil des humains",
       "entraînant à long terme des problèmes de santé tels que des troubles cardiovasculaires ou métaboliques"
+    ],
+    "english_translation": "Light pollution, although often overlooked, has a considerable impact on ecosystems and human health by disrupting the natural cycle of day and night. It disturbs the biological rhythms of many animal species, particularly those that depend on darkness to feed or reproduce. Furthermore, studies show that prolonged exposure to excessive artificial light, especially in urban environments, can affect human sleep, leading in the long term to health problems such as cardiovascular or metabolic disorders. In response to this observation, solutions are emerging such as reducing public lighting or using more environmentally friendly lights. Autonomous vehicles are presented as a revolution in the field of transportation.",
+    "english_translation_highlights": [
+      "Light pollution, although often overlooked, has a considerable impact on ecosystems and human health by disrupting the natural cycle of day and night",
+      "It disturbs the biological rhythms of many animal species",
+      "particularly those that depend on darkness to feed or reproduce",
+      "studies show that prolonged exposure to excessive artificial light, especially in urban environments, can affect human sleep",
+      "leading in the long term to health problems such as cardiovascular or metabolic disorders"
+    ],
+    "english_question": "According to the author, the impact of light pollution is mainly manifested by",
+    "english_options": [
+      "the modification of natural biological cycles that disproportionately affects certain animal species.",
+      "the accumulation of health problems in humans, although the scientific evidence remains controversial.",
+      "a significant disruption of biological rhythms, in both animals and humans, with varied effects.",
+      "the gradual onset of metabolic and cardiovascular disorders exclusively among inhabitants of urban areas."
     ]
   },
   {
@@ -391,6 +682,21 @@
       "l'intégration de ces véhicules dans les infrastructures actuelles pose un défi logistique important",
       "avant une adoption à grande échelle, des ajustements majeurs seront nécessaires",
       "tant sur le plan technique que réglementaire"
+    ],
+    "english_translation": "Thanks to sophisticated sensors and artificial intelligence algorithms, these vehicles are capable of driving without human intervention. However, their development raises complex ethical and legal questions. For example, in the event of an unavoidable accident, how should the vehicle prioritize lives? Moreover, integrating these vehicles into current infrastructure poses a significant logistical challenge. Some experts believe that before widespread adoption, major adjustments will be necessary, both on a technical and regulatory level.",
+    "english_translation_highlights": [
+      "their development raises complex ethical and legal questions",
+      "in the event of an unavoidable accident, how should the vehicle prioritize lives",
+      "integrating these vehicles into current infrastructure poses a significant logistical challenge",
+      "before widespread adoption, major adjustments will be necessary",
+      "both on a technical and regulatory level"
+    ],
+    "english_question": "According to the author, one of the major obstacles to the integration of autonomous vehicles is related to",
+    "english_options": [
+      "the inability of current algorithms to anticipate all unforeseen situations on the road.",
+      "the need to redefine road infrastructures to adapt to this new technology.",
+      "the way vehicles could handle moral dilemma scenarios in the event of an accident.",
+      "the lack of consensus on the economic benefits of their large-scale use."
     ]
   },
   {
@@ -409,6 +715,20 @@
       "Ils veulent des diplômes sans aucun effort",
       "se clament victimes pour un oui ou pour un non",
       "désignent comme persécuteurs ceux-là même qu'ils injurient et menacent"
+    ],
+    "english_translation": "The written French baccalauréat exam for students in the general track offered, for the commentary exercise, a text by French author Sylvie Germain, excerpted from her novel *Jours de colère* (Days of Anger), winner of the Prix Femina in 1989. A 20-line text describing nine brothers, sorts of woodsmen raised in the forests of the Morvan region in an indeterminate past, the exam's introductory note indicated. The idea for the students was, as suggested by an answer key published by Le Monde the following day, to ask themselves how the nine sons had been shaped by the environment in which they grew up. But, as Le Figaro Étudiant writes, the sylvan atmosphere of the excerpt, the opacity of certain images, and the lexical field of nature apparently unsettled more than one candidate. In the hours following the exam, Twitter, Instagram, and TikTok were flooded with incendiary comments and insults directed at the author of the French bac text, Sylvie Germain. Here are some of the milder ones: \"Your text — it's finished early,\" \"No meaning whatsoever, apart from nine naked buffoons in the forest living in a crappy house, I didn't understand a thing.\" Another comment, slightly funnier this time: \"You pick the commentary, you walk out of the exam hall with a forestry ranger certification.\" Or: \"Can we get the names of the nine sons, please? I hadn't missed this — The Jungle Book.\" The other comments — extremely vulgar, insulting, and sometimes threatening, such as a TikTok video viewed a hundred thousand times and liked twelve thousand times — drew reactions, but this time in the opposite direction: teachers came to Sylvie Germain's defense. \"So much for the intelligence of young people taking the French bac, who hold a grudge against Sylvie Germain because she has more than three words of vocabulary. Stop being so pathetic!\" The author herself, Sylvie Germain, interviewed by Le Figaro Étudiant, stated: \"I'm merely a pretext; I don't feel personally targeted. I'm more worried about the symptom this reveals,\" she said. And she added: \"They want diplomas without any effort, claim to be victims at the drop of a hat, and designate as persecutors the very people they insult and threaten. What kind of adults are they going to become?\" A good question, no doubt. While awaiting the answer, a tweet…",
+    "english_translation_highlights": [
+      "I'm merely a pretext; I don't feel personally targeted. I'm more worried about the symptom this reveals",
+      "They want diplomas without any effort",
+      "claim to be victims at the drop of a hat",
+      "designate as persecutors the very people they insult and threaten"
+    ],
+    "english_question": "Why does Sylvie Germain say she is concerned about the students' reactions to her text?",
+    "english_options": [
+      "She thinks that the students did not make an effort to understand her text.",
+      "She feels that this reflects a lack of effort and a tendency to avoid any difficulty.",
+      "She is worried about the excessive emotional reaction of students to exams.",
+      "She feels concerned about the students' attitude toward complex vocabulary."
     ]
   },
   {
@@ -425,6 +745,18 @@
     "highlights": [
       "les profs ont pris la défense de Sylvie Germain",
       "Bonjour l'intelligence des jeunes qui passent le bac de français, qui en veulent à Sylvie Germain parce qu'elle possède plus de trois mots de vocabulaire"
+    ],
+    "english_translation": "The written French baccalauréat exam for students in the general track offered, for the commentary section, a text by French author Sylvie Germain, excerpted from her novel *Jour de colère* (Days of Anger), which won the Prix Femina in 1989. A 20-line text describing nine brothers, sorts of woodsmen raised in the forests of the Morvan region in an indeterminate past, the exam's introductory note indicated. The idea for students was, as suggested by an answer key for the exam published by Le Monde the following day, to ask themselves how the nine sons were shaped by the environment in which they grew up. But, as Le Figaro Étudiant writes, the sylvan atmosphere of the excerpt, the opacity of certain images, and the lexical field of nature seem to have unsettled more than one candidate. In the hours following the exam, Twitter, Instagram, and TikTok were flooded with inflammatory comments and insults directed at the author of the French baccalauréat text, Sylvie Germain. I'll share the mildest ones here: \"Your text, it's finished early,\" \"No meaning whatsoever, apart from nine naked buffoons in the forest living in a crappy house, I didn't understand a thing.\" Another comment, slightly funnier this time: \"You choose the commentary, you leave the exam room with a forest ranger certification.\" Or: \"Can we get the names of the nine sons, please? I hadn't missed this—The Jungle Book.\" The other comments, extremely vulgar, insulting, and sometimes threatening—such as a TikTok video viewed a hundred thousand times and liked twelve thousand times—drew reactions, but this time in the opposite direction: teachers came to Sylvie Germain's defense. \"So much for the intelligence of young people taking the French baccalauréat, who hold a grudge against Sylvie Germain because she has more than three words of vocabulary. Grow up!\" The author herself, Sylvie Germain, interviewed by Le Figaro Étudiant, stated: \"I am merely a pretext; I don't feel personally targeted. I am rather worried about the symptom this reveals,\" she said. And she added: \"They want diplomas without any effort, they claim to be victims at the drop of a hat, and they designate as persecutors the very people they insult and threaten. What kind of adults are they going to become?\" A good question, no doubt. While awaiting the answer, a tweet…",
+    "english_translation_highlights": [
+      "teachers came to Sylvie Germain's defense",
+      "So much for the intelligence of young people taking the French baccalauréat, who hold a grudge against Sylvie Germain because she has more than three words of vocabulary"
+    ],
+    "english_question": "What is teachers' reaction to students' criticism on social media?",
+    "english_options": [
+      "They believe that students lack the vocabulary to understand more difficult texts.",
+      "They defend the author by emphasizing that students lack the vocabulary for this type of text.",
+      "They think that the text was not suited to the students' level, as they lack vocabulary.",
+      "They react by asserting that the students' intelligence is insufficient to understand a rich text."
     ]
   },
   {
@@ -445,6 +777,22 @@
       "d'impliquer chaque famille dans la discussion sur le changement climatique",
       "l'idée leur faire présenter la météo du vingt-deux mars deux mille cinquante",
       "attirer l'attention sur la manière dont le changement climatique affectera le temps et la vie des générations futures"
+    ],
+    "english_translation": "Ladies and gentlemen, thank you for joining us for a very special weather bulletin. The United Nations Development Programme and the WMO have launched a major awareness campaign on climate disruption. At the heart of their communication: children — the idea being to have them present the weather forecast for March 22, 2050. The goal: to draw attention to how climate change will affect the weather and the lives of future generations, while delivering some strong messages. From north to south, on the climate front, nothing is going well. If we don't listen to the scientists, the situation will be much worse when I grow up. This is not simply a weather bulletin — our future is at stake. The main goal is to involve the younger generations, because we believe we need to reach into the heart of families, and the way to do that is through their children and to involve every family in the discussion about climate change and what we can do. Good evening, everyone. Closer to home, it's Martin, age 9, who got to slip into the shoes of a weather presenter for a day, and to say the least, it's going to be hot. Weather presenter: And to say the least, it's going to be hot for a month of March. In the afternoon, it will be quite hot in Ticino, 30 degrees in Lucerne, up to twenty-eight degrees in Geneva, twenty-seven degrees in Valais, and fourteen degrees at two thousand meters — values above normal. Yet these are realistic forecasts, provided directly by the specialists at MeteoSwiss. We took the climate projections for Switzerland and used the scenarios without effective climate protection measures in order to show what a hot day in late March 2050 could look like. So this is an example of a forecast for 2050, but one that is unfortunately entirely plausible. Martin's full weather bulletin is available on our platforms. He will be thirty-five years old in 2050, and hopefully by then the trend will have reversed. Twenty-five years ago, we would have called this a beautiful June day. Good evening, everyone.",
+    "english_translation_highlights": [
+      "The main goal is to involve the younger generations",
+      "we believe we need to reach into the heart of families",
+      "the way to do that is through their children",
+      "to involve every family in the discussion about climate change",
+      "the idea being to have them present the weather forecast for March 22, 2050",
+      "to draw attention to how climate change will affect the weather and the lives of future generations"
+    ],
+    "english_question": "What is the main objective of the campaign involving children in presenting the weather forecast of 2050?",
+    "english_options": [
+      "Predict extreme weather events projected for the year 2050.",
+      "Warn the public about the potential repercussions of climate change.",
+      "Raise awareness among families about the impact of climate disruption through the participation of their children.",
+      "Inform the scientific community about future risks related to climate change."
     ]
   },
   {
@@ -462,6 +810,19 @@
       "On a pris les projections climatiques pour la Suisse et on a pris les scénarios sans mesure de protection du climat efficace afin de représenter à quoi une journée chaude pour fin mars 2050 pourrait ressembler.",
       "Il s'agit donc d'un exemple de prévision pour 2050, mais qui est malheureusement tout à fait plausible.",
       "Des prévisions pourtant réalistes, fournies directement par les spécialistes de MétéoSuisse."
+    ],
+    "english_translation": "Ladies and gentlemen, thank you for joining us for a very special weather bulletin. The United Nations Development Programme and the WMO have launched a major awareness campaign on climate disruption. At the heart of their communication, children: the idea is to have them present the weather forecast for March 22, 2050. The goal: to draw attention to how climate change will affect the weather and the lives of future generations, while delivering some strong messages. From north to south, climate-wise, nothing is going well. If we don't listen to the scientists, the situation will be much worse when I grow up. This isn't simply a weather bulletin — our future is at stake. The main goal is to involve the younger generations, because we believe we need to reach the heart of families, and the way to do that is through their children and to involve every family in the discussion about climate change and what we can do. Good evening, everyone. Closer to home, it's Martin, age 9, who got to slip into the shoes of a weather presenter for a day, and to say the least, it's going to be hot. Weather presenter: And to say the least, it's going to be hot for a month of March. In the afternoon, it will be quite hot in Ticino, 30 degrees in Lucerne, up to twenty-eight degrees in Geneva, twenty-seven degrees in Valais, and fourteen degrees at two thousand meters — values above normal. Yet these are realistic forecasts, provided directly by the specialists at MeteoSwiss. We took the climate projections for Switzerland and used the scenarios without effective climate protection measures to show what a hot day in late March 2050 could look like. So this is an example of a forecast for 2050, but one that is unfortunately entirely plausible. Martin's full weather bulletin is available on our platforms. He will be thirty-five years old in 2050, and hopefully by then the trend will have reversed. Twenty-five years ago, we would have called this a nice month of June. Good evening, everyone.",
+    "english_translation_highlights": [
+      "We took the climate projections for Switzerland and used the scenarios without effective climate protection measures to show what a hot day in late March 2050 could look like.",
+      "So this is an example of a forecast for 2050, but one that is unfortunately entirely plausible.",
+      "Yet these are realistic forecasts, provided directly by the specialists at MeteoSwiss."
+    ],
+    "english_question": "Why are the weather forecasts for 2050 considered plausible according to MeteoSwiss?",
+    "english_options": [
+      "They are based on realistic climate projections in the absence of protective measures.",
+      "They are based on current global warming trends.",
+      "They illustrate what could happen if no effective action is implemented.",
+      "They reflect a plausible scenario based on contemporary meteorological observations."
     ]
   },
   {
@@ -483,6 +844,23 @@
       "je ne comprenais rien. Tout simplement parce que les journalistes reprenaient les mots en anglais.",
       "j'avais beau regarder les images, je ne comprenais pas ce qu’on me disait.",
       "les mots que nous proposerons, seront des mots plutôt français."
+    ],
+    "english_translation": "An Olympic year in a French-speaking country: France. This hadn't happened since 1976, in Montreal. Hence your mission, Daniel Zielinski, ministerial delegate for the Francophonie at the Ministry of Sports. You've been working on this for a long time, but the first recommendations are coming out, notably with a series of publications — including this one: *Parlez-vous break?* — since breakdancing is a new Olympic discipline. But in saying that, I'm making a huge mistake, and I'm subscribing to an anglicism: you shouldn't say breakdance. — No, indeed. But the interesting thing about our work, which we carried out with the DGLFLF — the General Delegation for the French Language and the Languages of France — who are somewhat my partners in crime on these topics... We of course work with the Académie française, with the sports federations. What matters most is understanding the movements. For us, translating the name of the sport isn't really the most important thing. What matters most is translating the phases of play, the movements of the game, which are often in English in these sports. Because, for example, when I was watching the snowboard events at the Beijing Games, I couldn't understand anything. Quite simply because the journalists were using the English words. And why were they using them? Because they didn't exist in French, and there were no French definitions. So even though I was watching the images, I couldn't understand what I was being told. The idea is very simple: to start from the phases, the movements, so that when we watch the Olympic Games, when we see these events, we can better understand them. So that all French-speaking journalists and the entire French-speaking public can simply understand the images. Because the definitions we provide, the words we propose, will be words that are more French. — But *break* or *breakdance*, there's really not much difference, is there? — Let me come back to the definition of the discipline. Yes, for example, we also didn't translate *surf*. We're not going to translate *football* or *handball*. Here, the idea was to say: if we're looking for a French word, we might as well use, look for a word that is similar, that is — in fact — in the dictionary. The word *break* was in there, but not with the same meaning, not with the same definition. And so, it was important for us to find words that come as close as possible to the French language, so that potentially, we could switch to French by using those words rather than the English ones.",
+    "english_translation_highlights": [
+      "The idea is very simple: to start from the phases, the movements, so that when we watch the Olympic Games, when we see these events, we can better understand them.",
+      "So that all French-speaking journalists and the entire French-speaking public can simply understand the images.",
+      "What matters most is translating the phases of play, the movements of the game",
+      "For us, translating the name of the sport isn't really the most important thing.",
+      "I couldn't understand anything. Quite simply because the journalists were using the English words.",
+      "even though I was watching the images, I couldn't understand what I was being told.",
+      "the words we propose, will be words that are more French."
+    ],
+    "english_question": "What is Daniel Zielinski's main objective in the translation of sports gestures?",
+    "english_options": [
+      "Eliminate all anglicisms.",
+      "Facilitate understanding for the French-speaking public.",
+      "Impose French technical terms.",
+      "Standardize terms with other languages."
     ]
   },
   {
@@ -507,6 +885,26 @@
       "L’idée, c’est tout simple : repartir des phases, des gestes, pour que, quand nous allons regarder les Jeux Olympiques, quand nous verrons ces épreuves, nous puissions mieux comprendre",
       "Que l’ensemble des journalistes francophones et que l’ensemble du public francophone puissent comprendre, tout simplement, les images",
       "les définitions que l’on donnera, les mots que nous proposerons, seront des mots plutôt français"
+    ],
+    "english_translation": "An Olympic year in a French-speaking country: France. This hadn't happened since 1976, in Montreal. Hence your mission, Daniel Zielinski, ministerial delegate for the Francophonie at the Ministry of Sports. You've been working on this for a long time, but the first recommendations are coming out, notably with a series of publications — including this one: *Parlez-vous break?* — since breakdancing is a new Olympic discipline. But in saying that, I'm making a huge mistake, and I'm subscribing to the anglicism: you shouldn't say breakdance. — No, indeed. But the interesting thing about our work, which we carried out with the DGLFLF — the General Delegation for the French Language and the Languages of France — who are sort of my little partners in crime for working on these topics... We work of course with the Académie française, with the sports federations. What matters most is understanding the moves. For us, translating the name of the sport isn't really the most important thing. What matters most is translating the phases of the game, the movements of the game, which are often in English in these sports. Because, for example, when I was watching the snowboard events at the Beijing Games, I couldn't understand anything. Quite simply because the journalists were using the English words. And why were they using them? Because they didn't exist in French, and there was no French definition. So even though I was watching the images, I couldn't understand what I was being told. The idea is quite simple: start from the phases, the moves, so that when we watch the Olympic Games, when we see these events, we can better understand them. So that all French-speaking journalists and all French-speaking audiences can simply understand the images. Because the definitions we provide, the words we propose, will be words that are more French. — But break or breakdance, there isn't really much difference, is there? — Let me come back to the definition of the discipline. Yes, for example, we didn't translate surf either. We're not going to translate football or handball. Here, the idea was to say: if we're looking for a French word, we might as well use, look for a word that resembles it, that is — in fact — in the dictionary. The word break was already there, but not with the same meaning, not with the same definition. And so, it was important for us to find the words that come as close as possible to the French language, so that eventually, we could switch to French by using those words, rather than the English ones.",
+    "english_translation_highlights": [
+      "What matters most is understanding the moves.",
+      "translating the name of the sport isn't really the most important thing",
+      "What matters most is translating the phases of the game, the movements of the game, which are often in English in these sports",
+      "when I was watching the snowboard events at the Beijing Games, I couldn't understand anything",
+      "Quite simply because the journalists were using the English words",
+      "Because they didn't exist in French, and there was no French definition",
+      "even though I was watching the images, I couldn't understand what I was being told",
+      "The idea is quite simple: start from the phases, the moves, so that when we watch the Olympic Games, when we see these events, we can better understand them",
+      "So that all French-speaking journalists and all French-speaking audiences can simply understand the images",
+      "the definitions we provide, the words we propose, will be words that are more French"
+    ],
+    "english_question": "Why does the author favor the translation of sports movements?",
+    "english_options": [
+      "The movements are harder for the public to grasp and require specific terminological clarification.",
+      "Since discipline names are already widely accepted internationally, he focuses on movements, which vary from one cultural context to another.",
+      "This allows journalists to explain competitions more precisely and understandably for a French-speaking audience.",
+      "He seeks to align the terms used with the recommendations of the Académie française regarding the Frenchification of sports movements."
     ]
   },
   {
@@ -526,6 +924,21 @@
       "Jamais — je le dis — nous n’avons rencontré de citoyens, dans ces dispositifs, qui souhaitaient se substituer aux élus pour prendre les décisions à leur place",
       "La participation permet au contraire de mieux comprendre comment les décisions sont prises",
       "c’est un allié de la démocratie représentative"
+    ],
+    "english_translation": "So, Pauline Véron, you began to mention Démocratie Ouverte, of which you are the co-president. I'll quote what's written on your website. The mission of Démocratie Ouverte, this association: \"Démocratie Ouverte works toward the democratic transformation of our institutions and our policies in order to meet the defining challenges of the 21st century.\" That's very ambitious. — How does that translate in practice? — It translates into supporting public actors who want to do more participatory democracy. So we support regions, cities, and departments that are initiating mechanisms such as participatory budgets, local citizens' conventions, or new forms of governance. For example, cities that are thinking about how they can make decisions, both internally — between elected officials and civil servants — but also with citizens. So we experiment, we propose new forms of citizen participation, because we believe — and we work with many elected officials (I myself was an elected official for quite a few years, during which I was able to implement citizen participation mechanisms) — that it works on the ground. We see that when citizen participation mechanisms are put in place — provided they are done in accordance with a certain number of quality criteria (because sometimes, when it's not done very well, it can be somewhat disappointing, and it then backfires against participatory democracy) — when it's done well, it is an ally of representative democracy. And I completely agree with you when you say that some parliamentarians sometimes feel that participatory democracy is opposed to representative democracy. That is not the case at all. Participation, on the contrary, helps people better understand how decisions are made, to take part in them, to give their point of view, and to be heard. Never — I say this — have we encountered citizens in these processes who wanted to replace elected officials and make decisions in their stead. And there are many citizens who do participate in these initiatives, when they are given the means to do so. — Do decisions actually come out of this? — Yes, absolutely. For example, through participatory budgets, votes are organized on proposals made by citizens, which are then implemented by the municipalities, even though they were not initially proposed by the local authority. So, obviously, you have to make the effort to go out and reach people in the neighborhoods, to think about a method that allows everyone to participate. But if you truly commit the resources, and there is a clear political will, then you see — in particular — young people, or people from disadvantaged neighborhoods, who need public policies to address them even more than others do. And they know what they need. In that case, yes, it works well.",
+    "english_translation_highlights": [
+      "some parliamentarians sometimes feel that participatory democracy is opposed to representative democracy",
+      "That is not the case at all",
+      "Never — I say this — have we encountered citizens in these processes who wanted to replace elected officials and make decisions in their stead",
+      "Participation, on the contrary, helps people better understand how decisions are made",
+      "it is an ally of representative democracy"
+    ],
+    "english_question": "Why is participatory democracy sometimes perceived as an obstacle to representative democracy according to Pauline Véron?",
+    "english_options": [
+      "It allows citizens to make decisions in place of elected officials.",
+      "It competes with the decision-making of elected officials.",
+      "It excludes citizens from political decision-making.",
+      "It makes decision-making processes longer and more complicated."
     ]
   },
   {
@@ -550,6 +963,26 @@
       "qui ont encore plus besoin que d’autres que les politiques publiques s’adressent à eux",
       "Et eux savent ce dont ils ont besoin",
       "ils sont nombreux, ces citoyens, à participer justement à ces démarches, quand on leur en donne les moyens"
+    ],
+    "english_translation": "So, Pauline Véron, you began to mention Démocratie Ouverte, of which you are the co-president. I'm going to quote what's written on your website. The mission of Démocratie Ouverte, this association: \"Démocratie Ouverte works toward the democratic transformation of our institutions and our policies in order to meet the defining challenges of the 21st century.\" That's very ambitious. — How does that translate in practice? — It translates into supporting public actors who want to do more participatory democracy. So we support regions, cities, and departments that are initiating mechanisms such as participatory budgets, local citizens' conventions, or new forms of governance. For example, cities that are thinking about how they can make decisions, both internally — between elected officials and staff — but also with citizens. So we experiment, we propose new forms of citizen participation, because we believe — and we work with many elected officials (I myself was an elected official for quite a few years, during which I was able to implement citizen participation mechanisms) — that it works on the ground. We see that when you set up citizen participation mechanisms — provided they are done in compliance with a certain number of quality criteria (because sometimes, when it's not done very well, it can be somewhat disappointing, and it then backfires against participatory democracy) — when it's done well, it is an ally of representative democracy. And I completely agree with you when you say that some parliamentarians sometimes feel that participatory democracy is opposed to representative democracy. That is not at all the case. Participation, on the contrary, allows people to better understand how decisions are made, to take part in them, to give their point of view, and to be heard. Never — I'll say it — have we encountered citizens, in these processes, who wanted to substitute themselves for elected officials to make decisions in their place. And there are many citizens who do participate in these initiatives when they are given the means to do so. — Are there decisions that actually come to fruition? — Yes, absolutely. For example, through participatory budgets, votes are organized on proposals made by citizens, which are then implemented by the municipalities, even though they were not initially proposed by the local authority. So, obviously, you have to make the effort to go out and reach people in the neighborhoods, to think about a method, to allow everyone to participate. But if you truly commit the resources, and there is a clear political will, then you see — in particular — young people, or people from disadvantaged neighborhoods, who need public policies to address them even more than others. And they know what they need. In that case, yes, it works well.",
+    "english_translation_highlights": [
+      "provided they are done in compliance with a certain number of quality criteria",
+      "when it's not done very well, it can be somewhat disappointing, and it then backfires against participatory democracy",
+      "when it's done well, it is an ally of representative democracy",
+      "you have to make the effort to go out and reach people in the neighborhoods",
+      "to think about a method, to allow everyone to participate",
+      "if you truly commit the resources, and there is a clear political will",
+      "you see — in particular — young people, or people from disadvantaged neighborhoods",
+      "who need public policies to address them even more than others",
+      "And they know what they need",
+      "there are many citizens who do participate in these initiatives when they are given the means to do so"
+    ],
+    "english_question": "What are the essential factors for guaranteeing the success of participatory democracy, according to the speaker?",
+    "english_options": [
+      "Involve policy experts to validate citizen proposals.",
+      "Establish quality criteria and actively involve citizens, particularly young people and residents of disadvantaged neighborhoods.",
+      "Limit participation to the most qualified citizens in the relevant fields.",
+      "Use exclusively digital platforms to simplify participation."
     ]
   },
   {
@@ -566,6 +999,18 @@
     "highlights": [
       "ils posent néanmoins des défis en termes de cohabitation avec les piétons",
       "notamment dans les zones où l'espace est partagé"
+    ],
+    "english_translation": "With the inexorable rise of sustainability concerns, municipalities find themselves increasingly driven to encourage ecological practices within their territories. An emblematic example is the promotion of cycling, which has become central to modern urban policies. Beyond the development of cycling infrastructure such as secure bike lanes, some cities go as far as offering financial incentives for the purchase of electric bicycles, which are more expensive. While these efforts tend to reduce greenhouse gas emissions and ease congestion in urban spaces, they nonetheless pose challenges in terms of coexistence with pedestrians, particularly in areas where space is shared.",
+    "english_translation_highlights": [
+      "they nonetheless pose challenges in terms of coexistence with pedestrians",
+      "particularly in areas where space is shared"
+    ],
+    "english_question": "What obstacle is mentioned in the implementation of pro-cycling policies?",
+    "english_options": [
+      "The regulation of financial schemes supporting the purchase of electrically assisted bicycles.",
+      "The difficult coexistence of cyclists and pedestrians within certain urban areas.",
+      "The inability of municipalities to deploy adequate infrastructure for cycling.",
+      "The clear opposition of part of the population against imposed ecological initiatives."
     ]
   },
   {
@@ -583,6 +1028,19 @@
       "n'est pas sans conséquence sur la dynamique de l'entreprise",
       "il est aussi la source d'un isolement croissant chez certains collaborateurs",
       "réduisant ainsi les interactions spontanées qui favorisaient autrefois la créativité et l'esprit d'équipe"
+    ],
+    "english_translation": "Remote work, once marginal and often perceived as an exceptional arrangement, has established itself as a lasting norm in the post-pandemic professional world. This radical transformation, although widely praised for the flexibility it offers employees, is not without consequences for company dynamics. Indeed, while remote work has demonstrated positive effects on productivity and individual well-being, it is also the source of growing isolation among certain employees, thereby reducing the spontaneous interactions that once fostered creativity and team spirit.",
+    "english_translation_highlights": [
+      "is not without consequences for company dynamics",
+      "it is also the source of growing isolation among certain employees",
+      "thereby reducing the spontaneous interactions that once fostered creativity and team spirit"
+    ],
+    "english_question": "What is one of the main disadvantages of remote work?",
+    "english_options": [
+      "The reduction of employees' flexibility in terms of organization.",
+      "The observable decline of efficiency within professional structures.",
+      "Increasing isolation, leading to the rarefaction of social dynamics between colleagues.",
+      "The complete eradication of in-person professional meetings."
     ]
   },
   {
@@ -602,6 +1060,21 @@
       "la nécessité de moderniser les infrastructures vieillissantes",
       "Le défi est donc de taille : garantir une fourniture stable et continue",
       "gestion des réseaux électriques"
+    ],
+    "english_translation": "The rise of renewable energies, although encouraging, raises many questions regarding the management of electrical grids. Indeed, the massive integration of intermittent sources such as wind or solar power is upending the traditional paradigms of energy production and distribution. Added to this are the issues of storing surplus electricity and the need to modernize aging infrastructure. The challenge is therefore significant: ensuring a stable and continuous supply while encouraging a rapid and ambitious ecological transition.",
+    "english_translation_highlights": [
+      "the massive integration of intermittent sources such as wind or solar power is upending the traditional paradigms of energy production and distribution",
+      "the issues of storing surplus electricity",
+      "the need to modernize aging infrastructure",
+      "The challenge is therefore significant: ensuring a stable and continuous supply",
+      "management of electrical grids"
+    ],
+    "english_question": "What primary challenge hinders the growth of renewable energies?",
+    "english_options": [
+      "The insufficiency of viable alternatives to traditional energy sources.",
+      "The modernization of infrastructure systems to ensure stable continuity in distribution.",
+      "The marked reluctance of certain populations regarding the implementation of solar and wind energy.",
+      "The increased difficulty in mobilizing adequate funding to support these new energy structures."
     ]
   },
   {
@@ -619,6 +1092,19 @@
       "ils soulèvent aussi des inquiétudes quant à",
       "à la qualité de l'enseignement, à l'accompagnement des élèves et à la fracture numérique",
       "la fracture numérique qui, pour certains, pourrait exacerber les inégalités existantes"
+    ],
+    "english_translation": "The societal transformations observed over recent decades, particularly the explosion of digital technologies, have considerably reshaped the landscape of education. The massive access to information facilitated by the Internet and the emergence of online educational platforms have profoundly changed the way knowledge is transmitted. While these tools allow for more flexible and personalized learning, they also raise concerns about the quality of teaching, student support, and the digital divide, which, for some, could exacerbate existing inequalities.",
+    "english_translation_highlights": [
+      "they also raise concerns about",
+      "the quality of teaching, student support, and the digital divide",
+      "the digital divide, which, for some, could exacerbate existing inequalities"
+    ],
+    "english_question": "According to what is stated, one of the concerns related to the rise of online educational platforms is:",
+    "english_options": [
+      "The difficulties encountered by teachers in familiarizing themselves with the use of sophisticated digital tools.",
+      "The possibility of an erosion of conventional teaching methods.",
+      "The danger of an exacerbation of socio-economic disparities resulting from unequal access to digital technologies.",
+      "The considerable expenses associated with accessing online educational platforms."
     ]
   },
   {
@@ -637,6 +1123,20 @@
       "se heurte à des résistances, notamment économiques",
       "notamment économiques",
       "car elle implique des réformes profondes et un soutien étatique renforcé"
+    ],
+    "english_translation": "While debates on food sovereignty are taking an increasingly prominent place on the international stage, it is crucial to recognize the structural fragilities of contemporary agricultural systems. Intensive farming models, which aim to maximize productivity at the expense of sustainability, are often singled out for their devastating environmental impact. Yet, a transition toward more environmentally friendly agriculture, focused on resilience and crop diversity, faces resistance, particularly economic, as it entails profound reforms and strengthened state support.",
+    "english_translation_highlights": [
+      "a transition toward more environmentally friendly agriculture, focused on resilience and crop diversity, faces resistance",
+      "faces resistance, particularly economic",
+      "particularly economic",
+      "as it entails profound reforms and strengthened state support"
+    ],
+    "english_question": "According to what is stated, a major obstacle to the transition toward sustainable agriculture is:",
+    "english_options": [
+      "The economic opposition to essential reforms.",
+      "The lack of political will to reduce agricultural productivity.",
+      "The reluctance of consumers to adopt local products.",
+      "The weakness of traditional agricultural systems."
     ]
   },
   {
@@ -658,6 +1158,23 @@
       "On peine à s'attacher à ses protagonistes désincarnés",
       "dont les motivations manquent de profondeur",
       "indéniable talent"
+    ],
+    "english_translation": "Xavier Dolan's latest feature film, though ambitious in its visual approach, doesn't quite manage to transcend its influences. It constantly oscillates between homage and imitation of the great masters of auteur cinema. While the cinematography is undeniably striking, brilliantly capturing the emotional intensity of the characters, the screenplay, for its part, remains superficial. It's hard to become attached to the disembodied protagonists, whose motivations lack depth. Nevertheless, Dolan's meticulous direction and his bold use of the soundtrack attest to his undeniable talent.",
+    "english_translation_highlights": [
+      "doesn't quite manage to transcend its influences",
+      "constantly oscillates between homage and imitation",
+      "While the cinematography is undeniably striking",
+      "the screenplay, for its part, remains superficial",
+      "It's hard to become attached to the disembodied protagonists",
+      "whose motivations lack depth",
+      "undeniable talent"
+    ],
+    "english_question": "According to the critic, one of the major flaws of the film is:",
+    "english_options": [
+      "The overly stylized and unrealistic photography.",
+      "The blatant flimsiness of the screenplay and character archetypes.",
+      "The lack of originality in the use of the soundtrack.",
+      "The excess of references to action cinema masters."
     ]
   },
   {
@@ -675,6 +1192,19 @@
       "la rédaction de ce livre fut particulièrement laborieuse",
       "non seulement en raison de la complexité thématique",
       "mais aussi du défi que représentait l'articulation d'un récit non linéaire"
+    ],
+    "english_translation": "In this interview, writer Paul Nacker reflects on his creative process for his latest novel, *Shadows of the Past*. Unlike his previous works, which were marked by a strong autobiographical component, this narrative ventures into more philosophical territory. Nacker explores the weight of the past and the way memories shape our identity. He admits that writing this book was particularly laborious, not only because of the thematic complexity, but also because of the challenge of constructing a nonlinear narrative. Nevertheless, Nacker believes that this structure was necessary.",
+    "english_translation_highlights": [
+      "writing this book was particularly laborious",
+      "not only because of the thematic complexity",
+      "but also because of the challenge of constructing a nonlinear narrative"
+    ],
+    "english_question": "According to the author, one of the main difficulties in writing his/her latest novel was:",
+    "english_options": [
+      "The absence of significant autobiographical connections with the narrative thread.",
+      "The necessity of forging characters that are both authentic and psychologically credible.",
+      "The mastery of thematic complexities while navigating a non-linear narrative structure.",
+      "The crafting of philosophical dialogues that are both convincing and of substantial intellectual depth."
     ]
   },
   {
@@ -693,6 +1223,20 @@
       "au-delà de ses observations légères, Durand ne se prive pas d'aborder des sujets plus sérieux",
       "Il parvient à critiquer avec finesse la bureaucratie, la politique et même la technologie moderne, tout en gardant un ton délibérément léger",
       "Ce contraste entre des thèmes graves et son humour décalé fait de ce spectacle une réussite incontestable"
+    ],
+    "english_translation": "In his new one-man show, *Laugh to Keep from Crying*, comedian Alain Durand explores the absurdities of everyday life with biting irony. His ability to transform mundane situations, like standing in line at the post office or looking for a parking spot, into moments of pure comedy is simply remarkable. But beyond his lighthearted observations, Durand doesn't shy away from tackling more serious subjects. He manages to deftly criticize bureaucracy, politics, and even modern technology, all while maintaining a deliberately light tone. This contrast between serious themes and his offbeat humor makes the show an undeniable success.",
+    "english_translation_highlights": [
+      "His ability to transform mundane situations, like standing in line at the post office or looking for a parking spot, into moments of pure comedy is simply remarkable",
+      "beyond his lighthearted observations, Durand doesn't shy away from tackling more serious subjects",
+      "He manages to deftly criticize bureaucracy, politics, and even modern technology, all while maintaining a deliberately light tone",
+      "This contrast between serious themes and his offbeat humor makes the show an undeniable success"
+    ],
+    "english_question": "The strength of Alain Durand's show lies in:",
+    "english_options": [
+      "his use of simple and unsubtle humor.",
+      "his ability to make mundane situations comical while addressing serious subjects.",
+      "his unique approach to direct political criticism.",
+      "the total absence of serious themes in his sketches."
     ]
   },
   {
@@ -709,6 +1253,18 @@
     "highlights": [
       "Si la lenteur du rythme peut désorienter certains spectateurs",
       "l'abstraction du texte, avec ses longues pauses et ses dialogues fragmentés, pourrait en rebuter plus d’un"
+    ],
+    "english_translation": "This play offers a poignant reflection on solitude and the inability to communicate. The minimalist set, consisting solely of a few chairs and dim lighting, reinforces the sense of emptiness and isolation of the characters. While the slow pace may disorient some viewers, it is necessary to accentuate the unease the play seeks to evoke. The actors' performances are remarkably precise, capturing every nuance of emotion with a disconcerting intensity. However, the abstraction of the text, with its long pauses and fragmented dialogue, may put off more than a few.",
+    "english_translation_highlights": [
+      "While the slow pace may disorient some viewers",
+      "the abstraction of the text, with its long pauses and fragmented dialogue, may put off more than a few"
+    ],
+    "english_question": "According to the critic, a potentially confusing aspect of the play is:",
+    "english_options": [
+      "the lack of dialogue between the characters.",
+      "the slow pace and prolonged pauses in the text.",
+      "the excessive use of visual special effects.",
+      "the overabundance of secondary characters."
     ]
   },
   {
@@ -728,6 +1284,21 @@
       "cette approche reflète mieux la complexité de la réalité moderne",
       "où tout est constamment en mouvement",
       "où il n'existe plus de vérité absolue"
+    ],
+    "english_translation": "When asked about his latest film *Lost Illusions*, director Marc Antoine Leroy discusses his aesthetic and narrative choices. He explains that his main objective was to deconstruct the traditional codes of narrative cinema, by playing with temporality and refusing to provide a clear resolution to the plot. For him, this approach better reflects the complexity of modern reality, where everything is constantly in flux and where there is no longer any absolute truth. Leroy admits, however, that this desire for experimentation has sometimes been poorly received by audiences, with some critics faulting him for overly confusing storytelling.",
+    "english_translation_highlights": [
+      "his main objective was to deconstruct the traditional codes of narrative cinema",
+      "by playing with temporality",
+      "this approach better reflects the complexity of modern reality",
+      "where everything is constantly in flux",
+      "where there is no longer any absolute truth"
+    ],
+    "english_question": "According to the director, what is the objective of his decision to deconstruct the temporality in his film?",
+    "english_options": [
+      "Generate deliberate confusion within the narrative plot.",
+      "Illustrate the intrinsic complexity and evolving nature of contemporary reality.",
+      "Evoke universal and timeless truths inherent in modern society.",
+      "Facilitate the viewer's cognitive apprehension."
     ]
   }
 ]

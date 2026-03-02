@@ -9,7 +9,16 @@
       "D"
     ],
     "audio_transcript": "Transcription : — Je cherche mon billet d'avion, tu ne l'aurais pas vu ? — Ben si, juste devant toi, là, sur ton livre.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "— I'm looking for my plane ticket, you wouldn't have seen it? — Well yes, right in front of you, there, on your book.",
+    "english_translation_highlights": [],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_20_images/co-17-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
   },
   {
     "question_no": 2,
@@ -21,7 +30,16 @@
       "D"
     ],
     "audio_transcript": "Transcription : — Vous n'avez pas eu trop chaud pendant la balade ? — Heureusement non, on a profité de la fraîcheur de la forêt.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "— Weren't you too hot during the walk? — Fortunately no, we enjoyed the coolness of the forest.",
+    "english_translation_highlights": [],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_20_images/co-17-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
   },
   {
     "question_no": 3,
@@ -33,7 +51,16 @@
       "D"
     ],
     "audio_transcript": "Transcription : — Salut Alice, qu'est-ce que tu as fait hier soir ? — Bien, je suis allée boire un verre avec mes nouveaux collègues. C'était sympa.",
-    "right_option": "D"
+    "right_option": "D",
+    "english_translation": "— Hi Alice, what did you do last night? — Well, I went out for a drink with my new colleagues. It was nice.",
+    "english_translation_highlights": [],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_20_images/co-20-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
   },
   {
     "question_no": 4,
@@ -45,7 +72,16 @@
       "D"
     ],
     "audio_transcript": "Transcription : — Alors, tu es prêt pour le concours d'équitation ? — Il y a beaucoup de monde cette année, ça ne va pas être facile. — Oui, j'ai fait du cheval presque tous les jours cet été.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "— So, are you ready for the horse riding competition? — There are a lot of people this year, it's not going to be easy. — Yes, I rode horses almost every day this summer.",
+    "english_translation_highlights": [],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_20_images/co-20-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
   },
   {
     "question_no": 5,
@@ -57,7 +93,16 @@
       "un événement culturel."
     ],
     "audio_transcript": "Transcription : La bibliothèque va fermer ses portes dans 15 minutes. N’oubliez pas de bien remettre vos documents à leur place.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "The library will be closing its doors in 15 minutes. Don't forget to return your documents to their proper place.",
+    "english_translation_highlights": [],
+    "english_question": "This message informs about:",
+    "english_options": [
+      "the closure of the place.",
+      "the opening hours.",
+      "an exceptional promotion.",
+      "a cultural event."
+    ]
   },
   {
     "question_no": 6,
@@ -69,7 +114,16 @@
       "la direction de la sortie."
     ],
     "audio_transcript": "Transcription : Mesdames, messieurs, nous arrivons à la fin de la première période du match. Pendant la mi-temps, nous vous invitons à vous diriger vers les stands de restauration rapide installés près de l’entrée. Veillez cependant à regagner vos places pour la reprise du jeu.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Ladies and gentlemen, we are reaching the end of the first period of the match. During halftime, we invite you to head over to the fast food stands set up near the entrance. However, please make sure to return to your seats for the resumption of play.",
+    "english_translation_highlights": [],
+    "english_question": "This message announces:",
+    "english_options": [
+      "the end of a show.",
+      "a short break.",
+      "a safety instruction.",
+      "the direction of the exit."
+    ]
   },
   {
     "question_no": 7,
@@ -81,7 +135,16 @@
       "de nouvelles dates pour les soldes."
     ],
     "audio_transcript": "Transcription : Vente flash aujourd’hui de 14 heures à 16 heures : moins soixante-dix pour cent sur tout le rayon lingerie, offre réservée à nos clients privilégiés. La carte Atout Plus vous offre de nombreux avantages. Demandez-la, elle est gratuite.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Flash sale today from 2 PM to 4 PM: seventy percent off the entire lingerie department, offer reserved for our privileged customers. The Atout Plus card offers you many benefits. Ask for it, it's free.",
+    "english_translation_highlights": [],
+    "english_question": "This message announces:",
+    "english_options": [
+      "the launch of a loyalty card.",
+      "a promotion on a range of products.",
+      "the price of a new item.",
+      "new dates for the sales."
+    ]
   },
   {
     "question_no": 8,
@@ -93,7 +156,16 @@
       "annoncer un contrôle."
     ],
     "audio_transcript": "Transcription : Attention, des pickpockets peuvent être présents à bord de votre train. Nous vous invitons à surveiller vos effets personnels. Si vous êtes témoin d’un fait suspect, veuillez le signaler au contrôleur, qui reste à votre disposition dans la voiture 4, ou au personnel des guichets en gare.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Attention, pickpockets may be present on board your train. We invite you to keep an eye on your personal belongings. If you witness any suspicious activity, please report it to the conductor, who remains at your disposal in car 4, or to the ticket counter staff at the station.",
+    "english_translation_highlights": [],
+    "english_question": "This message is broadcast for:",
+    "english_options": [
+      "propose a service.",
+      "warn of a risk.",
+      "report an incident.",
+      "announce an inspection."
+    ]
   },
   {
     "question_no": 9,
@@ -105,7 +177,16 @@
       "informer du menu."
     ],
     "audio_transcript": "Transcription : Allô ma chérie, c’est maman. Il n’y a plus de pain à la maison, tu peux passer à la boulangerie s’il te plaît ? Achète quelques gâteaux aussi. Bisous, à ce soir.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "Hello darling, it's mom. There's no more bread at home, can you stop by the bakery please? Buy some cakes too. Kisses, see you tonight.",
+    "english_translation_highlights": [],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "ask for a favor.",
+      "invite to dinner.",
+      "suggest an outing.",
+      "inform about the menu."
+    ]
   },
   {
     "question_no": 10,
@@ -117,7 +198,16 @@
       "faire un reproche."
     ],
     "audio_transcript": "Transcription : Salut Emma, c’est Zacharie. Tu pourrais passer chez moi pour me rapporter mon livre d’anglais s’il te plaît ? Je l’ai oublié sur ton bureau hier quand je suis venu te voir. Merci.",
-    "right_option": "C"
+    "right_option": "C",
+    "english_translation": "Hi Emma, it's Zacharie. Could you stop by my place to bring back my English book please? I forgot it on your desk yesterday when I came to see you. Thanks.",
+    "english_translation_highlights": [],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "make an appointment.",
+      "express a thank you.",
+      "ask for a favor.",
+      "make a reproach."
+    ]
   },
   {
     "question_no": 11,
@@ -129,7 +219,16 @@
       "convoquer à une visite médicale."
     ],
     "audio_transcript": "Transcription : Bonjour Madame Keller, c’est le docteur Rafik. Nous nous sommes réunis avec mes confrères et je voudrais vous orienter vers l’un d’eux, un expert de votre pathologie. Merci de me rappeler.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "Hello Mrs. Keller, this is Doctor Rafik. We met with my colleagues and I would like to refer you to one of them, an expert in your condition. Please call me back.",
+    "english_translation_highlights": [],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "suggest a more specialized doctor.",
+      "inform of a schedule change.",
+      "announce the results of an exam.",
+      "summon to a medical visit."
+    ]
   },
   {
     "question_no": 12,
@@ -141,7 +240,16 @@
       "demander des précisions."
     ],
     "audio_transcript": "Transcription : Bonjour Monsieur Delmar, Je fais suite à notre entretien du 3 mars. Je vous remercie d’avoir répondu à nos questions, mais j’ai le regret de vous annoncer que nous avons décidé de recruter une personne avec plus d’expérience pour le poste. Je vous remercie pour votre intérêt.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Hello Mr. Delmar, I am following up on our interview of March 3rd. I thank you for answering our questions, but I regret to inform you that we have decided to recruit someone with more experience for the position. I thank you for your interest.",
+    "english_translation_highlights": [],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "schedule an interview.",
+      "reject an application.",
+      "offer an apology.",
+      "request further details."
+    ]
   },
   {
     "question_no": 13,
@@ -153,7 +261,16 @@
       "convoquer à une réunion."
     ],
     "audio_transcript": "Transcription : Madame Rio, vous avez gagné un déjeuner pour deux personnes au spa de Cabourg lundi prochain. Ce repas sera suivi d’une animation vous permettant de découvrir l’ensemble de notre gamme de produits cosmétiques. Vous allez recevoir un courriel de confirmation. À très bientôt.",
-    "right_option": "C"
+    "right_option": "C",
+    "english_translation": "Mrs. Rio, you have won a lunch for two at the Cabourg spa next Monday. This meal will be followed by a demonstration allowing you to discover our entire range of cosmetic products. You will receive a confirmation email. See you very soon.",
+    "english_translation_highlights": [],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "present new products.",
+      "schedule an appointment.",
+      "invite to an event.",
+      "summon to a meeting."
+    ]
   },
   {
     "question_no": 14,
@@ -165,7 +282,16 @@
       "invite à commencer sans elle."
     ],
     "audio_transcript": "Transcription : Bonjour Noémie, c’est Catherine. Il y a un accident sur l’autoroute, je vais certainement arriver avec du retard pour la réunion. Ne m’attendez pas et faites au moins la présentation des statistiques. On parlera du nouveau projet plus tard, quand je serai arrivée.",
-    "right_option": "D"
+    "right_option": "D",
+    "english_translation": "Hello Noémie, this is Catherine. There's an accident on the highway, so I'll certainly be late for the meeting. Don't wait for me and at least go ahead with the statistics presentation. We'll talk about the new project later, when I've arrived.",
+    "english_translation_highlights": [],
+    "english_question": "The person who is calling:",
+    "english_options": [
+      "modifies the agenda.",
+      "changes the time of the meeting.",
+      "cancels the appointment.",
+      "invites to start without her."
+    ]
   },
   {
     "question_no": 15,
@@ -177,7 +303,16 @@
       "ne donne pas son avis."
     ],
     "audio_transcript": "Transcription : Quand je vois mon fils jouer avec une poupée, ben j’avoue que ça me choque un peu. Les garçons ont besoin de bouger, de courir.",
-    "right_option": "C"
+    "right_option": "C",
+    "english_translation": "When I see my son playing with a doll, well I admit it shocks me a little. Boys need to move around, to run.",
+    "english_translation_highlights": [],
+    "english_question": "The person being questioned:",
+    "english_options": [
+      "is totally in favor.",
+      "is in favor under certain conditions.",
+      "is totally against.",
+      "does not give an opinion."
+    ]
   },
   {
     "question_no": 16,
@@ -189,7 +324,16 @@
       "ne donne pas son avis."
     ],
     "audio_transcript": "Transcription : Mon fils se déguise avec des robes et je trouve ça normal. Je me dis que c’est un enfant heureux, et ça me rend fier.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "My son dresses up in dresses and I find that normal. I tell myself that he's a happy child, and that makes me proud.",
+    "english_translation_highlights": [],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "is totally in favor.",
+      "is in favor under certain conditions.",
+      "is totally against.",
+      "does not give an opinion."
+    ]
   },
   {
     "question_no": 17,
@@ -201,7 +345,16 @@
       "ne donne pas son avis."
     ],
     "audio_transcript": "Transcription : Je n’ai pas d’enfant, alors je ne me suis jamais posé la question. Franchement, je laisse les parents faire leur choix.",
-    "right_option": "D"
+    "right_option": "D",
+    "english_translation": "I don't have children, so I've never asked myself that question. Honestly, I let parents make their own choice.",
+    "english_translation_highlights": [],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "is totally in favor.",
+      "is in favor under certain conditions.",
+      "is totally against.",
+      "does not give an opinion."
+    ]
   },
   {
     "question_no": 18,
@@ -213,7 +366,16 @@
       "ne se prononce pas."
     ],
     "audio_transcript": "Transcription : C’est une option que nous devrions tous avoir. Moi, je suis libéral, je pense que c’est quelque chose qui devrait être accessible à tout le monde.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "That's an option we should all have. Personally, I'm a liberal, I think it's something that should be accessible to everyone.",
+    "english_translation_highlights": [],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "is totally in favor.",
+      "is rather in favor.",
+      "is totally against.",
+      "does not express an opinion."
+    ]
   },
   {
     "question_no": 19,
@@ -225,7 +387,16 @@
       "ne se prononce pas."
     ],
     "audio_transcript": "Transcription : C’est vrai que, personnellement, je ne le ferais pas, ça me fait peur, j’ai quelques réticences, mais chacun est libre de choisir sa propre famille.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "It's true that, personally, I wouldn't do it, it scares me, I have some reservations, but everyone is free to choose their own family.",
+    "english_translation_highlights": [],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "is totally in favor.",
+      "is rather in favor.",
+      "is totally against.",
+      "does not express an opinion."
+    ]
   },
   {
     "question_no": 20,
@@ -237,7 +408,16 @@
       "ne se prononce pas."
     ],
     "audio_transcript": "Transcription : Pour moi, la famille, c’est vraiment inutile. En fait, je ne comprends pas qu’on ait des enfants, adoptés ou biologiques, dans un monde qui devient fou.",
-    "right_option": "C"
+    "right_option": "C",
+    "english_translation": "For me, family is truly pointless. In fact, I don't understand why people have children, adopted or biological, in a world that's going crazy.",
+    "english_translation_highlights": [],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "is totally in favor.",
+      "is rather in favor.",
+      "is totally against.",
+      "does not express an opinion."
+    ]
   },
   {
     "question_no": 21,
@@ -249,7 +429,16 @@
       "force le promeneur à être vigilant."
     ],
     "audio_transcript": "Transcription : C’est un insecte très beau, très coloré. On pourrait croire que c’est un papillon, mais ce n’en est pas un : c’est une punaise. Le fulgore tacheté se nourrit en groupe de la sève des plantes et des arbres, ce qui affaiblit considérablement ces derniers. Il représente une véritable menace pour l’industrie viticole et forestière, mais aussi pour les arbres fruitiers. On sait que cet insecte voyage facilement : il s’accroche à toutes sortes de structures. La femelle peut pondre ses œufs sur n’importe quelle surface dure et lisse, comme un véhicule stationné dans une zone infestée. Avant de rentrer chez soi, il est essentiel de faire le tour de son véhicule et de l’inspecter visuellement. Si on en trouve un, l’important n’est pas seulement de le tuer ou de l’écraser puis de l’abandonner là. Il faut absolument signaler sa présence afin que des mesures puissent être prises.",
-    "right_option": "D"
+    "right_option": "D",
+    "english_translation": "It's a very beautiful, very colorful insect. You might think it's a butterfly, but it's not: it's a bug. The spotted lanternfly feeds in groups on the sap of plants and trees, which considerably weakens them. It represents a real threat to the wine and forestry industries, as well as to fruit trees. This insect is known to travel easily: it clings to all sorts of structures. The female can lay her eggs on any hard, smooth surface, such as a vehicle parked in an infested area. Before heading home, it's essential to walk around your vehicle and visually inspect it. If you find one, the important thing is not just to kill it or crush it and leave it there. It's absolutely necessary to report its presence so that measures can be taken.",
+    "english_translation_highlights": [],
+    "english_question": "The insect in question:",
+    "english_options": [
+      "has a very varied diet.",
+      "is found in isolated areas.",
+      "is an endangered species.",
+      "forces the walker to be vigilant."
+    ]
   },
   {
     "question_no": 22,
@@ -261,7 +450,16 @@
       "encourage un rythme de travail ralenti."
     ],
     "audio_transcript": "Transcription : L’ennui au travail, ça vous parle ? Deux livres viennent de paraître à quelques jours d’intervalle pour décrire les ravages de ce nouveau syndrome. Un mal aux conséquences redoutables, qui toucherait pas moins de 30 % des salariés. Être payé à ne rien faire, pour beaucoup, c’est immoral. C’est la honte. On n’ose pas en parler autour de soi, et tous les témoignages rapportés dans ces livres le confirment. Ne pas travailler fatigue. Les salariés privés de tâches utiles sont épuisés. Ils n’arrivent plus à accomplir quoi que ce soit, même les plus petites missions qu’on leur confie. Ils se désaccoutument du travail. Les conséquences peuvent être graves : dépression, risque accru d’accidents cardiovasculaires, voire tentatives de suicide. Et à long terme, ces chômeurs avec un emploi deviennent parfois… inemployables.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Boredom at work—does that ring a bell? Two books have just been published within days of each other describing the ravages of this new syndrome. An affliction with formidable consequences, said to affect no fewer than 30% of employees. Being paid to do nothing—for many, it's immoral. It's shameful. People don't dare talk about it with those around them, and all the testimonies reported in these books confirm it. Not working is exhausting. Employees deprived of useful tasks are worn out. They can no longer accomplish anything at all, even the smallest assignments given to them. They become unaccustomed to work. The consequences can be serious: depression, increased risk of cardiovascular events, even suicide attempts. And in the long term, these unemployed people with a job sometimes become… unemployable.",
+    "english_translation_highlights": [],
+    "english_question": "This column:",
+    "english_options": [
+      "denounces intense work rhythms.",
+      "questions the place of work in our lives.",
+      "reveals a paradox related to workload.",
+      "encourages a slowed-down work rhythm."
+    ]
   },
   {
     "question_no": 23,
@@ -273,7 +471,16 @@
       "un usage dans le milieu scolaire."
     ],
     "audio_transcript": "Transcription : Journaliste : François Grosjean, bonjour. Vous êtes psycholinguiste spécialisé dans le bilinguisme. Quelle définition en donnez-vous aujourd’hui ? François Grosjean : Pendant longtemps, on considérait qu’une personne bilingue devait avoir une parfaite maîtrise de deux langues. Il fallait qu’elles aient été acquises pendant l’enfance et qu’elles soient parlées sans accent. Or, de nombreuses personnes vivent avec deux langues sans pour autant les maîtriser parfaitement. Peu à peu, les chercheurs ont commencé à mettre l’accent sur un autre critère : l’utilisation régulière des deux langues. Journaliste : Que transmettent les parents à travers la langue ? François Grosjean : Ils transmettent un héritage familial, mais aussi des codes culturels. Si les parents ont des origines culturelles différentes, l’enfant peut devenir à la fois bilingue et biculturel. Il est essentiel que la famille élabore un projet linguistique clair, afin que chaque langue ait une place bien définie dans le foyer.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "Journalist: François Grosjean, hello. You are a psycholinguist specializing in bilingualism. How do you define it today? François Grosjean: For a long time, a bilingual person was considered to need perfect command of two languages. They had to have been acquired during childhood and spoken without an accent. However, many people live with two languages without necessarily mastering them perfectly. Gradually, researchers began to emphasize a different criterion: the regular use of both languages. Journalist: What do parents pass on through language? François Grosjean: They pass on a family heritage, but also cultural codes. If the parents have different cultural backgrounds, the child can become both bilingual and bicultural. It is essential that the family develop a clear language plan, so that each language has a well-defined place in the home.",
+    "english_translation_highlights": [],
+    "english_question": "Bilingualism implies:",
+    "english_options": [
+      "a frequent use of two languages.",
+      "the knowledge of two cultures.",
+      "the adoption of two nationalities.",
+      "a use in the school environment."
+    ]
   },
   {
     "question_no": 24,
@@ -285,7 +492,16 @@
       "exposer leurs enfants à un maximum de langues."
     ],
     "audio_transcript": "Transcription : Journaliste : François Grosjean, bonjour. Vous êtes psycholinguiste spécialisé dans le bilinguisme. Quelle définition en donnez-vous aujourd’hui ? François Grosjean : Pendant longtemps, on considérait qu’une personne bilingue devait avoir une parfaite maîtrise de deux langues. Il fallait qu’elles aient été acquises pendant l’enfance et qu’elles soient parlées sans accent. Or, de nombreuses personnes vivent avec deux langues sans pour autant les maîtriser parfaitement. Peu à peu, les chercheurs ont commencé à mettre l’accent sur un autre critère : l’utilisation régulière des deux langues. Journaliste : Que transmettent les parents à travers la langue ? François Grosjean : Ils transmettent un héritage familial, mais aussi des codes culturels. Si les parents ont des origines culturelles différentes, l’enfant peut devenir à la fois bilingue et biculturel. Il est essentiel que la famille élabore un projet linguistique clair, afin que chaque langue ait une place bien définie dans le foyer.",
-    "right_option": "C"
+    "right_option": "C",
+    "english_translation": "Journalist: François Grosjean, hello. You are a psycholinguist specializing in bilingualism. How do you define it today? François Grosjean: For a long time, a bilingual person was considered to have perfect command of two languages. They had to have been acquired during childhood and spoken without an accent. However, many people live with two languages without necessarily mastering them perfectly. Gradually, researchers began to emphasize a different criterion: the regular use of both languages. Journalist: What do parents pass on through language? François Grosjean: They pass on a family heritage, but also cultural codes. If the parents have different cultural backgrounds, the child can become both bilingual and bicultural. It is essential that the family develop a clear linguistic plan, so that each language has a well-defined place in the home.",
+    "english_translation_highlights": [],
+    "english_question": "François Grosjean encourages parents to:",
+    "english_options": [
+      "favor one language over another.",
+      "support a perfect mastery of languages.",
+      "determine the uses of each of the languages.",
+      "expose their children to as many languages as possible."
+    ]
   },
   {
     "question_no": 25,
@@ -297,7 +513,16 @@
       "d'acquérir un meilleur niveau d'anglais."
     ],
     "audio_transcript": "Transcription : Journaliste : Myriam Wauck, vous êtes à l’origine de ce projet interculturel. Pourquoi l’avoir lancé ? Myriam Wauck : Il y avait un besoin énorme de professeurs. On s’est dit qu’avec un peu d’aide, on pourrait trouver une solution. Le ministère de l’Éducation nous a rapidement soutenus. Journaliste : Au terme de leur formation, ces étudiants obtiennent un contrat d’un an en tant que professeurs, c’est bien cela ? Myriam Wauck : Oui, tout à fait. Et les écoles ont tout de suite été intéressées. Elles manquent cruellement de personnel. En plus, elles accueillent de nombreux élèves étrangers et se posent souvent la question de l’intercompréhension. Elles sont donc ravies d’avoir des enseignants qui peuvent les accompagner dans cette diversité.",
-    "right_option": "C"
+    "right_option": "C",
+    "english_translation": "Journalist: Myriam Wauck, you are the one behind this intercultural project. Why did you launch it? Myriam Wauck: There was an enormous need for teachers. We thought that with a little help, we could find a solution. The Ministry of Education quickly supported us. Journalist: Upon completing their training, these students receive a one-year contract as teachers, is that correct? Myriam Wauck: Yes, exactly. And the schools were immediately interested. They are desperately short of staff. Moreover, they have many foreign students and often face the question of mutual understanding. So they are delighted to have teachers who can support them in navigating this diversity.",
+    "english_translation_highlights": [],
+    "english_question": "Miriam Vock's project allows newcomers to:",
+    "english_options": [
+      "to meet French-speaking teachers.",
+      "to obtain a diploma equivalence.",
+      "to enhance the value of their professional experience.",
+      "to acquire a better level of English."
+    ]
   },
   {
     "question_no": 26,
@@ -309,7 +534,16 @@
       "l'enseignement des langues étrangères."
     ],
     "audio_transcript": "Transcription : Journaliste : Myriam Wauck, vous êtes à l’origine de ce projet interculturel. Pourquoi l’avoir lancé ? Myriam Wauck : Il y avait un besoin énorme de professeurs. On s’est dit qu’avec un peu d’aide, on pourrait trouver une solution. Le ministère de l’Éducation nous a rapidement soutenus. Journaliste : Au terme de leur formation, ces étudiants obtiennent un contrat d’un an en tant que professeurs, c’est bien cela ? Myriam Wauck : Oui, tout à fait. Et les écoles ont tout de suite été intéressées. Elles manquent cruellement de personnel. En plus, elles accueillent de nombreux élèves étrangers et se posent souvent la question de l’intercompréhension. Elles sont donc ravies d’avoir des enseignants qui peuvent les accompagner dans cette diversité.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Journalist: Myriam Wauck, you are the one behind this intercultural project. Why did you launch it? Myriam Wauck: There was an enormous need for teachers. We thought that with a little help, we could find a solution. The Ministry of Education quickly supported us. Journalist: Upon completing their training, these students receive a one-year contract as teachers, is that correct? Myriam Wauck: Yes, exactly. And the schools were immediately interested. They are desperately short of staff. In addition, they welcome many foreign students and often face the question of mutual understanding. So they are delighted to have teachers who can support them in this diversity.",
+    "english_translation_highlights": [],
+    "english_question": "Foreign professors contribute to:",
+    "english_options": [
+      "the organization of tutoring classes.",
+      "the integration of newcomers.",
+      "the evolution of teaching practices.",
+      "the teaching of foreign languages."
+    ]
   },
   {
     "question_no": 27,
@@ -321,7 +555,16 @@
       "dévoile son besoin de se démarquer des autres."
     ],
     "audio_transcript": "Transcription : Journaliste : Dans votre roman, deux frères s’opposent. Le premier est poète, le second est dans le brouillard. L’un utilise ses mots, l’autre ses poings. L’un incarne l’imaginaire en fuite, l’autre la survie au quotidien. Pourquoi cette opposition ? Louis Tremblay : Quand on est confronté à des conditions de vie difficiles, on peut choisir deux chemins. Soit on s’évade dans le rêve, on tente de transcender sa condition par l’imaginaire. Soit, au contraire, on se dit que la réalité est trop brutale pour perdre du temps à construire des mythes. C’est ce qui se passe entre ces deux frères : l’un ne comprend pas l’autre. Journaliste : Cela vous permet-il de raconter une pluralité de pensées, de réalités ? Avez-vous, vous-même, ce goût du contraste, de la nuance, voire du paradoxe ? Louis Tremblay : Dans la vie, je ne cherche pas forcément le contraste. Mais pour comprendre le monde, il faut apprendre à regarder avec les yeux de l’autre, à entendre avec ses oreilles. C’est essentiel de raconter ces différences, parce que ce sont elles qui nous fondent en tant que communauté humaine.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "Journalist: In your novel, two brothers are at odds. The first is a poet, the second is lost in a fog. One uses his words, the other his fists. One embodies the imaginary in flight, the other day-to-day survival. Why this opposition?\n\nLouis Tremblay: When you're faced with difficult living conditions, you can choose two paths. Either you escape into dreams, you try to transcend your condition through the imaginary. Or, on the contrary, you tell yourself that reality is too brutal to waste time building myths. That's what happens between these two brothers: one doesn't understand the other.\n\nJournalist: Does this allow you to portray a plurality of thoughts, of realities? Do you yourself have this taste for contrast, for nuance, or even for paradox?\n\nLouis Tremblay: In life, I don't necessarily seek out contrast. But to understand the world, you have to learn to see through the eyes of the other, to hear with their ears. It's essential to tell these differences, because they are what define us as a human community.",
+    "english_translation_highlights": [],
+    "english_question": "In his/her book, the author:",
+    "english_options": [
+      "highlights the divergences of the protagonists.",
+      "attempts to analyze the consequences of violence.",
+      "identifies with the quest of his/her characters.",
+      "reveals his/her need to stand out from others."
+    ]
   },
   {
     "question_no": 28,
@@ -333,7 +576,16 @@
       "les sacrifices inévitables de chacun."
     ],
     "audio_transcript": "Transcription : Journaliste : Dans votre roman, deux frères s’opposent. Le premier est poète, le second est dans le brouillard. L’un utilise ses mots, l’autre ses poings. L’un incarne l’imaginaire en fuite, l’autre la survie au quotidien. Pourquoi cette opposition ? Louis Tremblay : Quand on est confronté à des conditions de vie difficiles, on peut choisir deux chemins. Soit on s’évade dans le rêve, on tente de transcender sa condition par l’imaginaire. Soit, au contraire, on se dit que la réalité est trop brutale pour perdre du temps à construire des mythes. C’est ce qui se passe entre ces deux frères : l’un ne comprend pas l’autre. Journaliste : Cela vous permet-il de raconter une pluralité de pensées, de réalités ? Avez-vous, vous-même, ce goût du contraste, de la nuance, voire du paradoxe ? Louis Tremblay : Dans la vie, je ne cherche pas forcément le contraste. Mais pour comprendre le monde, il faut apprendre à regarder avec les yeux de l’autre, à entendre avec ses oreilles. C’est essentiel de raconter ces différences, parce que ce sont elles qui nous fondent en tant que communauté humaine.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "Journalist: In your novel, two brothers are at odds. The first is a poet, the second is lost in a fog. One uses his words, the other his fists. One embodies the imaginary in flight, the other day-to-day survival. Why this opposition?\n\nLouis Tremblay: When you're faced with difficult living conditions, you can choose two paths. Either you escape into dreams, you try to transcend your condition through the imaginary. Or, on the contrary, you tell yourself that reality is too brutal to waste time building myths. That's what happens between these two brothers: one doesn't understand the other.\n\nJournalist: Does this allow you to portray a plurality of thoughts, of realities? Do you yourself have this taste for contrast, for nuance, or even paradox?\n\nLouis Tremblay: In life, I don't necessarily seek out contrast. But to understand the world, you have to learn to see through the eyes of the other, to hear with their ears. It's essential to tell these differences, because they are what define us as a human community.",
+    "english_translation_highlights": [],
+    "english_question": "According to the author, the functioning of humanity is based on:",
+    "english_options": [
+      "the ability to put oneself in someone else's shoes.",
+      "the building of a sense of belonging.",
+      "the adherence to certain universal principles.",
+      "the inevitable sacrifices of each individual."
+    ]
   },
   {
     "question_no": 29,
@@ -345,7 +597,16 @@
       "de se procurer gratuitement du plastique pour le recycler."
     ],
     "audio_transcript": "Transcription : À deux pas de la plage de Piriápolis, sous la chaleur étouffante de l'été austral, des personnes défilent dans une boutique de surf, les bras chargés de déchets plastiques. Dans son sac, Fernando apporte des dizaines de bouteilles vides et d’emballages en plastique. L'idée est de valoriser le recyclage en échangeant des kilos de plastique contre des Plastic Coins, une monnaie virtuelle que l’on peut utiliser dans certains commerces de Piriápolis. Ces Plastic Coins, reçus en échange des déchets, permettent d’obtenir des réductions dans des établissements partenaires du projet : restaurants, boutiques, mais aussi un salon de coiffure ou une école de surf. « Pour le moment, je les échange contre des produits ménagers biodégradables. Par exemple, pour trois cents Plastic Coins, je peux avoir trois kilos de lessive biodégradable. » Le but est de donner de la valeur au recyclage et d’inciter les gens à trier leurs déchets. Gustavo Abeiga, qui travaille dans la boutique Sorbachammar — l’un des trois points de collecte mis en place — explique le fonctionnement du projet : « Ils viennent ici après s’être enregistrés en ligne. Nous avons une balance : un kilo de plastique génère 100 Plasticons. Si le plastique vient de la plage, c’est 200 Plasticons par kilo, et 400 s’il s’agit de microplastiques. » Les déchets plastiques sont ensuite transmis au centre public de recyclage. L’idée est de leur faciliter le travail et d’augmenter la quantité de plastique recyclé, comme l’explique Nicole Houillot, dessinatrice industrielle à l’origine du projet Plastic Coin : « Notre idée de départ était de fabriquer des produits recyclés. Mais pour cela, il faut de gros volumes de plastique. C’est comme ça qu’est née l’idée du Plastic Coin. On s’est demandé comment collecter davantage : comment inciter économiquement les gens à nous apporter du plastique. Nous n’avions pas d’argent, alors nous avons inventé une monnaie et cherché des partenariats pour lui donner de la valeur. » Juan Riveiro, l’autre initiateur de Plastic Coin, est informaticien en télécommunications, âgé de 34 ans. Il insiste sur la volonté de transparence du projet, qui les a conduits à utiliser une cryptomonnaie garantissant la traçabilité des déchets : « Nous voulons être totalement transparents sur les quantités de plastique récupérées, vendues, données à des coopératives ou non recyclables. Grâce à la blockchain, nous avons une traçabilité sécurisée. » Encore en phase d’expérimentation, le projet a déjà séduit plus d’un millier de personnes et permis de récolter 1 300 kilos de plastique en un mois. Si l’objectif est désormais de généraliser le dispositif à l’échelle nationale, Juan Riveiro et Nicole Houillot assurent avoir déjà été contactés par des personnes intéressées aux États-Unis, en Finlande ou en France. Théo Conscience, de retour de Piriápolis – RFI",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "A stone's throw from the beach of Piriápolis, under the stifling heat of the austral summer, people file into a surf shop, their arms loaded with plastic waste. In his bag, Fernando brings dozens of empty bottles and plastic packaging. The idea is to give value to recycling by exchanging kilos of plastic for Plastic Coins, a virtual currency that can be used in certain shops in Piriápolis. These Plastic Coins, received in exchange for waste, allow people to get discounts at partner establishments of the project: restaurants, shops, but also a hair salon or a surf school. \"For now, I exchange them for biodegradable household products. For example, for three hundred Plastic Coins, I can get three kilos of biodegradable laundry detergent.\" The goal is to give value to recycling and encourage people to sort their waste. Gustavo Abeiga, who works in the Sorbachammar shop — one of the three collection points set up — explains how the project works: \"They come here after registering online. We have a scale: one kilo of plastic generates 100 Plasticons. If the plastic comes from the beach, it's 200 Plasticons per kilo, and 400 if it's microplastics.\" The plastic waste is then sent to the public recycling center. The idea is to make their job easier and increase the amount of plastic recycled, as Nicole Houillot, an industrial designer behind the Plastic Coin project, explains: \"Our initial idea was to manufacture recycled products. But for that, you need large volumes of plastic. That's how the Plastic Coin idea was born. We asked ourselves how to collect more: how to economically incentivize people to bring us plastic. We had no money, so we invented a currency and sought partnerships to give it value.\" Juan Riveiro, the other initiator of Plastic Coin, is a telecommunications IT specialist, aged 34. He emphasizes the project's commitment to transparency, which led them to use a cryptocurrency guaranteeing the traceability of waste: \"We want to be completely transparent about the quantities of plastic recovered, sold, given to cooperatives, or non-recyclable. Thanks to blockchain, we have secure traceability.\" Still in the experimental phase, the project has already attracted more than a thousand people and collected 1,300 kilos of plastic in one month. While the goal is now to roll out the system nationwide, Juan Riveiro and Nicole Houillot say they have already been contacted by interested parties in the United States, Finland, and France. Théo Conscience, reporting from Piriápolis – RFI",
+    "english_translation_highlights": [],
+    "english_question": "Virtual currency allows:",
+    "english_options": [
+      "to protect citizens' savings thanks to its traceability.",
+      "to obtain commercial advantages following a donation of plastic waste.",
+      "to remunerate the employees of the Piriapolis recycling center.",
+      "to obtain plastic for free in order to recycle it."
+    ]
   },
   {
     "question_no": 30,
@@ -357,7 +618,16 @@
       "cherche à s'étendre sur l'ensemble du pays."
     ],
     "audio_transcript": "Transcription : À deux pas de la plage de Piriápolis, sous la chaleur étouffante de l'été austral, des personnes défilent dans une boutique de surf, les bras chargés de déchets plastiques. Dans son sac, Fernando apporte des dizaines de bouteilles vides et d’emballages en plastique. L'idée est de valoriser le recyclage en échangeant des kilos de plastique contre des Plastic Coins, une monnaie virtuelle que l’on peut utiliser dans certains commerces de Piriápolis. Ces Plastic Coins, reçus en échange des déchets, permettent d’obtenir des réductions dans des établissements partenaires du projet : restaurants, boutiques, mais aussi un salon de coiffure ou une école de surf. « Pour le moment, je les échange contre des produits ménagers biodégradables. Par exemple, pour trois cents Plastic Coins, je peux avoir trois kilos de lessive biodégradable. » Le but est de donner de la valeur au recyclage et d’inciter les gens à trier leurs déchets. Gustavo Abeiga, qui travaille dans la boutique Sorbachammar — l’un des trois points de collecte mis en place — explique le fonctionnement du projet : « Ils viennent ici après s’être enregistrés en ligne. Nous avons une balance : un kilo de plastique génère 100 Plasticons. Si le plastique vient de la plage, c’est 200 Plasticons par kilo, et 400 s’il s’agit de microplastiques. » Les déchets plastiques sont ensuite transmis au centre public de recyclage. L’idée est de leur faciliter le travail et d’augmenter la quantité de plastique recyclé, comme l’explique Nicole Houillot, dessinatrice industrielle à l’origine du projet Plastic Coin : « Notre idée de départ était de fabriquer des produits recyclés. Mais pour cela, il faut de gros volumes de plastique. C’est comme ça qu’est née l’idée du Plastic Coin. On s’est demandé comment collecter davantage : comment inciter économiquement les gens à nous apporter du plastique. Nous n’avions pas d’argent, alors nous avons inventé une monnaie et cherché des partenariats pour lui donner de la valeur. » Juan Riveiro, l’autre initiateur de Plastic Coin, est informaticien en télécommunications, âgé de 34 ans. Il insiste sur la volonté de transparence du projet, qui les a conduits à utiliser une cryptomonnaie garantissant la traçabilité des déchets : « Nous voulons être totalement transparents sur les quantités de plastique récupérées, vendues, données à des coopératives ou non recyclables. Grâce à la blockchain, nous avons une traçabilité sécurisée. » Encore en phase d’expérimentation, le projet a déjà séduit plus d’un millier de personnes et permis de récolter 1 300 kilos de plastique en un mois. Si l’objectif est désormais de généraliser le dispositif à l’échelle nationale, Juan Riveiro et Nicole Houillot assurent avoir déjà été contactés par des personnes intéressées aux États-Unis, en Finlande ou en France. Théo Conscience, de retour de Piriápolis – RFI",
-    "right_option": "D"
+    "right_option": "D",
+    "english_translation": "A stone's throw from the beach of Piriápolis, under the stifling heat of the austral summer, people file into a surf shop, their arms loaded with plastic waste. In his bag, Fernando brings dozens of empty bottles and plastic packaging. The idea is to give value to recycling by exchanging kilos of plastic for Plastic Coins, a virtual currency that can be used in certain shops in Piriápolis. These Plastic Coins, received in exchange for waste, allow people to get discounts at partner establishments of the project: restaurants, shops, but also a hair salon or a surf school. \"For now, I exchange them for biodegradable household products. For example, for three hundred Plastic Coins, I can get three kilos of biodegradable laundry detergent.\" The goal is to give value to recycling and encourage people to sort their waste. Gustavo Abeiga, who works at the Sorbachammar shop — one of the three collection points set up — explains how the project works: \"They come here after registering online. We have a scale: one kilo of plastic generates 100 Plasticons. If the plastic comes from the beach, it's 200 Plasticons per kilo, and 400 if it's microplastics.\" The plastic waste is then sent to the public recycling center. The idea is to make their job easier and increase the amount of plastic recycled, as Nicole Houillot, an industrial designer behind the Plastic Coin project, explains: \"Our initial idea was to make recycled products. But for that, you need large volumes of plastic. That's how the idea of Plastic Coin was born. We asked ourselves how to collect more: how to economically incentivize people to bring us plastic. We had no money, so we invented a currency and sought partnerships to give it value.\" Juan Riveiro, the other initiator of Plastic Coin, is a telecommunications IT specialist, aged 34. He emphasizes the project's commitment to transparency, which led them to use a cryptocurrency ensuring the traceability of waste: \"We want to be completely transparent about the quantities of plastic recovered, sold, given to cooperatives, or non-recyclable. Thanks to blockchain, we have secure traceability.\" Still in its experimental phase, the project has already attracted more than a thousand people and collected 1,300 kilos of plastic in one month. While the objective is now to expand the system nationwide, Juan Riveiro and Nicole Houillot say they have already been contacted by interested parties in the United States, Finland, and France. Théo Conscience, reporting from Piriápolis – RFI",
+    "english_translation_highlights": [],
+    "english_question": "This initiative:",
+    "english_options": [
+      "is rooted in Uruguay's humanitarian tradition.",
+      "is gradually establishing itself on the South American continent.",
+      "aims for immediate international expansion.",
+      "seeks to expand across the entire country."
+    ]
   },
   {
     "question_no": 31,
@@ -369,7 +639,16 @@
       "améliorer sa réputation dans le milieu."
     ],
     "audio_transcript": "Transcription : Fort du succès retentissant de la première double greffe de mains sur un patient, la même équipe va tenter aujourd'hui de rééditer cet exploit sur un jeune adolescent amputé des deux bras après un grave accident de ski lors d'une sortie scolaire.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Buoyed by the resounding success of the first double hand transplant on a patient, the same team will attempt today to repeat this feat on a young teenager who had both arms amputated after a serious skiing accident during a school trip.",
+    "english_translation_highlights": [],
+    "english_question": "The medical team wishes to:",
+    "english_options": [
+      "strengthen prevention in schools.",
+      "undergo another surgical operation.",
+      "specialize in sports medicine.",
+      "improve his reputation in the field."
+    ]
   },
   {
     "question_no": 32,
@@ -381,7 +660,16 @@
       "le remplacement du ministre."
     ],
     "audio_transcript": "Transcription : C'est aujourd'hui que doit avoir lieu l'appel d'offres pour la privatisation de certains services du plus grand musée londonien. Des salariés plus flexibles, des subventions portées disparues, les syndicats dénoncent une déclaration de guerre qui fait partie de la politique gouvernementale.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Today is the day the call for tenders is due to take place for the privatization of certain services at London's largest museum. More flexible employees, subsidies gone missing—the unions are denouncing a declaration of war that is part of government policy.",
+    "english_translation_highlights": [],
+    "english_question": "The stated project has led to:",
+    "english_options": [
+      "the closure of the museum.",
+      "the anger of the social partners.",
+      "the dismissal of employees.",
+      "the replacement of the minister."
+    ]
   },
   {
     "question_no": 33,
@@ -393,7 +681,16 @@
       "fait l'unanimité auprès des citoyens."
     ],
     "audio_transcript": "Transcription : La voiture polluante semble condamnée à n'être bientôt qu'un vestige du passé. L'alternative devra répondre à une injonction contradictoire : vitesse et écologie. Une innovation très populaire récente concilie l'une et l'autre : la trottinette électrique. Très pratique, elle est décriée par ceux qui la trouvent dangereuse. Au bout de quelques mois, Paris et les autres grandes villes séduites par le dispositif ont commencé à légiférer pour contrer les effets négatifs de cette nouvelle tendance. Comme pour toute nouveauté, il faut penser à la régulation qui accompagne l'innovation.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "The polluting car seems destined to soon be nothing more than a relic of the past. The alternative will need to meet a contradictory demand: speed and ecology. A very popular recent innovation reconciles both: the electric scooter. Very practical, it is criticized by those who find it dangerous. After a few months, Paris and other major cities won over by the concept began to legislate to counter the negative effects of this new trend. As with any novelty, one must consider the regulation that accompanies innovation.",
+    "english_translation_highlights": [],
+    "english_question": "In the field of transportation, this innovation:",
+    "english_options": [
+      "requires the establishment of rules.",
+      "struggles to break through and develop.",
+      "is far from rivaling the car.",
+      "is unanimously supported by citizens."
+    ]
   },
   {
     "question_no": 34,
@@ -405,7 +702,16 @@
       "les failles de sécurité en ligne face aux escroqueries."
     ],
     "audio_transcript": "Transcription : Parmi les pirates du numérique, il y a les cyber-escrocs, et en particulier ceux qui exercent depuis des pays émergents : des jeunes, principalement, opérant depuis des cybercafés et concevant des arnaques par mail qui inondent les serveurs occidentaux. Comment ces arnaques se nourrissent-elles du contexte social, politique et historique ? Au fond, cela s'inscrit dans une pratique très ancienne du banditisme social, avec des intrigues qui se moulent sur le même principe : une supercherie à l'avance de frais. Et sur le même procédé, puisqu'il s'agit de susciter l'empathie auprès de personnes spécifiques et, de ce fait, arriver à les manipuler.",
-    "right_option": "B"
+    "right_option": "B",
+    "english_translation": "Among the digital pirates, there are cyber-scammers, and in particular those who operate from emerging countries: mainly young people, working from cybercafés and devising email scams that flood Western servers. How do these scams feed off the social, political, and historical context? Fundamentally, this falls within a very old practice of social banditry, with schemes that follow the same principle: an advance-fee fraud. And the same method, since the goal is to elicit empathy from specific individuals and, in doing so, manage to manipulate them.",
+    "english_translation_highlights": [],
+    "english_question": "This column addresses:",
+    "english_options": [
+      "the use of computer hacking for political purposes.",
+      "fraudulent practices via electronic messaging.",
+      "the societal consequences of virtual harassment.",
+      "online security vulnerabilities in the face of scams."
+    ]
   },
   {
     "question_no": 35,
@@ -417,7 +723,16 @@
       "questionne la domination de l'homme sur l'animal."
     ],
     "audio_transcript": "Transcription : Rebut témoignage — Catherine, pourquoi êtes-vous devenue végane ? Alors, j'étais végétarienne depuis 10 ans, c'est-à-dire que je ne consommais ni viande ni poisson. Puis j'ai décidé d'arrêter d'acheter tout produit provenant de l'exploitation d'un animal, et donc je suis devenue végane. Dès lors que l'homme exploite un animal, que ce soit pour son lait, sa laine, ses œufs ou toute autre chose, même sans le tuer, il est alors considéré comme un simple objet, une machine. Pour moi, être végane, c'est le fait de ne plus cautionner la souffrance ni le massacre des animaux.",
-    "right_option": "D"
+    "right_option": "D",
+    "english_translation": "Testimonial — Catherine, why did you become vegan? Well, I had been vegetarian for 10 years, meaning I consumed neither meat nor fish. Then I decided to stop buying any product derived from the exploitation of an animal, and so I became vegan. From the moment humans exploit an animal, whether for its milk, its wool, its eggs, or anything else, even without killing it, the animal is then considered a mere object, a machine. For me, being vegan means no longer endorsing the suffering or the slaughter of animals.",
+    "english_translation_highlights": [],
+    "english_question": "In her testimony, the guest:",
+    "english_options": [
+      "questions the future of farm animals.",
+      "recalls the benefits of dietary changes.",
+      "explains his/her orientation by his/her rural origins.",
+      "questions man's domination over animals."
+    ]
   },
   {
     "question_no": 36,
@@ -429,7 +744,16 @@
       "emet en cause cette tendance au paradoxe."
     ],
     "audio_transcript": "Transcription : Faiblesse, inconstance, inconsistance, débilité : voilà quelques synonymes fort sympathiques de la fragilité. A priori, rien ne donne envie d'en faire un art. Pourquoi alors ce succès de la fragilité ? Comme pour la mode, il faut décrypter la tendance. Et comme d'habitude, ce n'est qu'une histoire d'inversion. L'époque étant à la compétition, au capitalisme fort et féroce, il faut forcément jouer le jeu de la contradiction et de la pseudo-distance critique : il nous faut forcément valoriser son contraire, la fragilité. Alors évidemment, je ne vais pas tomber dans la critique marxiste selon laquelle seuls les plus forts peuvent se permettre d'être fragiles, car ils sauront s'en relever. Mais que penser de cette ode à la fragilité de l'existence ? Comment persister dans l'existence tout en étant affaibli ? Et inversement, que reste-t-il de la fragilité quand on résiste, quand on fait donc preuve de force malgré tout ?",
-    "right_option": "D"
+    "right_option": "D",
+    "english_translation": "Weakness, inconstancy, inconsistency, feebleness: here are some very charming synonyms for fragility. At first glance, nothing about it makes you want to turn it into an art. So why this success of fragility? As with fashion, you have to decode the trend. And as usual, it's just a story of inversion. Since the times are all about competition, strong and fierce capitalism, one must inevitably play the game of contradiction and pseudo-critical distance: we must inevitably valorize its opposite, fragility. Now obviously, I'm not going to fall into the Marxist critique according to which only the strongest can afford to be fragile, because they will know how to recover from it. But what are we to think of this ode to the fragility of existence? How can one persist in existence while being weakened? And conversely, what remains of fragility when one resists, when one therefore shows strength in spite of everything?",
+    "english_translation_highlights": [],
+    "english_question": "The columnist:",
+    "english_options": [
+      "mocks fragility in the workplace.",
+      "perceives in this attitude an anti-capitalist struggle.",
+      "describes the excessiveness of this practice.",
+      "calls into question this paradoxical tendency."
+    ]
   },
   {
     "question_no": 37,
@@ -441,7 +765,16 @@
       "créer des bâtiments modulables au fil des époques."
     ],
     "audio_transcript": "Transcription : On le sait tous : les appartements des étages du haut valent plus cher que ceux du bas, notamment pour des questions de température. Mais le changement climatique pourrait bien inverser la fourchette des prix. Les architectes réfléchissent à adapter ces bâtiments, mais difficile, voire impossible, d'isoler des logements pensés avant tout pour être beaux, quitte à avoir trop chaud. Or, c'est une grave erreur, tant la finalité même de l'architecture est climatique, en ceci qu'elle transforme artificiellement le climat dans ce qu'il a d'inconfortable, pour le rendre habitable. Le toit agit contre le soleil, le mur contre le vent et le froid. Conclusion : quand les constructions humaines sont conçues hors de leur milieu naturel, elles finissent toujours par le payer.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "We all know that upper-floor apartments are worth more than lower-floor ones, particularly due to temperature considerations. But climate change could well reverse the price range. Architects are thinking about how to adapt these buildings, but it's difficult, even impossible, to insulate homes designed above all to be beautiful, even if it means being too hot. Yet this is a serious mistake, given that the very purpose of architecture is climatic, in that it artificially transforms what is uncomfortable about the climate to make it livable. The roof protects against the sun, the wall against the wind and cold. The conclusion: when human constructions are designed outside of their natural environment, they always end up paying the price.",
+    "english_translation_highlights": [],
+    "english_question": "According to the chronicler, architecture should:",
+    "english_options": [
+      "prioritize functionality over aesthetics.",
+      "take an interest in the habitats of all social strata.",
+      "allow residents to enjoy the surrounding natural environment.",
+      "create buildings that can be adapted over time."
+    ]
   },
   {
     "question_no": 38,
@@ -453,7 +786,16 @@
       "recourir à des composants défectueux."
     ],
     "audio_transcript": "Transcription : En direct de Kourou, où SpaceX vient renvoyer vers l'espace une nouvelle cargaison de satellites, portant à plus de 300 leur nombre total. Autant dire une goutte d'eau, puisque l'ambition de la start-up américaine est de créer, d'ici 10 ans, un maillage satellitaire de 42 000 mini-satellites. Pourquoi ? Pour offrir un accès internet dans les lieux les plus reculés, surveiller l'environnement ou améliorer les systèmes de navigation. Seulement, ces satellites soulèvent plusieurs inquiétudes. Et si des pirates en prenaient le contrôle pour les éteindre, empêcher l'accès à leurs services ou, pire, usurper leurs signaux et modifier les informations qu'ils envoient ? Car SpaceX, qui cherche à maintenir les coûts au plus bas, utilise pour leur construction des composants librement accessibles en ligne, souvent disponibles en open source. Bref, un jeu d'enfant pour les hackers. Pour s'en convaincre, il suffit de se rappeler la cyberattaque menée depuis la Chine l'an dernier.",
-    "right_option": "A"
+    "right_option": "A",
+    "english_translation": "Live from Kourou, where SpaceX has just sent a new batch of satellites into space, bringing their total number to over 300. A drop in the ocean, so to speak, since the American startup's ambition is to create, within 10 years, a satellite network of 42,000 mini-satellites. Why? To provide internet access in the most remote locations, monitor the environment, or improve navigation systems. However, these satellites raise several concerns. What if hackers took control of them to shut them down, prevent access to their services, or worse, spoof their signals and alter the information they send? Because SpaceX, which seeks to keep costs as low as possible, uses freely accessible components available online for their construction, often available as open source. In short, child's play for hackers. To be convinced of this, one need only recall the cyberattack launched from China last year.",
+    "english_translation_highlights": [],
+    "english_question": "The company mentioned is accused of:",
+    "english_options": [
+      "compromise on safety procedures.",
+      "override international regulations.",
+      "deal with unscrupulous actors.",
+      "resort to defective components."
+    ]
   },
   {
     "question_no": 39,
@@ -465,7 +807,16 @@
       "vise à consolider son influence diplomatique."
     ],
     "audio_transcript": "Transcription : Le petit Sénégal, aux 17 millions d'habitants, est capable et costaud. Tel est le message que son président souhaite délivrer en cette période de crise, en se positionnant notamment comme l'un des parangons de l'annulation de la dette africaine. Mais pas seulement : en montrant aux investisseurs que le pays dispose d'atouts que d'autres pays du continent n'ont pas nécessairement, le Sénégal s'impose comme un interlocuteur inévitable, voire un futur leader incontournable en Afrique. Si tout cela ne touche pas nécessairement le Sénégalais de la rue ou des campagnes, si les problèmes de fond restent, il n'en demeure pas moins que la communication du président lui permet d'acquérir une nouvelle envergure. Feu de paille conjoncturelle ou stratégie durable ? L'avenir nous le dira.",
-    "right_option": "D"
+    "right_option": "D",
+    "english_translation": "Little Senegal, with its 17 million inhabitants, is capable and tough. That is the message its president wishes to deliver during this period of crisis, positioning himself notably as one of the champions of African debt cancellation. But not only that: by showing investors that the country has assets that other countries on the continent do not necessarily have, Senegal is establishing itself as an unavoidable interlocutor, even a future indispensable leader in Africa. While all of this does not necessarily affect the average Senegalese person on the street or in the countryside, and while the underlying problems remain, the president's communication nonetheless allows him to gain a new stature. A flash in the pan driven by circumstances, or a lasting strategy? Only time will tell.",
+    "english_translation_highlights": [],
+    "english_question": "According to the journalist, Senegal:",
+    "english_options": [
+      "struggles to rally its neighbors to its cause.",
+      "strives to improve the standard of living in rural areas.",
+      "fails to attract reliable investors.",
+      "aims to consolidate its diplomatic influence."
+    ]
   },
   {
     "question_no": 40,
@@ -477,6 +828,15 @@
       "les évènements catastrophiques représentent un défi pour la pensée."
     ],
     "audio_transcript": "Transcription : Le cerveau est très attentif à nourrir des routines personnelles qui le rassurent. Et en même temps, il a besoin d'explorer le possible. Toute nouvelle qui représente un dévoilement, ou qui attire notre attention — comme la peur ou une information égocentrée — va capter le temps de cerveau disponible. Il s'agit de l'asymétrie de négativité, testée aussi bien sur les stéréotypes sociaux que sur les informations inquiétantes, qui fait qu'on a plus d'intérêt et qu'on mémorise mieux les informations négatives. Sur internet, les fausses informations sont plus repartagées que les vraies, et elles vont souvent dans le sens de nos attentes naturelles. Ce type de proposition intellectuelle part avec un avantage concurrentiel sur d'autres propositions, comme celles de la science ou de la pensée méthodique, qui paraîtront plus contre-intuitives, plus douloureuses à consommer.",
-    "right_option": "C"
+    "right_option": "C",
+    "english_translation": "The brain is very attentive to nurturing personal routines that reassure it. At the same time, it needs to explore what is possible. Any news that represents a revelation, or that attracts our attention — such as fear or self-centered information — will capture available brain time. This is the negativity asymmetry, tested on both social stereotypes and alarming information, which means we have greater interest in and better memorize negative information. On the internet, false information is shared more than true information, and it often aligns with our natural expectations. This type of intellectual proposition starts with a competitive advantage over other propositions, such as those of science or methodical thinking, which will seem more counterintuitive and more painful to consume.",
+    "english_translation_highlights": [],
+    "english_question": "According to the expert,",
+    "english_options": [
+      "fear is a brake on human curiosity.",
+      "the information shared on the web reinforces our prejudices.",
+      "we have an innate appetite for bad news.",
+      "catastrophic events represent a challenge for thought."
+    ]
   }
 ]

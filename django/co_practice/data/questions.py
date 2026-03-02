@@ -32,12 +32,17 @@ def _load(slug):
             {'letter': letters[i], 'text': opt}
             for i, opt in enumerate(q['options'])
         ]
+        english_options_with_letters = [
+            {'letter': letters[i], 'text': opt}
+            for i, opt in enumerate(q.get('english_options', []))
+        ]
 
         questions.append({
             **q,
             'text': text,
             'image_filename': image_filename,
             'options_with_letters': options_with_letters,
+            'english_options_with_letters': english_options_with_letters,
         })
 
     _CACHE[slug] = questions

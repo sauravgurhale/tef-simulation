@@ -13,6 +13,18 @@
     "highlights": [
       "partir en randonnée en montagne",
       "me reconnecter avec la nature"
+    ],
+    "english_translation": "— Lucie, have you already planned what you'll do during the Christmas holidays? — Yes, I'm thinking of going hiking in the mountains. I feel like reconnecting with nature.",
+    "english_translation_highlights": [
+      "going hiking in the mountains",
+      "reconnecting with nature"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_2_images/co-2-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -29,6 +41,18 @@
     "highlights": [
       "fermer la fenêtre",
       "J'ai un peu froid"
+    ],
+    "english_translation": "— Could you close the window, please? I'm a little cold. — Yes, of course.",
+    "english_translation_highlights": [
+      "close the window",
+      "I'm a little cold"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_2_images/co-2-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -47,6 +71,20 @@
       "ateliers de marionnettes",
       "pour adultes",
       "marionnettes"
+    ],
+    "english_translation": "\"Did you know that the theater is offering puppet workshops for adults this year? Do you want to try it?\" \"I've never done that, so yes, why not? It must be fun.\"",
+    "english_translation_highlights": [
+      "the theater",
+      "puppet workshops",
+      "for adults",
+      "puppet"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_2_images/co-2-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -65,6 +103,20 @@
       "J'irai en train",
       "C'est plus long que l'avion",
       "c'est moins cher"
+    ],
+    "english_translation": "— Hi Marion, do you know how you're going to get to the conference? — Yes, I won't go by car because it would take too long. Besides, gas is expensive and I'd be too tired. I'll go by train. It's longer than the plane, but it's cheaper.",
+    "english_translation_highlights": [
+      "I won't go by car",
+      "I'll go by train",
+      "It's longer than the plane",
+      "it's cheaper"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_2_images/co-2-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -83,6 +135,20 @@
       "strictement interdit",
       "nourrir les oiseaux",
       "Merci de respecter cette règle"
+    ],
+    "english_translation": "Dear visitors, we would like to remind you that feeding the birds in the park is strictly prohibited. Thank you for respecting this rule for the preservation of local wildlife.",
+    "english_translation_highlights": [
+      "feeding the birds in the park is strictly prohibited",
+      "strictly prohibited",
+      "feeding the birds",
+      "Thank you for respecting this rule"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "the permission to feed the animals in the park.",
+      "the opening of a new picnic area in the park.",
+      "the prohibition of feeding the birds in the park.",
+      "the closure of the park for maintenance work."
     ]
   },
   {
@@ -100,6 +166,19 @@
       "la piscine sera fermée",
       "à partir de demain",
       "consulter les horaires de réouverture"
+    ],
+    "english_translation": "We inform you that the swimming pool will be closed for maintenance starting tomorrow. We thank you for your understanding and kindly ask you to check the reopening hours at the front desk.",
+    "english_translation_highlights": [
+      "the swimming pool will be closed",
+      "starting tomorrow",
+      "check the reopening hours"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "tomorrow, the swimming pool will not open.",
+      "the swimming pool's hours will be changed.",
+      "the opening of a new swimming pool will take place tomorrow.",
+      "the swimming pool will close permanently tomorrow."
     ]
   },
   {
@@ -115,6 +194,17 @@
     "right_option": "D",
     "highlights": [
       "la boutique fermera exceptionnellement à dix-huit heures ce samedi pour inventaire"
+    ],
+    "english_translation": "Dear customers, management would like to inform you that the shop will exceptionally close at six p.m. this Saturday for inventory. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "the shop will exceptionally close at six p.m. this Saturday for inventory"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "the permanent closure of the shop this Saturday.",
+      "the opening of a new shop this Saturday.",
+      "the reduction of prices in the shop this Saturday.",
+      "the exceptional closure of the shop at 6 PM this Saturday for inventory."
     ]
   },
   {
@@ -131,6 +221,18 @@
     "highlights": [
       "En raison de travaux sur la ligne",
       "les horaires des trains de ce week-end seront modifiés"
+    ],
+    "english_translation": "Due to work on the line, train schedules this weekend will be modified. Please check the website or the mobile application for more information. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "Due to work on the line",
+      "train schedules this weekend will be modified"
+    ],
+    "english_question": "This message announces that…",
+    "english_options": [
+      "the train schedules this weekend will be modified due to work on the line.",
+      "the train line will be closed this weekend.",
+      "the addition of new trains is planned this weekend.",
+      "the trains will be cancelled this weekend for a festival."
     ]
   },
   {
@@ -148,6 +250,19 @@
       "Je t'appelle juste pour savoir si tu vas bien et comment ça se passe dans ta nouvelle ville",
       "savoir si tu vas bien",
       "comment ça se passe dans ta nouvelle ville"
+    ],
+    "english_translation": "Hi little brother. I'm just calling to find out if you're doing well and how things are going in your new city. I hope you don't miss Paris too much. In any case, I miss you a lot. Call me when you have a moment.",
+    "english_translation_highlights": [
+      "I'm just calling to find out if you're doing well and how things are going in your new city",
+      "find out if you're doing well",
+      "how things are going in your new city"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to find out if his brother has moved.",
+      "to get news about his brother.",
+      "to tell his brother to come back to Paris.",
+      "to ask his brother for news about Paris."
     ]
   },
   {
@@ -165,6 +280,19 @@
       "j'ai laissé le dossier Soraly sur mon bureau",
       "en dessous du dictionnaire",
       "Il est dans une pochette bleue"
+    ],
+    "english_translation": "Hello Martin, I left the Soraly file on my desk, underneath the dictionary. It's in a blue folder.",
+    "english_translation_highlights": [
+      "I left the Soraly file on my desk",
+      "underneath the dictionary",
+      "It's in a blue folder"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to inform Martin that she put the Soralis file in a blue folder on his desk.",
+      "to ask Martin to find the Soralis file.",
+      "to tell Martin to move the Soralis file.",
+      "to ask Martin to prepare the Soralis file."
     ]
   },
   {
@@ -185,6 +313,22 @@
       "avant la fermeture de la librairie",
       "Nous sommes fermés demain",
       "si vous ne venez pas, ça attendra après-demain"
+    ],
+    "english_translation": "Hello, this is Mr. Dupont from Le Savoir bookstore. You left your wallet at the register. I left it with Marie, the cashier, so don't hesitate to come pick it up before the bookstore closes. We are closed tomorrow, so if you don't come, it will have to wait until the day after tomorrow.",
+    "english_translation_highlights": [
+      "You left your wallet at the register",
+      "I left it with Marie, the cashier",
+      "don't hesitate to come pick it up",
+      "before the bookstore closes",
+      "We are closed tomorrow",
+      "if you don't come, it will have to wait until the day after tomorrow"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to ask Mr. Dupont to come to the bookstore.",
+      "to remind that the bookstore will be open tomorrow.",
+      "to say that the wallet was found by Marie.",
+      "to inform that a wallet was left at the bookstore checkout."
     ]
   },
   {
@@ -202,6 +346,19 @@
       "Je vous contacte à propos de votre visite prévue demain à 14 heures",
       "Est-il possible de repousser d'une demi-heure ?",
       "Rappelez-moi ou envoyez-moi un texto pour confirmer"
+    ],
+    "english_translation": "Hello Mrs. Leroy, this is Nathalie from the Logiconfort real estate agency. I'm contacting you about your visit scheduled for tomorrow at 2 PM. Would it be possible to push it back by half an hour? Please call me back or send me a text to confirm. Thank you.",
+    "english_translation_highlights": [
+      "I'm contacting you about your visit scheduled for tomorrow at 2 PM",
+      "Would it be possible to push it back by half an hour?",
+      "Please call me back or send me a text to confirm"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to confirm the visit scheduled for tomorrow at 2 p.m.",
+      "to ask if the visit can be moved forward by 30 minutes.",
+      "to postpone the visit by 30 minutes.",
+      "to cancel the visit scheduled for tomorrow."
     ]
   },
   {
@@ -219,6 +376,19 @@
       "J'ai le plaisir de vous informer qu'il est à vous",
       "Vous pouvez récupérer les clés dès aujourd'hui à l'agence",
       "la location de l'appartement 3 pièces au deuxième étage au vingt-et-un rue de Byzance"
+    ],
+    "english_translation": "Hello, this is Mr. Leblanc regarding the rental of the 3-room apartment on the second floor at twenty-one rue de Byzance. I'm pleased to inform you that it's yours. You can pick up the keys starting today at the agency. See you soon.",
+    "english_translation_highlights": [
+      "I'm pleased to inform you that it's yours",
+      "You can pick up the keys starting today at the agency",
+      "the rental of the 3-room apartment on the second floor at twenty-one rue de Byzance"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to say that the apartment is assigned to Mr. Leblanc.",
+      "to confirm that the apartment is rented to someone else.",
+      "to announce to the new tenant that the keys to the apartment are available at the agency.",
+      "to inform that the apartment will be available in one month."
     ]
   },
   {
@@ -237,6 +407,20 @@
       "ma pendaison de crémaillère",
       "On se retrouve chez moi ce soir à partir de 20 heures",
       "mon nouvel appartement est au troisième étage, porte 307"
+    ],
+    "english_translation": "Hi Julie, I hope you're doing well. I wanted to know if you're still available for my housewarming party. We're meeting at my place tonight from 8 PM onwards. As a reminder, my new apartment is on the third floor, door 307. See you tonight.",
+    "english_translation_highlights": [
+      "I wanted to know if you're still available for my housewarming party",
+      "my housewarming party",
+      "We're meeting at my place tonight from 8 PM onwards",
+      "my new apartment is on the third floor, door 307"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to go to Julie's housewarming party.",
+      "to ask Julie to come earlier to the housewarming party.",
+      "to confirm Julie's attendance at the housewarming party.",
+      "to inform Julie of the cancellation of the housewarming party."
     ]
   },
   {
@@ -256,6 +440,21 @@
       "Ils favorisent l'entraide entre voisins",
       "permettent de cultiver des produits locaux",
       "Ça peut vraiment renforcer le lien social dans le quartier"
+    ],
+    "english_translation": "I think it's an excellent idea. They encourage mutual help between neighbors and allow people to grow local produce. It can really strengthen the social bond in the neighborhood.",
+    "english_translation_highlights": [
+      "I think it's an excellent idea",
+      "an excellent idea",
+      "They encourage mutual help between neighbors",
+      "allow people to grow local produce",
+      "It can really strengthen the social bond in the neighborhood"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "completely in favor.",
+      "rather favorable.",
+      "completely against.",
+      "no opinion."
     ]
   },
   {
@@ -274,6 +473,20 @@
       "il y a aussi des problèmes de gestion et de sécurité à prendre en compte",
       "Je suis plutôt favorable",
       "mais avec des réserves"
+    ],
+    "english_translation": "I think it can be useful, but there are also management and security issues to take into account. I'm rather in favor, but with reservations.",
+    "english_translation_highlights": [
+      "I think it can be useful",
+      "there are also management and security issues to take into account",
+      "I'm rather in favor",
+      "but with reservations"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "completely in favor.",
+      "rather favorable.",
+      "completely against.",
+      "no opinion."
     ]
   },
   {
@@ -292,6 +505,20 @@
       "peuvent entraîner des conflits entre les usagers",
       "ça demande beaucoup d'entretien",
       "les gens auront du mal à gérer tout ça"
+    ],
+    "english_translation": "I'm not convinced. I think community gardens can lead to conflicts between users. Besides, they require a lot of maintenance. In my opinion, people will have a hard time managing all of that.",
+    "english_translation_highlights": [
+      "I'm not convinced",
+      "can lead to conflicts between users",
+      "they require a lot of maintenance",
+      "people will have a hard time managing all of that"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "completely in favor.",
+      "rather favorable.",
+      "completely against.",
+      "no opinion."
     ]
   },
   {
@@ -309,6 +536,19 @@
       "Je ne vois pas vraiment l'intérêt",
       "les spectacles de rue ne sont pas essentiels",
       "les ressources pourraient être mieux utilisées ailleurs"
+    ],
+    "english_translation": "I don't really see the point. I think street performances are not essential, and that resources could be better used elsewhere. Besides, anyone could just stand in the street, even to beg, and claim it's a performance.",
+    "english_translation_highlights": [
+      "I don't really see the point",
+      "street performances are not essential",
+      "resources could be better used elsewhere"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is important but not essential.",
+      "thinks it is not important.",
+      "has no opinion on the matter."
     ]
   },
   {
@@ -326,6 +566,19 @@
       "je ne m'arrête jamais pour les regarder",
       "donc je ne sais pas",
       "je n'ai pas d'avis sur la question"
+    ],
+    "english_translation": "Street performances? Personally, I never stop to watch them, so I don't know, I don't have an opinion on the matter.",
+    "english_translation_highlights": [
+      "I never stop to watch them",
+      "so I don't know",
+      "I don't have an opinion on the matter"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is important but not essential.",
+      "thinks it is not important.",
+      "has no opinion on the matter."
     ]
   },
   {
@@ -344,6 +597,20 @@
       "très important",
       "Les spectacles de rue enrichissent la vie urbaine et rendent la ville plus humaine",
       "On en a besoin"
+    ],
+    "english_translation": "I think it's very important. Street performances enrich urban life and make the city more human. We need them.",
+    "english_translation_highlights": [
+      "I think it's very important",
+      "very important",
+      "Street performances enrich urban life and make the city more human",
+      "We need them"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is important but not essential.",
+      "thinks it is not important.",
+      "has no opinion on the matter."
     ]
   },
   {
@@ -366,6 +633,24 @@
       "En réhabilitant ce patrimoine industriel",
       "les initiateurs du projet ont su préserver une partie de l'histoire locale",
       "tout en répondant aux besoins culturels contemporains"
+    ],
+    "english_translation": "Today, I'm taking you to discover an urban revitalization project in the heart of Lyon. A former disused factory has been transformed into a dynamic cultural space where artists' workshops, exhibition galleries, and a literary café come together. This project, supported by the municipality and partly funded by European funds, has not only breathed new life into a once-neglected neighborhood but has also created a meeting and sharing place for the city's residents. By rehabilitating this industrial heritage, the project's initiators managed to preserve a part of local history while meeting contemporary cultural needs. It's a fine example of how culture can revitalize our urban centers and strengthen the social fabric.",
+    "english_translation_highlights": [
+      "A former disused factory has been transformed into a dynamic cultural space",
+      "where artists' workshops, exhibition galleries, and a literary café come together",
+      "This project, supported by the municipality and partly funded by European funds",
+      "has not only breathed new life into a once-neglected neighborhood",
+      "has also created a meeting and sharing place for the city's residents",
+      "By rehabilitating this industrial heritage",
+      "the project's initiators managed to preserve a part of local history",
+      "while meeting contemporary cultural needs"
+    ],
+    "english_question": "This column presents a project…",
+    "english_options": [
+      "of transforming a former factory into a dynamic cultural space.",
+      "of converting an industrial zone into a public park.",
+      "of creating a shopping center in a historic neighborhood.",
+      "of organizing local farmers' markets."
     ]
   },
   {
@@ -385,6 +670,21 @@
       "cela renforce le système immunitaire et favorise la santé cardiaque",
       "la marche est une activité accessible à tous",
       "ne nécessite aucun équipement particulier"
+    ],
+    "english_translation": "Dear listeners, today I invite you to rediscover the benefits of walking in nature. In a world where everything moves faster and faster, taking the time to walk in a park, a forest, or even along the beach is a true remedy for the mind and body. Scientists agree that walking in nature reduces stress, improves mood, and stimulates creativity. In addition, it strengthens the immune system and promotes heart health. Whether you choose to stroll alone to meditate or in company to share a pleasant moment, walking is an activity accessible to everyone and requires no special equipment. So, the next time you have a break, why not put on your sneakers and head out on an adventure?",
+    "english_translation_highlights": [
+      "the benefits of walking in nature",
+      "walking in nature reduces stress, improves mood, and stimulates creativity",
+      "it strengthens the immune system and promotes heart health",
+      "walking is an activity accessible to everyone",
+      "requires no special equipment"
+    ],
+    "english_question": "According to this chronicle…",
+    "english_options": [
+      "hiking in nature is reserved for athletes.",
+      "walking regularly outdoors is beneficial for mental and physical health.",
+      "walking in the city has the same benefits as hiking in nature.",
+      "walking in nature requires special equipment."
     ]
   },
   {
@@ -404,6 +704,21 @@
       "Les expositions statiques ont leur place, mais pour réellement engager les jeunes, il est crucial d'intégrer des technologies immersives",
       "des ateliers pratiques où ils peuvent manipuler et expérimenter",
       "Le défi principal est de rendre la science accessible et passionnante pour tous"
+    ],
+    "english_translation": "Tonight, we welcome the director of the Paris Science Museum, Mr. Julien Leblanc. — Good evening, Mr. Leblanc. — Good evening, Mrs. Moreau. The museum recently launched an innovative initiative to attract young people to science. You stated that science is the future and that our museum must be at the forefront to inspire the new generations. Is it difficult to attract young people to science? — The main challenge is making science accessible and exciting for everyone. We need to create interactive experiences that capture young people's imagination and show them that science can be fun and enriching. And why did you decide not to focus solely on traditional exhibitions? — We need to evolve with our audience. Static exhibitions have their place, but to truly engage young people, it is crucial to integrate immersive technologies like virtual reality, as well as hands-on workshops where they can handle things and experiment.",
+    "english_translation_highlights": [
+      "We need to create interactive experiences that capture young people's imagination",
+      "science can be fun and enriching",
+      "Static exhibitions have their place, but to truly engage young people, it is crucial to integrate immersive technologies",
+      "hands-on workshops where they can handle things and experiment",
+      "The main challenge is making science accessible and exciting for everyone"
+    ],
+    "english_question": "According to the invited person…",
+    "english_options": [
+      "creating interactive experiences is essential to captivate young people's interest in science.",
+      "the museum must remain faithful to traditional exhibitions.",
+      "the museum must focus solely on adults.",
+      "static exhibitions are sufficient to educate young people."
     ]
   },
   {
@@ -423,6 +738,21 @@
       "pour réellement engager les jeunes, il est crucial d'intégrer des technologies immersives comme la réalité virtuelle, et aussi des ateliers pratiques où ils peuvent manipuler et expérimenter",
       "créer des expériences interactives qui captivent l'imagination des jeunes",
       "Le défi principal est de rendre la science accessible et passionnante pour tous"
+    ],
+    "english_translation": "Tonight, we welcome the director of the Paris Science Museum, Mr. Julien Leblanc. — Good evening, Mr. Leblanc. — Good evening, Mrs. Moreau. The museum recently launched an innovative initiative to attract young people to science. You stated that science is the future and that our museum must be at the forefront to inspire the new generations. Is it difficult to attract young people to science? — The main challenge is making science accessible and exciting for everyone. We need to create interactive experiences that capture young people's imagination and show them that science can be fun and enriching. And why did you decide not to focus solely on traditional exhibitions? — We need to evolve with our audience. Static exhibitions have their place, but to truly engage young people, it is crucial to integrate immersive technologies like virtual reality, as well as hands-on workshops where they can handle things and experiment.",
+    "english_translation_highlights": [
+      "We need to evolve with our audience",
+      "Static exhibitions have their place",
+      "to truly engage young people, it is crucial to integrate immersive technologies like virtual reality, as well as hands-on workshops where they can handle things and experiment",
+      "create interactive experiences that capture young people's imagination",
+      "The main challenge is making science accessible and exciting for everyone"
+    ],
+    "english_question": "The guest indicates that…",
+    "english_options": [
+      "the museum will never change its exhibitions.",
+      "focusing solely on virtual reality is the best solution.",
+      "the integration of new technologies and hands-on workshops is necessary to interest young people.",
+      "traditional exhibitions are no longer relevant."
     ]
   },
   {
@@ -442,6 +772,21 @@
       "en favorisant la concentration et la gestion du stress",
       "le sport n'est pas seulement une question de condition physique, c'est aussi un moyen d'apprendre des valeurs comme l'esprit d'équipe et la persévérance",
       "encourager les jeunes à pratiquer régulièrement, c'est les préparer à affronter les défis de la vie avec résilience"
+    ],
+    "english_translation": "Professor Amouna Diouf, you are giving a lecture at the University of the Island on the importance of sport in modern education. Why emphasize sport in a world where technology is omnipresent? — The problem is that we often steer young people toward sedentary activities, but we forget that sport is crucial for their physical and mental development. For example, studies show that physical activity improves not only physical fitness but also academic performance, by promoting concentration and stress management. I imagine it's difficult to convince schools to integrate a bit more sport into their curriculum. — Especially in schools that prioritize academic subjects. Yet sport is not just a matter of physical fitness; it is also a way of learning values such as teamwork and perseverance. So I think that encouraging young people to practice regularly is preparing them to face life's challenges with resilience.",
+    "english_translation_highlights": [
+      "sport is crucial for their physical and mental development",
+      "physical activity improves not only physical fitness but also academic performance",
+      "by promoting concentration and stress management",
+      "sport is not just a matter of physical fitness; it is also a way of learning values such as teamwork and perseverance",
+      "encouraging young people to practice regularly is preparing them to face life's challenges with resilience"
+    ],
+    "english_question": "According to the guest…",
+    "english_options": [
+      "sport and education have no connection.",
+      "sport only concerns talented athletes.",
+      "sport is less important than academic subjects in education.",
+      "sports practice is essential for the physical and mental development of young people."
     ]
   },
   {
@@ -462,6 +807,22 @@
       "J'imagine que c'est compliqué de convaincre les établissements scolaires d'intégrer un peu plus le sport dans leur programme",
       "Surtout dans les écoles qui privilégient les matières académiques",
       "le sport n'est pas seulement une question de condition physique, c'est aussi un moyen d'apprendre des valeurs comme l'esprit d'équipe et la persévérance"
+    ],
+    "english_translation": "Professor Amouna Diouf, you are giving a lecture at the University of the Island on the importance of sport in modern education. Why insist on sport in a world where technology is omnipresent? — The problem is that we often steer young people toward sedentary activities, but we forget that sport is crucial for their physical and mental development. For example, studies show that physical activity improves not only physical fitness but also academic performance, by promoting concentration and stress management. I imagine it's difficult to convince schools to integrate a bit more sport into their curriculum. — Especially in schools that prioritize academic subjects. Yet sport is not just a matter of physical fitness; it is also a way to learn values such as teamwork and perseverance. So I think that encouraging young people to practice regularly is preparing them to face life's challenges with resilience.",
+    "english_translation_highlights": [
+      "we often steer young people toward sedentary activities",
+      "we forget that sport is crucial for their physical and mental development",
+      "physical activity improves not only physical fitness but also academic performance",
+      "I imagine it's difficult to convince schools to integrate a bit more sport into their curriculum",
+      "Especially in schools that prioritize academic subjects",
+      "sport is not just a matter of physical fitness; it is also a way to learn values such as teamwork and perseverance"
+    ],
+    "english_question": "According to the guest, schools…",
+    "english_options": [
+      "easily integrate sports into their programs.",
+      "see sports as an important tool for the personal development of students.",
+      "struggle to give an important place to sports in their programs.",
+      "give no importance to the teaching of academic subjects."
     ]
   },
   {
@@ -481,6 +842,21 @@
       "c'est aussi une manière de rétablir le lien des citadins avec la nature et d'améliorer la qualité de vie en ville",
       "nous construisons des villes en négligeant souvent l'accès à des aliments frais et locaux",
       "Or, on sait que l'agriculture urbaine permet"
+    ],
+    "english_translation": "Mr. Karim Haddad, you are organizing a seminar in Casablanca on the importance of urban agriculture in modern cities. Why emphasize urban agriculture in an increasingly urbanized world? — The problem is that we build cities while often neglecting access to fresh, local food. Yet we know that urban agriculture not only provides healthy products but also strengthens community resilience in the face of food challenges. Is it difficult today to convince municipalities to integrate more agricultural spaces into urban plans? — It's true that it's a challenge, especially in cities where space is limited and where priority is given to infrastructure. But urban agriculture is not just a matter of food production; it's also a way to restore city dwellers' connection with nature and to improve the quality of life in cities.",
+    "english_translation_highlights": [
+      "urban agriculture not only provides healthy products but also strengthens community resilience in the face of food challenges",
+      "urban agriculture is not just a matter of food production",
+      "it's also a way to restore city dwellers' connection with nature and to improve the quality of life in cities",
+      "we build cities while often neglecting access to fresh, local food",
+      "Yet we know that urban agriculture"
+    ],
+    "english_question": "The invited person thinks that…",
+    "english_options": [
+      "urban agriculture has no impact on modern cities.",
+      "local production, promoted by urban agriculture, is essential for community resilience.",
+      "urban agriculture is less important than building modern infrastructure.",
+      "urban agriculture concerns only rural areas."
     ]
   },
   {
@@ -500,6 +876,21 @@
       "où la priorité est donnée à l'infrastructure",
       "l'agriculture urbaine n'est pas seulement une question de production alimentaire",
       "c'est aussi une manière de rétablir le lien des citadins avec la nature et d'améliorer la qualité de vie en ville"
+    ],
+    "english_translation": "Mr. Karim Haddad, you are organizing a seminar in Casablanca on the importance of urban agriculture in modern cities. Why emphasize urban agriculture in an increasingly urbanized world? — The problem is that we build cities while often neglecting access to fresh, local food. Yet we know that urban agriculture not only provides healthy produce but also strengthens community resilience in the face of food challenges. Is it difficult today to convince municipalities to integrate more agricultural spaces into urban plans? — It's true that it's a challenge, especially in cities where space is limited and where priority is given to infrastructure. But urban agriculture is not just a matter of food production; it's also a way to restore city dwellers' connection with nature and to improve the quality of life in cities.",
+    "english_translation_highlights": [
+      "It's true that it's a challenge",
+      "especially in cities where space is limited",
+      "where priority is given to infrastructure",
+      "urban agriculture is not just a matter of food production",
+      "it's also a way to restore city dwellers' connection with nature and to improve the quality of life in cities"
+    ],
+    "english_question": "According to the guest, the municipalities…",
+    "english_options": [
+      "easily integrate urban agriculture into their plans.",
+      "consider urban agriculture as a tool to improve the quality of life in the city.",
+      "give a lot of importance to the food issue in urban areas.",
+      "struggle to integrate urban agriculture into urban plans, especially in densely populated areas."
     ]
   },
   {
@@ -526,6 +917,28 @@
       "Ces obstacles affectent leur autonomie et leur qualité de vie",
       "augmentant leur dépendance envers leur entourage",
       "les seniors ont encore besoin de plus de soutien pour ne pas être laissés pour compte dans un monde de plus en plus digitalisé"
+    ],
+    "english_translation": "With the increasing digitalization of services, many seniors feel helpless when it comes to online administrative procedures. This digital divide isolates them more and more. Jeanne, eighty-two years old, confides: \"They ask me to do everything on the internet, but I don't understand anything about these machines. They think we were all born in 2000 and that we have TikTok, but that's not the case.\" For many, creating an online account or filing taxes becomes a real headache. Unable to keep up with the pace of technology, these seniors risk being excluded from essential services. Marguerite, eighty years old, feels humiliated by constantly having to ask her loved ones for help. This difficulty in using digital tools has consequences on seniors' daily lives. Simple tasks like making a doctor's appointment or accessing important information become major challenges. Rose, 77, struggles a great deal: \"I feel lost every time I have to do something online, it takes a lot of time, it's exhausting.\" These obstacles affect their independence and quality of life by increasing their dependence on those around them. Some organizations offer workshops to help them become familiar with digital tools. Julien is a facilitator at the association Digital for All: \"We help them navigate administrative websites and we teach them how to use a smartphone. It's not easy for many of them. We have to be patient and pedagogical, and adapt to their age and also to their abilities.\" These workshops aim to reduce the digital divide by offering solutions tailored to their specific needs. Despite these efforts, seniors still need more support so they are not left behind in an increasingly digitalized world. Collective action is necessary to ensure that everyone can benefit from the advantages of technology without feeling excluded.",
+    "english_translation_highlights": [
+      "With the increasing digitalization of services, many seniors feel helpless when it comes to online administrative procedures",
+      "This digital divide isolates them more and more",
+      "They ask me to do everything on the internet, but I don't understand anything about these machines",
+      "creating an online account or filing taxes becomes a real headache",
+      "Unable to keep up with the pace of technology, these seniors risk being excluded from essential services",
+      "feels humiliated by constantly having to ask her loved ones for help",
+      "This difficulty in using digital tools has consequences on seniors' daily lives",
+      "Simple tasks like making a doctor's appointment or accessing important information become major challenges",
+      "I feel lost every time I have to do something online, it takes a lot of time, it's exhausting",
+      "These obstacles affect their independence and quality of life",
+      "increasing their dependence on those around them",
+      "seniors still need more support so they are not left behind in an increasingly digitalized world"
+    ],
+    "english_question": "This report deals with…",
+    "english_options": [
+      "the benefits of digital technology for seniors.",
+      "the difficulties seniors face with online administrative procedures.",
+      "new technologies in the field of health.",
+      "initiatives to improve the lives of seniors in retirement homes."
     ]
   },
   {
@@ -551,6 +964,27 @@
       "Je me sens perdu chaque fois que je dois faire quelque chose en ligne, ça prend beaucoup de temps, c'est épuisant",
       "Ces obstacles affectent leur autonomie et leur qualité de vie en augmentant leur dépendance envers leur entourage",
       "les seniors ont encore besoin de plus de soutien pour ne pas être laissés pour compte dans un monde de plus en plus digitalisé"
+    ],
+    "english_translation": "With the increasing digitalization of services, many seniors feel helpless when it comes to online administrative procedures. This digital divide isolates them more and more. Jeanne, eighty-two years old, confides: \"They ask me to do everything on the internet, but I don't understand anything about these machines. They think we were all born in 2000 and that we have TikTok, but that's not the case.\" For many, creating an online account or filing taxes becomes a real headache. Unable to keep up with the pace of technology, these seniors risk being excluded from essential services. Marguerite, eighty years old, feels humiliated by constantly having to ask her loved ones for help. This difficulty in using digital tools has consequences on seniors' daily lives. Simple tasks like making a doctor's appointment or accessing important information become major challenges. Rose, 77, struggles a great deal: \"I feel lost every time I have to do something online; it takes a lot of time, it's exhausting.\" These obstacles affect their autonomy and quality of life by increasing their dependence on those around them. Some organizations offer workshops to help them become familiar with digital tools. Julien is a facilitator at the association Digital for All: \"We help them navigate administrative websites and we teach them how to use a smartphone. It's not easy for many of them. We have to be patient and educational, and adapt to their age and also to their abilities.\" These workshops aim to reduce the digital divide by offering solutions tailored to their specific needs. Despite these efforts, seniors still need more support so they are not left behind in an increasingly digitalized world. Collective action is necessary to ensure that everyone can benefit from the advantages of technology without feeling excluded.",
+    "english_translation_highlights": [
+      "many seniors feel helpless when it comes to online administrative procedures",
+      "This digital divide isolates them more and more",
+      "They ask me to do everything on the internet, but I don't understand anything about these machines",
+      "creating an online account or filing taxes becomes a real headache",
+      "Unable to keep up with the pace of technology, these seniors risk being excluded from essential services",
+      "feels humiliated by constantly having to ask her loved ones for help",
+      "This difficulty in using digital tools has consequences on seniors' daily lives",
+      "Simple tasks like making a doctor's appointment or accessing important information become major challenges",
+      "I feel lost every time I have to do something online; it takes a lot of time, it's exhausting",
+      "These obstacles affect their autonomy and quality of life by increasing their dependence on those around them",
+      "seniors still need more support so they are not left behind in an increasingly digitalized world"
+    ],
+    "english_question": "In the report, the seniors feel…",
+    "english_options": [
+      "delighted to discover new technologies.",
+      "frustrated and isolated by the omnipresence of digital tools in administrative procedures.",
+      "comfortable with digital tools thanks to the workshops.",
+      "unable to manage administrative procedures without help."
     ]
   },
   {
@@ -569,6 +1003,20 @@
       "volcans actifs en Islande",
       "France 2 diffuse",
       "Ce soir à vingt-et-une heures"
+    ],
+    "english_translation": "To close out your Sunday, why not immerse yourself in the world of volcanoes? Tonight at nine o'clock, France 2 is airing a fascinating report on active volcanoes in Iceland. The documentary takes you on a journey to discover these giants of nature, with impressive footage of their recent eruptions and interviews with volcanologists. You will discover the geological phenomena that shape the Icelandic landscape and the efforts to monitor and predict volcanic eruptions.",
+    "english_translation_highlights": [
+      "Tonight at nine o'clock, France 2 is airing a fascinating report on active volcanoes in Iceland",
+      "active volcanoes in Iceland",
+      "France 2 is airing",
+      "Tonight at nine o'clock"
+    ],
+    "english_question": "According to this chronicle…",
+    "english_options": [
+      "the documentary about active volcanoes in Iceland is broadcast on France 2 tonight.",
+      "the report explores extinct volcanoes in Europe.",
+      "the program focuses solely on volcanoes in Africa.",
+      "the documentary is focused on the prevention of volcanic disasters in Asia."
     ]
   },
   {
@@ -586,6 +1034,19 @@
       "l'organisation Food for All a lancé ce mercredi une initiative visant à réduire le gaspillage alimentaire",
       "L'organisation propose des partenariats avec les établissements pour redistribuer les excédents alimentaires à des associations caritatives locales",
       "il est crucial de prendre des mesures pour éviter que des tonnes de nourriture ne soient jetées chaque année"
+    ],
+    "english_translation": "In London, the organization Food for All launched an initiative this Wednesday aimed at reducing food waste in the country's restaurants and supermarkets. The organization is proposing partnerships with establishments to redistribute surplus food to local charitable organizations. According to the director of Food for All, it is crucial to take action to prevent tons of food from being thrown away each year, while many people are in need.",
+    "english_translation_highlights": [
+      "the organization Food for All launched an initiative this Wednesday aimed at reducing food waste",
+      "The organization is proposing partnerships with establishments to redistribute surplus food to local charitable organizations",
+      "it is crucial to take action to prevent tons of food from being thrown away each year"
+    ],
+    "english_question": "According to this information…",
+    "english_options": [
+      "Food4All encourages restaurants and supermarkets to throw away surplus food.",
+      "The organization Food4All proposes to redistribute surplus food to charitable associations.",
+      "Food4All asks supermarkets to reduce their prices to avoid waste.",
+      "The organization Food4All fights against food production to avoid shortages."
     ]
   },
   {
@@ -604,6 +1065,20 @@
       "suivi par un concert de musique classique",
       "Nous clôturerons la soirée avec un dîner somptueux",
       "nous avons préparé une série de performances pour votre plus grand plaisir"
+    ],
+    "english_translation": "Dear guests, welcome to our annual gala evening. Tonight, we have prepared a series of performances for your greatest pleasure. First, we will begin with a contemporary dance show, followed by a classical music concert. We will close the evening with a sumptuous dinner, during which you will be able to enjoy various gourmet dishes prepared by renowned chefs. We hope you will have a memorable evening in our company.",
+    "english_translation_highlights": [
+      "First, we will begin with a contemporary dance show",
+      "followed by a classical music concert",
+      "We will close the evening with a sumptuous dinner",
+      "we have prepared a series of performances for your greatest pleasure"
+    ],
+    "english_question": "The person…",
+    "english_options": [
+      "begins by announcing the start of dinner.",
+      "informs that the evening will begin with a classical music concert.",
+      "invites the guests to start by tasting the gourmet dishes.",
+      "announces that the evening will begin with a contemporary dance performance."
     ]
   },
   {
@@ -626,6 +1101,24 @@
       "modèle de durabilité et d'efficacité urbaine",
       "tous les candidats se déclarent favorables à poursuivre ces efforts",
       "moderniser encore plus les infrastructures de la ville"
+    ],
+    "english_translation": "We are in Lyon, recently recognized for its innovation in public transportation. This recognition is attributed to the implementation of a new tramway system that considerably reduces travel times and improves connectivity throughout the city. The mayor, Paul Dubois, presented this project as a model of sustainability and urban efficiency. As the next elections approach, all candidates have declared themselves in favor of continuing these efforts to further modernize the city's infrastructure.",
+    "english_translation_highlights": [
+      "We are in Lyon, recently recognized for its innovation in public transportation",
+      "implementation of a new tramway system",
+      "considerably reduces travel times",
+      "improves connectivity throughout the city",
+      "The mayor, Paul Dubois, presented this project",
+      "model of sustainability and urban efficiency",
+      "all candidates have declared themselves in favor of continuing these efforts",
+      "further modernize the city's infrastructure"
+    ],
+    "english_question": "According to this information…",
+    "english_options": [
+      "Lyon has been recognized for the modernization of its sports infrastructure.",
+      "The tramway project is limited to a single neighborhood of Lyon.",
+      "The mayor of Lyon announced a new tramway system that improves travel times.",
+      "The modernization of Lyon's infrastructure has not yet been initiated."
     ]
   },
   {
@@ -645,6 +1138,21 @@
       "sentiers escarpés",
       "Cette épreuve est réputée pour sa difficulté",
       "dénivelés importants"
+    ],
+    "english_translation": "The annual Mountain Marathon race will be held this Sunday in the Alps. Runners will compete on a demanding forty-two-kilometer course, crossing steep trails and breathtaking landscapes. This event is renowned for its difficulty, with significant elevation changes and often unpredictable weather conditions. Participants come from all over the world to take on this unique challenge, and this year, a record number of registrations has been recorded. At the end of the race, an awards ceremony will take place, celebrating the exceptional performances of the athletes.",
+    "english_translation_highlights": [
+      "The annual Mountain Marathon race will be held this Sunday in the Alps",
+      "a demanding forty-two-kilometer course",
+      "steep trails",
+      "This event is renowned for its difficulty",
+      "significant elevation changes"
+    ],
+    "english_question": "Based on this chronicle…",
+    "english_options": [
+      "the marathon will be held in the Alps, on a difficult 42-kilometer course.",
+      "the race is known for its flat and easy course.",
+      "the participants of the \"Mountain Marathon\" run exclusively on flat terrain.",
+      "the \"Mountain Marathon\" will take place over a distance of 10 kilometers."
     ]
   },
   {
@@ -666,6 +1174,23 @@
       "La suspension des nouvelles directives est due à des préoccupations concernant l'efficacité des vaccins",
       "Il est crucial de garantir que les recommandations soient adaptées",
       "fondées sur les dernières données scientifiques"
+    ],
+    "english_translation": "The Ministry of Health has decided to temporarily suspend the new guidelines concerning the distribution of flu vaccines, pending a review of the recommendations. This decision aims to adjust procedures and better meet the needs of at-risk populations. The suspension of the new guidelines is due to concerns regarding the effectiveness of the vaccines in certain age groups. It is crucial to ensure that the recommendations are appropriate and based on the latest scientific data.",
+    "english_translation_highlights": [
+      "has decided to temporarily suspend",
+      "pending a review of the recommendations",
+      "This decision aims to adjust procedures",
+      "better meet the needs of at-risk populations",
+      "The suspension of the new guidelines is due to concerns regarding the effectiveness of the vaccines",
+      "It is crucial to ensure that the recommendations are appropriate",
+      "based on the latest scientific data"
+    ],
+    "english_question": "According to this message…",
+    "english_options": [
+      "the Ministry of Health has definitively canceled the new vaccine guidelines.",
+      "the Ministry of Health has decided to introduce new mandatory vaccinations immediately.",
+      "the new vaccine guidelines have been implemented without adjustments.",
+      "the revision of the vaccine guidelines aims to improve their effectiveness for the populations."
     ]
   },
   {
@@ -685,6 +1210,21 @@
       "de présenter leurs œuvres au public",
       "Pour soutenir les talents locaux",
       "aux artistes qui cherchent à se faire connaître"
+    ],
+    "english_translation": "To support local talent, the city of Marseille has launched a new artist residency program titled Creation in Progress. This program offers emerging artists the opportunity to work in fully equipped studios and to present their works to the public. The goal is to stimulate local creativity and promote regional culture by offering a platform to artists seeking to make themselves known. This program could become a model for other French cities looking to support their creators.",
+    "english_translation_highlights": [
+      "the city of Marseille has launched a new artist residency program titled Creation in Progress",
+      "This program offers emerging artists the opportunity to work in fully equipped studios",
+      "to present their works to the public",
+      "To support local talent",
+      "to artists seeking to make themselves known"
+    ],
+    "english_question": "Based on this chronicle…",
+    "english_options": [
+      "the \"Créations en Cours\" program allows local artists to use workshops and present their works.",
+      "\"Créations en Cours\" is a program dedicated to foreign artists.",
+      "the program offers residencies only for international artists.",
+      "the city of Marseille has set up a competition for international artists."
     ]
   },
   {
@@ -702,6 +1242,19 @@
       "Le document révèle que, malgré les efforts pour promouvoir l'agriculture biologique, de nombreux exploitants agricoles continuent d'utiliser des méthodes conventionnelles.",
       "Les principaux défis incluent les coûts élevés des pratiques durables et le manque de soutien gouvernemental.",
       "Pour que l'agriculture durable devienne la norme, il est crucial d'encourager les fermiers à adopter des pratiques respectueuses de l'environnement et de faciliter leur transition."
+    ],
+    "english_translation": "Today we will examine the report from the Food Safety Research Institute concerning sustainable agricultural practices. The document reveals that, despite efforts to promote organic farming, many agricultural operators continue to use conventional methods. The main challenges include the high costs of sustainable practices and the lack of government support. For sustainable agriculture to become the norm, it is crucial to encourage farmers to adopt environmentally friendly practices and to facilitate their transition.",
+    "english_translation_highlights": [
+      "The document reveals that, despite efforts to promote organic farming, many agricultural operators continue to use conventional methods.",
+      "The main challenges include the high costs of sustainable practices and the lack of government support.",
+      "For sustainable agriculture to become the norm, it is crucial to encourage farmers to adopt environmentally friendly practices and to facilitate their transition."
+    ],
+    "english_question": "According to this message…",
+    "english_options": [
+      "organic agriculture is already widely adopted by all farmers.",
+      "the report reveals that sustainable agricultural practices are hindered by high costs and a lack of support.",
+      "The Institute recommends abandoning sustainable agricultural practices.",
+      "beekeeping operators use alternative methods according to the report."
     ]
   },
   {
@@ -720,6 +1273,20 @@
       "Une nouvelle étude montre que les Français consomment de plus en plus de produits végétariens et végétaliens",
       "influencés par les préoccupations de santé et environnementales",
       "Les détaillants répondent à cette demande croissante en élargissant leur offre de produits à base de plantes"
+    ],
+    "english_translation": "Food trends are evolving rapidly with the increasing popularity of plant-based diets. A new study shows that the French are consuming more and more vegetarian and vegan products, influenced by health and environmental concerns. Retailers are responding to this growing demand by expanding their range of plant-based products. This trend could transform the French food market and have repercussions on the food supply chain.",
+    "english_translation_highlights": [
+      "Food trends are evolving rapidly with the increasing popularity of plant-based diets",
+      "A new study shows that the French are consuming more and more vegetarian and vegan products",
+      "influenced by health and environmental concerns",
+      "Retailers are responding to this growing demand by expanding their range of plant-based products"
+    ],
+    "english_question": "According to the journalist…",
+    "english_options": [
+      "the French are consuming fewer and fewer vegetarian and vegan products.",
+      "the study shows an increase in the consumption of plant-based products in France.",
+      "French retailers are reducing their offer of vegetarian products.",
+      "the popularity of vegetarian diets has decreased in France."
     ]
   },
   {
@@ -739,6 +1306,21 @@
       "Les gestionnaires doivent équilibrer sensibilisation et protection stricte de la nature",
       "limitant d'abord l'accès aux zones sensibles",
       "Des visites guidées sont maintenant autorisées pour sensibiliser le public"
+    ],
+    "english_translation": "A natural park, renowned for its unique biodiversity, has implemented new conservation rules, initially limiting access to sensitive areas to researchers. Guided tours are now authorized to raise public awareness. Although this may improve environmental education, the influx of visitors, even when supervised, can disturb the habitat. Park managers must balance awareness-raising and strict protection of nature.",
+    "english_translation_highlights": [
+      "the influx of visitors, even when supervised, can disturb the habitat",
+      "Although this may improve environmental education",
+      "Park managers must balance awareness-raising and strict protection of nature",
+      "initially limiting access to sensitive areas",
+      "Guided tours are now authorized to raise public awareness"
+    ],
+    "english_question": "According to this analysis…",
+    "english_options": [
+      "guided tours in the park are always beneficial for biodiversity.",
+      "public education is not a priority in natural parks.",
+      "conservation rules are too strict to allow access to the general public.",
+      "the influx of visitors, even when supervised, can sometimes harm the protection of species."
     ]
   }
 ]

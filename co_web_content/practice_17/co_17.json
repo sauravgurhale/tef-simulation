@@ -13,6 +13,18 @@
     "highlights": [
       "la robe bleue",
       "la verte"
+    ],
+    "english_translation": "\"So, which one are you getting?\" \"I'm a little undecided... Alright, I'll take the blue dress, it'll suit me better than the green one.\"",
+    "english_translation_highlights": [
+      "the blue dress",
+      "the green one"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_17_images/co-1-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -30,6 +42,19 @@
       "on a changé le lieu de la réunion",
       "salle 176",
       "salle 116"
+    ],
+    "english_translation": "— Hi Jeanne, we've changed the meeting location. — We'll be in room 176 instead of room 116. — Okay, thanks for the info.",
+    "english_translation_highlights": [
+      "we've changed the meeting location",
+      "room 176",
+      "room 116"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_17_images/co-1-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -49,6 +74,21 @@
       "comme d'hab",
       "je lui disais de me rejoindre",
       "j'en ai profité au max"
+    ],
+    "english_translation": "\"How was your vacation?\" \"Great, I got a good rest. But Joël was working on his computer as usual.\" \"Really?\" \"Yes, really. At first, I kept telling him to come join me, but then I thought too bad for him, and I enjoyed it to the fullest.\"",
+    "english_translation_highlights": [
+      "I got a good rest",
+      "Joël was working on his computer",
+      "as usual",
+      "I kept telling him to come join me",
+      "I enjoyed it to the fullest"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_17_images/co-1-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -66,6 +106,19 @@
       "entretien d'embauche",
       "après-demain",
       "me préparer"
+    ],
+    "english_translation": "— It's the 5th, your job interview is today, right? — Oh no, it's the day after tomorrow, and thankfully that gives me a bit more time to prepare.",
+    "english_translation_highlights": [
+      "job interview",
+      "the day after tomorrow",
+      "prepare"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_17_images/co-1-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -82,6 +135,18 @@
     "highlights": [
       "le petit Nicolas attend ses parents",
       "à l'accueil du magasin"
+    ],
+    "english_translation": "Your attention please, little Nicolas is waiting for his parents at the store's reception desk. Please come and pick him up.",
+    "english_translation_highlights": [
+      "little Nicolas is waiting for his parents",
+      "at the store's reception desk"
+    ],
+    "english_question": "This message announces that…",
+    "english_options": [
+      "little Nicolas's parents are at the reception.",
+      "Nicolas is at the reception and he hears his parents.",
+      "Nicolas and his parents are at the reception and they are waiting.",
+      "Nicolas is at the reception and he is waiting for his parents."
     ]
   },
   {
@@ -101,6 +166,21 @@
       "Des bus de remplacement sont à votre disposition",
       "Vous pouvez également prendre les trains des lignes A, B et D",
       "Le trafic de la ligne C devrait reprendre dans 3 heures"
+    ],
+    "english_translation": "Due to a power outage on Line C, service has been suspended. Replacement buses are available for you. You may also take trains on Lines A, B, and D. Service on Line C is expected to resume in 3 hours. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "Due to a power outage on Line C",
+      "service has been suspended",
+      "Replacement buses are available for you",
+      "You may also take trains on Lines A, B, and D",
+      "Service on Line C is expected to resume in 3 hours"
+    ],
+    "english_question": "This message announces that…",
+    "english_options": [
+      "Line C users can take replacement buses.",
+      "The power outage is over.",
+      "Line C trains will run at 3 AM.",
+      "Lines A, B, and D have problems as well."
     ]
   },
   {
@@ -119,6 +199,20 @@
       "Du 5 juillet au trente-et-un août",
       "votre magasin passe aux horaires d'été",
       "Le dimanche, votre magasin sera ouvert de 9 heures à 13 heures"
+    ],
+    "english_translation": "Dear customers, from July 5th to August 31st, your store is switching to summer hours. We will welcome you from 9 AM to 1 PM, then from 2:30 PM to 8 PM, Monday through Saturday. On Sundays, your store will be open from 9 AM to 1 PM.",
+    "english_translation_highlights": [
+      "from 9 AM to 1 PM, then from 2:30 PM to 8 PM, Monday through Saturday",
+      "from July 5th to August 31st",
+      "your store is switching to summer hours",
+      "On Sundays, your store will be open from 9 AM to 1 PM"
+    ],
+    "english_question": "In this message, it is announced…",
+    "english_options": [
+      "the closing of the store from 1 PM to 2:30 PM, Monday to Saturday.",
+      "the opening of the store from 9 AM to 8 PM Monday to Saturday.",
+      "the opening of the store on Sunday afternoon.",
+      "the closing of the store at 8 PM, every day."
     ]
   },
   {
@@ -135,6 +229,18 @@
     "highlights": [
       "il est interdit de manger et de boire dans la salle",
       "Des rafraîchissements et des en-cas seront disponibles au bar durant l'entracte"
+    ],
+    "english_translation": "Dear spectators, We remind you that eating and drinking are not permitted in the auditorium. Refreshments and snacks will be available at the bar during the intermission. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "eating and drinking are not permitted in the auditorium",
+      "Refreshments and snacks will be available at the bar during the intermission"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "drinks and snacks will be available downstairs.",
+      "spectators will be able to drink and eat at the center bar during the intermission.",
+      "the bar will open after the show.",
+      "you can eat and drink in the auditorium."
     ]
   },
   {
@@ -153,6 +259,20 @@
       "Je pense que je les ai oubliées à la maison",
       "Tu peux vérifier s'il te plaît",
       "J'espère que je ne les ai pas perdues dehors"
+    ],
+    "english_translation": "Hello Julie, I'm going to leave the office in 10 minutes, but I can't find my keys. I think I forgot them at home. Can you check please? I hope I didn't lose them outside. Otherwise, I'll ring the doorbell and you can let me in. See you soon.",
+    "english_translation_highlights": [
+      "I can't find my keys",
+      "I think I forgot them at home",
+      "Can you check please",
+      "I hope I didn't lose them outside"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to ask if Julie has taken her keys.",
+      "to ask Julie to look for her keys outside.",
+      "to say that she has lost her keys outside.",
+      "to ask Julie to look for her keys in the house."
     ]
   },
   {
@@ -171,6 +291,20 @@
       "j'ai enfin reçu ma commande hier",
       "J'ai reçu un email du magasin ce matin",
       "ils vont m'envoyer un chèque cadeau"
+    ],
+    "english_translation": "Hi Ali, I'm just calling to let you know that I finally received my order yesterday. And guess what? I got an email from the store this morning, they're going to send me a gift card to apologize for the delay. In the end, it was worth the wait.",
+    "english_translation_highlights": [
+      "I'm just calling to let you know",
+      "I finally received my order yesterday",
+      "I got an email from the store this morning",
+      "they're going to send me a gift card"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "to inform that the order arrived yesterday.",
+      "to say that she received a gift yesterday.",
+      "to apologize for having sent the check late.",
+      "to inform that the order arrived this morning."
     ]
   },
   {
@@ -189,6 +323,20 @@
       "pour que tu sois de retour au bureau le 13 octobre",
       "On a une grosse réunion le 14 avec les clients chinois",
       "j'aimerais que tu sois là"
+    ],
+    "english_translation": "Hello Jeanne, it's Mario. I received your leave request, but I'd like to know if we can shift the dates by a few days so that you're back in the office on October 13th. We have a big meeting on the 14th with the Chinese clients, and I'd like you to be there. Call me back when you get my message, thanks.",
+    "english_translation_highlights": [
+      "I'd like to know if we can shift the dates by a few days",
+      "so that you're back in the office on October 13th",
+      "We have a big meeting on the 14th with the Chinese clients",
+      "I'd like you to be there"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "to ask Jeanne to change her return date from leave.",
+      "to inform Jeanne that the Chinese clients will arrive on October 13th.",
+      "to ask Mario to take his leave on October 13th.",
+      "to ask Jeanne if she can take her leave in October."
     ]
   },
   {
@@ -208,6 +356,21 @@
       "Pourriez-vous nous l'envoyer",
       "dès que possible",
       "à l'adresse suivante : secrétariat arobase sainte-tiret-anne.point.org"
+    ],
+    "english_translation": "Hello Mrs. Sylas, this is Mrs. Rouvais from Sainte-Anne private school. A proof of address is missing from your son Raphaël's enrollment file. Could you send it to us as soon as possible at the following address: secretariat@sainte-anne.org? Thank you in advance.",
+    "english_translation_highlights": [
+      "this is Mrs. Rouvais from Sainte-Anne private school",
+      "A proof of address is missing from your son Raphaël's enrollment file",
+      "Could you send it to us",
+      "as soon as possible",
+      "at the following address: secretariat@sainte-anne.org"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to enroll his/her son in the Sainte-Anne class.",
+      "to tell Mrs. Silas to send a document by mail.",
+      "to tell Mrs. Rouvet to enroll his/her son at Sainte-Anne school.",
+      "to ask Mrs. Silas to send a document by email."
     ]
   },
   {
@@ -227,6 +390,21 @@
       "pendant mon absence",
       "donc tu n'as plus besoin de le garder",
       "Merci encore de t'être proposée"
+    ],
+    "english_translation": "Hi Fatiha, I spoke to Julie and she agreed to look after my cat while I'm away, so you no longer need to look after it. Thanks again for offering.",
+    "english_translation_highlights": [
+      "I spoke to Julie",
+      "she agreed to look after my cat",
+      "while I'm away",
+      "so you no longer need to look after it",
+      "Thanks again for offering"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to ask if Fatia can look after Julie's cat.",
+      "to inform Fatia that she will look after her cat.",
+      "to say that Julie will look after her cat.",
+      "to offer Fatia to look after her cat."
     ]
   },
   {
@@ -243,6 +421,18 @@
     "highlights": [
       "tu as encore oublié de fermer le frigo",
       "il est resté ouvert toute la journée"
+    ],
+    "english_translation": "Eden, it's Dad. I just got home from work, you forgot to close the fridge again, honestly you're going too far, it stayed open all day.",
+    "english_translation_highlights": [
+      "you forgot to close the fridge again",
+      "it stayed open all day"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to tell Eden that he has left the fridge open again.",
+      "to ask if Eden has properly closed the fridge.",
+      "to let Eden know that he didn't close the fridge at work.",
+      "to tell Eden to close the fridge before going to work."
     ]
   },
   {
@@ -262,6 +452,21 @@
       "mais si le chien est bien dressé, il n'y aura pas de problème",
       "si la race de mon chien était interdite, je serais vraiment furieux",
       "Le problème, c'est les mauvais maîtres, pas les chiens"
+    ],
+    "english_translation": "I have a very gentle Rottweiler, but I can clearly see that some people are afraid when I walk with him in the street, and I understand why. It's because of the news stories about mastiff-type dogs that have injured or killed people, but if the dog is well trained, there won't be any problem. So, if my dog's breed were banned, I would be truly furious. The problem is bad owners, not the dogs.",
+    "english_translation_highlights": [
+      "I understand why",
+      "It's because of the news stories about mastiff-type dogs that have injured or killed people",
+      "but if the dog is well trained, there won't be any problem",
+      "if my dog's breed were banned, I would be truly furious",
+      "The problem is bad owners, not the dogs"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "absolutely for.",
+      "yes, under certain conditions.",
+      "against.",
+      ""
     ]
   },
   {
@@ -281,6 +486,21 @@
       "Ces chiens sont dangereux",
       "leur maître encore plus",
       "Donc moi, je suis pour l'interdiction de ce genre de chien"
+    ],
+    "english_translation": "I live in a rough neighborhood in the suburbs, and honestly it's a disaster. Over there, there are pitbulls everywhere. I've never been bitten, but my neighbor has. These dogs are dangerous, and their owners even more so. So personally, I'm in favor of banning this type of dog.",
+    "english_translation_highlights": [
+      "honestly it's a disaster",
+      "there are pitbulls everywhere",
+      "These dogs are dangerous",
+      "their owners even more so",
+      "So personally, I'm in favor of banning this type of dog"
+    ],
+    "english_question": "The person being questioned is…",
+    "english_options": [
+      "absolutely for.",
+      "yes, under certain conditions.",
+      "against.",
+      ""
     ]
   },
   {
@@ -301,6 +521,22 @@
       "Et après, quand tout sera régulé",
       "que les maîtres seront obligés de dresser leurs chiens par exemple",
       "on pourra à nouveau accepter toutes les races de chiens"
+    ],
+    "english_translation": "It's clear that all of this needs to be regulated because today, anyone can have a dog of any breed. So perhaps we can ban them while rules and laws are being put in place. And then, once everything is regulated, when owners are required to train their dogs for example, we can once again accept all dog breeds.",
+    "english_translation_highlights": [
+      "It's clear that all of this needs to be regulated",
+      "anyone can have a dog of any breed",
+      "perhaps we can ban them while rules and laws are being put in place",
+      "And then, once everything is regulated",
+      "when owners are required to train their dogs for example",
+      "we can once again accept all dog breeds"
+    ],
+    "english_question": "The person being interviewed is…",
+    "english_options": [
+      "absolutely for.",
+      "yes, under certain conditions.",
+      "against.",
+      ""
     ]
   },
   {
@@ -319,6 +555,20 @@
       "primordial",
       "Si j'apprenais qu'elle l'utilisait en classe ou même dans la cour de récré, je lui confisquerais son portable sur le champ",
       "L'école, c'est fait pour étudier, pas pour téléphoner ou regarder TikTok"
+    ],
+    "english_translation": "My daughter has a mobile phone and she takes it to school. If I found out she was using it in class or even in the playground, I would confiscate her phone on the spot. School is for studying, not for making phone calls or watching TikTok. So it's essential that we have clear rules to prevent children from using them in schools.",
+    "english_translation_highlights": [
+      "it's essential that we have clear rules",
+      "essential",
+      "If I found out she was using it in class or even in the playground, I would confiscate her phone on the spot",
+      "School is for studying, not for making phone calls or watching TikTok"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is important but not essential.",
+      "has no opinion on the matter.",
+      ""
     ]
   },
   {
@@ -336,6 +586,19 @@
       "Je ne sais pas",
       "je laisse les parents décider",
       "j'ai pas d'enfants, donc"
+    ],
+    "english_translation": "It's true that we have quite a few problems with school bullying and also on social media. But is banning phones at school the solution? I don't know. And besides, I don't have any children, so I'll let the parents decide.",
+    "english_translation_highlights": [
+      "I don't know",
+      "I'll let the parents decide",
+      "I don't have any children, so"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is important but not essential.",
+      "has no opinion on the matter.",
+      ""
     ]
   },
   {
@@ -354,6 +617,20 @@
       "la vraie priorité, c'est l'éducation aux médias et aux réseaux sociaux",
       "Sans ça, interdire les téléphones ne sert à rien",
       "Mais selon moi"
+    ],
+    "english_translation": "I believe that phones are an integral part of our lives, whether we like it or not. Banning phones at school, in middle school or high school, is important and it's the right thing to do in most schools. But in my opinion, the real priority is education about media and social networks. Without that, banning phones is pointless.",
+    "english_translation_highlights": [
+      "is important",
+      "the real priority is education about media and social networks",
+      "Without that, banning phones is pointless",
+      "But in my opinion"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is important but not essential.",
+      "has no opinion on the matter.",
+      ""
     ]
   },
   {
@@ -372,6 +649,20 @@
       "les visiteurs goûtent des plats du monde entier, cuisinés par des chefs renommés français et étrangers, ainsi que des membres d'associations culinaires",
       "créé par une association de quartier il y a 10 ans",
       "les membres d'associations culinaires de quartier côtoient des chefs étoilés venus des quatre coins du monde, et de France bien sûr"
+    ],
+    "english_translation": "What if you could travel the time of a meal? That's what the Cuisine du Monde festival offers you, held every year in Paris. Over a weekend, visitors taste dishes from around the world, prepared by renowned French and foreign chefs, as well as members of culinary associations. This festival, created by a neighborhood association 10 years ago, has grown spectacularly, but it always remains both friendly and open to the world and to others. What started as a neighborhood project has turned into an unmissable event blending starred cuisine and social action. Like last year, members of neighborhood culinary associations rub shoulders with starred chefs from the four corners of the world, and from France of course. A guaranteed journey for the taste buds.",
+    "english_translation_highlights": [
+      "Cuisine du Monde festival offers you, held every year in Paris",
+      "visitors taste dishes from around the world, prepared by renowned French and foreign chefs, as well as members of culinary associations",
+      "created by a neighborhood association 10 years ago",
+      "members of neighborhood culinary associations rub shoulders with starred chefs from the four corners of the world, and from France of course"
+    ],
+    "english_question": "This column presents a festival that…",
+    "english_options": [
+      "takes place in Paris and highlights foreign cuisine.",
+      "brings together associations and French and foreign chefs.",
+      "offers cooking workshops for associations.",
+      "was created by French and foreign chefs."
     ]
   },
   {
@@ -392,6 +683,22 @@
       "on est moins vigilant, on a du mal à se concentrer et à penser de façon logique quand on manque de sommeil",
       "des études ont montré que le manque de sommeil accélère le vieillissement des cellules",
       "y compris celles de la peau"
+    ],
+    "english_translation": "Dear listeners, how many hours did you sleep last night? 5 hours, 8 hours? What time did you go to bed, and then wake up? These questions may seem intrusive, but answering them is essential if you want to take charge of your health. So, if you sleep little at night because you're looking at your screens or working on your files until all hours, the information that follows may make you change your ways. Indeed, studies have shown that lack of sleep has very serious effects on health, including: increased risk of heart disease and neurodegenerative diseases, cancer, and obesity. Moreover, lack of sleep affects cognitive abilities. Thus, we are less alert, we have difficulty concentrating and thinking logically when we lack sleep. And if we get behind the wheel under these conditions, we become a danger to ourselves and to others. One last fact: studies have shown that lack of sleep accelerates the aging of cells, including skin cells. Perhaps this last piece of information will motivate you to sleep more at night. In any case, I hope so. See you soon for a new health column.",
+    "english_translation_highlights": [
+      "if you sleep little at night because you're looking at your screens or working on your files until all hours, the information that follows may make you change your ways",
+      "studies have shown that lack of sleep has very serious effects on health",
+      "lack of sleep affects cognitive abilities",
+      "we are less alert, we have difficulty concentrating and thinking logically when we lack sleep",
+      "studies have shown that lack of sleep accelerates the aging of cells",
+      "including skin cells"
+    ],
+    "english_question": "According to this chronicle…",
+    "english_options": [
+      "looking at screens and working late has no effect on health.",
+      "obese people sleep little and look at screens in the evening.",
+      "you age faster and think less well when you don't sleep enough.",
+      "not sleeping enough promotes loss of appetite."
     ]
   },
   {
@@ -411,6 +718,21 @@
       "Mon but est que les gens le lisent et que les consciences s'éveillent",
       "dans mon essai, j'explique bien que les cas d'addiction au sens psychiatrique du terme sont rares",
       "Un écran, ce n'est pas une cigarette ou de la drogue"
+    ],
+    "english_translation": "Tonight, we welcome author Jacques Roulier. — Good evening, Mr. Roulier. — Good evening, Mrs. Loris. You are the author of the essay *Everyone's Hooked on Screens*, in which you talk about dependence on mobile phones, computers, and social media. My first question is this: Can we really speak of dependence? A screen isn't a cigarette or a drug, so why this title? — I use the term \"hooked\" in the book's title in a provocative way, to shock and spark curiosity. My goal is for people to read it and for awareness to be raised. But in my essay, I make it clear that cases of addiction in the psychiatric sense of the term are rare. However, I believe most people use their screens excessively and to a worrying degree, especially young people who spend hours on them and whose health is at risk because of screens. For example, according to a study conducted in 2019 by researchers at the University of California, young people who spend more than 7 hours a day in front of a screen show a decrease in white matter in their brains, which can impair their ability to learn and concentrate. And overexposure to screens causes other problems in both children and adults, such as obesity and increased cardiac risks due to a decline in physical activity caused by time spent in front of screens. Not to mention the studies that point to psychiatric and psychological disorders linked to intense screen exposure, such as depression. I sincerely believe this is a public health problem that will explode in the future and whose repercussions we are already seeing. We need to wake up and look for solutions. In your essay, you present and denounce the facts and you imagine the consequences that overexposure to screens could have on our civilization. But you don't offer clear solutions, such as banning phones for children or regulating hours of use. Why is that? Why not propose solutions? — That's not the purpose of my essay. This book is somewhat my way of sounding the alarm. And you're right, there are solutions that seem simple at first glance. But that doesn't account for the tools and the creators we're exposed to. Facebook, YouTube, Twitter—all these networks are designed to be, quote unquote, addictive. I plan to explore these questions and also propose solutions in my next book. For now, my goal is to wake people up.",
+    "english_translation_highlights": [
+      "I use the term \"hooked\" in the book's title in a provocative way",
+      "to shock and spark curiosity",
+      "My goal is for people to read it and for awareness to be raised",
+      "in my essay, I make it clear that cases of addiction in the psychiatric sense of the term are rare",
+      "A screen isn't a cigarette or a drug"
+    ],
+    "english_question": "The author chose the title \"addicted to screens\"…",
+    "english_options": [
+      "because this addiction is as real as drug addiction.",
+      "to challenge the public and provoke interest in the book.",
+      "to minimize the problem of social media.",
+      "because it is an interesting title."
     ]
   },
   {
@@ -430,6 +752,21 @@
       "les jeunes qui passent plus de 7 heures par jour devant un écran ont une diminution de la substance blanche dans leur cerveau, ce qui peut nuire à leur capacité à apprendre et à se concentrer",
       "la santé est à risque à cause des écrans",
       "Je pense sincèrement que c'est un problème de santé publique"
+    ],
+    "english_translation": "Tonight, we welcome author Jacques Roulier. — Good evening, Mr. Roulier. — Good evening, Mrs. Loris. You are the author of the essay *Everyone's Hooked on Screens*, in which you talk about dependence on cell phones, computers, and social media. My first question is this: Can we really talk about dependence? A screen isn't a cigarette or a drug, so why this title? — I use the term \"hooked\" in the book's title in a provocative way, to shock and spark curiosity. My goal is for people to read it and for awareness to be raised. But in my essay, I clearly explain that cases of addiction in the psychiatric sense of the term are rare. However, I believe most people use their screens excessively and to a worrying degree, especially young people who spend hours on them and whose health is at risk because of screens. For example, according to a study conducted in 2019 by researchers at the University of California, young people who spend more than 7 hours a day in front of a screen show a decrease in white matter in their brains, which can impair their ability to learn and concentrate. And overexposure to screens causes other problems in children and adults, such as obesity and increased cardiac risks due to a decline in physical activity caused by time spent in front of screens. Not to mention studies that point to psychiatric and psychological disorders linked to intense screen exposure, such as depression. I sincerely believe this is a public health issue that will explode in the future and whose effects we are already seeing. We need to wake up and look for solutions. In your essay, you present and denounce the facts and you imagine the consequences that overexposure to screens could have on our civilization. But you don't offer clear solutions, such as banning phones for children or regulating hours of use. Why is that? Why not propose solutions? — That's not the purpose of my essay. This book is somewhat my way of sounding the alarm. And you're right, there are solutions that seem simple at first glance. But that doesn't account for the tools and the creators we are exposed to. Facebook, YouTube, Twitter — all these networks are designed to be, quote-unquote, addictive. I plan to explore these questions and also propose solutions in my next book. For now, my goal is to wake people up.",
+    "english_translation_highlights": [
+      "overexposure to screens causes other problems in children and adults",
+      "such as obesity and increased cardiac risks due to a decline in physical activity caused by time spent in front of screens",
+      "young people who spend more than 7 hours a day in front of a screen show a decrease in white matter in their brains, which can impair their ability to learn and concentrate",
+      "health is at risk because of screens",
+      "I sincerely believe this is a public health issue"
+    ],
+    "english_question": "The guest indicates that…",
+    "english_options": [
+      "overexposure to screens causes various health problems.",
+      "children are the only ones who have problems because of screens.",
+      "young people overexposed to screens are all depressed.",
+      "overexposure to screens does not impact mental health."
     ]
   },
   {
@@ -448,6 +785,20 @@
       "Pour ce qui est des demandes d'asile, elles ont explosé de 56 % en un an",
       "En 2023, 5 000 000 de personnes ont fait une demande d'immigration au Canada",
       "selon un sondage, 44 % des Canadiens pensent que oui, c'est trop"
+    ],
+    "english_translation": "Does Canada still inspire dreams, or is the rest of the world becoming increasingly nightmarish? That's the question we're asking today to Matteo Gardien, a journalist specializing in immigration in North America. Mr. Gardien, good evening and thank you for being with us tonight. — Good evening, and thank you for having me. So, can we talk about an immigration crisis in Canada? — It's true that the number of immigration applications under government immigration programs has been increasing for several years. As for asylum claims, they surged by 56% in one year. For centuries, Canada has gone from being a colony to a land of welcome for migrants. I should clarify that I use the term colony because, let's remember, Indigenous peoples lived on these lands long before the French and then the British. In recent decades, the country has had to face significant challenges, particularly in terms of housing and access to healthcare. So, although Canada needs migrants and adopts a voluntary and controlled immigration policy, managing this influx of people remains difficult. Add to that the arrival of many asylum seekers, and it makes things even more complicated. In 2023, 5 million people applied for immigration to Canada. Clearly, Canada attracts a lot of people, but is the country taking in too many? Because according to a poll, 44% of Canadians think that yes, it's too many. The reality is that the country has an aging population and needs skilled labor. Under these circumstances, I believe immigration is not an option—it's a necessity. That's why the Canadian government wants to welcome 500,000 immigrants by 2025 to address these problems. But the reluctance of some citizens, including some politicians, is understandable. As I said earlier, the lack of housing and difficulties accessing healthcare are daily realities for Canadians. So it's logical that some question the country's capacity to absorb newcomers and want to restrict the number of arrivals.",
+    "english_translation_highlights": [
+      "the Canadian government wants to welcome 500,000 immigrants by 2025",
+      "As for asylum claims, they surged by 56% in one year",
+      "In 2023, 5 million people applied for immigration to Canada",
+      "according to a poll, 44% of Canadians think that yes, it's too many"
+    ],
+    "english_question": "The guest indicates that Canada…",
+    "english_options": [
+      "would like to welcome 500,000 immigrants by 2025.",
+      "has seen its immigration rate increase by 56%.",
+      "has counted 5 million immigrants since 2023.",
+      "welcomes few migrants, according to 44% of Canadians."
     ]
   },
   {
@@ -467,6 +818,21 @@
       "le manque de logement et les difficultés d'accès aux soins de santé sont des réalités quotidiennes pour les Canadiens",
       "le pays a dû faire face à des défis importants, notamment en matière de logement et d'accès aux soins",
       "la gestion de cet afflux de population reste difficile"
+    ],
+    "english_translation": "Does Canada still inspire dreams, or is the rest of the world becoming increasingly nightmarish? That's the question we're asking today to Matteo Gardien, a journalist specializing in immigration in North America. Mr. Gardien, good evening and thank you for being with us tonight. — Good evening, and thank you for having me. So, can we speak of an immigration crisis in Canada? — It's true that the number of immigration applications under government immigration programs has been increasing for several years. As for asylum claims, they surged by 56% in one year. For centuries, Canada has gone from being a colony to a welcoming land for migrants. I should clarify that I use the term colony because, let's remember, Indigenous peoples lived on these lands long before the French and then the British. In recent decades, the country has had to face significant challenges, particularly in terms of housing and access to healthcare. So, although Canada needs migrants and adopts a voluntary and controlled immigration policy, managing this influx of people remains difficult. Add to that the arrival of many asylum seekers, and it complicates things even further. In 2023, 5 million people applied for immigration to Canada. Clearly, Canada attracts people, but is the country taking in too many? Because according to a poll, 44% of Canadians think that yes, it's too many. The reality is that the country has an aging population and needs skilled labor. Under these circumstances, I believe immigration is not an option—it's a necessity. That's why the Canadian government wants to welcome 500,000 immigrants by 2025 to address these issues. But the reluctance of some citizens, including some politicians, is understandable. As I said earlier, the lack of housing and difficulties accessing healthcare are daily realities for Canadians. So it's logical that some question the country's capacity to welcome newcomers and wish to restrict the number of arrivals.",
+    "english_translation_highlights": [
+      "So it's logical that some question the country's capacity to welcome newcomers and wish to restrict the number of arrivals.",
+      "the reluctance of some citizens, including some politicians, is understandable",
+      "the lack of housing and difficulties accessing healthcare are daily realities for Canadians",
+      "the country has had to face significant challenges, particularly in terms of housing and access to healthcare",
+      "managing this influx of people remains difficult"
+    ],
+    "english_question": "According to the guest,…",
+    "english_options": [
+      "Canada should only welcome skilled labor.",
+      "the housing supply and access to healthcare are sufficient.",
+      "concerns about the capacity to welcome migrants are legitimate.",
+      "Canada should welcome more asylum seekers."
     ]
   },
   {
@@ -487,6 +853,22 @@
       "certains enseignants peuvent ajuster leur programme pour refléter la diversité culturelle des élèves d'une classe spécifique.",
       "L'objectif est de favoriser l'équité en matière d'éducation en classe, en éliminant les obstacles pour les élèves de diverses origines culturelles.",
       "Mais l'éducation multiculturelle s'applique dans diverses sphères"
+    ],
+    "english_translation": "Today, I'm joined by Jade Tran, a pediatrician who advocates for multicultural education in all schools. — Jade, hello and thank you for being here. — Hello Armand, thank you for having me. First of all, can you explain to us what multicultural education is? — Yes, with pleasure. Multicultural education is a type of educational model that emphasizes diversity and equity. Teachers seek to better understand students' cultures, and when possible, they align their course content with the learners' backgrounds. Furthermore, this type of education introduces all students to various cultural backgrounds, beliefs, and values. In practice, some teachers may adjust their curriculum to reflect the cultural diversity of students in a specific class. The goal is to promote equity in classroom education by eliminating barriers for students from diverse cultural backgrounds. But multicultural education applies in various spheres, such as the family sphere, for example. — Thank you for clarifying that. We can actually address this aspect of multicultural education by answering a listener's question, which is the following: \"If my child learns my mother tongue, will they have difficulty learning the host country's language properly?\" — That's a very good question. If you immigrated with your children or if your children were born in the host country, I strongly recommend that you speak to them in your mother tongue. It's a way to pass on your culture to them and help them build their identity. Moreover, it won't prevent them from learning the host country's language — quite the opposite, in fact. There are numerous studies showing that multilingualism is beneficial for children's cognitive development. So sir, yes, you can speak to your children in your mother tongue.",
+    "english_translation_highlights": [
+      "Multicultural education is a type of educational model that emphasizes diversity and equity.",
+      "Teachers seek to better understand students' cultures, and when possible, they align their course content with the learners' backgrounds.",
+      "this type of education introduces all students to various cultural backgrounds, beliefs, and values.",
+      "some teachers may adjust their curriculum to reflect the cultural diversity of students in a specific class.",
+      "The goal is to promote equity in classroom education by eliminating barriers for students from diverse cultural backgrounds.",
+      "But multicultural education applies in various spheres"
+    ],
+    "english_question": "The guest explains that multicultural education…",
+    "english_options": [
+      "integrates the learners' culture into the lessons.",
+      "is reserved for immigrant students, not local ones.",
+      "focuses solely on the learners' culture of origin.",
+      "aims to teach all the world's cultures to students."
     ]
   },
   {
@@ -506,6 +888,21 @@
       "cela ne les empêchera pas d'apprendre la langue du pays d'accueil, bien au contraire",
       "le multilinguisme est bénéfique pour le développement cognitif des enfants",
       "vous pouvez parler à vos enfants dans votre langue maternelle"
+    ],
+    "english_translation": "Today, I'm welcoming Jade Tran, a pediatrician who advocates for multicultural education in all schools. — Jade, hello and thank you for being here. — Hello Armand, thank you for having me. First of all, can you explain to us what multicultural education is? — Yes, with pleasure. Multicultural education is a type of educational model that emphasizes diversity and equity. Teachers seek to better understand students' cultures, and when possible, they align their course content with the learners' backgrounds. Furthermore, this type of education introduces all students to various cultural backgrounds, beliefs, and values. In practical terms, some teachers may adjust their curriculum to reflect the cultural diversity of students in a specific class. The goal is to promote equity in classroom education by eliminating barriers for students from diverse cultural backgrounds. But multicultural education applies in various spheres, such as the family sphere, for example. — Thank you for clarifying that. We can actually address this aspect of multicultural education by answering a listener's question, which is the following: \"If my child learns my native language, will they have difficulty learning the host country's language properly?\" — That's a very good question. If you immigrated with your children or if your children were born in the host country, I strongly recommend that you speak to them in your native language. It's a way to pass on your culture to them and help them build their identity. Moreover, it won't prevent them from learning the host country's language — quite the opposite, in fact. There are many studies that show that multilingualism is beneficial for children's cognitive development. So sir, yes, you can speak to your children in your native language.",
+    "english_translation_highlights": [
+      "I strongly recommend that you speak to them in your native language",
+      "It's a way to pass on your culture to them",
+      "it won't prevent them from learning the host country's language — quite the opposite, in fact",
+      "multilingualism is beneficial for children's cognitive development",
+      "you can speak to your children in your native language"
+    ],
+    "english_question": "The guest recommends to immigrants…",
+    "english_options": [
+      "to pass on the mothers' language to the children.",
+      "to speak only in the language of the host country to their children.",
+      "to teach the culture of the host country to the children.",
+      "to speak and pass on their first language to their children."
     ]
   },
   {
@@ -527,6 +924,23 @@
       "plusieurs Français musulmans ont quitté ou envisagent de quitter la France",
       "cette tendance ne semble pas s'estomper",
       "Comme Samia, plusieurs Français musulmans ont quitté ou envisagent de quitter la France"
+    ],
+    "english_translation": "According to a survey conducted in 2023, 54% of young French people aged 18 to 24 want to leave France. 30% of French people, across all age groups, share the same desire. But why do they want to leave their country? Sonia, twenty-one years old, explains her reasons to us. — Honestly, it's hard to succeed here when you don't come from a privileged background. Not only is there unemployment, but on top of that, becoming a homeowner is nearly impossible even when you have a job. For example, my mother wanted to buy a place, she saved 30,000 euros for a down payment. She wants to buy an apartment for 98,000 euros, but the banker refuses to grant her the loan. He says she needs a bigger down payment for him to lend her the money. This country is ridiculous. Yet, according to INSEE, the unemployment rate stabilized at 7.5% in the first quarter of 2024. As for real estate and housing, there is indeed a crisis. In 2023, the number of sales dropped by 22%, while the construction of social housing fell considerably behind. If you add to that the social tensions and the political climate, particularly since the latest legislative elections, it's easier to understand why some French people want to leave. Samia, 30, is a computer engineer. She earns a good living and owns an apartment in the near suburbs of Paris. On the face of it, she has no reason to leave, and yet she is considering moving to Morocco. — I was born in France, but I admit that for some time now, I've had trouble calling France my country. The social and political climate is becoming truly suffocating. As you can see, I don't wear the veil, but my mother does, and I can no longer stand the looks people give her. It's the same in the media: all the rhetoric and remarks, often racist in my opinion, it's truly unbearable. So honestly, I think about leaving a lot. The mortgage on my apartment is paid off, I can sell it without regret. And besides, in my field, working abroad isn't difficult, and I can work remotely. Like Samia, several French Muslims have left or are considering leaving France. And according to a study, the majority of them are highly educated and qualified. A loss for France, but this trend does not seem to be fading. Marc Garriglio, Radio Bleu.",
+    "english_translation_highlights": [
+      "According to a survey conducted in 2023, 54% of young French people aged 18 to 24 want to leave France",
+      "30% of French people, across all age groups, share the same desire",
+      "But why do they want to leave their country?",
+      "she is considering moving to Morocco",
+      "several French Muslims have left or are considering leaving France",
+      "this trend does not seem to be fading",
+      "Like Samia, several French Muslims have left or are considering leaving France"
+    ],
+    "english_question": "This report deals with…",
+    "english_options": [
+      "the desire of young French people to immigrate.",
+      "French people who want to settle in the Maghreb.",
+      "the arrival of young immigrants in France.",
+      "unemployment and the housing crisis in France."
     ]
   },
   {
@@ -551,6 +965,26 @@
       "dans mon secteur, travailler à l'étranger n'est pas difficile",
       "plusieurs Français musulmans ont quitté ou envisagent de quitter la France",
       "la majorité d'entre eux sont hautement diplômés et qualifiés"
+    ],
+    "english_translation": "According to a survey conducted in 2023, 54% of young French people aged 18 to 24 wish to leave France. 30% of French people, across all age groups, share the same desire. But why do they want to leave their country? Sonia, twenty-one years old, explains her reasons to us. — Honestly, it's hard to succeed here when you don't come from a privileged background. Not only is there unemployment, but on top of that, becoming a homeowner is almost impossible even when you have a job. For example, my mother wanted to buy a place, she saved 30,000 euros for a down payment. She wants to buy an apartment for 98,000 euros, but the banker refuses to grant her the loan. He says she needs a bigger down payment for him to lend her the money. This country is ridiculous. Yet, according to INSEE, the unemployment rate stabilized at 7.5% in the first quarter of 2024. As for real estate and housing, there is indeed a crisis. In 2023, the number of sales dropped by 22%, while the construction of social housing fell considerably behind. If you add to that the social tensions and the political climate, particularly since the last legislative elections, it's easier to understand why some French people want to leave. Samia, 30, is a computer engineer; she earns a good living and owns an apartment in the near suburbs of Paris. On the face of it, she has no reason to leave, and yet she is considering moving to Morocco. — I was born in France, but I admit that for some time now, I've found it hard to call France my country. The social and political climate is becoming truly suffocating. As you can see, I don't wear the veil, but my mother does, and I can no longer stand the stares directed at her. It's the same in the media: all the rhetoric and remarks, often racist in my opinion, are truly unbearable. So honestly, I think about leaving a lot. The mortgage on my apartment is paid off, I can sell it without regret. And besides, in my field, working abroad isn't difficult, and I can work remotely. Like Samia, several French Muslims have left or are considering leaving France. And according to a survey, the majority of them are highly educated and qualified. A loss for France, but this trend does not seem to be fading. Marc Garriglio, Radio Bleu.",
+    "english_translation_highlights": [
+      "I was born in France, but I admit that for some time now, I've found it hard to call France my country.",
+      "The social and political climate is becoming truly suffocating.",
+      "As you can see, I don't wear the veil, but my mother does, and I can no longer stand the stares directed at her.",
+      "It's the same in the media: all the rhetoric and remarks, often racist in my opinion, are truly unbearable.",
+      "So honestly, I think about leaving a lot.",
+      "she is considering moving to Morocco",
+      "The mortgage on my apartment is paid off, I can sell it without regret.",
+      "in my field, working abroad isn't difficult",
+      "several French Muslims have left or are considering leaving France",
+      "the majority of them are highly educated and qualified"
+    ],
+    "english_question": "Samia wishes to leave France…",
+    "english_options": [
+      "in order to be able to buy an apartment in Morocco or Canada.",
+      "because she found a new job in Canada.",
+      "because of the discrimination that Muslims face.",
+      "because her mother can no longer stand her life in France."
     ]
   },
   {
@@ -570,6 +1004,21 @@
       "Il affirme que les propositions ne répondent à aucune demande du syndicat",
       "la direction a stipulé que, sans accord, les licenciements seraient plus importants qu'initialement prévus",
       "La direction réfute toute tentative d'intimidation"
+    ],
+    "english_translation": "The strike by employees of the Copalis company continues. Negotiations between the unions and management have not resulted in any solution. Union representative Gilbert Glandois denounces, and I quote, an attempted intimidation by management. He states that the proposals do not address any of the union's demands but impose additional ones. And according to him, management stipulated that without an agreement, the layoffs would be greater than initially planned. Management denies any attempt at intimidation and reminds that the negotiating table will remain open until next Monday.",
+    "english_translation_highlights": [
+      "Negotiations between the unions and management have not resulted in any solution",
+      "Union representative Gilbert Glandois denounces, and I quote, an attempted intimidation by management",
+      "He states that the proposals do not address any of the union's demands",
+      "management stipulated that without an agreement, the layoffs would be greater than initially planned",
+      "Management denies any attempt at intimidation"
+    ],
+    "english_question": "According to this information…",
+    "english_options": [
+      "the negotiations with management were successful.",
+      "Gilbert Glandois thinks that management is timid.",
+      "Mr. Glandois accuses management of threatening the strikers.",
+      "management refuses to intimidate the union members."
     ]
   },
   {
@@ -589,6 +1038,21 @@
       "La jeune femme vit en France depuis 2021",
       "après avoir fui son pays d'origine",
       "Elle dédie sa victoire aux femmes afghanes et à tous les réfugiés"
+    ],
+    "english_translation": "And now a beautiful sporting and human story. On Thursday, August 29, 2024, athlete Zakia Khudadadi won the first medal in the history of the Paralympic refugee team, originally from Afghanistan. The young woman has been living in France since 2021 after fleeing her home country. Zakia Khudadadi says she is very proud to have shone a light on para-taekwondo and on all refugees. She dedicates her victory to Afghan women and to all refugees.",
+    "english_translation_highlights": [
+      "won the first medal in the history of the Paralympic refugee team",
+      "originally from Afghanistan",
+      "The young woman has been living in France since 2021",
+      "after fleeing her home country",
+      "She dedicates her victory to Afghan women and to all refugees"
+    ],
+    "english_question": "According to this information, Zakia is…",
+    "english_options": [
+      "an athlete representing Afghanistan at the Paralympic Games.",
+      "the first medalist of the Paralympic refugee team.",
+      "a French athlete of Afghan origin.",
+      "is the first Afghan woman to participate in the Paralympic Games."
     ]
   },
   {
@@ -607,6 +1071,20 @@
       "Ensuite, il y aura un moment de questions-réponses",
       "j'encourage aussi bien les adhérents que les visiteurs à poser des questions",
       "Après les échanges, les visiteurs et habitants du quartier qui souhaitent s'inscrire à l'association pourront venir me voir"
+    ],
+    "english_translation": "Dear members of the Saint-Louis neighborhood association and dear visitors, thank you for being here at this meeting. Tonight, the goal is to present the calendar of actions and activities for the last quarter. I will do the first part of the presentation, then Loana will take over. Afterwards, there will be a question-and-answer session, and I encourage both members and visitors to ask questions. After the discussions, visitors and neighborhood residents who wish to join the association can come see me. And here's the best part saved for last: we'll socialize over drinks and small dishes prepared by Yvette, Johanna, and Paula. I remind you that Yvette and Paula are excellent cooks and that Johanna is a Michelin-starred chef, so don't miss the tastings.",
+    "english_translation_highlights": [
+      "I will do the first part of the presentation, then Loana will take over",
+      "Afterwards, there will be a question-and-answer session",
+      "I encourage both members and visitors to ask questions",
+      "After the discussions, visitors and neighborhood residents who wish to join the association can come see me"
+    ],
+    "english_question": "The person invites…",
+    "english_options": [
+      "visitors to register before asking questions.",
+      "visitors to give feedback on the presentation.",
+      "members to ask questions and to stay for the meal.",
+      "the audience to ask questions at the end of the presentation."
     ]
   },
   {
@@ -627,6 +1105,22 @@
       "Les visiteurs pourront admirer des toiles et des sculptures, voir des films et des représentations de danse, et admirer des vêtements de haute couture",
       "Ils pourront également toucher des matières textiles douces, écouter de la musique, danser et goûter des plats doux et goûteux",
       "Une exposition ambitieuse où le visiteur est invité à participer à une douce expérience qui encourage le dialogue et l'échange"
+    ],
+    "english_translation": "A little softness in a harsh world—that is what the immersive and interactive exhibition *Sweet Sensation* offers, exploring the theme of softness through the five senses. The exhibition runs until November 11, a symbolic date as it marks the end of World War I. A symbol for the exhibition's creator, Gilles Duval, for whom softness is an underestimated force. Visitors will be able to admire paintings and sculptures, watch films and dance performances, and admire haute couture garments that evoke softness. They will also be able to touch soft textile materials, listen to music, dance, and taste sweet and flavorful dishes prepared by Michelin-starred chefs. An ambitious exhibition where the visitor is invited to take part in a gentle experience that encourages dialogue and exchange.",
+    "english_translation_highlights": [
+      "exploring the theme of softness through the five senses",
+      "The exhibition runs until November 11, a symbolic date as it marks the end of World War I",
+      "A symbol for the exhibition's creator, Gilles Duval, for whom softness is an underestimated force",
+      "Visitors will be able to admire paintings and sculptures, watch films and dance performances, and admire haute couture garments",
+      "They will also be able to touch soft textile materials, listen to music, dance, and taste sweet and flavorful dishes",
+      "An ambitious exhibition where the visitor is invited to take part in a gentle experience that encourages dialogue and exchange"
+    ],
+    "english_question": "According to this chronicle, the exhibition…",
+    "english_options": [
+      "has the theme of softness and World War I.",
+      "also invites visitors to participate in activities.",
+      "will present pre-war paintings and sculptures.",
+      "offers visitors the opportunity to paint."
     ]
   },
   {
@@ -646,6 +1140,21 @@
       "Elle interprétera ses plus grands succès, mais aussi des titres inédits",
       "son nouvel opus sortira le 10 septembre",
       "rendez-vous le 5 juillet dans le mythique Brest Arena"
+    ],
+    "english_translation": "On Friday, July 5th, singer Jeanne Morgan will make her grand return to the stage after a 5-year absence. The concert will take place at the Brest Arena, quite a symbol for the Breton artist, a native of Brest. She will perform her greatest hits, but also unreleased tracks. Because yes, Jeanne Morgan will be giving us a new album. This is what she revealed in an interview published in the magazine Sonérase, specifying that her new opus will be released on September 10th. But if you're too impatient to wait until then, head to the legendary Brest Arena on July 5th.",
+    "english_translation_highlights": [
+      "On Friday, July 5th, singer Jeanne Morgan will make her grand return to the stage after a 5-year absence",
+      "The concert will take place at the Brest Arena",
+      "She will perform her greatest hits, but also unreleased tracks",
+      "her new opus will be released on September 10th",
+      "head to the legendary Brest Arena on July 5th"
+    ],
+    "english_question": "According to this chronicle, the artist…",
+    "english_options": [
+      "will sing old songs and new tracks on July 10th.",
+      "will release an album on July 5th and another on September 10th.",
+      "will take the stage on July 5th and September 10th.",
+      "is singing on the stage of the \"Brest Arena\" after a 5-year absence."
     ]
   },
   {
@@ -669,6 +1178,25 @@
       "Encore nommé personnalité politique préférée des Français l'année dernière",
       "il est à présent devancé par Gabriel Attal",
       "faire parler de lui en pleine crise gouvernementale est certainement un coup politique"
+    ],
+    "english_translation": "It's official: Édouard Philippe is a candidate for the next presidential election. The former prime minister under Macron from 2017 to 2020 announced today that he is entering the race, and it's not a surprise. However, one question arises: why today? Indeed, as of today, President Macron has still not appointed a new Prime Minister following the legislative elections. Some believe Édouard Philippe saw this as the opportune moment to turn the spotlight on himself. Still named the French people's favorite political figure last year, according to an IFOP poll, he is now surpassed by Gabriel Attal. In this context, getting people talking about him in the midst of a government crisis is certainly a political move. If so, one can say it was a successful one.",
+    "english_translation_highlights": [
+      "Édouard Philippe is a candidate for the next presidential election",
+      "announced today that he is entering the race",
+      "why today?",
+      "The former prime minister under Macron from 2017 to 2020",
+      "President Macron has still not appointed a new Prime Minister",
+      "Édouard Philippe saw this as the opportune moment to turn the spotlight on himself",
+      "Still named the French people's favorite political figure last year",
+      "he is now surpassed by Gabriel Attal",
+      "getting people talking about him in the midst of a government crisis is certainly a political move"
+    ],
+    "english_question": "According to the journalist, Edouard Philippe announces…",
+    "english_options": [
+      "that he remains the favorite personality of the French ahead of Gabriel Attal.",
+      "that today, he is no longer Prime Minister.",
+      "that he is the Prime Minister of the French Macron government.",
+      "his candidacy for the presidential election today, to make an impression."
     ]
   },
   {
@@ -688,6 +1216,21 @@
       "ne manquez pas l'émission Vie pro, vie perso présentée par Jacqueline Riollay",
       "Rendez-vous à 14 heures dans Vie pro vie perso",
       "Si vous êtes stressé et angoissé par la rentrée et ne savez pas comment la gérer"
+    ],
+    "english_translation": "The start of the new school year is fast approaching, and with it the usual batch of questions: will we have time to buy all the school supplies? We still haven't found a babysitter—what are we going to do? I don't feel like going back to work—should I change careers? As you know, the back-to-school season is a major upheaval. For most of us, it's back to the daily grind of commuting, working, and sleeping. Add school, homework, and the headaches begin. If you're stressed and anxious about the return and don't know how to handle it, don't miss the show Work Life, Personal Life hosted by Jacqueline Riollay. She welcomes psychotherapist Léa Lejeune, author of the book Back to School Zen: Preparing for the Return. She'll give you tips on how to experience this back-to-school, back-to-work, back-to-activities season—or any other kind of return—with complete peace of mind. Tune in at 2 PM for Work Life, Personal Life.",
+    "english_translation_highlights": [
+      "psychotherapist Léa Lejeune",
+      "She'll give you tips on how to experience this back-to-school, back-to-work, back-to-activities season—or any other kind of return—with complete peace of mind",
+      "don't miss the show Work Life, Personal Life hosted by Jacqueline Riollay",
+      "Tune in at 2 PM for Work Life, Personal Life",
+      "If you're stressed and anxious about the return and don't know how to handle it"
+    ],
+    "english_question": "Based on this chronicle…",
+    "english_options": [
+      "the show \"Vie pro, vie perso\" will return at 2 PM with Léa Lejeune.",
+      "the guest on \"Vie pro, vie perso\" will give advice for a peaceful back-to-school/work season.",
+      "it's back-to-school/work season and the listeners are stressed and anxious.",
+      "people stressed by the back-to-school/work season should see a psychotherapist."
     ]
   },
   {
@@ -707,6 +1250,21 @@
       "les associations et plusieurs professionnels de santé dénoncent cela, arguant que des alternatives plus saines existent",
       "la réelle raison de l'utilisation du sucre est son pouvoir addictif",
       "on connaît aujourd'hui les effets désastreux de la consommation de sucre ajouté sur la santé"
+    ],
+    "english_translation": "Can we avoid sugar? According to consumer advocacy associations, achieving this is an ordeal, and for good reason: sugar seems to be added everywhere—in bread, in sauces, in canned goods, in frozen meals. Manufacturers say they use it as a flavor enhancer and as a preservative. But associations and several health professionals denounce this, arguing that healthier alternatives exist. For them, the real reason for the use of sugar is its addictive power. Yet today we know the disastrous effects of added sugar consumption on health. While awaiting stronger regulation of the food industry, one association has listed products containing little or no sugar. And several of them, along with health professionals, have signed an open letter to denounce the situation.",
+    "english_translation_highlights": [
+      "sugar seems to be added everywhere—in bread, in sauces, in canned goods, in frozen meals",
+      "Manufacturers say they use it as a flavor enhancer and as a preservative",
+      "associations and several health professionals denounce this, arguing that healthier alternatives exist",
+      "the real reason for the use of sugar is its addictive power",
+      "today we know the disastrous effects of added sugar consumption on health"
+    ],
+    "english_question": "Based on this information…",
+    "english_options": [
+      "all foods contain added sugar.",
+      "manufacturers mainly use alternatives to sugar to preserve foods.",
+      "sugar preserves foods and improves their taste, but it is addictive.",
+      "associations and professionals recommend to..."
     ]
   },
   {
@@ -729,6 +1287,24 @@
       "par des professionnels de santé et de l'éducation mandatés par le gouvernement",
       "Si les résultats sont concluants",
       "elle sera reconduite et appliquée dans tous les établissements scolaires français"
+    ],
+    "english_translation": "No more cell phones: this is the new rule that applies to sixth-grade students in 200 middle schools. Every morning, when they enter the school, their cell phones are confiscated. A measure aimed at stopping the use of these devices in schools in order to improve students' concentration and sociability. This measure will be studied over the course of a year by health and education professionals appointed by the government. If the results are conclusive, it will be renewed and applied in all French schools.",
+    "english_translation_highlights": [
+      "No more cell phones: this is the new rule that applies to sixth-grade students in 200 middle schools",
+      "their cell phones are confiscated",
+      "A measure aimed at stopping the use of these devices in schools",
+      "in order to improve students' concentration and sociability",
+      "This measure will be studied over the course of a year",
+      "by health and education professionals appointed by the government",
+      "If the results are conclusive",
+      "it will be renewed and applied in all French schools"
+    ],
+    "english_question": "Based on this information, the measure…",
+    "english_options": [
+      "200 middle school students will no longer be able to use their phone for 1 year.",
+      "concerns 200 6th grade students and will last 1 year.",
+      "will last 1 year and will be maintained and extended if the results are good.",
+      "improves society and focuses on students."
     ]
   },
   {
@@ -751,6 +1327,24 @@
       "on a mis en place le télétravail suite à vos demandes",
       "si les retards persistent quand on doit se retrouver ici",
       "bien la direction n'aura plus d'autre choix que de revenir au travail en présentiel tous les jours"
+    ],
+    "english_translation": "Hello everyone and thank you for being here today. I wanted to meet with you to talk about a problem that has been going on for 3 months, namely the lateness of several of you on the days we work at the office. It's a real problem, especially when we're working on important or urgent projects. You only have to come to the office on Tuesdays and Thursdays so we can meet, but the majority of you arrive late. Remember that we implemented remote work following your requests, but if the lateness persists when we need to meet here, well, management will have no other choice but to go back to in-person work every day.",
+    "english_translation_highlights": [
+      "a problem that has been going on for 3 months",
+      "the lateness of several of you on the days we work at the office",
+      "It's a real problem",
+      "You only have to come to the office on Tuesdays and Thursdays",
+      "the majority of you arrive late",
+      "we implemented remote work following your requests",
+      "if the lateness persists when we need to meet here",
+      "management will have no other choice but to go back to in-person work every day"
+    ],
+    "english_question": "If the employees…",
+    "english_options": [
+      "continue to be late to the office, their remote working days will be removed.",
+      "are late, they will be able to work from home instead of coming to the office.",
+      "work from home on Tuesdays and Thursdays, they must come to the office on Mondays and Fridays.",
+      "are late, they can work from home instead of coming to the office."
     ]
   }
 ]

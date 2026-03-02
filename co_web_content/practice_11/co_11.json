@@ -14,6 +14,19 @@
       "une croisière",
       "une petite fête",
       "il pleut beaucoup ici"
+    ],
+    "english_translation": "Question 1. As soon as I return from abroad, I would like to surprise our friends. I thought about organizing a cruise in honor of the reunion. What do you think? Interesting, but right now, it rains a lot here. Why not organize a small party? That would be nice too.",
+    "english_translation_highlights": [
+      "a cruise",
+      "a small party",
+      "it rains a lot here"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which picture corresponds to each conversation.\n[image] @co_11_images/co-11-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -30,6 +43,18 @@
     "highlights": [
       "transport en commun",
       "le bus"
+    ],
+    "english_translation": "Question 2. Hi Stella. I'm going to be moving to your city soon and I'd like to know what the most affordable public transportation is over there. Well, if you really want to save money, the bus is the best option, as opposed to the taxi and the metro.",
+    "english_translation_highlights": [
+      "public transportation",
+      "the bus"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_11_images/co-11-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -46,6 +71,18 @@
     "highlights": [
       "il travaillerait dans une grande bibliothèque",
       "une grande bibliothèque de la place"
+    ],
+    "english_translation": "Question 3. Hi Stella, how are you? It's been a long time. Tell me, do you have any news about Wilfrid? Not really. Actually, it's been over a year since I last saw him, but last I heard, he was supposedly working in a large library in town.",
+    "english_translation_highlights": [
+      "he was supposedly working in a large library",
+      "a large library in town"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_11_images/co-11-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -64,6 +101,20 @@
       "rue Georges 12",
       "l'église",
       "en face c'est sa maison"
+    ],
+    "english_translation": "Question 4. Please Joël, I'm in the Mirabel neighborhood, precisely at the end of Georges 12 street, but I've completely forgotten where her house is. Besides, I can't reach her. Can you give me directions, please? Yes, you've already arrived at your destination. Look at the church, her house is across from it.",
+    "english_translation_highlights": [
+      "Mirabel neighborhood",
+      "Georges 12 street",
+      "the church",
+      "her house is across from it"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_11_images/co-11-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -82,6 +133,20 @@
       "train grande ligne première classe à supplément place couchée, numéro 3600 quatre-vingt-quatre",
       "à destination de Bruxelles-Midi",
       "départ initialement prévu à vingt-trois heures seize"
+    ],
+    "english_translation": "Question 5. Due to staff transport difficulties, the long-distance first-class train with sleeper supplement, number 3600 eighty-four, bound for Brussels-Midi, initially scheduled to depart at twenty-three sixteen, is cancelled. We kindly ask you to accept our apologies. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "is cancelled",
+      "long-distance first-class train with sleeper supplement, number 3600 eighty-four",
+      "bound for Brussels-Midi",
+      "initially scheduled to depart at twenty-three sixteen"
+    ],
+    "english_question": "The message announces…",
+    "english_options": [
+      "A schedule change.",
+      "The departure of a train bound for Brussels.",
+      "The arrival of train 3684 at 11:16 PM.",
+      "The cancellation of train 3684."
     ]
   },
   {
@@ -102,6 +167,22 @@
       "En bas de la passerelle",
       "suivez les instructions du personnel au sol",
       "Nous espérons que vous avez passé un agréable vol"
+    ],
+    "english_translation": "Question 6. Ladies and gentlemen, we will be landing in a few minutes. Please return to your seat and fasten your seatbelt. Please turn off your mobile phone. Keep your seatbelt fastened until the seatbelt sign has been turned off. At the bottom of the stairs, walk a few steps forward and follow the instructions of the ground staff. We hope you had a pleasant flight with us.",
+    "english_translation_highlights": [
+      "we will be landing in a few minutes",
+      "Please return to your seat and fasten your seatbelt",
+      "Keep your seatbelt fastened until the seatbelt sign has been turned off",
+      "At the bottom of the stairs",
+      "follow the instructions of the ground staff",
+      "We hope you had a pleasant flight"
+    ],
+    "english_question": "The message announces…",
+    "english_options": [
+      "The takeoff phase.",
+      "That the plane is going to land on the ground.",
+      "Not to lean on the boarding bridge.",
+      "That the plane is having difficulty landing."
     ]
   },
   {
@@ -121,6 +202,21 @@
       "sans délai",
       "en suivant scrupuleusement les consignes de sécurité",
       "Merci pour votre prompte réaction"
+    ],
+    "english_translation": "Question 7. Attention all teaching staff. Building security has just detected the presence of smoke coming from Wing B of the building. We ask that you immediately direct all students to Assembly Zone C, following the safety instructions to the letter. Thank you for your prompt response.",
+    "english_translation_highlights": [
+      "Building security has just detected the presence of smoke coming from Wing B of the building",
+      "We ask that you immediately direct all students to Assembly Zone C",
+      "immediately",
+      "following the safety instructions to the letter",
+      "Thank you for your prompt response"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "A small fire starting in the staff room.",
+      "A small fire starting at assembly point C.",
+      "The emergency evacuation of a location.",
+      "The evacuation of zone C of the school."
     ]
   },
   {
@@ -137,6 +233,18 @@
     "highlights": [
       "le spectacle va bientôt commencer",
       "Votre attention, s'il vous plaît"
+    ],
+    "english_translation": "Question 8. Your attention, please, the show will begin shortly. We ask you to enter the room while remaining behind the rope that is placed on the floor and not to touch the projector. We wish you a pleasant time in our premises.",
+    "english_translation_highlights": [
+      "the show will begin shortly",
+      "Your attention, please"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "The end of the performance.",
+      "An intermission.",
+      "The beginning of the performance.",
+      "The position of the small cord."
     ]
   },
   {
@@ -155,6 +263,20 @@
       "Je vais à Paris demain soir pour des raisons professionnelles",
       "J'en aurai pour trois jours exactement",
       "Réponds-moi vite"
+    ],
+    "english_translation": "Question 9. Hi Maurice, Zébirou, I'm going to Paris tomorrow evening for professional reasons. I'll be there for exactly three days. Is it possible for you to look after my cat during this period? Get back to me quickly.",
+    "english_translation_highlights": [
+      "Is it possible for you to look after my cat during this period?",
+      "I'm going to Paris tomorrow evening for professional reasons",
+      "I'll be there for exactly three days",
+      "Get back to me quickly"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Give news about oneself.",
+      "Ask for a favor.",
+      "Announce one's trip.",
+      "Send one's cat to Paris."
     ]
   },
   {
@@ -174,6 +296,21 @@
       "Profitez-en vite",
       "Nous sommes ouverts tous les jours à partir de 11 heures",
       "nous espérons vous voir très bientôt parmi nous"
+    ],
+    "english_translation": "Question 10. I'm calling on behalf of the hair salon La Pureté. Did you know that La Pureté is currently offering a 15% discount on all beauty treatments? Take advantage of it quickly. We are open every day from 11 o'clock and we hope to see you very soon.",
+    "english_translation_highlights": [
+      "I'm calling on behalf of the hair salon La Pureté",
+      "Did you know that La Pureté is currently offering a 15% discount on all beauty treatments",
+      "Take advantage of it quickly",
+      "We are open every day from 11 o'clock",
+      "we hope to see you very soon"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Confirm an appointment.",
+      "Promote a business.",
+      "Offer a product.",
+      "Inform about a promotion."
     ]
   },
   {
@@ -192,6 +329,20 @@
       "Est-ce que tu peux te joindre à nous demain vers 16 heures après ton cours d'espagnol ?",
       "demain vers 16 heures",
       "tu peux te joindre à nous"
+    ],
+    "english_translation": "Hi Pascal, it's Justine. How are you this morning? Can you join us tomorrow around 4 PM after your Spanish class? Actually, Stella, Maël, and I thought about getting a joint gift for Grandma for her birthday. Call me back quickly.",
+    "english_translation_highlights": [
+      "How are you this morning?",
+      "Can you join us tomorrow around 4 PM after your Spanish class?",
+      "tomorrow around 4 PM",
+      "Can you join us"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Propose a meeting.",
+      "Announce a birthday.",
+      "Find out where the Spanish class takes place.",
+      "Offer a gift."
     ]
   },
   {
@@ -209,6 +360,19 @@
       "mon véhicule n'a pas encore été livré",
       "Ça fait déjà trois jours de retard de livraison",
       "Veuillez me rappeler urgemment pour régler ce problème"
+    ],
+    "english_translation": "Question 12. Mr. Blériot, Mr. Brand speaking. So far, my vehicle has not yet been delivered. The delivery is already three days late. Please call me back urgently to resolve this issue.",
+    "english_translation_highlights": [
+      "my vehicle has not yet been delivered",
+      "The delivery is already three days late",
+      "Please call me back urgently to resolve this issue"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Buy a vehicle.",
+      "Receive an order.",
+      "Place an order for a vehicle.",
+      "Complain about a late delivery."
     ]
   },
   {
@@ -229,6 +393,22 @@
       "il s'est cassé le bras",
       "je dois urgemment l'emmener à l'hôpital",
       "On se verra plus tard"
+    ],
+    "english_translation": "Question 13. Hi Jeanne, how are you? Unfortunately, I won't be available this morning as planned. Actually, my son just had a fall and broke his arm. So I urgently need to take him to the hospital. We'll see each other later.",
+    "english_translation_highlights": [
+      "I won't be available this morning as planned",
+      "Unfortunately",
+      "my son just had a fall",
+      "broke his arm",
+      "I urgently need to take him to the hospital",
+      "We'll see each other later"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Give news about her son.",
+      "Cancel an appointment.",
+      "Apologize for a delay.",
+      "Inform that her son broke his arm."
     ]
   },
   {
@@ -246,6 +426,19 @@
       "Vous avez récemment déposé votre candidature pour un poste",
       "serez-vous disponible pour un entretien le vendredi 20 décembre ?",
       "Merci de confirmer votre présence"
+    ],
+    "english_translation": "Question 14. Hello. You recently submitted your application for a cleaning position within the company Cartex and Company. To that end, would you be available for an interview on Friday, December 20th? Please confirm your attendance with our secretary at 09 60 56 34 32.",
+    "english_translation_highlights": [
+      "You recently submitted your application for a cleaning position",
+      "would you be available for an interview on Friday, December 20th?",
+      "Please confirm your attendance"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Propose an appointment.",
+      "Confirm an appointment.",
+      "Offer a position.",
+      "Submit an application."
     ]
   },
   {
@@ -265,6 +458,21 @@
       "Néanmoins, si je traverse des moments de galère à vingt-cinq ans, je serai obligé de rester sous le toit familial pendant un moment",
       "le temps de me reconstruire",
       "On ne peut juger sans savoir"
+    ],
+    "english_translation": "It is not common or even desirable to live with one's parents at twenty-five. At that age, one generally wants to be independent and live one's own life. Nevertheless, if I were going through tough times at twenty-five, I would have no choice but to stay under the family roof for a while, long enough to get back on my feet. One cannot judge without knowing.",
+    "english_translation_highlights": [
+      "It is not common or even desirable to live with one's parents at twenty-five",
+      "At that age, one generally wants to be independent and live one's own life",
+      "Nevertheless, if I were going through tough times at twenty-five, I would have no choice but to stay under the family roof for a while",
+      "long enough to get back on my feet",
+      "One cannot judge without knowing"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Could do it without difficulty.",
+      "Could do it but only under duress.",
+      "Recognizes that this practice has advantages and disadvantages.",
+      ""
     ]
   },
   {
@@ -285,6 +493,22 @@
       "On a des semaines de sept jours et des soucis plein la tête",
       "des préoccupations qui n'ont rien à voir avec les études",
       "le travail étudiant n'aide pas du tout à réussir ses études"
+    ],
+    "english_translation": "For me, there's no need to think twice, because the young adult truly benefits from being with family. I think that studying while working on the side and managing an apartment is very difficult. You end up with seven-day weeks and a head full of worries, concerns that have nothing to do with your studies. Some succeed, but it must be acknowledged that student employment does not help at all with succeeding in your studies, with having the time, energy, and availability needed to, for example, pass competitive exams or succeed in your examinations.",
+    "english_translation_highlights": [
+      "there's no need to think twice",
+      "the young adult truly benefits from being with family",
+      "studying while working on the side and managing an apartment is very difficult",
+      "You end up with seven-day weeks and a head full of worries",
+      "concerns that have nothing to do with your studies",
+      "student employment does not help at all with succeeding in your studies"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Could do it without difficulty.",
+      "Could do it but only under constraint.",
+      "Recognizes that this practice has advantages and disadvantages.",
+      ""
     ]
   },
   {
@@ -303,6 +527,20 @@
       "c'est culturel et je m'aligne très bien avec ma culture et mes traditions",
       "Dans notre famille, par exemple, c'est une marque de bonne éducation",
       "je m'aligne très bien"
+    ],
+    "english_translation": "Living with your parents is not a flaw; it's cultural, and I align very well with my culture and traditions. In our family, for example, it's a sign of good upbringing. You only leave the family home if you're married or if you have to work far from your parents' home. My brother, who was working in Agadir, came back to live with my parents after his transfer to the outskirts of Rabat. He's thirty-eight and isn't married yet.",
+    "english_translation_highlights": [
+      "Living with your parents is not a flaw",
+      "it's cultural, and I align very well with my culture and traditions",
+      "In our family, for example, it's a sign of good upbringing",
+      "I align very well"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Could do it without difficulty.",
+      "Could do it but only under compulsion.",
+      "Recognizes that this practice has advantages and disadvantages.",
+      ""
     ]
   },
   {
@@ -323,6 +561,22 @@
       "Les travailleurs ne sont plus regroupés dans un lieu commun",
       "Certains travaillent ensemble durant des mois, des années, sans jamais se rencontrer",
       "Ils échangent des courriels, se parlent au téléphone, communiquent via des réseaux internes"
+    ],
+    "english_translation": "The internet may constitute a factor of social isolation for many individuals. In fact, more and more people spend hours surfing to conduct research or work on it. Even at work, they are alone due to remote work. Workers are no longer gathered in a common place. Some work together for months, even years, without ever meeting. They exchange emails, speak on the phone, and communicate via internal networks.",
+    "english_translation_highlights": [
+      "The internet may constitute a factor of social isolation for many individuals",
+      "more and more people spend hours surfing",
+      "Even at work, they are alone due to remote work",
+      "Workers are no longer gathered in a common place",
+      "Some work together for months, even years, without ever meeting",
+      "They exchange emails, speak on the phone, and communicate via internal networks"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Totally agrees with this statement.",
+      "Totally disagrees with this statement.",
+      "Acknowledges that the Internet can bring people closer or isolate them.",
+      ""
     ]
   },
   {
@@ -340,6 +594,19 @@
       "Internet peut être utilisé comme un moyen de communication qui nous permet de rester en contact avec nos amis et contacts du monde entier",
       "grâce aux plateformes comme WhatsApp, Facebook et bien d'autres, on peut se faire des amis quelle que soit notre localisation dans le monde",
       "je ne pense pas qu'Internet soit une source d'isolement"
+    ],
+    "english_translation": "The internet can be used as a means of communication that allows us to stay in touch with our friends and contacts around the world. For example, thanks to platforms like WhatsApp, Facebook, and many others, we can make friends regardless of our location in the world. So, I do not think that the internet is a source of isolation.",
+    "english_translation_highlights": [
+      "The internet can be used as a means of communication that allows us to stay in touch with our friends and contacts around the world",
+      "thanks to platforms like WhatsApp, Facebook, and many others, we can make friends regardless of our location in the world",
+      "I do not think that the internet is a source of isolation"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Totally agrees with this statement.",
+      "Totally disagrees with this statement.",
+      "Recognizes that the Internet can bring people closer or isolate them.",
+      ""
     ]
   },
   {
@@ -358,6 +625,20 @@
       "je suis en permanente communication avec les membres de ma famille",
       "Cependant, certaines activités sur la toile sont addictives, ce qui peut aussi nous isoler",
       "Elle n'a pas de temps pour socialiser"
+    ],
+    "english_translation": "The internet offers a very versatile way of communicating with your acquaintances. For example, since I've been living here, I've been in constant communication with the members of my family. However, certain activities on the web are addictive, which can also isolate us. Imagine a person who spends their days on Facebook watching films. They have no time to socialize.",
+    "english_translation_highlights": [
+      "The internet offers a very versatile way of communicating with your acquaintances",
+      "I've been in constant communication with the members of my family",
+      "However, certain activities on the web are addictive, which can also isolate us",
+      "They have no time to socialize"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Totally agrees with this statement.",
+      "Totally disagrees with this statement.",
+      "Acknowledges that the Internet can bring people closer or isolate them.",
+      ""
     ]
   },
   {
@@ -380,6 +661,24 @@
       "C’est une des nombreuses raisons qui expliquent le succès de ces machines dans l’archipel",
       "les distributeurs sont pour beaucoup équipés de réceptacles pour le recyclage ou d’une poubelle dédiée juste à côté",
       "Évidemment, au Japon, cette question ne se pose pas"
+    ],
+    "english_translation": "Everyone who has already been to Japan knows this: it's impossible not to notice those countless vending machines, particularly for fish, that pop up on every street corner, sometimes lined up right next to each other. They're everywhere. In the streets, of course, but also in train stations, in hotels, on trains, and even at the summit of Mount Fuji. It sounds crazy, but it's true. Can you imagine that here? A drink vending machine at the top of Mont Blanc? No, no, no, there's already enough litter up there without adding piles of empty cans left behind by tourists. Obviously, in Japan, this isn't an issue. In fact, many of the vending machines are equipped with recycling receptacles or a dedicated trash bin right next to them. Another problem that doesn't exist for the Japanese is vandalism. While here the slightest vending machine gets put through the wringer, that's not the case over there. It's one of the many reasons that explain the success of these machines in the archipelago.",
+    "english_translation_highlights": [
+      "countless vending machines, particularly for fish, that pop up on every street corner",
+      "They're everywhere",
+      "In the streets, of course, but also in train stations, in hotels, on trains, and even at the summit of Mount Fuji",
+      "Another problem that doesn't exist for the Japanese is vandalism",
+      "While here the slightest vending machine gets put through the wringer, that's not the case over there",
+      "It's one of the many reasons that explain the success of these machines in the archipelago",
+      "many of the vending machines are equipped with recycling receptacles or a dedicated trash bin right next to them",
+      "Obviously, in Japan, this isn't an issue"
+    ],
+    "english_question": "According to this chronicle,",
+    "english_options": [
+      "Vandalism explains the low presence of beverage vending machines in Japan.",
+      "The proliferation of beverage vending machines encourages the production of waste.",
+      "Vending machines dedicated to beverages abound in the archipelago.",
+      "With the new reforms, beverage vending machines tend to disappear."
     ]
   },
   {
@@ -406,6 +705,28 @@
       "les avantages fiscaux liés au CESU",
       "le marché adressable est estimé à 2,1 milliards d’euros",
       "le travail au noir représente encore entre 70 et 80 % du marché"
+    ],
+    "english_translation": "The tutoring market is not weakening. Families are prepared to devote a substantial budget to ensure their children's success, in a context of distrust toward the national education system, declining academic standards, and widening inequalities. Thanks to the broadening of offerings and the development of new concepts, the leading tutoring companies have seen their revenue grow by nearly 5% per year since 2012. This momentum is set to continue in step with the increasing number of secondary school students, the primary target of these companies. And this is without factoring in the improvement in purchasing power and the tax advantages linked to the CESU (universal service employment voucher), which will further support parental spending. In total, the addressable market is estimated at 2.1 billion euros. With one caveat: undeclared work still accounts for between 70 and 80% of the market.",
+    "english_translation_highlights": [
+      "The tutoring market is not weakening",
+      "Families are prepared to devote a substantial budget",
+      "distrust toward the national education system",
+      "declining academic standards",
+      "widening inequalities",
+      "the leading tutoring companies have seen their revenue grow by nearly 5% per year since 2012",
+      "This momentum is set to continue",
+      "the increasing number of secondary school students",
+      "the improvement in purchasing power",
+      "the tax advantages linked to the CESU",
+      "the addressable market is estimated at 2.1 billion euros",
+      "undeclared work still accounts for between 70 and 80% of the market"
+    ],
+    "english_question": "According to this chronicle,",
+    "english_options": [
+      "Trust in the educational system contributes to the development of academic tutoring.",
+      "The academic support market is booming.",
+      "The use of academic tutoring is less and less favored by parents.",
+      "Between 70 and 80% of private lessons are declared to the tax authorities."
     ]
   },
   {
@@ -423,6 +744,19 @@
       "On y trouve beaucoup d’Espagne, mais aussi une mise en scène signée Jérémy Lippmann qui permet, à travers des projections de citations et d’images sur une superposition de deux scènes mécaniques, une immersion dans des thématiques telles que le secret de famille, le silence, la transmission, la construction de la personnalité quand on est issu de l’exil ou descendants de l’exil.",
       "une immersion dans des thématiques telles que",
       "la construction de la personnalité quand on est issu de l’exil ou descendants de l’exil"
+    ],
+    "english_translation": "Interviewer: Welcome to Iaroïs, thank you very much. We are delighted to have you here to talk about your show Bouche Cousue (Sealed Lips). So, what's the atmosphere like? What do we find in it?\n\nIaroïs: You find a lot of Spain in it, but also a staging by Jérémy Lippmann that allows, through projections of quotes and images on a superposition of two mechanical stages, an immersion into themes such as family secrets, silence, transmission, and the construction of one's personality when you come from exile or are descendants of exile. The show also touches on the importance of the collective, which is quite crucial in this creation.\n\nInterviewer: Really, over time, you've been exploring your Spanish origins more and more?\n\nIaroïs: Indeed, it has always been present, but I believe that what is happening in our current society has made me realize just how much the episode of the Spanish Civil War is a true mirror of our times. It's a space of a state of emergency, a need to talk about it.\n\nInterviewer: So precisely, you sing, you express yourself, and yet the show is called Bouche Cousue (Sealed Lips). Why?\n\nIaroïs: Because that's the subject: how do you kill the silence? How do you free speech? And how it's something that can only generate something positive.",
+    "english_translation_highlights": [
+      "You find a lot of Spain in it, but also a staging by Jérémy Lippmann that allows, through projections of quotes and images on a superposition of two mechanical stages, an immersion into themes such as family secrets, silence, transmission, and the construction of one's personality when you come from exile or are descendants of exile.",
+      "an immersion into themes such as",
+      "the construction of one's personality when you come from exile or are descendants of exile"
+    ],
+    "english_question": "The construction of the personality of exiles…",
+    "english_options": [
+      "Was a major challenge for the guest when she arrived in France.",
+      "Is the theme addressed throughout the show.",
+      "Is the cause of numerous cases of depression.",
+      "Is one of the themes addressed in the show."
     ]
   },
   {
@@ -441,6 +775,20 @@
       "comment assassine-t-on le silence ?",
       "Comment libère-t-on la parole ?",
       "en quoi c’est quelque chose qui ne peut que générer du positif"
+    ],
+    "english_translation": "Interviewer: Welcome to the Iaroïs, thank you very much. We are delighted to have you here to talk about your show Bouche Cousue (Sealed Lips). So, what's the atmosphere like? What do we find in it?\n\nIaroïs: You find a lot of Spain in it, but also a staging by Jérémy Lippmann that allows, through projections of quotes and images on a superposition of two mechanical stages, an immersion into themes such as family secrets, silence, transmission, and the construction of one's personality when you come from exile or are descendants of exile. The show also touches on the importance of the collective, which is quite crucial in this creation.\n\nInterviewer: Really, over time, you've been exploring your Spanish origins more and more?\n\nIaroïs: Indeed, it has always been present, but I believe that what is happening in our current society has made me realize just how much the episode of the Spanish Civil War is a true mirror of our times. It's a space of a state of emergency, a need to talk about it.\n\nInterviewer: So precisely, you sing, you express yourself, and yet the show is called Bouche Cousue (Sealed Lips). Why?\n\nIaroïs: Because that's the subject: how do you kill the silence? How do you free speech? And how it's something that can only generate something positive.",
+    "english_translation_highlights": [
+      "So precisely, you sing, you express yourself, and yet the show is called Bouche Cousue (Sealed Lips). Why?",
+      "how do you kill the silence?",
+      "How do you free speech?",
+      "how it's something that can only generate something positive"
+    ],
+    "english_question": "Through the paradox that exists between the title of the show and its content, the artist…",
+    "english_options": [
+      "Denounces wars.",
+      "Invites people to express themselves.",
+      "Criticizes freedom of expression.",
+      "Calls for silence."
     ]
   },
   {
@@ -462,6 +810,23 @@
       "entre 25 et 30 millions de rendez-vous non honorés par an",
       "Quand vous ne venez pas à un rendez-vous médical",
       "Cette sanction concerne celui qui n’a pas honoré le rendez-vous"
+    ],
+    "english_translation": "Interviewer: Good morning, Sylvain Maillard. Sylvain Maillard: Good morning. Interviewer: The government's health plan, with details given by Prime Minister Gabriel Attal—we now know more about the \"no-show tax,\" this 5-euro penalty if an appointment is not kept or canceled twenty-four hours in advance. These 5 euros will go to the doctor, who will have to request them from the patients. Are you asking the doctor to play police? Sylvain Maillard: No, that's not it. We need to free up time—medical time. We know very well that we have a shortage of doctors. When we opened up the health number in 2018, it takes between 10 and 12 years to train more doctors. We're speeding things up, we continue to speed things up, but we need to free up medical time. For several years, we've been pushing various pieces of legislation that help free up medical time, particularly through advanced practice nurses. As for the announcement made by the Prime Minister, the idea, the philosophy is: how do we create more medical time? So obviously, those who don't show up for their appointments should be penalized. A member of parliament, Astrid Panosian, introduced a bill on this subject in February, and the \"no-show tax,\" as it's called, was taken up by the Prime Minister, which I'm delighted about. Interviewer: So precisely, regarding the practical implementation of this measure, there are reportedly between 25 and 30 million missed appointments per year. The stakes are high, but the doctors who have been asked, including this morning on France Info, say it won't change much. They also mention that it would put them in an awkward position. What do you think? Sylvain Maillard: No, in terms of the actual organization, which will need to be spelled out, the goal is not to complicate the system but to make everyone accountable. When you don't show up for a medical appointment, you're taking the spot of someone else who could have benefited from it. Essentially, it's like passing your turn in a game—there has to be a penalty. This penalty applies to the person who didn't honor the appointment, but we also need to make sure that doctors, who may have three or four missed appointments in a single day, are not financially penalized.",
+    "english_translation_highlights": [
+      "this 5-euro penalty if an appointment is not kept or canceled twenty-four hours in advance",
+      "These 5 euros will go to the doctor, who will have to request them from the patients",
+      "those who don't show up for their appointments should be penalized",
+      "the \"no-show tax,\" as it's called",
+      "between 25 and 30 million missed appointments per year",
+      "When you don't show up for a medical appointment",
+      "This penalty applies to the person who didn't honor the appointment"
+    ],
+    "english_question": "What does the 'Taxe lapin' (no-show fee) consist of?",
+    "english_options": [
+      "Free up medical time with the intention of improving the quality of medical service.",
+      "Impose a financial penalty on patients who miss a medical appointment without prior cancellation.",
+      "A 5 euro fine for patients wishing to see the doctor without an appointment.",
+      "A tax paid by doctors who do not honor appointments given to their patients."
     ]
   },
   {
@@ -478,6 +843,18 @@
     "highlights": [
       "Ces 5 euros iront au médecin",
       "qui devra les demander aux patients"
+    ],
+    "english_translation": "Interviewer: Good morning, Sylvain Maillard. Sylvain Maillard: Good morning. Interviewer: The government's health plan, with details given by Prime Minister Gabriel Attal — we now know more about the \"no-show tax,\" this 5-euro penalty if an appointment is not kept or canceled twenty-four hours in advance. These 5 euros will go to the doctor, who will have to request them from the patients. Are you asking doctors to play the role of police? Sylvain Maillard: No, that's not it. We need to free up time — medical time. We know very well that we have a shortage of doctors. When we opened up the health number in 2018, it takes between 10 and 12 years to train more doctors. We're speeding things up, we continue to speed things up, but we need to free up medical time. For several years, we've been putting forward various pieces of legislation that help free up medical time, particularly through advanced practice nurses. As for the Prime Minister's announcement, the idea, the philosophy, is: how do we create more medical time? So obviously, those who don't show up for their appointments should be penalized. A member of parliament, Astrid Panosian, introduced a bill on this subject in February, and the \"no-show tax,\" as it's called, was taken up by the Prime Minister, which I'm delighted about. Interviewer: So precisely, regarding the practical implementation of this measure, there are reportedly between 25 and 30 million missed appointments per year. The stakes are significant, but the doctors who have been asked, including this morning on France Info, say it won't change much. They also mention that it would put them in an awkward position. What do you think? Sylvain Maillard: No, in terms of the actual organization, which will need to be clarified, this isn't about complicating the system but about making everyone accountable. When you don't show up for a medical appointment, you're taking the spot of someone else who could have benefited from it. Essentially, it's like passing your turn in a game — there needs to be a penalty. This penalty applies to the person who didn't honor the appointment, but we also need to make sure that doctors, who may have three or four missed appointments in a single day, are not financially penalized.",
+    "english_translation_highlights": [
+      "These 5 euros will go to the doctor",
+      "who will have to request them from the patients"
+    ],
+    "english_question": "To whom does the said tax go?",
+    "english_options": [
+      "To the police.",
+      "To the doctor.",
+      "To the government.",
+      "To the patient."
     ]
   },
   {
@@ -515,6 +892,39 @@
       "alors que je n’avais jamais dealé à l’extérieur, je me suis retrouvé à dealer des choses à l’intérieur",
       "C’est à travers des rencontres, effectivement en prison, que j’ai pu trouver la rédemption",
       "c’est le titre de votre livre : Itinéraire d’un enfant cassé"
+    ],
+    "english_translation": "Interviewer: How long did you spend behind bars? Respondent: Six and a half years. Interviewer: And what crime had you committed? Respondent: I had taken part in—I was the instigator of an armed robbery. During that robbery, someone was killed. I'm not directly responsible, but I still carry a strong sense of guilt within me. Interviewer: How do you look back on the time before prison, on that act itself? Respondent: Before prison, I was drifting—an identity crisis. I didn't know who I was, I was suffering, I was an abused young person. I was completely adrift socially and in terms of identity; I didn't know what I was. Interviewer: Ultimately, prison is a closed place, but it opened you up? Respondent: Yes, it opened me up. It's a closed place, but it opened me up because before prison, I was only what others had made of me. In prison, I was able to deconstruct all of that and rebuild the person I am today. Interviewer: That's somewhat what David says: it's a kind of forced time for reflection, a pause with a framework, and all of a sudden you found yourself face to face with yourself? Respondent: Yes, but it's not that simple. Interviewer: No, of course not. Respondent: It's not by hearing the locks on the doors close behind you that the magic happens. I had high expectations of the prison system. I expected it not to fail me, to repair my ability to accept people's differences, to respect the rules, and to understand the world I was going to live in—above all, to understand what was expected of me, since there was a French flag above the door. Everything my parents had missed in my upbringing, I might have a chance to find there, and perhaps even everything the social workers I had met in the group homes I'd been through had missed, I was going to be able to recover there. But I found more violence per square inch than I had ever seen before. Everything that was forbidden on the outside was omnipresent on the inside. It welcomed me, so to speak, but in the wrong way. Interviewer: So at first, in the wrong way? Respondent: Absolutely. Throughout my pretrial detention, it's a period full of tension while waiting to be tried and sentenced. You have no prospects, no release date, you don't know when you're going to get out. At eighteen, when you have no support and you're on your own, it's the jungle. Interviewer: It's the jungle. Respondent: Yes, it's the jungle. I committed more acts of violence in prison than I ever did outside. By force of circumstance, even though I had never dealt on the outside, I found myself dealing things on the inside to survive, to improve my daily life, to exist within a group. You don't make it on your own, but I'm no exception to the rule. It was through encounters, indeed in prison, that I was able to find redemption, so to speak. Interviewer: Yes, that's the title of your book: *Journey of a Broken Child*.",
+    "english_translation_highlights": [
+      "How long did you spend behind bars?",
+      "Six and a half years",
+      "And what crime had you committed?",
+      "I had taken part in—I was the instigator of an armed robbery",
+      "During that robbery, someone was killed",
+      "How do you look back on the time before prison, on that act itself?",
+      "Before prison, I was drifting—an identity crisis",
+      "I didn't know who I was, I was suffering, I was an abused young person",
+      "I was completely adrift socially and in terms of identity",
+      "Ultimately, prison is a closed place, but it opened you up?",
+      "Yes, it opened me up",
+      "before prison, I was only what others had made of me",
+      "In prison, I was able to deconstruct all of that and rebuild the person I am today",
+      "it's a kind of forced time for reflection, a pause with a framework",
+      "you found yourself face to face with yourself",
+      "I had high expectations of the prison system",
+      "Throughout my pretrial detention, it's a period full of tension",
+      "You have no prospects, no release date",
+      "At eighteen, when you have no support and you're on your own, it's the jungle",
+      "I committed more acts of violence in prison than I ever did outside",
+      "even though I had never dealt on the outside, I found myself dealing things on the inside",
+      "It was through encounters, indeed in prison, that I was able to find redemption",
+      "that's the title of your book: Journey of a Broken Child"
+    ],
+    "english_question": "The individual questioned…",
+    "english_options": [
+      "Recalls the dangers of mistreatment and the loss of identity of young people.",
+      "Evokes significant events of his existence.",
+      "Tells how he put an end to a man's life.",
+      "Declares that his years in prison did not make him a better man."
     ]
   },
   {
@@ -542,6 +952,29 @@
       "Avant la prison, j’étais en errance, une errance identitaire",
       "je n’étais que ce qu’on avait fait de moi",
       "Itinéraire d’un enfant cassé"
+    ],
+    "english_translation": "Interviewer: How long did you spend behind bars? Respondent: Six and a half years. Interviewer: And what crime had you committed? Respondent: I had taken part—I was the instigator of an armed robbery. During that robbery, someone was killed. I'm not directly responsible, but I still carry a strong sense of guilt within me. Interviewer: How do you look back on the time before prison, on that act? Respondent: Before prison, I was adrift—an identity crisis. I didn't know who I was, I was suffering, I was an abused young person. I was completely lost socially and in terms of identity; I didn't know what I was. Interviewer: Ultimately, prison is a closed place, but it opened you up? Respondent: Yes, it opened me up. It's a closed place, but it opened me up because before prison, I was only what others had made of me. In prison, I was able to deconstruct all of that and rebuild the person I am today. Interviewer: That's somewhat what David says: it's a kind of forced time for reflection, a pause with a framework, and suddenly you found yourself face to face with yourself? Respondent: Yes, but it's not that simple. Interviewer: No, of course not. Respondent: It's not by hearing the locks on the doors close behind you that the magic happens. I had high expectations of the prison system. I expected it not to fail me, to repair my ability to accept people's differences, to respect rules, and to understand the world I was going to be part of—especially to understand what was expected of me, since there was a French flag above the door. Everything my parents had missed in my upbringing, I might have a chance to find there; perhaps even everything the social workers I had encountered in the group homes I'd been through had missed, I was going to be able to recover there. But I found more violence per square inch than I had ever seen before. Everything that was forbidden on the outside was omnipresent on the inside. It welcomed me, so to speak, but in the wrong way. Interviewer: So at first, in the wrong way? Respondent: Absolutely. Throughout my pretrial detention, it's a period full of tension while waiting to be tried and sentenced. You have no prospects, no release date; you don't know when you're going to get out. At eighteen, when you have no support and you're on your own, it's the jungle. Interviewer: It's the jungle. Respondent: Yes, it's the jungle. I committed more acts of violence in prison than I did outside. By force of circumstance, even though I had never dealt on the outside, I found myself dealing things on the inside to survive, to improve my daily life, to exist within a group. You don't make it on your own, but I'm no exception to the rule. It was through encounters, indeed in prison, that I was able to find redemption, so to speak. Interviewer: Yes, that's the title of your book: *Journey of a Broken Child*.",
+    "english_translation_highlights": [
+      "It was through encounters, indeed in prison, that I was able to find redemption",
+      "In prison, I was able to deconstruct all of that and rebuild the person I am today",
+      "Yes, it opened me up",
+      "I had high expectations of the prison system",
+      "I expected it not to fail me, to repair my ability to accept people's differences, to respect rules, and to understand the world I was going to be part of",
+      "I'm no exception to the rule",
+      "You don't make it on your own",
+      "I committed more acts of violence in prison than I did outside",
+      "I found myself dealing things on the inside to survive, to improve my daily life, to exist within a group",
+      "even though I had never dealt on the outside",
+      "Before prison, I was adrift—an identity crisis",
+      "I was only what others had made of me",
+      "Journey of a Broken Child"
+    ],
+    "english_question": "Based on his/her experience…",
+    "english_options": [
+      "His time in prison was the trigger for his outlaw life to come to an end.",
+      "Imprisonment was not able to improve his character.",
+      "His inner revolution took place a few years after his release from prison.",
+      "The prison environment is not conducive to acts of violence."
     ]
   },
   {
@@ -565,6 +998,25 @@
       "grâce à l’application, on peut espérer",
       "aider les clubs locaux à repérer des talents",
       "1 500 clubs professionnels et amateurs inscrits"
+    ],
+    "english_translation": "A few days ago, the fifth scouting day organized by Foodsider took place — an innovative application that helps young footballers get noticed by recruiters. Among them, Nelson Almeda, a recruiter for Girondins de Bordeaux for several years, was present. Along with about forty other French and foreign recruiters, he observed nearly a hundred young players who came to try their luck on a pitch in eastern Paris. Ibrahim, who arrived from Ivory Coast a little over a year ago, currently plays without a license in the Île-de-France region. He hopes to find a club through this event. \"Now, as long as things go well, my dream is a club that trusts me — I have no worries,\" he confides. These scouting days are a pillar of how Foodsider operates, launched in early 2023 by several co-founders, including Nasta Ronaldinho and Algerian international Yassine Brahim. With already 805,000 users and 1,500 professional and amateur clubs registered, the application offers invaluable visibility to young players. Gabriel, a 17-year-old central defender from Mali, explains how it works: \"It's simple — you can upload videos of yourself. I'm a central defender, so I can post clips of interceptions, but if you're a striker, you can post goals. Lots of videos that showcase you. Then there are recruiters who watch and select interesting profiles. It's an extra door, a new way to stand out in an ultra-competitive world.\" Presnel Kimpembe, PSG defender and 2018 World Cup champion with the French national team, also supports the project. He highlights the difficulties young players face: \"It's tough — we've all been through it. Today, thanks to the application, you can have hope, even far from the glamour of the big clubs. There are many who get left behind.\" Foodsider also aims to help young players in Africa. The goal is twofold: to help local clubs spot talent — since many simply play on beaches or in the streets — and to fight against fake agents or intermediaries, a crucial message to protect young African footballers. Finally, a scouting day is already planned in Casablanca, Morocco, in early July. The application will be officially launched on the African continent by the end of the year or at the beginning of 2025 at the latest.",
+    "english_translation_highlights": [
+      "an innovative application that helps young footballers get noticed by recruiters",
+      "He hopes to find a club through this event",
+      "the application offers invaluable visibility to young players",
+      "you can upload videos of yourself",
+      "there are recruiters who watch and select interesting profiles",
+      "It's an extra door, a new way to stand out",
+      "thanks to the application, you can have hope",
+      "to help local clubs spot talent",
+      "1,500 professional and amateur clubs registered"
+    ],
+    "english_question": "This application…",
+    "english_options": [
+      "Allows finding only professional football players for French clubs.",
+      "Connects young football players with professional clubs.",
+      "Provides visibility to football clubs that struggle to make themselves known.",
+      "Allows sports clubs to recruit unique talents across multiple disciplines."
     ]
   },
   {
@@ -587,6 +1039,24 @@
       "Foodsider vise aussi à aider les jeunes joueurs en Afrique",
       "L’objectif est double : aider les clubs locaux à repérer des talents",
       "lutter contre les faux agents ou intermédiaires, un message crucial pour protéger les jeunes footballeurs africains"
+    ],
+    "english_translation": "A few days ago, the fifth scouting day organized by Footsider took place — an innovative app that helps young footballers get noticed by recruiters. Among them, Nelson Almeda, a recruiter for Girondins de Bordeaux for several years, was present. Along with about forty other French and foreign recruiters, he observed nearly a hundred young players who came to try their luck on a pitch in eastern Paris. Ibrahim, who arrived from Ivory Coast a little over a year ago, currently plays without a license in the Île-de-France region. He hopes to find a club through this event. \"Now, I just hope it goes well. My dream is a club that trusts me — I have no worries,\" he confides. These scouting days are a pillar of how Footsider operates, launched in early 2023 by several co-founders, including Nasta Ronaldinho and Algerian international Yassine Brahim. With already 805,000 users and 1,500 professional and amateur clubs registered, the app offers valuable visibility to young players. Gabriel, a 17-year-old central defender from Mali, explains how it works: \"It's simple — you can post videos of yourself. I'm a central defender, so I can post clips of interceptions, but if you're a striker, you can post goals. Lots of videos that showcase you. Then there are recruiters who watch and pick out the interesting profiles. It's an extra door, a new way to stand out in an ultra-competitive world.\" Presnel Kimpembe, PSG defender and 2018 World Cup champion with the French national team, also supports the project. He highlights the difficulties young players go through: \"It's tough — we've all been there. Today, thanks to the app, you can have hope, even far from the glamour of the big clubs. There are many who get left behind.\" Footsider also aims to help young players in Africa. The goal is twofold: to help local clubs spot talent — since many simply play on beaches or in the streets — and to fight against fake agents or intermediaries, a crucial message to protect young African footballers. Finally, a scouting day is already planned in Casablanca, Morocco, in early July. The app will be officially launched on the African continent by the end of the year or at the beginning of 2025 at the latest.",
+    "english_translation_highlights": [
+      "an innovative app that helps young footballers get noticed by recruiters",
+      "the app offers valuable visibility to young players",
+      "It's an extra door, a new way to stand out in an ultra-competitive world.",
+      "thanks to the app, you can have hope, even far from the glamour of the big clubs",
+      "There are many who get left behind.",
+      "Footsider also aims to help young players in Africa",
+      "The goal is twofold: to help local clubs spot talent",
+      "to fight against fake agents or intermediaries, a crucial message to protect young African footballers"
+    ],
+    "english_question": "The authors of this initiative wanted to…",
+    "english_options": [
+      "Digitalize the search for football clubs.",
+      "Maximize the chances of aspiring footballers to join a club.",
+      "Wage a relentless fight against fake agents and intermediaries.",
+      "Help local clubs find talented players in Africa."
     ]
   },
   {
@@ -606,6 +1076,21 @@
       "Il faut donc redevenir attractif",
       "le logement de ses personnels devient une priorité",
       "Le groupe veut doubler ses capacités en passant de six-cents logements attribués chaque année à mille-deux-cents"
+    ],
+    "english_translation": "Improving the living and working conditions of its caregivers—this is the objective that the PHP has set for itself. In 4 years, the Paris hospital group has lost 11 percent of its nurses. It is therefore necessary to become attractive again, and housing for its staff is becoming a priority. The group wants to double its capacity by going from six hundred housing units allocated each year to twelve hundred.",
+    "english_translation_highlights": [
+      "Improving the living and working conditions of its caregivers",
+      "the Paris hospital group has lost 11 percent of its nurses",
+      "It is therefore necessary to become attractive again",
+      "housing for its staff is becoming a priority",
+      "The group wants to double its capacity by going from six hundred housing units allocated each year to twelve hundred"
+    ],
+    "english_question": "The AP-HP is expanding its housing offerings…",
+    "english_options": [
+      "To cope with the shortage of healthcare workers.",
+      "To assist healthcare workers who are no longer in service.",
+      "To house people who do not have jobs.",
+      "In order to offer more attractive accommodations."
     ]
   },
   {
@@ -625,6 +1110,21 @@
       "sur une année, la nourriture d'un chien de vingt-deux kilos émet 0.5 tonnes de c o 2",
       "c'est presque un mois d'émission de c o 2 d'un français",
       "Plus le chien adopté est grand, plus sa consommation est importante et plus elle émet de c o 2"
+    ],
+    "english_translation": "It is true that our pets contribute to global warming. This impact is mainly due to the production of their food, which often contains meat. According to a British researcher, over a year, the food for a twenty-two kilogram dog emits 0.5 tonnes of CO2. By way of comparison, on average, that is nearly one month of CO2 emissions for a French person. The larger the adopted dog, the greater its consumption and the more CO2 it emits.",
+    "english_translation_highlights": [
+      "It is true that our pets contribute to global warming",
+      "This impact is mainly due to the production of their food",
+      "over a year, the food for a twenty-two kilogram dog emits 0.5 tonnes of CO2",
+      "that is nearly one month of CO2 emissions for a French person",
+      "The larger the adopted dog, the greater its consumption and the more CO2 it emits"
+    ],
+    "english_question": "Based on this excerpt…",
+    "english_options": [
+      "Domestic animals consume an enormous amount of food.",
+      "Researchers struggle to prove the involvement of animals in climate change.",
+      "Domestic animals consume a lot of meat.",
+      "Pets have a considerable carbon footprint."
     ]
   },
   {
@@ -645,6 +1145,22 @@
       "on peut trouver dans un vêtement 9 du chlore, du plomb, du nickel et tout un tas d'autres substances toxiques",
       "ces substances elles sont pas interdites partout dans le monde",
       "vos vêtements et bien viennent finalement assez rarement de l'Union européenne"
+    ],
+    "english_translation": "This morning you're dying to put on that new pair of pants you just bought this weekend. I'm telling you right now, stop — wash them first, because you're probably telling yourself deep down that it would be better to wash them, but at the same time they were nicely pressed and folded on the store shelf, so there's no reason not to wear them and wash them later. Except it's worse than you can imagine. As the Femme Actuelle website reports, you can find in a garment chlorine, lead, nickel, and a whole host of other toxic substances that are banned in the European Union because they're bad for your health. The problem is that these substances aren't banned everywhere in the world, and your clothes, well, they actually quite rarely come from the European Union.",
+    "english_translation_highlights": [
+      "This morning you're dying to put on that new pair of pants",
+      "I'm telling you right now, stop — wash them first",
+      "it's worse than you can imagine",
+      "you can find in a garment chlorine, lead, nickel, and a whole host of other toxic substances",
+      "these substances aren't banned everywhere in the world",
+      "your clothes, well, they actually quite rarely come from the European Union"
+    ],
+    "english_question": "Based on this extract…",
+    "english_options": [
+      "It is not important to wash new clothes before wearing them.",
+      "New clothes are free of toxic substances and ready to use.",
+      "Wearing new clothes without sanitizing them beforehand is not without consequences.",
+      "New clothes, ironed and folded on the shelves, need not be cleaned before use."
     ]
   },
   {
@@ -668,6 +1184,25 @@
       "comme une porte de vaisseau spatial",
       "Le mur ouvert est en vert pour une vue panoramique",
       "il peut servir d'aire de jeu, de bureau, de salon, de salle à manger ou même de chambre d'amis"
+    ],
+    "english_translation": "The Colombian architect Manuel Villa designed a small house in the backyard of a main house in the suburbs of Bogota. Designed especially as a play area for parents and young children, the small nest-shaped house looks as though it landed in the woods from space. Its wind deck appears to have opened away from the main structure, creating the illusion that a side panel of the house opens onto the main structure, like a spaceship door. The open wall is in green for a panoramic view of the woods, and inside, it can serve as a play area, office, living room, dining room, or even a guest bedroom.",
+    "english_translation_highlights": [
+      "The Colombian architect Manuel Villa designed a small house",
+      "small house in the backyard of a main house",
+      "small nest-shaped house",
+      "looks as though it landed in the woods from space",
+      "Its wind deck appears to have opened away from the main structure",
+      "creating the illusion that a side panel of the house opens",
+      "like a spaceship door",
+      "The open wall is in green for a panoramic view",
+      "it can serve as a play area, office, living room, dining room, or even a guest bedroom"
+    ],
+    "english_question": "What is this about?",
+    "english_options": [
+      "A house in the middle of the forest.",
+      "A beehive.",
+      "An unusual dwelling.",
+      "A glass house."
     ]
   },
   {
@@ -688,6 +1223,22 @@
       "annoncent avoir réussi à contourner ce problème",
       "les 1000000000 de tonnes de déchets plastiques non recyclables qui se retrouvent dans la nature prennent des siècles à se dégrader",
       "ces qualités sont aujourd'hui un problème du point de vue environnemental"
+    ],
+    "english_translation": "If plastic has become so popular, it is because this material combines several qualities. It is malleable, lightweight, robust, and resistant to weather and most chemical agents. But these qualities are now a problem from an environmental standpoint, because the billions of tons of non-recyclable plastic waste that end up in nature take centuries to degrade. However, researchers at the Swiss Federal Institute of Technology in Lausanne, led by Professor Jeremy Luterbacher, announce that they have succeeded in getting around this problem. Made from plant waste, their plastic is extremely strong, can be chemically recycled, or break down into harmless sugars in the environment.",
+    "english_translation_highlights": [
+      "Made from plant waste, their plastic is extremely strong, can be chemically recycled, or break down into harmless sugars in the environment",
+      "can be chemically recycled, or break down into harmless sugars in the environment",
+      "break down into harmless sugars in the environment",
+      "announce that they have succeeded in getting around this problem",
+      "the billions of tons of non-recyclable plastic waste that end up in nature take centuries to degrade",
+      "these qualities are now a problem from an environmental standpoint"
+    ],
+    "english_question": "What is the uniqueness of the material developed by the researchers?",
+    "english_options": [
+      "It struggles to decompose.",
+      "After use, it remains in nature.",
+      "It is environmentally friendly.",
+      "It is extremely strong."
     ]
   },
   {
@@ -705,6 +1256,19 @@
       "les pesticides agricoles seraient à l'origine de cette situation alarmante",
       "cette diminution drastique a été observée, quels que soient les changements météorologiques et le type d'exploitation des sols",
       "sans que les chercheurs ne puissent déceler la cause avec exactitude"
+    ],
+    "english_translation": "In Ireland, the number of flying insects, species that are essential for the survival of ecosystems, has declined by more than seventy percent over a period of approximately 40 years, without researchers being able to pinpoint the exact cause. According to those who conducted research in protected areas, agricultural pesticides are believed to be behind this alarming situation. Their report clearly maintains that this drastic decline was observed regardless of weather changes and the type of land use.",
+    "english_translation_highlights": [
+      "agricultural pesticides are believed to be behind this alarming situation",
+      "this drastic decline was observed regardless of weather changes and the type of land use",
+      "without researchers being able to pinpoint the exact cause"
+    ],
+    "english_question": "The decline in the number of insects could be explained by…",
+    "english_options": [
+      "The climate changes observed in recent decades.",
+      "The products used in agriculture.",
+      "The phenomenon of urban expansion.",
+      "The excessive exploitation of soils in the region."
     ]
   },
   {
@@ -721,6 +1285,18 @@
     "highlights": [
       "une très belle bibliothèque à ciel ouvert à sienne et sur roulettes",
       "À l'aide de son triporteur, le savoir et la connaissance se rendent au plus près des habitants des villes et des campagnes alentours"
+    ],
+    "english_translation": "Cardinal Richelieu spent his life gathering books, manuscripts, and printed works to build one of the finest libraries of the seventeenth century. In Île-de-France, Amandine also has a very beautiful open-air library of her own, and on wheels. With the help of her cargo tricycle, knowledge and learning are brought as close as possible to the residents of the surrounding towns and countryside.",
+    "english_translation_highlights": [
+      "a very beautiful open-air library of her own, and on wheels",
+      "With the help of her cargo tricycle, knowledge and learning are brought as close as possible to the residents of the surrounding towns and countryside"
+    ],
+    "english_question": "What is unique about Amandine's library?",
+    "english_options": [
+      "It is a country library.",
+      "Its model is based on that of Cardinal De Richelieu.",
+      "It is similar to those of the 17th century.",
+      "It is a traveling library."
     ]
   },
   {
@@ -741,6 +1317,22 @@
       "Grâce à lui, le vaccin est plus efficace plus longtemps",
       "il évite de multiplier les injections",
       "pour certains cet adjuvant pourrait être remplacé"
+    ],
+    "english_translation": "Could some of us be genetically more likely to react to the aluminum in vaccines? The hypothesis had already been raised. Today, Professor Romain Guérardi strengthens it. Indeed, his study revealed by Le Parisien this morning highlights a genetic predisposition to developing a disease after vaccination: macrophagic myofasciitis. The symptoms: fatigue, muscle pain, and even neurological disorders. A lesion triggered in some people by the aluminum used as an adjuvant, that is, a component that stimulates the production of antibodies. Thanks to it, the vaccine is more effective for longer and it avoids the need for multiple injections. But for some, this adjuvant could be replaced.",
+    "english_translation_highlights": [
+      "a genetic predisposition to developing a disease after vaccination",
+      "in some people by the aluminum used as an adjuvant",
+      "a component that stimulates the production of antibodies",
+      "Thanks to it, the vaccine is more effective for longer",
+      "it avoids the need for multiple injections",
+      "for some, this adjuvant could be replaced"
+    ],
+    "english_question": "Aluminum present in certain vaccines…",
+    "english_options": [
+      "Automatically affects health.",
+      "Improves the immune response.",
+      "Prevents the development of genetic diseases.",
+      "Is unanimously agreed upon within the medical community."
     ]
   },
   {
@@ -761,6 +1353,22 @@
       "Il fait moins 5 degrés",
       "un premier hiver à la rude pour Colette",
       "pour briser la glace"
+    ],
+    "english_translation": "It's a race against the cold, a constant battle, and hours of wandering for these homeless people. It's minus 5 degrees, a first harsh winter for Colette, sixty-one years old. Humor to break the ice, cigarettes for a small puff of warmth, and time that drags on.",
+    "english_translation_highlights": [
+      "It's a race against the cold",
+      "a constant battle",
+      "hours of wandering for these homeless people",
+      "It's minus 5 degrees",
+      "a first harsh winter for Colette",
+      "to break the ice"
+    ],
+    "english_question": "These people…",
+    "english_options": [
+      "Sell cigarettes to the homeless.",
+      "Are faced with the extreme cold period.",
+      "Shelter the homeless in winter.",
+      "Use humor to survive."
     ]
   },
   {
@@ -778,6 +1386,19 @@
       "Supprimer les devoirs, les enseignants y sont défavorables",
       "c'est aussi une façon de créer du lien entre les instituteurs et les parents",
       "voilà un objet de dialogue qui est important et qui maintient justement cette relation indispensable entre l'école et la famille"
+    ],
+    "english_translation": "Eliminating homework — teachers are against it, because according to them, it is also a way of creating a connection between teachers and parents. Reviewing multiplication tables, or talking about a presentation that will need to be done in the coming days — these are important topics for dialogue that maintain this essential relationship between school and family. Homework is a French exception, all the more so when you consider that our children's school days are among the longest in the world.",
+    "english_translation_highlights": [
+      "Eliminating homework — teachers are against it",
+      "it is also a way of creating a connection between teachers and parents",
+      "these are important topics for dialogue that maintain this essential relationship between school and family"
+    ],
+    "english_question": "Teachers are…",
+    "english_options": [
+      "In favor of this practice because it brings them closer to the parents.",
+      "Against this practice because it makes children's days longer.",
+      "In favor of this practice because it keeps children busy at home.",
+      "Against this practice because parents are not always available."
     ]
   }
 ]

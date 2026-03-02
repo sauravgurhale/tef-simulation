@@ -13,6 +13,18 @@
     "highlights": [
       "billet d'avion",
       "sur ton livre"
+    ],
+    "english_translation": "I'm looking for my plane ticket, you wouldn't have seen it? But yes, right in front of you there on your book.",
+    "english_translation_highlights": [
+      "plane ticket",
+      "on your book"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_1_images/co-1-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -30,6 +42,19 @@
       "balade",
       "forêt",
       "fraîcheur de la forêt"
+    ],
+    "english_translation": "You didn't get too hot during the walk? Fortunately no, we enjoyed the coolness of the forest.",
+    "english_translation_highlights": [
+      "walk",
+      "forest",
+      "coolness of the forest"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_1_images/co-1-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -46,6 +71,18 @@
     "highlights": [
       "tu ne donnes plus de nouvelles depuis ton départ à la retraite",
       "je me suis mis à la natation"
+    ],
+    "english_translation": "So you haven't been in touch since you retired. Yes, that's true, well everything's fine, I've taken up swimming — it keeps you young.",
+    "english_translation_highlights": [
+      "you haven't been in touch since you retired",
+      "I've taken up swimming"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_1_images/co-1-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -63,6 +100,19 @@
       "à la brocante",
       "dimanche dernier",
       "les verres à pied"
+    ],
+    "english_translation": "So you went to the flea market last Sunday? Did you find some nice things? Yes, I finally found the stemmed glasses I had been looking for for months.",
+    "english_translation_highlights": [
+      "to the flea market",
+      "last Sunday",
+      "the stemmed glasses"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_1_images/co-1-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -80,6 +130,19 @@
       "départ initialement prévu à 10 heures trente-six",
       "partira",
       "avec un retard de 10 minutes"
+    ],
+    "english_translation": "Attention travelers: train number 8856 to Toulouse, departure initially scheduled at 10:36, will depart from platform 5 with a 10-minute delay.",
+    "english_translation_highlights": [
+      "departure initially scheduled at 10:36",
+      "will depart",
+      "with a 10-minute delay"
+    ],
+    "english_question": "This message announces:",
+    "english_options": [
+      "A change of destination.",
+      "A technical problem.",
+      "A schedule change.",
+      "The arrival of a train."
     ]
   },
   {
@@ -98,6 +161,20 @@
       "le ministère de la santé",
       "vous offre un kit pour vous aider à arrêter",
       "tabac-info-service.fr"
+    ],
+    "english_translation": "For Tobacco-Free Month, the Ministry of Health is offering you a free kit to help you quit smoking. Order it at tabac-info-service.fr in October.",
+    "english_translation_highlights": [
+      "For Tobacco-Free Month",
+      "the Ministry of Health",
+      "is offering you a free kit to help you quit smoking",
+      "tabac-info-service.fr"
+    ],
+    "english_question": "This message is:",
+    "english_options": [
+      "A movie trailer.",
+      "A weather report.",
+      "A health campaign.",
+      "A commercial advertisement."
     ]
   },
   {
@@ -115,6 +192,19 @@
       "des pickpockets peuvent être présents à bord de votre train",
       "nous vous invitons à surveiller vos effets personnels",
       "Si vous êtes témoin d'un fait suspect, veuillez le signaler"
+    ],
+    "english_translation": "Let's stop together. Attention, pickpockets may be present on board your train. We invite you to keep an eye on your personal belongings. If you witness any suspicious activity, please report it to the conductor who remains at your disposal in car 4 or to the staff at the station ticket counters.",
+    "english_translation_highlights": [
+      "pickpockets may be present on board your train",
+      "We invite you to keep an eye on your personal belongings",
+      "If you witness any suspicious activity, please report it"
+    ],
+    "english_question": "This message is broadcast for:",
+    "english_options": [
+      "Warn of a risk.",
+      "Offer a service.",
+      "Report an incident.",
+      "Announce an inspection."
     ]
   },
   {
@@ -133,6 +223,20 @@
       "nous vous informons que",
       "le spectacle de contes pour les enfants à partir de 3 ans est reporté à la semaine prochaine",
       "Les personnes souhaitant annuler leurs réservations"
+    ],
+    "english_translation": "Due to a technical problem, we would like to inform you that the storytelling show for children aged 3 and up has been postponed to next week. Those wishing to cancel their reservations are asked to go to the media library reception desk.",
+    "english_translation_highlights": [
+      "Due to a technical problem",
+      "we would like to inform you that",
+      "the storytelling show for children aged 3 and up has been postponed to next week",
+      "Those wishing to cancel their reservations"
+    ],
+    "english_question": "This message is broadcast for:",
+    "english_options": [
+      "Announce an event.",
+      "Invite people to register.",
+      "Inform about the start of an activity.",
+      "Warn about a change."
     ]
   },
   {
@@ -150,6 +254,19 @@
       "tu peux passer à la boulangerie, s’il te plaît",
       "Il n’y a plus de pain à la maison",
       "Achète quelques gâteaux aussi"
+    ],
+    "english_translation": "Hello darling, it's Mom. There's no more bread at home, can you stop by the bakery, please? Buy some cakes too. Kisses, see you tonight!",
+    "english_translation_highlights": [
+      "can you stop by the bakery, please",
+      "There's no more bread at home",
+      "Buy some cakes too"
+    ],
+    "english_question": "The person is calling to:",
+    "english_options": [
+      "Ask for a favor.",
+      "Inform about the menu.",
+      "Invite to dinner.",
+      "Suggest an outing."
     ]
   },
   {
@@ -167,6 +284,19 @@
       "Tu pourrais passer chez moi",
       "pour me rapporter mon livre d’anglais",
       "s’il te plaît"
+    ],
+    "english_translation": "Hi Mal, it's Zacharie. Could you stop by my place to bring back my English book, please? I left it on your desk yesterday when I came to see you. Thanks!",
+    "english_translation_highlights": [
+      "Could you stop by my place",
+      "to bring back my English book",
+      "please"
+    ],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "Ask for a service.",
+      "Make an appointment.",
+      "Express gratitude.",
+      "Make a reproach."
     ]
   },
   {
@@ -184,6 +314,19 @@
       "Je t’appelle parce que",
       "j’ai oublié tes bouquins de biologie chez toi",
       "Tu pourrais me les rapporter demain matin au cours de français"
+    ],
+    "english_translation": "Hi Wang, it's Tina. I'm calling because I left my biology books at your place. Could you bring them to me tomorrow morning at French class? Thanks, and see you tomorrow!",
+    "english_translation_highlights": [
+      "I'm calling because",
+      "I left my biology books at your place",
+      "Could you bring them to me tomorrow morning at French class"
+    ],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "Offer his/her help.",
+      "Inform about his/her absence.",
+      "Ask for a favor.",
+      "Check a schedule."
     ]
   },
   {
@@ -202,6 +345,20 @@
       "nous souhaiterions vous rencontrer",
       "pour en discuter",
       "Pourriez-vous me rappeler dès que possible pour convenir d’une date"
+    ],
+    "english_translation": "Hello, Johann Boun speaking from the Canadian Embassy in Brussels. Your application for the interpreter position has caught our attention and we would like to meet with you to discuss it. Could you call me back as soon as possible to arrange a date? Thank you and have a good day.",
+    "english_translation_highlights": [
+      "Your application for the interpreter position has caught our attention",
+      "we would like to meet with you",
+      "to discuss it",
+      "Could you call me back as soon as possible to arrange a date"
+    ],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "Confirm an appointment.",
+      "Propose an interview.",
+      "Offer a job.",
+      "Request information."
     ]
   },
   {
@@ -219,6 +376,19 @@
       "j’ai prévu de faire une chasse au trésor",
       "Est-ce que ça te tente ?",
       "je pourrai t’expliquer de quoi il s’agit exactement"
+    ],
+    "english_translation": "Sophie, I've planned to do a treasure hunt with Paul, Lucas, and Eva. It will probably be next Saturday in the afternoon. Are you interested? Call me back, I can explain to you what it's all about exactly. Kisses!",
+    "english_translation_highlights": [
+      "I've planned to do a treasure hunt",
+      "Are you interested?",
+      "I can explain to you what it's all about exactly"
+    ],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "Suggest an activity.",
+      "Ask for a favor.",
+      "Set up an appointment.",
+      "Present a product."
     ]
   },
   {
@@ -238,6 +408,21 @@
       "Ce repas sera suivi d’une animation",
       "vous permettant de découvrir l’ensemble de notre gamme de produits cosmétiques",
       "Vous allez recevoir un courriel de confirmation"
+    ],
+    "english_translation": "Mrs. Rioux, you have won a lunch for two at the Cabourg spa next Monday. This meal will be followed by a presentation allowing you to discover our entire range of cosmetic products. You will receive a confirmation email.",
+    "english_translation_highlights": [
+      "you have won a lunch for two",
+      "at the Cabourg spa next Monday",
+      "This meal will be followed by a presentation",
+      "allowing you to discover our entire range of cosmetic products",
+      "You will receive a confirmation email"
+    ],
+    "english_question": "The person is calling for:",
+    "english_options": [
+      "Invite to an event.",
+      "Present new products.",
+      "Summon to a meeting.",
+      "Set an appointment."
     ]
   },
   {
@@ -255,6 +440,19 @@
       "C'est une option qu'on devrait tous avoir",
       "Moi, je suis libérale",
       "Je pense que c'est quelque chose qui devrait être accessible à tout le monde"
+    ],
+    "english_translation": "It's an option that we should all have. I'm liberal. I think it's something that should be accessible to everyone.",
+    "english_translation_highlights": [
+      "It's an option that we should all have",
+      "I'm liberal",
+      "I think it's something that should be accessible to everyone"
+    ],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "Is totally in favor.",
+      "Is rather in favor.",
+      "Is totally against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -274,6 +472,21 @@
       "j'ai quelque réticence",
       "mais",
       "chacun est libre de choisir sa propre famille"
+    ],
+    "english_translation": "It's true that personally I wouldn't do it, it scares me, I have some reservations, but everyone is free to choose their own family.",
+    "english_translation_highlights": [
+      "It's true that personally I wouldn't do it",
+      "it scares me",
+      "I have some reservations",
+      "but",
+      "everyone is free to choose their own family"
+    ],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "Is totally in favor.",
+      "Is rather in favor.",
+      "Is totally against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -290,6 +503,18 @@
     "highlights": [
       "Pour moi, la famille, c'est vraiment inutile",
       "je ne comprends pas qu'on ait des enfants adoptés ou biologiques avec ce monde qui devient fou"
+    ],
+    "english_translation": "For me, family is really pointless. In fact, I don't understand why people have children, whether adopted or biological, in this world that's going crazy.",
+    "english_translation_highlights": [
+      "For me, family is really pointless",
+      "I don't understand why people have children, whether adopted or biological, in this world that's going crazy"
+    ],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "Is totally in favor.",
+      "Is rather in favor.",
+      "Is totally against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -307,6 +532,19 @@
       "L’évolution ne va pas dans le bon sens",
       "n’ont pas vraiment d’autre solution",
       "c’est injuste pour elles"
+    ],
+    "english_translation": "The trend is not going in the right direction. People who live far from the city don't really have any other option; it's unfair to them.",
+    "english_translation_highlights": [
+      "The trend is not going in the right direction",
+      "don't really have any other option",
+      "it's unfair to them"
+    ],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "Is totally in favor.",
+      "Is in favor under certain conditions.",
+      "Is totally against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -324,6 +562,19 @@
       "Je trouve que c’est une bonne idée",
       "mais",
       "il faudrait d’abord que les routes soient mieux aménagées pour les vélos"
+    ],
+    "english_translation": "I think it's a good idea, but first the roads would need to be better designed for bikes, for example.",
+    "english_translation_highlights": [
+      "I think it's a good idea",
+      "but",
+      "first the roads would need to be better designed for bikes"
+    ],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "Is totally in favor.",
+      "Is in favor under certain conditions.",
+      "Is totally against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -342,6 +593,20 @@
       "ce qui est une très bonne chose",
       "pour la qualité de vie",
       "pour l’environnement"
+    ],
+    "english_translation": "Most cities already limit car access, which is a very good thing for quality of life and for the environment.",
+    "english_translation_highlights": [
+      "Most cities already limit car access",
+      "which is a very good thing",
+      "for quality of life",
+      "for the environment"
+    ],
+    "english_question": "The person interviewed:",
+    "english_options": [
+      "Is totally in favor.",
+      "Is in favor under certain conditions.",
+      "Is totally against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -361,6 +626,21 @@
       "Les salariés dépossédés de leur travail sont épuisés",
       "ces chômeurs avec un boulot deviennent inemployables",
       "qui concernerait pas moins de 30 pour 100 des salariés"
+    ],
+    "english_translation": "Boredom at work—does that ring a bell? Books are coming out just days apart describing the ravages of this new syndrome. An affliction with formidable consequences that is said to affect no fewer than 30 percent of employees. Being paid to do nothing—for most people, that's still immoral. It's shameful. You can't talk about it with those around you, and all the testimonies reported in the books say the same thing. Not working is exhausting. Employees stripped of their work are drained. They can no longer manage to do anything, not even the smallest task assigned to them. They lose the habit of working. The consequences can be serious: depression, increased risk of cardiovascular events—there is even talk of a risk of suicide attempts. The other consequence is that after a certain amount of time, these unemployed people with a job become unemployable.",
+    "english_translation_highlights": [
+      "Being paid to do nothing",
+      "Not working is exhausting",
+      "Employees stripped of their work are drained",
+      "these unemployed people with a job become unemployable",
+      "that is said to affect no fewer than 30 percent of employees"
+    ],
+    "english_question": "This column:",
+    "english_options": [
+      "Encourages a slowed-down pace of work.",
+      "Questions the place of work in our lives.",
+      "Reveals a paradox related to workload.",
+      "Denounces intense work paces."
     ]
   },
   {
@@ -378,6 +658,19 @@
       "En donnant une seconde vie aux déchets plastiques, ils veulent préserver l'environnement, mais aussi créer des emplois",
       "ils veulent préserver l'environnement",
       "créer des emplois"
+    ],
+    "english_translation": "How to eliminate plastic waste when your city has no recycling system: by transforming it into paving stones. The idea comes from 4 young Senegalese men from Dakar. By giving plastic waste a second life, they want to preserve the environment but also create jobs. Although the manufacturing process is artisanal, it produces resistant paving stones intended to cover courtyards or sidewalks. While it remains slightly more expensive than cement paving stones, it is mainly the population's low awareness of environmental degradation issues that is holding back sales. For the time being, it is mostly foreigners who are attracted by the initiative. The Belgian government has granted a scholarship to these young entrepreneurs.",
+    "english_translation_highlights": [
+      "By giving plastic waste a second life, they want to preserve the environment but also create jobs",
+      "they want to preserve the environment",
+      "create jobs"
+    ],
+    "english_question": "The project mentioned aims to:",
+    "english_options": [
+      "Combine ecology and economic development.",
+      "Put Dakar at the forefront of this economic sector.",
+      "Modernize public infrastructure.",
+      "Raise awareness of environment-related professions."
     ]
   },
   {
@@ -395,6 +688,19 @@
       "c'est sincèrement de la justice sociale",
       "Il est important d'apporter de l'aide aux personnes qui ont besoin de conseils juridiques",
       "On pense que c'est un objectif partagé mais il est surtout compris par les plus vulnérables d'entre nous"
+    ],
+    "english_translation": "Starting your career in a field that interests you, in working-class environments—tell us about your passion. Yes, it was the seventies, so it was easy to work in legal aid. I know it's a bit of a catch-all term, but it's sincerely about social justice. It's important to provide help to people who need legal advice. We think it's a shared goal, but it's mainly understood by the most vulnerable among us. Does your research concretely translate into changes in people's lives? Yes, absolutely. The research is done with people who have citizens' rights, and not without their knowledge. If in every household that wished it, we welcomed an anthropologist or an observer, we could truly understand the problems that exist in households in France. Thank you for your time.",
+    "english_translation_highlights": [
+      "it's sincerely about social justice",
+      "It's important to provide help to people who need legal advice",
+      "We think it's a shared goal, but it's mainly understood by the most vulnerable among us"
+    ],
+    "english_question": "According to the speaker, social justice is a principle:",
+    "english_options": [
+      "Understood by the most disadvantaged.",
+      "Approved by the disadvantaged classes.",
+      "Recognized by the authorities.",
+      "Universally accepted."
     ]
   },
   {
@@ -413,6 +719,20 @@
       "Si dans chaque foyer qui le souhaite, on accueillait un anthropologue ou une observatrice, on pourrait vraiment comprendre les problèmes qu'il y a dans les foyers en France",
       "c'est sincèrement de la justice sociale",
       "Il est important d'apporter de l'aide aux personnes qui ont besoin de conseils juridiques"
+    ],
+    "english_translation": "Starting your career in a field that interests you, in working-class communities—tell us about your passion. Yes, it was the seventies, so it was easy to work in legal aid. I know it's a bit of a catch-all term, but it's sincerely about social justice. It's important to provide help to people who need legal advice. We think it's a shared goal, but it's mostly understood by the most vulnerable among us. Does your research translate concretely into changes in people's lives? Yes, absolutely. The research is done with people who have citizens' rights, and not without their knowledge. If in every household that wishes it, we welcomed an anthropologist or an observer, we could truly understand the problems that exist in households in France. Thank you for your time.",
+    "english_translation_highlights": [
+      "The research is done with people who have citizens' rights, and not without their knowledge",
+      "If in every household that wishes it, we welcomed an anthropologist or an observer, we could truly understand the problems that exist in households in France",
+      "it's sincerely about social justice",
+      "It's important to provide help to people who need legal advice"
+    ],
+    "english_question": "Research can contribute to social justice on the condition that:",
+    "english_options": [
+      "To rely on psychology.",
+      "To involve the population.",
+      "To take inequalities into account.",
+      "To conduct laboratory tests."
     ]
   },
   {
@@ -432,6 +752,21 @@
       "le projecteur sur les tables haut de gamme ne doit pas faire oublier les petites tables dans l'ombre",
       "sur lesquelles se jouent des festins miniatures pour les gens hors champ",
       "une table digne de ce nom à laquelle on échange, on rit, on vit"
+    ],
+    "english_translation": "Michel Tremblay, for you as a philosopher, has happiness returned to the plate? It has always been there. As seen through the media, the plate is the pleasure of snobs, of wealthy urbanites who practice gastronomy. The spotlight on high-end tables must not make us forget the small tables in the shadows, where miniature feasts are enjoyed by people out of the frame. Do you think the pause of a meal is more vital than ever? It is time to ward off this pitiful loneliness that always manifests in the act of eating alone, among people who also eat alone and find themselves unable to form a community—namely, a table worthy of the name, where people exchange, laugh, and live.",
+    "english_translation_highlights": [
+      "It has always been there",
+      "As seen through the media, the plate is the pleasure of snobs, of wealthy urbanites",
+      "The spotlight on high-end tables must not make us forget the small tables in the shadows",
+      "where miniature feasts are enjoyed by people out of the frame",
+      "a table worthy of the name, where people exchange, laugh, and live"
+    ],
+    "english_question": "The guest emphasizes that:",
+    "english_options": [
+      "The pleasures of the table concern exclusively the wealthy classes.",
+      "The joy of a good meal is not reserved for the elite.",
+      "One often eats better in the countryside than in the city.",
+      "Eating well should be a universal right."
     ]
   },
   {
@@ -451,6 +786,21 @@
       "à laquelle on échange, on rit, on vit",
       "pensez-vous que la pose du repas soit plus que jamais vitale",
       "ne doit pas faire oublier les petites tables dans l'ombre sur lesquelles se jouent des festins miniatures"
+    ],
+    "english_translation": "Michel Tremblay, for you as a philosopher, has happiness returned to the plate? It has always been there. As seen through the media, the plate is the pleasure of snobs, wealthy urbanites who practice gastronomy. The spotlight on high-end tables must not make us forget the small tables in the shadows, on which miniature feasts are played out for people off-camera. Do you think the pause of the meal is more vital than ever? It is time to ward off this pitiful loneliness that always manifests itself in the act of eating alone alongside people who also eat alone and find themselves unable to form a community—namely, a table worthy of the name, around which we share, we laugh, we live.",
+    "english_translation_highlights": [
+      "It is time to ward off this pitiful loneliness that always manifests itself in the act of eating alone",
+      "find themselves unable to form a community—namely, a table worthy of the name",
+      "around which we share, we laugh, we live",
+      "Do you think the pause of the meal is more vital than ever",
+      "must not make us forget the small tables in the shadows, on which miniature feasts are played out"
+    ],
+    "english_question": "The guest:",
+    "english_options": [
+      "Finds it consistent that nowadays people eat alone.",
+      "Would like meals to become a moment of sharing again.",
+      "Is saddened to see so many people skipping their meals.",
+      "Regrets that people no longer take the time to eat."
     ]
   },
   {
@@ -482,6 +832,33 @@
       "on rend des produits comestibles impropres à la consommation",
       "pour les dates de péremption dépassées, une valorisation en recyclage",
       "Une convention pour une collecte sécurisée des invendus serait une première piste"
+    ],
+    "english_translation": "2 million tonnes of food thrown away each year by restaurants and businesses, nearly 30 percent of food produced lost or wasted because we don't know how to store, transport, or process it. Marie Lévesque, you are the manager of an organic store in Montreal. It is urgent to build a legislative arsenal, especially since the stakes are global—9 billion humans to feed by 2050 requires responsible management, notably by compelling large retailers to accept products without aesthetic criteria. In fact, they are not the only ones to blame. Fighting this upstream already means getting consumers to accept small imperfections—we eat with our eyes, and that's where we hit a wall. Best-before dates are also a dilemma. There are essential hygiene standards, but they tend to encourage waste. Why not donate? We can't risk poisoning, so we opt for destruction. Donation also brings logistical and transportation difficulties—who pays? So we render edible products unfit for consumption rather than allowing those past their expiration dates to be recycled through methanization circuits, or for the others, through aid association networks. An agreement for the secure collection of unsold goods would be a first step.",
+    "english_translation_highlights": [
+      "2 million tonnes of food thrown away each year by restaurants and businesses",
+      "nearly 30 percent of food produced lost or wasted",
+      "because we don't know how to store, transport, or process it",
+      "It is urgent to build a legislative arsenal",
+      "the stakes are global",
+      "9 billion humans to feed by 2050",
+      "requires responsible management",
+      "notably by compelling large retailers to accept products without aesthetic criteria",
+      "Fighting this upstream already means getting consumers to accept small imperfections",
+      "we eat with our eyes",
+      "Best-before dates are also a dilemma",
+      "they tend to encourage waste",
+      "We can't risk poisoning, so we opt for destruction",
+      "Donation also brings logistical and transportation difficulties",
+      "we render edible products unfit for consumption",
+      "those past their expiration dates to be recycled through methanization circuits",
+      "An agreement for the secure collection of unsold goods would be a first step"
+    ],
+    "english_question": "This report deals with:",
+    "english_options": [
+      "Poor management of food businesses.",
+      "The difficulties of recycling food waste.",
+      "The problem of wasting perishable goods.",
+      "The abusive practices of supermarkets."
     ]
   },
   {
@@ -501,6 +878,21 @@
       "on rend des produits comestibles impropres à la consommation plutôt que de leur permettre pour les dates de péremption dépassées, une valorisation en recyclage dans les circuits de méthanisation ou pour les autres dans les réseaux d'associations d'aide",
       "pourquoi ne pas donner",
       "lutter contre ça en amont c'est déjà faire accepter les petits défauts"
+    ],
+    "english_translation": "2 million tonnes of food thrown away each year by restaurants and businesses, nearly 30 percent of food produced lost or wasted because we don't know how to store, transport, or process it. Marie Lévesque, you are the manager of an organic store in Montreal. It is urgent to build a legislative arsenal, especially since the stakes are global—9 billion people to feed by 2050 requires responsible management, notably by compelling large retailers to accept products without aesthetic criteria. In fact, they are not the only ones to blame. Fighting this upstream already means getting consumers to accept small imperfections—we eat with our eyes, and that's where we hit a wall. Best-before dates are also a dilemma. There are essential hygiene standards, but they tend to encourage waste. Why not donate? You can't risk poisoning, so destruction is chosen instead. Donation also brings logistical and transportation difficulties—who pays? So edible products are made unfit for consumption rather than allowing those past their expiration dates to be recycled through methanization circuits, or for others to be channeled through charitable aid networks. An agreement for the secure collection of unsold goods would be a first step.",
+    "english_translation_highlights": [
+      "An agreement for the secure collection of unsold goods would be a first step",
+      "Donation also brings logistical and transportation difficulties",
+      "edible products are made unfit for consumption rather than allowing those past their expiration dates to be recycled through methanization circuits, or for others to be channeled through charitable aid networks",
+      "Why not donate?",
+      "Fighting this upstream already means getting consumers to accept small imperfections"
+    ],
+    "english_question": "The guest invites to:",
+    "english_options": [
+      "Set up a redistribution system for unsold goods.",
+      "Recycle on-site products that have become dangerous to consume.",
+      "Strengthen food safety through strict expiration date controls.",
+      "Prohibit the systematic recovery of unsold expired products."
     ]
   },
   {
@@ -518,6 +910,19 @@
       "Au début je me suis dit mais qu'est-ce que c'est que ces bêtises, on va avoir un ordinateur, comment on va dialoguer",
       "puis finalement ça se passe très bien",
       "puisqu'on peut échanger avec le docteur, l'infirmière fait tout ce qu'il faut que le docteur ne peut pas faire, pas de problème"
+    ],
+    "english_translation": "You plug in the stethoscope, we'll start with the lungs please, ma'am breathe hard with your mouth open. Breathe very hard through your mouth. This is a consultation that's not quite like the others. In the medical office, there is indeed the examination chair, a height gauge, a stethoscope, but the doctor is four hundred kilometers away in eastern France. Doctor Di Patricio communicates by videoconference and examines patients via connected instruments, some of which have a mini camera. To assist him with the patients, a flesh-and-blood nurse, Julie Maréchal. The beautiful machine you see in front of you is the famous telemedicine cart, which is basically a computer equipped with all the devices we need for consultations, so the stethoscope. There's the otoscope which allows you to see the ears and the nose. So the doctor is behind his screen and we are his helping hands, he guides us. I'm in the left ear. That's good, I saw the eardrum at the back. Bernadette, sixty-seven years old, is a regular patient. She remembers her first reaction when she learned about this rather unusual medical office. Have you been short of breath, ma'am? Oh no, I'm fine. With exertion. At first I said to myself, what is this nonsense, we're going to have a computer, how are we going to have a conversation, and then finally it goes very well since we can talk with the doctor, the nurse does everything that needs to be done that the doctor can't do, no problem. Behind the initiative is Christophe Dietrich, mayor of Laigneville, a small town of 5,000 inhabitants. Two years ago, he refused to let his town turn into a medical desert. He had tried to recruit a doctor, but in vain. We had 2 doctors who retired at the end of 2017, but we've seen it since mid-2015, I've been looking for replacement doctors. Knowing that the municipality provides the medical office free of charge since we had decided to buy it back. So at one point, I found myself facing a wall. So telemedicine became the obvious choice for us and we decided to set it up. She came with her 15-year-old son, red with fever; they live in the neighboring town. Where we live, we have doctors who are overbooked for 2 weeks. So we know that when a child is sick, you can't make them wait 2 weeks. But is telemedicine a second-rate medicine? With the presence of a nurse as in Laigneville, the answer is no, according to Doctor Paolo Di Patricio, who also works in a traditional practice. For him, the caregiver-patient relationship is real and most of a general practitioner's procedures can be performed. Many procedures can be carried out via teleconsultation with a perfectly satisfactory level of comfort in practice. There are certain procedures that cannot be performed — I'm thinking of neonatal pediatric follow-up, gynecological procedures cannot be done, that's it. In medical deserts, teleconsultation is one of the solutions. In Laigneville, the waiting room was full on this winter day.",
+    "english_translation_highlights": [
+      "At first I said to myself, what is this nonsense, we're going to have a computer, how are we going to have a conversation",
+      "and then finally it goes very well",
+      "since we can talk with the doctor, the nurse does everything that needs to be done that the doctor can't do, no problem"
+    ],
+    "english_question": "Patients confronted with telemedicine:",
+    "english_options": [
+      "Believe that specialists must keep up with the times.",
+      "Regret that politicians use it to win over voters.",
+      "Are initially skeptical then reassured by the measures put in place.",
+      "Note the lack of equipment necessary for medical monitoring."
     ]
   },
   {
@@ -537,6 +942,21 @@
       "Beaucoup d'actes sont réalisables en téléconsultation",
       "la plupart des actes d'un généraliste peuvent être pratiqués",
       "Dans les déserts médicaux la téléconsultation est une des solutions"
+    ],
+    "english_translation": "You plug in the stethoscope, we'll start with the lungs please, ma'am breathe hard with your mouth open. Breathe hard through your mouth. This is a consultation that's not quite like the others. In the medical office, there is indeed the examination chair, a height gauge, a stethoscope, but the doctor is four hundred kilometers away in eastern France. Doctor Di Patricio communicates by video conference and examines patients via connected instruments, some of which have a mini camera. To assist him with patients, a flesh-and-blood nurse, Julie Maréchal. The beautiful machine you see in front of you is the famous telemedicine cart, which is basically a computer equipped with all the devices needed for consultations, so the stethoscope. There's the otoscope which allows you to see the ears and nose. So the doctor is behind his screen and we are his hands, he guides us. I'm in the left ear. Good, I saw the eardrum at the back. Bernadette, sixty-seven years old, is a regular patient. She remembers her first reaction when she learned about this somewhat unusual medical office. Have you been short of breath, ma'am? Oh no, I'm fine. With exertion. At first I thought, what is this nonsense, we're going to have a computer, how are we going to talk, but in the end it goes very well since we can interact with the doctor, the nurse does everything the doctor can't do, no problem. Behind the initiative is Christophe Dietrich, mayor of Laigneville, a small town of 5,000 inhabitants. Two years ago, he refused to let his town turn into a medical desert. He had tried to recruit a doctor, but in vain. We had 2 doctors who retired at the end of 2017, but we've seen it since mid-2015, I've been looking for replacement doctors. Knowing that the municipality provides the medical office free of charge since we had decided to buy it back. So at one point, I found myself facing a wall. So telemedicine became the obvious choice for us and we decided to set it up. She came with her 15-year-old son, red with fever; they live in the neighboring town. Where we live, the doctors are overbooked for 2 weeks. So we know that when a child is sick, you can't make them wait 2 weeks. But is telemedicine second-rate medicine? With the presence of a nurse as in Laigneville, the answer is no, according to Doctor Paolo Di Patricio, who also works in a traditional practice. For him, the caregiver-patient relationship is real and most of a general practitioner's procedures can be performed. Many procedures can be carried out via teleconsultation with a perfectly satisfactory level of comfort. There are certain procedures that cannot be done — I'm thinking of neonatal pediatric follow-up, gynecological procedures cannot be performed, that's it. In medical deserts, teleconsultation is one of the solutions. In Laigneville, the waiting room was full on this winter day.",
+    "english_translation_highlights": [
+      "There are certain procedures that cannot be done",
+      "I'm thinking of neonatal pediatric follow-up, gynecological procedures cannot be performed",
+      "Many procedures can be carried out via teleconsultation",
+      "most of a general practitioner's procedures can be performed",
+      "In medical deserts, teleconsultation is one of the solutions"
+    ],
+    "english_question": "According to the report, telemedicine:",
+    "english_options": [
+      "Allows doctors to better manage their clientele.",
+      "Leads to the hasty closure of practices in rural areas.",
+      "Appeals to young people who use it on a regular basis.",
+      "Proves to be unfeasible for certain medical specialties."
     ]
   },
   {
@@ -555,6 +975,20 @@
       "la faute au courrier électronique et à la dématérialisation des documents administratifs",
       "En 20 ans, le nombre de lettres affranchies a été divisé par 2",
       "la dette de La Poste atteint aujourd'hui, selon les dernières normes comptables, 6,23 milliards d'euros"
+    ],
+    "english_translation": "Today we welcome economist Gérard Baudouin to talk to us about the increase in the price of stamps. Why this rise, Mr. Baudouin? – Well, it's necessary to make up for the decline in traditional mail, which is due to email and the digitization of administrative documents. In 20 years, the number of stamped letters has been halved, which means that La Poste's debt now stands at 6.23 billion euros, according to the latest accounting standards.",
+    "english_translation_highlights": [
+      "it's necessary to make up for the decline in traditional mail",
+      "which is due to email and the digitization of administrative documents",
+      "In 20 years, the number of stamped letters has been halved",
+      "La Poste's debt now stands at 6.23 billion euros, according to the latest accounting standards"
+    ],
+    "english_question": "The price increase aims to:",
+    "english_options": [
+      "Encourage the sending of personal mail.",
+      "Compensate for financial losses.",
+      "Prioritize the use of the Internet in bureaucracy.",
+      "Gradually eliminate the use of the stamp."
     ]
   },
   {
@@ -573,6 +1007,20 @@
       "arnaques par mail",
       "inondent les serveurs occidentaux",
       "une supercherie à l'avance de frais"
+    ],
+    "english_translation": "Among the digital pirates, there are cyber scammers, and in particular those who operate from emerging countries—mainly young people working from cybercafés and devising email scams that flood Western servers. How do these scams feed off the social, political, and historical context? Fundamentally, this fits into a very old practice of social banditry, with schemes that follow the same principle: an advance-fee fraud.",
+    "english_translation_highlights": [
+      "cyber scammers",
+      "email scams",
+      "flood Western servers",
+      "an advance-fee fraud"
+    ],
+    "english_question": "This column addresses:",
+    "english_options": [
+      "Fraudulent practices via electronic messaging.",
+      "The use of computer hacking for political purposes.",
+      "The societal consequences of virtual harassment.",
+      "Online security vulnerabilities in the face of scams."
     ]
   },
   {
@@ -590,6 +1038,19 @@
       "les syndicats dénoncent",
       "une déclaration de guerre",
       "qui fait partie de la politique gouvernementale"
+    ],
+    "english_translation": "And using the same method, since it's about arousing empathy from specific people and thereby managing to manipulate them. Today is the day the call for tenders is to take place for the privatization of certain services of London's largest museum. More flexible employees, subsidies gone missing, the unions denounce a declaration of war that is part of government policy.",
+    "english_translation_highlights": [
+      "the unions denounce",
+      "a declaration of war",
+      "that is part of government policy"
+    ],
+    "english_question": "The stated project resulted in:",
+    "english_options": [
+      "The replacement of the minister.",
+      "The dismissal of employees.",
+      "The closure of the museum.",
+      "The anger of the social partners."
     ]
   },
   {
@@ -612,6 +1073,24 @@
       "elles n'ont pas forcément les codes pour décrypter",
       "Les réseaux sociaux sont donc amenés à payer des journalistes pour vérifier et expliquer l'information qui circule",
       "eux-mêmes confrontés au problème massif de la désinformation"
+    ],
+    "english_translation": "Debunking a piece of information is a lot of work. It's very easy to spread false information, but it takes a very long time to verify it. Today, falsehood is part of the information landscape, all the more so because with the explosion of social media, certain people who were not used to consuming news have started receiving all sorts of messages, and they don't necessarily have the tools to decipher them. Social media platforms are therefore led to pay journalists to verify and explain the information that circulates, as they themselves face the massive problem of disinformation.",
+    "english_translation_highlights": [
+      "Debunking a piece of information is a lot of work",
+      "It's very easy to spread false information, but it takes a very long time to verify it",
+      "falsehood is part of the information landscape",
+      "with the explosion of social media",
+      "certain people who were not used to consuming news",
+      "they don't necessarily have the tools to decipher them",
+      "Social media platforms are therefore led to pay journalists to verify and explain the information that circulates",
+      "they themselves face the massive problem of disinformation"
+    ],
+    "english_question": "Today, the information:",
+    "english_options": [
+      "Must be consulted regularly to be understood.",
+      "Is authenticated by journalists on social media.",
+      "Can be deciphered by everyone thanks to the internet.",
+      "Is never reliable because the sources cannot be verified."
     ]
   },
   {
@@ -631,6 +1110,21 @@
       "Paris et les autres grandes villes séduites par le dispositif ont commencé à légiférer",
       "pour contrer les effets négatifs de cette nouvelle tendance",
       "il faut penser à la régulation qui accompagne l'innovation"
+    ],
+    "english_translation": "The polluting car seems doomed to soon be nothing more than a vestige of the past. The alternative will have to meet a contradictory demand: speed and ecology. A very popular recent innovation reconciles both: the electric scooter. Very practical, it is criticized by those who find it dangerous. After a few months, Paris and other major cities won over by the concept began to legislate to counter the negative effects of this new trend. As with any novelty, one must consider the regulation that accompanies innovation.",
+    "english_translation_highlights": [
+      "the electric scooter",
+      "Very practical, it is criticized by those who find it dangerous",
+      "Paris and other major cities won over by the concept began to legislate",
+      "to counter the negative effects of this new trend",
+      "one must consider the regulation that accompanies innovation"
+    ],
+    "english_question": "In the field of transportation, this innovation:",
+    "english_options": [
+      "Is far from rivaling the car.",
+      "Is unanimously supported by citizens.",
+      "Requires the establishment of rules.",
+      "Struggles to break through and develop."
     ]
   },
   {
@@ -651,6 +1145,22 @@
       "l'asymétrie de négativité",
       "qui a été testée aussi bien sur les stéréotypes sociaux que sur les informations inquiétantes",
       "on a plus d'intérêt et qu'on mémorise mieux les informations négatives"
+    ],
+    "english_translation": "The brain is very attentive to nurturing personal routines that reassure it, and at the same time, it needs to explore what is possible. Any news that represents a revelation or that attracts our attention, such as fear or self-centered information, is likely to capture available brain time. This is the negativity asymmetry, which has been tested on both social stereotypes and alarming information, whereby we have greater interest in and better memorize negative information.",
+    "english_translation_highlights": [
+      "The brain is very attentive to nurturing personal routines that reassure it",
+      "it needs to explore what is possible",
+      "Any news that represents a revelation or that attracts our attention, such as fear or self-centered information, is likely to capture available brain time",
+      "the negativity asymmetry",
+      "which has been tested on both social stereotypes and alarming information",
+      "we have greater interest in and better memorize negative information"
+    ],
+    "english_question": "According to the expert:",
+    "english_options": [
+      "We have an innate appetite for bad news.",
+      "Information shared on the web reinforces our prejudices.",
+      "Fear is a barrier to human curiosity.",
+      "Catastrophic events represent a challenge for thought."
     ]
   },
   {
@@ -669,6 +1179,20 @@
       "manquement ancien et persistant à ses obligations légales en matière de modération des contenus",
       "parmi plus de 1 000 tweets haineux signalés, seuls 12 % d'entre eux ont été supprimés",
       "dans une période raisonnable allant de 3 à 5 jours"
+    ],
+    "english_translation": "Four anti-discrimination associations are taking Twitter to court for longstanding and persistent failure to meet its legal obligations regarding content moderation. They explain that, out of more than 1,000 hateful tweets reported, only 12% of them were removed within a reasonable period of 3 to 5 days. They are requesting the appointment of an expert tasked with assessing the material and human resources deployed by Twitter to combat the spread of such messages. Twitter counters that it is investing in moderation technologies to reduce the burden on users by sparing them from having to file reports. More than one in two abusive tweets is now detected automatically, rather than reported.",
+    "english_translation_highlights": [
+      "Four anti-discrimination associations are taking Twitter to court",
+      "longstanding and persistent failure to meet its legal obligations regarding content moderation",
+      "out of more than 1,000 hateful tweets reported, only 12% of them were removed",
+      "within a reasonable period of 3 to 5 days"
+    ],
+    "english_question": "According to this information, a group of associations:",
+    "english_options": [
+      "Files a complaint against the automated moderators.",
+      "Denounces the laxity towards illicit content.",
+      "Challenges the experts appointed by the company.",
+      "Demands more transparency on the algorithms."
     ]
   },
   {
@@ -688,6 +1212,21 @@
       "On la juge avare, hermétique à la poésie, brutale",
       "Il est aisé de dénigrer cette mère",
       "Elle royaumait sa terre, elle retenait son fils dans le provincialisme de l'Ardenne, elle l'observait d'un œil suspicieux"
+    ],
+    "english_translation": "Rimbaud's parents separated when he was 4 years old. His father, an infantry captain, rejoined his corps, as shamans and military men say. Curtain call, Papa Rimbaud. Generations of psychoanalytically-minded commentators would see in Arthur's male friendships a search for the father. The mother excites the Rimbaud enthusiasts' version. She is judged miserly, impervious to poetry, brutal. But what can really be expected of a mother in the evening by candlelight, when her son is in the process of self-destructing? It is easy to disparage this mother whom Arthur called \"la Daronfle.\" She ruled over her land, she kept her son confined to the provincialism of the Ardennes, she watched with a suspicious eye as he devised an unknown language, consorted with wild characters, drank absinthe, and embarked on mad boats. But I believe there was a deep tenderness hidden within him toward this mother he pretended to curse.",
+    "english_translation_highlights": [
+      "I believe there was a deep tenderness hidden within him toward this mother",
+      "he pretended to curse",
+      "She is judged miserly, impervious to poetry, brutal",
+      "It is easy to disparage this mother",
+      "She ruled over her land, she kept her son confined to the provincialism of the Ardennes, she watched with a suspicious eye"
+    ],
+    "english_question": "According to the chronicler, Arthur Rimbaud:",
+    "english_options": [
+      "Feels an unspoken but sincere affection toward his mother.",
+      "Owes his torments to the absence of a father figure.",
+      "Drew upon his family misfortunes to shape his poetry.",
+      "Was always supported by his mother in his aesthetic pursuit."
     ]
   },
   {
@@ -710,6 +1249,24 @@
       "elle transforme artificiellement le climat dans ce qu'il a d'inconfortable pour le rendre habitable",
       "Le toit agit contre le soleil, le mur contre le vent et le froid",
       "quand les constructions humaines sont conçues hors de leur milieu naturel, elles finissent toujours par le payer"
+    ],
+    "english_translation": "We all know that upper-floor apartments are worth more than lower-floor ones, particularly due to temperature considerations. But climate change could well reverse the price range. Architects are thinking about how to adapt these buildings, but it is difficult, even impossible, to insulate homes designed above all to be beautiful, even if it means being too hot. Yet this is a serious mistake, as the very purpose of architecture is climatic in that it artificially transforms what is uncomfortable about the climate to make it livable. The roof protects against the sun, the wall against the wind and the cold. Conclusion: when human constructions are designed outside of their natural environment, they always end up paying the price.",
+    "english_translation_highlights": [
+      "upper-floor apartments are worth more than lower-floor ones, particularly due to temperature considerations",
+      "climate change could well reverse the price range",
+      "it is difficult, even impossible, to insulate homes designed above all to be beautiful, even if it means being too hot",
+      "Yet this is a serious mistake",
+      "as the very purpose of architecture is climatic",
+      "it artificially transforms what is uncomfortable about the climate to make it livable",
+      "The roof protects against the sun, the wall against the wind and the cold",
+      "when human constructions are designed outside of their natural environment, they always end up paying the price"
+    ],
+    "english_question": "According to the chronicler, architecture should:",
+    "english_options": [
+      "Allow residents to enjoy the surrounding natural environment.",
+      "Prioritize functionality over aesthetics.",
+      "Create buildings that can be adapted over time.",
+      "Take an interest in the habitats of all social strata."
     ]
   },
   {
@@ -731,6 +1288,23 @@
       "Mais que penser de cette ode à la fragilité de l'existence ?",
       "Comment persister dans l’existence tout en étant affaibli ?",
       "Et inversement, que reste-t-il de la fragilité quand on résiste, quand on fait donc preuve de force, malgré tout ?"
+    ],
+    "english_translation": "Weakness, inconstancy, inconsistency, feebleness… these are a few very charming synonyms for fragility. At first glance, nothing about it makes you want to turn it into an art. So why do we see one praise of fragility after another? As with fashion, the trend needs to be decoded. And as usual, it's just a story of inversion. Since the times are all about competition, strong and fierce capitalism, one inevitably has to play the game of contradiction and pseudo-critical distance. We must then valorize its opposite: fragility. Now obviously, I'm not going to fall into the Marxist critique according to which only the strongest can afford to be fragile, because they will know how to recover from it. But what are we to make of this ode to the fragility of existence? How can one persist in existence while being weakened? And conversely, what remains of fragility when one resists, when one therefore shows strength, in spite of everything?",
+    "english_translation_highlights": [
+      "So why do we see one praise of fragility after another?",
+      "And as usual, it's just a story of inversion.",
+      "Since the times are all about competition, strong and fierce capitalism, one inevitably has to play the game of contradiction and pseudo-critical distance.",
+      "I'm not going to fall into the Marxist critique",
+      "But what are we to make of this ode to the fragility of existence?",
+      "How can one persist in existence while being weakened?",
+      "And conversely, what remains of fragility when one resists, when one therefore shows strength, in spite of everything?"
+    ],
+    "english_question": "The columnist:",
+    "english_options": [
+      "Describes the excessiveness of this practice.",
+      "Mocks the fragility in the world of work.",
+      "Perceives in this attitude an anti-capitalist struggle.",
+      "Challenges this paradoxical tendency."
     ]
   }
 ]

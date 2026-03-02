@@ -15,6 +15,20 @@
       "ce soir",
       "faire mes devoirs",
       "J'en ai tellement"
+    ],
+    "english_translation": "\"We're going to the cinema tonight. Are you coming with us?\" \"Tonight, no, I'm going to do my homework. I have so much of it.\"",
+    "english_translation_highlights": [
+      "to the cinema",
+      "tonight",
+      "do my homework",
+      "I have so much of it"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_15_images/co-15-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -32,6 +46,19 @@
       "le premier train",
       "pour Lyon",
       "À 9 heures moins vingt-cinq"
+    ],
+    "english_translation": "— Excuse me, what time does the first train to Lyon leave? — At twenty-five to nine.",
+    "english_translation_highlights": [
+      "the first train",
+      "to Lyon",
+      "At twenty-five to nine"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_15_images/co-15-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -50,6 +77,20 @@
       "tu me donnes un coup de main",
       "j'ai voyagé",
       "Fais plutôt appel à un plombier"
+    ],
+    "english_translation": "\"Hi Sylvain, I have a water leak at my place, can you give me a hand?\" \"Today that won't be possible because I've been traveling. You should call a plumber instead.\"",
+    "english_translation_highlights": [
+      "a water leak at my place",
+      "can you give me a hand",
+      "I've been traveling",
+      "You should call a plumber instead"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_15_images/co-15-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -66,6 +107,18 @@
     "highlights": [
       "Le médecin",
       "m'a conseillé d'arrêter la consommation de tabac"
+    ],
+    "english_translation": "— Are you feeling better? Did you get checked out this morning? — Just a little. The doctor advised me to stop smoking, otherwise I'm in serious trouble.",
+    "english_translation_highlights": [
+      "The doctor",
+      "advised me to stop smoking"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_15_images/co-15-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -90,6 +143,26 @@
       "les époustouflants trapézistes",
       "Sky et Volt",
       "Venez nombreux"
+    ],
+    "english_translation": "To all the residents of Saint-Louis, don't miss the incredible show this Saturday at 8 PM at Place Moselle. Come see your favorite characters like Cloudrico, Acrobat Luna, the tightrope walkers, the jugglers, and the breathtaking trapeze artists, Sky and Volt. Come one, come all!",
+    "english_translation_highlights": [
+      "To all the residents of Saint-Louis",
+      "the incredible show this Saturday at 8 PM",
+      "at Place Moselle",
+      "your favorite characters like Cloudrico",
+      "Acrobat Luna",
+      "the tightrope walkers",
+      "the jugglers",
+      "the breathtaking trapeze artists",
+      "Sky and Volt",
+      "Come one, come all"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "A great theater play.",
+      "A circus show.",
+      "A music show.",
+      "The entrance of the trapeze artists."
     ]
   },
   {
@@ -108,6 +181,20 @@
       "Veuillez évacuer immédiatement la poste",
       "en suivant les panneaux de sortie",
       "Gardez votre calme et aidez les personnes autour de vous"
+    ],
+    "english_translation": "Attention, a fire has been detected. Please evacuate the building immediately by following the exit signs. Stay calm and help those around you. Thank you for your cooperation.",
+    "english_translation_highlights": [
+      "a fire has been detected",
+      "Please evacuate the building immediately",
+      "by following the exit signs",
+      "Stay calm and help those around you"
+    ],
+    "english_question": "This message asks…",
+    "english_options": [
+      "To control all exit routes.",
+      "To stay near the exit signs.",
+      "To detect the fire zone.",
+      "To vacate the premises."
     ]
   },
   {
@@ -125,6 +212,19 @@
       "l'exposition de l'artiste Jean Dupont est suspendue aujourd'hui",
       "en raison de problèmes techniques",
       "Nous vous informerons bientôt de la nouvelle date"
+    ],
+    "english_translation": "Attention, the exhibition by artist Jean Dupont is suspended today due to technical problems. We will inform you soon of the new date. Thank you for your understanding and your patience.",
+    "english_translation_highlights": [
+      "the exhibition by artist Jean Dupont is suspended today",
+      "due to technical problems",
+      "We will inform you soon of the new date"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "The suspension of an artist.",
+      "The cancellation of an event.",
+      "The date of an event.",
+      "The resumption of the exhibition."
     ]
   },
   {
@@ -142,6 +242,19 @@
       "nous fermerons bien plus tôt aujourd'hui",
       "en raison de la grande vague de froid qui vient d'être annoncée",
       "Veuillez finaliser vos achats rapidement"
+    ],
+    "english_translation": "Dear customers, due to the major cold wave that has just been announced, we will be closing much earlier today. Please finalize your purchases quickly. Thank you for your understanding and take care of yourselves.",
+    "english_translation_highlights": [
+      "we will be closing much earlier today",
+      "due to the major cold wave that has just been announced",
+      "Please finalize your purchases quickly"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "The permanent closure of the store.",
+      "The return of the extreme cold.",
+      "The bad weather.",
+      "A premature closure."
     ]
   },
   {
@@ -159,6 +272,19 @@
       "j'appelais juste pour savoir si tu vas bien",
       "comment ton entretien d'embauche s'est passé",
       "Rien de spécial"
+    ],
+    "english_translation": "Hi, it's Jérémy. Nothing special, I was just calling to see how you're doing and how your job interview went. Call me back later.",
+    "english_translation_highlights": [
+      "I was just calling to see how you're doing",
+      "how your job interview went",
+      "Nothing special"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To give news about oneself.",
+      "To find out if his friend is feeling better.",
+      "To check in on someone / To ask for news.",
+      "To recount his job interview."
     ]
   },
   {
@@ -177,6 +303,20 @@
       "avec un retard",
       "je vais prendre le train de dix-huit heures",
       "merci pour ton invitation"
+    ],
+    "english_translation": "Hi son, it's Dad. First of all, thanks for your invitation. I'm calling to let you know that I will indeed be there tonight, but I'll be late, because I'm taking the six o'clock train. See you soon.",
+    "english_translation_highlights": [
+      "I'm calling to let you know that I will indeed be there tonight",
+      "I'll be late",
+      "I'm taking the six o'clock train",
+      "thanks for your invitation"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Invite his/her son tonight.",
+      "Confirm an appointment.",
+      "Inform about a train delay.",
+      "Postpone an appointment."
     ]
   },
   {
@@ -195,6 +335,20 @@
       "Vous êtes l'heureuse gagnante de notre dernier tirage au sort",
       "Venez récupérer votre lot",
       "Parfumeries, odeurs suaves"
+    ],
+    "english_translation": "Hello Mrs. Lila, Perfumeries, sweet fragrances. Congratulations! You are the lucky winner of our latest prize draw. Come collect your prize at our premises located at one hundred seventeen Dôme, rue des Marchands, as soon as possible. See you very soon.",
+    "english_translation_highlights": [
+      "Congratulations!",
+      "You are the lucky winner of our latest prize draw",
+      "Come collect your prize",
+      "Perfumeries, sweet fragrances"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Offer a gift.",
+      "Suggest perfumes.",
+      "Locate the perfume shop.",
+      "Announce the date of the drawing."
     ]
   },
   {
@@ -213,6 +367,20 @@
       "Si tu as besoin d'aide, je suis disponible",
       "disponible pour les cartons ou le transport",
       "Fais-moi signe quand tu veux qu'on s'organise"
+    ],
+    "english_translation": "Floraine, I heard you're moving soon. If you need help, I'm available for packing boxes or transport. Let me know when you want us to get organized. See you soon.",
+    "english_translation_highlights": [
+      "I heard you're moving soon",
+      "If you need help, I'm available",
+      "available for packing boxes or transport",
+      "Let me know when you want us to get organized"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Organize her move.",
+      "Offer a helping hand.",
+      "Inform that she is moving.",
+      "Ask for help."
     ]
   },
   {
@@ -230,6 +398,19 @@
       "C'est pour l'armoire que vous avez mise en vente sur internet",
       "Je suis intéressé",
       "je vous appelle pour savoir si c'est possible de bénéficier d'un rabais"
+    ],
+    "english_translation": "It's about the wardrobe you put up for sale on the internet. I'm interested, so I'm calling to find out if it's possible to get a discount. Get back to me quickly, thank you.",
+    "english_translation_highlights": [
+      "It's about the wardrobe you put up for sale on the internet",
+      "I'm interested",
+      "I'm calling to find out if it's possible to get a discount"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "Sell a piece of furniture on the Internet.",
+      "Buy a second-hand wardrobe.",
+      "Get a discount on a purchase.",
+      "Get information about the condition of a piece of furniture."
     ]
   },
   {
@@ -247,6 +428,19 @@
       "J'ai vu votre annonce concernant le recrutement d'un chauffeur",
       "je vous appelle pour savoir quand la personne doit commencer le travail",
       "ce n'est pas mentionné sur l'annonce"
+    ],
+    "english_translation": "Hello, I saw your advertisement regarding the recruitment of a driver. I am very interested and so I am calling to find out when the person should start the job, as it is not mentioned in the advertisement.",
+    "english_translation_highlights": [
+      "I saw your advertisement regarding the recruitment of a driver",
+      "I am calling to find out when the person should start the job",
+      "it is not mentioned in the advertisement"
+    ],
+    "english_question": "The person is calling to…",
+    "english_options": [
+      "To know when the position is available.",
+      "To offer a driver position.",
+      "To know when the job interview will take place.",
+      "To recruit a driver."
     ]
   },
   {
@@ -264,6 +458,19 @@
       "il faut savoir qu'un tel espace vert nous préserve de la pollution",
       "C'est aussi un endroit où nos enfants s'amusent à longueur de journée",
       "Le centre commercial, c'est bien, mais la santé est primordiale"
+    ],
+    "english_translation": "First, you should know that such a green space protects us from pollution. It is also a place where our children play all day long. The shopping center is fine, but health comes first.",
+    "english_translation_highlights": [
+      "you should know that such a green space protects us from pollution",
+      "It is also a place where our children play all day long",
+      "The shopping center is fine, but health comes first"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Thinks it is a good idea.",
+      "Thinks it is not a good idea.",
+      "Thinks it is not a good idea at all.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -281,6 +488,19 @@
       "Cette décision du maire m'enchante vraiment",
       "particulièrement avec la situation économique de la ville qui laisse à désirer",
       "Ça va apporter une bouffée d'air frais dans les caisses de la municipalité"
+    ],
+    "english_translation": "This decision by the mayor truly delights me, particularly given the city's economic situation, which leaves much to be desired. It's going to bring a breath of fresh air to the municipality's coffers.",
+    "english_translation_highlights": [
+      "This decision by the mayor truly delights me",
+      "particularly given the city's economic situation, which leaves much to be desired",
+      "It's going to bring a breath of fresh air to the municipality's coffers"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Thinks it is a good idea.",
+      "Thinks it is not a good idea.",
+      "Thinks it is not a good idea at all.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -299,6 +519,20 @@
       "Et le centre commercial fera qu'on ait accès à une grande variété de produits",
       "aujourd'hui nous sommes cantonnés à une seule épicerie",
       "Rien que pour ça, j'ai l'embarras du choix"
+    ],
+    "english_translation": "This park brings a lot of fresh air to the neighborhood. And the shopping center will give us access to a wide variety of products, because today we are limited to a single grocery store. For that alone, I'm spoiled for choice.",
+    "english_translation_highlights": [
+      "This park brings a lot of fresh air to the neighborhood",
+      "And the shopping center will give us access to a wide variety of products",
+      "today we are limited to a single grocery store",
+      "For that alone, I'm spoiled for choice"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Thinks it is a good idea.",
+      "Thinks it is not a good idea.",
+      "Thinks it is not a good idea at all.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -317,6 +551,20 @@
       "Ce n’est pas courant de trouver des femmes échafaudeurs",
       "l’égalité des gens au travail est un mirage",
       "pour ne pas dire que c’est un rêve"
+    ],
+    "english_translation": "It's very rare to see a woman on a construction site, working as a mason. It's not common to find women scaffolders, just to name that. So that clearly shows that equality of people at work is a mirage, not to say that it's a dream.",
+    "english_translation_highlights": [
+      "It's very rare to see a woman on a construction site",
+      "It's not common to find women scaffolders",
+      "equality of people at work is a mirage",
+      "not to say that it's a dream"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is completely in favor.",
+      "Is in favor under certain conditions.",
+      "Is totally against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -336,6 +584,21 @@
       "et j’en passe",
       "Et elles s’en sortent très bien",
       "et même souvent mieux que les hommes"
+    ],
+    "english_translation": "Listen, the question no longer arises today. Here, you find women who are mechanics, bus drivers, construction engineers, and so on. And they manage very well, and often even better than men.",
+    "english_translation_highlights": [
+      "the question no longer arises today",
+      "you find women who are mechanics, bus drivers, construction engineers",
+      "and so on",
+      "And they manage very well",
+      "and often even better than men"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is completely in favor.",
+      "Is in favor under certain conditions.",
+      "Is completely against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -354,6 +617,20 @@
       "si cette initiative est accompagnée",
       "afin que les employeurs comprennent",
       "cette politique d’égalité est difficile à mettre en place"
+    ],
+    "english_translation": "When we observe certain sectors, we realize that either women or men are more represented. So in practice, this equality policy is difficult to implement. Personally, I believe in equality if this initiative is supported so that employers understand that women are just as capable as men.",
+    "english_translation_highlights": [
+      "Personally, I believe in equality",
+      "if this initiative is supported",
+      "so that employers understand",
+      "this equality policy is difficult to implement"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "Is completely in favor.",
+      "Is in favor under certain conditions.",
+      "Is completely against.",
+      "Does not express an opinion."
     ]
   },
   {
@@ -376,6 +653,24 @@
       "Le CNA ne se contente pas de divertir, il joue aussi un rôle éducatif",
       "En connectant les gens à travers le cinéma, le CNA favorise l'échange culturel et renforce les liens communautaires",
       "Une initiative formidable qui démocratise l'accès à la culture"
+    ],
+    "english_translation": "Hello everyone. Today, let's talk about mobile digital cinema, or CNA. This innovative concept brings cinema directly to rural and remote areas, where access to movie theaters is limited. Thanks to funds collected by altruists, a minibus equipped with a projector, a DVD player, and a generator travels through villages like Cacouna and Percé several times a month. The CNA screens films on a large outdoor screen or in community spaces. This allows communities to discover cinematic works they would not otherwise have been able to see. The CNA does not just entertain; it also plays an educational role by showing documentaries and cultural films. By connecting people through cinema, the CNA promotes cultural exchange and strengthens community bonds. A wonderful initiative that democratizes access to culture.",
+    "english_translation_highlights": [
+      "This innovative concept brings cinema directly to rural and remote areas",
+      "where access to movie theaters is limited",
+      "a minibus equipped with a projector, a DVD player, and a generator travels through villages like Cacouna and Percé several times a month",
+      "The CNA screens films on a large outdoor screen or in community spaces",
+      "This allows communities to discover cinematic works they would not otherwise have been able to see",
+      "The CNA does not just entertain; it also plays an educational role",
+      "By connecting people through cinema, the CNA promotes cultural exchange and strengthens community bonds",
+      "A wonderful initiative that democratizes access to culture"
+    ],
+    "english_question": "The main objective of the CNA is…",
+    "english_options": [
+      "Distribute free cinema tickets in villages.",
+      "The screening of films in rural areas.",
+      "Promote traveling cinema which tends to disappear.",
+      "Instill a taste for cinema in community spaces."
     ]
   },
   {
@@ -398,6 +693,24 @@
       "Elle crée une dépendance économique des travailleurs sur la générosité des clients",
       "peut entraîner des inégalités salariales",
       "le pourboire n'est pas universellement compris ou pratiqué de la même manière par tous"
+    ],
+    "english_translation": "Today, let's go to Canada where tipping is a well-established tradition with origins dating back to the British colonial era. Historically, it served as a supplement to income for poorly paid service employees. Today, tipping still plays a crucial role in many sectors, particularly in the restaurant and hotel industries where it constitutes a significant portion of employees' wages. However, this practice poses challenges. It creates an economic dependence of workers on the generosity of customers and can lead to wage inequalities. Moreover, tipping is not universally understood or practiced in the same way by everyone, which can lead to cultural misunderstandings and frustrations for tourists and new residents.",
+    "english_translation_highlights": [
+      "tipping is a well-established tradition",
+      "it served as a supplement to income for poorly paid service employees",
+      "tipping still plays a crucial role in many sectors",
+      "it constitutes a significant portion of employees' wages",
+      "this practice poses challenges",
+      "It creates an economic dependence of workers on the generosity of customers",
+      "can lead to wage inequalities",
+      "tipping is not universally understood or practiced in the same way by everyone"
+    ],
+    "english_question": "According to the chronicle, this practice…",
+    "english_options": [
+      "Guarantees inclusive income among employees.",
+      "Underpins the evaluation of employees who interact with customers.",
+      "Could constitute a driver of pay disparity.",
+      "Has become a well-established societal norm in all countries."
     ]
   },
   {
@@ -424,6 +737,28 @@
       "il y a des enjeux de main-d'oeuvre en construction",
       "je veux pas qu'on s'empêche d'accélérer la rénovation des écoles pour des raisons d'argent",
       "il y a rien de plus important pour moi"
+    ],
+    "english_translation": "Hello, hello. Hello, Mr. Roy. In a brand spanking new school. Yeah, indeed, four years ago during the first mandate, I asked Jean-François Robert to design, among other things, drawing inspiration from what Ricardo and company had done, a new school model that's brighter with more common spaces, and this is the first time I'm visiting one that's been open since September—it's really beautiful. Well, at the same time, it's the exception to the rule. We're building about a hundred of them; it's certain that gradually we'd like all schools in Quebec to be like this, but indeed there are only about a hundred. There are roughly half that need a lot of love, to put it positively. Are you going to accelerate what you were supposed to invest over the next five or six years to renovate schools? Yes, I've asked Bernard Drainville to review how we categorize schools, because when we say 50 percent aren't in good condition, which ones absolutely need to be done right now? There are labor shortage issues in construction, but listen, for me this is a priority, so I don't want us to hold back on accelerating school renovations for financial reasons—there's nothing more important to me.",
+    "english_translation_highlights": [
+      "In a brand spanking new school",
+      "I asked Jean-François Robert to design, among other things, drawing inspiration from what Ricardo and company had done, a new school model that's brighter with more common spaces",
+      "this is the first time I'm visiting one that's been open since September",
+      "We're building about a hundred of them",
+      "we'd like all schools in Quebec to be like this",
+      "Are you going to accelerate what you were supposed to invest over the next five or six years to renovate schools?",
+      "Yes, I've asked Bernard Drainville to review how we categorize schools",
+      "when we say 50 percent aren't in good condition",
+      "which ones absolutely need to be done right now",
+      "There are labor shortage issues in construction",
+      "I don't want us to hold back on accelerating school renovations for financial reasons",
+      "there's nothing more important to me"
+    ],
+    "english_question": "The guest and his government emphasized the importance of education…",
+    "english_options": [
+      "By enhancing the educational offerings for a more inclusive education.",
+      "By reducing class sizes for personalized student monitoring.",
+      "By improving the continuing education of teachers.",
+      "By investing in school infrastructure."
     ]
   },
   {
@@ -443,6 +778,21 @@
       "pour moi ça a trioté",
       "on voudrait que toutes les écoles au Québec soient comme ça",
       "c'est certain que graduellement"
+    ],
+    "english_translation": "Hello, hello. Hello, Mr. Roy. In a brand spanking new school. Yeah, indeed, four years ago during the first term, I asked Jean-François Robert to design, among other things, drawing inspiration from what Ricardo and company had done, a new school model that's brighter with more common spaces, and this is the first time I'm visiting one that's been open since September — it's really beautiful. Well, at the same time, it's the exception to the rule. We're building about a hundred of them; it's certain that gradually we'd want all schools in Quebec to be like this, but indeed there are only about a hundred. There are roughly half that need a lot of love, to put it positively. Are you going to accelerate what you were supposed to invest over five or six years to renovate schools? Yes, I've asked Bernard Drainville to review how we categorize schools, because when we say 50 percent aren't in good condition, which ones absolutely need to be done right now. There are labor shortage issues in construction, but listen, for me this is a priority, so I don't want us to hold back on accelerating school renovations for money reasons — there's nothing more important to me.",
+    "english_translation_highlights": [
+      "there's nothing more important to me",
+      "I don't want us to hold back on accelerating school renovations for money reasons",
+      "for me this is a priority",
+      "we'd want all schools in Quebec to be like this",
+      "it's certain that gradually"
+    ],
+    "english_question": "The guest reveals that…",
+    "english_options": [
+      "Education leads the pack of his actions.",
+      "The renovation project will be delayed for financial reasons.",
+      "The main challenge lies in managing the high costs and construction delays.",
+      "The recruitment of a qualified workforce explains the six-year delay on the renovation."
     ]
   },
   {
@@ -470,6 +820,29 @@
       "on a vraiment un accueil pour tous, pour les familles, les jeunes",
       "du berceau à la tombe",
       "on a des activités et programmes pour tous ces gens-là"
+    ],
+    "english_translation": "Interviewer: Mr. Valletancourt, hello. Mr. Valletancourt: Hello. Interviewer: The YMCA organization has been around for a long time, but in many people's minds it often comes down to a sports center, yet it's more than that. You even see it as an economic engine to a certain extent? Mr. Valletancourt: Well, I would say yes, it's a consequence of the creation or the mission of the YMCA, but the YMCA started in Montreal — it's actually the first one in North America — and there are nearly 1,000 today across North America. The primary purpose of the YMCA was first to help young men keep busy during the industrial revolution — we're talking about 1851, going way back. But at its core, it was about making sure that young men at the time had something constructive to do with their lives, developed skills, and could thrive. And that fundamental purpose has remained throughout all these years. Today, obviously, the activities have changed. But the core purpose is still the same, and it takes shape through all sorts of different programs. Interviewer: So what is the YMCA's mission today, in 2017? Mr. Valletancourt: The mission is to make sure we build strong communities, that we give everyone in those communities opportunities — by area, by neighborhood — opportunities for personal growth, for an active, healthy, and engaged life. And that it truly applies to everyone. One of the great distinctions of the YMCA is that it's truly open to all, very inclusive, regardless of socioeconomic status or cultural background. We truly welcome everyone — families, young people. In fact, you could say it's from cradle to grave: we have activities and programs for all these people in the neighborhoods we serve.",
+    "english_translation_highlights": [
+      "it's more than that",
+      "The primary purpose of the YMCA was first to help young men",
+      "it was about making sure that young men at the time had something constructive to do with their lives, developed skills, and could thrive",
+      "that fundamental purpose has remained throughout all these years",
+      "The mission is to make sure we build strong communities",
+      "that we give everyone in those communities opportunities",
+      "opportunities for personal growth, for an active, healthy, and engaged life",
+      "it truly applies to everyone",
+      "it's truly open to all, very inclusive",
+      "regardless of socioeconomic status or cultural background",
+      "We truly welcome everyone — families, young people",
+      "from cradle to grave",
+      "we have activities and programs for all these people"
+    ],
+    "english_question": "The guest shares…",
+    "english_options": [
+      "An organization whose sole ambition is the development of sport in Canada.",
+      "An organization employing men of all ages for their social integration.",
+      "A charitable organization aimed at improving the living conditions of populations.",
+      "An association providing solely for the needs of unemployed individuals."
     ]
   },
   {
@@ -488,6 +861,20 @@
       "peu importe la situation socio-économique, les origines culturelles, on a vraiment un accueil pour tous",
       "une des grandes distinctions du YMCA, c'est vraiment ouvert à tous, c'est très inclusif",
       "on a vraiment un accueil pour tous, pour les familles, les jeunes"
+    ],
+    "english_translation": "Interviewer: Mr. Valletancourt, hello. Mr. Valletancourt: Hello. Interviewer: The YMCA organization has been around for a long time, but in many people's minds it often comes down to a sports center, yet it's more than that. You even see it as an economic engine to a certain extent? Mr. Valletancourt: Well, I would say yes, it's a consequence of the creation or the mission of the YMCA, but the YMCA started in Montreal—it's actually the first one in North America—and there are nearly 1,000 today in North America. The original purpose of the YMCA was first and foremost to help young men keep occupied during the industrial revolution; we're talking about 1851, going way back. But at its core, it was about making sure that young men at the time had something constructive to do with their lives, that they developed skills and could thrive. And that fundamental purpose has remained throughout all these years. Today, obviously, the activities have changed. But the core purpose is still the same, and it manifests in all sorts of different programs indeed. Interviewer: So the mission today, in 2017, of the YMCA—what is it? Mr. Valletancourt: The mission is to make sure we build strong communities, that we give everyone in those communities opportunities—by area, by neighborhood—opportunities for personal growth, for an active, healthy, and engaged life as well. And that it truly applies to everyone. One of the great distinctions of the YMCA is that it's truly open to all, it's very inclusive, regardless of socioeconomic status or cultural backgrounds. We truly welcome everyone—families, young people. In fact, it's from cradle to grave, you could say. We have activities and programs for all these people in the neighborhoods we serve.",
+    "english_translation_highlights": [
+      "it's truly open to all, it's very inclusive",
+      "regardless of socioeconomic status or cultural backgrounds. We truly welcome everyone",
+      "One of the great distinctions of the YMCA is that it's truly open to all, it's very inclusive",
+      "We truly welcome everyone—families, young people"
+    ],
+    "english_question": "One of the values of this organization…",
+    "english_options": [
+      "Freedom.",
+      "Inclusion.",
+      "Universalism.",
+      "Hedonism."
     ]
   },
   {
@@ -511,6 +898,25 @@
       "le fait qu'on a des logements pas abordables",
       "vu que les familles sont en détresse, la hausse de la violence conjugale",
       "la situation est préoccupante comme topo à Montréal"
+    ],
+    "english_translation": "What explains so many reports of domestic violence in your opinion? Yes, well last year we had an increase of 13.5 percent, and this year the increase stands at 6 percent. It's still a steady increase that concerns me. It can perhaps be explained by an erosion of the social and family fabric around families, that we have families in greater distress, children in greater distress, perhaps also the precarious socioeconomic situation across Montreal, the fact that we have unaffordable housing. Since families are in distress, the rise in domestic violence, family violence found in Montreal—we heard the SPVM report two weeks ago, we also heard about an increase in femicides. Young people have access to firearms, car thefts—so the situation is concerning overall in Montreal, I would say, and that could partly explain the precarious situations that also account for these reports. Yes, and there is also a new analytical framework regarding domestic violence—how does that change DPJ interventions? Explain that to us. Yes, well since 2023 we have a new way of analyzing and understanding domestic violence, so certain paradigms have changed. I'll give a very concrete example: we often hear about a domestic violence situation where the woman who is a victim of domestic violence doesn't leave, and the question is often asked, why doesn't she leave? Now, when we apply the analytical framework and the new concepts in domestic violence, the real question to ask is how is it that the parent who is the perpetrator of domestic violence has such a hold on the woman that prevents her from leaving. So it's truly a paradigm shift that means we will better protect children and better protect mothers who are victims of this domestic violence, and hold the fathers who perpetrate this violence accountable.",
+    "english_translation_highlights": [
+      "last year we had an increase of 13.5 percent, and this year the increase stands at 6 percent",
+      "It's still a steady increase that concerns me",
+      "an erosion of the social and family fabric around families",
+      "that we have families in greater distress",
+      "children in greater distress",
+      "the precarious socioeconomic situation across Montreal",
+      "the fact that we have unaffordable housing",
+      "Since families are in distress, the rise in domestic violence",
+      "the situation is concerning overall in Montreal"
+    ],
+    "english_question": "According to this specialist, the persistence of domestic violence can be explained by…",
+    "english_options": [
+      "Privileges granted to men in society.",
+      "The degradation of social cohesion.",
+      "The strengthening of the social fabric.",
+      "Prejudices against women."
     ]
   },
   {
@@ -531,6 +937,22 @@
       "Lorsque maintenant on applique la grille d'analyse et les nouvelles notions en violence conjugale, la question a vraiment se poser, c'est comment ça se fait que ce parent auteur de la violence conjugale a cette emprise sur la femme qui l'empêche de partir",
       "c'est vraiment un changement de paradigme",
       "qui fait en sorte qu'on va mieux protéger les enfants et mieux protéger les mères victimes de cette violence conjugale et responsabiliser les pères auteurs de cette violence"
+    ],
+    "english_translation": "What explains so many reports of domestic violence in your opinion? Yes, well last year we had an increase of 13.5 percent, and this year the increase stands at 6 percent. It's still a constant rise that concerns me. It can perhaps be explained by an erosion of the social and family fabric around families—we have families in greater distress, children in greater distress—perhaps also the precarious socio-economic situation across Montreal, the fact that we have unaffordable housing. Since families are in distress, there's been a rise in domestic violence, family violence found in Montreal. We heard the SPVM report two weeks ago; we also heard about a rise in femicides. Young people have access to firearms, car thefts—so the situation is concerning as an overall picture in Montreal, I would say, and that could partly explain the precarious situations that also account for these reports. Yes, and there's also a new analytical framework regarding domestic violence—how does that change DPJ interventions? Explain that to us. Yes, so since 2023 we have a new way of analyzing and understanding domestic violence, and certain paradigms have changed. I'll give a very concrete example: we often hear about a domestic violence situation where the woman who is a victim of domestic violence doesn't leave, and the question is often asked, \"Why not leave?\" Now, when we apply the analytical framework and the new concepts in domestic violence, the real question to ask is: how is it that the parent who is the perpetrator of domestic violence has such a hold on the woman that prevents her from leaving? So it's truly a paradigm shift that ensures we will better protect children and better protect mothers who are victims of this domestic violence, and hold the fathers who perpetrate this violence accountable.",
+    "english_translation_highlights": [
+      "since 2023 we have a new way of analyzing and understanding domestic violence",
+      "certain paradigms have changed",
+      "we often hear about a domestic violence situation where the woman who is a victim of domestic violence doesn't leave, and the question is often asked, \"Why not leave?\"",
+      "Now, when we apply the analytical framework and the new concepts in domestic violence, the real question to ask is: how is it that the parent who is the perpetrator of domestic violence has such a hold on the woman that prevents her from leaving?",
+      "it's truly a paradigm shift",
+      "that ensures we will better protect children and better protect mothers who are victims of this domestic violence, and hold the fathers who perpetrate this violence accountable"
+    ],
+    "english_question": "The new analysis grid",
+    "english_options": [
+      "Allows the conviction of perpetrators of domestic violence.",
+      "Is oriented toward a more holistic outcome perspective.",
+      "Allows for more reports of domestic violence to be obtained.",
+      "Allows women who are victims of domestic violence to speak out."
     ]
   },
   {
@@ -560,6 +982,31 @@
       "de programmes de santé, d'agriculture et d'économie locale pour sortir de cette situation scandaleuse qui dure vraiment depuis beaucoup trop longtemps",
       "les Royeuses clandestins qui qui viennent travailler",
       "l'une des plus exploitées de Guyane"
+    ],
+    "english_translation": "We've arrived at the Lipolipo creek. So there are the clandestine gold miners who come to work in this creek. After a half-hour pirogue ride, the Lipolipo creek, one of the most exploited in French Guiana, reveals itself. The water is murky, almost opaque. This creek is near the Amerindian villages along the Maroni River on the border with Suriname. Linya Oppoya is president of the association of mercury victims of the Upper Maroni. There you can really see the water is quite dirty. Are the gold miners far away or fairly close? No, they are very far away. So little by little they will keep going — if there's no gold, they'll keep going all the way to the end. This pollution is linked to mercury discharge, a toxic product used to recover gold that contaminates the entire food chain of the Maroni, particularly the fish consumed by the Amerindians. Their mercury exposure is 3 to 4 times higher than European health recommendations. This leads to numerous health problems, particularly for the neurological development of children. I see children who have difficulty speaking. There are children who really don't walk, who are truly disabled. Faced with this alarming situation, 6 associations and 2 residents of the Upper Maroni filed a case in January with the administrative court of Cayenne to have the State's negligent failure recognized in this matter. Michel Aloïqué, customary chief of Taluen, is among them. So it's been 30 years, even a bit longer than that, that this has been going on, and we feel that the State is doing nothing. Year after year, more sites are being created — they say they're decreasing, but we say no, because we see them every day. The associations are asking the State to remedy the harm. Marine Calmée, president of Wild Legal: What we are actually asking the State to do is to put in place new governance on the river to allow residents to be fully involved in developing new policies to combat illegal gold mining, but also health programs, agriculture, and local economic programs to get out of this scandalous situation that has really been going on for far too long. Emmanuel Macron will not visit the Upper Maroni region, but will go to Camopi, a village in eastern French Guiana where the fight against illegal gold mining has had more effect — fewer than twenty sites were recorded there in 2023. Emma Chevalier, Taluen, RFI.",
+    "english_translation_highlights": [
+      "This pollution is linked to mercury discharge",
+      "a toxic product used to recover gold that contaminates the entire food chain of the Maroni",
+      "particularly the fish consumed by the Amerindians",
+      "Their mercury exposure is 3 to 4 times higher than European health recommendations",
+      "This leads to numerous health problems, particularly for the neurological development of children",
+      "I see children who have difficulty speaking",
+      "There are children who really don't walk, who are truly disabled",
+      "6 associations and 2 residents of the Upper Maroni filed a case in January with the administrative court of Cayenne",
+      "it's been 30 years, even a bit longer than that, that this has been going on, and we feel that the State is doing nothing",
+      "Year after year, more sites are being created",
+      "The associations are asking the State to remedy the harm",
+      "What we are actually asking the State to do is to put in place new governance on the river",
+      "health programs, agriculture, and local economic programs to get out of this scandalous situation that has really been going on for far too long",
+      "the clandestine gold miners who come to work",
+      "one of the most exploited in French Guiana"
+    ],
+    "english_question": "The populations are complaining…",
+    "english_options": [
+      "The illegal exploitation of mercury in the region.",
+      "Mercury contamination linked to illegal gold mining practices.",
+      "Environmental and health challenges related to mercury exploitation.",
+      "The depletion of mercury, illegally exploited in the region for years."
     ]
   },
   {
@@ -577,6 +1024,19 @@
       "Nous demandons en fait à l'État de mettre en place une nouvelle gouvernance sur le fleuve",
       "pour permettre aux habitants d'être pleinement associés dans l'élaboration de nouvelles politiques de lutte contre leur paillage",
       "mais aussi de programmes de santé, d'agriculture et d'économie locale"
+    ],
+    "english_translation": "We've arrived at the Lipolipo creek. So there are the clandestine gold miners who come to work in this creek. After a half-hour pirogue ride, the Lipolipo creek, one of the most exploited in French Guiana, reveals itself. The water is murky, almost opaque. This creek is near the Amerindian villages along the Maroni River on the border with Suriname. Linya Oppoya is president of the association of mercury victims of the Upper Maroni. There you can really see the water is quite dirty. Are the gold miners far away or fairly close? No, they are very far away. So little by little they will keep going — if there's no gold, they will continue all the way to the end. This pollution is linked to mercury discharge, a toxic product used to recover gold that contaminates the entire food chain of the Maroni, particularly the fish consumed by the Amerindians. Their mercury exposure is three to four times higher than European health recommendations. This leads to numerous health problems, particularly for the neurological development of children. I see children who have difficulty speaking. There are children who really don't walk, who are truly disabled. Faced with this alarming situation, six associations and two residents of the Upper Maroni filed a case in January before the administrative court of Cayenne to have the state's negligent failure recognized in this matter. Michel Aloïqué, customary chief of Taluen, is among them. It's been 30 years, even a little longer than that, that this has been going on, and we feel that the state is doing nothing. Year after year, more sites are being created — they say they're decreasing, but we say no, because we see them every day. The associations are asking the state to remedy the harm. Marine Calmée, president of Wild Legal: We are actually asking the state to establish a new governance framework on the river to allow residents to be fully involved in developing new policies to fight illegal gold mining, as well as health, agriculture, and local economy programs, to put an end to this scandalous situation that has really been going on for far too long. Emmanuel Macron will not visit the Upper Maroni region, but rather Camopi, a village in eastern French Guiana where the fight against illegal gold mining has had more effect — fewer than twenty sites were recorded there in 2023. Emma Chevalier, Taluen, RFI.",
+    "english_translation_highlights": [
+      "We are actually asking the state to establish a new governance framework on the river",
+      "to allow residents to be fully involved in developing new policies to fight illegal gold mining",
+      "as well as health, agriculture, and local economy programs"
+    ],
+    "english_question": "To curb this scourge, the associations also suggest…",
+    "english_options": [
+      "A participatory approach aimed at a better control strategy.",
+      "Awareness-raising on environmental and health impacts.",
+      "Cooperation with eastern French Guiana to benefit from its experience.",
+      "Support from French authorities to control borders and reduce the flow of illegal workers."
     ]
   },
   {
@@ -596,6 +1056,21 @@
       "il ne s'agit que d'une ouverture prudente",
       "dix-huit 1000 tonnes",
       "c'est bien moins que les cent-quatre-vingt-dix 1000 permises au début des années quatre-vingt-dix"
+    ],
+    "english_translation": "The moratorium on commercial cod fishing in Newfoundland and Labrador is over, thirty-two years after it was imposed. But be careful—this is only a cautious reopening. Eighteen thousand tonnes is far less than the one hundred and ninety thousand permitted in the early nineties, barely more than the thirteen thousand tonnes of the stewardship fishery last year, and far less than the eight hundred thousand tonnes landed each year in the sixties.",
+    "english_translation_highlights": [
+      "The moratorium on commercial cod fishing",
+      "thirty-two years after it was imposed",
+      "this is only a cautious reopening",
+      "Eighteen thousand tonnes",
+      "far less than the one hundred and ninety thousand permitted in the early nineties"
+    ],
+    "english_question": "According to this extract…",
+    "english_options": [
+      "There is a moratorium on cod fishing.",
+      "The temporary ban on cod fishing has been lifted.",
+      "Cod are tending to disappear due to overfishing.",
+      "Cod fishing is a 32-year-old tradition."
     ]
   },
   {
@@ -613,6 +1088,19 @@
       "Québec adopte officiellement de nouvelles règles en matière d'affichage commercial",
       "Les commerçants qui ont pignon sur rue au Québec ont donc 11 mois pour adapter leur devanture",
       "La langue de Molière devra être prédominante"
+    ],
+    "english_translation": "The countdown has begun. Quebec is officially adopting new rules regarding commercial signage. Merchants with storefronts in Quebec therefore have 11 months to adapt their facades. The language of Molière must be predominant.",
+    "english_translation_highlights": [
+      "Quebec is officially adopting new rules regarding commercial signage",
+      "Merchants with storefronts in Quebec therefore have 11 months to adapt their facades",
+      "The language of Molière must be predominant"
+    ],
+    "english_question": "The new regulation…",
+    "english_options": [
+      "Promotes the use of the French language in businesses.",
+      "Imposes the predominance of French throughout the region.",
+      "Requires that Quebec merchants master French.",
+      "Imposes French-language commercial storefronts."
     ]
   },
   {
@@ -632,6 +1120,21 @@
       "c'est un peu difficile comme vendre de rêve",
       "travailler le vendredi, samedi soir et jour férié",
       "c'est c'est un peu difficile"
+    ],
+    "english_translation": "Entering a kitchen that's very hot, it's not easy work, that's for sure. So sometimes it's a bit difficult, like selling the dream of cooking, to get people to work on Friday, Saturday nights and public holidays, it's a bit difficult.",
+    "english_translation_highlights": [
+      "it's not easy work, that's for sure",
+      "sometimes it's a bit difficult",
+      "it's a bit difficult, like selling the dream",
+      "work on Friday, Saturday nights and public holidays",
+      "it's a bit difficult"
+    ],
+    "english_question": "According to this man, the restaurant industry…",
+    "english_options": [
+      "Attracts more young people.",
+      "Presents several challenges.",
+      "Has many opportunities.",
+      "Offers flexible work schedules."
     ]
   },
   {
@@ -649,6 +1152,19 @@
       "une crise sociale d'envergure",
       "Les logements se font encore plus rares et plus coûteux que par les années passées",
       "mille-trois-cent ménages qui seraient encore à la recherche d'un toit"
+    ],
+    "english_translation": "With 4 days to go before July first, housing, homelessness, and mental health organizations are sounding the alarm and reporting a major social crisis. Housing is even scarcer and more expensive than in previous years. In Quebec, it is estimated that thirteen hundred households are still looking for a roof over their heads. In Longueuil, there are also people searching for housing.",
+    "english_translation_highlights": [
+      "a major social crisis",
+      "Housing is even scarcer and more expensive than in previous years",
+      "thirteen hundred households are still looking for a roof over their heads"
+    ],
+    "english_question": "What situation is being denounced?",
+    "english_options": [
+      "A growing homelessness rate.",
+      "A housing market crisis.",
+      "The increase in mental health cases.",
+      "The shortage of social housing."
     ]
   },
   {
@@ -669,6 +1185,22 @@
       "on craint au moment où l'on se parle pour la sécurité du quatuor qui est introuvable",
       "un homme qui était peu connu au niveau criminel",
       "aurait pu par exemple être en brouille avec certaines personnes selon les policiers"
+    ],
+    "english_translation": "The police officers who arrived on Rue de la Commune at a luxury apartment in Old Montreal immediately opened an investigation into the kidnapping of a twenty-five-year-old man who is an influencer specializing in advice, particularly regarding cryptocurrency acquisition. With him, according to the police, there were three women who also disappeared along with him. So the group of four remains unaccounted for as we speak tonight. This is therefore a major and priority investigation for the SPVM, which has obviously dispatched many resources on the ground. We're talking here about a man who was not well known at the criminal level, but who may have been, for example, at odds with certain individuals according to the police. The fact remains that, as we speak, there are concerns for the safety of the four individuals who are nowhere to be found.",
+    "english_translation_highlights": [
+      "the kidnapping of a twenty-five-year-old man",
+      "there were three women who also disappeared along with him",
+      "the group of four remains unaccounted for as we speak tonight",
+      "as we speak, there are concerns for the safety of the four individuals who are nowhere to be found",
+      "a man who was not well known at the criminal level",
+      "may have been, for example, at odds with certain individuals according to the police"
+    ],
+    "english_question": "The four people in question…",
+    "english_options": [
+      "Had run-ins with the law.",
+      "Were popular influencers.",
+      "Were recently kidnapped.",
+      "Were cryptocurrency specialists."
     ]
   },
   {
@@ -689,6 +1221,22 @@
       "va certainement réduire le nombre des étudiants étrangers et de travailleurs étrangers",
       "y a la trop maintenant",
       "ça supprime aussi les les les les salaires de nos propres mondes"
+    ],
+    "english_translation": "After 9 years of Justin Trudeau the immigration system is completely out of control and Quebec is at a breaking point will certainly reduce the number of foreign students and foreign workers there are too many now and it also suppresses the wages of our own people.",
+    "english_translation_highlights": [
+      "After 9 years of Justin Trudeau",
+      "the immigration system is completely out of control",
+      "Quebec is at a breaking point",
+      "will certainly reduce the number of foreign students and foreign workers",
+      "there are too many now",
+      "it also suppresses the wages of our own people"
+    ],
+    "english_question": "In this extract, the person…",
+    "english_options": [
+      "Advocates for a less strict immigration system.",
+      "Promises an attractive treatment for international students.",
+      "Criticizes the current management of immigration.",
+      "Recommend that foreigners better serve Canada's interests."
     ]
   },
   {
@@ -708,6 +1256,21 @@
       "Chaque espace est optimisé",
       "On va couper la chambre en 2, ce n'est pas idéal",
       "ça nous permet au moins d'avoir 2 espaces un peu distincts"
+    ],
+    "english_translation": "Like many families in Paris, daily life for Laureline, Paolo, and their fiancée means living in cramped quarters. Can I get through? They live in thirty-nine square meters. This is the table that's used for homework, meals, arts and crafts, and doubles as a desk. Every space is optimized. In the bathroom, storage is stacked from floor to ceiling, and for the bedrooms, we said to ourselves we'll put up a partition. We'll split the bedroom in two—it's not ideal, but at least it allows us to have two somewhat separate spaces and a bit of privacy.",
+    "english_translation_highlights": [
+      "They live in thirty-nine square meters",
+      "means living in cramped quarters",
+      "Every space is optimized",
+      "We'll split the bedroom in two—it's not ideal",
+      "at least it allows us to have two somewhat separate spaces"
+    ],
+    "english_question": "This couple is forced to…",
+    "english_options": [
+      "To live outside of Paris.",
+      "To occupy a tiny dwelling.",
+      "To benefit from social housing.",
+      "To live two hours from the workplace."
     ]
   },
   {
@@ -730,6 +1293,24 @@
       "les sels d'aluminium, ils sont utilisés depuis plus de quatre-vingt-dix ans",
       "on vaccine des dizaines de 1000000 de personnes dans le monde entier chaque année",
       "La fameuse balance bénéfice risque, elle est très nettement en faveur d'une onde de vie sauvée"
+    ],
+    "english_translation": "Aluminum in vaccines — that's super dangerous. No, you know it's always the same problem, actually. There are people who say, oh no, aluminum, they'll say it causes muscular diseases, and then, behind that — well, actually yes, behind that, studies and research are done to verify. So first of all, aluminum-based adjuvants are in nearly all vaccines. They boost the immune system and make the vaccine more effective. So what do the studies say then? Well, no — yes, there's a little bit of aluminum that remains in the area where the injection was given, but no, nothing suggests that it causes diseases. In fact, aluminum salts have been used for over ninety years. And tens of millions of people are vaccinated worldwide every year. The famous benefit-risk balance is very clearly in favor of lives saved.",
+    "english_translation_highlights": [
+      "Aluminum in vaccines — that's super dangerous. No",
+      "nothing suggests that it causes diseases",
+      "aluminum-based adjuvants are in nearly all vaccines",
+      "They boost the immune system and make the vaccine more effective",
+      "what do the studies say then? Well, no — yes, there's a little bit of aluminum that remains in the area where the injection was given, but no, nothing suggests that it causes diseases",
+      "aluminum salts have been used for over ninety years",
+      "tens of millions of people are vaccinated worldwide every year",
+      "The famous benefit-risk balance is very clearly in favor of lives saved"
+    ],
+    "english_question": "Aluminum…",
+    "english_options": [
+      "Present in vaccines is dangerous.",
+      "Is a constituent of a limited number of vaccines.",
+      "Present in the vaccine improves its efficacy.",
+      "Present in the vaccine weakens the immune system."
     ]
   },
   {
@@ -746,6 +1327,18 @@
     "highlights": [
       "son oeuvre dépeint la violence masculine",
       "mais aussi la force des femmes"
+    ],
+    "english_translation": "You may not know her name, and yet she was one of the most recognized artists of her time. A friend of Galileo, protégée of the Medici and of King Charles I of England. A victim of rape at the age of eighteen, her work depicts male violence, but also the strength of women. This is the story of Artemisia Gentileschi.",
+    "english_translation_highlights": [
+      "her work depicts male violence",
+      "but also the strength of women"
+    ],
+    "english_question": "The works of this artist…",
+    "english_options": [
+      "Express the importance of women in the medieval era.",
+      "Denounce the discrimination suffered by citizens in the 17th century.",
+      "Describe among other things the violence of men.",
+      "Denounce the living conditions of women in the 17th century."
     ]
   },
   {
@@ -764,6 +1357,20 @@
       "je n'ai pas de machine, j'ai rien et j'ai tout ça dans la voiture",
       "d'essayer de présentable, de de me cacher dans des endroits, dans des toilettes publiques ou dans des WC de de de grandes surfaces",
       "je pars au travail, donc j'assume mon travail"
+    ],
+    "english_translation": "Soon it will be 16 months that he's been sleeping every night in his vehicle in this supermarket parking lot. And this is a struggle because I don't have a washing machine, I have nothing, and I have all this in the car. I have three routines a day. In the morning I get up, get ready, try to look presentable, hide in places, in public restrooms or in the toilets of big stores. After that, I go to work, so I do my job, I try to set aside my worries.",
+    "english_translation_highlights": [
+      "Soon it will be 16 months that he's been sleeping every night in his vehicle in this supermarket parking lot",
+      "I don't have a washing machine, I have nothing, and I have all this in the car",
+      "try to look presentable, hide in places, in public restrooms or in the toilets of big stores",
+      "I go to work, so I do my job"
+    ],
+    "english_question": "What is this man's problem?",
+    "english_options": [
+      "He has a poorly paid job.",
+      "He is facing unemployment.",
+      "He is facing a lack of housing.",
+      "He has problems with his employer."
     ]
   }
 ]

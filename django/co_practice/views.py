@@ -110,6 +110,9 @@ def question(request, practice_slug, question_id):
     highlighted = _highlighted_transcript(
         q['audio_transcript'], q.get('highlights', [])
     )
+    highlighted_english = _highlighted_transcript(
+        q.get('english_translation', ''), q.get('english_translation_highlights', [])
+    )
 
     return render(request, 'co_practice/question.html', {
         'question': q,
@@ -120,5 +123,6 @@ def question(request, practice_slug, question_id):
         'prev_id': prev_id,
         'next_id': next_id,
         'highlighted_transcript': highlighted,
+        'highlighted_english': highlighted_english,
         'practice_slug': practice_slug,
     })

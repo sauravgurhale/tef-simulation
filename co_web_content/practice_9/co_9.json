@@ -14,6 +14,19 @@
       "une jolie table",
       "2 chaises",
       "pour son balcon"
+    ],
+    "english_translation": "\"Do you have a gift idea for Amandine's birthday?\" \"Well, maybe. I saw a nice table and 2 chairs. It would be great for her balcony.\"",
+    "english_translation_highlights": [
+      "a nice table",
+      "2 chairs",
+      "for her balcony"
+    ],
+    "english_question": "You are going to hear conversations between two people. Indicate which drawing corresponds to each conversation.\n[image] @co_9_images/co-9-1-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -31,6 +44,19 @@
       "toilettes",
       "salle de bain",
       "deuxième porte à gauche"
+    ],
+    "english_translation": "— Can I use your bathroom? — Of course, it's in the bathroom, the second door on the left.",
+    "english_translation_highlights": [
+      "bathroom",
+      "bathroom",
+      "second door on the left"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_9_images/co-9-2-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -48,6 +74,19 @@
       "cinéma de plein air",
       "pendant tout l’été",
       "la ville a installé"
+    ],
+    "english_translation": "\"Did you know that the city set up an outdoor cinema for the whole summer?\" \"Would you like to go tonight?\" \"Great idea, I've never done that.\"",
+    "english_translation_highlights": [
+      "outdoor cinema",
+      "for the whole summer",
+      "the city set up"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_9_images/co-9-3-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -65,6 +104,19 @@
       "assis devant un ordinateur",
       "épuisé",
       "plein de problèmes"
+    ],
+    "english_translation": "\"Hi Ali, are you not doing well?\" \"Oh no, not at all. I've had to deal with a lot of problems, I'm exhausted.\" \"I think I'm not made for spending the day sitting in front of a computer.\"",
+    "english_translation_highlights": [
+      "sitting in front of a computer",
+      "exhausted",
+      "a lot of problems"
+    ],
+    "english_question": "Indicate which drawing corresponds to each conversation.\n[image] @co_9_images/co-9-4-min.png",
+    "english_options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ]
   },
   {
@@ -83,6 +135,20 @@
       "les animaux du zoo peuvent être dangereux",
       "Merci de surveiller vos enfants",
       "de ne pas les laisser approcher des grilles"
+    ],
+    "english_translation": "Ladies and gentlemen, the zoo animals can be dangerous. Please watch your children and do not let them approach the fences.",
+    "english_translation_highlights": [
+      "Ladies and gentlemen",
+      "the zoo animals can be dangerous",
+      "Please watch your children",
+      "do not let them approach the fences"
+    ],
+    "english_question": "This message is addressed to…",
+    "english_options": [
+      "to children.",
+      "to parents.",
+      "to guardians.",
+      "to everyone."
     ]
   },
   {
@@ -100,6 +166,19 @@
       "les téléphones doivent être éteints durant toute la durée du film",
       "Nous passerons dans la salle régulièrement pour vérifier que c’est bien le cas",
       "Merci de votre compréhension"
+    ],
+    "english_translation": "We remind you that phones must be turned off for the entire duration of the film. We will come through the theater regularly to check that this is indeed the case. Thank you for your understanding.",
+    "english_translation_highlights": [
+      "phones must be turned off for the entire duration of the film",
+      "We will come through the theater regularly to check that this is indeed the case",
+      "Thank you for your understanding"
+    ],
+    "english_question": "In this message, we are asked…",
+    "english_options": [
+      "to watch over their belongings.",
+      "to follow the rules.",
+      "to wait before going out.",
+      "to be careful with the equipment."
     ]
   },
   {
@@ -118,6 +197,20 @@
       "réductions exceptionnelles",
       "Jusqu’à moins 50 %",
       "N’attendez plus"
+    ],
+    "english_translation": "Dear customer, you only have a few hours left to take advantage of exceptional discounts in the Women's Beauty department, located on the fourth floor of our shopping center. Up to 50% off makeup, facial care products, and perfumes. Don't wait any longer!",
+    "english_translation_highlights": [
+      "you only have a few hours left",
+      "exceptional discounts",
+      "Up to 50% off",
+      "Don't wait any longer"
+    ],
+    "english_question": "This message announces…",
+    "english_options": [
+      "the end of a commercial operation.",
+      "the availability of new items.",
+      "informs of the temporary suspension of a service.",
+      "the validity period of loyalty cards."
     ]
   },
   {
@@ -135,6 +228,19 @@
       "à 11 h 30, heure locale, comme prévu",
       "après 4 h 15 de vol environ",
       "Nous atteindrons Cayo Largo"
+    ],
+    "english_translation": "Ladies and Gentlemen, I am Anton Lewinski, your captain, and I thank you for choosing Air Transat for your trip to Cuba. We will reach Cayo Largo at 11:30 a.m. local time, as scheduled, after approximately 4 hours and 15 minutes of flight. The cabin crew is entirely at your disposal.",
+    "english_translation_highlights": [
+      "at 11:30 a.m. local time, as scheduled",
+      "after approximately 4 hours and 15 minutes of flight",
+      "We will reach Cayo Largo"
+    ],
+    "english_question": "In this message, it is announced…",
+    "english_options": [
+      "that the route has been modified.",
+      "that the staff is on strike.",
+      "that the flight plan will be followed.",
+      "informs of a reduction in registration fees."
     ]
   },
   {
@@ -153,6 +259,20 @@
       "si tu es en forme",
       "si ton nouveau travail te plaît",
       "Rappelle-moi quand tu as le temps"
+    ],
+    "english_translation": "Well, it was Dad. I was just calling to see if you're doing well, if you're feeling good, and if you like your new job. Call me back when you have time, kisses.",
+    "english_translation_highlights": [
+      "I was just calling to see if you're doing well",
+      "if you're feeling good",
+      "if you like your new job",
+      "Call me back when you have time"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to offer his/her help.",
+      "to ask for a favor.",
+      "to suggest an activity.",
+      "to check in/get news."
     ]
   },
   {
@@ -169,6 +289,18 @@
     "highlights": [
       "Je ne peux pas venir au cours d’arabe ce soir",
       "Désolé de prévenir au dernier moment"
+    ],
+    "english_translation": "Hello Fatiha, I hope you get this message quickly. I can't come to Arabic class tonight, my son is sick. Sorry for the last-minute notice, and see you next week.",
+    "english_translation_highlights": [
+      "I can't come to Arabic class tonight",
+      "Sorry for the last-minute notice"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to ask for help.",
+      "to say that she is sick.",
+      "to notify of her absence.",
+      "to inquire about a class."
     ]
   },
   {
@@ -188,6 +320,21 @@
       "J’aimerais vous rencontrer",
       "dès que possible",
       "Vous pouvez me rappeler à ce numéro"
+    ],
+    "english_translation": "Hello Madam, I am Mrs. Fekir from the company FK Pro. You left me your CV for a receptionist position. I would like to meet you as soon as possible. You can call me back at this number.",
+    "english_translation_highlights": [
+      "I am Mrs. Fekir from the company FK Pro",
+      "You left me your CV for a receptionist position",
+      "I would like to meet you",
+      "as soon as possible",
+      "You can call me back at this number"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to announce his/her visit.",
+      "to propose an interview.",
+      "to cancel an appointment.",
+      "to ask for a favor."
     ]
   },
   {
@@ -206,6 +353,20 @@
       "Compte tenu des conditions climatiques",
       "le départ est susceptible d’être reporté ou annulé",
       "Pouvez-vous me rappeler"
+    ],
+    "english_translation": "Hello Mr. Lévesque, this is Gaëtan from Orléans Express. I'm calling you regarding your Montréal–Gaspé coach trip scheduled for tomorrow morning at 7 o'clock. Given the weather conditions, the departure may be postponed or cancelled. Could you call me back at 833-449-6441? Thank you.",
+    "english_translation_highlights": [
+      "I'm calling you regarding your Montréal–Gaspé coach trip scheduled for tomorrow morning at 7 o'clock",
+      "Given the weather conditions",
+      "the departure may be postponed or cancelled",
+      "Could you call me back"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to alert about a ticket problem.",
+      "to inform of a possible change.",
+      "to suggest another means of transport.",
+      "to indicate the reimbursement options."
     ]
   },
   {
@@ -225,6 +386,21 @@
       "Ce n’est pas normal qu’on ne m’appelle pas",
       "j’ai autre chose à faire à présent",
       "Rappelez-moi au plus vite"
+    ],
+    "english_translation": "Hello, this is Mr. Traoré again regarding the delivery of a Midea washing machine on Comoé Street. I've been waiting for the delivery drivers for 2 hours. It's not acceptable that no one has called me, and I have other things to do now. Call me back as soon as possible.",
+    "english_translation_highlights": [
+      "this is Mr. Traoré again",
+      "I've been waiting for the delivery drivers for 2 hours",
+      "It's not acceptable that no one has called me",
+      "I have other things to do now",
+      "Call me back as soon as possible"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to apologize for the delay.",
+      "to change the delivery location.",
+      "to complain to the company.",
+      "to confirm the receipt of an order."
     ]
   },
   {
@@ -242,6 +418,19 @@
       "j’ai lu ton compte rendu de la réunion de ce matin",
       "Il est très bien, mais il me semble qu’il manque un point important",
       "Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu’on voie ça ensemble"
+    ],
+    "english_translation": "Yes Nadia, I read your report from this morning's meeting. It's very good, but it seems to me that an important point is missing. Can you stop by my office when you get this message so we can look at it together? Thank you.",
+    "english_translation_highlights": [
+      "I read your report from this morning's meeting",
+      "It's very good, but it seems to me that an important point is missing",
+      "Can you stop by my office when you get this message so we can look at it together"
+    ],
+    "english_question": "The person is calling…",
+    "english_options": [
+      "to ask for an opinion.",
+      "to reschedule a meeting.",
+      "to thank his/her colleague.",
+      "to modify a document."
     ]
   },
   {
@@ -259,6 +448,19 @@
       "il faut savoir de quels élèves on parle",
       "À l’université, les étudiants peuvent avoir un regard intéressant",
       "Mais des enfants ou des adolescents, franchement..."
+    ],
+    "english_translation": "First, you need to know which students we're talking about. At university, students can have interesting perspectives. But children or teenagers, frankly...",
+    "english_translation_highlights": [
+      "you need to know which students we're talking about",
+      "At university, students can have interesting perspectives",
+      "But children or teenagers, frankly..."
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "completely in favor.",
+      "in favor in certain cases.",
+      "totally against.",
+      ""
     ]
   },
   {
@@ -276,6 +478,19 @@
       "Ce serait une catastrophe pour les enseignants",
       "n’est pas gentille",
       "m’a puni"
+    ],
+    "english_translation": "When I hear what my son tells me: \"The teacher isn't nice, she punished me,\" and blah blah blah… It would be a catastrophe for teachers.",
+    "english_translation_highlights": [
+      "It would be a catastrophe for teachers",
+      "isn't nice",
+      "punished me"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "completely in favor.",
+      "in favor in certain cases.",
+      "completely against.",
+      ""
     ]
   },
   {
@@ -293,6 +508,19 @@
       "Notre système éducatif va de plus en plus mal",
       "Je pense que tout ce qui peut aider à l’améliorer est bon à prendre",
       "Tant pis pour les susceptibilités"
+    ],
+    "english_translation": "Our educational system is doing worse and worse. I think anything that can help improve it is worth taking. Too bad about people's sensitivities.",
+    "english_translation_highlights": [
+      "Our educational system is doing worse and worse",
+      "I think anything that can help improve it is worth taking",
+      "Too bad about people's sensitivities"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "completely in favor.",
+      "in favor in certain cases.",
+      "totally opposed.",
+      ""
     ]
   },
   {
@@ -310,6 +538,19 @@
       "On ne réfléchit pas en termes de carrière, de retraite et tout ça",
       "On vit au fil des rencontres et des contrats",
       "Pour moi, cette liberté n’a pas de prix"
+    ],
+    "english_translation": "In my profession, I'm an actress. You don't think in terms of career, retirement, and all that. You live according to the encounters and contracts that come along. For me, that freedom is priceless.",
+    "english_translation_highlights": [
+      "You don't think in terms of career, retirement, and all that",
+      "You live according to the encounters and contracts that come along",
+      "For me, that freedom is priceless"
+    ],
+    "english_question": "The person being questioned…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is not at all important.",
+      "has no opinion on the matter.",
+      ""
     ]
   },
   {
@@ -325,6 +566,17 @@
     "right_option": "C",
     "highlights": [
       "Chacun fait comme il veut ou comme il peut."
+    ],
+    "english_translation": "My brother dropped everything to open a restaurant. My sister alternates between odd jobs and volunteer work. And me, I've been at the same company for 15 years. Everyone does as they want or as they can.",
+    "english_translation_highlights": [
+      "Everyone does as they want or as they can."
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is not at all important.",
+      "has no opinion on the matter.",
+      ""
     ]
   },
   {
@@ -342,6 +594,19 @@
       "La question est tout de même bizarre",
       "il faut des rentrées d’argent régulières",
       "et surtout une vision à long terme"
+    ],
+    "english_translation": "The question is still a strange one. To pay your bills, obtain credit, finance your children's education, you need regular income and above all a long-term vision.",
+    "english_translation_highlights": [
+      "The question is still a strange one",
+      "you need regular income",
+      "and above all a long-term vision"
+    ],
+    "english_question": "The person interviewed…",
+    "english_options": [
+      "thinks it is very important.",
+      "thinks it is not at all important.",
+      "has no opinion on the matter.",
+      ""
     ]
   },
   {
@@ -362,6 +627,22 @@
       "Derrière un simple achat, il y a de la matière première, de l’eau, du transport, c’est-à-dire une empreinte écologique invisible",
       "Réparer est donc bon pour le portefeuille et bon pour la planète",
       "En ces temps où les nouvelles sont plutôt alarmantes, en voilà une qui met du baume au cœur"
+    ],
+    "english_translation": "This morning, I'm taking you to Tahiti to tell you about an association carrying out a wonderful initiative. Every Saturday, a mobile repair workshop for household appliances travels wherever there is demand, particularly in remote rural areas, and manages to repair seventy-five percent of the items brought to it. It may not seem like much, but people discover that very often, all it takes is replacing a small part, or even just cleaning an appliance, to give it a second life. And that's not all. Behind a simple purchase, there are raw materials, water, transportation—in other words, an invisible ecological footprint. Repairing is therefore good for the wallet and good for the planet. In these times when the news is rather alarming, here's some that warms the heart.",
+    "english_translation_highlights": [
+      "a mobile repair workshop for household appliances",
+      "manages to repair seventy-five percent of the items brought to it",
+      "all it takes is replacing a small part, or even just cleaning an appliance, to give it a second life",
+      "Behind a simple purchase, there are raw materials, water, transportation—in other words, an invisible ecological footprint",
+      "Repairing is therefore good for the wallet and good for the planet",
+      "In these times when the news is rather alarming, here's some that warms the heart"
+    ],
+    "english_question": "This column presents an association…",
+    "english_options": [
+      "that gives broken devices to whoever wants them.",
+      "that compensates for the pollution caused by imports.",
+      "that seeks to change consumption habits.",
+      "that draws inspiration from the practices of rural inhabitants."
     ]
   },
   {
@@ -383,6 +664,23 @@
       "De tout temps, les philosophes ont loué ses bienfaits sur leur inspiration",
       "Qu’elle soit bonne pour la santé, c’est un fait connu",
       "elle l’est également pour l’esprit"
+    ],
+    "english_translation": "Dear listeners, I am going to talk to you about walking—the kind you do to relax, build muscle, or walk your dog. That it is good for your health is a well-known fact. Thirty minutes a day and that does the trick, doctors say. But did you know that it is also good for the mind? Throughout the ages, philosophers have praised its benefits on their inspiration. And since half of our walks consist of retracing our steps, they constitute the perfect activity for also turning back to ourselves: taking the time to rethink our experiences and our words. Walking requires neither a vehicle nor a tool—nothing other than oneself. And since no one has found a better way to go more slowly, let us adopt it as a means of resistance against this ever-faster world.",
+    "english_translation_highlights": [
+      "let us adopt it as a means of resistance against this ever-faster world",
+      "Walking requires neither a vehicle nor a tool—nothing other than oneself",
+      "since no one has found a better way to go more slowly",
+      "they constitute the perfect activity for also turning back to ourselves",
+      "Throughout the ages, philosophers have praised its benefits on their inspiration",
+      "That it is good for your health is a well-known fact",
+      "it is also good for the mind"
+    ],
+    "english_question": "According to this column, walking…",
+    "english_options": [
+      "establishes itself as a civic act.",
+      "allows for countless encounters.",
+      "was long prescribed by doctors.",
+      "She gave up her artistic work to pay for her studies."
     ]
   },
   {
@@ -399,6 +697,18 @@
     "highlights": [
       "on a de la misère à trouver des travailleurs et des travailleuses qui peuvent accompagner les personnes en situation d’itinérance",
       "Le vrai problème, c’est qu’en ce moment, à Montréal, on a de la misère à trouver des travailleurs et des travailleuses"
+    ],
+    "english_translation": "With us, the Mayor of Montreal, Victoria Demer. — Good evening, Madam Demer. — Good evening, Mr. Leroy. — While temperatures are reaching record cold levels, tempers have been flaring since you stated, and I quote: \"There is enough room for the homeless.\" — The real problem is that right now, in Montreal, we're having trouble finding workers who can support people experiencing homelessness. — Why do you refuse to provide temporary shelters? — Is it normal, this system where we take care of the homeless population in winter? We set up shelters, and then it all falls away. — What we need is to work on the long term, notably by having more social housing.",
+    "english_translation_highlights": [
+      "we're having trouble finding workers who can support people experiencing homelessness",
+      "The real problem is that right now, in Montreal, we're having trouble finding workers"
+    ],
+    "english_question": "The invited person insists…",
+    "english_options": [
+      "on the lack of qualified personnel.",
+      "on the lack of resources of the city hall.",
+      "on the difficulty of locating the homeless.",
+      "on the exceptional conditions of this winter."
     ]
   },
   {
@@ -416,6 +726,19 @@
       "Ce qu’il faut, c’est travailler sur le long terme",
       "davantage de logements sociaux",
       "Est-ce que c’est normal, ce système où on s’occupe des populations itinérantes l’hiver ? On met des refuges, et après ça retombe."
+    ],
+    "english_translation": "With us, the Mayor of Montreal, Victoria Demer. — Good evening, Madam Demer. — Good evening, Monsieur Leroy. — While temperatures are reaching record lows, tempers have been flaring since you stated, and I quote: \"There is enough room for the homeless.\" — The real problem is that right now, in Montreal, we're having trouble finding workers who can support people experiencing homelessness. — Why do you refuse to provide temporary shelters? — Is it normal, this system where we take care of homeless populations in the winter? We set up shelters, and then it all falls off again. — What we need is to work on the long term, by having more social housing in particular.",
+    "english_translation_highlights": [
+      "What we need is to work on the long term",
+      "more social housing",
+      "Is it normal, this system where we take care of homeless populations in the winter? We set up shelters, and then it all falls off again."
+    ],
+    "english_question": "His/Her strategy aims…",
+    "english_options": [
+      "to activate an emergency social plan.",
+      "to recruit more volunteers.",
+      "to implement lasting solutions.",
+      "to obtain aid from the Canadian federal government."
     ]
   },
   {
@@ -435,6 +758,21 @@
       "on oublie que les résultats perçus hier comme inutiles sont devenus aujourd’hui absolument indispensables",
       "Je prends l’exemple du GPS, basé sur une théorie d’Albert Einstein qui a longtemps été jugée peu intéressante",
       "il faut pouvoir commencer des travaux sans savoir où ils nous conduisent"
+    ],
+    "english_translation": "Professor Joseph Ngondi, you are organizing a seminar at the University of Yaoundé 1 on the usefulness of useless knowledge. — What lies behind this magnificent title? — The issue here is that young people are advised to go into very applied sciences. — Because there is funding and requirements from donors. — But we forget that results once perceived as useless have now become absolutely indispensable. — I take the example of GPS, based on a theory by Albert Einstein that was long considered uninteresting. — Is supporting research in mathematics a battle today? — Well, if we perceive mathematics as a toolbox for high technology, of course, but also for our daily lives, you understand that we don't have much of a choice. — But I think what matters is excellence. — And for that, we must be able to start work without knowing where it will lead us.",
+    "english_translation_highlights": [
+      "you are organizing a seminar at the University of Yaoundé 1 on the usefulness of useless knowledge",
+      "young people are advised to go into very applied sciences",
+      "we forget that results once perceived as useless have now become absolutely indispensable",
+      "I take the example of GPS, based on a theory by Albert Einstein that was long considered uninteresting",
+      "we must be able to start work without knowing where it will lead us"
+    ],
+    "english_question": "The seminar in question has as its purpose…",
+    "english_options": [
+      "to show the interest of unusual disciplines.",
+      "to seek applications for past works.",
+      "to highlight the works of Yaoundé students.",
+      "to emphasize fundamental knowledge."
     ]
   },
   {
@@ -453,6 +791,20 @@
       "il y a des financements et des exigences des bailleurs",
       "Mais on oublie que les résultats perçus hier comme inutiles sont devenus aujourd’hui absolument indispensables",
       "les résultats perçus hier comme inutiles sont devenus aujourd’hui absolument indispensables"
+    ],
+    "english_translation": "Professor Joseph Ngondi, you are organizing a seminar at the University of Yaoundé 1 on the usefulness of useless knowledge. — What lies behind this magnificent title? — The issue here is that young people are advised to go into very applied sciences. — Because there is funding and requirements from donors. — But we forget that results once perceived as useless have now become absolutely indispensable. — I take the example of GPS, based on a theory by Albert Einstein that was long considered of little interest. — Is supporting research in mathematics a battle today? — Well, if we perceive mathematics as a toolbox for high technology, of course, but also for our daily lives, you understand that we don't have much of a choice. — But I think what matters is excellence. — And for that, we must be able to start work without knowing where it will lead us.",
+    "english_translation_highlights": [
+      "young people are advised to go into very applied sciences",
+      "there is funding and requirements from donors",
+      "But we forget that results once perceived as useless have now become absolutely indispensable",
+      "results once perceived as useless have now become absolutely indispensable"
+    ],
+    "english_question": "The guest regrets…",
+    "english_options": [
+      "the current direction of funding.",
+      "the weight of certain outdated theories.",
+      "the lack of vision of young researchers.",
+      "the public's contempt for mathematics."
     ]
   },
   {
@@ -472,6 +824,21 @@
       "Ce n’est que lorsqu’il y a un gros souci que la police débarque",
       "On a perdu ça.",
       "On est clairement dans le répressif."
+    ],
+    "english_translation": "With its eighteen towers and its 3,000 residents, the Ordenbeck neighborhood is a drug trafficking hub in Belgium. Rachida El Adaoui, you've been a youth worker there for 15 years. What is your analysis? — In terms of delinquency and trafficking, nothing has changed. — On the contrary, it's better organized now. There was a time when the police would ride up on horseback, and the young people would go pet the horses. We've lost that. — We're clearly in a repressive approach now. It's only when there's a major problem that the police show up, thankfully still. — The difficulty is that drug trafficking is plaguing everything. The young people in the neighborhood are paid to be lookouts; it brings in 100 euros a day. — When you talk to them about training or employment, they won't listen. — The Mayor has just announced a 15-million-euro plan to renovate the neighborhood. Very good, but let him not forget that his predecessors also invested, then left just as quickly. — What I especially note is the creation of a local outreach office. It's a place where citizens, the police, and all the people working on the ground can meet. — The idea is to have teams that know the area better and work over the long term.",
+    "english_translation_highlights": [
+      "When you talk to them about training or employment, they won't listen.",
+      "The young people in the neighborhood are paid to be lookouts; it brings in 100 euros a day.",
+      "It's only when there's a major problem that the police show up",
+      "We've lost that.",
+      "We're clearly in a repressive approach now."
+    ],
+    "english_question": "The guest claims that in this rough neighborhood…",
+    "english_options": [
+      "social work has a very limited reach.",
+      "the traffickers have created their own militia.",
+      "young people drop out of school faster than elsewhere.",
+      "relations with the police have always been tense."
     ]
   },
   {
@@ -490,6 +857,20 @@
       "qu’il n’oublie pas que ses prédécesseurs aussi ont investi, puis sont repartis aussi vite",
       "Je retiens surtout la création d’une antenne de proximité",
       "L’idée, c’est d’avoir des équipes qui connaissent mieux le territoire et travaillent sur la durée"
+    ],
+    "english_translation": "With its eighteen towers and its 3,000 residents, the Ordenbeck neighborhood is a drug trafficking hub in Belgium. Rachida El Adaoui, you've been a youth worker there for 15 years. What is your analysis? — In terms of crime and trafficking, nothing has changed. — On the contrary, it's better organized now. There was a time when the police would ride up on horseback, and the young people would go pet the horses. We've lost that. — We're clearly in a repressive approach. It's only when there's a major problem that the police show up, thankfully still. — The difficulty is that drug trafficking is plaguing everything. The young people in the neighborhood are paid to be lookouts; it brings in 100 euros a day. — When you talk to them about training or employment, they won't hear it. — The Mayor has just announced a 15-million-euro plan to renovate the neighborhood. That's great, but let him not forget that his predecessors also invested, then left just as quickly. — What stands out to me most is the creation of a local outreach office. It's a place where citizens, police, and all the people working on the ground can meet. — The idea is to have teams that know the area better and work over the long term.",
+    "english_translation_highlights": [
+      "his predecessors also invested, then left just as quickly",
+      "let him not forget that his predecessors also invested, then left just as quickly",
+      "What stands out to me most is the creation of a local outreach office",
+      "The idea is to have teams that know the area better and work over the long term"
+    ],
+    "english_question": "She hopes that the authorities…",
+    "english_options": [
+      "will not reduce police numbers.",
+      "will not repeat the mistakes of the past.",
+      "will give more voice to citizens.",
+      "will follow the recommendations of field actors."
     ]
   },
   {
@@ -517,6 +898,29 @@
       "des bénévoles apportent des vêtements chauds, du carburant pour les camions et les génératrices",
       "Séduit par le mouvement, ce routier du Québec passe plusieurs jours par semaine avec le convoi",
       "le camp semble là pour rester"
+    ],
+    "english_translation": "RFI Report. \"There's spaghetti here.\" \"I'll maybe have a slice of pizza.\" The immense tent set up in support of the truckers' movement, in the parking lot of a stadium in Ottawa, is buzzing with activity. Volunteer cooks are chopping vegetables assembly-line style, while others prepare meals delivered to those parked in front of Parliament, 5 kilometers away. Alexandre sums up the camp set up for the truckers: \"You've got everything: love, gas, diesel, food, everything, everything, everything, letters from children.\" \"And these people are on the front lines for us, so they need our support. And these people have been doubly affected by the pandemic, because they're people who are often all alone in their truck. With the restrictions, there have been a lot of closures; those who don't have toilets in their truck have to relieve themselves inside. Yeah, it's a wave of solidarity, of love, uh… indescribable, that I've never seen in my life. People are hugging, people aren't afraid here, here we're living real life, it feels good, it warms the heart. Of course it's sad sometimes, you hear stories of people who've lost everything.\" Some have come down to Ottawa, living in their cars waiting for things to be resolved, because they've lost everything. With the truckers' money, they often help them find shelter. \"It's beautiful what we're seeing, it's wonderful. Sorry, sorry. OK, and is there anything you're lacking?\" \"I could put it on one person, it won't be too much.\" People come, they come to warm up, they need gloves, they need mittens, so it's important that we have some. Constantly, volunteers bring warm clothing, fuel for the trucks and the generators that heat the tent and the portable toilets. Outside, it's minus 15 degrees. This solidarity also has unexpected political consequences, as this retiree notes: \"Before 2022, I was proud to be Québécois. Today, I'm proud to be Canadian. I didn't think Canada could be this united.\" Won over by the movement, this trucker from Quebec spends several days a week with the convoy: \"It warms the heart, anglophone, francophone, everyone helps each other around you, everyone smiles at you from across the way, people chat, talk nonsense mostly.\" Very well organized, the camp seems to be there to stay, until perhaps the police take action. Pascal Guéricolas, Ottawa, RFI.",
+    "english_translation_highlights": [
+      "The immense tent set up in support of the truckers' movement",
+      "the truckers",
+      "\"You've got everything: love, gas, diesel, food, everything, everything, everything, letters from children.\"",
+      "\"And these people are on the front lines for us, so they need our support.",
+      "And these people have been doubly affected by the pandemic, because they're people who are often all alone in their truck.",
+      "With the restrictions, there have been a lot of closures; those who don't have toilets in their truck have to relieve themselves inside.",
+      "it's a wave of solidarity, of love",
+      "Of course it's sad sometimes, you hear stories of people who've lost everything.",
+      "Some have come down to Ottawa, living in their cars waiting for things to be resolved, because they've lost everything.",
+      "With the truckers' money, they often help them find shelter.",
+      "volunteers bring warm clothing, fuel for the trucks and the generators",
+      "Won over by the movement, this trucker from Quebec spends several days a week with the convoy",
+      "the camp seems to be there to stay"
+    ],
+    "english_question": "The camp discussed in the report responds…",
+    "english_options": [
+      "to the rise in fuel prices for truckers.",
+      "to the distress of many Canadian truckers.",
+      "to the closure of usual refueling points.",
+      "to the ban on heavy trucks in the city of Ottawa."
     ]
   },
   {
@@ -539,6 +943,24 @@
       "de l’amour, de l’essence, du diesel, la nourriture, tout, tout, tout, des lettres d’enfants",
       "Puis ces gens-là sont en première ligne pour nous, donc ils ont besoin de notre soutien",
       "c’est une vague de solidarité"
+    ],
+    "english_translation": "RFI Report. \"There's spaghetti here.\" \"I'll maybe have a slice of pizza.\" The immense tent set up in support of the truckers' movement, in a stadium parking lot in Ottawa, is buzzing with activity. Volunteer cooks are chopping vegetables assembly-line style, while others prepare meals to be delivered to those parked in front of Parliament, 5 kilometers away. Alexandre sums up the camp set up for the truckers: \"You've got everything: love, gasoline, diesel, food, everything, everything, everything, letters from children.\" \"And these people are on the front lines for us, so they need our support. And these people have been doubly affected by the pandemic, because they're people who are often all alone in their trucks. With the restrictions, there have been a lot of closures; those who don't have toilets in their trucks have to relieve themselves inside. Yeah, it's a wave of solidarity, of love, uh… indescribable, that I've never seen in my life. People are hugging, people aren't afraid here; here we're living real life, it feels good, it warms the heart. Of course it's sad sometimes, you hear stories of people who've lost everything.\" Some of them have come down to Ottawa, living in their cars waiting for things to get resolved, because they've lost everything. With the truckers' money, they often help them find shelter. \"What we're seeing is beautiful, it's wonderful. Sorry, sorry. OK, and is there anything you're missing?\" \"I could put it on one person, it won't be too much.\" People come, they come to warm up, they need gloves, they need mittens, so it's important that we have them. Constantly, volunteers bring warm clothing, fuel for the trucks and the generators that heat the tent and the portable toilets. Outside, it's minus 15 degrees. This solidarity also has unexpected political consequences, as this retiree notes: \"Before 2022, I was proud to be Québécois. Today, I'm proud to be Canadian. I didn't think Canada could be this united.\" Won over by the movement, this trucker from Quebec spends several days a week with the convoy: \"It warms the heart — anglophones, francophones, everyone helps each other around you, everyone smiles at you from across the way, people chat, talk about silly things mostly.\" Very well organized, the camp seems to be there to stay, until perhaps the police take action. Pascal Guéricolas, Ottawa, RFI.",
+    "english_translation_highlights": [
+      "a wave of solidarity, of love, uh… indescribable, that I've never seen in my life",
+      "I didn't think Canada could be this united",
+      "Before 2022, I was proud to be Québécois. Today, I'm proud to be Canadian",
+      "It warms the heart — anglophones, francophones, everyone helps each other around you",
+      "What we're seeing is beautiful, it's wonderful",
+      "love, gasoline, diesel, food, everything, everything, everything, letters from children",
+      "And these people are on the front lines for us, so they need our support",
+      "it's a wave of solidarity"
+    ],
+    "english_question": "The people surveyed…",
+    "english_options": [
+      "praise the unprecedented scale of mutual aid.",
+      "praise the flawless organization of the camp.",
+      "deplore the inaction of public authorities.",
+      "eagerly await the end of this situation."
     ]
   },
   {
@@ -556,6 +978,19 @@
       "Un biopic passionnant",
       "un grand film musical",
       "la performance de Jennifer Hudson"
+    ],
+    "english_translation": "What if we ended this Sunday with Aretha Franklin? Tonight at nine o'clock, Télé-Québec is airing Respect. This film dedicated to the queen of soul traces the journey of this gifted child, her struggles, and her emancipation on both an artistic and personal level. A fascinating biopic, but also a great musical film carried by the performance of Jennifer Hudson, both as an actress and a singer.",
+    "english_translation_highlights": [
+      "A fascinating biopic",
+      "a great musical film",
+      "the performance of Jennifer Hudson"
+    ],
+    "english_question": "Based on this message…",
+    "english_options": [
+      "the film is particularly successful.",
+      "the screenplay does not respect reality.",
+      "the film has won numerous awards.",
+      "His constant use of detailed historical narratives."
     ]
   },
   {
@@ -576,6 +1011,22 @@
       "ces grandes entreprises savent depuis longtemps qu’elles doivent évoluer",
       "elles rendent littéralement le monde malade à force de ne penser qu’au profit",
       "sans souci de transmettre une Terre saine aux générations suivantes"
+    ],
+    "english_translation": "In the Netherlands, the environmental organization Défense delivered a letter on Thursday to twenty-nine Dutch companies considered by the NGO to be major polluters. It demands that the companies in question publish their own climate plan by April 15, in which they indicate how they will reduce their CO₂ emissions by at least 50% within 5 years. The NGO's spokesperson explains that these large companies have long known that they need to change, as they are literally making the world sick by thinking only about profit, with no concern for passing on a healthy Earth to future generations.",
+    "english_translation_highlights": [
+      "the environmental organization Défense delivered a letter on Thursday to twenty-nine Dutch companies considered by the NGO to be major polluters",
+      "It demands that the companies in question publish their own climate plan by April 15",
+      "in which they indicate how they will reduce their CO₂ emissions by at least 50% within 5 years",
+      "these large companies have long known that they need to change",
+      "they are literally making the world sick by thinking only about profit",
+      "with no concern for passing on a healthy Earth to future generations"
+    ],
+    "english_question": "According to this information, an NGO…",
+    "english_options": [
+      "puts pressure on major polluters.",
+      "takes legal action against business leaders.",
+      "challenges the climate plans of 29 companies.",
+      "reveals the list of the world's biggest polluters."
     ]
   },
   {
@@ -596,6 +1047,22 @@
       "Ensuite, un point com",
       "on terminera avec Élise qui nous donnera des nouvelles du site internet",
       "Voilà"
+    ],
+    "english_translation": "Good morning to those I haven't seen yet, and thank you all for being here. On the agenda: we'll do a quick update following Alexandre's email this morning regarding the partnership with FIP. Then, an update on sales and trends for the month. After that, a communications update, and we'll finish with Élise, who will give us news about the website. There you go. And so, before we begin, if you have any questions, don't hesitate.",
+    "english_translation_highlights": [
+      "On the agenda:",
+      "we'll do a quick update following Alexandre's email this morning regarding the partnership with FIP",
+      "Then, an update on sales and trends for the month",
+      "After that, a communications update",
+      "we'll finish with Élise, who will give us news about the website",
+      "There you go"
+    ],
+    "english_question": "The person…",
+    "english_options": [
+      "summarizes the elements discussed.",
+      "announces the stages of the meeting.",
+      "details the composition of the team.",
+      "develops a specific piece of information."
     ]
   },
   {
@@ -616,6 +1083,22 @@
       "les avancées sont indéniables",
       "par rapport à son prédécesseur qui était ouvertement anti-vélo",
       "Une époque définitivement révolue"
+    ],
+    "english_translation": "We're in Gatineau, which, you may not know, was recently voted the best cycling city in Quebec. And that delights outgoing mayor Félix Lavin-Jeanreau, who, before being elected, had promised to double the funding allocated to cycling. An ambitious promise, particularly for financial reasons, but one that scored him points. For pro-cycling advocates, the progress is undeniable compared to his predecessor, who was openly anti-cycling. An era that is definitively over. On the eve of new municipal elections, all the candidates are promising to go even further.",
+    "english_translation_highlights": [
+      "was recently voted the best cycling city in Quebec",
+      "delights outgoing mayor Félix Lavin-Jeanreau",
+      "had promised to double the funding allocated to cycling",
+      "the progress is undeniable",
+      "compared to his predecessor, who was openly anti-cycling",
+      "An era that is definitively over"
+    ],
+    "english_question": "According to this document…",
+    "english_options": [
+      "the issue of cycling is still very controversial.",
+      "the outgoing mayor has kept his electoral promises.",
+      "the opposition promises to do the opposite of the current mayor.",
+      "pro-cycling activists want a more ambitious plan."
     ]
   },
   {
@@ -637,6 +1120,23 @@
       "Le groupe Carte de Séjour arrive sur la scène musicale dans ces années-là",
       "Son chanteur et leader, Rachid Taha, eut la bonne idée de s’approprier la chanson de Charles Trenet",
       "Ce faisant, il signifiait que les enfants d’origine africaine ou nord-africaine, nés ou élevés en Hexagone, avaient tout autant le droit que les autres de s’y sentir chez eux"
+    ],
+    "english_translation": "The exhibition Douce France revisits the artistic vitality of the so-called \"Beur\" generation, a symbol of the integration of a youth stemming from immigration. The use of the title Douce France refers back to the nineteen-eighties and the emergence of the fight against racism and discrimination. The group Carte de Séjour arrived on the music scene during those years. Its singer and leader, Rachid Taha, had the good idea of appropriating the Charles Trenet song. In doing so, he signified that children of African or North African origin, born or raised in mainland France, had just as much right as anyone else to feel at home there.",
+    "english_translation_highlights": [
+      "The exhibition Douce France revisits the artistic vitality of the so-called \"Beur\" generation",
+      "a symbol of the integration of a youth stemming from immigration",
+      "The use of the title Douce France refers back to the nineteen-eighties",
+      "the emergence of the fight against racism and discrimination",
+      "The group Carte de Séjour arrived on the music scene during those years",
+      "Its singer and leader, Rachid Taha, had the good idea of appropriating the Charles Trenet song",
+      "In doing so, he signified that children of African or North African origin, born or raised in mainland France, had just as much right as anyone else to feel at home there"
+    ],
+    "english_question": "This exhibition pays tribute…",
+    "english_options": [
+      "to the victims of ethnic discrimination.",
+      "to the artistic mixing born in the 80s.",
+      "to the first generation of North African immigrants.",
+      "to the musical roots of Franco-Maghreb artists."
     ]
   },
   {
@@ -654,6 +1154,19 @@
       "vient d’annoncer qu’elle annulait les mesures de suspension et de retrait du permis de conduire",
       "jusqu’à la mise en place du système du permis à points",
       "Cette décision a pour but de simplifier les mesures administratives pour mieux se consacrer à la lutte contre l’insécurité routière"
+    ],
+    "english_translation": "The National Road Safety Delegation (DNSR) has just announced that it is canceling driver's license suspension and revocation measures until the points-based license system is implemented. The purpose of this decision is to simplify administrative measures in order to better focus on combating road safety issues. Among the repercussions is notably the risk for professional drivers of losing their jobs.",
+    "english_translation_highlights": [
+      "has just announced that it is canceling driver's license suspension and revocation measures",
+      "until the points-based license system is implemented",
+      "The purpose of this decision is to simplify administrative measures in order to better focus on combating road safety issues"
+    ],
+    "english_question": "In this message, decisions are being announced…",
+    "english_options": [
+      "that will increase the administrative workload.",
+      "that will disadvantage transport professionals.",
+      "that will end with the reform of the driving license.",
+      "that will more heavily penalize traffic offenses."
     ]
   },
   {
@@ -677,6 +1190,25 @@
       "je ne crois pas que nous soyons en concurrence",
       "le bistrot offrira ce qui sera toujours introuvable chez l’Américain",
       "de petites bouteilles de vodka destinées à ouvrir l’appétit"
+    ],
+    "english_translation": "Determined to drive the point home to the arrogant American fast-food chains whose Moscow restaurants are perpetually packed, the capital city's municipal government has opened the first Russian bistro. A restaurant where it is possible to grab a quick bite without betraying local gastronomy. Some two hundred establishments of the same type are expected to follow. The bistro's director states, not without humor, that his establishment does not intend to overshadow the American chains: \"We sell neither hamburgers nor soda; our products are natural, so I don't believe we are in competition.\" It is worth noting that the bistro will offer what will always be unavailable at the American establishments, namely small bottles of vodka intended to whet the appetite.",
+    "english_translation_highlights": [
+      "Determined to drive the point home to the arrogant American fast-food chains",
+      "the capital city's municipal government has opened the first Russian bistro",
+      "A restaurant where it is possible to grab a quick bite without betraying local gastronomy",
+      "Some two hundred establishments of the same type are expected to follow",
+      "We sell neither hamburgers nor soda",
+      "our products are natural",
+      "I don't believe we are in competition",
+      "the bistro will offer what will always be unavailable at the American establishments",
+      "small bottles of vodka intended to whet the appetite"
+    ],
+    "english_question": "What could be the title of this column?",
+    "english_options": [
+      "Russian burgers and organic vodka",
+      "Culinary regionalism with a Russian twist",
+      "Muscovites boycott fast-food restaurants",
+      "Moscow, new capital of gastronomy"
     ]
   },
   {
@@ -697,6 +1229,22 @@
       "Au niveau technique, il y a la couverture, mais pas la performance",
       "le prix des abonnements à internet, rapporté au SMIC ou au salaire moyen, reste trop élevé",
       "Il faut démocratiser Internet en le considérant comme un service public de base"
+    ],
+    "english_translation": "We move on to the topic of interest this morning, namely this very, very interesting report from the Moroccan Economic and Social Council on digital transformation. So, the overall finding is that the various initiatives launched remain insufficient. And because of this, we are less productive and inevitably less competitive. As an example, digitizing all administrative procedures and services would save the equivalent of 1% of GDP. We talk about startups, financing mechanisms, and so on. However, the top priority for a country like Morocco is the digital divide. On the technical level, there is coverage, but not performance. And the price of internet subscriptions, relative to the minimum wage or the average salary, remains too high. Internet must be democratized by considering it a basic public service, just like water and electricity.",
+    "english_translation_highlights": [
+      "the various initiatives launched remain insufficient",
+      "we are less productive and inevitably less competitive",
+      "the top priority for a country like Morocco is the digital divide",
+      "On the technical level, there is coverage, but not performance",
+      "the price of internet subscriptions, relative to the minimum wage or the average salary, remains too high",
+      "Internet must be democratized by considering it a basic public service"
+    ],
+    "english_question": "According to this message, the ongoing digital transformation…",
+    "english_options": [
+      "deploys Internet in strategic locations.",
+      "overshadows other needs such as access to water.",
+      "misses the real socio-economic issues.",
+      "is too focused on administrative procedures."
     ]
   },
   {
@@ -714,6 +1262,19 @@
       "Un autre mot d’ordre fait fureur : l’anti-travail ou la revendication du droit à la paresse",
       "Plus confidentiel, ce mouvement commence à être perçu comme une menace à long terme sur l’économie américaine",
       "De quoi remettre en cause, pour les plus conservateurs, l’existence même des prestations sociales"
+    ],
+    "english_translation": "Do Americans still want to work? The question divides experts as the phenomenal rise in resignations continues. It is now referred to as the \"Great Resignation.\" The author of this expression, a specialist in the world of work, explains that employees are deciding to refocus on what matters most to them. The optimistic reading of this phenomenon is that a huge majority have simply taken another job. But if they are leaving their jobs, it is primarily because those jobs do not allow them to live decently. And since wage catch-up is not as fast as inflation, they remain in great precarity. Another rallying cry is all the rage: anti-work, or the claim of the right to laziness. More niche, this movement is beginning to be perceived as a long-term threat to the American economy. Enough to call into question, for the most conservative, the very existence of social benefits.",
+    "english_translation_highlights": [
+      "Another rallying cry is all the rage: anti-work, or the claim of the right to laziness",
+      "More niche, this movement is beginning to be perceived as a long-term threat to the American economy",
+      "Enough to call into question, for the most conservative, the very existence of social benefits"
+    ],
+    "english_question": "The rejection of work that is being discussed…",
+    "english_options": [
+      "stigmatizes young people accused of laziness.",
+      "alarms employers who struggle to recruit.",
+      "gives radical ideas to some economists.",
+      "paradoxically opens up employment opportunities."
     ]
   },
   {
@@ -737,6 +1298,25 @@
       "surtout quand les rabais sont cycliques",
       "C’est cette zone grise que les détaillants utilisent pour accroître leurs ventes",
       "Et parvenir à le prouver devant les tribunaux relève d’une mission quasi impossible"
+    ],
+    "english_translation": "This story begins with a pan advertised at a starting price of one hundred and fifty dollars, then reduced to seventy dollars, forty dollars, and finally on clearance at thirty dollars. A generous discount, but above all a surprising one. So, good deal or not? In some cases, the product is truly of quality and the price drop is explained by excess inventory. But it sometimes happens that the starting price of a mediocre product is artificially inflated. This practice is prohibited by law, which requires that the product have been sold at a regular price in large quantities and for a reasonable period. The problem for the consumer is knowing this regular price, especially when the discounts are cyclical. It is this gray area that retailers use to boost their sales. And managing to prove it in court is a nearly impossible mission.",
+    "english_translation_highlights": [
+      "This story begins with a pan advertised at a starting price of one hundred and fifty dollars, then reduced to seventy dollars, forty dollars, and finally on clearance at thirty dollars",
+      "A generous discount, but above all a surprising one",
+      "So, good deal or not?",
+      "But it sometimes happens that the starting price of a mediocre product is artificially inflated",
+      "This practice is prohibited by law",
+      "The problem for the consumer is knowing this regular price",
+      "especially when the discounts are cyclical",
+      "It is this gray area that retailers use to boost their sales",
+      "And managing to prove it in court is a nearly impossible mission"
+    ],
+    "english_question": "The purpose of this message is…",
+    "english_options": [
+      "helping the consumer find real bargains.",
+      "warning about fraudulent commercial practices.",
+      "denouncing a price-fixing agreement between retail chains.",
+      "explaining to scam victims how to file a complaint."
     ]
   }
 ]
