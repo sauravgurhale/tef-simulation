@@ -2,526 +2,601 @@
   {
     "question_no": 1,
     "group": 1,
-    "passage": "Pour une ville propre !\n\nLa ville de Bruges ramasse chaque année 18 tonnes de cigarettes jetées au sol.\nUn mégot par terre : 68 euros d’amende !",
-    "question": "Ce document est :",
+    "passage": "Ne t’inquiète pas.\nJe vais acheter des médicaments et j’arrive.\nÀ tout de suite, Paul.\n18h23",
+    "question": "Où va Paul ?",
     "options": [
-      "un règlement intérieur",
-      "un panneau d'information",
-      "un dépliant touristique",
-      "une offre d'emploi"
+      "Dans une banque",
+      "Dans une boulangerie",
+      "Dans une librairie",
+      "Dans une pharmacie"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Ce document sert à informer et sensibiliser les citoyens sur les conséquences de jeter des mégots par terre. Il ne détaille pas des règles internes, ne fait pas la promotion touristique, et n'offre pas d'emploi. Il s'agit donc d’un panneau d'information."
+    "explanation": ""
   },
   {
     "question_no": 2,
     "group": 2,
-    "passage": "JF 20 ans étudiante en formation « petite enfance », sérieuse avec beaucoup d’expérience, propose garde d’enfants (de 2 à 10 ans) les soirs, les mercredis et les dimanches.\n\nSi vous êtes intéressé(e), contactez-moi :\n232-21-18-14 ou adele@lilo.org",
-    "question": "L’auteure de cette annonce est disponible :",
+    "passage": "LES ATELIERS DU MUSÉE D’ART MODERNE DE LILLE\n\nCe mercredi, le musée propose aux 7-12 ans un atelier peinture pour débutants.\n\nInformations pratiques :\nDe 14h30 à 16h / Tarif: 5 euros entrée du musée comprise.\n\nRenseignements et inscription :\nsdinallo@mairie-lille.fr",
+    "question": "Que faut-il faire pour participer à cette activité ?",
     "options": [
-      "en début de journée",
-      "plusieurs fois par semaine",
-      "une fois par semaine",
-      "seulement le weekend"
+      "Envoyer un message.",
+      "Former un groupe.",
+      "Présenter un dessin.",
+      "Visiter une exposition."
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Elle propose ses services les soirs, les mercredis et les dimanches, ce qui représente plusieurs moments répartis sur la semaine. Donc, elle est disponible plusieurs fois par semaine."
+    "explanation": ""
   },
   {
     "question_no": 3,
     "group": 3,
-    "passage": "L’Asie du Sud au cinéma !\n\nLe festival « Cinéasia » présente en Belgique des films de toute l’Asie du Sud.\n\nL’Inde et ses voisins seront parmi nous et une journée sera dédiée au Pakistan.\n\nL’an dernier, vous avez adoré notre nuit « Frissons ». Cette année, vous allez rire avec notre nuit « Comédies » ! Venez nombreux !",
-    "question": "Le programme du festival :",
+    "passage": "Trente kilomètres de long, cinq de large, une mer bleue, voici l’île de Ré, un petit bijou de l’océan Atlantique. En plus d’un paysage magnifique, elle a un climat doux, avec le soleil et un vent chaud. Le point le plus élevé de l’île se situe à 20m de hauteur ! Les deux seules cultures de l’île sont la vigne et la pomme de terre.",
+    "question": "Que dit-on sur cet endroit ?",
     "options": [
-      "est le même que l'an dernier",
-      "reste encore à définir",
-      "est renouvelé chaque année",
-      "est destiné aux plus jeunes"
+      "Le climat est agréable.",
+      "Les cultures sont variées.",
+      "Les plages sont petites.",
+      "L'île est très touristique."
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte compare le programme de cette année avec celui de l’année précédente (de « Frissons » à « Comédies »), ce qui montre que le contenu change d'une édition à l'autre. Le programme est donc renouvelé chaque année."
+    "explanation": ""
   },
   {
     "question_no": 4,
     "group": 4,
-    "passage": "Professeur au Conservatoire de Montréal donne des\nCOURS DE CHANT\n\nTechniques italienne et française\nOpéra – Chanson française – Opérette\nSessions d’une semaine à six mois\nProgrès rapides garantis !\nTel. : 514-873-4283",
-    "question": "Ce document propose :",
+    "passage": "Chambre à Louer\n\nPetite chambre lumineuse avec salle de bains privative et terrasse, disponible dès la fin du mois. Située dans un appartement en colocation avec un homme de 25 ans et une femme de 27 ans, à seulement 7 minutes à pied du centre-ville.\n\nTous commerces au pied de l’immeuble, avec métro et bus à 5 minutes de marche. L’appartement est situé au 2ème étage et comprend une cuisine et un salon communs.\n\nLoyer: 500€ par mois, charges comprises.",
+    "question": "Que propose cette annonce ?",
     "options": [
-      "un enseignement de qualité",
-      "une place à l'Opéra",
-      "un poste en Italie",
-      "une semaine de concerts"
+      "Un appartement à acheter.",
+      "Une chambre en colocation.",
+      "Une maison à louer.",
+      "Un studio à vendre."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Il s’agit d’une annonce de cours de chant donnés par un professeur au Conservatoire, avec des techniques précises et une promesse de progrès. Cela met en avant un enseignement de qualité, pas une offre de travail ni des concerts."
+    "explanation": ""
   },
   {
     "question_no": 5,
     "group": 5,
-    "passage": "Vous souhaitez agir pour préserver notre climat, pour rendre notre société plus écologique et solidaire ?\n\nAu festival « Agir à Lyon », vous pourrez rencontrer une trentaine d’associations avec qui devenir bénévole. À travers une dizaine de mini-conférences, vous découvrirez des projets inspirants pour vous donner envie de mettre l’écologie au centre de votre mode de vie.\n\nNous vous inviterons, par des démonstrations simples, à découvrir des actions à faire chez soi ou autour de soi : compostage, cuisine anti-gaspillage, etc.",
-    "question": "Le but de l’événement est de :",
+    "passage": "Pour parler avec nos invités, allez sur notre site Internet et enregistrez-vous ! Ainsi, vous pouvez regarder les émissions gratuitement, donner votre opinion et poser des questions aux invités.",
+    "question": "Qu’est-ce qui est proposé dans cette annonce ?",
     "options": [
-      "découvrir des activités écologiques",
-      "rencontrer des scientifiques",
-      "créer de nouvelles associations",
-      "ramasser les déchets d’un quartier"
+      "De lire des dernières informations.",
+      "De partager des vidéos personnelles.",
+      "De participer à des programmes.",
+      "De s'inscrire à un jeu concours."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte insiste sur la découverte de projets écologiques, de gestes simples à faire soi-même, et sur l’envie d’agir pour l’environnement. Il s’agit donc de découvrir des activités écologiques."
+    "explanation": ""
   },
   {
     "question_no": 6,
     "group": 6,
-    "passage": "Madame, Monsieur,\n\nNous vous rappelons que certaines œuvres sont soumises au droit d’auteur. Pour pouvoir les reproduire ou les diffuser sur notre plateforme, nous vous demandons de bien vouloir effectuer une déclaration lors de chaque commande d’impression ou de mise en ligne.\n\nCette déclaration se fait en ligne, est anonyme et ne demandera aucune rétribution de votre part. Vous devrez néanmoins indiquer le numéro de votre commande.\n\nATTENTION ! Sans ces indications, vos demandes ne pourront être traitées.\n\nBien cordialement,\nDirection de la Communication, Université Sorbonne Nouvelle",
-    "question": "Ce mail rappelle :",
+    "passage": "Pour rester en bonne santé, on entend souvent dire qu’il faut bouger et manger varié, mais dormir suffisamment est aussi essentiel, et peut éviter les kilos en trop. Le risque de surpoids augmente chez les personnes qui dorment peu: dans ce cas, on bouge moins, on grignote plus, surtout des aliments sucrés ou gras. On boit également plus de café que les autres.",
+    "question": "Qu’est-ce qui est conseillé dans cet article pour rester en bonne santé ?",
     "options": [
-      "l'interdiction de copier les œuvres",
-      "le délai de traitement des commandes",
-      "l'obligation de payer les droits d'auteur",
-      "les règles d'utilisation des œuvres"
+      "De bonnes nuits de sommeil.",
+      "Des repas légers et équilibrés.",
+      "La consommation d'eau minérale.",
+      "La pratique régulière d'un sport."
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le message explique qu’une déclaration est nécessaire pour reproduire ou diffuser des œuvres protégées par le droit d’auteur. Il ne parle pas d’interdiction, de délai, ni de paiement. Il rappelle donc les règles d’utilisation des œuvres."
+    "explanation": ""
   },
   {
     "question_no": 7,
     "group": 7,
-    "passage": "Service civique\n\nEn France, vous pouvez effectuer un service civique. Il s’agit d’un engagement volontaire de six à douze mois au service de l’intérêt général. D’une durée hebdomadaire de vingt-quatre heures minimum, il est indemnisé 580 € par mois.\n\nLe service civique est une expérience unique ouverte à tous les jeunes de 16 à 25 ans, et jusqu’à 30 ans en situation de handicap, sans condition de diplôme. Seule votre motivation compte !\n\nVous pouvez réaliser votre mission de service civique auprès d’une association, d’une collectivité territoriale, d’un établissement public, d’un bailleur de logement social ou des services de l’État.",
-    "question": "Le service civique permet aux jeunes :",
+    "passage": "Le chanteur ivoirien Alpha Blondy a donné son nom à une radio de Côte d’Ivoire, Alpha Blondy FM. La star du reggae y présentera une émission, « Amour du livre », tous les jours de 21 h à 23 h.\n\nLa toute jeune radio Alpha Blondy FM est une sorte de « Rire et chansons » ivoirienne. Mais avec un « plus » indéniable, la lecture à l’antenne, par la star du reggae, d’ouvrages africains.",
+    "question": "Que fait Alpha Blondy à la radio ?",
     "options": [
-      "de prouver leurs compétences à l'international",
-      "de participer au bon fonctionnement de la société",
-      "de bénéficier d'un emploi pendant 2 ans",
-      "d'obtenir un diplôme à l'issue de leur engagement"
+      "Il anime un jeu sur la francophonie.",
+      "Il interviewe des artistes comiques.",
+      "Il invite des chanteurs célèbres.",
+      "Il lit des extraits de romans."
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte insiste sur l'engagement volontaire au service de l'intérêt général, dans différents types de structures. Cela permet donc de participer au bon fonctionnement de la société, pas d'obtenir un diplôme ou un emploi formel."
+    "explanation": ""
   },
   {
     "question_no": 8,
     "group": 8,
     "passage": "",
-    "question": "Pour rester en bonne santé, ______ des fruits et des légumes.",
-    "options": ["achetez", "mangez", "vendez", "préparez"],
-    "right_option": "B",
+    "question": "Tu veux que je les _______ avant de rentrer ?",
+    "options": [
+      "fais",
+      "faisasis",
+      "fasse",
+      "ferai"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "La phrase encourage à adopter une bonne hygiène de vie pour rester en bonne santé. Le verbe \"mangez\" est donc le plus approprié, car il invite à consommer des fruits et des légumes."
+    "explanation": ""
   },
   {
     "question_no": 9,
     "group": 8,
     "passage": "",
-    "question": "Venez découvrir l’immensité des espaces blancs et l’accueil _____ de nos habitants !",
-    "options": ["chaleureux", "sensible", "intimiste", "contenu"],
-    "right_option": "A",
+    "question": "La direction ne saurait être tenue pour _______ en cas de vol.",
+    "options": [
+      "auteur",
+      "cadre",
+      "garant",
+      "responsable"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'expression \"l'accueil de nos habitants\" suggère une atmosphère positive et accueillante. L'adjectif \"chaleureux\" est donc le plus adapté, car il évoque un accueil amical et bienveillant."
+    "explanation": ""
   },
   {
     "question_no": 10,
     "group": 8,
     "passage": "",
-    "question": "En raison des vacances, la boulangerie sera ______ jusqu’à lundi prochain !",
-    "options": ["louée", "habitée", "occupée", "fermée"],
-    "right_option": "D",
+    "question": "David Mermet, son entraîneur, la championne a réussi avec brio ce pari fou de traverser l’Atlantique _______ à la rame.",
+    "options": [
+      "À cause de",
+      "À travers",
+      "En raison de",
+      "Grâce à"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le contexte indique que la boulangerie ne sera pas ouverte en raison des vacances. Le mot \"fermée\" est donc le plus approprié, car il signifie qu'elle sera fermée temporairement."
+    "explanation": ""
   },
   {
     "question_no": 11,
     "group": 8,
     "passage": "",
-    "question": "Pendant la réunion, nous avons parlé de _____ du prix de l’essence.",
-    "options": ["l'innovation", "l'augmentation", "l'ajout", "l'élévation"],
-    "right_option": "B",
+    "question": "L’âge de la pierre taillée _______ de 2 millions à 10 000 ans avant J-C.",
+    "options": [
+      "dure",
+      "s'écoule",
+      "s'étend",
+      "survit"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le prix de l'essence peut augmenter, ce qui correspond à \"l'augmentation\". Les autres options ne sont pas adaptées au contexte de l'évolution du prix."
+    "explanation": ""
   },
   {
     "question_no": 12,
     "group": 8,
     "passage": "",
-    "question": "Salut Justine ! J’ai besoin d’un marteau pour _____ mes peintures, pourrais-tu me prêter le tien ?",
-    "options": ["attacher", "étendre", "retenir", "accrocher"],
-    "right_option": "D",
+    "question": "Notre émission vous propose de dresser le portrait _______ du nouveau chef du gouvernement.",
+    "options": [
+      "automatiser",
+      "machine",
+      "mécanique",
+      "robots"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le contexte suggère que la personne veut suspendre ou fixer des peintures. Le verbe \"accrocher\" est donc le plus approprié, car il signifie suspendre quelque chose, comme des tableaux ou des peintures."
+    "explanation": ""
   },
   {
     "question_no": 13,
     "group": 8,
     "passage": "",
-    "question": "Pour continuer à défendre l’environnement, votre _____ nous est indispensable : sachez que les manières d’agir sont multiples !",
-    "options": ["service", "sécurité", "support", "soutien"],
-    "right_option": "D",
+    "question": "Quelle catastrophe! En entendant la nouvelle j’ai été _______.",
+    "options": [
+      "enterré",
+      "harcelé",
+      "ratissé",
+      "terrassé"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le mot \"soutien\" est celui qui convient le mieux dans ce contexte, car il évoque l'idée d'encouragement ou de soutien nécessaire pour défendre l'environnement. Le mot est répété, mais il s'agit du bon choix."
+    "explanation": ""
   },
   {
     "question_no": 14,
-    "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
-    "question": "(1)",
-    "options": ["batterie", "bataille", "explosion", "tempête"],
-    "right_option": "D",
+    "group": 8,
+    "passage": "",
+    "question": "L’ADN est le ______ génétique qui contient les instructions nécessaires au développement et au fonctionnement des organismes vivants.",
+    "options": [
+      "réseau",
+      "code",
+      "schéma",
+      "processus"
+    ],
+    "right_option": null,
     "image_path": null,
     "explanation": ""
   },
   {
     "question_no": 15,
-    "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
-    "question": "(2)",
-    "options": ["pratiques", "courbées", "réalisables", "ouvertes"],
-    "right_option": "D",
+    "group": 8,
+    "passage": "",
+    "question": "Les mutations dans l’ADN peuvent avoir des ______ graves.",
+    "options": [
+      "effets",
+      "causes",
+      "mécanismes",
+      "principes"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "- Tempête est le terme approprié pour décrire une forte perturbation climatique avec de la neige et des vents violents. - Ouvertes convient ici pour indiquer que les routes ne sont pas encore fermées malgré les conditions difficiles."
+    "explanation": ""
   },
   {
     "question_no": 16,
-    "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
-    "question": "(1)",
-    "options": ["remboursés", "ramassés", "regroupés", "collectés"],
-    "right_option": "D",
+    "group": 8,
+    "passage": "",
+    "question": "Pour demander un ______ de passeport, vous devez remplir un formulaire et fournir une preuve d’identité.",
+    "options": [
+      "renouvellement",
+      "remplacement",
+      "ajout",
+      "révision"
+    ],
+    "right_option": null,
     "image_path": null,
     "explanation": ""
   },
   {
     "question_no": 17,
-    "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
-    "question": "(2)",
-    "options": ["initiative", "origine", "alliance", "utilité"],
-    "right_option": "D",
+    "group": 8,
+    "passage": "",
+    "question": "Assurez-vous que tous les documents requis sont ______ avant de soumettre votre demande.",
+    "options": [
+      "en règle",
+      "manquants",
+      "erronés",
+      "inutiles"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "- Collectés est le terme le plus approprié, car il fait référence à des fonds recueillis pour une cause. - Utilité publique est une expression courante qui désigne une organisation reconnue d’intérêt général, ce qui correspond bien à SOS SAHEL."
+    "explanation": ""
   },
   {
     "question_no": 18,
-    "group": 11,
-    "passage": "Film 1\nJohn a quitté les services secrets et vit maintenant en Jamaïque. Mais sa tranquillité se termine quand un ami lui demande de l’aide : il faut sauver un scientifique qui vient d’être kidnappé. L’épreuve commence dans la jungle…\n\nFilm 2\nPaul et Virginie viennent d’avoir un petit garçon. Heureux à l’idée de découvrir leur nouvelle vie de jeunes parents, ils n’imaginaient pas du tout que leur bébé allait devenir le centre d’une forte lutte entre les grands-parents…\n\nFilm 3\nHatidze est une des dernières personnes à récolter le miel de manière traditionnelle, dans les montagnes désertiques de Macédoine. Elle prélève uniquement le miel nécessaire pour gagner modestement sa vie et essayer de préserver la biodiversité.\n\nFilm 4\nLéa, Marc, Karine et Francis sont deux couples d’amis de longue date. Mais l’harmonie disparaît le jour où Léa leur annonce qu’elle a écrit un roman, qui deviendra un best-seller. La jalousie commence à apparaître avec ses conséquences!",
-    "question": "Quel film propose de l’aventure ?",
-    "options": ["Film 1", "Film 2", "Film 3", "Film 4"],
-    "right_option": "A",
+    "group": 9,
+    "passage": "DOCUMENT 1\nLa Révolution française, qui a commencé en 1789, a été un événement décisif dans l’histoire de France. Elle a entraîné la fin de la monarchie absolue et a marqué le début d’une nouvelle ère républicaine. Les causes de cette révolution incluent les inégalités sociales, les crises économiques et l’influence des idées des Lumières, qui ont conduit à une série de changements politiques et sociaux profonds.\n\nDOCUMENT 2\nLa Première Guerre mondiale, déclenchée en 1914, a impliqué de nombreuses nations à travers le monde et a eu des répercussions majeures sur la géopolitique mondiale. Le conflit a été marqué par des alliances complexes entre les puissances européennes et a conduit à des changements territoriaux significatifs, des bouleversements sociaux et la préparation du terrain pour la Seconde Guerre mondiale.\n\nDOCUMENT 3\nL’Empire romain a atteint son apogée sous le règne de l’empereur Trajan au début du IIe siècle. Cet empire, qui s’étendait de la Grande-Bretagne à l’Égypte et de l’Espagne à la Mésopotamie, a laissé un héritage durable en termes d’architecture, de droit et d’administration, influençant profondément le développement de la civilisation occidentale.\n\nDOCUMENT 4\nLa découverte des Amériques par Christophe Colomb en 1492 a marqué le début d’une période de colonisation et d’exploration européenne du Nouveau Monde. Cette découverte a eu des répercussions profondes sur les populations autochtones, les économies mondiales et les dynamiques politiques, entraînant des échanges culturels et des conflits.",
+    "question": "Quel document décrit une période marquée par la fin de la monarchie en France ?",
+    "options": [
+      "Document 1",
+      "Document 2",
+      "Document 3",
+      "Document 4"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le Film 1 décrit une histoire avec du suspense, de l'action et de l'aventure, où le protagoniste se lance dans une mission pour sauver un scientifique, le tout dans un cadre exotique (la jungle). C'est donc le film qui propose le plus d'aventure."
+    "explanation": ""
   },
   {
     "question_no": 19,
-    "group": 12,
-    "passage": "Activité 1\nLe GR 20 est réservé aux randonneurs confirmés. 200 km entre Calenzana et Conca. À voir en cours de route, outre les paysages de rêve : alpages, bergeries, mouflons, chèvres, cabris… Les excellents marcheurs peuvent le faire en 12 à 13 jours, mais prévoir 16 jours est plus raisonnable.\n\nActivité 2\nLa via ferrata, ce sont des itinéraires rocheux sécurisés par un câble et des marches métalliques. La première a été aménagée dans la vallée d’Asco. Longue de 350 m et réservée aux sportifs, on peut la faire seul ou avec un guide. Une bonne formule pour s’initier aux frissons de l’escalade.\n\nActivité 3\nBalisés en orange, les sentiers “Mare a Mare” permettent de traverser la Corse d’est en ouest, de “mer à mer”. Ce sont des itinéraires courts, de moyenne montagne, offrant un panorama sur les plus célèbres sommets de l’île. Les parcours sont tous très beaux, traversant des régions variées.\n\nActivité 4\nLa Corse compte près de 100 sites où le canyoning peut être pratiqué. Il s’agit de descendre un cours d’eau encaissé dans un canyon, à pied, à la nage, par des sauts en rappel, en glissant sur des “toboggans”. Un équipement spécial est nécessaire.",
-    "question": "Quelle activité semble la moins difficile physiquement ?",
-    "options": ["Activité 1", "Activité 2", "Activité 3", "Activité 4"],
-    "right_option": "C",
+    "group": 10,
+    "passage": "DOCUMENT A\nLa déforestation, causée par l’agriculture, l’exploitation forestière et l’urbanisation, est une des principales menaces pour les forêts tropicales. Elle entraîne la perte de biodiversité, contribue aux émissions de gaz à effet de serre et perturbe les cycles hydrologiques.\n\nDOCUMENT B\nLe réchauffement climatique est le résultat de l’augmentation des gaz à effet de serre dans l’atmosphère, principalement due à l’activité humaine. Les conséquences incluent la hausse des températures, la fonte des glaciers, l’élévation du niveau de la mer et des phénomènes météorologiques extrêmes.\n\nDOCUMENT C\nLe recyclage est un processus de traitement des déchets qui permet de réutiliser des matériaux comme le plastique, le métal et le verre. Il contribue à la réduction de la pollution, à la conservation des ressources naturelles et à la réduction des déchets dans les décharges.\n\nDOCUMENT D\nLa conservation de la biodiversité est essentielle pour maintenir les écosystèmes sains et résilients. Elle implique la protection des espèces menacées, la préservation des habitats naturels et la restauration des zones dégradées pour assurer la survie des espèces et le bien-être humain.",
+    "question": "Quel document parle de la croissance des émissions de gaz à effet de serre due à l’activité humaine ?",
+    "options": [
+      "Document A",
+      "Document B",
+      "Document C",
+      "Document D"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'Activité 3, les sentiers \"Mare a Mare\", sont décrits comme des itinéraires courts de moyenne montagne, offrant un panorama, mais sans mentionner de difficulté majeure. Les autres activités (GR 20, via ferrata, canyoning) impliquent des défis physiques plus importants, comme des randonnées longues et difficiles, de l'escalade ou des descentes en rappel."
+    "explanation": ""
   },
   {
     "question_no": 20,
-    "group": 13,
-    "passage": "Séjour 1\nTroglodyte, rien que le terme est déjà un voyage. Habiter une maison creusée dans la roche est devenu un mode de vie insolite et minimaliste. Ainsi, plusieurs grottes de pêcheurs nichées dans les falaises ont été transformées en chambres d’hôtes. Un lieu idéal pour une introspection face à l’océan, bercé par le bruit des vagues et hypnotisé par le coucher du soleil.\n\nSéjour 2\nConfiné dans une bulle, vous devenez l’incarnation de l’expression “être dans sa bulle”. Expérience idéale pour les loups solitaires qui souhaitent se retirer du monde pour vivre en forêt, protégés par une bulle en plastique recyclé. En harmonie avec la nature, l’être humain se laisse envoûter par la faune et la flore qui l’entourent. Attention toutefois à ne pas déranger l’ours qui hiberne…\n\nSéjour 3\nLes chasseurs d’hôtels insolites vont se réjouir de cette nouvelle façon de vivre. Plongé dans le quotidien des Bourbons, le château de Fontainebleau ouvre grand ses portes. Les amoureux des forteresses seront les bienvenus pour y découvrir des façons de vivre ancestrales, des coutumes traditionnelles et des costumes d’époque. Un séjour dans ce lieu singulier saura vous satisfaire.\n\nSéjour 4\nAu revoir les vacances à la mer, les coups de soleil et le sable qui s’infiltre partout ! Et bonjour les températures extrêmes! Amateurs de sport d’hiver et aventuriers qui n’ont pas froid aux yeux, cette destination unique est faite pour vous ! Dormir dans un igloo est devenu LA tendance écologique du moment: seul ou en couple, vous pouvez être sûrs de respirer un bon bol d’air frais!",
-    "question": "Quelle offre de séjour correspond le mieux aux passionnés d’Histoire ?",
-    "options": ["Séjour 1", "Séjour 2", "Séjour 3", "Séjour 4"],
-    "right_option": "C",
+    "group": 11,
+    "passage": "DOCUMENT A\nLa démocratie est un système politique où le pouvoir est exercé par le peuple, soit directement, soit par l’intermédiaire de représentants élus. Les principes fondamentaux de la démocratie incluent la participation citoyenne, l’égalité devant la loi et la protection des droits et libertés individuels.\n\nDOCUMENT B\nLe fédéralisme est un système de gouvernement où le pouvoir est partagé entre une autorité centrale et des entités politiques régionales. Ce système permet une gestion plus flexible et adaptée aux divers besoins locaux tout en maintenant l’unité nationale.\n\nDOCUMENT C\nL’autoritarisme est un régime politique caractérisé par la concentration du pouvoir dans les mains d’un leader ou d’un petit groupe qui n’est pas soumis à des élections libres et équitables. Les libertés civiles sont souvent limitées et la dissidence est réprimée pour maintenir le contrôle.\n\nDOCUMENT D\nLe socialisme est une idéologie politique et économique qui préconise la propriété collective ou publique des moyens de production et la redistribution équitable des ressources. Les objectifs du socialisme incluent la réduction des inégalités économiques, la protection des travailleurs et l’amélioration du bien-être social.",
+    "question": "Quel document décrit un système où le pouvoir est exercé par le peuple ?",
+    "options": [
+      "Document A",
+      "Document B",
+      "Document C",
+      "Document D"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le Séjour 3 dans le château de Fontainebleau est clairement destiné aux passionnés d'Histoire. Il permet de découvrir des coutumes traditionnelles, des costumes d'époque et l'histoire des Bourbons, ce qui correspond parfaitement aux intérêts des passionnés d'Histoire."
+    "explanation": ""
   },
   {
     "question_no": 21,
-    "group": 14,
-    "passage": "Appel 1\nL’émission de radio Vacarme RTS prépare un sujet sur le syndrome d’aliénation parentale. Vous êtes parent à l’origine d’aliénation parentale, ou vous-même en êtes victime ? Vous avez un adolescent ou un enfant qui en souffre et qui est en capacité de raconter son ressenti au long du conflit parental ? Vos témoignages (anonymat garanti) seraient très précieux.\nPrenez contact avec nous!\n\nAppel 2\nLe secteur de la puériculture connaît des difficultés importantes de recrutement, qui se posent avec acuité à chaque rentrée : fermeture d’établissements d’accueil, réduction de la capacité d’accueil. Racontez-nous les conséquences de ces difficultés sur votre foyer ! Avez-vous dû revoir votre organisation ? Renoncer au mode de garde que vous vouliez privilégier ? Faire appel à la solidarité familiale ?\n\nAppel 3\nEnfant de médecin, vous l’êtes devenu à votre tour. Médecin, vous avez un enfant qui l’est aussi aujourd’hui. Quel regard portez-vous sur le métier ? Avec des difficultés multiples (déserts médicaux, manque de moyens, etc.), le secteur en devient moins attractif pour les nouvelles générations. Votre témoignage nous intéresse pour un prochain article sur ce sujet.\n\nAppel 4\nBabilou, Les Petits Chaperons Rouges… Les poids lourds du secteur très lucratif des crèches privées ne sont plus à présenter ; mais comment la nouvelle logique de rentabilité induite par l’ouverture au marché affecte-t-elle votre quotidien ? Que vos enfants soient accueillis en crèche privée, ou que vous évoluiez dans ce secteur, Mediacités vous donne la parole dans sa nouvelle enquête participative.",
-    "question": "À quel appel répondra un professionnel de la petite enfance souhaitant parler de sa pratique ?",
-    "options": ["Appel 1", "Appel 2", "Appel 3", "Appel 4"],
-    "right_option": "D",
+    "group": 12,
+    "passage": "DOCUMENT A\nL’existentialisme est une philosophie qui met l’accent sur la liberté individuelle, le choix et la responsabilité personnelle. Les penseurs existentialistes comme Jean-Paul Sartre et Albert Camus explorent des thèmes tels que l’absurdité de l’existence, l’angoisse et la quête de sens dans un monde dépourvu de valeurs absolues.\n\nDOCUMENT B\nLe stoïcisme, fondé par Zénon de Kition, enseigne que le bonheur réside dans la sagesse, la vertu et l’acceptation des événements indépendants de notre volonté. Les stoïciens croient que maîtriser ses passions et vivre en harmonie avec la nature sont essentiels pour atteindre la tranquillité d’esprit.\n\nDOCUMENT C\nL’utilitarisme, développé par Jeremy Bentham et John Stuart Mill, est une théorie éthique qui soutient que la meilleure action est celle qui maximise le bonheur ou le bien-être général. Les utilitaristes évaluent les actions en fonction de leurs conséquences et cherchent à promouvoir le plus grand bonheur pour le plus grand nombre.\n\nDOCUMENT D\nLe pragmatisme, associé à des philosophes comme William James et John Dewey, considère que la vérité d’une idée ou d’une proposition réside dans ses effets pratiques et ses applications concrètes. Le pragmatisme met l’accent sur l’expérience, l’action et les résultats plutôt que sur les principes abstraits.",
+    "question": "Quel document parle de la quête de sens dans un monde sans valeurs absolues ?",
+    "options": [
+      "Document A",
+      "Document B",
+      "Document C",
+      "Document D"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L’Appel 4 s’adresse aux personnes concernées par le secteur des crèches privées, que ce soit en tant que parent ou en tant que professionnel évoluant dans ce secteur. Un professionnel de la petite enfance souhaitant parler de sa pratique dans ce contexte répondra donc à cet appel."
+    "explanation": ""
   },
   {
     "question_no": 22,
-    "group": 15,
-    "passage": "<< Selon une étude publiée récemment, on enregistre à partir de 2022 un recul du transport fluvial. Celui-ci est très faible mais constant, malgré la croissance des dernières années. >>",
-    "question": "Quel graphique correspond au commentaire suivant ?",
-    "options": ["Graphique 1", "Graphique 2", "Graphique 3", "Graphique 4"],
-    "right_option": "A",
-    "image_path": "assets/ce-111-1-min.png",
-    "explanation": "Le graphique 1 montre une croissance régulière du transport fluvial de 2018 à 2021, puis un léger recul constant à partir de 2022. Cela correspond bien au commentaire indiquant un recul faible mais continu après des années de croissance."
+    "group": 13,
+    "passage": "",
+    "question": "En observant les tendances représentées dans les différents graphiques ci-dessous, lequel d’entre eux décrit une évolution où, d’ici 2040, Google parvient à prendre la position dominante sur le marché des technologies, surpassant toutes les autres entreprises, suivi par Apple qui conserve une position stable, tandis qu’Amazon et Microsoft subissent un déclin notable de leurs parts de marché respectives ?",
+    "options": [
+      "Graphique 1",
+      "Graphique 2",
+      "Graphique 3",
+      "Graphique 4"
+    ],
+    "right_option": null,
+    "image_path": "assets/ce-1-1-min.png",
+    "explanation": ""
   },
   {
     "question_no": 23,
-    "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Ce document est :",
+    "group": 14,
+    "passage": "Avis aux Employés\n\nConformément aux nouvelles directives émises par le Ministère de l’Économie, nous souhaitons vous informer de la mise en œuvre de plusieurs changements importants concernant le règlement interne de l’entreprise, qui entreront en vigueur à partir du 1er octobre 2024. Parmi ces modifications, on note la révision des critères d’évaluation de performance, la mise en place de nouveaux processus de demande de télétravail et l’introduction de mesures de réduction des coûts énergétiques. Les employés sont invités à consulter le document détaillé disponible sur l’intranet de l’entreprise et à assister aux séances d’information prévues le 25 septembre et le 28 septembre 2024.\n\nNous vous remercions pour votre attention et votre coopération.\n\nLa Direction des Ressources Humaines",
+    "question": "Quels sont les principaux changements introduits par les nouvelles directives du Ministère de l’Économie ?",
     "options": [
-      "une invitation à un débat d'idées.",
-      "une publicité pour une école.",
-      "une présentation d'établissement.",
-      "un compte rendu de réunion."
+      "Les critères d'évaluation de performance, les processus de demande de télétravail, et les mesures de réduction des coûts énergétiques.",
+      "Les critères de recrutement, les heures de travail, et les vacances annuelles.",
+      "Les procédures de sécurité, les politiques de congés, et les rémunérations.",
+      "Les modalités de formation, les promotions, et les conditions de travail."
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte présente les Beaux-Arts de Paris, leur mission, leur organisation, et leur ambition. Il s'agit donc d'une présentation d'établissement, et non d'une publicité ou d'un débat."
+    "explanation": ""
   },
   {
     "question_no": 24,
-    "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Dans ce document, il est question de :",
+    "group": 14,
+    "passage": "Avis aux Employés\n\nConformément aux nouvelles directives émises par le Ministère de l’Économie, nous souhaitons vous informer de la mise en œuvre de plusieurs changements importants concernant le règlement interne de l’entreprise, qui entreront en vigueur à partir du 1er octobre 2024. Parmi ces modifications, on note la révision des critères d’évaluation de performance, la mise en place de nouveaux processus de demande de télétravail et l’introduction de mesures de réduction des coûts énergétiques. Les employés sont invités à consulter le document détaillé disponible sur l’intranet de l’entreprise et à assister aux séances d’information prévues le 25 septembre et le 28 septembre 2024.\n\nNous vous remercions pour votre attention et votre coopération.\n\nLa Direction des Ressources Humaines",
+    "question": "Quand les employés doivent-ils assister aux séances d’information ?",
     "options": [
-      "un lieu de rencontre d'artistes.",
-      "d'un lieu de formation.",
-      "d'une salle d'exposition.",
-      "d'un musée prestigieux."
+      "Le 1er octobre 2024",
+      "Le 25 septembre et le 28 septembre 2024",
+      "Le 1er septembre et le 15 septembre 2024",
+      "Le 5 octobre et le 10 octobre 2024"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte décrit principalement les Beaux-Arts de Paris comme un lieu d'enseignement des arts plastiques, où les étudiants suivent leur formation pour devenir des artistes. Il est donc question d'un lieu de formation."
+    "explanation": ""
   },
   {
     "question_no": 25,
-    "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Ce document annonce :",
+    "group": 15,
+    "passage": "Manuel d’Instructions pour la Gestion des Projets\n\nCe manuel vise à aligner les pratiques de gestion des projets avec les standards internationaux en matière de qualité, spécifiquement ceux définis par les normes ISO. Les équipes sont tenues de suivre des processus rigoureux tels que la planification détaillée, la gestion des risques, et l’évaluation continue, tout en intégrant les retours des parties prenantes dans une boucle d’amélioration constante. Les formulaires standardisés et les procédures sont conçus pour garantir une documentation exhaustive et une traçabilité complète des décisions et des actions entreprises. Les gestionnaires doivent également faire preuve d’une capacité à anticiper les problèmes potentiels et à élaborer des solutions innovantes pour maintenir les projets sur la bonne voie.\n\nLes pratiques décrites sont destinées à renforcer la résilience des projets face aux imprévus et à améliorer la cohérence des résultats obtenus.",
+    "question": "Selon le manuel, quelle est la finalité de la documentation exhaustive et de la traçabilité complète ?",
     "options": [
-      "l'ouverture de bureaux annexes.",
-      "une restructuration de l'entreprise.",
-      "la revalorisation du taux des prestations.",
-      "une hausse salariale selon l'ancienneté."
+      "Assurer la conformité aux exigences légales uniquement",
+      "Faciliter l'amélioration continue des processus de gestion de projet",
+      "Réduire les coûts administratifs liés à la gestion de projet",
+      "Simplifier les rapports financiers"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte parle d'une augmentation des honoraires d'expertises et des forfaits liés aux déplacements extramuros, ce qui concerne directement la revalorisation des prestations fournies par l'entreprise."
+    "explanation": ""
   },
   {
     "question_no": 26,
-    "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Cette décision :",
+    "group": 15,
+    "passage": "Manuel d’Instructions pour la Gestion des Projets\n\nCe manuel vise à aligner les pratiques de gestion des projets avec les standards internationaux en matière de qualité, spécifiquement ceux définis par les normes ISO. Les équipes sont tenues de suivre des processus rigoureux tels que la planification détaillée, la gestion des risques, et l’évaluation continue, tout en intégrant les retours des parties prenantes dans une boucle d’amélioration constante. Les formulaires standardisés et les procédures sont conçus pour garantir une documentation exhaustive et une traçabilité complète des décisions et des actions entreprises. Les gestionnaires doivent également faire preuve d’une capacité à anticiper les problèmes potentiels et à élaborer des solutions innovantes pour maintenir les projets sur la bonne voie.\n\nLes pratiques décrites sont destinées à renforcer la résilience des projets face aux imprévus et à améliorer la cohérence des résultats obtenus.",
+    "question": "Comment les gestionnaires doivent-ils réagir face aux problèmes potentiels, selon le texte ?",
     "options": [
-      "s'inscrit dans la redistribution des bénéfices.",
-      "fait suite à une revendication du personnel.",
-      "répond à une cohérence salariale de l'entreprise.",
-      "souscrit à la nouvelle législation en vigueur."
+      "En consultant les parties prenantes pour obtenir des avis externes",
+      "En mettant en œuvre des solutions préexistantes sans modification",
+      "En élaborant des solutions innovantes pour maintenir le projet sur la bonne voie",
+      "En réévaluant uniquement les critères de performance du projet"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte évoque une augmentation progressive et régulière de la rémunération des agents, mais il ne mentionne pas spécifiquement une revendication du personnel ni une nouvelle législation. La décision semble plutôt s'inscrire dans une logique interne de l'entreprise, probablement pour répondre à une cohérence salariale, en garantissant des augmentations de manière organisée."
+    "explanation": ""
   },
   {
     "question_no": 27,
-    "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "Cette entreprise propose :",
+    "group": 16,
+    "passage": "Accès au Rapport d’Enquête\n\nLe droit d’accès au rapport d’enquête, produit par les services administratifs, peut être exercé sur demande écrite auprès de l’autorité compétente. Cette demande doit être envoyée par courrier recommandé et doit inclure les éléments suivants :\n\n– Une copie certifiée conforme d’une pièce d’identité avec photographie;\n– Une copie de la notification officielle de l’ouverture de l’enquête;\n– Une preuve de l’intérêt légitime à consulter le rapport, telle qu’une attestation de la qualité de partie prenante dans l’affaire.\n\nIl est important de noter que l’envoi de la demande n’interrompt pas les délais légaux associés à l’enquête, notamment ceux relatifs à la présentation de preuves ou à la soumission d’observations par les parties concernées.",
+    "question": "Quel est le but de la preuve de l’intérêt légitime à consulter le rapport ?",
     "options": [
-      "de participer au développement durable de Madagascar.",
-      "de contribuer à l'industrialisation des fermes à Madagascar.",
-      "d'agir pour le repeuplement de zébus sur l'île.",
-      "de vivre une expérience unique auprès d'agriculteurs malgaches."
+      "Garantir que seules les parties directement concernées ont accès aux informations",
+      "Assurer la conformité avec les règles de procédure administrative",
+      "Faciliter l'accès à toutes les informations disponibles dans le dossier",
+      "Permettre une révision du rapport avant sa diffusion publique"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte met en avant un modèle de financement durable et solidaire pour aider les paysans de Madagascar tout en respectant l'agriculture biologique et l'élevage traditionnel. Cela correspond à l'idée de participer au développement durable de Madagascar."
+    "explanation": ""
   },
   {
     "question_no": 28,
-    "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "L’investisseur pourra :",
+    "group": 16,
+    "passage": "Accès au Rapport d’Enquête\n\nLe droit d’accès au rapport d’enquête, produit par les services administratifs, peut être exercé sur demande écrite auprès de l’autorité compétente. Cette demande doit être envoyée par courrier recommandé et doit inclure les éléments suivants :\n\n– Une copie certifiée conforme d’une pièce d’identité avec photographie;\n– Une copie de la notification officielle de l’ouverture de l’enquête;\n– Une preuve de l’intérêt légitime à consulter le rapport, telle qu’une attestation de la qualité de partie prenante dans l’affaire.\n\nIl est important de noter que l’envoi de la demande n’interrompt pas les délais légaux associés à l’enquête, notamment ceux relatifs à la présentation de preuves ou à la soumission d’observations par les parties concernées.",
+    "question": "Quelle conséquence l’envoi de la demande n’a-t-il pas sur les délais légaux associés à l’enquête ?",
     "options": [
-      "remplacer l'agriculteur sur certaines tâches à la ferme.",
-      "posséder une parcelle de terre agraire à Madagascar.",
-      "créer un lien unique avec le fermier et l'animal.",
-      "acquérir un savoir-faire dans le domaine agricole."
+      "Il ne prolonge pas le délai de présentation de preuves",
+      "Il ne suspend pas le délai pour soumettre des observations",
+      "Il ne modifie pas les termes de la notification officielle",
+      "Il ne retarde pas la réponse de l'autorité compétente"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte mentionne spécifiquement que l'investisseur est en relation avec l'utilisateur des fonds placés, et il est encouragé à rendre visite au Zébu et au fermier, suggérant ainsi qu'il pourra créer un lien unique avec le fermier et l'animal, plutôt que de prendre part directement aux tâches agricoles."
+    "explanation": ""
   },
   {
     "question_no": 29,
-    "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "L’objectif principal du texte est :",
+    "group": 17,
+    "passage": "Politique de Diffusion des Œuvres Musicales sur les Ondes\n\nAfin de promouvoir la diversité musicale et de soutenir les artistes locaux, la nouvelle politique de diffusion sur les ondes radiophoniques impose aux stations de radio de réserver un certain pourcentage de leur programmation aux œuvres musicales créées par des artistes nationaux. Cette politique vise à garantir une visibilité accrue des talents locaux et à favoriser la découverte de nouvelles musiques par le grand public. Cependant, les stations doivent également veiller à équilibrer leur programmation en incluant des œuvres d’artistes internationaux afin de maintenir un attrait universel. La mise en œuvre de cette politique fait l’objet d’un suivi régulier par les autorités compétentes, qui peuvent imposer des sanctions en cas de non-conformité.\n\nLes objectifs de cette politique s’inscrivent dans une démarche plus large de soutien à la création artistique nationale et d’ouverture à la diversité culturelle mondiale.",
+    "question": "Quelle est la principale finalité de la nouvelle politique de diffusion musicale ?",
     "options": [
-      "de présenter les responsabilités pénales du consommateur.",
-      "de préciser les coûts des différents types de contestations.",
-      "de proposer aux professionnels des moyens pour éviter les litiges.",
-      "de présenter le processus de conciliation en cas de contentieux."
+      "Limiter l'exposition des artistes internationaux tout en soutenant les artistes locaux",
+      "Favoriser la diversité musicale en soutenant les artistes nationaux tout en incluant des œuvres internationales",
+      "Augmenter la diffusion de la musique locale tout en interdisant les œuvres internationales",
+      "Soutenir la création artistique nationale tout en réduisant la diversité musicale internationale"
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte se concentre sur la médiation entre consommateurs et professionnels, et comment celle-ci peut être utilisée pour résoudre des litiges de manière amiable. Il explique le rôle du médiateur, les démarches à suivre et les conditions de la médiation. L'objectif est donc de présenter le processus de conciliation en cas de contentieux."
+    "explanation": ""
   },
   {
     "question_no": 30,
-    "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "Il appartient au professionnel de :",
+    "group": 17,
+    "passage": "Politique de Diffusion des Œuvres Musicales sur les Ondes\n\nAfin de promouvoir la diversité musicale et de soutenir les artistes locaux, la nouvelle politique de diffusion sur les ondes radiophoniques impose aux stations de radio de réserver un certain pourcentage de leur programmation aux œuvres musicales créées par des artistes nationaux. Cette politique vise à garantir une visibilité accrue des talents locaux et à favoriser la découverte de nouvelles musiques par le grand public. Cependant, les stations doivent également veiller à équilibrer leur programmation en incluant des œuvres d’artistes internationaux afin de maintenir un attrait universel. La mise en œuvre de cette politique fait l’objet d’un suivi régulier par les autorités compétentes, qui peuvent imposer des sanctions en cas de non-conformité.\n\nLes objectifs de cette politique s’inscrivent dans une démarche plus large de soutien à la création artistique nationale et d’ouverture à la diversité culturelle mondiale.",
+    "question": "Que risquent les stations de radio qui ne se conforment pas à cette politique ?",
     "options": [
-      "appeler l'organisme de médiation approprié.",
-      "assumer la charge financière liée à la médiation.",
-      "appuyer financièrement le consommateur.",
-      "initier la démarche de médiation avant le consommateur."
+      "Des avertissements de la part des autorités compétentes",
+      "Une sanction imposée par les autorités compétentes",
+      "Une diminution de leur audience par décision des autorités",
+      "Une restriction de leur programmation par les autorités compétentes"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte précise que le professionnel doit assumer la charge financière liée à la médiation, puisque les coûts de la médiation sont supportés par lui, tandis que la médiation elle-même est gratuite pour le consommateur."
+    "explanation": ""
   },
   {
     "question_no": 31,
-    "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Par ce communiqué, l’entreprise s’attache à :",
+    "group": 18,
+    "passage": "Stratégie Nationale pour la Protection des Écosystèmes Fragiles\n\nLa stratégie nationale récemment adoptée vise à renforcer la protection des écosystèmes fragiles, en particulier ceux qui sont menacés par les activités humaines telles que l’exploitation des ressources naturelles et l’urbanisation. Cette stratégie comprend plusieurs volets, dont la création de réserves naturelles, la restauration des habitats endommagés, et la réglementation stricte des activités industrielles dans les zones sensibles. Un accent particulier est mis sur la collaboration avec les communautés locales, qui sont encouragées à participer activement à la conservation de leur environnement. Les initiatives incluent également des campagnes de sensibilisation pour informer le public sur l’importance de préserver la biodiversité et les services écosystémiques.\n\nL’objectif global est de créer un cadre durable qui permette à la fois le développement économique et la préservation de la nature pour les générations futures.",
+    "question": "Quelle est l’approche principale adoptée pour la protection des écosystèmes fragiles ?",
     "options": [
-      "montrer son engagement face au changement climatique.",
-      "encourager les initiatives en faveur des populations à risque.",
-      "informer de potentielles organisations partenaires.",
-      "trouver des investisseurs pour son nouveau fonds."
+      "Créer des réserves naturelles tout en limitant les activités humaines dans les zones sensibles",
+      "Imposer une réglementation stricte des activités industrielles tout en encourageant la collaboration locale",
+      "Mettre en place des zones protégées tout en interdisant les activités industrielles",
+      "Restaurer les habitats endommagés tout en favorisant les activités locales"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte présente un fonds spécifiquement destiné à aider les populations vulnérables face aux catastrophes climatiques, et souligne les objectifs de prévention et de reconstruction. Cela démontre un engagement concret de l'entreprise face aux enjeux du changement climatique."
+    "explanation": ""
   },
   {
     "question_no": 32,
-    "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Ce fonds servira à :",
+    "group": 18,
+    "passage": "Stratégie Nationale pour la Protection des Écosystèmes Fragiles\n\nLa stratégie nationale récemment adoptée vise à renforcer la protection des écosystèmes fragiles, en particulier ceux qui sont menacés par les activités humaines telles que l’exploitation des ressources naturelles et l’urbanisation. Cette stratégie comprend plusieurs volets, dont la création de réserves naturelles, la restauration des habitats endommagés, et la réglementation stricte des activités industrielles dans les zones sensibles. Un accent particulier est mis sur la collaboration avec les communautés locales, qui sont encouragées à participer activement à la conservation de leur environnement. Les initiatives incluent également des campagnes de sensibilisation pour informer le public sur l’importance de préserver la biodiversité et les services écosystémiques.\n\nL’objectif global est de créer un cadre durable qui permette à la fois le développement économique et la préservation de la nature pour les générations futures.",
+    "question": "Comment les communautés locales sont-elles impliquées dans cette stratégie ?",
     "options": [
-      "renforcer la résistance des populations fragiles.",
-      "optimiser les projets environnementaux existants.",
-      "stimuler la croissance économique locale.",
-      "encourager l'innovation technologique."
+      "Elles sont incitées à protéger leur environnement par des mesures coercitives",
+      "Elles sont invitées à participer à des projets de conservation par les autorités",
+      "Elles sont encouragées à contribuer activement à la préservation de l'environnement",
+      "Elles sont obligées de suivre les directives environnementales imposées par l'État"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte met en avant que le fonds a pour objectif de renforcer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, ce qui correspond à l'idée de renforcer la résistance des populations fragiles."
+    "explanation": ""
   },
   {
     "question_no": 33,
-    "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "D’après l’article, les abeilles :",
+    "group": 19,
+    "passage": "Le monde en sait « déjà beaucoup >> sur la mpox, et l’on ne peut donc pas la considérer comme <<< la nouvelle COVID », a affirmé mardi le directeur Europe de l'Organisation mondiale de la santé (OMS), Hans Kluge. La mpox n'est pas la nouvelle COVID. Qu'il s'agisse du clade 1 de la mpox, à l'origine de l'épidémie actuelle en Afrique centrale et orientale, ou du clade 2 de la mpox, à l'origine de l'épidémie de 2022 dans le monde, a déclaré M. Kluge, lors d'un point de presse des agences de l'ONU. Nous en savons déjà beaucoup sur le clade 2. Il nous reste à en apprendre davantage sur le clade 1, a-t-il affirmé, en relevant que nous savons comment lutter contre la mpox. La recrudescence de la mpox en République démocratique du Congo (RDC), portée par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et l'Ouganda, a incité l'OMS à décréter le 14 août une urgence de santé publique de portée internationale, l'alerte sanitaire du niveau le plus élevé. L'OMS avait déjà pris une telle décision en 2022 lorsqu'une épidémie de mpox, portée alors par le clade 2b, s'était étendue à travers le monde. L'alerte avait été levée en mai 2023. S'exprimant par vidéoconférence, M. Kluge a expliqué qu'il y a deux ans, l'Europe avait maîtrisé la mpox grâce à un engagement direct auprès des communautés les plus touchées, les hommes ayant des rapports sexuels avec des hommes.",
+    "question": "Pourquoi Hans Kluge affirme-t-il que la mpox ne peut pas être considérée comme « la nouvelle COVID » ?",
     "options": [
-      "représentent un défi écologique pour les villes.",
-      "apprécient la biodiversité des villes.",
-      "se dirigent davantage vers les milieux urbains.",
-      "produisent moins de miel dans les zones agricoles."
+      "Parce que la mpox est moins contagieuse que la COVID",
+      "Parce que la mpox est mieux comprise que la COVID",
+      "Parce que la mpox touche principalement l'Afrique",
+      "Parce que la mpox est plus ancienne que la COVID"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article met en évidence que les abeilles bénéficient de la diversité des espèces végétales présentes dans les villes, ce qui leur permet de butiner plus longtemps en raison des températures légèrement plus élevées. Cependant, l'augmentation rapide du nombre de ruches entraîne une diminution de la production de miel, car les ressources florales deviennent limitées. Ainsi, les abeilles apprécient la biodiversité des villes qui leur offre une grande variété de sources alimentaires."
+    "explanation": ""
   },
   {
     "question_no": 34,
-    "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "La mise en place des ruches en ville :",
+    "group": 19,
+    "passage": "Le monde en sait « déjà beaucoup >> sur la mpox, et l’on ne peut donc pas la considérer comme <<< la nouvelle COVID », a affirmé mardi le directeur Europe de l'Organisation mondiale de la santé (OMS), Hans Kluge. La mpox n'est pas la nouvelle COVID. Qu'il s'agisse du clade 1 de la mpox, à l'origine de l'épidémie actuelle en Afrique centrale et orientale, ou du clade 2 de la mpox, à l'origine de l'épidémie de 2022 dans le monde, a déclaré M. Kluge, lors d'un point de presse des agences de l'ONU. Nous en savons déjà beaucoup sur le clade 2. Il nous reste à en apprendre davantage sur le clade 1, a-t-il affirmé, en relevant que nous savons comment lutter contre la mpox. La recrudescence de la mpox en République démocratique du Congo (RDC), portée par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et l'Ouganda, a incité l'OMS à décréter le 14 août une urgence de santé publique de portée internationale, l'alerte sanitaire du niveau le plus élevé. L'OMS avait déjà pris une telle décision en 2022 lorsqu'une épidémie de mpox, portée alors par le clade 2b, s'était étendue à travers le monde. L'alerte avait été levée en mai 2023. S'exprimant par vidéoconférence, M. Kluge a expliqué qu'il y a deux ans, l'Europe avait maîtrisé la mpox grâce à un engagement direct auprès des communautés les plus touchées, les hommes ayant des rapports sexuels avec des hommes.",
+    "question": "Quelle mesure a pris l’OMS en réponse à l’épidémie de mpox en Afrique centrale et orientale en août 2023 ?",
     "options": [
-      "présente des avantages limités dans le temps.",
-      "est inefficace pour protéger l'écosystème.",
-      "a un effet dévastateur sur les campagnes.",
-      "permet à de nouvelles espèces végétales de prospérer."
+      "L'introduction d'un vaccin spécifique",
+      "La déclaration d'une urgence de santé publique de portée internationale",
+      "La fermeture des frontières des pays affectés",
+      "La levée de toutes les restrictions sanitaires"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article souligne que bien que les villes offrent des avantages initiaux pour les abeilles, comme une meilleure biodiversité et des températures plus élevées, ces avantages diminuent au fil du temps. Cela est dû à l'augmentation du nombre de ruches, qui entraîne une saturation des ressources florales disponibles. Ainsi, l'impact positif des villes sur la production de miel diminue au fil des années, ce qui rend les avantages limités dans le temps."
+    "explanation": ""
   },
   {
     "question_no": 35,
-    "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "L’auteur de cet article s’inquiète :",
+    "group": 20,
+    "passage": "Les dernières données divulguées par le Centre intégré de santé et de services sociaux de l’Abitibi-Témiscamingue (CISSS-AT) mettent en lumière une tendance décroissante des maladies pulmonaires obstructives chroniques (MPOC) à Rouyn-Noranda. Cette information a suscité un vif intérêt dans le cadre des discussions sur la qualité de l’air, révélant une dynamique notable au sein de la région.\n\nLes MPOC, qui regroupent des affections telles que la bronchite chronique et l’emphysème, sont en grande partie attribuées au tabagisme. Elles se caractérisent par une obstruction progressive et partiellement réversible des voies respiratoires, compromettant gravement la fonction pulmonaire.\n\nChaque année, deux indicateurs clés sont calculés pour évaluer l’impact de cette pathologie sur le territoire: le taux de prévalence des MPOC, qui quantifie la proportion de la population touchée par cette maladie, et l’incidence des MPOC, correspondant au nombre de nouveaux cas signalés au cours d’une année donnée.\n\nLes données issues du rapport du CISSS-AT montrent une réduction continue de ces deux indicateurs à Rouyn-Noranda au fil des années récentes.\n\nNotamment, le taux de prévalence des MPOC a chuté de 14,6 pour 1000 habitants en 2015-2016 à 12,4 pour 1000 habitants en 2021-2022. Cependant, il convient de souligner que ce taux reste le plus élevé de toute la région de l’Abitibi-Témiscamingue.",
+    "question": "Cet article présente :",
     "options": [
-      "de l'avenir du ministère en charge de l'environnement.",
-      "de la perte d'identité des populations du désert.",
-      "des pollutions créées par les chasseurs de météorites.",
-      "de la récupération du patrimoine par des groupes privés."
+      "Une analyse des causes multiples des MPOC dans différentes régions.",
+      "Une évolution des statistiques des MPOC à Rouyn-Noranda, tout en les comparant à d'autres régions",
+      "Une étude sur l'impact du tabagisme sur la prévalence des MPOC en Abitibi-Témiscamingue.",
+      "Un rapport détaillé des réactions publiques face à la gestion de la qualité de l'air à Rouyn-Noranda."
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article met en lumière le risque que les spécimens de météorites marocaines, non protégées par des lois, se retrouvent dans des collections privées au lieu d'être conservés et préservés dans une structure dédiée, comme un musée national. L'auteur s'inquiète de cette récupération par des acteurs privés, comme la Meteorical Society, qui organise même des congrès pour attirer l'attention sur ce patrimoine."
+    "explanation": ""
   },
   {
     "question_no": 36,
-    "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "D’après ce texte, la présence de météorites a généré :",
+    "group": 20,
+    "passage": "Les dernières données divulguées par le Centre intégré de santé et de services sociaux de l’Abitibi-Témiscamingue (CISSS-AT) mettent en lumière une tendance décroissante des maladies pulmonaires obstructives chroniques (MPOC) à Rouyn-Noranda. Cette information a suscité un vif intérêt dans le cadre des discussions sur la qualité de l’air, révélant une dynamique notable au sein de la région.\n\nLes MPOC, qui regroupent des affections telles que la bronchite chronique et l’emphysème, sont en grande partie attribuées au tabagisme. Elles se caractérisent par une obstruction progressive et partiellement réversible des voies respiratoires, compromettant gravement la fonction pulmonaire.\n\nChaque année, deux indicateurs clés sont calculés pour évaluer l’impact de cette pathologie sur le territoire: le taux de prévalence des MPOC, qui quantifie la proportion de la population touchée par cette maladie, et l’incidence des MPOC, correspondant au nombre de nouveaux cas signalés au cours d’une année donnée.\n\nLes données issues du rapport du CISSS-AT montrent une réduction continue de ces deux indicateurs à Rouyn-Noranda au fil des années récentes.\n\nNotamment, le taux de prévalence des MPOC a chuté de 14,6 pour 1000 habitants en 2015-2016 à 12,4 pour 1000 habitants en 2021-2022. Cependant, il convient de souligner que ce taux reste le plus élevé de toute la région de l’Abitibi-Témiscamingue.",
+    "question": "L’auteur met en cause :",
     "options": [
-      "une nouvelle activité pour les populations du désert.",
-      "une mobilisation sans précédent des universitaires.",
-      "une exposition à destination du grand public.",
-      "un trafic important avec les pays voisins."
+      "L'efficacité des politiques publiques de santé dans la lutte contre les MPOC en Abitibi-Témiscamingue.",
+      "La capacité du CISSS-AT à maintenir une baisse durable des MPOC à Rouyn-Noranda.",
+      "La prévalence plus élevée des MPOC à Rouyn-Noranda comparée au reste de l'Abitibi-Témiscamingue.",
+      "L'impact des données récentes sur la perception publique de la qualité de l'air dans la région."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte explique que de nombreux nomades du désert ont fait de la chasse aux météorites leur métier, créant ainsi une nouvelle activité pour les populations locales. Cette activité est rendue possible grâce à la vente de météorites, un commerce qui s'est développé autour de ces fragments célestes."
+    "explanation": ""
   },
   {
     "question_no": 37,
-    "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, l’être humain :",
+    "group": 21,
+    "passage": "L’application de partage de vidéos Tik Tok est accusée par les autorités américaines de transmettre des données aux autorités chinoises ou de servir de plateforme à ceux qui projetteraient de truquer les élections. Face à cette menace, le président Trump veut forcer la vente de l’entreprise à des intérêts américains. Il est vrai que le fonctionnement de Tik Tok repose sur des algorithmes capables de procurer des recommandations hyper-personnalisées. La plateforme possède de grands atouts pour valoriser avec beaucoup d’efficacité les données produites par les utilisateurs. Profitant des possibilités considérables ouvertes par les technologies fondées sur l’intelligence artificielle, ces plateformes de nouvelle génération ont vocation de constituer un puissant vecteur de productions culturelles hyper personnalisées. À ce titre, elles participent à la gouvernance des comportements des individus et des organisations. Elles devraient donc interpeller les politiques numériques de tous les pays. Mais l’approche du président Trump est mal ciblée.\n\nLes accusations des autorités américaines à l’égard de TikTok se fondent sur des arguments de « sécurité nationale ». L’alibi de la « sécurité nationale >> est souvent brandi par les dirigeants autoritaires pour justifier leurs décisions arbitraires. Car en ces matières caractérisées par le secret, le commun des mortels n’a d’autre choix que de croire les dirigeants sur parole. Or, les dirigeants américains traînent à cet égard un lourd déficit de crédibilité. Les révélations d’Edward Snowden au sujet de l’espionnage tous azimuts des citoyens ont montré qu’en matière de sécurité nationale, les États, et singulièrement les États-Unis, font ce qui les arrange. Les déficiences des lois américaines en matière de protection des données sont telles que le plus haut tribunal européen a invalidé l’accord en vertu duquel les données des Européens peuvent être exportées vers les États-Unis. Alors, invoquer que Tik Tok transmettrait des données des utilisateurs américains pour justifier les pressions destinées à engendrer la vente de l’entreprise ne paraît pas très convaincant.\n\nSi les autorités américaines souhaitent vraiment assurer la protection des données personnelles, elles devraient mettre en place des législations garantissant effectivement que toutes les entreprises qui produisent de la valeur avec les données manipulées par une population soient tenues à de réelles redditions de comptes.",
+    "question": "Quelle est la principale critique formulée par l’auteur à l’égard des actions du président Trump concernant TikTok ?",
     "options": [
-      "doit trouver son harmonie spirituelle.",
-      "se complait dans son anxiété.",
-      "s'épanouit dans ses relations humaines.",
-      "doit intérioriser ses tourments."
+      "L'absence d'une stratégie claire pour racheter TikTok.",
+      "La focalisation sur TikTok sans considération pour d'autres plateformes similaires.",
+      "L'utilisation de la sécurité nationale comme prétexte pour des décisions politiques.",
+      "Le manque d'efficacité des algorithmes de TikTok pour protéger les données des utilisateurs."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte évoque l'idée que vivre, c'est être fondamentalement intranquille. Cependant, l'être humain doit trouver un équilibre en agissant avec empathie et vigilance, et en luttant contre ses représentations anxieuses. Ce processus implique de trouver une forme d'harmonie dans la gestion de son intranquillité. Ce n'est donc pas l'intériorisation passive ou le repli sur soi qui est encouragé, mais plutôt une quête active d'équilibre et de sérénité."
+    "explanation": ""
   },
   {
     "question_no": 38,
-    "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, la technologie :",
+    "group": 21,
+    "passage": "L’application de partage de vidéos Tik Tok est accusée par les autorités américaines de transmettre des données aux autorités chinoises ou de servir de plateforme à ceux qui projetteraient de truquer les élections. Face à cette menace, le président Trump veut forcer la vente de l’entreprise à des intérêts américains. Il est vrai que le fonctionnement de Tik Tok repose sur des algorithmes capables de procurer des recommandations hyper-personnalisées. La plateforme possède de grands atouts pour valoriser avec beaucoup d’efficacité les données produites par les utilisateurs. Profitant des possibilités considérables ouvertes par les technologies fondées sur l’intelligence artificielle, ces plateformes de nouvelle génération ont vocation de constituer un puissant vecteur de productions culturelles hyper personnalisées. À ce titre, elles participent à la gouvernance des comportements des individus et des organisations. Elles devraient donc interpeller les politiques numériques de tous les pays. Mais l’approche du président Trump est mal ciblée.\n\nLes accusations des autorités américaines à l’égard de TikTok se fondent sur des arguments de « sécurité nationale ». L’alibi de la « sécurité nationale >> est souvent brandi par les dirigeants autoritaires pour justifier leurs décisions arbitraires. Car en ces matières caractérisées par le secret, le commun des mortels n’a d’autre choix que de croire les dirigeants sur parole. Or, les dirigeants américains traînent à cet égard un lourd déficit de crédibilité. Les révélations d’Edward Snowden au sujet de l’espionnage tous azimuts des citoyens ont montré qu’en matière de sécurité nationale, les États, et singulièrement les États-Unis, font ce qui les arrange. Les déficiences des lois américaines en matière de protection des données sont telles que le plus haut tribunal européen a invalidé l’accord en vertu duquel les données des Européens peuvent être exportées vers les États-Unis. Alors, invoquer que Tik Tok transmettrait des données des utilisateurs américains pour justifier les pressions destinées à engendrer la vente de l’entreprise ne paraît pas très convaincant.\n\nSi les autorités américaines souhaitent vraiment assurer la protection des données personnelles, elles devraient mettre en place des législations garantissant effectivement que toutes les entreprises qui produisent de la valeur avec les données manipulées par une population soient tenues à de réelles redditions de comptes.",
+    "question": "Selon l’auteur, quel est le paradoxe des accusations des autorités américaines contre TikTok ?",
     "options": [
-      "favorise la paix intérieure.",
-      "représente un moyen de méditation.",
-      "incarne une extension de l'Homme.",
-      "symbolise un retour à la réalité."
+      "Les États-Unis accusent TikTok de pratiques qu'ils utilisent eux-mêmes dans la gestion des données.",
+      "Les algorithmes de TikTok sont trop sophistiqués pour être compris par les autorités américaines.",
+      "Les accusations contre TikTok sont infondées car l'entreprise appartient déjà à des intérêts américains.",
+      "Les autorités américaines n'ont pas prouvé que TikTok transmet effectivement des données aux autorités chinoises."
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte mentionne que les \"arpenteurs de déserts\" restent connectés à l'actualité via Internet, ce qui indique que la technologie, loin d'être un facteur de paix intérieure, fait plutôt partie d'un projet de vie autonome où les individus utilisent des outils technologiques pour rester informés, même dans des lieux isolés. Cela suggère que la technologie est perçue comme une extension de l'Homme, permettant une connexion au monde extérieur, même en dehors des sociétés traditionnelles."
+    "explanation": ""
   },
   {
     "question_no": 39,
-    "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "Pour endiguer la crise écologique, il faut que :",
+    "group": 22,
+    "passage": "Des dizaines de milliers de foyers français, dont l’habitation n’a jamais été reliée au réseau public d’eau potable, mais qui utilisaient une source située sur leur propriété ou à proximité, risquent de voir celle-ci se tarir avant l’été. Déjà nombre d’entre eux appellent leur mairie au secours. Dans le même temps, en application d’une directive européenne tout juste transcrite en droit français, les collectivités locales doivent désormais fournir de l’eau potable à ceux qui en sont privés. Une véritable bombe à retardement.\n\nLe bureau panoramique du nouveau service des eaux de la communauté de communes Causses Aigoual Cévennes Terres Solidaires offre une vue à couper le souffle sur la vallée de l’Espérou. Nous l’avons rejoint après deux heures d’ascension de la départementale en lacets qu’il faut gravir pour atteindre les villages situés sur les crêtes, au fin fond de ces Cévennes gardoises dont le sous-sol voit se succéder substrats sédimentaires, granit et schistes.\n\nEn ce jeudi d’avril, dans le bureau de l’Espérou, les quatre salariés de la régie, opérationnelle depuis le 1er janvier dernier, travaillent à mettre sur pied le nouveau service. Il remplace ceux des dix-sept communes qui géraient seules l’eau et l’assainissement avant l’adoption de la loi Notre en 2015. Même à l’échelle des 5 500 habitants de la communauté de communes, la tâche est colossale.\n\nIl a fallu dresser un état des lieux précis de chacun des dix-sept services, récupérer les archives disponibles, préparer la numérisation du tout, surmonter les innombrables chausse-trappes juridiques et comptables d’un encadrement réglementaire qui a connu trois lois d’adaptation successives depuis 2018… Sans compter l’épée de Damoclès des associations d’élus qui veulent purement et simplement annuler ces transferts de compétence de distribution de l’eau potable, comme l’a fait une majorité de sénateurs le 15 mars dernier. Le transfert de compétences n’est pas un long fleuve tranquille.",
+    "question": "Quel est l’impact de la nouvelle directive européenne mentionnée dans le texte ?",
     "options": [
-      "la mise en retrait de l'homme est indispensable.",
-      "l'usage des nouvelles technologies est un leurre.",
-      "les pratiques numériques sont à reconsidérer.",
-      "l'intelligence artificielle est porteuse d'espoir."
+      "Elle impose la réduction de la consommation d'eau.",
+      "Elle oblige les collectivités à fournir de l'eau potable à ceux qui en sont privés.",
+      "Elle interdit l'utilisation des sources privées.",
+      "Elle augmente le prix de l'eau potable."
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte critique la dépendance excessive aux technologies numériques pour résoudre la crise climatique, en mettant en évidence l'impact environnemental généré par la prolifération des objets connectés et des systèmes autonomes. L’auteur souligne que se concentrer uniquement sur les comportements numériques des humains pourrait être vain, suggérant ainsi qu'une reconsidération des pratiques numériques est nécessaire pour véritablement maîtriser l'impact écologique."
+    "explanation": ""
   },
   {
     "question_no": 40,
-    "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "L’auteur dénonce :",
+    "group": 22,
+    "passage": "Des dizaines de milliers de foyers français, dont l’habitation n’a jamais été reliée au réseau public d’eau potable, mais qui utilisaient une source située sur leur propriété ou à proximité, risquent de voir celle-ci se tarir avant l’été. Déjà nombre d’entre eux appellent leur mairie au secours. Dans le même temps, en application d’une directive européenne tout juste transcrite en droit français, les collectivités locales doivent désormais fournir de l’eau potable à ceux qui en sont privés. Une véritable bombe à retardement.\n\nLe bureau panoramique du nouveau service des eaux de la communauté de communes Causses Aigoual Cévennes Terres Solidaires offre une vue à couper le souffle sur la vallée de l’Espérou. Nous l’avons rejoint après deux heures d’ascension de la départementale en lacets qu’il faut gravir pour atteindre les villages situés sur les crêtes, au fin fond de ces Cévennes gardoises dont le sous-sol voit se succéder substrats sédimentaires, granit et schistes.\n\nEn ce jeudi d’avril, dans le bureau de l’Espérou, les quatre salariés de la régie, opérationnelle depuis le 1er janvier dernier, travaillent à mettre sur pied le nouveau service. Il remplace ceux des dix-sept communes qui géraient seules l’eau et l’assainissement avant l’adoption de la loi Notre en 2015. Même à l’échelle des 5 500 habitants de la communauté de communes, la tâche est colossale.\n\nIl a fallu dresser un état des lieux précis de chacun des dix-sept services, récupérer les archives disponibles, préparer la numérisation du tout, surmonter les innombrables chausse-trappes juridiques et comptables d’un encadrement réglementaire qui a connu trois lois d’adaptation successives depuis 2018… Sans compter l’épée de Damoclès des associations d’élus qui veulent purement et simplement annuler ces transferts de compétence de distribution de l’eau potable, comme l’a fait une majorité de sénateurs le 15 mars dernier. Le transfert de compétences n’est pas un long fleuve tranquille.",
+    "question": "Qu’est-ce qui complique la mise en place du nouveau service d’eau ?",
     "options": [
-      "la pollution générée par les intelligences artificielles.",
-      "l'usage immoral fait des intelligences artificielles.",
-      "les contradictions dans les études sur les intelligences artificielles.",
-      "la pensée unique sur les intelligences artificielles."
+      "Le manque de personnel qualifié.",
+      "Les lois d'adaptation successives et les défis juridiques.",
+      "L'opposition des habitants locaux.",
+      "Les coupures fréquentes d'eau dans la région."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte critique l’impact environnemental du numérique, en particulier des technologies autonomes comme les véhicules intelligents et les logiciels tournant en continu. Il remet en question l’idée que le numérique soit automatiquement bénéfique pour le climat, et alerte sur la pollution invisible et incontrôlée que pourraient engendrer ces systèmes, y compris l’IA."
+    "explanation": ""
   }
 ]

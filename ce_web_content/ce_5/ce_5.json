@@ -2,526 +2,601 @@
   {
     "question_no": 1,
     "group": 1,
-    "passage": "Pour une ville propre !\n\nLa ville de Bruges ramasse chaque année 18 tonnes de cigarettes jetées au sol.\nUn mégot par terre : 68 euros d’amende !",
-    "question": "Ce document est :",
+    "passage": "A CONSOMMER\nJUSQU’AU\n26/11/2016\nLot : 64",
+    "question": "Le 26/11/2016 représente…",
     "options": [
-      "un règlement intérieur",
-      "un panneau d'information",
-      "un dépliant touristique",
-      "une offre d'emploi"
+      "La date de lancement.",
+      "La date de péremption.",
+      "La date de mise en service.",
+      "La date de fabrication."
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Ce document sert à informer et sensibiliser les citoyens sur les conséquences de jeter des mégots par terre. Il ne détaille pas des règles internes, ne fait pas la promotion touristique, et n'offre pas d'emploi. Il s'agit donc d’un panneau d'information."
+    "explanation": ""
   },
   {
     "question_no": 2,
     "group": 2,
-    "passage": "JF 20 ans étudiante en formation « petite enfance », sérieuse avec beaucoup d’expérience, propose garde d’enfants (de 2 à 10 ans) les soirs, les mercredis et les dimanches.\n\nSi vous êtes intéressé(e), contactez-moi :\n232-21-18-14 ou adele@lilo.org",
-    "question": "L’auteure de cette annonce est disponible :",
+    "passage": "Toile\nBRICOLAGE (14-100 ANS) 29 JUIN 10H-12H30\n6 JUILLET 13H-15H30\nRéservez au 00 78 65 34 23 23",
+    "question": "Ce jour-là, on pourra…",
     "options": [
-      "en début de journée",
-      "plusieurs fois par semaine",
-      "une fois par semaine",
-      "seulement le weekend"
+      "Acheter des objets.",
+      "Échanger des objets.",
+      "Vendre des objets.",
+      "Réparer des objets."
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Elle propose ses services les soirs, les mercredis et les dimanches, ce qui représente plusieurs moments répartis sur la semaine. Donc, elle est disponible plusieurs fois par semaine."
+    "explanation": ""
   },
   {
     "question_no": 3,
     "group": 3,
-    "passage": "L’Asie du Sud au cinéma !\n\nLe festival « Cinéasia » présente en Belgique des films de toute l’Asie du Sud.\n\nL’Inde et ses voisins seront parmi nous et une journée sera dédiée au Pakistan.\n\nL’an dernier, vous avez adoré notre nuit « Frissons ». Cette année, vous allez rire avec notre nuit « Comédies » ! Venez nombreux !",
-    "question": "Le programme du festival :",
+    "passage": "",
+    "question": "Ce document présente…",
     "options": [
-      "est le même que l'an dernier",
-      "reste encore à définir",
-      "est renouvelé chaque année",
-      "est destiné aux plus jeunes"
+      "Un programme de télévision.",
+      "Un programme de cinéma.",
+      "Une petite annonce.",
+      "Une publicité."
     ],
-    "right_option": "C",
-    "image_path": null,
-    "explanation": "Le texte compare le programme de cette année avec celui de l’année précédente (de « Frissons » à « Comédies »), ce qui montre que le contenu change d'une édition à l'autre. Le programme est donc renouvelé chaque année."
+    "right_option": null,
+    "image_path": "assets/ce-5-1-min.png",
+    "explanation": ""
   },
   {
     "question_no": 4,
     "group": 4,
-    "passage": "Professeur au Conservatoire de Montréal donne des\nCOURS DE CHANT\n\nTechniques italienne et française\nOpéra – Chanson française – Opérette\nSessions d’une semaine à six mois\nProgrès rapides garantis !\nTel. : 514-873-4283",
-    "question": "Ce document propose :",
+    "passage": "Besoin d’une baby-sitter?\nConfiez-nous vos enfants en toute confiance.\nDisponibles les soirs et week-ends. Réservez dès maintenant!\nTarifs abordables. Service de qualité.",
+    "question": "Cette annonce propose…",
     "options": [
-      "un enseignement de qualité",
-      "une place à l'Opéra",
-      "un poste en Italie",
-      "une semaine de concerts"
+      "Un atelier d'écriture pour enfants.",
+      "Des activités pour les enfants.",
+      "Un service de garde d'enfants.",
+      "Une assistance scolaire personnalisée."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Il s’agit d’une annonce de cours de chant donnés par un professeur au Conservatoire, avec des techniques précises et une promesse de progrès. Cela met en avant un enseignement de qualité, pas une offre de travail ni des concerts."
+    "explanation": ""
   },
   {
     "question_no": 5,
     "group": 5,
-    "passage": "Vous souhaitez agir pour préserver notre climat, pour rendre notre société plus écologique et solidaire ?\n\nAu festival « Agir à Lyon », vous pourrez rencontrer une trentaine d’associations avec qui devenir bénévole. À travers une dizaine de mini-conférences, vous découvrirez des projets inspirants pour vous donner envie de mettre l’écologie au centre de votre mode de vie.\n\nNous vous inviterons, par des démonstrations simples, à découvrir des actions à faire chez soi ou autour de soi : compostage, cuisine anti-gaspillage, etc.",
-    "question": "Le but de l’événement est de :",
+    "passage": "Pierre Lemaitre a remporté la première place du Prix Goncourt 2013 pour son roman “Au revoir là- haut”. Ce livre captivant raconte l’histoire de deux soldats de la Première Guerre mondiale qui montent une arnaque monumentale. Grâce à son écriture poignante et ses personnages profondément humains, Lemaitre a su conquérir le cœur des lecteurs et du jury.",
+    "question": "Pierre Lemaitre…",
     "options": [
-      "découvrir des activités écologiques",
-      "rencontrer des scientifiques",
-      "créer de nouvelles associations",
-      "ramasser les déchets d’un quartier"
+      "A peiné à séduire le jury du Goncourt.",
+      "Prendra part au Goncourt 2013.",
+      "Va bientôt publier son roman.",
+      "Est lauréat du Goncourt 2013."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte insiste sur la découverte de projets écologiques, de gestes simples à faire soi-même, et sur l’envie d’agir pour l’environnement. Il s’agit donc de découvrir des activités écologiques."
+    "explanation": ""
   },
   {
     "question_no": 6,
     "group": 6,
-    "passage": "Madame, Monsieur,\n\nNous vous rappelons que certaines œuvres sont soumises au droit d’auteur. Pour pouvoir les reproduire ou les diffuser sur notre plateforme, nous vous demandons de bien vouloir effectuer une déclaration lors de chaque commande d’impression ou de mise en ligne.\n\nCette déclaration se fait en ligne, est anonyme et ne demandera aucune rétribution de votre part. Vous devrez néanmoins indiquer le numéro de votre commande.\n\nATTENTION ! Sans ces indications, vos demandes ne pourront être traitées.\n\nBien cordialement,\nDirection de la Communication, Université Sorbonne Nouvelle",
-    "question": "Ce mail rappelle :",
+    "passage": "Festival des Étoiles Solidaires\n\nRejoignez-nous le 15 juillet au Parc du Soleil pour une journée de musique, jeux et activités familiales! De 10h à 18h, profitez des talents locaux et de la bonne ambiance. Les sommes récoltées serviront à soutenir les enfants défavorisés. Billets en vente dès maintenant. Venez nombreux pour une cause noble !",
+    "question": "Quelle fête…",
     "options": [
-      "l'interdiction de copier les œuvres",
-      "le délai de traitement des commandes",
-      "l'obligation de payer les droits d'auteur",
-      "les règles d'utilisation des œuvres"
+      "Accueille uniquement les enfants.",
+      "Est une action à but caritatif.",
+      "Est organisée par le Parc du Soleil.",
+      "Aura lieu au début du mois."
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le message explique qu’une déclaration est nécessaire pour reproduire ou diffuser des œuvres protégées par le droit d’auteur. Il ne parle pas d’interdiction, de délai, ni de paiement. Il rappelle donc les règles d’utilisation des œuvres."
+    "explanation": ""
   },
   {
     "question_no": 7,
     "group": 7,
-    "passage": "Service civique\n\nEn France, vous pouvez effectuer un service civique. Il s’agit d’un engagement volontaire de six à douze mois au service de l’intérêt général. D’une durée hebdomadaire de vingt-quatre heures minimum, il est indemnisé 580 € par mois.\n\nLe service civique est une expérience unique ouverte à tous les jeunes de 16 à 25 ans, et jusqu’à 30 ans en situation de handicap, sans condition de diplôme. Seule votre motivation compte !\n\nVous pouvez réaliser votre mission de service civique auprès d’une association, d’une collectivité territoriale, d’un établissement public, d’un bailleur de logement social ou des services de l’État.",
-    "question": "Le service civique permet aux jeunes :",
+    "passage": "Une vie de Simone Veil est un témoignage poignant de résilience. Survivante de l’Holocauste, elle retrace son parcours avec une honnêteté désarmante, de l’enfer des camps de concentration à son rôle pionnier en politique. Sa lutte pour les droits des femmes et la justice sociale est inspirante. Son récit, empreint de dignité et de courage, offre une leçon d’humanité et d’espoir. Un ouvrage essentiel pour comprendre le XXe siècle et le combat pour la liberté.",
+    "question": "L’un des aspects de la vie de Simone Veil mis en avant dans le livre…",
     "options": [
-      "de prouver leurs compétences à l'international",
-      "de participer au bon fonctionnement de la société",
-      "de bénéficier d'un emploi pendant 2 ans",
-      "d'obtenir un diplôme à l'issue de leur engagement"
+      "Son honnêteté désarmante.",
+      "Son amour pour les personnes pauvres.",
+      "Son engagement en politique.",
+      "Son succès dans le monde littéraire."
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte insiste sur l'engagement volontaire au service de l'intérêt général, dans différents types de structures. Cela permet donc de participer au bon fonctionnement de la société, pas d'obtenir un diplôme ou un emploi formel."
+    "explanation": ""
   },
   {
     "question_no": 8,
     "group": 8,
     "passage": "",
-    "question": "Pour rester en bonne santé, ______ des fruits et des légumes.",
-    "options": ["achetez", "mangez", "vendez", "préparez"],
-    "right_option": "B",
+    "question": "Pierrot a promis de venir malgré les ________",
+    "options": [
+      "Cupidité",
+      "Pouvoirs",
+      "Environnements",
+      "Intempéries"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "La phrase encourage à adopter une bonne hygiène de vie pour rester en bonne santé. Le verbe \"mangez\" est donc le plus approprié, car il invite à consommer des fruits et des légumes."
+    "explanation": ""
   },
   {
     "question_no": 9,
     "group": 8,
     "passage": "",
-    "question": "Venez découvrir l’immensité des espaces blancs et l’accueil _____ de nos habitants !",
-    "options": ["chaleureux", "sensible", "intimiste", "contenu"],
-    "right_option": "A",
+    "question": "Le refuge est difficilement ________ en hiver.",
+    "options": [
+      "Accordable",
+      "Accessible",
+      "Abreuvable",
+      "Abattable"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'expression \"l'accueil de nos habitants\" suggère une atmosphère positive et accueillante. L'adjectif \"chaleureux\" est donc le plus adapté, car il évoque un accueil amical et bienveillant."
+    "explanation": ""
   },
   {
     "question_no": 10,
     "group": 8,
     "passage": "",
-    "question": "En raison des vacances, la boulangerie sera ______ jusqu’à lundi prochain !",
-    "options": ["louée", "habitée", "occupée", "fermée"],
-    "right_option": "D",
+    "question": "Il parla à en ________ haleine pendant 2 heures.",
+    "options": [
+      "Trouver",
+      "Sentir",
+      "Perdre",
+      "Dégourdir"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le contexte indique que la boulangerie ne sera pas ouverte en raison des vacances. Le mot \"fermée\" est donc le plus approprié, car il signifie qu'elle sera fermée temporairement."
+    "explanation": ""
   },
   {
     "question_no": 11,
     "group": 8,
     "passage": "",
-    "question": "Pendant la réunion, nous avons parlé de _____ du prix de l’essence.",
-    "options": ["l'innovation", "l'augmentation", "l'ajout", "l'élévation"],
-    "right_option": "B",
+    "question": "Chaque matin, Séraphine fait ______ de l’eau pour son thé.",
+    "options": [
+      "Émincer",
+      "Rissoler",
+      "Dorer",
+      "Frémir"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le prix de l'essence peut augmenter, ce qui correspond à \"l'augmentation\". Les autres options ne sont pas adaptées au contexte de l'évolution du prix."
+    "explanation": ""
   },
   {
     "question_no": 12,
     "group": 8,
     "passage": "",
-    "question": "Salut Justine ! J’ai besoin d’un marteau pour _____ mes peintures, pourrais-tu me prêter le tien ?",
-    "options": ["attacher", "étendre", "retenir", "accrocher"],
-    "right_option": "D",
+    "question": "Son ______ témoignait de la précipitation avec laquelle Rolin était venu.",
+    "options": [
+      "Halètement",
+      "Harcèlement",
+      "Dilemme",
+      "Respiration"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le contexte suggère que la personne veut suspendre ou fixer des peintures. Le verbe \"accrocher\" est donc le plus approprié, car il signifie suspendre quelque chose, comme des tableaux ou des peintures."
+    "explanation": ""
   },
   {
     "question_no": 13,
     "group": 8,
     "passage": "",
-    "question": "Pour continuer à défendre l’environnement, votre _____ nous est indispensable : sachez que les manières d’agir sont multiples !",
-    "options": ["service", "sécurité", "support", "soutien"],
-    "right_option": "D",
+    "question": "Cet ______ est désertique.",
+    "options": [
+      "Îlot",
+      "Région",
+      "Île",
+      "Maison"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le mot \"soutien\" est celui qui convient le mieux dans ce contexte, car il évoque l'idée d'encouragement ou de soutien nécessaire pour défendre l'environnement. Le mot est répété, mais il s'agit du bon choix."
+    "explanation": ""
   },
   {
     "question_no": 14,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "L’échec est une étape (1) _______ dans la quête du succès. Il offre des leçons précieuses, forge la résilience et pousse à l’amélioration. Plutôt que de le craindre, il faut l’accepter comme un (2) _______ vers la croissance personnelle et professionnelle.",
     "question": "(1)",
-    "options": ["batterie", "bataille", "explosion", "tempête"],
-    "right_option": "D",
+    "options": [
+      "Interminable",
+      "Inévitable",
+      "Conviviale",
+      "Indolore"
+    ],
+    "right_option": null,
     "image_path": null,
     "explanation": ""
   },
   {
     "question_no": 15,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "L’échec est une étape (1) _______ dans la quête du succès. Il offre des leçons précieuses, forge la résilience et pousse à l’amélioration. Plutôt que de le craindre, il faut l’accepter comme un (2) _______ vers la croissance personnelle et professionnelle.",
     "question": "(2)",
-    "options": ["pratiques", "courbées", "réalisables", "ouvertes"],
-    "right_option": "D",
+    "options": [
+      "Ouverture",
+      "Succès",
+      "Couronne",
+      "Guide"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "- Tempête est le terme approprié pour décrire une forte perturbation climatique avec de la neige et des vents violents. - Ouvertes convient ici pour indiquer que les routes ne sont pas encore fermées malgré les conditions difficiles."
+    "explanation": ""
   },
   {
     "question_no": 16,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "(1) _____ se manifeste par une abondance de richesse et de luxe, reflétant un mode de vie fastueux. Elle se traduit par des résidences somptueuses, des vêtements de haute couture et des festins extravagants. Cependant, elle soulève aussi des questions sur l’inégalité et la durabilité de tels (2) ______ dans notre société.",
     "question": "(1)",
-    "options": ["remboursés", "ramassés", "regroupés", "collectés"],
-    "right_option": "D",
+    "options": [
+      "La magnanimité",
+      "La platitude",
+      "L'opulence",
+      "La causticité"
+    ],
+    "right_option": null,
     "image_path": null,
     "explanation": ""
   },
   {
     "question_no": 17,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "(1) _____ se manifeste par une abondance de richesse et de luxe, reflétant un mode de vie fastueux. Elle se traduit par des résidences somptueuses, des vêtements de haute couture et des festins extravagants. Cependant, elle soulève aussi des questions sur l’inégalité et la durabilité de tels (2) ______ dans notre société.",
     "question": "(2)",
-    "options": ["initiative", "origine", "alliance", "utilité"],
-    "right_option": "D",
+    "options": [
+      "Pratiques",
+      "Excès",
+      "Intempéries",
+      "Individus"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "- Collectés est le terme le plus approprié, car il fait référence à des fonds recueillis pour une cause. - Utilité publique est une expression courante qui désigne une organisation reconnue d’intérêt général, ce qui correspond bien à SOS SAHEL."
+    "explanation": ""
   },
   {
     "question_no": 18,
     "group": 11,
-    "passage": "Film 1\nJohn a quitté les services secrets et vit maintenant en Jamaïque. Mais sa tranquillité se termine quand un ami lui demande de l’aide : il faut sauver un scientifique qui vient d’être kidnappé. L’épreuve commence dans la jungle…\n\nFilm 2\nPaul et Virginie viennent d’avoir un petit garçon. Heureux à l’idée de découvrir leur nouvelle vie de jeunes parents, ils n’imaginaient pas du tout que leur bébé allait devenir le centre d’une forte lutte entre les grands-parents…\n\nFilm 3\nHatidze est une des dernières personnes à récolter le miel de manière traditionnelle, dans les montagnes désertiques de Macédoine. Elle prélève uniquement le miel nécessaire pour gagner modestement sa vie et essayer de préserver la biodiversité.\n\nFilm 4\nLéa, Marc, Karine et Francis sont deux couples d’amis de longue date. Mais l’harmonie disparaît le jour où Léa leur annonce qu’elle a écrit un roman, qui deviendra un best-seller. La jalousie commence à apparaître avec ses conséquences!",
-    "question": "Quel film propose de l’aventure ?",
-    "options": ["Film 1", "Film 2", "Film 3", "Film 4"],
-    "right_option": "A",
+    "passage": "Écrivain 1\nL’écrivaine Julie Martin, avec ses œuvres uniques et ses récits profonds, a su captiver un cercle restreint mais dévoué de lecteurs. Bien que ses livres ne soient pas massivement connus, ceux qui les découvrent sont souvent émerveillés par la finesse de son écriture et la richesse de ses histoires.\n\nÉcrivain 2\nL’écrivain Luc Dubois explore en profondeur les mystères de la philosophie dans ses ouvrages. À travers ses écrits, il interroge la nature de l’existence, la quête du sens et les dilemmes éthiques. Ses réflexions incitent les lecteurs à méditer sur leurs propres croyances et perspectives de vie.\n\nÉcrivain 3\nL’écrivain Thomas Léger explore avec enthousiasme le monde de l’écriture. Ses textes, pleins de fraîcheur et d’originalité, montrent une grande promesse. Bien que peu connu pour l’instant, il attire progressivement l’attention de lecteurs curieux et d’autres écrivains émergents.\n\nÉcrivain 4\nPatrick Dupont est l’objet d’une grande renommée grâce à ses romans captivants et profonds. Son talent littéraire lui a valu de nombreux éloges et distinctions. Ses œuvres, traduites en plusieurs langues, résonnent auprès d’un large public, confirmant son statut de figure emblématique dans le monde de la littérature.",
+    "question": "Quel auteur jouit d’une forte popularité ?",
+    "options": [
+      "Écrivain 1",
+      "Écrivain 2",
+      "Écrivain 3",
+      "Écrivain 4"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le Film 1 décrit une histoire avec du suspense, de l'action et de l'aventure, où le protagoniste se lance dans une mission pour sauver un scientifique, le tout dans un cadre exotique (la jungle). C'est donc le film qui propose le plus d'aventure."
+    "explanation": ""
   },
   {
     "question_no": 19,
     "group": 12,
-    "passage": "Activité 1\nLe GR 20 est réservé aux randonneurs confirmés. 200 km entre Calenzana et Conca. À voir en cours de route, outre les paysages de rêve : alpages, bergeries, mouflons, chèvres, cabris… Les excellents marcheurs peuvent le faire en 12 à 13 jours, mais prévoir 16 jours est plus raisonnable.\n\nActivité 2\nLa via ferrata, ce sont des itinéraires rocheux sécurisés par un câble et des marches métalliques. La première a été aménagée dans la vallée d’Asco. Longue de 350 m et réservée aux sportifs, on peut la faire seul ou avec un guide. Une bonne formule pour s’initier aux frissons de l’escalade.\n\nActivité 3\nBalisés en orange, les sentiers “Mare a Mare” permettent de traverser la Corse d’est en ouest, de “mer à mer”. Ce sont des itinéraires courts, de moyenne montagne, offrant un panorama sur les plus célèbres sommets de l’île. Les parcours sont tous très beaux, traversant des régions variées.\n\nActivité 4\nLa Corse compte près de 100 sites où le canyoning peut être pratiqué. Il s’agit de descendre un cours d’eau encaissé dans un canyon, à pied, à la nage, par des sauts en rappel, en glissant sur des “toboggans”. Un équipement spécial est nécessaire.",
-    "question": "Quelle activité semble la moins difficile physiquement ?",
-    "options": ["Activité 1", "Activité 2", "Activité 3", "Activité 4"],
-    "right_option": "C",
+    "passage": "Magasin 1\nDans cet espace commercial, les clients, malgré leur enthousiasme, patientent souvent longtemps avant de pouvoir finaliser leurs achats. Les produits populaires attirent une foule constante, créant une attente prolongée. L’expérience, bien que conviviale, est marquée par des moments d’impatience dus à la forte affluence et au processus d’achat.\n\nMagasin 2\nChez DUTEL, les clients entrent, sélectionnent leurs produits et sortent sans interruption. La technologie avancée enregistre automatiquement leurs achats, offrant une expérience fluide et sans files d’attente. Ce concept révolutionnaire transforme le shopping en un processus rapide et sans friction, redéfinissant ainsi les standards du commerce.\n\nMagasin 3\nChez nous, les clients passent par des caisses pour finaliser leurs achats. Avec plusieurs caissiers disponibles, le processus est fluide et efficace. Les caissiers, toujours courtois et rapides, assurent une expérience d’achat agréable, réduisant le temps d’attente pour chacun des clients.\n\nMagasin 4\nDans cet espace commercial traditionnel, les clients choisissent leurs produits et finalisent leurs achats de manière ordonnée. Grâce à des stratégies innovantes, le service est rapide et efficace. Les clients apprécient la simplicité et la familiarité du processus, qui allie modernité et efficacité pour une expérience d’achat agréable.",
+    "question": "Laquelle de ces enseignes est un magasin sans caisses ?",
+    "options": [
+      "Magasin 1",
+      "Magasin 2",
+      "Magasin 3",
+      "Magasin 4"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'Activité 3, les sentiers \"Mare a Mare\", sont décrits comme des itinéraires courts de moyenne montagne, offrant un panorama, mais sans mentionner de difficulté majeure. Les autres activités (GR 20, via ferrata, canyoning) impliquent des défis physiques plus importants, comme des randonnées longues et difficiles, de l'escalade ou des descentes en rappel."
+    "explanation": ""
   },
   {
     "question_no": 20,
     "group": 13,
-    "passage": "Séjour 1\nTroglodyte, rien que le terme est déjà un voyage. Habiter une maison creusée dans la roche est devenu un mode de vie insolite et minimaliste. Ainsi, plusieurs grottes de pêcheurs nichées dans les falaises ont été transformées en chambres d’hôtes. Un lieu idéal pour une introspection face à l’océan, bercé par le bruit des vagues et hypnotisé par le coucher du soleil.\n\nSéjour 2\nConfiné dans une bulle, vous devenez l’incarnation de l’expression “être dans sa bulle”. Expérience idéale pour les loups solitaires qui souhaitent se retirer du monde pour vivre en forêt, protégés par une bulle en plastique recyclé. En harmonie avec la nature, l’être humain se laisse envoûter par la faune et la flore qui l’entourent. Attention toutefois à ne pas déranger l’ours qui hiberne…\n\nSéjour 3\nLes chasseurs d’hôtels insolites vont se réjouir de cette nouvelle façon de vivre. Plongé dans le quotidien des Bourbons, le château de Fontainebleau ouvre grand ses portes. Les amoureux des forteresses seront les bienvenus pour y découvrir des façons de vivre ancestrales, des coutumes traditionnelles et des costumes d’époque. Un séjour dans ce lieu singulier saura vous satisfaire.\n\nSéjour 4\nAu revoir les vacances à la mer, les coups de soleil et le sable qui s’infiltre partout ! Et bonjour les températures extrêmes! Amateurs de sport d’hiver et aventuriers qui n’ont pas froid aux yeux, cette destination unique est faite pour vous ! Dormir dans un igloo est devenu LA tendance écologique du moment: seul ou en couple, vous pouvez être sûrs de respirer un bon bol d’air frais!",
-    "question": "Quelle offre de séjour correspond le mieux aux passionnés d’Histoire ?",
-    "options": ["Séjour 1", "Séjour 2", "Séjour 3", "Séjour 4"],
-    "right_option": "C",
+    "passage": "Poste 1\nNous recherchons un secrétaire pour notre équipe dynamique. Le candidat idéal doit posséder de solides connaissances en organisation, une maîtrise de la communication écrite et orale, et une grande capacité à gérer les tâches administratives. Une bonne connaissance des outils bureautiques est également essentielle pour ce poste.\n\nPoste 2\nNous recherchons un chirurgien pour rejoindre notre équipe médicale. Le candidat idéal doit montrer de bonnes connaissances théoriques et une formation pratique solide. Une bonne compréhension des procédures chirurgicales de base et une volonté d’apprendre et de développer ses compétences sont essentielles pour ce poste.\n\nPoste 3\nNous recherchons un développeur web compétent pour rejoindre notre équipe dynamique. Le candidat idéal doit posséder une expertise approfondie et avoir déjà fait ses preuves dans le domaine. Une familiarité approfondie avec le développement de sites complexes et une maîtrise des langages front-end et back-end sont nécessaires pour ce rôle.\n\nPoste 4\nNous recherchons un enseignant de chimie pour rejoindre notre équipe. Le candidat idéal doit posséder une solide compréhension des concepts chimiques, une passion pour l’enseignement et la capacité à rendre la matière captivante pour les élèves. Une aptitude à utiliser divers outils pédagogiques est essentielle.",
+    "question": "Quel poste requiert d’avoir une expérience professionnelle ?",
+    "options": [
+      "Poste 1",
+      "Poste 2",
+      "Poste 3",
+      "Poste 4"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le Séjour 3 dans le château de Fontainebleau est clairement destiné aux passionnés d'Histoire. Il permet de découvrir des coutumes traditionnelles, des costumes d'époque et l'histoire des Bourbons, ce qui correspond parfaitement aux intérêts des passionnés d'Histoire."
+    "explanation": ""
   },
   {
     "question_no": 21,
     "group": 14,
-    "passage": "Appel 1\nL’émission de radio Vacarme RTS prépare un sujet sur le syndrome d’aliénation parentale. Vous êtes parent à l’origine d’aliénation parentale, ou vous-même en êtes victime ? Vous avez un adolescent ou un enfant qui en souffre et qui est en capacité de raconter son ressenti au long du conflit parental ? Vos témoignages (anonymat garanti) seraient très précieux.\nPrenez contact avec nous!\n\nAppel 2\nLe secteur de la puériculture connaît des difficultés importantes de recrutement, qui se posent avec acuité à chaque rentrée : fermeture d’établissements d’accueil, réduction de la capacité d’accueil. Racontez-nous les conséquences de ces difficultés sur votre foyer ! Avez-vous dû revoir votre organisation ? Renoncer au mode de garde que vous vouliez privilégier ? Faire appel à la solidarité familiale ?\n\nAppel 3\nEnfant de médecin, vous l’êtes devenu à votre tour. Médecin, vous avez un enfant qui l’est aussi aujourd’hui. Quel regard portez-vous sur le métier ? Avec des difficultés multiples (déserts médicaux, manque de moyens, etc.), le secteur en devient moins attractif pour les nouvelles générations. Votre témoignage nous intéresse pour un prochain article sur ce sujet.\n\nAppel 4\nBabilou, Les Petits Chaperons Rouges… Les poids lourds du secteur très lucratif des crèches privées ne sont plus à présenter ; mais comment la nouvelle logique de rentabilité induite par l’ouverture au marché affecte-t-elle votre quotidien ? Que vos enfants soient accueillis en crèche privée, ou que vous évoluiez dans ce secteur, Mediacités vous donne la parole dans sa nouvelle enquête participative.",
-    "question": "À quel appel répondra un professionnel de la petite enfance souhaitant parler de sa pratique ?",
-    "options": ["Appel 1", "Appel 2", "Appel 3", "Appel 4"],
-    "right_option": "D",
+    "passage": "Spectacle 1\nAssistez à Nantes à un spectacle unique! Danseurs, musiciens et artistes de renommée se produiront pour une soirée inoubliable. Rendez-vous ce samedi à 20h au Théâtre Graslin pour une expérience artistique exceptionnelle. Ne manquez pas cet événement!\n\nSpectacle 2\nNe manquez pas un spectacle d’acrobates époustouflant au musée de Nantes! Venez admirer des performances aériennes incroyables et des numéros spectaculaires ce samedi à 18h. Une soirée magique vous attend, alliant art et prouesses physiques. Soyez de la partie !\n\nSpectacle 3\nVenez découvrir un opéra grandiose à Nantes ! Des voix envoûtantes et des musiciens talentueux vous transporteront dans une soirée magique. Rendez-vous ce samedi à 20h au Théâtre du Moule pour une performance inoubliable. Ne manquez pas cet événement exceptionnel!\n\nSpectacle 4\nVenez à Nantes découvrir un spectacle urbain exceptionnel, à ciel ouvert ! Acrobates, jongleurs et musiciens vous enchanteront avec leurs talents éblouissants. Rendez-vous samedi à 18h place Royale pour une soirée magique pleine de surprises et d’émotions. Ne manquez pas cet événement !",
+    "question": "Quel évènement est un spectacle de rue ?",
+    "options": [
+      "Spectacle 1",
+      "Spectacle 2",
+      "Spectacle 3",
+      "Spectacle 4"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L’Appel 4 s’adresse aux personnes concernées par le secteur des crèches privées, que ce soit en tant que parent ou en tant que professionnel évoluant dans ce secteur. Un professionnel de la petite enfance souhaitant parler de sa pratique dans ce contexte répondra donc à cet appel."
+    "explanation": ""
   },
   {
     "question_no": 22,
     "group": 15,
-    "passage": "<< Selon une étude publiée récemment, on enregistre à partir de 2022 un recul du transport fluvial. Celui-ci est très faible mais constant, malgré la croissance des dernières années. >>",
+    "passage": "L’activité touristique a stagné les trois premiers mois. Cependant, avec la mise en place de stratégies efficaces, les touristes affluent considérablement, faisant en sorte que depuis le mois de mai, l’activité reste en progression régulière.",
     "question": "Quel graphique correspond au commentaire suivant ?",
-    "options": ["Graphique 1", "Graphique 2", "Graphique 3", "Graphique 4"],
-    "right_option": "A",
-    "image_path": "assets/ce-111-1-min.png",
-    "explanation": "Le graphique 1 montre une croissance régulière du transport fluvial de 2018 à 2021, puis un léger recul constant à partir de 2022. Cela correspond bien au commentaire indiquant un recul faible mais continu après des années de croissance."
+    "options": [
+      "Graphique 1",
+      "Graphique 2",
+      "Graphique 3",
+      "Graphique 4"
+    ],
+    "right_option": null,
+    "image_path": "assets/ce-5-2-min.png",
+    "explanation": ""
   },
   {
     "question_no": 23,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Ce document est :",
+    "passage": "Nouveau Produit en Rayon!\n\nNous sommes ravis de vous annoncer l’arrivée de notre tout nouveau produit: BioDélice!\n\nBioDélice est une gamme de jus de fruits 100% bio, sans additifs ni conservateurs, destinée à ravir tous les palais, des plus jeunes aux plus âgés. Disponible en plusieurs saveurs délicieuses: orange, pomme, mangue, fraise, et bien plus encore !\n\nCes jus de fruits, sains et naturels, sont parfaits pour commencer la journée ou pour une pause rafraîchissante à tout moment. Venez découvrir BioDélice dans notre supermarché et profitez de notre offre de lancement exclusive !\n\nRejoignez-nous dès aujourd’hui pour goûter à cette explosion de saveurs authentiques et naturelles. Nous vous attendons à La Louve pour un moment de pure gourmandise!",
+    "question": "Ces boissons sont réservées…",
     "options": [
-      "une invitation à un débat d'idées.",
-      "une publicité pour une école.",
-      "une présentation d'établissement.",
-      "un compte rendu de réunion."
+      "Aux enfants",
+      "Aux adultes",
+      "Aux personnes âgées",
+      "À tout le monde"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte présente les Beaux-Arts de Paris, leur mission, leur organisation, et leur ambition. Il s'agit donc d'une présentation d'établissement, et non d'une publicité ou d'un débat."
+    "explanation": ""
   },
   {
     "question_no": 24,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Dans ce document, il est question de :",
+    "passage": "Nouveau Produit en Rayon!\n\nNous sommes ravis de vous annoncer l’arrivée de notre tout nouveau produit: BioDélice!\n\nBioDélice est une gamme de jus de fruits 100% bio, sans additifs ni conservateurs, destinée à ravir tous les palais, des plus jeunes aux plus âgés. Disponible en plusieurs saveurs délicieuses: orange, pomme, mangue, fraise, et bien plus encore !\n\nCes jus de fruits, sains et naturels, sont parfaits pour commencer la journée ou pour une pause rafraîchissante à tout moment. Venez découvrir BioDélice dans notre supermarché et profitez de notre offre de lancement exclusive !\n\nRejoignez-nous dès aujourd’hui pour goûter à cette explosion de saveurs authentiques et naturelles. Nous vous attendons à La Louve pour un moment de pure gourmandise!",
+    "question": "Quelle affirmation est correcte ?",
     "options": [
-      "un lieu de rencontre d'artistes.",
-      "d'un lieu de formation.",
-      "d'une salle d'exposition.",
-      "d'un musée prestigieux."
+      "Les produits BioDélice connaissent un franc succès auprès des consommateurs.",
+      "La nouvelle boisson est légèrement alcoolisée.",
+      "Les produits BioDélice se vendent à vil prix.",
+      "Une séance de dégustation est programmée."
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte décrit principalement les Beaux-Arts de Paris comme un lieu d'enseignement des arts plastiques, où les étudiants suivent leur formation pour devenir des artistes. Il est donc question d'un lieu de formation."
+    "explanation": ""
   },
   {
     "question_no": 25,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Ce document annonce :",
+    "passage": "Clause de Confidentialité\n\nLe Prestataire s’engage à maintenir strictement confidentielles toutes les informations fournies par le Client, qu’elles soient orales ou écrites, et à ne les utiliser qu’aux fins de l’exécution du présent Contrat. Cette obligation de confidentialité demeure en vigueur pendant toute la durée du Contrat et pour une période de deux (2) ans après sa résiliation. Le Prestataire s’engage à prendre toutes les mesures nécessaires pour protéger les informations confidentielles contre toute divulgation non autorisée. En cas de violation de cette clause, le Prestataire reconnaît que le Client pourra réclamer des dommages-intérêts pour remédier à toute atteinte à la confidentialité de ses informations.",
+    "question": "Cette clause concerne…",
     "options": [
-      "l'ouverture de bureaux annexes.",
-      "une restructuration de l'entreprise.",
-      "la revalorisation du taux des prestations.",
-      "une hausse salariale selon l'ancienneté."
+      "La résiliation du contrat.",
+      "Les mesures injonctives.",
+      "La sécurité des données.",
+      "L'exécution du contrat."
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte parle d'une augmentation des honoraires d'expertises et des forfaits liés aux déplacements extramuros, ce qui concerne directement la revalorisation des prestations fournies par l'entreprise."
+    "explanation": ""
   },
   {
     "question_no": 26,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Cette décision :",
+    "passage": "Clause de Confidentialité\n\nLe Prestataire s’engage à maintenir strictement confidentielles toutes les informations fournies par le Client, qu’elles soient orales ou écrites, et à ne les utiliser qu’aux fins de l’exécution du présent Contrat. Cette obligation de confidentialité demeure en vigueur pendant toute la durée du Contrat et pour une période de deux (2) ans après sa résiliation. Le Prestataire s’engage à prendre toutes les mesures nécessaires pour protéger les informations confidentielles contre toute divulgation non autorisée. En cas de violation de cette clause, le Prestataire reconnaît que le Client pourra réclamer des dommages-intérêts pour remédier à toute atteinte à la confidentialité de ses informations.",
+    "question": "En cas de non-respect de cette clause…",
     "options": [
-      "s'inscrit dans la redistribution des bénéfices.",
-      "fait suite à une revendication du personnel.",
-      "répond à une cohérence salariale de l'entreprise.",
-      "souscrit à la nouvelle législation en vigueur."
+      "Le Client pourra suspendre le contrat.",
+      "Le Client pourra revendiquer un dédommagement.",
+      "Le Client pourra revendiquer une réduction des coûts.",
+      "Le Client pourra résilier le contrat sans appel."
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte évoque une augmentation progressive et régulière de la rémunération des agents, mais il ne mentionne pas spécifiquement une revendication du personnel ni une nouvelle législation. La décision semble plutôt s'inscrire dans une logique interne de l'entreprise, probablement pour répondre à une cohérence salariale, en garantissant des augmentations de manière organisée."
+    "explanation": ""
   },
   {
     "question_no": 27,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "Cette entreprise propose :",
+    "passage": "L’immatriculation consulaire\n\nL’immatriculation consulaire est une formalité administrative qui concerne les Algériens résidant régulièrement dans un pays étranger. Elle constitue un préalable pour bénéficier de la protection consulaire et des différentes prestations fournies par les représentations consulaires.\n\nLa carte d’immatriculation consulaire est délivrée gratuitement. Elle est valable cinq (5) ans; son renouvellement doit être demandé. Les personnes souhaitant se faire immatriculer pour la première fois, doivent obligatoirement se présenter au siège du consulat couvrant leur lieu de résidence.\n\nLes enfants mineurs (moins de 19 ans) sont immatriculés à la demande du titulaire de l’autorité parentale. En cas de divorce, il est obligatoire de présenter le jugement de divorce.\n\nAprès l’immatriculation, tout changement de situation (état civil, adresse, profession, etc.) doit être signalé au consulat en fournissant les justificatifs correspondants.\n\nUn droit de timbre de deux (02) euros est requis pour l’établissement d’une attestation d’immatriculation.",
+    "question": "L’immatriculation consulaire…",
     "options": [
-      "de participer au développement durable de Madagascar.",
-      "de contribuer à l'industrialisation des fermes à Madagascar.",
-      "d'agir pour le repeuplement de zébus sur l'île.",
-      "de vivre une expérience unique auprès d'agriculteurs malgaches."
+      "Peut être utilisée pour régler les dépenses engagées par le citoyen.",
+      "Permet de se faire délivrer son passeport dans la minute.",
+      "Disculpe l'auteur d'un délit en terre étrangère.",
+      "Garantit un accès aux droits et aux services consulaires."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte met en avant un modèle de financement durable et solidaire pour aider les paysans de Madagascar tout en respectant l'agriculture biologique et l'élevage traditionnel. Cela correspond à l'idée de participer au développement durable de Madagascar."
+    "explanation": ""
   },
   {
     "question_no": 28,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "L’investisseur pourra :",
+    "passage": "L’immatriculation consulaire\n\nL’immatriculation consulaire est une formalité administrative qui concerne les Algériens résidant régulièrement dans un pays étranger. Elle constitue un préalable pour bénéficier de la protection consulaire et des différentes prestations fournies par les représentations consulaires.\n\nLa carte d’immatriculation consulaire est délivrée gratuitement. Elle est valable cinq (5) ans; son renouvellement doit être demandé. Les personnes souhaitant se faire immatriculer pour la première fois, doivent obligatoirement se présenter au siège du consulat couvrant leur lieu de résidence.\n\nLes enfants mineurs (moins de 19 ans) sont immatriculés à la demande du titulaire de l’autorité parentale. En cas de divorce, il est obligatoire de présenter le jugement de divorce.\n\nAprès l’immatriculation, tout changement de situation (état civil, adresse, profession, etc.) doit être signalé au consulat en fournissant les justificatifs correspondants.\n\nUn droit de timbre de deux (02) euros est requis pour l’établissement d’une attestation d’immatriculation.",
+    "question": "Quelle affirmation est correcte ?",
     "options": [
-      "remplacer l'agriculteur sur certaines tâches à la ferme.",
-      "posséder une parcelle de terre agraire à Madagascar.",
-      "créer un lien unique avec le fermier et l'animal.",
-      "acquérir un savoir-faire dans le domaine agricole."
+      "La carte consulaire est renouvelée automatiquement tous les cinq ans.",
+      "L'immatriculation consulaire est exigée uniquement pour les adultes.",
+      "La carte consulaire est exigée aux personnes résidant en terre étrangère.",
+      "L'établissement d'une carte consulaire est exempt de frais."
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte mentionne spécifiquement que l'investisseur est en relation avec l'utilisateur des fonds placés, et il est encouragé à rendre visite au Zébu et au fermier, suggérant ainsi qu'il pourra créer un lien unique avec le fermier et l'animal, plutôt que de prendre part directement aux tâches agricoles."
+    "explanation": ""
   },
   {
     "question_no": 29,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "L’objectif principal du texte est :",
+    "passage": "Le présent rapport vise à faire état des implications et des défis liés à la mise en œuvre de la nouvelle loi sur la protection des données personnelles.\n\nCette législation, entrée en vigueur récemment, exige que les entreprises obtiennent un consentement explicite avant de collecter et traiter les données des utilisateurs. Elle impose également des mesures de sécurité strictes pour protéger ces informations contre les violations. Le rapport analyse l’impact potentiel sur les opérations des entreprises, les coûts associés à la mise en conformité, et les avantages pour les consommateurs en termes de confidentialité accrue. Il examine également les sanctions prévues pour non-conformité et propose des recommandations pour faciliter l’adoption de la loi.",
+    "question": "Les auteurs de ce rapport…",
     "options": [
-      "de présenter les responsabilités pénales du consommateur.",
-      "de préciser les coûts des différents types de contestations.",
-      "de proposer aux professionnels des moyens pour éviter les litiges.",
-      "de présenter le processus de conciliation en cas de contentieux."
+      "Présentent les bénéfices financiers de la nouvelle loi.",
+      "Décrivent l'historique de la nouvelle loi.",
+      "Comparent différentes lois sur la protection des données.",
+      "Examinent les contours de l'implémentation de la nouvelle loi."
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte se concentre sur la médiation entre consommateurs et professionnels, et comment celle-ci peut être utilisée pour résoudre des litiges de manière amiable. Il explique le rôle du médiateur, les démarches à suivre et les conditions de la médiation. L'objectif est donc de présenter le processus de conciliation en cas de contentieux."
+    "explanation": ""
   },
   {
     "question_no": 30,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "Il appartient au professionnel de :",
+    "passage": "Le présent rapport vise à faire état des implications et des défis liés à la mise en œuvre de la nouvelle loi sur la protection des données personnelles.\n\nCette législation, entrée en vigueur récemment, exige que les entreprises obtiennent un consentement explicite avant de collecter et traiter les données des utilisateurs. Elle impose également des mesures de sécurité strictes pour protéger ces informations contre les violations. Le rapport analyse l’impact potentiel sur les opérations des entreprises, les coûts associés à la mise en conformité, et les avantages pour les consommateurs en termes de confidentialité accrue. Il examine également les sanctions prévues pour non-conformité et propose des recommandations pour faciliter l’adoption de la loi.",
+    "question": "Pour faciliter l’adoption de ladite loi, le rapport suggère…",
     "options": [
-      "appeler l'organisme de médiation approprié.",
-      "assumer la charge financière liée à la médiation.",
-      "appuyer financièrement le consommateur.",
-      "initier la démarche de médiation avant le consommateur."
+      "Des incitations financières pour les entreprises.",
+      "Des orientations spécifiques.",
+      "Des coûts associés à la mise en conformité.",
+      "Une extension des délais de mise en conformité."
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte précise que le professionnel doit assumer la charge financière liée à la médiation, puisque les coûts de la médiation sont supportés par lui, tandis que la médiation elle-même est gratuite pour le consommateur."
+    "explanation": ""
   },
   {
     "question_no": 31,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Par ce communiqué, l’entreprise s’attache à :",
+    "passage": "Une idée différente de supermarché\n\nLa Louve est un supermarché coopératif et participatif à Paris, où les membres travaillent trois heures par mois pour bénéficier de produits de qualité à prix réduits. Ce modèle unique en France s’inspire de la Park Slope Food Coop à Brooklyn, fondée en 1973. En France, cette initiative est bien appréciée, attirant des milliers de membres séduits par l’idée de participer activement à un projet collectif et responsable. La Louve privilégie les producteurs locaux et les circuits courts.\n\nLa Louve offre également un espace de rencontre et de socialisation pour ses membres. En travaillant ensemble, ces derniers développent des liens sociaux et créent une communauté soudée autour de valeurs communes. Cet aspect communautaire est souvent cité comme un des principaux atouts du supermarché, contribuant à renforcer le tissu social local.\n\nSon succès a inspiré d’autres projets similaires dans plusieurs villes françaises, témoignant de l’intérêt croissant pour des modes de consommation plus éthiques et solidaires.",
+    "question": "Ce supermarché coopératif et participatif…",
     "options": [
-      "montrer son engagement face au changement climatique.",
-      "encourager les initiatives en faveur des populations à risque.",
-      "informer de potentielles organisations partenaires.",
-      "trouver des investisseurs pour son nouveau fonds."
+      "Propose des produits à vil prix à tous les citoyens.",
+      "Soutient une agriculture durable.",
+      "Tient ses origines d'une initiative développée en France.",
+      "Va bientôt voir le jour à Paris."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte présente un fonds spécifiquement destiné à aider les populations vulnérables face aux catastrophes climatiques, et souligne les objectifs de prévention et de reconstruction. Cela démontre un engagement concret de l'entreprise face aux enjeux du changement climatique."
+    "explanation": ""
   },
   {
     "question_no": 32,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Ce fonds servira à :",
+    "passage": "Une idée différente de supermarché\n\nLa Louve est un supermarché coopératif et participatif à Paris, où les membres travaillent trois heures par mois pour bénéficier de produits de qualité à prix réduits. Ce modèle unique en France s’inspire de la Park Slope Food Coop à Brooklyn, fondée en 1973. En France, cette initiative est bien appréciée, attirant des milliers de membres séduits par l’idée de participer activement à un projet collectif et responsable. La Louve privilégie les producteurs locaux et les circuits courts.\n\nLa Louve offre également un espace de rencontre et de socialisation pour ses membres. En travaillant ensemble, ces derniers développent des liens sociaux et créent une communauté soudée autour de valeurs communes. Cet aspect communautaire est souvent cité comme un des principaux atouts du supermarché, contribuant à renforcer le tissu social local.\n\nSon succès a inspiré d’autres projets similaires dans plusieurs villes françaises, témoignant de l’intérêt croissant pour des modes de consommation plus éthiques et solidaires.",
+    "question": "Cette initiative…",
     "options": [
-      "renforcer la résistance des populations fragiles.",
-      "optimiser les projets environnementaux existants.",
-      "stimuler la croissance économique locale.",
-      "encourager l'innovation technologique."
+      "A du mal à conquérir les autres agglomérations.",
+      "Rencontre un franc succès dans la capitale.",
+      "Est encore à sa phase expérimentale.",
+      "Suscite peu d'intérêt auprès du public."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte met en avant que le fonds a pour objectif de renforcer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, ce qui correspond à l'idée de renforcer la résistance des populations fragiles."
+    "explanation": ""
   },
   {
     "question_no": 33,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "D’après l’article, les abeilles :",
+    "passage": "Haïti: Entre Crises et Résilience\n\nLes évolutions socio-politiques en Haïti au cours des dernières décennies ont été marquées par des périodes de crise et des tentatives de réforme. Depuis la chute de la dictature de Jean-Claude Duvalier en 1986, le pays a traversé de nombreuses transitions politiques, cherchant à établir une démocratie stable.\n\nLes élections de 1990, qui ont conduit à la présidence de Jean-Bertrand Aristide, ont symbolisé un tournant important vers la démocratie. Cependant, des coups d’État et des mouvements populaires ont souvent perturbé le processus démocratique. La récurrence desdits évènements a empêché la mise en œuvre de réformes économiques et sociales nécessaires pour améliorer les conditions de vie des Haïtiens.\n\nEn parallèle, la société haïtienne a montré une résilience remarquable face à des défis colossaux. Le tremblement de terre dévastateur de 2010 a exacerbé les problèmes existants, mais il a également mis en lumière la solidarité nationale et internationale. Des efforts de reconstruction ont été entrepris, bien que souvent ralentis par la corruption et la mauvaise gestion.\n\nLes récentes manifestations contre la corruption et la mauvaise gouvernance témoignent de l’engagement des citoyens pour un changement profond. La jeunesse, en particulier, joue un rôle crucial dans ces mouvements, réclamant plus de transparence et d’opportunités.\n\nMalgré les obstacles, des progrès sont notables dans certains domaines. Des initiatives locales et internationales visent à renforcer les institutions démocratiques, à promouvoir les droits humains et à stimuler le développement économique. Le chemin vers la stabilité et la prospérité reste ardu, mais la détermination du peuple haïtien demeure un atout précieux.",
+    "question": "Le développement économique et social du pays reste entravé par…",
     "options": [
-      "représentent un défi écologique pour les villes.",
-      "apprécient la biodiversité des villes.",
-      "se dirigent davantage vers les milieux urbains.",
-      "produisent moins de miel dans les zones agricoles."
+      "L'instabilité politique persistante.",
+      "Des élections en mal de démocratie.",
+      "La corruption et la mauvaise gestion.",
+      "L'incompétence des décideurs politiques."
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article met en évidence que les abeilles bénéficient de la diversité des espèces végétales présentes dans les villes, ce qui leur permet de butiner plus longtemps en raison des températures légèrement plus élevées. Cependant, l'augmentation rapide du nombre de ruches entraîne une diminution de la production de miel, car les ressources florales deviennent limitées. Ainsi, les abeilles apprécient la biodiversité des villes qui leur offre une grande variété de sources alimentaires."
+    "explanation": ""
   },
   {
     "question_no": 34,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "La mise en place des ruches en ville :",
+    "passage": "Haïti: Entre Crises et Résilience\n\nLes évolutions socio-politiques en Haïti au cours des dernières décennies ont été marquées par des périodes de crise et des tentatives de réforme. Depuis la chute de la dictature de Jean-Claude Duvalier en 1986, le pays a traversé de nombreuses transitions politiques, cherchant à établir une démocratie stable.\n\nLes élections de 1990, qui ont conduit à la présidence de Jean-Bertrand Aristide, ont symbolisé un tournant important vers la démocratie. Cependant, des coups d’État et des mouvements populaires ont souvent perturbé le processus démocratique. La récurrence desdits évènements a empêché la mise en œuvre de réformes économiques et sociales nécessaires pour améliorer les conditions de vie des Haïtiens.\n\nEn parallèle, la société haïtienne a montré une résilience remarquable face à des défis colossaux. Le tremblement de terre dévastateur de 2010 a exacerbé les problèmes existants, mais il a également mis en lumière la solidarité nationale et internationale. Des efforts de reconstruction ont été entrepris, bien que souvent ralentis par la corruption et la mauvaise gestion.\n\nLes récentes manifestations contre la corruption et la mauvaise gouvernance témoignent de l’engagement des citoyens pour un changement profond. La jeunesse, en particulier, joue un rôle crucial dans ces mouvements, réclamant plus de transparence et d’opportunités.\n\nMalgré les obstacles, des progrès sont notables dans certains domaines. Des initiatives locales et internationales visent à renforcer les institutions démocratiques, à promouvoir les droits humains et à stimuler le développement économique. Le chemin vers la stabilité et la prospérité reste ardu, mais la détermination du peuple haïtien demeure un atout précieux.",
+    "question": "Les évolutions socio-politiques en Haïti reflètent…",
     "options": [
-      "présente des avantages limités dans le temps.",
-      "est inefficace pour protéger l'écosystème.",
-      "a un effet dévastateur sur les campagnes.",
-      "permet à de nouvelles espèces végétales de prospérer."
+      "La stabilité des institutions démocratiques.",
+      "La transparence dans la gestion des biens publics.",
+      "Une quête continue de démocratie et de justice sociale.",
+      "Le désengagement des citoyens pour un changement profond."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article souligne que bien que les villes offrent des avantages initiaux pour les abeilles, comme une meilleure biodiversité et des températures plus élevées, ces avantages diminuent au fil du temps. Cela est dû à l'augmentation du nombre de ruches, qui entraîne une saturation des ressources florales disponibles. Ainsi, l'impact positif des villes sur la production de miel diminue au fil des années, ce qui rend les avantages limités dans le temps."
+    "explanation": ""
   },
   {
     "question_no": 35,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "L’auteur de cet article s’inquiète :",
+    "passage": "Le revenu universel\n\nLes partisans du revenu universel, tels que Gaspard Koenig, estiment qu’il pourrait garantir une sécurité financière de base à tous les citoyens, indépendamment de leur situation professionnelle. Cette sécurité permettrait de réduire la pauvreté, d’atténuer les inégalités sociales et d’offrir à chacun la possibilité de se consacrer à des activités épanouissantes, sans la pression constante de la survie économique. De plus, dans un monde où l’automatisation et l’intelligence artificielle menacent de nombreux emplois traditionnels, un revenu universel pourrait fournir un filet de sécurité essentiel. Il simplifierait également les systèmes de protection sociale en fusionnant diverses aides en une seule allocation, réduisant ainsi la bureaucratie et les coûts administratifs.\n\nCependant, les opposants soulèvent plusieurs objections. Le coût d’un revenu universel est souvent jugé prohibitif, nécessitant des ressources financières considérables qui pourraient entraîner une hausse des impôts ou un endettement accru. Il y a également des préoccupations concernant l’incitation au travail : certains craignent que recevoir un revenu sans condition puisse dissuader les individus de chercher un emploi, affectant ainsi la productivité globale. De plus, le revenu universel ne résout pas nécessairement les problèmes structurels de l’économie, tels que le manque d’emplois de qualité ou les inégalités d’accès à l’éducation et aux soins de santé.\n\nEn conclusion, le débat sur le revenu universel, tel que proposé par Gaspard Koenig, repose sur un équilibre entre les avantages potentiels de sécurité et de simplification, et les défis financiers et sociétaux qu’il présente.",
+    "question": "Selon Gaspard Koenig, le revenu universel :",
     "options": [
-      "de l'avenir du ministère en charge de l'environnement.",
-      "de la perte d'identité des populations du désert.",
-      "des pollutions créées par les chasseurs de météorites.",
-      "de la récupération du patrimoine par des groupes privés."
+      "Représente une solution innovante aux défis économiques et sociaux modernes.",
+      "Permet de se consacrer à des activités épanouissantes sans pression économique.",
+      "Garantit une augmentation des impôts pour tous les citoyens.",
+      "Résout tous les problèmes structurels de l'économie."
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article met en lumière le risque que les spécimens de météorites marocaines, non protégées par des lois, se retrouvent dans des collections privées au lieu d'être conservés et préservés dans une structure dédiée, comme un musée national. L'auteur s'inquiète de cette récupération par des acteurs privés, comme la Meteorical Society, qui organise même des congrès pour attirer l'attention sur ce patrimoine."
+    "explanation": ""
   },
   {
     "question_no": 36,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "D’après ce texte, la présence de météorites a généré :",
+    "passage": "Le revenu universel\n\nLes partisans du revenu universel, tels que Gaspard Koenig, estiment qu’il pourrait garantir une sécurité financière de base à tous les citoyens, indépendamment de leur situation professionnelle. Cette sécurité permettrait de réduire la pauvreté, d’atténuer les inégalités sociales et d’offrir à chacun la possibilité de se consacrer à des activités épanouissantes, sans la pression constante de la survie économique. De plus, dans un monde où l’automatisation et l’intelligence artificielle menacent de nombreux emplois traditionnels, un revenu universel pourrait fournir un filet de sécurité essentiel. Il simplifierait également les systèmes de protection sociale en fusionnant diverses aides en une seule allocation, réduisant ainsi la bureaucratie et les coûts administratifs.\n\nCependant, les opposants soulèvent plusieurs objections. Le coût d’un revenu universel est souvent jugé prohibitif, nécessitant des ressources financières considérables qui pourraient entraîner une hausse des impôts ou un endettement accru. Il y a également des préoccupations concernant l’incitation au travail : certains craignent que recevoir un revenu sans condition puisse dissuader les individus de chercher un emploi, affectant ainsi la productivité globale. De plus, le revenu universel ne résout pas nécessairement les problèmes structurels de l’économie, tels que le manque d’emplois de qualité ou les inégalités d’accès à l’éducation et aux soins de santé.\n\nEn conclusion, le débat sur le revenu universel, tel que proposé par Gaspard Koenig, repose sur un équilibre entre les avantages potentiels de sécurité et de simplification, et les défis financiers et sociétaux qu’il présente.",
+    "question": "Concernant ses effets sur le marché du travail, le revenu universel…",
     "options": [
-      "une nouvelle activité pour les populations du désert.",
-      "une mobilisation sans précédent des universitaires.",
-      "une exposition à destination du grand public.",
-      "un trafic important avec les pays voisins."
+      "Encourage la création d'emplois de qualité.",
+      "Il assure un accès égal à l'éducation et aux soins de santé.",
+      "Accroît la motivation des individus à trouver du travail.",
+      "Pourrait freiner la quête des opportunités professionnelles."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte explique que de nombreux nomades du désert ont fait de la chasse aux météorites leur métier, créant ainsi une nouvelle activité pour les populations locales. Cette activité est rendue possible grâce à la vente de météorites, un commerce qui s'est développé autour de ces fragments célestes."
+    "explanation": ""
   },
   {
     "question_no": 37,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, l’être humain :",
+    "passage": "Le livre de Laurence Dardenne aborde une thématique novatrice et engageante en matière de santé mentale. Dardenne explore l’idée d’une psychiatrie qui repose sur la collaboration active entre les professionnels de la santé mentale, les patients, et la communauté, visant à déstigmatiser les troubles mentaux et à promouvoir une prise en charge plus humaine et inclusive.\n\nDans cet ouvrage, l’auteure propose des réflexions profondes sur les limites du système psychiatrique traditionnel, souvent critiqué pour son approche paternaliste et déconnectée des réalités quotidiennes des patients. Elle plaide pour une psychiatrie qui valorise l’expérience des personnes concernées, en intégrant leurs points de vue et en les impliquant dans les décisions concernant leur traitement.\n\nLaurence Dardenne met en avant des exemples concrets et des initiatives réussies via son approche concernant une meilleure prise en charge des maladies mentales, illustrant comment cette dernière peut améliorer la qualité des soins et le bien-être des patients. Elle souligne également l’importance de l’éducation et de la sensibilisation du public pour changer les perceptions et réduire la stigmatisation associée aux troubles mentaux.\n\nEn somme, ce document est un appel à repenser notre approche de la santé mentale, en construisant un système plus participatif, inclusif et respectueux des droits des personnes souffrant de troubles psychiques. Un ouvrage essentiel pour tous ceux qui s’intéressent à l’avenir de la psychiatrie.",
+    "question": "Quelle est la thématique principale abordée par Laurence Dardenne dans son livre ?",
     "options": [
-      "doit trouver son harmonie spirituelle.",
-      "se complait dans son anxiété.",
-      "s'épanouit dans ses relations humaines.",
-      "doit intérioriser ses tourments."
+      "Les avancées médicales en psychiatrie.",
+      "La critique des médicaments psychotropes.",
+      "La psychiatrie participative et citoyenne.",
+      "L'importance du système psychiatrique traditionnel."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte évoque l'idée que vivre, c'est être fondamentalement intranquille. Cependant, l'être humain doit trouver un équilibre en agissant avec empathie et vigilance, et en luttant contre ses représentations anxieuses. Ce processus implique de trouver une forme d'harmonie dans la gestion de son intranquillité. Ce n'est donc pas l'intériorisation passive ou le repli sur soi qui est encouragé, mais plutôt une quête active d'équilibre et de sérénité."
+    "explanation": ""
   },
   {
     "question_no": 38,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, la technologie :",
+    "passage": "Le livre de Laurence Dardenne aborde une thématique novatrice et engageante en matière de santé mentale. Dardenne explore l’idée d’une psychiatrie qui repose sur la collaboration active entre les professionnels de la santé mentale, les patients, et la communauté, visant à déstigmatiser les troubles mentaux et à promouvoir une prise en charge plus humaine et inclusive.\n\nDans cet ouvrage, l’auteure propose des réflexions profondes sur les limites du système psychiatrique traditionnel, souvent critiqué pour son approche paternaliste et déconnectée des réalités quotidiennes des patients. Elle plaide pour une psychiatrie qui valorise l’expérience des personnes concernées, en intégrant leurs points de vue et en les impliquant dans les décisions concernant leur traitement.\n\nLaurence Dardenne met en avant des exemples concrets et des initiatives réussies via son approche concernant une meilleure prise en charge des maladies mentales, illustrant comment cette dernière peut améliorer la qualité des soins et le bien-être des patients. Elle souligne également l’importance de l’éducation et de la sensibilisation du public pour changer les perceptions et réduire la stigmatisation associée aux troubles mentaux.\n\nEn somme, ce document est un appel à repenser notre approche de la santé mentale, en construisant un système plus participatif, inclusif et respectueux des droits des personnes souffrant de troubles psychiques. Un ouvrage essentiel pour tous ceux qui s’intéressent à l’avenir de la psychiatrie.",
+    "question": "Comment Laurence Dardenne propose-t-elle d’améliorer la qualité des soins en psychiatrie ?",
     "options": [
-      "favorise la paix intérieure.",
-      "représente un moyen de méditation.",
-      "incarne une extension de l'Homme.",
-      "symbolise un retour à la réalité."
+      "En impliquant activement les citoyens et les malades dans le processus de soin.",
+      "En augmentant le nombre de médicaments disponibles.",
+      "En fermant les établissements psychiatriques traditionnels.",
+      "En adoptant une approche plus autoritaire des soins."
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte mentionne que les \"arpenteurs de déserts\" restent connectés à l'actualité via Internet, ce qui indique que la technologie, loin d'être un facteur de paix intérieure, fait plutôt partie d'un projet de vie autonome où les individus utilisent des outils technologiques pour rester informés, même dans des lieux isolés. Cela suggère que la technologie est perçue comme une extension de l'Homme, permettant une connexion au monde extérieur, même en dehors des sociétés traditionnelles."
+    "explanation": ""
   },
   {
     "question_no": 39,
     "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "Pour endiguer la crise écologique, il faut que :",
+    "passage": "Nos façons de consommer\n\nLes marques auxquelles s’adressent les individus revendiquent des principes (et des convictions) qui articulent des prises de position et des actes quant aux produits proposés, aux processus de production, aux conditions de travail, aux discours publicitaires, etc. Parler d’éthique, c’est partir du principe que les individus qui achètent des biens ne recherchent pas qu’une valeur d’utilité; ils choisissent et décident en fonction de ce qu’ils estiment bon.\n\nIl est donc possible d’identifier des stratégies consommatoires, auxquelles les individus peuvent avoir recours. Pour ce faire, il faut d’abord partir de ce premier moteur qu’est le bonheur. En essayant de lier des valeurs instrumentales (la facilité d’usage, la rapidité, le prix bas) à des valeurs terminales (l’amour, l’être ensemble, le bonheur), le marketing a créé une sorte d’échelle des êtres qui est orientée vers une quête du bonheur. Il est possible de mettre en évidence plusieurs stratégies consommatoires dont l’une consiste à favoriser des désirs qui sont à la fois naturels et nécessaires. Il s’agit tout bonnement d’une stratégie consommatoire qui peut s’apparenter à une éthique de la sobriété. Cette logique critique des plaisirs correspond à l’idée épicurienne selon laquelle il convient de s’écarter des biens qui pourraient tôt ou tard susciter de la douleur ou de la servitude. Cette représentation de la consommation prône l’absence de fioritures et de futilités. On valorise le bien dans sa dimension fonctionnelle, en le réduisant souvent à sa valeur d’usage.",
+    "question": "Selon le texte, quel principe fondamental sous-tend l’approche de consommation des individus ?",
     "options": [
-      "la mise en retrait de l'homme est indispensable.",
-      "l'usage des nouvelles technologies est un leurre.",
-      "les pratiques numériques sont à reconsidérer.",
-      "l'intelligence artificielle est porteuse d'espoir."
+      "La rapidité",
+      "La félicité",
+      "Le prix bas",
+      "La facilité d'usage"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte critique la dépendance excessive aux technologies numériques pour résoudre la crise climatique, en mettant en évidence l'impact environnemental généré par la prolifération des objets connectés et des systèmes autonomes. L’auteur souligne que se concentrer uniquement sur les comportements numériques des humains pourrait être vain, suggérant ainsi qu'une reconsidération des pratiques numériques est nécessaire pour véritablement maîtriser l'impact écologique."
+    "explanation": ""
   },
   {
     "question_no": 40,
     "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "L’auteur dénonce :",
+    "passage": "Nos façons de consommer\n\nLes marques auxquelles s’adressent les individus revendiquent des principes (et des convictions) qui articulent des prises de position et des actes quant aux produits proposés, aux processus de production, aux conditions de travail, aux discours publicitaires, etc. Parler d’éthique, c’est partir du principe que les individus qui achètent des biens ne recherchent pas qu’une valeur d’utilité; ils choisissent et décident en fonction de ce qu’ils estiment bon.\n\nIl est donc possible d’identifier des stratégies consommatoires, auxquelles les individus peuvent avoir recours. Pour ce faire, il faut d’abord partir de ce premier moteur qu’est le bonheur. En essayant de lier des valeurs instrumentales (la facilité d’usage, la rapidité, le prix bas) à des valeurs terminales (l’amour, l’être ensemble, le bonheur), le marketing a créé une sorte d’échelle des êtres qui est orientée vers une quête du bonheur. Il est possible de mettre en évidence plusieurs stratégies consommatoires dont l’une consiste à favoriser des désirs qui sont à la fois naturels et nécessaires. Il s’agit tout bonnement d’une stratégie consommatoire qui peut s’apparenter à une éthique de la sobriété. Cette logique critique des plaisirs correspond à l’idée épicurienne selon laquelle il convient de s’écarter des biens qui pourraient tôt ou tard susciter de la douleur ou de la servitude. Cette représentation de la consommation prône l’absence de fioritures et de futilités. On valorise le bien dans sa dimension fonctionnelle, en le réduisant souvent à sa valeur d’usage.",
+    "question": "Quelle est la logique principale de la stratégie consommatoire évoquée ?",
     "options": [
-      "la pollution générée par les intelligences artificielles.",
-      "l'usage immoral fait des intelligences artificielles.",
-      "les contradictions dans les études sur les intelligences artificielles.",
-      "la pensée unique sur les intelligences artificielles."
+      "Maximiser le plaisir à tout prix.",
+      "Augmenter la quantité de biens de luxe.",
+      "Reléguer au second plan, les désirs à la fois naturels et nécessaires.",
+      "La consommation est une affaire d'essentialité."
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte critique l’impact environnemental du numérique, en particulier des technologies autonomes comme les véhicules intelligents et les logiciels tournant en continu. Il remet en question l’idée que le numérique soit automatiquement bénéfique pour le climat, et alerte sur la pollution invisible et incontrôlée que pourraient engendrer ces systèmes, y compris l’IA."
+    "explanation": ""
   }
 ]

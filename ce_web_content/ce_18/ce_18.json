@@ -2,526 +2,601 @@
   {
     "question_no": 1,
     "group": 1,
-    "passage": "Pour une ville propre !\n\nLa ville de Bruges ramasse chaque année 18 tonnes de cigarettes jetées au sol.\nUn mégot par terre : 68 euros d’amende !",
-    "question": "Ce document est :",
+    "passage": "À vendre\nCasque multisport en bon état. Convient pour le skateboard, le cyclisme, le roller.\nCouleur: rose. Contact: 09 56 45 32 11",
+    "question": "On peut trouver cette annonce…",
     "options": [
-      "un règlement intérieur",
-      "un panneau d'information",
-      "un dépliant touristique",
-      "une offre d'emploi"
+      "Sur la vitrine d'une maroquinerie.",
+      "Sur la page beauté d'un site web.",
+      "Sur Internet.",
+      "Sur un site de rencontres."
     ],
-    "right_option": "B",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Ce document sert à informer et sensibiliser les citoyens sur les conséquences de jeter des mégots par terre. Il ne détaille pas des règles internes, ne fait pas la promotion touristique, et n'offre pas d'emploi. Il s'agit donc d’un panneau d'information."
+    "explanation": "Cette annonce fait référence à la vente d'un casque multisport, ce qui est typiquement une annonce que l'on trouverait en ligne, plutôt que dans des magasins ou des sites qui ne sont pas spécialisés dans la vente d'équipement sportif."
   },
   {
     "question_no": 2,
     "group": 2,
-    "passage": "JF 20 ans étudiante en formation « petite enfance », sérieuse avec beaucoup d’expérience, propose garde d’enfants (de 2 à 10 ans) les soirs, les mercredis et les dimanches.\n\nSi vous êtes intéressé(e), contactez-moi :\n232-21-18-14 ou adele@lilo.org",
-    "question": "L’auteure de cette annonce est disponible :",
+    "passage": "Ce Lundi\n\nVelouté de courgettes\nSalade Mauroise\nSoupe froide de lentilles vertes\nÉmincé d’agneau\nPoisson à la braise\nDessert au choix\n\nService de 12h à 14h30.",
+    "question": "Ce document représente…",
     "options": [
-      "en début de journée",
-      "plusieurs fois par semaine",
-      "une fois par semaine",
-      "seulement le weekend"
+      "Une liste de plats végétariens.",
+      "Les ingrédients d'une recette.",
+      "Une liste de courses.",
+      "Le menu du jour."
     ],
-    "right_option": "B",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Elle propose ses services les soirs, les mercredis et les dimanches, ce qui représente plusieurs moments répartis sur la semaine. Donc, elle est disponible plusieurs fois par semaine."
+    "explanation": "Le document présente une série de plats qui sont probablement proposés dans un restaurant ou un établissement de restauration, avec des horaires de service, ce qui correspond à un menu du jour."
   },
   {
     "question_no": 3,
     "group": 3,
-    "passage": "L’Asie du Sud au cinéma !\n\nLe festival « Cinéasia » présente en Belgique des films de toute l’Asie du Sud.\n\nL’Inde et ses voisins seront parmi nous et une journée sera dédiée au Pakistan.\n\nL’an dernier, vous avez adoré notre nuit « Frissons ». Cette année, vous allez rire avec notre nuit « Comédies » ! Venez nombreux !",
-    "question": "Le programme du festival :",
+    "passage": "Judith qui aide\n\nFaites appel à mes services pour tous les petits boulots de ménage, courses et autres.\n\nBien vouloir me contacter au 09 78 65 43 21\nSarah.Glian@yahoo.fr",
+    "question": "Ce document représente…",
     "options": [
-      "est le même que l'an dernier",
-      "reste encore à définir",
-      "est renouvelé chaque année",
-      "est destiné aux plus jeunes"
+      "Une publicité.",
+      "Une petite annonce.",
+      "Un faire-part.",
+      "Une invitation."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte compare le programme de cette année avec celui de l’année précédente (de « Frissons » à « Comédies »), ce qui montre que le contenu change d'une édition à l'autre. Le programme est donc renouvelé chaque année."
+    "explanation": "Ce document présente une offre de services, ce qui est typiquement une petite annonce où quelqu'un propose ses compétences pour des tâches diverses."
   },
   {
     "question_no": 4,
     "group": 4,
-    "passage": "Professeur au Conservatoire de Montréal donne des\nCOURS DE CHANT\n\nTechniques italienne et française\nOpéra – Chanson française – Opérette\nSessions d’une semaine à six mois\nProgrès rapides garantis !\nTel. : 514-873-4283",
-    "question": "Ce document propose :",
+    "passage": "L’association des paralysés d’Irlande a été fondée en 1985 par cinq individus, victimes de poliomyélite et luttant contre leur exclusion dans la société. Aujourd’hui, cette dernière continue son combat contre l’exclusion des individus handicapés de la société. En plus de cela, elle gère aussi un certain nombre d’établissements de soins financés par des fonds publics.",
+    "question": "L’association dont il est question a pour but de…",
     "options": [
-      "un enseignement de qualité",
-      "une place à l'Opéra",
-      "un poste en Italie",
-      "une semaine de concerts"
+      "Faire connaître les dangers de la poliomyélite.",
+      "Promouvoir l'intégration sociale des invalides.",
+      "Trouver des financements pour lutter contre la poliomyélite.",
+      "Trouver des établissements aux personnes handicapées."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Il s’agit d’une annonce de cours de chant donnés par un professeur au Conservatoire, avec des techniques précises et une promesse de progrès. Cela met en avant un enseignement de qualité, pas une offre de travail ni des concerts."
+    "explanation": "L'association lutte contre l'exclusion des personnes handicapées et gère des établissements de soins, ce qui montre son objectif de promouvoir l'intégration sociale des individus handicapés dans la société."
   },
   {
     "question_no": 5,
     "group": 5,
-    "passage": "Vous souhaitez agir pour préserver notre climat, pour rendre notre société plus écologique et solidaire ?\n\nAu festival « Agir à Lyon », vous pourrez rencontrer une trentaine d’associations avec qui devenir bénévole. À travers une dizaine de mini-conférences, vous découvrirez des projets inspirants pour vous donner envie de mettre l’écologie au centre de votre mode de vie.\n\nNous vous inviterons, par des démonstrations simples, à découvrir des actions à faire chez soi ou autour de soi : compostage, cuisine anti-gaspillage, etc.",
-    "question": "Le but de l’événement est de :",
+    "passage": "La pisciculture Lavillia travaille avec les associations de pêche pour rempoisonner les étangs. Munie d’un grand nombre de bassins aménagés, elle ne manque pas d’atouts. Cependant, le travail s’avère fastidieux et au bout de 22 ans à la tête de l’entreprise, Pierrot Lavillia souhaite passer la main.",
+    "question": "La pisciculture Lavillia…",
     "options": [
-      "découvrir des activités écologiques",
-      "rencontrer des scientifiques",
-      "créer de nouvelles associations",
-      "ramasser les déchets d’un quartier"
+      "Est en faillite.",
+      "Célèbre ses 22 ans d'activité.",
+      "Est à vendre.",
+      "Recherche des partenaires."
     ],
-    "right_option": "A",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte insiste sur la découverte de projets écologiques, de gestes simples à faire soi-même, et sur l’envie d’agir pour l’environnement. Il s’agit donc de découvrir des activités écologiques."
+    "explanation": "Pierrot Lavillia souhaite \"passer la main\" après 22 ans à la tête de l'entreprise, ce qui suggère qu'il souhaite vendre ou céder l'entreprise."
   },
   {
     "question_no": 6,
     "group": 6,
-    "passage": "Madame, Monsieur,\n\nNous vous rappelons que certaines œuvres sont soumises au droit d’auteur. Pour pouvoir les reproduire ou les diffuser sur notre plateforme, nous vous demandons de bien vouloir effectuer une déclaration lors de chaque commande d’impression ou de mise en ligne.\n\nCette déclaration se fait en ligne, est anonyme et ne demandera aucune rétribution de votre part. Vous devrez néanmoins indiquer le numéro de votre commande.\n\nATTENTION ! Sans ces indications, vos demandes ne pourront être traitées.\n\nBien cordialement,\nDirection de la Communication, Université Sorbonne Nouvelle",
-    "question": "Ce mail rappelle :",
+    "passage": "Du nouveau chez RAYA\n\n<< Émilie prend soin de son chat >> est le dernier bouquin publié par les éditions Raya. Parfait pour les enfants, ces derniers y apprennent comment accueillir, nourrir et se comporter face aux compagnons à quatre pattes en général. Ce livre est idéal pour nos petits maîtres qui gagneront rapidement la confiance du nouveau membre de la famille.",
+    "question": "Ce livre propose…",
     "options": [
-      "l'interdiction de copier les œuvres",
-      "le délai de traitement des commandes",
-      "l'obligation de payer les droits d'auteur",
-      "les règles d'utilisation des œuvres"
+      "Des activités conviviales pour exploiter les animaux.",
+      "Des idées pour domestiquer les animaux sauvages.",
+      "Des recettes originales et savoureuses pour les animaux de compagnie.",
+      "Des conseils pratiques sur les animaux familiers."
     ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "Le message explique qu’une déclaration est nécessaire pour reproduire ou diffuser des œuvres protégées par le droit d’auteur. Il ne parle pas d’interdiction, de délai, ni de paiement. Il rappelle donc les règles d’utilisation des œuvres."
+    "explanation": "Le livre donne des conseils pratiques aux enfants sur la manière d'accueillir, nourrir et interagir avec les animaux domestiques, ce qui en fait un guide pratique pour les animaux familiers."
   },
   {
     "question_no": 7,
     "group": 7,
-    "passage": "Service civique\n\nEn France, vous pouvez effectuer un service civique. Il s’agit d’un engagement volontaire de six à douze mois au service de l’intérêt général. D’une durée hebdomadaire de vingt-quatre heures minimum, il est indemnisé 580 € par mois.\n\nLe service civique est une expérience unique ouverte à tous les jeunes de 16 à 25 ans, et jusqu’à 30 ans en situation de handicap, sans condition de diplôme. Seule votre motivation compte !\n\nVous pouvez réaliser votre mission de service civique auprès d’une association, d’une collectivité territoriale, d’un établissement public, d’un bailleur de logement social ou des services de l’État.",
-    "question": "Le service civique permet aux jeunes :",
+    "passage": "Avez-vous vu passer ce drôle de petit camion près de chez vous? Ariane sillonne les routes de Garibaldi depuis cet été afin d’apporter les mots qu’il manque à votre quotidien pour vous évader. Si vous la voyez, n’hésitez pas à monter dans sa bouquinerie ambulante pour une escapade livresque dont vous vous souviendrez !",
+    "question": "Quelle est l’activité de cette femme ?",
     "options": [
-      "de prouver leurs compétences à l'international",
-      "de participer au bon fonctionnement de la société",
-      "de bénéficier d'un emploi pendant 2 ans",
-      "d'obtenir un diplôme à l'issue de leur engagement"
+      "Elle est férue de littérature.",
+      "Elle gère une bibliothèque itinérante.",
+      "Elle fait découvrir les routes de Garibaldi aux gens.",
+      "Elle vend uniquement des bouquins d'occasion."
     ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte insiste sur l'engagement volontaire au service de l'intérêt général, dans différents types de structures. Cela permet donc de participer au bon fonctionnement de la société, pas d'obtenir un diplôme ou un emploi formel."
+    "explanation": "Ariane gère une \"bouquinerie ambulante\", ce qui signifie qu'elle propose une bibliothèque itinérante qui se déplace sur les routes pour offrir des livres aux gens."
   },
   {
     "question_no": 8,
     "group": 8,
     "passage": "",
-    "question": "Pour rester en bonne santé, ______ des fruits et des légumes.",
-    "options": ["achetez", "mangez", "vendez", "préparez"],
-    "right_option": "B",
+    "question": "Nous allons ________ les truites à la pisciculture.",
+    "options": [
+      "Ranger",
+      "Déborder",
+      "Acheter",
+      "Planteur"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "La phrase encourage à adopter une bonne hygiène de vie pour rester en bonne santé. Le verbe \"mangez\" est donc le plus approprié, car il invite à consommer des fruits et des légumes."
+    "explanation": "Le contexte suggère qu'on va se procurer des truites à la pisciculture, donc le verbe approprié est \"acheter\"."
   },
   {
     "question_no": 9,
     "group": 8,
     "passage": "",
-    "question": "Venez découvrir l’immensité des espaces blancs et l’accueil _____ de nos habitants !",
-    "options": ["chaleureux", "sensible", "intimiste", "contenu"],
+    "question": "Ce musicien a fait une ________ dans l’alcoolisme.",
+    "options": [
+      "Rechute",
+      "Ailette",
+      "Abandonner",
+      "Absorption"
+    ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "L'expression \"l'accueil de nos habitants\" suggère une atmosphère positive et accueillante. L'adjectif \"chaleureux\" est donc le plus adapté, car il évoque un accueil amical et bienveillant."
+    "explanation": "Le terme approprié est \"rechute\", qui désigne le fait de retomber dans une habitude ou une dépendance après une période d'abstinence."
   },
   {
     "question_no": 10,
     "group": 8,
     "passage": "",
-    "question": "En raison des vacances, la boulangerie sera ______ jusqu’à lundi prochain !",
-    "options": ["louée", "habitée", "occupée", "fermée"],
+    "question": "Ces deux frères n’arrêtent pas de se ________",
+    "options": [
+      "Macérer",
+      "Semer",
+      "Hacher",
+      "Quereller"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "Le contexte indique que la boulangerie ne sera pas ouverte en raison des vacances. Le mot \"fermée\" est donc le plus approprié, car il signifie qu'elle sera fermée temporairement."
+    "explanation": "Le verbe \"quereller\" signifie se disputer ou se chamailler, ce qui correspond au comportement décrit des deux frères."
   },
   {
     "question_no": 11,
     "group": 8,
     "passage": "",
-    "question": "Pendant la réunion, nous avons parlé de _____ du prix de l’essence.",
-    "options": ["l'innovation", "l'augmentation", "l'ajout", "l'élévation"],
+    "question": "Elles ont ______ plus de deux jours pour trouver la solution au problème.",
+    "options": [
+      "Mon",
+      "Duré",
+      "Fourni",
+      "Complété"
+    ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "Le prix de l'essence peut augmenter, ce qui correspond à \"l'augmentation\". Les autres options ne sont pas adaptées au contexte de l'évolution du prix."
+    "explanation": "Le verbe \"duré\" convient ici car il fait référence à une période de temps pendant laquelle elles ont eu pour résoudre un problème. La phrase implique que \"plus de deux jours\" est la durée dont elles disposent. Les autres options ne s'intègrent pas correctement dans ce contexte."
   },
   {
     "question_no": 12,
     "group": 8,
     "passage": "",
-    "question": "Salut Justine ! J’ai besoin d’un marteau pour _____ mes peintures, pourrais-tu me prêter le tien ?",
-    "options": ["attacher", "étendre", "retenir", "accrocher"],
-    "right_option": "D",
+    "question": "La façon de répondre de cet individu est un ________ à l’autorité.",
+    "options": [
+      "Réservoir",
+      "Défi",
+      "Dilemme",
+      "Tremplin"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le contexte suggère que la personne veut suspendre ou fixer des peintures. Le verbe \"accrocher\" est donc le plus approprié, car il signifie suspendre quelque chose, comme des tableaux ou des peintures."
+    "explanation": "Un \"défi\" est une résistance ou un affrontement, ce qui convient ici pour décrire une attitude qui va à l'encontre de l'autorité."
   },
   {
     "question_no": 13,
     "group": 8,
     "passage": "",
-    "question": "Pour continuer à défendre l’environnement, votre _____ nous est indispensable : sachez que les manières d’agir sont multiples !",
-    "options": ["service", "sécurité", "support", "soutien"],
-    "right_option": "D",
+    "question": "Son échec l’a plongé dans le ________ de la honte.",
+    "options": [
+      "Crinière",
+      "Gouffre",
+      "Différend",
+      "Complément"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le mot \"soutien\" est celui qui convient le mieux dans ce contexte, car il évoque l'idée d'encouragement ou de soutien nécessaire pour défendre l'environnement. Le mot est répété, mais il s'agit du bon choix."
+    "explanation": "L'expression \"plongé dans le gouffre de la honte\" signifie qu'il a été profondément affecté par son échec, comme s'il était dans un état de grande souffrance ou de confusion. \"Gouffre\" est donc le terme le plus approprié."
   },
   {
     "question_no": 14,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "Comme les peuples autochtones l’ont enseigné pendant des siècles, il est temps de (1) ________ que toutes les choses sont interconnectées. Si nous n’agissons pas, le changement climatique (2) ________ nos liens sociaux, ce qui ne fera que réduire notre capacité à répondre aux menaces environnementales qui nous attendent.",
     "question": "(1)",
-    "options": ["batterie", "bataille", "explosion", "tempête"],
-    "right_option": "D",
+    "options": [
+      "Malmener",
+      "Reconnaître",
+      "Convier",
+      "Initier"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": ""
+    "explanation": "Le verbe \"reconnaître\" est le plus approprié ici, car il signifie accepter ou admettre une vérité, comme celle que toutes les choses sont interconnectées."
   },
   {
     "question_no": 15,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "Comme les peuples autochtones l’ont enseigné pendant des siècles, il est temps de (1) ________ que toutes les choses sont interconnectées. Si nous n’agissons pas, le changement climatique (2) ________ nos liens sociaux, ce qui ne fera que réduire notre capacité à répondre aux menaces environnementales qui nous attendent.",
     "question": "(2)",
-    "options": ["pratiques", "courbées", "réalisables", "ouvertes"],
+    "options": [
+      "Affrontera",
+      "Encouragera",
+      "Adoucira",
+      "Aggravera"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "- Tempête est le terme approprié pour décrire une forte perturbation climatique avec de la neige et des vents violents. - Ouvertes convient ici pour indiquer que les routes ne sont pas encore fermées malgré les conditions difficiles."
+    "explanation": "Le verbe \"aggraver\" est le mieux adapté, car il signifie rendre une situation pire, ce qui correspond à l'idée que l'inaction face au changement climatique pourrait détériorer nos liens sociaux."
   },
   {
     "question_no": 16,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "Dès son enfance, elle a été remarquable pour sa mémoire (1) ________ et à l’âge de 16 ans a remporté une médaille d’or à la fin de ses études secondaires. Son géniteur ayant perdu ses économies à cause d’un mauvais investissement, elle a dû travailler en tant qu’ (2) ________",
     "question": "(1)",
-    "options": ["remboursés", "ramassés", "regroupés", "collectés"],
-    "right_option": "D",
+    "options": [
+      "Maladroite",
+      "Magnanime",
+      "Prodigieuse",
+      "Malicieuse"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": ""
+    "explanation": "Le terme \"prodige\" désigne une personne qui possède des talents exceptionnels, ce qui convient ici pour décrire une mémoire remarquable."
   },
   {
     "question_no": 17,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "Dès son enfance, elle a été remarquable pour sa mémoire (1) ________ et à l’âge de 16 ans a remporté une médaille d’or à la fin de ses études secondaires. Son géniteur ayant perdu ses économies à cause d’un mauvais investissement, elle a dû travailler en tant qu’ (2) ________",
     "question": "(2)",
-    "options": ["initiative", "origine", "alliance", "utilité"],
-    "right_option": "D",
+    "options": [
+      "Enseignante",
+      "Jardinière",
+      "Gouvernante",
+      "Boulangère"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "- Collectés est le terme le plus approprié, car il fait référence à des fonds recueillis pour une cause. - Utilité publique est une expression courante qui désigne une organisation reconnue d’intérêt général, ce qui correspond bien à SOS SAHEL."
+    "explanation": "Le mot \"gouvernante\" fait référence à une personne qui s'occupe de l'éducation et du bien-être des enfants dans une maison, ce qui est cohérent avec l'idée de travail pour subvenir aux besoins financiers."
   },
   {
     "question_no": 18,
     "group": 11,
-    "passage": "Film 1\nJohn a quitté les services secrets et vit maintenant en Jamaïque. Mais sa tranquillité se termine quand un ami lui demande de l’aide : il faut sauver un scientifique qui vient d’être kidnappé. L’épreuve commence dans la jungle…\n\nFilm 2\nPaul et Virginie viennent d’avoir un petit garçon. Heureux à l’idée de découvrir leur nouvelle vie de jeunes parents, ils n’imaginaient pas du tout que leur bébé allait devenir le centre d’une forte lutte entre les grands-parents…\n\nFilm 3\nHatidze est une des dernières personnes à récolter le miel de manière traditionnelle, dans les montagnes désertiques de Macédoine. Elle prélève uniquement le miel nécessaire pour gagner modestement sa vie et essayer de préserver la biodiversité.\n\nFilm 4\nLéa, Marc, Karine et Francis sont deux couples d’amis de longue date. Mais l’harmonie disparaît le jour où Léa leur annonce qu’elle a écrit un roman, qui deviendra un best-seller. La jalousie commence à apparaître avec ses conséquences!",
-    "question": "Quel film propose de l’aventure ?",
-    "options": ["Film 1", "Film 2", "Film 3", "Film 4"],
-    "right_option": "A",
+    "passage": "Établissement hôtelier 1\nEn choisissant Hôtel Calan, vous profiterez d’un séjour à Paris, à 4 minutes en voiture de La Machine du Moulin Rouge et à 5 minutes de l’Opéra de Paris. Cet hôtel se trouve à 4,6 km du Musée du Louvre. Les aéroports les plus proches de l’hébergement sont : Aéroport de Paris Orly – 20,9 km, Aéroport de Paris Roissy-Charles de Gaulle – 29,1 km. Hôtel magnifique apprécié par les familles, vous y trouverez des installations totalement aménagées et une large gamme d’activités pour les enfants de tout âge.\n\nÉtablissement hôtelier 2\nFacilement accessibles par taxi depuis l’aéroport, nos 52 chambres vous invitent à la détente. L’accès Wi-Fi gratuit vous permet de rester en contact avec le reste du monde et votre divertissement est assuré par des chaînes par satellite. Les équipements et services offerts par l’établissement comprennent un téléphone, mais aussi un coffre-fort et un bureau. Prenez un délicieux repas au restaurant et comblez tous vos petits creux en profitant du service d’étage proposé par notre établissement.\n\nÉtablissement hôtelier 3\nBénéficiant d’un emplacement unique et de nombreux équipements bien pensés, l’hôtel Saint Morin constitue un pied-à-terre idéal pour les voyageurs d’affaires et de loisirs. Chaleureux et modernes, les hébergements situés à un jet de pierre de l’aéroport comprennent des fenêtres insonorisées, une salle de bains en marbre, une connexion Wi-Fi haut débit. Si vous séjournez dans une chambre ou suite de l’étage Club, vous pourrez profiter du petit-déjeuner gratuit, d’apéritifs en soirée et de plus encore dans le salon Club.\n\nÉtablissement hôtelier 4\nEn choisissant notre établissement, vous profiterez d’un séjour à Paris, à 5 minutes en voiture de l’Opéra de Paris et à 6 minutes des Champs-Élysées. Cet hôtel se trouve à 2,4 km de l’Arc de Triomphe et à 4,3 km du Musée du Louvre. Les aéroports les plus proches de l’hébergement sont : Aéroport de Paris Orly – 26,2 km, Aéroport de Paris Roissy-Charles de Gaulle – 31,6 km. Lors de votre séjour dans notre hôtel, vous pourrez prendre vos repas dans votre chambre grâce au service d’étage.",
+    "question": "Quel hôtel se trouve à proximité d’un aéroport ?",
+    "options": [
+      "Établissement hôtelier 1",
+      "Établissement hôtelier 2",
+      "Établissement hôtelier 3",
+      "Établissement hôtelier 4"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le Film 1 décrit une histoire avec du suspense, de l'action et de l'aventure, où le protagoniste se lance dans une mission pour sauver un scientifique, le tout dans un cadre exotique (la jungle). C'est donc le film qui propose le plus d'aventure."
+    "explanation": "L'Établissement hôtelier 3 est situé \"à un jet de pierre de l'aéroport\", ce qui indique qu'il est proche d'un aéroport, contrairement aux autres établissements."
   },
   {
     "question_no": 19,
     "group": 12,
-    "passage": "Activité 1\nLe GR 20 est réservé aux randonneurs confirmés. 200 km entre Calenzana et Conca. À voir en cours de route, outre les paysages de rêve : alpages, bergeries, mouflons, chèvres, cabris… Les excellents marcheurs peuvent le faire en 12 à 13 jours, mais prévoir 16 jours est plus raisonnable.\n\nActivité 2\nLa via ferrata, ce sont des itinéraires rocheux sécurisés par un câble et des marches métalliques. La première a été aménagée dans la vallée d’Asco. Longue de 350 m et réservée aux sportifs, on peut la faire seul ou avec un guide. Une bonne formule pour s’initier aux frissons de l’escalade.\n\nActivité 3\nBalisés en orange, les sentiers “Mare a Mare” permettent de traverser la Corse d’est en ouest, de “mer à mer”. Ce sont des itinéraires courts, de moyenne montagne, offrant un panorama sur les plus célèbres sommets de l’île. Les parcours sont tous très beaux, traversant des régions variées.\n\nActivité 4\nLa Corse compte près de 100 sites où le canyoning peut être pratiqué. Il s’agit de descendre un cours d’eau encaissé dans un canyon, à pied, à la nage, par des sauts en rappel, en glissant sur des “toboggans”. Un équipement spécial est nécessaire.",
-    "question": "Quelle activité semble la moins difficile physiquement ?",
-    "options": ["Activité 1", "Activité 2", "Activité 3", "Activité 4"],
-    "right_option": "C",
+    "passage": "Personne 1\nPierrot Descnar a étudié à l’Université d’Innsbruck où il a obtenu son diplôme en 1972. L’année suivante, il ouvre son propre cabinet dans sa ville natale. Le langage architectural du cabinet est fortement empreint du creuset culturel indissociable du Haut-Adige, la région montagneuse dans laquelle il a réalisé ses projets, la plupart après avoir remporté les concours correspondants.\n\nPersonne 2\nPassionné de théâtre et révélé par la radio, il s’est construit lui-même. En effet, il n’avait jamais pris de cours de cinéma avant de réaliser ses premiers courts, qui le conduiront rapidement à la réalisation de Irreversible, unanimement considéré comme l’un des films les plus importants du XXe siècle et à l’origine d’énormément de procédés cinématographiques modernes. Comme quoi voir des films et s’intéresser à la chose suffit.\n\nPersonne 3\nIl étudie le droit à l’université de Ritsumeikan au Japon et intègre l’École nationale d’administration du Japon. Inspecteur des finances publiques, il est secrétaire général du syndicat des Impôts. En dehors de ses occupations professionnelles, qui tournent autour du droit, de la fiscalité, des finances et de l’économie, il écrit des poèmes et cultive des légumes et voyage beaucoup afin de mieux appréhender l’histoire de plusieurs peuples.\n\nPersonne 4\nIl est mondialement connu en tant que « père de la chirurgie dentaire ». Il a appris la chirurgie dentaire dans une université américaine. Son bouquin, La véritable chirurgie des Dents, reste exploité par de nombreux professionnels à travers le monde. La richesse didactique et novatrice de cet ouvrage a créé une telle émulation que durant tout le XXe siècle, l’Odontologie française a rayonné dans toute l’Europe.",
+    "question": "Laquelle de ces personnes a un parcours d’autodidacte ?",
+    "options": [
+      "Personne 1",
+      "Personne 2",
+      "Personne 3",
+      "Personne 4"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "L'Activité 3, les sentiers \"Mare a Mare\", sont décrits comme des itinéraires courts de moyenne montagne, offrant un panorama, mais sans mentionner de difficulté majeure. Les autres activités (GR 20, via ferrata, canyoning) impliquent des défis physiques plus importants, comme des randonnées longues et difficiles, de l'escalade ou des descentes en rappel."
+    "explanation": "La Personne 2 est un autodidacte en cinéma, puisqu'il n'a jamais pris de cours de cinéma avant de réaliser ses premiers courts-métrages."
   },
   {
     "question_no": 20,
     "group": 13,
-    "passage": "Séjour 1\nTroglodyte, rien que le terme est déjà un voyage. Habiter une maison creusée dans la roche est devenu un mode de vie insolite et minimaliste. Ainsi, plusieurs grottes de pêcheurs nichées dans les falaises ont été transformées en chambres d’hôtes. Un lieu idéal pour une introspection face à l’océan, bercé par le bruit des vagues et hypnotisé par le coucher du soleil.\n\nSéjour 2\nConfiné dans une bulle, vous devenez l’incarnation de l’expression “être dans sa bulle”. Expérience idéale pour les loups solitaires qui souhaitent se retirer du monde pour vivre en forêt, protégés par une bulle en plastique recyclé. En harmonie avec la nature, l’être humain se laisse envoûter par la faune et la flore qui l’entourent. Attention toutefois à ne pas déranger l’ours qui hiberne…\n\nSéjour 3\nLes chasseurs d’hôtels insolites vont se réjouir de cette nouvelle façon de vivre. Plongé dans le quotidien des Bourbons, le château de Fontainebleau ouvre grand ses portes. Les amoureux des forteresses seront les bienvenus pour y découvrir des façons de vivre ancestrales, des coutumes traditionnelles et des costumes d’époque. Un séjour dans ce lieu singulier saura vous satisfaire.\n\nSéjour 4\nAu revoir les vacances à la mer, les coups de soleil et le sable qui s’infiltre partout ! Et bonjour les températures extrêmes! Amateurs de sport d’hiver et aventuriers qui n’ont pas froid aux yeux, cette destination unique est faite pour vous ! Dormir dans un igloo est devenu LA tendance écologique du moment: seul ou en couple, vous pouvez être sûrs de respirer un bon bol d’air frais!",
-    "question": "Quelle offre de séjour correspond le mieux aux passionnés d’Histoire ?",
-    "options": ["Séjour 1", "Séjour 2", "Séjour 3", "Séjour 4"],
-    "right_option": "C",
+    "passage": "Logement 1\nCe logement est idéalement placé au calme dans un cadre verdoyant avec une superbe vue sur la réserve du littoral. Situé juste avant l’entrée du marais en direction de Montpellier, il dispose d’un terrain entièrement clos de 1000 m² se composant d’un parking, une terrasse et une pelouse, le tout exposé plein sud. Il est équipé tout confort pour trois à six personnes.\n\nLogement 2\nLogement neuf totalement indépendant avec beaucoup de charme, calme au centre du village. Boulangerie à proximité. Dépaysement assuré. Tous les commerces se trouvent à 3 km. Ce gîte est idéal pour les familles nombreuses allant jusqu’à dix personnes. Le seul bémol est que les animaux de compagnie sont acceptés moyennant un surcoût.\n\nLogement 3\nParking privatif à 6 km de la plage et à proximité de la forêt. Vous pourrez apprécier le calme des lieux ainsi qu’une vue dégagée sur une pleine nature. La ville de Belgrade est à 5 km et vous avez tous les commerces à proximité. Il existe une supérette à 1 km et un parc zoologique dans les environs. Les passionnés d’animaux seront très heureux de voir leurs animaux préférés.\n\nLogement 4\nC’est un gîte familial conçu de plain-pied. Il est adapté et accessible aux personnes handicapées. Les enfants et nos compagnons à quatre pattes sont les bienvenus. Les voitures, les vélos voire les remorques, trouvent place sur le parking privé situé à l’entrée du gîte. Il est situé en pleine nature à proximité des commerces essentiels. De nombreux sentiers de randonnée sont accessibles à partir du gîte, à pied ou en VTT.",
+    "question": "Quel logement autorise les animaux familiers sans frais ?",
+    "options": [
+      "Logement 1",
+      "Logement 2",
+      "Logement 3",
+      "Logement 4"
+    ],
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le Séjour 3 dans le château de Fontainebleau est clairement destiné aux passionnés d'Histoire. Il permet de découvrir des coutumes traditionnelles, des costumes d'époque et l'histoire des Bourbons, ce qui correspond parfaitement aux intérêts des passionnés d'Histoire."
+    "explanation": "Les animaux familiers sont autorisés sans frais dans le Logement 4, qui précise que les \"compagnons à quatre pattes sont les bienvenus\", sans mentionner de surcoût, contrairement au Logement 2."
   },
   {
     "question_no": 21,
     "group": 14,
-    "passage": "Appel 1\nL’émission de radio Vacarme RTS prépare un sujet sur le syndrome d’aliénation parentale. Vous êtes parent à l’origine d’aliénation parentale, ou vous-même en êtes victime ? Vous avez un adolescent ou un enfant qui en souffre et qui est en capacité de raconter son ressenti au long du conflit parental ? Vos témoignages (anonymat garanti) seraient très précieux.\nPrenez contact avec nous!\n\nAppel 2\nLe secteur de la puériculture connaît des difficultés importantes de recrutement, qui se posent avec acuité à chaque rentrée : fermeture d’établissements d’accueil, réduction de la capacité d’accueil. Racontez-nous les conséquences de ces difficultés sur votre foyer ! Avez-vous dû revoir votre organisation ? Renoncer au mode de garde que vous vouliez privilégier ? Faire appel à la solidarité familiale ?\n\nAppel 3\nEnfant de médecin, vous l’êtes devenu à votre tour. Médecin, vous avez un enfant qui l’est aussi aujourd’hui. Quel regard portez-vous sur le métier ? Avec des difficultés multiples (déserts médicaux, manque de moyens, etc.), le secteur en devient moins attractif pour les nouvelles générations. Votre témoignage nous intéresse pour un prochain article sur ce sujet.\n\nAppel 4\nBabilou, Les Petits Chaperons Rouges… Les poids lourds du secteur très lucratif des crèches privées ne sont plus à présenter ; mais comment la nouvelle logique de rentabilité induite par l’ouverture au marché affecte-t-elle votre quotidien ? Que vos enfants soient accueillis en crèche privée, ou que vous évoluiez dans ce secteur, Mediacités vous donne la parole dans sa nouvelle enquête participative.",
-    "question": "À quel appel répondra un professionnel de la petite enfance souhaitant parler de sa pratique ?",
-    "options": ["Appel 1", "Appel 2", "Appel 3", "Appel 4"],
-    "right_option": "D",
+    "passage": "Miel 1\nRéalisé grâce aux déjections des pucerons, le miel de forêt est un assemblage de plusieurs végétaux en fonction des régions comme la bruyère, le châtaignier ou encore les ronces. Le miel de forêt est bien souvent une alternative économique aux miels biologiques, car le nectar provient des forêts françaises, souvent préservées des actions de traitements insecticides. Il est idéal pour accompagner les tartines du petit-déjeuner.\n\nMiel 2\nLe miel de fleurs sauvages est produit par des abeilles butinant dans des prairies ou des garrigues des fleurs non cultivées par l’homme. Il est par définition changeant, reflétant la terre dont il est issu. Fin et floral, il peut être légèrement plus amer qu’un miel de printemps, ce qui lui confère un caractère unique. L’appellation “fleurs sauvages” se réfère à un ensemble de différentes fleurs de prairies et de végétation basse, telle la garrigue.\n\nMiel 3\nLes adeptes d’apithérapie trouveront leur bonheur avec ce miel d’origine Irlandaise et produit dans des environnements exempts de pesticides chimiques, loin des zones polluées. Doux et puissant en goût, avec des notes fleuries ou boisées, texture liquide ou bien crémeuse, le miel de thym regorge de bienfaits pour votre santé. Ce miel authentique convient pour tous les types de recettes sucrées ou salées.\n\nMiel 4\nLe miel de Claveyron est un miel de caractère. Ce nectar français fait penser au caramel grillé avec ses notes chaudes contrastées avec les saveurs boisées et sa faible amertume. La longueur en bouche apportée par le miel de Claveyron sera idéale dans des marinades. Chaque cuillère est un voyage au cœur de magnifiques paysages. Ce délicieux nectar est produit par des apiculteurs qui récoltent leur miel selon des méthodes traditionnelles.",
+    "question": "Quel miel est produit dans des exploitations bio ?",
+    "options": [
+      "Miel 1",
+      "Miel 2",
+      "Miel 3",
+      "Miel 4"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "L’Appel 4 s’adresse aux personnes concernées par le secteur des crèches privées, que ce soit en tant que parent ou en tant que professionnel évoluant dans ce secteur. Un professionnel de la petite enfance souhaitant parler de sa pratique dans ce contexte répondra donc à cet appel."
+    "explanation": "Le Miel 3 est mentionné comme étant produit dans des \"environnements exempts de pesticides chimiques\", ce qui implique qu'il est produit dans des conditions respectueuses de l'agriculture biologique."
   },
   {
     "question_no": 22,
     "group": 15,
-    "passage": "<< Selon une étude publiée récemment, on enregistre à partir de 2022 un recul du transport fluvial. Celui-ci est très faible mais constant, malgré la croissance des dernières années. >>",
+    "passage": "À l’heure où la pression sur les ressources écologiques et environnementales est écrasante, le pays a changé le regard qu’il portait sur la consommation des insectes. Avec une augmentation d’environ 45% de la demande en insectes dans le pays, depuis 2020, la consommation de ces derniers satisfait les besoins des populations, au détriment de la viande dont la consommation continue de diminuer. Aujourd’hui, l’entomophagie constitue le mode d’alimentation d’une multitude de personnes dans le pays.",
     "question": "Quel graphique correspond au commentaire suivant ?",
-    "options": ["Graphique 1", "Graphique 2", "Graphique 3", "Graphique 4"],
-    "right_option": "A",
-    "image_path": "assets/ce-111-1-min.png",
-    "explanation": "Le graphique 1 montre une croissance régulière du transport fluvial de 2018 à 2021, puis un léger recul constant à partir de 2022. Cela correspond bien au commentaire indiquant un recul faible mais continu après des années de croissance."
+    "options": [
+      "Graphique 1",
+      "Graphique 2",
+      "Graphique 3",
+      "Graphique 4"
+    ],
+    "right_option": "B",
+    "image_path": "assets/ce-4-1-min.png",
+    "explanation": ""
   },
   {
     "question_no": 23,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Ce document est :",
+    "passage": "MEETIC ET YOOPIES\n\nPlus de la moitié des parents célibataires souhaiterait accorder plus de temps à leur vie sociale et sentimentale. Pour rééquilibrer leur quotidien de parents et leur vie sentimentale, Meetic s’associe à Yoopies, une plateforme reconnue de babysitting. Une ambition commune : offrir quelques heures à tous les parents célibataires pour trouver l’âme sœur et leur permettre de profiter sereinement de leur premier rendez-vous !\n\n70% des parents célibataires ont un enfant à charge ; un quart d’entre eux en ont deux. Bien qu’ils soient épanouis dans leur vie de famille, 7 parents célibataires sur 10 estiment ne pas avoir suffisamment de temps alloué à leur vie sentimentale.\n\nAvec Yoopies, Meetic simplifie la vie des parents célibataires !\n\nMeetic, meilleur site pour trouver l’amour, s’associe à Yoopies, une plateforme reconnue de babysitting, qui met en relation les parents avec des professionnels de la garde d’enfants. Du 23 août au 31 octobre 2018, Meetic offre 3 heures de babysitting à tous les abonnés Meetic. Yoopies est un véritable allié pour les parents et leur propose plusieurs services : recherche de baby-sitters ainsi que des « bons plans » à faire en famille.",
+    "question": "Ce partenariat a pour ambition de…",
     "options": [
-      "une invitation à un débat d'idées.",
-      "une publicité pour une école.",
-      "une présentation d'établissement.",
-      "un compte rendu de réunion."
+      "Épanouir les enfants de parents célibataires.",
+      "Favoriser les rencontres amoureuses.",
+      "Former les parents au babysitting.",
+      "Proposer des activités de loisir aux parents."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte présente les Beaux-Arts de Paris, leur mission, leur organisation, et leur ambition. Il s'agit donc d'une présentation d'établissement, et non d'une publicité ou d'un débat."
+    "explanation": "Le partenariat entre Meetic et Yoopies a pour objectif principal de favoriser les rencontres amoureuses en offrant aux parents célibataires un peu de temps libre grâce au service de babysitting, afin qu'ils puissent profiter de rendez-vous amoureux."
   },
   {
     "question_no": 24,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Dans ce document, il est question de :",
+    "passage": "MEETIC ET YOOPIES\n\nPlus de la moitié des parents célibataires souhaiterait accorder plus de temps à leur vie sociale et sentimentale. Pour rééquilibrer leur quotidien de parents et leur vie sentimentale, Meetic s’associe à Yoopies, une plateforme reconnue de babysitting. Une ambition commune : offrir quelques heures à tous les parents célibataires pour trouver l’âme sœur et leur permettre de profiter sereinement de leur premier rendez-vous !\n\n70% des parents célibataires ont un enfant à charge ; un quart d’entre eux en ont deux. Bien qu’ils soient épanouis dans leur vie de famille, 7 parents célibataires sur 10 estiment ne pas avoir suffisamment de temps alloué à leur vie sentimentale.\n\nAvec Yoopies, Meetic simplifie la vie des parents célibataires !\n\nMeetic, meilleur site pour trouver l’amour, s’associe à Yoopies, une plateforme reconnue de babysitting, qui met en relation les parents avec des professionnels de la garde d’enfants. Du 23 août au 31 octobre 2018, Meetic offre 3 heures de babysitting à tous les abonnés Meetic. Yoopies est un véritable allié pour les parents et leur propose plusieurs services : recherche de baby-sitters ainsi que des « bons plans » à faire en famille.",
+    "question": "L’offre Meetic en cours est destinée à…",
     "options": [
-      "un lieu de rencontre d'artistes.",
-      "d'un lieu de formation.",
-      "d'une salle d'exposition.",
-      "d'un musée prestigieux."
+      "À toute personne célibataire.",
+      "Aux personnes inscrites sur Meetic.",
+      "Aux parents en quête d'un service de garde d'enfants.",
+      "Aux professionnels de garde d'enfants."
     ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte décrit principalement les Beaux-Arts de Paris comme un lieu d'enseignement des arts plastiques, où les étudiants suivent leur formation pour devenir des artistes. Il est donc question d'un lieu de formation."
+    "explanation": "L'offre de 3 heures de babysitting est réservée aux abonnés de Meetic. Ce service est spécifiquement destiné aux personnes inscrites sur Meetic pour leur permettre de profiter de leur vie sentimentale."
   },
   {
     "question_no": 25,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Ce document annonce :",
+    "passage": "COMMUNIQUÉ\nPour publication immédiate\n\nAddis-Abeba. Le 12 Septembre 2023. Le président-directeur général de Palm’Etrel a le plaisir de vous informer que le poste de directeur du marketing sera occupé par Mme Arielle Tesfaye. Dans le cadre de ses nouvelles prérogatives, Mme Arielle Tesfaye travaillera sur la mise en place d’une nouvelle approche permettant à la société d’étendre sa clientèle. Elle occupera ce poste à partir du 12 octobre 2023.\n\nSa formation, son expérience dans le domaine du marketing, son sens de la discipline et son engagement dans la croissance de Palm’Etrel depuis sa création en 2017 sont autant d’éléments qui contribueront à donner un nouvel essor à notre organisation.\n\nPalm’Etrel est une société de production d’huile de palme qui est fortement représentée dans la sous-région. Elle compte environ huit-cent employés répartis dans douze succursales.\n\nRomaine Asséfa\nRessources Humaines",
+    "question": "Ce document annonce…",
     "options": [
-      "l'ouverture de bureaux annexes.",
-      "une restructuration de l'entreprise.",
-      "la revalorisation du taux des prestations.",
-      "une hausse salariale selon l'ancienneté."
+      "Une affectation disciplinaire.",
+      "Une formation dans le service marketing.",
+      "La création d'un nouveau poste.",
+      "La nomination d'un cadre."
     ],
-    "right_option": "C",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte parle d'une augmentation des honoraires d'expertises et des forfaits liés aux déplacements extramuros, ce qui concerne directement la revalorisation des prestations fournies par l'entreprise."
+    "explanation": "Le communiqué annonce la nomination de Mme Arielle Tesfaye en tant que directrice du marketing, ce qui correspond à une nomination de cadre dans l'entreprise."
   },
   {
     "question_no": 26,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Cette décision :",
+    "passage": "COMMUNIQUÉ\nPour publication immédiate\n\nAddis-Abeba. Le 12 Septembre 2023. Le président-directeur général de Palm’Etrel a le plaisir de vous informer que le poste de directeur du marketing sera occupé par Mme Arielle Tesfaye. Dans le cadre de ses nouvelles prérogatives, Mme Arielle Tesfaye travaillera sur la mise en place d’une nouvelle approche permettant à la société d’étendre sa clientèle. Elle occupera ce poste à partir du 12 octobre 2023.\n\nSa formation, son expérience dans le domaine du marketing, son sens de la discipline et son engagement dans la croissance de Palm’Etrel depuis sa création en 2017 sont autant d’éléments qui contribueront à donner un nouvel essor à notre organisation.\n\nPalm’Etrel est une société de production d’huile de palme qui est fortement représentée dans la sous-région. Elle compte environ huit-cent employés répartis dans douze succursales.\n\nRomaine Asséfa\nRessources Humaines",
+    "question": "Mme Arielle Tesfaye…",
     "options": [
-      "s'inscrit dans la redistribution des bénéfices.",
-      "fait suite à une revendication du personnel.",
-      "répond à une cohérence salariale de l'entreprise.",
-      "souscrit à la nouvelle législation en vigueur."
+      "Est employée de l'entreprise depuis plus d'une décennie.",
+      "Prendra ses fonctions un mois après avoir été nommée.",
+      "Vient d'être recrutée au sein de la société Palm'Etrel.",
+      "A fait l'objet d'une reconversion professionnelle."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte évoque une augmentation progressive et régulière de la rémunération des agents, mais il ne mentionne pas spécifiquement une revendication du personnel ni une nouvelle législation. La décision semble plutôt s'inscrire dans une logique interne de l'entreprise, probablement pour répondre à une cohérence salariale, en garantissant des augmentations de manière organisée."
+    "explanation": "Le texte précise que Mme Arielle Tesfaye commencera ses fonctions le 12 octobre 2023, soit un mois après la publication du communiqué, ce qui correspond à l'option b."
   },
   {
     "question_no": 27,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "Cette entreprise propose :",
+    "passage": "Mercredi, le Parlement a approuvé sa position sur la refonte des règles de l’Union en matière de sécurité des jouets par 603 voix pour, 5 contre et 15 abstentions. Le texte, qui convertit la directive actuelle en règlement directement applicable, répond à un certain nombre de nouveaux enjeux, des jouets numériques aux achats en ligne.\n\nAxée sur la santé et le développement des enfants, la proposition renforce les exigences et les interdictions de certaines substances chimiques dans les jouets.\n\nChaque jouet disponible sur le marché dans l’Union Européenne devra être muni d’un passeport numérique de produit, détaillant le respect des règles de sécurité applicables. Cela améliorera la traçabilité des jouets et rendra la surveillance du marché et les inspections douanières plus simples et plus efficaces. Sûreté, sécurité et confidentialité dès la conception.\n\nLes jouets intégrant des éléments numériques devront respecter les normes de sûreté, de sécurité et de confidentialité, et ceci dès la conception. Les députés précisent que les jouets numériques dotés d’une intelligence artificielle devront se conformer à la loi sur l’intelligence artificielle et devront respecter les exigences en matière de cybersécurité, de protection des données à caractère personnel et de protection de la vie privée.\n\nSource : www.consilium.europa.eu/fr",
+    "question": "Quel titre convient le mieux à ce texte ?",
     "options": [
-      "de participer au développement durable de Madagascar.",
-      "de contribuer à l'industrialisation des fermes à Madagascar.",
-      "d'agir pour le repeuplement de zébus sur l'île.",
-      "de vivre une expérience unique auprès d'agriculteurs malgaches."
+      "Les risques liés à l'utilisation des jouets.",
+      "La sécurité des jouets: Actualisation des règles.",
+      "L'importation des produits non conformes.",
+      "Les enjeux liés à la santé et au développement des enfants en Europe."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte met en avant un modèle de financement durable et solidaire pour aider les paysans de Madagascar tout en respectant l'agriculture biologique et l'élevage traditionnel. Cela correspond à l'idée de participer au développement durable de Madagascar."
+    "explanation": "Le texte parle de l'actualisation des règles de sécurité des jouets dans l'Union Européenne, y compris l'impact des jouets numériques et des produits chimiques. Le titre le plus approprié est donc \"La sécurité des jouets: Actualisation des règles\", qui reflète précisément le contenu du texte."
   },
   {
     "question_no": 28,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "L’investisseur pourra :",
+    "passage": "Mercredi, le Parlement a approuvé sa position sur la refonte des règles de l’Union en matière de sécurité des jouets par 603 voix pour, 5 contre et 15 abstentions. Le texte, qui convertit la directive actuelle en règlement directement applicable, répond à un certain nombre de nouveaux enjeux, des jouets numériques aux achats en ligne.\n\nAxée sur la santé et le développement des enfants, la proposition renforce les exigences et les interdictions de certaines substances chimiques dans les jouets.\n\nChaque jouet disponible sur le marché dans l’Union Européenne devra être muni d’un passeport numérique de produit, détaillant le respect des règles de sécurité applicables. Cela améliorera la traçabilité des jouets et rendra la surveillance du marché et les inspections douanières plus simples et plus efficaces. Sûreté, sécurité et confidentialité dès la conception.\n\nLes jouets intégrant des éléments numériques devront respecter les normes de sûreté, de sécurité et de confidentialité, et ceci dès la conception. Les députés précisent que les jouets numériques dotés d’une intelligence artificielle devront se conformer à la loi sur l’intelligence artificielle et devront respecter les exigences en matière de cybersécurité, de protection des données à caractère personnel et de protection de la vie privée.\n\nSource : www.consilium.europa.eu/fr",
+    "question": "Les nouvelles règles visent à…",
     "options": [
-      "remplacer l'agriculteur sur certaines tâches à la ferme.",
-      "posséder une parcelle de terre agraire à Madagascar.",
-      "créer un lien unique avec le fermier et l'animal.",
-      "acquérir un savoir-faire dans le domaine agricole."
+      "Imposer un passeport numérique à tous les jouets pour enfants.",
+      "Réduire le nombre de jouets dangereux dans la zone de l'Union Européenne.",
+      "Interdire l'usage des produits chimiques dangereux dans l'UE.",
+      "Renforcer la cybersécurité et à mieux protéger les données personnelles."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte mentionne spécifiquement que l'investisseur est en relation avec l'utilisateur des fonds placés, et il est encouragé à rendre visite au Zébu et au fermier, suggérant ainsi qu'il pourra créer un lien unique avec le fermier et l'animal, plutôt que de prendre part directement aux tâches agricoles."
+    "explanation": "Les nouvelles règles visent principalement à réduire le nombre de jouets dangereux dans l'Union Européenne, notamment par la mise en place de règles de sécurité plus strictes et de passeports numériques pour la traçabilité des jouets. Bien que la cybersécurité et les produits chimiques soient abordés, l'objectif principal est de renforcer la sécurité globale des jouets."
   },
   {
     "question_no": 29,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "L’objectif principal du texte est :",
+    "passage": "4ème édition des assisses nationales sur le foncier rural en Côte d’Ivoire\n\nL’urbanisation exponentielle de certaines zones en Côte d’Ivoire, à l’image de celle du district d’Abidjan, semble incontrôlée et incontrôlable. Cela engendre de nombreux problèmes dans le pays.\n\nC’est pour lever le voile sur cette réalité alarmante, que la 4ème édition des assises nationales sont organisées. Elles se tiendront du 18 au 19 décembre 2028 à l’espace Latrille Event’s à Abidjan-Cocody.\n\nLes assises nationales sur le foncier rural en Côte d’Ivoire 2023 dont le thème est l’urbanisation galopante et le domaine foncier rural, est une initiative conjointe de la Plateforme de la société civile dédiée au foncier en Côte d’Ivoire ALERTE- Foncier, d’Inades-Formation et du Laboratoire Juridique du Foncier de l’Université Alassane Ouattara de Bouaké (LAJFO UAO). Des experts, des praticiens et des populations sont invités à faire des propositions d’articles et de partage d’expérience qui contribueront au débat sur les problématiques et les dynamiques foncières rurales en lien avec le glissement domanial amplifiées par l’expansion non maitrisé des villes ivoiriennes, la préservation des droits fonciers des populations et ceux de l’État, la menace sur la sécurité alimentaire soutenue par les systèmes agraires en difficulté en l’occurrence, l’agriculture familiale.",
+    "question": "Quelle thématique est à l’origine de cette rencontre ?",
     "options": [
-      "de présenter les responsabilités pénales du consommateur.",
-      "de préciser les coûts des différents types de contestations.",
-      "de proposer aux professionnels des moyens pour éviter les litiges.",
-      "de présenter le processus de conciliation en cas de contentieux."
+      "Les mérites de l'urbanisation galopante.",
+      "L'expansion incontrôlée des zones rurales.",
+      "Les menaces de l'étalement urbain sur la vie rurale.",
+      "Le développement des zones rurales."
     ],
-    "right_option": "D",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte se concentre sur la médiation entre consommateurs et professionnels, et comment celle-ci peut être utilisée pour résoudre des litiges de manière amiable. Il explique le rôle du médiateur, les démarches à suivre et les conditions de la médiation. L'objectif est donc de présenter le processus de conciliation en cas de contentieux."
+    "explanation": "Les assises sont organisées pour discuter des problèmes engendrés par l'urbanisation galopante, qui affecte le foncier rural et les droits des populations. Le texte évoque des enjeux liés à l'étalement urbain incontrôlé et ses impacts négatifs sur les zones rurales et l'agriculture familiale."
   },
   {
     "question_no": 30,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "Il appartient au professionnel de :",
+    "passage": "4ème édition des assisses nationales sur le foncier rural en Côte d’Ivoire\n\nL’urbanisation exponentielle de certaines zones en Côte d’Ivoire, à l’image de celle du district d’Abidjan, semble incontrôlée et incontrôlable. Cela engendre de nombreux problèmes dans le pays.\n\nC’est pour lever le voile sur cette réalité alarmante, que la 4ème édition des assises nationales sont organisées. Elles se tiendront du 18 au 19 décembre 2028 à l’espace Latrille Event’s à Abidjan-Cocody.\n\nLes assises nationales sur le foncier rural en Côte d’Ivoire 2023 dont le thème est l’urbanisation galopante et le domaine foncier rural, est une initiative conjointe de la Plateforme de la société civile dédiée au foncier en Côte d’Ivoire ALERTE- Foncier, d’Inades-Formation et du Laboratoire Juridique du Foncier de l’Université Alassane Ouattara de Bouaké (LAJFO UAO). Des experts, des praticiens et des populations sont invités à faire des propositions d’articles et de partage d’expérience qui contribueront au débat sur les problématiques et les dynamiques foncières rurales en lien avec le glissement domanial amplifiées par l’expansion non maitrisé des villes ivoiriennes, la préservation des droits fonciers des populations et ceux de l’État, la menace sur la sécurité alimentaire soutenue par les systèmes agraires en difficulté en l’occurrence, l’agriculture familiale.",
+    "question": "Quelle est la particularité de ces assises ?",
     "options": [
-      "appeler l'organisme de médiation approprié.",
-      "assumer la charge financière liée à la médiation.",
-      "appuyer financièrement le consommateur.",
-      "initier la démarche de médiation avant le consommateur."
+      "Elles feront intervenir uniquement les autorités politiques.",
+      "Elles s'appuieront sur un débat citoyen.",
+      "Les sujets à débattre sont connus à l'avance.",
+      "Elles auront lieu à huis clos."
     ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte précise que le professionnel doit assumer la charge financière liée à la médiation, puisque les coûts de la médiation sont supportés par lui, tandis que la médiation elle-même est gratuite pour le consommateur."
+    "explanation": "Les assises sont ouvertes à des experts, des praticiens et des populations pour contribuer au débat. Ce modèle implique une participation citoyenne, où les participants peuvent proposer des articles et partager des expériences."
   },
   {
     "question_no": 31,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Par ce communiqué, l’entreprise s’attache à :",
+    "passage": "Désormais, toute personne majeure peut changer de nom de famille simplement en prenant, par substitution, le nom du parent qui ne lui a pas été transmis à la naissance et en déclarant son choix par formulaire à la mairie de son domicile ou de son lieu de naissance.\n\nLorsqu’il reçoit la demande, l’Officier d’état civil vérifie divers éléments à savoir sa compétence, l’identité et la nationalité du demandeur, l’absence d’un précédent changement de nom fondé sur la même procédure, la filiation du demandeur ainsi que les conséquences de la demande de changement de nom sur les autres personnes que le demandeur.\n\nÀ noter en effet que le changement de nom d’un adulte s’étend de plein droit à ses enfants de moins de 13 ans. Au-delà de cet âge, leur consentement est requis.\n\nIl convient de souligner qu’avant d’enregistrer ce changement, l’état civil laissera un mois de délai au demandeur qui devra se présenter de nouveau en mairie pour confirmer cette décision.\n\nCette procédure n’est possible qu’une seule fois dans sa vie.\n\nCette nouvelle procédure est extrêmement simplifiée donc aucune justification ne sera exigée au demandeur.\n\nN’hésitez pas à vous rapprocher de votre avocat pour plus d’informations.",
+    "question": "D’après ce document…",
     "options": [
-      "montrer son engagement face au changement climatique.",
-      "encourager les initiatives en faveur des populations à risque.",
-      "informer de potentielles organisations partenaires.",
-      "trouver des investisseurs pour son nouveau fonds."
+      "Les enfants d'au moins 13 ans doivent marquer leur accord en cas de besoin de modification de nom.",
+      "Le changement du nom de famille par l'officier d'état civil prend un mois.",
+      "La nouvelle procédure de changement de nom est totalement gratuite.",
+      "Un précédent changement de nom n'annule pas pour autant la procédure en cours."
     ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte présente un fonds spécifiquement destiné à aider les populations vulnérables face aux catastrophes climatiques, et souligne les objectifs de prévention et de reconstruction. Cela démontre un engagement concret de l'entreprise face aux enjeux du changement climatique."
+    "explanation": "Le texte précise que les enfants de moins de 13 ans sont automatiquement inclus dans le changement de nom de leurs parents, mais au-delà de cet âge, leur consentement est requis. Cela rend la première option correcte."
   },
   {
     "question_no": 32,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Ce fonds servira à :",
+    "passage": "Désormais, toute personne majeure peut changer de nom de famille simplement en prenant, par substitution, le nom du parent qui ne lui a pas été transmis à la naissance et en déclarant son choix par formulaire à la mairie de son domicile ou de son lieu de naissance.\n\nLorsqu’il reçoit la demande, l’Officier d’état civil vérifie divers éléments à savoir sa compétence, l’identité et la nationalité du demandeur, l’absence d’un précédent changement de nom fondé sur la même procédure, la filiation du demandeur ainsi que les conséquences de la demande de changement de nom sur les autres personnes que le demandeur.\n\nÀ noter en effet que le changement de nom d’un adulte s’étend de plein droit à ses enfants de moins de 13 ans. Au-delà de cet âge, leur consentement est requis.\n\nIl convient de souligner qu’avant d’enregistrer ce changement, l’état civil laissera un mois de délai au demandeur qui devra se présenter de nouveau en mairie pour confirmer cette décision.\n\nCette procédure n’est possible qu’une seule fois dans sa vie.\n\nCette nouvelle procédure est extrêmement simplifiée donc aucune justification ne sera exigée au demandeur.\n\nN’hésitez pas à vous rapprocher de votre avocat pour plus d’informations.",
+    "question": "Quelle affirmation est correcte ?",
     "options": [
-      "renforcer la résistance des populations fragiles.",
-      "optimiser les projets environnementaux existants.",
-      "stimuler la croissance économique locale.",
-      "encourager l'innovation technologique."
+      "Le nouveau processus de changement de nom est allégé.",
+      "Une personne mineure doit atteindre la maturité pour pouvoir changer son nom.",
+      "La demande de changement de nom d'un enfant implique automatiquement son accord.",
+      "On peut modifier son nom autant de fois qu'on le souhaite."
     ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte met en avant que le fonds a pour objectif de renforcer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, ce qui correspond à l'idée de renforcer la résistance des populations fragiles."
+    "explanation": "Le document indique que la procédure de changement de nom est simplifiée, car aucune justification n'est exigée du demandeur. La réponse correcte est donc la première option."
   },
   {
     "question_no": 33,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "D’après l’article, les abeilles :",
+    "passage": "Les vacances des Français\n\nEntre 35 et 40% des Français ne partiront pas en vacances en 2023. Une tendance en hausse par rapport à l’année passée. Des chiffres en augmentation de 14 points selon l’Ifop et de 3 points selon le CSA.\n\nLa première raison invoquée par les sondés est le manque de moyens financiers. Les Français voient en effet leur pouvoir d’achat fortement affaibli par l’inflation.\n\nCe grand nombre de Français ne pouvant partir en vacances prend un tour politique. Lundi 19 juin, six députés de la Nupes ont déposé à l’assemblée nationale une proposition de loi << d'urgence >>> afin d’instituer une « vraie politique publique des vacances >».\n\nPour étayer cette initiative, François Ruffin a indiqué qu’en juillet et août 2023, << 69% des plus bas revenus, 44% des ouvriers et trois millions d'enfants resteront à quai ». Pour le médiatique député, les vacances sont donc devenues << le temps de l'inégalité ». Pour inverser la tendance, ces députés ont proposé différentes mesures dont des voyages en train à prix réduit, et des trajets aller-retour sans péage une fois par an ou la rénovation des centres de vacances. De son côté, ATD Quart-Monde a travaillé sur une proposition de loi citoyenne garantissant le droit aux vacances pour tous. Pour venir en aide aux personnes les plus modestes, le gouvernement a dévoilé une série de mesures vendredi 21 avril. Parmi celles-ci, un dispositif met en place une augmentation de 50% du montant de soutien financier pour des personnes âgées dépendantes et leurs aidants, des femmes victimes de violence avec leurs proches et des enfants protégés dans le cadre de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse.",
+    "question": "Qu’est-ce qui explique le déclin des vacances chez les Français ?",
     "options": [
-      "représentent un défi écologique pour les villes.",
-      "apprécient la biodiversité des villes.",
-      "se dirigent davantage vers les milieux urbains.",
-      "produisent moins de miel dans les zones agricoles."
+      "Ils sont de moins en moins attirés par les destinations étrangères.",
+      "La conjoncture à laquelle plusieurs font face.",
+      "L'accroissement des inégalités sociales.",
+      "L'insécurité grandissante à travers le monde."
     ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "L'article met en évidence que les abeilles bénéficient de la diversité des espèces végétales présentes dans les villes, ce qui leur permet de butiner plus longtemps en raison des températures légèrement plus élevées. Cependant, l'augmentation rapide du nombre de ruches entraîne une diminution de la production de miel, car les ressources florales deviennent limitées. Ainsi, les abeilles apprécient la biodiversité des villes qui leur offre une grande variété de sources alimentaires."
+    "explanation": "Le texte mentionne que le manque de moyens financiers est la première raison invoquée par les sondés, ce qui est directement lié à la conjoncture à laquelle plusieurs font face, notamment la baisse du pouvoir d'achat à cause de l'inflation. Cette situation rend les vacances inaccessibles pour une large part de la population, ce qui est en lien avec la réponse b."
   },
   {
     "question_no": 34,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "La mise en place des ruches en ville :",
+    "passage": "Les vacances des Français\n\nEntre 35 et 40% des Français ne partiront pas en vacances en 2023. Une tendance en hausse par rapport à l’année passée. Des chiffres en augmentation de 14 points selon l’Ifop et de 3 points selon le CSA.\n\nLa première raison invoquée par les sondés est le manque de moyens financiers. Les Français voient en effet leur pouvoir d’achat fortement affaibli par l’inflation.\n\nCe grand nombre de Français ne pouvant partir en vacances prend un tour politique. Lundi 19 juin, six députés de la Nupes ont déposé à l’assemblée nationale une proposition de loi << d'urgence >>> afin d’instituer une « vraie politique publique des vacances >».\n\nPour étayer cette initiative, François Ruffin a indiqué qu’en juillet et août 2023, << 69% des plus bas revenus, 44% des ouvriers et trois millions d'enfants resteront à quai ». Pour le médiatique député, les vacances sont donc devenues << le temps de l'inégalité ». Pour inverser la tendance, ces députés ont proposé différentes mesures dont des voyages en train à prix réduit, et des trajets aller-retour sans péage une fois par an ou la rénovation des centres de vacances. De son côté, ATD Quart-Monde a travaillé sur une proposition de loi citoyenne garantissant le droit aux vacances pour tous. Pour venir en aide aux personnes les plus modestes, le gouvernement a dévoilé une série de mesures vendredi 21 avril. Parmi celles-ci, un dispositif met en place une augmentation de 50% du montant de soutien financier pour des personnes âgées dépendantes et leurs aidants, des femmes victimes de violence avec leurs proches et des enfants protégés dans le cadre de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse.",
+    "question": "Quelle solution est proposée par les députés pour enrayer ce déclin ?",
     "options": [
-      "présente des avantages limités dans le temps.",
-      "est inefficace pour protéger l'écosystème.",
-      "a un effet dévastateur sur les campagnes.",
-      "permet à de nouvelles espèces végétales de prospérer."
+      "Mettre en place une loi pour le droit aux vacances pour tous.",
+      "La réhabilitation des centres de vacances et leur accès au prix de rien.",
+      "Une augmentation de 50% du montant de soutien financier pour les personnes âgées dépendantes et leurs aidants.",
+      "La diminution du coût des déplacements en train."
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "L'article souligne que bien que les villes offrent des avantages initiaux pour les abeilles, comme une meilleure biodiversité et des températures plus élevées, ces avantages diminuent au fil du temps. Cela est dû à l'augmentation du nombre de ruches, qui entraîne une saturation des ressources florales disponibles. Ainsi, l'impact positif des villes sur la production de miel diminue au fil des années, ce qui rend les avantages limités dans le temps."
+    "explanation": "Les députés de la Nupes ont proposé des mesures comme des voyages en train à prix réduit et des trajets aller-retour sans péage une fois par an, ce qui correspond à la réponse d. Le texte mentionne également la rénovation des centres de vacances, mais la diminution des coûts des déplacements en train est une des propositions les plus précises mentionnées pour aider à contrer la tendance actuelle."
   },
   {
     "question_no": 35,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "L’auteur de cet article s’inquiète :",
+    "passage": "D’où viennent les émotions?\n\nPendant de nombreux siècles, la question du fonctionnement de nos esprits a été laissée aux théologiens et aux philosophes. Cependant, au début du XXe siècle, une nouvelle science a vu le jour : la psychologie expérimentale, dans laquelle les théories spéculatives du passé ont été confirmées ou réfutées par la méthode scientifique. Au premier plan de cette recherche était J B Watson dont le domaine d’intérêt était l’origine des émotions humaines. Les apprenons-nous, ou les avons-nous quand nous naissons ? En particulier, Watson voulait étudier la peur et était prêt à tout pour étudier sa théorie.\n\nLe sujet de Watson était un bébé de 9 mois. Au cours de l’expérience, Watson a présenté à l’enfant des choses qui sont souvent considérées comme effrayantes – un rat, un feu, un masque de clown. Au début, ce dernier n’avait pas peur de ces choses. Mais Watson tourmenta l’enfant avec des bruits forts et inattendus alors qu’il jouait avec eux. Bien sûr, l’enfant a appris à associer ces choses à l’expérience désagréable. Même lorsque les bruits ont été arrêtés, il a retiré son corps et plissé son visage lorsqu’on lui a présenté à nouveau le rat et le masque.\n\nLe film que Watson a fait de l’expérience rend la vue inconfortable, car l’enfant est interminablement et froidement torturé par les objets qu’on lui a appris à craindre. Néanmoins, il s’agissait d’un travail marquant avec une profonde influence. Grâce à elle, Watson a confirmé que les humains apprennent la peur par association et, par conséquent, ils peuvent la << désapprendre », une découverte qui a encore un impact sur le travail des thérapeutes comportementaux aujourd'hui.",
+    "question": "Qu’est-ce que Watson voulait prouver ?",
     "options": [
-      "de l'avenir du ministère en charge de l'environnement.",
-      "de la perte d'identité des populations du désert.",
-      "des pollutions créées par les chasseurs de météorites.",
-      "de la récupération du patrimoine par des groupes privés."
+      "Les humains peuvent être conditionnés à craindre n'importe quoi.",
+      "Les enfants n'ont pas peur des choses potentiellement dangereuses.",
+      "Les humains naissent avec toutes leurs émotions.",
+      "Les enfants ont plus peur des bruits forts que des rats et des masques."
     ],
-    "right_option": "D",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "L'article met en lumière le risque que les spécimens de météorites marocaines, non protégées par des lois, se retrouvent dans des collections privées au lieu d'être conservés et préservés dans une structure dédiée, comme un musée national. L'auteur s'inquiète de cette récupération par des acteurs privés, comme la Meteorical Society, qui organise même des congrès pour attirer l'attention sur ce patrimoine."
+    "explanation": "Watson voulait démontrer que la peur, et probablement d'autres émotions, peuvent être apprises par conditionnement. Son expérience visait à prouver que les humains pouvaient être conditionnés à craindre des objets non menaçants, comme le rat ou le masque, simplement en les associant à une expérience désagréable (les bruits forts). La réponse a est donc correcte."
   },
   {
     "question_no": 36,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "D’après ce texte, la présence de météorites a généré :",
+    "passage": "D’où viennent les émotions?\n\nPendant de nombreux siècles, la question du fonctionnement de nos esprits a été laissée aux théologiens et aux philosophes. Cependant, au début du XXe siècle, une nouvelle science a vu le jour : la psychologie expérimentale, dans laquelle les théories spéculatives du passé ont été confirmées ou réfutées par la méthode scientifique. Au premier plan de cette recherche était J B Watson dont le domaine d’intérêt était l’origine des émotions humaines. Les apprenons-nous, ou les avons-nous quand nous naissons ? En particulier, Watson voulait étudier la peur et était prêt à tout pour étudier sa théorie.\n\nLe sujet de Watson était un bébé de 9 mois. Au cours de l’expérience, Watson a présenté à l’enfant des choses qui sont souvent considérées comme effrayantes – un rat, un feu, un masque de clown. Au début, ce dernier n’avait pas peur de ces choses. Mais Watson tourmenta l’enfant avec des bruits forts et inattendus alors qu’il jouait avec eux. Bien sûr, l’enfant a appris à associer ces choses à l’expérience désagréable. Même lorsque les bruits ont été arrêtés, il a retiré son corps et plissé son visage lorsqu’on lui a présenté à nouveau le rat et le masque.\n\nLe film que Watson a fait de l’expérience rend la vue inconfortable, car l’enfant est interminablement et froidement torturé par les objets qu’on lui a appris à craindre. Néanmoins, il s’agissait d’un travail marquant avec une profonde influence. Grâce à elle, Watson a confirmé que les humains apprennent la peur par association et, par conséquent, ils peuvent la << désapprendre », une découverte qui a encore un impact sur le travail des thérapeutes comportementaux aujourd'hui.",
+    "question": "L’auteur estime que le travail de Watson a finalement été…",
     "options": [
-      "une nouvelle activité pour les populations du désert.",
-      "une mobilisation sans précédent des universitaires.",
-      "une exposition à destination du grand public.",
-      "un trafic important avec les pays voisins."
+      "Injustifié",
+      "Significatif",
+      "Irrationnel",
+      "Banal"
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte explique que de nombreux nomades du désert ont fait de la chasse aux météorites leur métier, créant ainsi une nouvelle activité pour les populations locales. Cette activité est rendue possible grâce à la vente de météorites, un commerce qui s'est développé autour de ces fragments célestes."
+    "explanation": "L'auteur indique que l'expérience de Watson a eu une profonde influence et a été marquante, même si elle était parfois difficile à regarder en raison de la souffrance infligée à l'enfant. Cela montre que l'auteur considère le travail de Watson comme significatif, en particulier pour les thérapeutes comportementaux qui l'ont suivi. La réponse b est donc correcte."
   },
   {
     "question_no": 37,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, l’être humain :",
+    "passage": "Le boom sur la culture des champignons dans les jardins britanniques\n\nIl y a eu une augmentation du nombre de personnes qui cultivent des champignons dans leurs jardins, et cette année, le prix de la plante de l’année du RHS Chelsea Flower Show comprenait un champignon – le pleurote d’estragon, que l’on ne trouve que dans les îles britanniques – dans sa liste restreinte pour la première fois, bien qu’il s’agisse d’un champignon et non d’une plante.\n\nMais, on craint que les champignons non indigènes cultivés dans les jardins ou jetés dans des tas de compost ne causent un désastre sur la biodiversité, similaire à d’autres plantes de jardin autrefois populaires.\n\nUne fois que les champignons sont dans le sol, ils sont très difficiles à éliminer car ils se propagent avec de minuscules mycéliums et spores, qui ne peuvent pas être enlevés. La renouée du Japon, le rhododendron et le bambou sont parmi les plantes de jardin autrefois populaires qui ont fini par devenir des espèces envahissantes, se répandant dans tout le pays et nuisant aux maisons et à l’environnement.\n\nLes champignons indigènes, cependant, devraient être accueillis dans le jardin car ils se nourrissent de restes de plantes et d’animaux morts et sont essentiels pour décomposer la matière organique en humus, minéraux et nutriments qui peuvent ensuite être utilisés par les plantes.\n\nLes experts ont donc déclaré que lorsque les gens sélectionnent des kits de culture de champignons, ils devraient être des espèces indigènes du Royaume-Uni afin de ne pas se propager et causer des problèmes.",
+    "question": "Sur quoi porte le cri d’alarme…",
     "options": [
-      "doit trouver son harmonie spirituelle.",
-      "se complait dans son anxiété.",
-      "s'épanouit dans ses relations humaines.",
-      "doit intérioriser ses tourments."
+      "Les champignons sont de moins en moins cultivés dans les jardins.",
+      "Certains champignons peuvent altérer la microbiologie du sol britannique.",
+      "De plus en plus de personnes cultivent des champignons indigènes.",
+      "La prolifération des espèces de champignons indigènes menace la biodiversité."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte évoque l'idée que vivre, c'est être fondamentalement intranquille. Cependant, l'être humain doit trouver un équilibre en agissant avec empathie et vigilance, et en luttant contre ses représentations anxieuses. Ce processus implique de trouver une forme d'harmonie dans la gestion de son intranquillité. Ce n'est donc pas l'intériorisation passive ou le repli sur soi qui est encouragé, mais plutôt une quête active d'équilibre et de sérénité."
+    "explanation": "Le texte alerte sur le risque que les champignons non indigènes (et non les indigènes) cultivés dans les jardins ou jetés dans des tas de compost puissent devenir envahissants et nuire à la biodiversité. Ainsi, la bonne réponse est b, qui fait référence au risque d'altérer l'équilibre écologique du sol. La réponse d est incorrecte, car ce sont les champignons non indigènes qui posent problème."
   },
   {
     "question_no": 38,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, la technologie :",
+    "passage": "Le boom sur la culture des champignons dans les jardins britanniques\n\nIl y a eu une augmentation du nombre de personnes qui cultivent des champignons dans leurs jardins, et cette année, le prix de la plante de l’année du RHS Chelsea Flower Show comprenait un champignon – le pleurote d’estragon, que l’on ne trouve que dans les îles britanniques – dans sa liste restreinte pour la première fois, bien qu’il s’agisse d’un champignon et non d’une plante.\n\nMais, on craint que les champignons non indigènes cultivés dans les jardins ou jetés dans des tas de compost ne causent un désastre sur la biodiversité, similaire à d’autres plantes de jardin autrefois populaires.\n\nUne fois que les champignons sont dans le sol, ils sont très difficiles à éliminer car ils se propagent avec de minuscules mycéliums et spores, qui ne peuvent pas être enlevés. La renouée du Japon, le rhododendron et le bambou sont parmi les plantes de jardin autrefois populaires qui ont fini par devenir des espèces envahissantes, se répandant dans tout le pays et nuisant aux maisons et à l’environnement.\n\nLes champignons indigènes, cependant, devraient être accueillis dans le jardin car ils se nourrissent de restes de plantes et d’animaux morts et sont essentiels pour décomposer la matière organique en humus, minéraux et nutriments qui peuvent ensuite être utilisés par les plantes.\n\nLes experts ont donc déclaré que lorsque les gens sélectionnent des kits de culture de champignons, ils devraient être des espèces indigènes du Royaume-Uni afin de ne pas se propager et causer des problèmes.",
+    "question": "Quelle est la réponse au risque évoqué dans le texte ?",
     "options": [
-      "favorise la paix intérieure.",
-      "représente un moyen de méditation.",
-      "incarne une extension de l'Homme.",
-      "symbolise un retour à la réalité."
+      "Privilégier des kits de culture comme le rhododendron et le bambou.",
+      "Limiter la culture de champignons indigènes à la maison.",
+      "Éviter la culture de champignons sauvages dans les jardins.",
+      "Favoriser la culture de champignons sauvages d'origine britannique."
     ],
-    "right_option": "C",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte mentionne que les \"arpenteurs de déserts\" restent connectés à l'actualité via Internet, ce qui indique que la technologie, loin d'être un facteur de paix intérieure, fait plutôt partie d'un projet de vie autonome où les individus utilisent des outils technologiques pour rester informés, même dans des lieux isolés. Cela suggère que la technologie est perçue comme une extension de l'Homme, permettant une connexion au monde extérieur, même en dehors des sociétés traditionnelles."
+    "explanation": "Le texte recommande de favoriser la culture de champignons indigènes du Royaume-Uni, car ceux-ci ne posent pas de risque pour la biodiversité. La réponse d est donc correcte. Les champignons sauvages indigènes ne nuisent pas à l'environnement, contrairement aux champignons non indigènes. La réponse c est incorrecte, car elle suggère d'éviter les champignons sauvages en général, ce qui n'est pas l'argument du texte."
   },
   {
     "question_no": 39,
     "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "Pour endiguer la crise écologique, il faut que :",
+    "passage": "L’OÉA: de la prohibition à la légalisation\n\nAu début du mois de juin 2013, les délégations des États membres de l’Organisation des États américains (OÉA) se sont réunies pour la 43e assemblée générale de cette organisation régionale à Antigua, au Guatemala.\n\nLors de cette assemblée, les ministres des Affaires extérieures de 34 États membres de l’OÉA se réunissent afin de dialoguer sur les avenues qui mèneront à une réalisation efficace des objectifs de l’organisation, soit les droits de l’Homme, la démocratie, la sécurité ainsi que le développement. L’assemblée d’Antigua avait pour principal sujet la problématique des drogues en Amérique.\n\nPréoccupé par cette problématique, le secrétaire général de l’organisation, José Miguel Insulza, avait déjà proposé une piste de solution à la fin du mois de mai. Cette solution est devenue la pierre angulaire des débats de l’OÉA à Antigua quelques jours plus tard.\n\nInsulza proposait une réforme des politiques du combat contre la drogue en Amérique centrale par la légalisation de certaines drogues comme la marijuana. Effectivement, à la fin du mois de mai 2013, l’OÉA publiait le <<< Rapport sur le problème des drogues en Amérique » qui suggère une dépénalisation des délits associés au cannabis. Cette stratégie permettrait une lutte contre le trafic de drogues en coupant le lien entre consommateurs et réseaux mafieux. Cette piste de solution a de plus en plus de partisans comme l'Uruguay, qui est en attente depuis la fin du mois de juillet de l'adoption par son Sénat d'une loi en faveur de la légalisation de la marijuana.",
+    "question": "La 43e assemblée de l’OÉA visait principalement à _______",
     "options": [
-      "la mise en retrait de l'homme est indispensable.",
-      "l'usage des nouvelles technologies est un leurre.",
-      "les pratiques numériques sont à reconsidérer.",
-      "l'intelligence artificielle est porteuse d'espoir."
+      "Trouver les voies et moyens pour mettre un terme au trafic de stupéfiants.",
+      "Mettre en place des stratégies pour renforcer la sécurité et la démocratie en Amérique.",
+      "Renforcer les lois en vigueur contre le trafic de drogues en Amérique.",
+      "Répondre à la question du respect des droits de l'homme à Antigua."
     ],
-    "right_option": "C",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte critique la dépendance excessive aux technologies numériques pour résoudre la crise climatique, en mettant en évidence l'impact environnemental généré par la prolifération des objets connectés et des systèmes autonomes. L’auteur souligne que se concentrer uniquement sur les comportements numériques des humains pourrait être vain, suggérant ainsi qu'une reconsidération des pratiques numériques est nécessaire pour véritablement maîtriser l'impact écologique."
+    "explanation": "Le texte mentionne que la problématique principale de cette assemblée était la question des drogues en Amérique. Le principal sujet des discussions était donc la lutte contre le trafic de stupéfiants, ce qui rend la réponse a correcte. Les autres options sont moins pertinentes par rapport au sujet traité."
   },
   {
     "question_no": 40,
     "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "L’auteur dénonce :",
+    "passage": "L’OÉA: de la prohibition à la légalisation\n\nAu début du mois de juin 2013, les délégations des États membres de l’Organisation des États américains (OÉA) se sont réunies pour la 43e assemblée générale de cette organisation régionale à Antigua, au Guatemala.\n\nLors de cette assemblée, les ministres des Affaires extérieures de 34 États membres de l’OÉA se réunissent afin de dialoguer sur les avenues qui mèneront à une réalisation efficace des objectifs de l’organisation, soit les droits de l’Homme, la démocratie, la sécurité ainsi que le développement. L’assemblée d’Antigua avait pour principal sujet la problématique des drogues en Amérique.\n\nPréoccupé par cette problématique, le secrétaire général de l’organisation, José Miguel Insulza, avait déjà proposé une piste de solution à la fin du mois de mai. Cette solution est devenue la pierre angulaire des débats de l’OÉA à Antigua quelques jours plus tard.\n\nInsulza proposait une réforme des politiques du combat contre la drogue en Amérique centrale par la légalisation de certaines drogues comme la marijuana. Effectivement, à la fin du mois de mai 2013, l’OÉA publiait le <<< Rapport sur le problème des drogues en Amérique » qui suggère une dépénalisation des délits associés au cannabis. Cette stratégie permettrait une lutte contre le trafic de drogues en coupant le lien entre consommateurs et réseaux mafieux. Cette piste de solution a de plus en plus de partisans comme l'Uruguay, qui est en attente depuis la fin du mois de juillet de l'adoption par son Sénat d'une loi en faveur de la légalisation de la marijuana.",
+    "question": "L’issue de cette assemblée est marquée par…",
     "options": [
-      "la pollution générée par les intelligences artificielles.",
-      "l'usage immoral fait des intelligences artificielles.",
-      "les contradictions dans les études sur les intelligences artificielles.",
-      "la pensée unique sur les intelligences artificielles."
+      "Un changement probable de paradigme dans les méthodes de combat contre le trafic de drogues.",
+      "L'adoption à l'unanimité, d'une loi qui ne considère plus le trafic de drogues comme une infraction.",
+      "L'adoption d'une loi en faveur de la légalisation de la vente de la marijuana et du cannabis.",
+      "La prohibition de la consommation des drogues."
     ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte critique l’impact environnemental du numérique, en particulier des technologies autonomes comme les véhicules intelligents et les logiciels tournant en continu. Il remet en question l’idée que le numérique soit automatiquement bénéfique pour le climat, et alerte sur la pollution invisible et incontrôlée que pourraient engendrer ces systèmes, y compris l’IA."
+    "explanation": "Le texte indique que la solution proposée par l'OÉA est la légalisation de certaines drogues comme la marijuana, afin de casser le lien entre consommateurs et réseaux mafieux. La réponse a est donc correcte, car elle fait référence à un changement de politique (légalisation au lieu de prohibition) dans la lutte contre les drogues. La réponse c est trop spécifique et ne correspond pas exactement au contenu du texte."
   }
 ]

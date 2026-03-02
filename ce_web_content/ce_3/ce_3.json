@@ -2,512 +2,587 @@
   {
     "question_no": 1,
     "group": 1,
-    "passage": "Pour une ville propre !\n\nLa ville de Bruges ramasse chaque année 18 tonnes de cigarettes jetées au sol.\nUn mégot par terre : 68 euros d’amende !",
-    "question": "Ce document est :",
+    "passage": "Lapins nains !\n\nJe vends deux petits lapins de quatre mois. Ils sont nés à la ferme, entourés d’autres animaux. Ils ont besoin d’une nouvelle maison car nous partons à l’étranger !\n\nIls sont affectueux avec les humains et ils aiment le contact avec les hamsters et les souris.\n\nSi vous êtes une personne sérieuse qui aime s’occuper des animaux, contactez-nous au : 00.01.02.03.04",
+    "question": "Ce document propose :",
     "options": [
-      "un règlement intérieur",
-      "un panneau d'information",
-      "un dépliant touristique",
-      "une offre d'emploi"
+      "d'acheter des animaux de compagnie.",
+      "de s'occuper d'animaux malades.",
+      "de participer à une visite de la ferme.",
+      "de garder des animaux pendant les vacances."
     ],
-    "right_option": "B",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Ce document sert à informer et sensibiliser les citoyens sur les conséquences de jeter des mégots par terre. Il ne détaille pas des règles internes, ne fait pas la promotion touristique, et n'offre pas d'emploi. Il s'agit donc d’un panneau d'information."
+    "explanation": "L’annonce parle de deux lapins à vendre qui cherchent une nouvelle maison. Cela montre qu’il s’agit d’une proposition pour acheter des animaux de compagnie."
   },
   {
     "question_no": 2,
     "group": 2,
-    "passage": "JF 20 ans étudiante en formation « petite enfance », sérieuse avec beaucoup d’expérience, propose garde d’enfants (de 2 à 10 ans) les soirs, les mercredis et les dimanches.\n\nSi vous êtes intéressé(e), contactez-moi :\n232-21-18-14 ou adele@lilo.org",
-    "question": "L’auteure de cette annonce est disponible :",
+    "passage": "Attention : en raison d’un afflux important de commandes pendant la période promotionnelle, les délais de traitement peuvent être prolongés jusqu’à 72 h.\nNous faisons le maximum pour assurer les expéditions dans les meilleurs délais. Merci de votre patience.",
+    "question": "Ce document est :",
     "options": [
-      "en début de journée",
-      "plusieurs fois par semaine",
-      "une fois par semaine",
-      "seulement le weekend"
+      "une mesure de gestion prévisionnelle de crise.",
+      "une communication d’anticipation commerciale.",
+      "un ajustement contextuel d’une promesse de service.",
+      "un aveu de dégradation temporaire de la prestation."
     ],
-    "right_option": "B",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Elle propose ses services les soirs, les mercredis et les dimanches, ce qui représente plusieurs moments répartis sur la semaine. Donc, elle est disponible plusieurs fois par semaine."
+    "explanation": "Le message informe les clients que, en raison d’un contexte exceptionnel (fortes commandes), les délais habituels peuvent être allongés. L’entreprise ajuste donc temporairement sa promesse de service (délais de livraison), tout en rassurant sur les efforts faits. Ce n’est pas un aveu d’échec, mais un ajustement adapté à la situation."
   },
   {
     "question_no": 3,
     "group": 3,
-    "passage": "L’Asie du Sud au cinéma !\n\nLe festival « Cinéasia » présente en Belgique des films de toute l’Asie du Sud.\n\nL’Inde et ses voisins seront parmi nous et une journée sera dédiée au Pakistan.\n\nL’an dernier, vous avez adoré notre nuit « Frissons ». Cette année, vous allez rire avec notre nuit « Comédies » ! Venez nombreux !",
-    "question": "Le programme du festival :",
+    "passage": "PARTICIPEZ À NOTRE CONCOURS!\n\nDans le cadre du Festival “Montréal en lumières”, gagnez 4 billets pour “Ari Cui-Cui et les patins magiques” ce dimanche 20 février à 15h au Théâtre de la ville.\n\nParticipez avant le jeudi 17 février à 17h et dîtes nous avec qui vous voulez assister à la représentation.\n\nBonne chance!",
+    "question": "Ce document propose",
     "options": [
-      "est le même que l'an dernier",
-      "reste encore à définir",
-      "est renouvelé chaque année",
-      "est destiné aux plus jeunes"
+      "une vente de tickets à prix réduit.",
+      "une rencontre avec une star.",
+      "un jeu pour voir un spectacle.",
+      "un événement réservé à des abonnés."
     ],
     "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte compare le programme de cette année avec celui de l’année précédente (de « Frissons » à « Comédies »), ce qui montre que le contenu change d'une édition à l'autre. Le programme est donc renouvelé chaque année."
+    "explanation": "Le texte invite les lecteurs à participer à un concours pour gagner des billets, ce qui correspond à un jeu pour assister à un spectacle."
   },
   {
     "question_no": 4,
     "group": 4,
-    "passage": "Professeur au Conservatoire de Montréal donne des\nCOURS DE CHANT\n\nTechniques italienne et française\nOpéra – Chanson française – Opérette\nSessions d’une semaine à six mois\nProgrès rapides garantis !\nTel. : 514-873-4283",
-    "question": "Ce document propose :",
+    "passage": "Suisse – Neufchâtel (centre-ville), superbe appartement, cinq pièces, trois chambres, deux salles de bain, cuisine équipée, grand balcon avec très belle vue, disponible le 1er septembre.\n\n2800 francs par mois, eau et électricité non comprises.\n\nA voir absolument !",
+    "question": "Ce message propose",
     "options": [
-      "un enseignement de qualité",
-      "une place à l'Opéra",
-      "un poste en Italie",
-      "une semaine de concerts"
+      "de profiter d'un séjour.",
+      "de visiter un site touristique.",
+      "de louer un logement.",
+      "d'acheter un article."
     ],
-    "right_option": "A",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Il s’agit d’une annonce de cours de chant donnés par un professeur au Conservatoire, avec des techniques précises et une promesse de progrès. Cela met en avant un enseignement de qualité, pas une offre de travail ni des concerts."
+    "explanation": "Le texte décrit un appartement à louer avec ses caractéristiques, son prix mensuel et sa disponibilité, ce qui correspond à une offre de location de logement."
   },
   {
     "question_no": 5,
     "group": 5,
-    "passage": "Vous souhaitez agir pour préserver notre climat, pour rendre notre société plus écologique et solidaire ?\n\nAu festival « Agir à Lyon », vous pourrez rencontrer une trentaine d’associations avec qui devenir bénévole. À travers une dizaine de mini-conférences, vous découvrirez des projets inspirants pour vous donner envie de mettre l’écologie au centre de votre mode de vie.\n\nNous vous inviterons, par des démonstrations simples, à découvrir des actions à faire chez soi ou autour de soi : compostage, cuisine anti-gaspillage, etc.",
-    "question": "Le but de l’événement est de :",
+    "passage": "Depuis la disparition soudaine de leur tante Suzanne, les réunions du dimanche n’avaient plus la même saveur.\n\nC’est toujours Mireille, l’aînée, qui tenait à perpétuer les traditions, mais le cœur n’y était plus.\n\nJulien, le cadet, avait déménagé à Québec, et Léa, absorbée par son nouveau travail en soins palliatifs, ne répondait plus aux invitations.\n\nSeule Mamie Simone semblait immuable, fidèle au vieux fauteuil vert, attendant silencieusement que tout revienne comme avant.",
+    "question": "Ce document est…",
     "options": [
-      "découvrir des activités écologiques",
-      "rencontrer des scientifiques",
-      "créer de nouvelles associations",
-      "ramasser les déchets d’un quartier"
+      "un récit professionnel",
+      "une biographie informelle",
+      "une lettre nostalgique",
+      "une narration familiale"
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte insiste sur la découverte de projets écologiques, de gestes simples à faire soi-même, et sur l’envie d’agir pour l’environnement. Il s’agit donc de découvrir des activités écologiques."
+    "explanation": "Le texte raconte une situation personnelle et intime, centrée sur une famille, ses habitudes, ses membres et l’évolution de leurs relations après un décès. Il s’agit clairement d’un récit à caractère familial, et non d’un texte professionnel, d’une biographie ou d’une lettre."
   },
   {
     "question_no": 6,
     "group": 6,
-    "passage": "Madame, Monsieur,\n\nNous vous rappelons que certaines œuvres sont soumises au droit d’auteur. Pour pouvoir les reproduire ou les diffuser sur notre plateforme, nous vous demandons de bien vouloir effectuer une déclaration lors de chaque commande d’impression ou de mise en ligne.\n\nCette déclaration se fait en ligne, est anonyme et ne demandera aucune rétribution de votre part. Vous devrez néanmoins indiquer le numéro de votre commande.\n\nATTENTION ! Sans ces indications, vos demandes ne pourront être traitées.\n\nBien cordialement,\nDirection de la Communication, Université Sorbonne Nouvelle",
-    "question": "Ce mail rappelle :",
+    "passage": "Le bureau des affaires sociales est désormais fusionné avec le guichet des aides au logement.\n\nLes usagers peuvent effectuer leurs démarches les lundis et jeudis, uniquement sur rendez-vous.\n\nLes demandes urgentes (expulsion imminente, coupure d’eau ou d’électricité) doivent être signalées à l’accueil avec justificatif.\n\nUn nouveau formulaire en ligne est disponible à partir du 5 septembre sur montreal-services.ca.",
+    "question": "Ce document est…",
     "options": [
-      "l'interdiction de copier les œuvres",
-      "le délai de traitement des commandes",
-      "l'obligation de payer les droits d'auteur",
-      "les règles d'utilisation des œuvres"
+      "Un règlement interne.",
+      "Une consigne d'urgence.",
+      "Une notice administrative.",
+      "Une plainte officielle."
     ],
-    "right_option": "D",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le message explique qu’une déclaration est nécessaire pour reproduire ou diffuser des œuvres protégées par le droit d’auteur. Il ne parle pas d’interdiction, de délai, ni de paiement. Il rappelle donc les règles d’utilisation des œuvres."
+    "explanation": "Le document informe les usagers des nouvelles modalités pour effectuer leurs démarches, des jours disponibles, des urgences à signaler, et de la mise en place d’un formulaire en ligne. Ce type d’information correspond à une notice administrative destinée à guider les utilisateurs."
   },
   {
     "question_no": 7,
     "group": 7,
-    "passage": "Service civique\n\nEn France, vous pouvez effectuer un service civique. Il s’agit d’un engagement volontaire de six à douze mois au service de l’intérêt général. D’une durée hebdomadaire de vingt-quatre heures minimum, il est indemnisé 580 € par mois.\n\nLe service civique est une expérience unique ouverte à tous les jeunes de 16 à 25 ans, et jusqu’à 30 ans en situation de handicap, sans condition de diplôme. Seule votre motivation compte !\n\nVous pouvez réaliser votre mission de service civique auprès d’une association, d’une collectivité territoriale, d’un établissement public, d’un bailleur de logement social ou des services de l’État.",
-    "question": "Le service civique permet aux jeunes :",
+    "passage": "Des nuisances sonores excessives ayant été signalées à plusieurs reprises, nous rappelons que tout bruit gênant après 22h est interdit. Des contrôles aléatoires seront effectués. Les contrevenants s’exposent à des sanctions pouvant aller jusqu’à l’expulsion. Merci de respecter le règlement intérieur.",
+    "question": "Ce document est…",
     "options": [
-      "de prouver leurs compétences à l'international",
-      "de participer au bon fonctionnement de la société",
-      "de bénéficier d'un emploi pendant 2 ans",
-      "d'obtenir un diplôme à l'issue de leur engagement"
+      "Un avertissement comportemental assorti d'une menace.",
+      "Une application renforcée d'une règle préexistante.",
+      "Une note dissuasive à visée réglementaire.",
+      "Une procédure précontentieuse à portée informative."
     ],
-    "right_option": "B",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte insiste sur l'engagement volontaire au service de l'intérêt général, dans différents types de structures. Cela permet donc de participer au bon fonctionnement de la société, pas d'obtenir un diplôme ou un emploi formel."
+    "explanation": "Le texte rappelle une règle existante et avertit clairement que des sanctions, y compris l’expulsion, seront appliquées. C’est donc un avertissement avec une menace pour inciter au respect du règlement."
   },
   {
     "question_no": 8,
     "group": 8,
     "passage": "",
-    "question": "Pour rester en bonne santé, ______ des fruits et des légumes.",
-    "options": ["achetez", "mangez", "vendez", "préparez"],
-    "right_option": "B",
+    "question": "Elle porte une paire de ____ pour se protéger les mains.",
+    "options": [
+      "gants",
+      "lunettes",
+      "chaussures",
+      "bottes"
+    ],
+    "right_option": "A",
     "image_path": null,
-    "explanation": "La phrase encourage à adopter une bonne hygiène de vie pour rester en bonne santé. Le verbe \"mangez\" est donc le plus approprié, car il invite à consommer des fruits et des légumes."
+    "explanation": "On utilise des gants pour protéger les mains. Les autres options (lunettes, chaussures, bottes) protègent d'autres parties du corps."
   },
   {
     "question_no": 9,
     "group": 8,
     "passage": "",
-    "question": "Venez découvrir l’immensité des espaces blancs et l’accueil _____ de nos habitants !",
-    "options": ["chaleureux", "sensible", "intimiste", "contenu"],
-    "right_option": "A",
+    "question": "Au Québec, les élèves ____ l’école à 7h30.",
+    "options": [
+      "trouvent",
+      "écoutent",
+      "commencent",
+      "passent"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "L'expression \"l'accueil de nos habitants\" suggère une atmosphère positive et accueillante. L'adjectif \"chaleureux\" est donc le plus adapté, car il évoque un accueil amical et bienveillant."
+    "explanation": "Le verbe qui complète correctement la phrase est \"commencent\" car les élèves commencent l'école à 7h30, c’est-à-dire qu’ils débutent leurs cours à cette heure."
   },
   {
     "question_no": 10,
     "group": 8,
     "passage": "",
-    "question": "En raison des vacances, la boulangerie sera ______ jusqu’à lundi prochain !",
-    "options": ["louée", "habitée", "occupée", "fermée"],
-    "right_option": "D",
+    "question": "Avant de commencer une activité sportive, donnez-vous des ____.",
+    "options": [
+      "résultats",
+      "objectifs",
+      "idées",
+      "projets"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le contexte indique que la boulangerie ne sera pas ouverte en raison des vacances. Le mot \"fermée\" est donc le plus approprié, car il signifie qu'elle sera fermée temporairement."
+    "explanation": "Le mot \"objectifs\" convient le mieux ici, car avant de commencer une activité sportive, on se fixe des buts à atteindre, comme améliorer sa forme ou courir une certaine distance."
   },
   {
     "question_no": 11,
     "group": 8,
     "passage": "",
-    "question": "Pendant la réunion, nous avons parlé de _____ du prix de l’essence.",
-    "options": ["l'innovation", "l'augmentation", "l'ajout", "l'élévation"],
-    "right_option": "B",
+    "question": "Le Québec ____ quatre fois plus d’étudiants internationaux que le reste du pays.",
+    "options": [
+      "rencontre",
+      "enlève",
+      "reporte",
+      "reçoit"
+    ],
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le prix de l'essence peut augmenter, ce qui correspond à \"l'augmentation\". Les autres options ne sont pas adaptées au contexte de l'évolution du prix."
+    "explanation": "Le verbe \"reçoit\" est le plus approprié ici, car il indique que le Québec accueille un grand nombre d'étudiants internationaux, ce qui correspond bien au sens de la phrase."
   },
   {
     "question_no": 12,
     "group": 8,
     "passage": "",
-    "question": "Salut Justine ! J’ai besoin d’un marteau pour _____ mes peintures, pourrais-tu me prêter le tien ?",
-    "options": ["attacher", "étendre", "retenir", "accrocher"],
+    "question": "Pendant la manifestation, les trains circuleront comme prévu. Cependant, le trafic des bus du réseau national sera ____.",
+    "options": [
+      "réquisitionné",
+      "endommagé",
+      "déplacé",
+      "perturbé"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "Le contexte suggère que la personne veut suspendre ou fixer des peintures. Le verbe \"accrocher\" est donc le plus approprié, car il signifie suspendre quelque chose, comme des tableaux ou des peintures."
+    "explanation": "Le mot \"perturbé\" est le plus adapté ici, car lors d'une manifestation, les transports comme les bus peuvent être affectés, ralentis ou modifiés dans leur fonctionnement normal."
   },
   {
     "question_no": 13,
     "group": 8,
     "passage": "",
-    "question": "Pour continuer à défendre l’environnement, votre _____ nous est indispensable : sachez que les manières d’agir sont multiples !",
-    "options": ["service", "sécurité", "support", "soutien"],
+    "question": "La rue peut être un lieu tout à fait indiqué pour ____ artistiques.",
+    "options": [
+      "établir",
+      "définir",
+      "proclamer",
+      "encourager"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "Le mot \"soutien\" est celui qui convient le mieux dans ce contexte, car il évoque l'idée d'encouragement ou de soutien nécessaire pour défendre l'environnement. Le mot est répété, mais il s'agit du bon choix."
+    "explanation": "La phrase signifie que la rue est un bon endroit pour encourager l’expression de talents artistiques. Les autres verbes (établir, définir, proclamer) ne correspondent pas ici."
   },
   {
     "question_no": 14,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "Les habitants qui font réparer leurs objets en panne reçoivent depuis 2 ans une prime. Une [1] ____ éco-responsable mise en place par la ville, qui tente de limiter le gaspillage.\nL’objectif : baisser la facture de réparation, et ainsi [2] ____ l’activité des artisans.",
     "question": "(1)",
-    "options": ["batterie", "bataille", "explosion", "tempête"],
-    "right_option": "D",
+    "options": [
+      "création",
+      "démarche",
+      "attitude",
+      "demande"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": ""
+    "explanation": "Démarche éco-responsable est une expression courante pour désigner une action ou une politique respectueuse de l’environnement."
   },
   {
     "question_no": 15,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "Les habitants qui font réparer leurs objets en panne reçoivent depuis 2 ans une prime. Une [1] ____ éco-responsable mise en place par la ville, qui tente de limiter le gaspillage.\nL’objectif : baisser la facture de réparation, et ainsi [2] ____ l’activité des artisans.",
     "question": "(2)",
-    "options": ["pratiques", "courbées", "réalisables", "ouvertes"],
-    "right_option": "D",
+    "options": [
+      "approuver",
+      "confirmer",
+      "soutenir",
+      "autoriser"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "- Tempête est le terme approprié pour décrire une forte perturbation climatique avec de la neige et des vents violents. - Ouvertes convient ici pour indiquer que les routes ne sont pas encore fermées malgré les conditions difficiles."
+    "explanation": "Soutenir l'activité des artisans signifie aider à maintenir ou développer leur travail, ce qui correspond bien à l’idée de les encourager via une prime."
   },
   {
     "question_no": 16,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "L’agence fédérale signale que si la population canadienne continue d’augmenter dans l’avenir, ce sera surtout grâce à [1] ____ qui devrait rester assez importante au cours des prochaines décennies. Celle-ci ne parvient toutefois pas à accroître de façon significative la proportion des jeunes dans la population, si bien que le Canada demeurera dépendant de l’extérieur pour assurer [2] ____ de sa population.",
     "question": "(1)",
-    "options": ["remboursés", "ramassés", "regroupés", "collectés"],
-    "right_option": "D",
+    "options": [
+      "l'immigration",
+      "la croissance naturelle",
+      "la natalité élevée",
+      "l’urbanisation rapide"
+    ],
+    "right_option": "A",
     "image_path": null,
-    "explanation": ""
+    "explanation": "L'immigration est la cause principale de l’augmentation de la population selon le contexte."
   },
   {
     "question_no": 17,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "L’agence fédérale signale que si la population canadienne continue d’augmenter dans l’avenir, ce sera surtout grâce à [1] ____ qui devrait rester assez importante au cours des prochaines décennies. Celle-ci ne parvient toutefois pas à accroître de façon significative la proportion des jeunes dans la population, si bien que le Canada demeurera dépendant de l’extérieur pour assurer [2] ____ de sa population.",
     "question": "(2)",
-    "options": ["initiative", "origine", "alliance", "utilité"],
-    "right_option": "D",
+    "options": [
+      "le renouvellement",
+      "le vieillissement",
+      "le remplacement des générations",
+      "la croissance économique"
+    ],
+    "right_option": "A",
     "image_path": null,
-    "explanation": "- Collectés est le terme le plus approprié, car il fait référence à des fonds recueillis pour une cause. - Utilité publique est une expression courante qui désigne une organisation reconnue d’intérêt général, ce qui correspond bien à SOS SAHEL."
+    "explanation": "Le renouvellement fait référence au remplacement générationnel, c’est-à-dire maintenir une population stable en nombre malgré le vieillissement."
   },
   {
     "question_no": 18,
     "group": 11,
-    "passage": "Film 1\nJohn a quitté les services secrets et vit maintenant en Jamaïque. Mais sa tranquillité se termine quand un ami lui demande de l’aide : il faut sauver un scientifique qui vient d’être kidnappé. L’épreuve commence dans la jungle…\n\nFilm 2\nPaul et Virginie viennent d’avoir un petit garçon. Heureux à l’idée de découvrir leur nouvelle vie de jeunes parents, ils n’imaginaient pas du tout que leur bébé allait devenir le centre d’une forte lutte entre les grands-parents…\n\nFilm 3\nHatidze est une des dernières personnes à récolter le miel de manière traditionnelle, dans les montagnes désertiques de Macédoine. Elle prélève uniquement le miel nécessaire pour gagner modestement sa vie et essayer de préserver la biodiversité.\n\nFilm 4\nLéa, Marc, Karine et Francis sont deux couples d’amis de longue date. Mais l’harmonie disparaît le jour où Léa leur annonce qu’elle a écrit un roman, qui deviendra un best-seller. La jalousie commence à apparaître avec ses conséquences!",
-    "question": "Quel film propose de l’aventure ?",
-    "options": ["Film 1", "Film 2", "Film 3", "Film 4"],
-    "right_option": "A",
+    "passage": "Film 1\nEnzo vient d’un quartier pauvre. Employé dans un club de tennis fréquenté par des personnes riches, il est prêt à tout pour changer son destin et se fait remarquer par Lina, une ex-championne qui décide de l’aider.\n\nFilm 2\nUn célèbre homme politique est accusé d’avoir tué son épouse, retrouvée morte dans une chambre d’hôtel au bord de la mer du Nord. Est-il coupable ou innocent ? Personne ne le sait. Et peut-être que lui non plus.\n\nFilm 3\nDans les années 1970, l’histoire vraie d’un petit garçon vivant au Liban avec sa famille. Il passe son temps à s’amuser avec ses copains, jusqu’à ce que la guerre civile éclate, mettant fin à l’innocence de l’enfance.\n\nFilm 4\nKatia Lalande a été une très grande créatrice de roses. Aujourd’hui, elle est au bord de la faillite. Avec ses trois employés, elle se lance dans une aventure extraordinaire pour sauver sa petite exploitation artisanale.",
+    "question": "Lequel de ces films raconte une histoire criminelle ?",
+    "options": [
+      "Film 1",
+      "Film 2",
+      "Film 3",
+      "Film 4"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le Film 1 décrit une histoire avec du suspense, de l'action et de l'aventure, où le protagoniste se lance dans une mission pour sauver un scientifique, le tout dans un cadre exotique (la jungle). C'est donc le film qui propose le plus d'aventure."
+    "explanation": "Le Film 2 traite d'une enquête sur un meurtre présumé impliquant un homme politique. Le crime (la mort suspecte de son épouse) est au cœur de l'intrigue, ce qui en fait une histoire criminelle."
   },
   {
     "question_no": 19,
     "group": 12,
-    "passage": "Activité 1\nLe GR 20 est réservé aux randonneurs confirmés. 200 km entre Calenzana et Conca. À voir en cours de route, outre les paysages de rêve : alpages, bergeries, mouflons, chèvres, cabris… Les excellents marcheurs peuvent le faire en 12 à 13 jours, mais prévoir 16 jours est plus raisonnable.\n\nActivité 2\nLa via ferrata, ce sont des itinéraires rocheux sécurisés par un câble et des marches métalliques. La première a été aménagée dans la vallée d’Asco. Longue de 350 m et réservée aux sportifs, on peut la faire seul ou avec un guide. Une bonne formule pour s’initier aux frissons de l’escalade.\n\nActivité 3\nBalisés en orange, les sentiers “Mare a Mare” permettent de traverser la Corse d’est en ouest, de “mer à mer”. Ce sont des itinéraires courts, de moyenne montagne, offrant un panorama sur les plus célèbres sommets de l’île. Les parcours sont tous très beaux, traversant des régions variées.\n\nActivité 4\nLa Corse compte près de 100 sites où le canyoning peut être pratiqué. Il s’agit de descendre un cours d’eau encaissé dans un canyon, à pied, à la nage, par des sauts en rappel, en glissant sur des “toboggans”. Un équipement spécial est nécessaire.",
-    "question": "Quelle activité semble la moins difficile physiquement ?",
-    "options": ["Activité 1", "Activité 2", "Activité 3", "Activité 4"],
-    "right_option": "C",
+    "passage": "Restaurant 1\nRestaurant idéal pour un dîner romantique avec une vue magnifique sur la ville de Montréal ! Notre cuisine est originale et à base de produits régionaux. Le menu << tout légumes >> est très apprécié des personnes qui ne mangent ni viande, ni poisson.\n\nRestaurant 2\nLa cuisine proposée par notre jeune cuisinier brésilien est authentique et délicieuse de l’entrée jusqu’au dessert. Nos serveurs sont tous souriants et disponibles. En été, vous pouvez apprécier votre repas en terrasse en écoutant de la samba. En hiver, nos deux salles intérieures sont bien chauffées.\n\nRestaurant 3\nIci, on propose une cuisine classique pour un excellent rapport qualité-prix. C’est une très bonne adresse pour les amateurs de viande et de charcuterie. Un lieu plutôt réservé aux repas en famille ou entre amis. Les serveurs sont très attentionnés et tous les clients repartent satisfaits.\n\nRestaurant 4\nNos deux jeunes cuisiniers travaillent exclusivement avec des produits frais. Le menu est imaginé chaque jour ! Le service est très professionnel et le restaurant a un petit salon calme pour les réunions et les dîners privés. Vous pouvez même organiser votre anniversaire.",
+    "question": "Quel restaurant propose un repas végétarien ?",
+    "options": [
+      "Restaurant 1",
+      "Restaurant 2",
+      "Restaurant 3",
+      "Restaurant 4"
+    ],
+    "right_option": "A",
     "image_path": null,
-    "explanation": "L'Activité 3, les sentiers \"Mare a Mare\", sont décrits comme des itinéraires courts de moyenne montagne, offrant un panorama, mais sans mentionner de difficulté majeure. Les autres activités (GR 20, via ferrata, canyoning) impliquent des défis physiques plus importants, comme des randonnées longues et difficiles, de l'escalade ou des descentes en rappel."
+    "explanation": "Le Restaurant 1 mentionne clairement un menu << tout légumes >>, apprécié par ceux qui ne mangent ni viande, ni poisson, ce qui en fait un choix végétarien."
   },
   {
     "question_no": 20,
     "group": 13,
-    "passage": "Séjour 1\nTroglodyte, rien que le terme est déjà un voyage. Habiter une maison creusée dans la roche est devenu un mode de vie insolite et minimaliste. Ainsi, plusieurs grottes de pêcheurs nichées dans les falaises ont été transformées en chambres d’hôtes. Un lieu idéal pour une introspection face à l’océan, bercé par le bruit des vagues et hypnotisé par le coucher du soleil.\n\nSéjour 2\nConfiné dans une bulle, vous devenez l’incarnation de l’expression “être dans sa bulle”. Expérience idéale pour les loups solitaires qui souhaitent se retirer du monde pour vivre en forêt, protégés par une bulle en plastique recyclé. En harmonie avec la nature, l’être humain se laisse envoûter par la faune et la flore qui l’entourent. Attention toutefois à ne pas déranger l’ours qui hiberne…\n\nSéjour 3\nLes chasseurs d’hôtels insolites vont se réjouir de cette nouvelle façon de vivre. Plongé dans le quotidien des Bourbons, le château de Fontainebleau ouvre grand ses portes. Les amoureux des forteresses seront les bienvenus pour y découvrir des façons de vivre ancestrales, des coutumes traditionnelles et des costumes d’époque. Un séjour dans ce lieu singulier saura vous satisfaire.\n\nSéjour 4\nAu revoir les vacances à la mer, les coups de soleil et le sable qui s’infiltre partout ! Et bonjour les températures extrêmes! Amateurs de sport d’hiver et aventuriers qui n’ont pas froid aux yeux, cette destination unique est faite pour vous ! Dormir dans un igloo est devenu LA tendance écologique du moment: seul ou en couple, vous pouvez être sûrs de respirer un bon bol d’air frais!",
-    "question": "Quelle offre de séjour correspond le mieux aux passionnés d’Histoire ?",
-    "options": ["Séjour 1", "Séjour 2", "Séjour 3", "Séjour 4"],
-    "right_option": "C",
+    "passage": "Offre 1\nDans le cadre de notre expansion récente, nous recherchons actuellement un Expert-comptable (h/f) spécialiste de l’immobilier. Nous vous offrons la possibilité de mettre votre talent au service d’une entreprise renommée à l’international. Emploi à pourvoir immédiatement.\n\nOffre 2\nVous aimez le sport ? Dynamique et souriant vous savez convaincre ? Vous êtes disponible pour des déplacements au niveau international ? Dans le cadre du développement de notre entreprise, nous recherchons un représentant en ventes sur toute la zone Europe.\n\nOffre 3\nNotre groupe dispose d’une offre élargie qui le rend unique, avec une vision novatrice de la relation entre tous les acteurs du domaine : entreprises, candidats à l’emploi, institutionnels. Nous recherchons pour notre agence spécialisée, plusieurs conseillers emploi et carrière h/f.\n\nOffre 4\nNous recherchons, dans le cadre de l’ouverture d’une agence spécialisée dans le secteur de la restauration, un(e) Responsable d’agence. Notre entreprise est devenue un groupe référent avec ses solutions innovantes dans le recrutement et le détachement de compétences.",
+    "question": "Quelle offre d’emploi propose un poste de commercial ?",
+    "options": [
+      "Offre 1",
+      "Offre 2",
+      "Offre 3",
+      "Offre 4"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le Séjour 3 dans le château de Fontainebleau est clairement destiné aux passionnés d'Histoire. Il permet de découvrir des coutumes traditionnelles, des costumes d'époque et l'histoire des Bourbons, ce qui correspond parfaitement aux intérêts des passionnés d'Histoire."
+    "explanation": "Offre 2 cherche un représentant en ventes, ce qui est clairement un poste de commercial, notamment avec des déplacements internationaux et des compétences en persuasion."
   },
   {
     "question_no": 21,
     "group": 14,
-    "passage": "Appel 1\nL’émission de radio Vacarme RTS prépare un sujet sur le syndrome d’aliénation parentale. Vous êtes parent à l’origine d’aliénation parentale, ou vous-même en êtes victime ? Vous avez un adolescent ou un enfant qui en souffre et qui est en capacité de raconter son ressenti au long du conflit parental ? Vos témoignages (anonymat garanti) seraient très précieux.\nPrenez contact avec nous!\n\nAppel 2\nLe secteur de la puériculture connaît des difficultés importantes de recrutement, qui se posent avec acuité à chaque rentrée : fermeture d’établissements d’accueil, réduction de la capacité d’accueil. Racontez-nous les conséquences de ces difficultés sur votre foyer ! Avez-vous dû revoir votre organisation ? Renoncer au mode de garde que vous vouliez privilégier ? Faire appel à la solidarité familiale ?\n\nAppel 3\nEnfant de médecin, vous l’êtes devenu à votre tour. Médecin, vous avez un enfant qui l’est aussi aujourd’hui. Quel regard portez-vous sur le métier ? Avec des difficultés multiples (déserts médicaux, manque de moyens, etc.), le secteur en devient moins attractif pour les nouvelles générations. Votre témoignage nous intéresse pour un prochain article sur ce sujet.\n\nAppel 4\nBabilou, Les Petits Chaperons Rouges… Les poids lourds du secteur très lucratif des crèches privées ne sont plus à présenter ; mais comment la nouvelle logique de rentabilité induite par l’ouverture au marché affecte-t-elle votre quotidien ? Que vos enfants soient accueillis en crèche privée, ou que vous évoluiez dans ce secteur, Mediacités vous donne la parole dans sa nouvelle enquête participative.",
-    "question": "À quel appel répondra un professionnel de la petite enfance souhaitant parler de sa pratique ?",
-    "options": ["Appel 1", "Appel 2", "Appel 3", "Appel 4"],
-    "right_option": "D",
+    "passage": "Fonction 1\nLa fonction de trésorier général s’exerce dans une perspective d’équilibre macroéconomique, où la gestion de la liquidité publique impose une articulation constante entre prévisions fiscales, émissions obligataires et pilotage prudentiel de la dette souveraine.\n\nFonction 2\nLa fonction de préfet dépasse la simple représentation étatique; elle implique une médiation territoriale, la gestion de crises multiscalaires et l’application de politiques nationales dans un tissu local souvent rétif aux logiques descendantes.\n\nFonction 3\nLa fonction d’inspecteur des finances, réputée pour son exigence analytique, vise à contrôler la régularité, mais aussi l’efficience des dépenses publiques, tout en contribuant, dans certaines configurations, à la formulation de réformes budgétaires structurelles.\n\nFonction 4\nLa fonction de directeur de cabinet, bien qu’éclipsée dans l’organigramme formel, concentre une part décisive de l’ingénierie décisionnelle, en articulant arbitrages politiques, contraintes administratives et jeux d’influence entre parties prenantes internes et externes.",
+    "question": "Quelle fonction relève principalement du contrôle financier et de l’évaluation de la dépense publique ?",
+    "options": [
+      "Fonction 1",
+      "Fonction 2",
+      "Fonction 3",
+      "Fonction 4"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "L’Appel 4 s’adresse aux personnes concernées par le secteur des crèches privées, que ce soit en tant que parent ou en tant que professionnel évoluant dans ce secteur. Un professionnel de la petite enfance souhaitant parler de sa pratique dans ce contexte répondra donc à cet appel."
+    "explanation": "La fonction d'inspecteur des finances est spécifiquement dédiée au contrôle de la régularité et de l'efficience des dépenses publiques, ainsi qu’à la contribution à la réforme budgétaire. C’est donc cette fonction qui correspond au contrôle financier et à l’évaluation de la dépense publique."
   },
   {
     "question_no": 22,
     "group": 15,
-    "passage": "<< Selon une étude publiée récemment, on enregistre à partir de 2022 un recul du transport fluvial. Celui-ci est très faible mais constant, malgré la croissance des dernières années. >>",
+    "passage": "<< Bien qu’on observe un écart considérable sur la première tranche d’âge, la tendance s’équilibre progressivement puis s’inverse jusqu’à rendre la différence minime parmi les personnes plus âgées. >>",
     "question": "Quel graphique correspond au commentaire suivant ?",
-    "options": ["Graphique 1", "Graphique 2", "Graphique 3", "Graphique 4"],
-    "right_option": "A",
-    "image_path": "assets/ce-111-1-min.png",
-    "explanation": "Le graphique 1 montre une croissance régulière du transport fluvial de 2018 à 2021, puis un léger recul constant à partir de 2022. Cela correspond bien au commentaire indiquant un recul faible mais continu après des années de croissance."
+    "options": [
+      "Graphique 1",
+      "Graphique 2",
+      "Graphique 3",
+      "Graphique 4"
+    ],
+    "right_option": "D",
+    "image_path": "assets/ce-19-1.png",
+    "explanation": "<strong data-start=\"64\" data-end=\"79\">Graphique 4</strong> montre une forte diff&eacute;rence entre les hommes et les femmes chez les 16&ndash;24 ans. Cet &eacute;cart diminue progressivement avec l&rsquo;&acirc;ge et devient presque nul chez les 35&ndash;44 ans. La tendance s&rsquo;inverse l&eacute;g&egrave;rement &agrave; partir de 45&ndash;54 ans, puis la diff&eacute;rence devient minime chez les 55&ndash;65 ans et plus."
   },
   {
     "question_no": 23,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Ce document est :",
+    "passage": "Je vous adresse ma candidature pour le poste de jeune fille au pair.\n\nJ’ai l’habitude des enfants car je travaille dans un centre de loisirs depuis deux ans. J’aimerais aujourd’hui travailler dans un pays étranger pour rencontrer une nouvelle famille et découvrir sa culture. Je souhaite aussi améliorer mon anglais, compétence essentielle pour mes études.\n\nJe suis dynamique et patiente. Je peux participer à la préparation des repas et aux tâches ménagères. Le bien-être des enfants est une priorité, c’est pourquoi je leur propose des activités qui respectent leur rythme physiologique.",
+    "question": "La candidate a une expérience dans le domaine",
     "options": [
-      "une invitation à un débat d'idées.",
-      "une publicité pour une école.",
-      "une présentation d'établissement.",
-      "un compte rendu de réunion."
+      "de l'animation",
+      "de l'entretien",
+      "de la restauration",
+      "de la médecine"
     ],
-    "right_option": "C",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte présente les Beaux-Arts de Paris, leur mission, leur organisation, et leur ambition. Il s'agit donc d'une présentation d'établissement, et non d'une publicité ou d'un débat."
+    "explanation": "Elle indique qu’elle travaille dans un centre de loisirs depuis deux ans, ce qui correspond au domaine de l’animation (activités pour enfants). Elle mentionne aussi d’autres compétences, mais son expérience principale est bien liée à l’animation."
   },
   {
     "question_no": 24,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Dans ce document, il est question de :",
+    "passage": "Je vous adresse ma candidature pour le poste de jeune fille au pair.\n\nJ’ai l’habitude des enfants car je travaille dans un centre de loisirs depuis deux ans. J’aimerais aujourd’hui travailler dans un pays étranger pour rencontrer une nouvelle famille et découvrir sa culture. Je souhaite aussi améliorer mon anglais, compétence essentielle pour mes études.\n\nJe suis dynamique et patiente. Je peux participer à la préparation des repas et aux tâches ménagères. Le bien-être des enfants est une priorité, c’est pourquoi je leur propose des activités qui respectent leur rythme physiologique.",
+    "question": "La candidate pourra :",
     "options": [
-      "un lieu de rencontre d'artistes.",
-      "d'un lieu de formation.",
-      "d'une salle d'exposition.",
-      "d'un musée prestigieux."
+      "participer à un événement culturel",
+      "utiliser une langue étrangère",
+      "assister à une formation en anglais",
+      "passer du temps avec sa famille"
     ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte décrit principalement les Beaux-Arts de Paris comme un lieu d'enseignement des arts plastiques, où les étudiants suivent leur formation pour devenir des artistes. Il est donc question d'un lieu de formation."
+    "explanation": "Elle dit qu’elle souhaite améliorer son anglais en travaillant à l’étranger, ce qui implique qu’elle va utiliser une langue étrangère (l’anglais) dans un contexte réel, et non suivre une formation formelle."
   },
   {
     "question_no": 25,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Ce document annonce :",
+    "passage": "L’activité partielle, appelée aussi « chômage partiel », est un dispositif d’aide aux entreprises qui font face à des difficultés économiques. Il permet aux salariés, placés en activité partielle, de recevoir de la part de leur employeur une indemnité visant à compenser la perte de rémunération du fait des heures non travaillées.\n\nLe salarié placé en activité partielle voit son nombre d’heures de travail réduit partiellement ou en totalité pour une période déterminée. La période indemnisée au titre de l’activité partielle par l’employeur est considérée comme chômée. Cela signifie que le contrat de travail est suspendu mais n’est pas rompu.",
+    "question": "Ce message informe sur",
     "options": [
-      "l'ouverture de bureaux annexes.",
-      "une restructuration de l'entreprise.",
-      "la revalorisation du taux des prestations.",
-      "une hausse salariale selon l'ancienneté."
+      "les conditions de rupture du contrat de travail.",
+      "les possibilités de compensation financière pour les salariés.",
+      "les droits au chômage lors de la perte d’un emploi.",
+      "la limite du temps de travail lors d’une période chômée."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte parle d'une augmentation des honoraires d'expertises et des forfaits liés aux déplacements extramuros, ce qui concerne directement la revalorisation des prestations fournies par l'entreprise."
+    "explanation": "Le texte explique que, pendant une période d’activité partielle, le salarié reçoit une indemnité compensant la perte de rémunération due aux heures non travaillées. Il ne s’agit donc pas de licenciement ni de chômage complet, mais bien d’un dispositif de compensation financière."
   },
   {
     "question_no": 26,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Cette décision :",
+    "passage": "L’activité partielle, appelée aussi « chômage partiel », est un dispositif d’aide aux entreprises qui font face à des difficultés économiques. Il permet aux salariés, placés en activité partielle, de recevoir de la part de leur employeur une indemnité visant à compenser la perte de rémunération du fait des heures non travaillées.\n\nLe salarié placé en activité partielle voit son nombre d’heures de travail réduit partiellement ou en totalité pour une période déterminée. La période indemnisée au titre de l’activité partielle par l’employeur est considérée comme chômée. Cela signifie que le contrat de travail est suspendu mais n’est pas rompu.",
+    "question": "Selon ce document,",
     "options": [
-      "s'inscrit dans la redistribution des bénéfices.",
-      "fait suite à une revendication du personnel.",
-      "répond à une cohérence salariale de l'entreprise.",
-      "souscrit à la nouvelle législation en vigueur."
+      "l'entreprise peut rompre un contrat de travail sans préavis.",
+      "l'entreprise peut verser une compensation financière au salarié.",
+      "l'État peut pénaliser le dépassement de la durée légale de travail.",
+      "l'employeur peut interrompre la rémunération des salariés."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte évoque une augmentation progressive et régulière de la rémunération des agents, mais il ne mentionne pas spécifiquement une revendication du personnel ni une nouvelle législation. La décision semble plutôt s'inscrire dans une logique interne de l'entreprise, probablement pour répondre à une cohérence salariale, en garantissant des augmentations de manière organisée."
+    "explanation": "Le texte indique que, pendant une période d’activité partielle, le salarié reçoit une indemnité de la part de l’employeur pour compenser les heures non travaillées. Il ne s'agit ni d'une rupture de contrat, ni d'une coupure totale de salaire, mais d’un maintien partiel de la rémunération grâce à une compensation financière."
   },
   {
     "question_no": 27,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "Cette entreprise propose :",
+    "passage": "Guide interne – Gestion des conflits d’intérêts au sein de l’entreprise\n\nLa gestion des conflits d’intérêts constitue un enjeu majeur pour la transparence et l’intégrité de notre organisation.\n\nAfin de prévenir toute situation susceptible de compromettre l’objectivité des décisions, il est indispensable que chaque collaborateur identifie, déclare et gère les situations conflictuelles potentielles.\n\nUn conflit d’intérêts peut survenir lorsqu’un intérêt personnel, financier ou relationnel influence, ou pourrait influencer, l’exercice impartial des fonctions professionnelles. Cette définition large inclut notamment les cas de relations familiales, de participations financières dans des entreprises partenaires ou concurrentes, ainsi que d’activités extraprofessionnelles pouvant interférer avec les missions confiées.\n\nLa politique interne impose une déclaration systématique dès l’apparition d’un conflit, suivie d’une évaluation par le comité d’éthique qui proposera des mesures adaptées, telles que la mise à l’écart temporaire ou définitive des décisions concernées. Il est également recommandé d’adopter une posture de vigilance permanente afin d’anticiper les risques et de maintenir la confiance des parties prenantes.",
+    "question": "Quel est le rôle principal de la déclaration des conflits d’intérêts ?",
     "options": [
-      "de participer au développement durable de Madagascar.",
-      "de contribuer à l'industrialisation des fermes à Madagascar.",
-      "d'agir pour le repeuplement de zébus sur l'île.",
-      "de vivre une expérience unique auprès d'agriculteurs malgaches."
+      "Prévenir toute influence sur l'objectivité des décisions.",
+      "Favoriser les relations familiales.",
+      "Augmenter les participations financières.",
+      "Accélérer les processus décisionnels."
     ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte met en avant un modèle de financement durable et solidaire pour aider les paysans de Madagascar tout en respectant l'agriculture biologique et l'élevage traditionnel. Cela correspond à l'idée de participer au développement durable de Madagascar."
+    "explanation": "La déclaration des conflits d'intérêts vise à éviter que des intérêts personnels n’influencent les décisions professionnelles, garantissant ainsi l’objectivité et la transparence."
   },
   {
     "question_no": 28,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "L’investisseur pourra :",
+    "passage": "Guide interne – Gestion des conflits d’intérêts au sein de l’entreprise\n\nLa gestion des conflits d’intérêts constitue un enjeu majeur pour la transparence et l’intégrité de notre organisation.\n\nAfin de prévenir toute situation susceptible de compromettre l’objectivité des décisions, il est indispensable que chaque collaborateur identifie, déclare et gère les situations conflictuelles potentielles.\n\nUn conflit d’intérêts peut survenir lorsqu’un intérêt personnel, financier ou relationnel influence, ou pourrait influencer, l’exercice impartial des fonctions professionnelles. Cette définition large inclut notamment les cas de relations familiales, de participations financières dans des entreprises partenaires ou concurrentes, ainsi que d’activités extraprofessionnelles pouvant interférer avec les missions confiées.\n\nLa politique interne impose une déclaration systématique dès l’apparition d’un conflit, suivie d’une évaluation par le comité d’éthique qui proposera des mesures adaptées, telles que la mise à l’écart temporaire ou définitive des décisions concernées. Il est également recommandé d’adopter une posture de vigilance permanente afin d’anticiper les risques et de maintenir la confiance des parties prenantes.",
+    "question": "Qui évalue les situations de conflit d’intérêts déclarées ?",
     "options": [
-      "remplacer l'agriculteur sur certaines tâches à la ferme.",
-      "posséder une parcelle de terre agraire à Madagascar.",
-      "créer un lien unique avec le fermier et l'animal.",
-      "acquérir un savoir-faire dans le domaine agricole."
+      "Le service informatique.",
+      "Le comité d'éthique.",
+      "Le service de contrôle interne.",
+      "La Direction des Ressources Humaines."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte mentionne spécifiquement que l'investisseur est en relation avec l'utilisateur des fonds placés, et il est encouragé à rendre visite au Zébu et au fermier, suggérant ainsi qu'il pourra créer un lien unique avec le fermier et l'animal, plutôt que de prendre part directement aux tâches agricoles."
+    "explanation": "C’est le comité d’éthique qui est chargé d’évaluer les conflits d’intérêts déclarés et de proposer des mesures adaptées pour les gérer."
   },
   {
     "question_no": 29,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "L’objectif principal du texte est :",
+    "passage": "Monsieur Lefort,\n\nJe représente les intérêts de Monsieur Dufour François, photographe.\n\nMonsieur Dufour est titulaire des droits d’auteur sur ses œuvres et pourrait demander réparation contre toutes reproductions faites sans son consentement.\n\nOr, mon client a constaté que vous utilisiez sans autorisation sur votre site Internet ses œuvres originales.\n\nDans ces circonstances, une action à votre encontre aurait de fortes chances d’aboutir favorablement. Cependant, mon client m’a demandé de rechercher avec vous une solution amiable visant au retrait des images litigieuses de votre site Internet. Faute de réaction de votre part sous huitaine, j’ai pour instruction d’engager toute action utile à votre encontre.\n\nJe vous prie de croire, Monsieur Lefort, en l’assurance de ma considération.\n\nMaître Rivet",
+    "question": "Ce courrier a été adressé à Monsieur Lefort pour",
     "options": [
-      "de présenter les responsabilités pénales du consommateur.",
-      "de préciser les coûts des différents types de contestations.",
-      "de proposer aux professionnels des moyens pour éviter les litiges.",
-      "de présenter le processus de conciliation en cas de contentieux."
+      "lui contester les préjudices d'une sanction judiciaire.",
+      "l'appeler au respect de la législation en vigueur.",
+      "l'informer d'une action en justice intentée contre lui.",
+      "lui réclamer le règlement d'une infraction."
     ],
-    "right_option": "D",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte se concentre sur la médiation entre consommateurs et professionnels, et comment celle-ci peut être utilisée pour résoudre des litiges de manière amiable. Il explique le rôle du médiateur, les démarches à suivre et les conditions de la médiation. L'objectif est donc de présenter le processus de conciliation en cas de contentieux."
+    "explanation": "Le courrier alerte Monsieur Lefort qu’il utilise des œuvres protégées sans autorisation, ce qui viole la loi sur les droits d’auteur. Il l’invite à trouver une solution amiable avant d’engager une action judiciaire. C’est un appel au respect de la loi, pas encore une information officielle sur une action en justice engagée."
   },
   {
     "question_no": 30,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "Il appartient au professionnel de :",
+    "passage": "Monsieur Lefort,\n\nJe représente les intérêts de Monsieur Dufour François, photographe.\n\nMonsieur Dufour est titulaire des droits d’auteur sur ses œuvres et pourrait demander réparation contre toutes reproductions faites sans son consentement.\n\nOr, mon client a constaté que vous utilisiez sans autorisation sur votre site Internet ses œuvres originales.\n\nDans ces circonstances, une action à votre encontre aurait de fortes chances d’aboutir favorablement. Cependant, mon client m’a demandé de rechercher avec vous une solution amiable visant au retrait des images litigieuses de votre site Internet. Faute de réaction de votre part sous huitaine, j’ai pour instruction d’engager toute action utile à votre encontre.\n\nJe vous prie de croire, Monsieur Lefort, en l’assurance de ma considération.\n\nMaître Rivet",
+    "question": "Le client de Maître Rivet",
     "options": [
-      "appeler l'organisme de médiation approprié.",
-      "assumer la charge financière liée à la médiation.",
-      "appuyer financièrement le consommateur.",
-      "initier la démarche de médiation avant le consommateur."
+      "propose une démarche de conciliation.",
+      "réclame la mobilisation d'une commission de contrôle.",
+      "exige une réponse par retour de courrier.",
+      "demande une compensation pour le préjudice subi."
     ],
-    "right_option": "B",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte précise que le professionnel doit assumer la charge financière liée à la médiation, puisque les coûts de la médiation sont supportés par lui, tandis que la médiation elle-même est gratuite pour le consommateur."
+    "explanation": "Le client (Monsieur Dufour) a demandé à son avocat de chercher une solution amiable avec Monsieur Lefort, ce qui signifie qu’il propose une conciliation avant d’éventuellement entamer des poursuites."
   },
   {
     "question_no": 31,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Par ce communiqué, l’entreprise s’attache à :",
+    "passage": "Médias et comportements\n\nDes chercheurs danois se sont demandé pourquoi les discussions en ligne sont plus hostiles que les discussions hors ligne. L’une des explications souvent avancées réside dans le fait que la psychologie humaine serait adaptée à une interaction en face à face, de personne à personne. Selon cette hypothèse, le comportement des gens changerait donc pour le pire lors de discussions impersonnelles qui se déroulent en ligne. Or, dans huit études s’appuyant sur des expériences comportementales, les chercheurs n’ont pas pu confirmer cette hypothèse, bien au contraire. Leurs résultats montrent que les discussions hostiles sont causées par des individus motivés par leur statut qui sont tout aussi hostiles en ligne que hors ligne. Ils ont également constaté que les gens bienveillants évitent habituellement toutes polémiques, qu’elles se produisent dans les blogues, les forums ou les réseaux sociaux. Il n’existe pas de solution facile pour empêcher les comportements agressifs sur internet. Les chercheurs pensent qu’il est pratiquement impossible de bloquer la haine en ligne par l’éducation, puisqu’elle n’est pas le fruit de l’ignorance : les gens hostiles savent que leurs mots blessent et c’est pourquoi ils les utilisent. La meilleure façon de les contrer passerait alors par une modération intensive des sites de discussion.",
+    "question": "Selon cet article, les comportements agressifs sur internet",
     "options": [
-      "montrer son engagement face au changement climatique.",
-      "encourager les initiatives en faveur des populations à risque.",
-      "informer de potentielles organisations partenaires.",
-      "trouver des investisseurs pour son nouveau fonds."
+      "restent tolérés par la plupart des réseaux sociaux.",
+      "sont causés par des gens agissant consciemment.",
+      "sont provoqués par des thèmes très polémiques.",
+      "résultent d'une absence d'éducation aux médias."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte présente un fonds spécifiquement destiné à aider les populations vulnérables face aux catastrophes climatiques, et souligne les objectifs de prévention et de reconstruction. Cela démontre un engagement concret de l'entreprise face aux enjeux du changement climatique."
+    "explanation": "L’article souligne que les comportements agressifs ne sont pas dus à l’ignorance, mais à des individus qui savent que leurs propos blessent et les utilisent délibérément."
   },
   {
     "question_no": 32,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Ce fonds servira à :",
+    "passage": "Médias et comportements\n\nDes chercheurs danois se sont demandé pourquoi les discussions en ligne sont plus hostiles que les discussions hors ligne. L’une des explications souvent avancées réside dans le fait que la psychologie humaine serait adaptée à une interaction en face à face, de personne à personne. Selon cette hypothèse, le comportement des gens changerait donc pour le pire lors de discussions impersonnelles qui se déroulent en ligne. Or, dans huit études s’appuyant sur des expériences comportementales, les chercheurs n’ont pas pu confirmer cette hypothèse, bien au contraire. Leurs résultats montrent que les discussions hostiles sont causées par des individus motivés par leur statut qui sont tout aussi hostiles en ligne que hors ligne. Ils ont également constaté que les gens bienveillants évitent habituellement toutes polémiques, qu’elles se produisent dans les blogues, les forums ou les réseaux sociaux. Il n’existe pas de solution facile pour empêcher les comportements agressifs sur internet. Les chercheurs pensent qu’il est pratiquement impossible de bloquer la haine en ligne par l’éducation, puisqu’elle n’est pas le fruit de l’ignorance : les gens hostiles savent que leurs mots blessent et c’est pourquoi ils les utilisent. La meilleure façon de les contrer passerait alors par une modération intensive des sites de discussion.",
+    "question": "Les recherches ont permis aux scientifiques de",
     "options": [
-      "renforcer la résistance des populations fragiles.",
-      "optimiser les projets environnementaux existants.",
-      "stimuler la croissance économique locale.",
-      "encourager l'innovation technologique."
+      "constater une plus grande agressivité dans les relations en ligne.",
+      "remettre en cause les idées reçues sur l'agressivité en ligne.",
+      "démontrer l'influence des réseaux sociaux sur la communication.",
+      "démontrer le lien entre anonymat et agressivité."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte met en avant que le fonds a pour objectif de renforcer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, ce qui correspond à l'idée de renforcer la résistance des populations fragiles."
+    "explanation": "Les chercheurs n'ont pas confirmé l'idée que la psychologie humaine fait que les gens sont plus agressifs en ligne à cause du manque d'interaction en face à face. Ils ont ainsi remis en question cette hypothèse courante, montrant que les comportements hostiles dépendent d'individus motivés par leur statut, pas du contexte en ligne."
   },
   {
     "question_no": 33,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "D’après l’article, les abeilles :",
+    "passage": "Au Canada, les feux de végétation brûlent en moyenne 2,5 millions d’hectares de forêts par année. Les incendies posent alors un défi pour l’aménagement forestier car ils sont à la fois bénéfiques et dangereux.\n\nLes feux non-maîtrisés peuvent représenter une menace pour les collectivités et détruire d’importantes quantités de ressources. Toutefois, les incendies sont aussi un phénomène naturel et ils participent à la régénération de l’écosystème forestier. Des évaluations de plus en plus précises de la situation des feux au Canada aident les gestionnaires des terres à utiliser les connaissances de la science forestière pour réduire les risques de feu de végétation et à optimiser les avantages de tels feux. Un petit nombre de feux consiste alors en des brûlages dirigés par des forestiers autorisés. Le but est de reproduire les processus naturels liés aux feux de végétation. Ils constituent un précieux outil pour les ressources lorsqu’il s’agit d’améliorer les conditions écologiques et d’éliminer l’accumulation excessive de combustibles.\n\nCependant, tous les feux de végétation ne peuvent pas être contrôlés. Les organismes responsables des forêts exploitent donc la force du feu naturel pour tirer avantage de ses bénéfices écologiques tout en limitant les dommages et les coûts potentiels.",
+    "question": "D’après l’article, les feux de végétation",
     "options": [
-      "représentent un défi écologique pour les villes.",
-      "apprécient la biodiversité des villes.",
-      "se dirigent davantage vers les milieux urbains.",
-      "produisent moins de miel dans les zones agricoles."
+      "constituent un danger pour le renouvellement de la biodiversité.",
+      "représentent une opportunité pour la gestion forestière.",
+      "surviennent de moins en moins à proximité des zones habitées.",
+      "contribuent à la régulation de la superficie des forêts."
     ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "L'article met en évidence que les abeilles bénéficient de la diversité des espèces végétales présentes dans les villes, ce qui leur permet de butiner plus longtemps en raison des températures légèrement plus élevées. Cependant, l'augmentation rapide du nombre de ruches entraîne une diminution de la production de miel, car les ressources florales deviennent limitées. Ainsi, les abeilles apprécient la biodiversité des villes qui leur offre une grande variété de sources alimentaires."
+    "explanation": "L'article explique que les feux de végétation, bien que parfois dangereux, ont un rôle bénéfique pour la régénération des forêts. Ils sont utilisés stratégiquement par les gestionnaires forestiers pour améliorer l'écosystème et réduire les risques, ce qui montre qu'ils sont une opportunité pour la gestion durable des forêts."
   },
   {
     "question_no": 34,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "La mise en place des ruches en ville :",
+    "passage": "Au Canada, les feux de végétation brûlent en moyenne 2,5 millions d’hectares de forêts par année. Les incendies posent alors un défi pour l’aménagement forestier car ils sont à la fois bénéfiques et dangereux.\n\nLes feux non-maîtrisés peuvent représenter une menace pour les collectivités et détruire d’importantes quantités de ressources. Toutefois, les incendies sont aussi un phénomène naturel et ils participent à la régénération de l’écosystème forestier. Des évaluations de plus en plus précises de la situation des feux au Canada aident les gestionnaires des terres à utiliser les connaissances de la science forestière pour réduire les risques de feu de végétation et à optimiser les avantages de tels feux. Un petit nombre de feux consiste alors en des brûlages dirigés par des forestiers autorisés. Le but est de reproduire les processus naturels liés aux feux de végétation. Ils constituent un précieux outil pour les ressources lorsqu’il s’agit d’améliorer les conditions écologiques et d’éliminer l’accumulation excessive de combustibles.\n\nCependant, tous les feux de végétation ne peuvent pas être contrôlés. Les organismes responsables des forêts exploitent donc la force du feu naturel pour tirer avantage de ses bénéfices écologiques tout en limitant les dommages et les coûts potentiels.",
+    "question": "L’article démontre qu’il faut",
     "options": [
-      "présente des avantages limités dans le temps.",
-      "est inefficace pour protéger l'écosystème.",
-      "a un effet dévastateur sur les campagnes.",
-      "permet à de nouvelles espèces végétales de prospérer."
+      "faire pousser davantage de bois pour le chauffage.",
+      "financer les recherches sur les bienfaits des feux de végétation.",
+      "respecter le cycle naturel de régénération de la forêt.",
+      "utiliser de manière réfléchie les feux de végétation."
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "L'article souligne que bien que les villes offrent des avantages initiaux pour les abeilles, comme une meilleure biodiversité et des températures plus élevées, ces avantages diminuent au fil du temps. Cela est dû à l'augmentation du nombre de ruches, qui entraîne une saturation des ressources florales disponibles. Ainsi, l'impact positif des villes sur la production de miel diminue au fil des années, ce qui rend les avantages limités dans le temps."
+    "explanation": "Le texte montre que, bien que les feux soient parfois destructeurs, ils ont aussi un rôle naturel et bénéfique pour la forêt. Les gestionnaires utilisent donc des brûlages contrôlés pour en tirer les avantages écologiques tout en limitant les risques. Cela implique une utilisation réfléchie et encadrée des feux de végétation."
   },
   {
     "question_no": 35,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "L’auteur de cet article s’inquiète :",
+    "passage": "L’industrie des insectes en plein fourmillement\n\nL’entomophagie, c’est-à-dire le fait de manger des insectes, est déjà répandue dans de nombreux pays. Quelque deux milliards d’habitants sur la planète consomment près de deux mille espèces d’insectes différentes. << Manger moins de viande et davantage de fruits et légumes implique de jouer sur des leviers psychologiques et culturels, insiste le chercheur Patrick Borel. Il faut tout d'abord éduquer les populations à cette consommation. Côté environnement, pas d'hésitation. « Les fermes à insectes présentent de nombreux avantages par rapport aux élevages de porcs et de bovins, explique le chercheur. Les insectes ont besoin de beaucoup moins d'eau, de moins d'espace, ils produisent moins de gaz à effet de serre. Restent les coûts. « L'un des problèmes actuels est le coût du kilo de protéine d'insectes, encore trop élevé », souligne Patrick Borel. La filière est naissante, elle aurait besoin d'un coup de pouce pour devenir compétitive. L'Organisation des Nations Unies pour l'alimentation et l'agriculture, et l'Autorité européenne de sécurité des aliments encouragent l'utilisation des insectes qui peuvent contribuer à la sécurité alimentaire et présentent des bénéfices pour l'environnement. << Mais sur le plan gouvernemental, en France, c'est encore hésitant », conclut Patrick Borel.",
+    "question": "Selon le chercheur Patrick Borel, manger des insectes est",
     "options": [
-      "de l'avenir du ministère en charge de l'environnement.",
-      "de la perte d'identité des populations du désert.",
-      "des pollutions créées par les chasseurs de météorites.",
-      "de la récupération du patrimoine par des groupes privés."
+      "une habitude alimentaire qui suscite un engouement mondial.",
+      "est un mode alimentaire usité qui provoque encore des réticences.",
+      "est un marqueur culturel spécifique aux cultures africaines et asiatiques.",
+      "est une pratique plébiscitée pour ses bienfaits thérapeutiques."
     ],
-    "right_option": "D",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "L'article met en lumière le risque que les spécimens de météorites marocaines, non protégées par des lois, se retrouvent dans des collections privées au lieu d'être conservés et préservés dans une structure dédiée, comme un musée national. L'auteur s'inquiète de cette récupération par des acteurs privés, comme la Meteorical Society, qui organise même des congrès pour attirer l'attention sur ce patrimoine."
+    "explanation": "Patrick Borel souligne que bien que l’entomophagie soit répandue dans le monde, elle nécessite encore une éducation des populations car elle suscite des réticences, notamment en France où les autorités restent hésitantes. Cela montre que cette pratique est connue mais pas encore pleinement acceptée partout."
   },
   {
     "question_no": 36,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "D’après ce texte, la présence de météorites a généré :",
+    "passage": "L’industrie des insectes en plein fourmillement\n\nL’entomophagie, c’est-à-dire le fait de manger des insectes, est déjà répandue dans de nombreux pays. Quelque deux milliards d’habitants sur la planète consomment près de deux mille espèces d’insectes différentes. << Manger moins de viande et davantage de fruits et légumes implique de jouer sur des leviers psychologiques et culturels, insiste le chercheur Patrick Borel. Il faut tout d'abord éduquer les populations à cette consommation. Côté environnement, pas d'hésitation. « Les fermes à insectes présentent de nombreux avantages par rapport aux élevages de porcs et de bovins, explique le chercheur. Les insectes ont besoin de beaucoup moins d'eau, de moins d'espace, ils produisent moins de gaz à effet de serre. Restent les coûts. « L'un des problèmes actuels est le coût du kilo de protéine d'insectes, encore trop élevé », souligne Patrick Borel. La filière est naissante, elle aurait besoin d'un coup de pouce pour devenir compétitive. L'Organisation des Nations Unies pour l'alimentation et l'agriculture, et l'Autorité européenne de sécurité des aliments encouragent l'utilisation des insectes qui peuvent contribuer à la sécurité alimentaire et présentent des bénéfices pour l'environnement. << Mais sur le plan gouvernemental, en France, c'est encore hésitant », conclut Patrick Borel.",
+    "question": "L’élevage d’insectes",
     "options": [
-      "une nouvelle activité pour les populations du désert.",
-      "une mobilisation sans précédent des universitaires.",
-      "une exposition à destination du grand public.",
-      "un trafic important avec les pays voisins."
+      "est encouragé par les associations d'agriculteurs.",
+      "présente un intérêt écologique évident.",
+      "permet de produire des protéines bon marché.",
+      "peut se développer sans aide financière."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte explique que de nombreux nomades du désert ont fait de la chasse aux météorites leur métier, créant ainsi une nouvelle activité pour les populations locales. Cette activité est rendue possible grâce à la vente de météorites, un commerce qui s'est développé autour de ces fragments célestes."
+    "explanation": "Le texte indique que les insectes nécessitent moins d’eau, moins d’espace et produisent moins de gaz à effet de serre que les élevages traditionnels. Ces éléments montrent clairement les avantages écologiques de l’élevage d’insectes. En revanche, il est aussi précisé que le coût reste élevé et que la filière a besoin de soutien, ce qui exclut les autres propositions."
   },
   {
     "question_no": 37,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, l’être humain :",
+    "passage": "Maltraitance institutionnelle\n\nConduite à marche forcée, la numérisation de l’accès aux services publics s’applique désormais à des démarches aussi indispensables qu’une demande d’état civil, le règlement d’un impôt, l’obtention d’un permis de séjour. Pourtant, l’obligation de recourir à Internet quotidiennement implique un effort particulier pour ceux qui sont les moins en mesure de le fournir faute de matériel, de savoirs informatiques ou d’assistance des proches.\n\nDès les premiers mots du rapport qu’elle consacre au rôle croissant du numérique dans la relation entre l’administration et ses usagers, la défenseuse des droits Claire Hédon donne le ton: « Dans les permanences de nos délégués territoriaux arrivent des personnes épuisées et désespérées, qui font part de leur soulagement à pouvoir, enfin parler à quelqu’un en chair et en os. »\n\nLes plus en difficulté sont souvent les personnes âgées, les ruraux, les non diplômés, les étrangers. Inversement les cadres, hauts revenus et diplômés du supérieur sont bien équipés en ordinateurs, smartphones et recourent volontiers à l’administration numérique. En somme, plus une personne affronte une situation de précarité sociale, plus il lui est difficile d’accéder à ses droits, à ses prestations, aux services publics. Observant que la situation tend à se dégrader, Mme Hédon rappelle que nul ne peut être privé de ses droits au motif qu’il ne recourt pas au numérique lors de ses échanges avec l’administration. Car pour beaucoup, la dématérialisation forcée n’a pas représenté une simplification mais une forme de maltraitance institutionnelle.",
+    "question": "L’accès en ligne aux services administratifs",
     "options": [
-      "doit trouver son harmonie spirituelle.",
-      "se complait dans son anxiété.",
-      "s'épanouit dans ses relations humaines.",
-      "doit intérioriser ses tourments."
+      "est plébiscité par la plus grande partie de la population française.",
+      "complexifie les démarches pour certaines catégories d'usagers.",
+      "justifie des suppressions de postes dans la fonction publique.",
+      "motive les citoyens à développer leurs compétences informatiques."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte évoque l'idée que vivre, c'est être fondamentalement intranquille. Cependant, l'être humain doit trouver un équilibre en agissant avec empathie et vigilance, et en luttant contre ses représentations anxieuses. Ce processus implique de trouver une forme d'harmonie dans la gestion de son intranquillité. Ce n'est donc pas l'intériorisation passive ou le repli sur soi qui est encouragé, mais plutôt une quête active d'équilibre et de sérénité."
+    "explanation": "Le texte insiste sur les difficultés rencontrées par les personnes âgées, les ruraux, les non diplômés et les étrangers face à la numérisation obligatoire des services publics, qui complique leur accès aux droits et services. Ce n'est donc pas un plébiscite général, mais un obstacle pour une partie de la population."
   },
   {
     "question_no": 38,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, la technologie :",
+    "passage": "Maltraitance institutionnelle\n\nConduite à marche forcée, la numérisation de l’accès aux services publics s’applique désormais à des démarches aussi indispensables qu’une demande d’état civil, le règlement d’un impôt, l’obtention d’un permis de séjour. Pourtant, l’obligation de recourir à Internet quotidiennement implique un effort particulier pour ceux qui sont les moins en mesure de le fournir faute de matériel, de savoirs informatiques ou d’assistance des proches.\n\nDès les premiers mots du rapport qu’elle consacre au rôle croissant du numérique dans la relation entre l’administration et ses usagers, la défenseuse des droits Claire Hédon donne le ton: « Dans les permanences de nos délégués territoriaux arrivent des personnes épuisées et désespérées, qui font part de leur soulagement à pouvoir, enfin parler à quelqu’un en chair et en os. »\n\nLes plus en difficulté sont souvent les personnes âgées, les ruraux, les non diplômés, les étrangers. Inversement les cadres, hauts revenus et diplômés du supérieur sont bien équipés en ordinateurs, smartphones et recourent volontiers à l’administration numérique. En somme, plus une personne affronte une situation de précarité sociale, plus il lui est difficile d’accéder à ses droits, à ses prestations, aux services publics. Observant que la situation tend à se dégrader, Mme Hédon rappelle que nul ne peut être privé de ses droits au motif qu’il ne recourt pas au numérique lors de ses échanges avec l’administration. Car pour beaucoup, la dématérialisation forcée n’a pas représenté une simplification mais une forme de maltraitance institutionnelle.",
+    "question": "La défenseure des droits dénonce",
     "options": [
-      "favorise la paix intérieure.",
-      "représente un moyen de méditation.",
-      "incarne une extension de l'Homme.",
-      "symbolise un retour à la réalité."
+      "la fragilisation accrue des personnes en difficulté.",
+      "la complexité d'usage de la plateforme numérique.",
+      "l'insuffisance de l'accueil dans les centres administratifs.",
+      "les dépenses liées à l'achat de matériel pour les particuliers."
     ],
-    "right_option": "C",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte mentionne que les \"arpenteurs de déserts\" restent connectés à l'actualité via Internet, ce qui indique que la technologie, loin d'être un facteur de paix intérieure, fait plutôt partie d'un projet de vie autonome où les individus utilisent des outils technologiques pour rester informés, même dans des lieux isolés. Cela suggère que la technologie est perçue comme une extension de l'Homme, permettant une connexion au monde extérieur, même en dehors des sociétés traditionnelles."
+    "explanation": "Claire Hédon met en avant que les plus précaires (personnes âgées, étrangers, non diplômés, ruraux) sont désavantagés par la dématérialisation. Elle parle même de maltraitance institutionnelle, car ces personnes ont plus de mal à accéder à leurs droits. Ce n’est donc pas seulement une question de technologie ou d’accueil, mais de fragilisation sociale accrue liée à l’exclusion numérique."
   },
   {
     "question_no": 39,
     "group": 24,
     "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "Pour endiguer la crise écologique, il faut que :",
+    "question": "Pour endiguer la crise écologique",
     "options": [
-      "la mise en retrait de l'homme est indispensable.",
-      "l'usage des nouvelles technologies est un leurre.",
-      "les pratiques numériques sont à reconsidérer.",
-      "l'intelligence artificielle est porteuse d'espoir."
+      "L'intelligence artificielle est porteuse d'espoir.",
+      "L'usage des nouvelles technologies est un leurre.",
+      "La mise en retrait de l'homme est indispensable.",
+      "Les pratiques numériques sont à reconsidérer."
     ],
-    "right_option": "C",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte critique la dépendance excessive aux technologies numériques pour résoudre la crise climatique, en mettant en évidence l'impact environnemental généré par la prolifération des objets connectés et des systèmes autonomes. L’auteur souligne que se concentrer uniquement sur les comportements numériques des humains pourrait être vain, suggérant ainsi qu'une reconsidération des pratiques numériques est nécessaire pour véritablement maîtriser l'impact écologique."
+    "explanation": "Le texte souligne que le recours massif au numérique ne suffit pas à régler la crise climatique et que l’impact écologique des technologies est important et difficile à contrôler. Il invite donc à repenser et ajuster nos usages numériques pour limiter cet impact."
   },
   {
     "question_no": 40,

@@ -2,526 +2,601 @@
   {
     "question_no": 1,
     "group": 1,
-    "passage": "Pour une ville propre !\n\nLa ville de Bruges ramasse chaque année 18 tonnes de cigarettes jetées au sol.\nUn mégot par terre : 68 euros d’amende !",
-    "question": "Ce document est :",
+    "passage": "Les téléphones doivent être éteints pendant toute la durée de la séance.",
+    "question": "Où peut-on lire cette information ?",
     "options": [
-      "un règlement intérieur",
-      "un panneau d'information",
-      "un dépliant touristique",
-      "une offre d'emploi"
+      "Un cinéma",
+      "Un restaurant",
+      "Une école",
+      "Un magasin"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Ce document sert à informer et sensibiliser les citoyens sur les conséquences de jeter des mégots par terre. Il ne détaille pas des règles internes, ne fait pas la promotion touristique, et n'offre pas d'emploi. Il s'agit donc d’un panneau d'information."
+    "explanation": ""
   },
   {
     "question_no": 2,
     "group": 2,
-    "passage": "JF 20 ans étudiante en formation « petite enfance », sérieuse avec beaucoup d’expérience, propose garde d’enfants (de 2 à 10 ans) les soirs, les mercredis et les dimanches.\n\nSi vous êtes intéressé(e), contactez-moi :\n232-21-18-14 ou adele@lilo.org",
-    "question": "L’auteure de cette annonce est disponible :",
+    "passage": "Entrée réservée au personnel",
+    "question": "À qui l’entrée est-elle réservée selon la phrase ?",
     "options": [
-      "en début de journée",
-      "plusieurs fois par semaine",
-      "une fois par semaine",
-      "seulement le weekend"
+      "Aux clients",
+      "Aux visiteurs",
+      "Aux employés",
+      "Aux fournisseurs"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Elle propose ses services les soirs, les mercredis et les dimanches, ce qui représente plusieurs moments répartis sur la semaine. Donc, elle est disponible plusieurs fois par semaine."
+    "explanation": ""
   },
   {
     "question_no": 3,
     "group": 3,
-    "passage": "L’Asie du Sud au cinéma !\n\nLe festival « Cinéasia » présente en Belgique des films de toute l’Asie du Sud.\n\nL’Inde et ses voisins seront parmi nous et une journée sera dédiée au Pakistan.\n\nL’an dernier, vous avez adoré notre nuit « Frissons ». Cette année, vous allez rire avec notre nuit « Comédies » ! Venez nombreux !",
-    "question": "Le programme du festival :",
+    "passage": "Adresse: 123 RUE DES CHÊNES. CONTACT: 555-1234.\n\nVENTE DE GARAGE\n\nVous êtes invités à notre vente de garage ce samedi de 8 h à 14 h. Nous vendons des vêtements, des meubles, des jouets, et bien plus encore. Les prix sont très bas! Venez faire des bonnes affaires et trouver des trésors cachés.",
+    "question": "Quelle est la nature de ce document ?",
     "options": [
-      "est le même que l'an dernier",
-      "reste encore à définir",
-      "est renouvelé chaque année",
-      "est destiné aux plus jeunes"
+      "Une invitation à un événement",
+      "Un avis de réunion",
+      "La vente d'une place de parking",
+      "Une offre d'emploi"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte compare le programme de cette année avec celui de l’année précédente (de « Frissons » à « Comédies »), ce qui montre que le contenu change d'une édition à l'autre. Le programme est donc renouvelé chaque année."
+    "explanation": ""
   },
   {
     "question_no": 4,
     "group": 4,
-    "passage": "Professeur au Conservatoire de Montréal donne des\nCOURS DE CHANT\n\nTechniques italienne et française\nOpéra – Chanson française – Opérette\nSessions d’une semaine à six mois\nProgrès rapides garantis !\nTel. : 514-873-4283",
-    "question": "Ce document propose :",
+    "passage": "AVIS DE FERMETURE TEMPORAIRE\n\nNOUS VOUS INFORMONS QUE NOTRE BOUTIQUE SERA FERMÉE DU 15 AU 30 SEPTEMBRE. PENDANT CETTE PÉRIODE, AUCUNE TRANSACTION NE SERA POSSIBLE. NOUS VOUS REMERCIONS DE VOTRE COMPRÉHENSION ET NOUS NOUS RÉJOUISSONS DE VOUS ACCUEILLIR DE NOUVEAU À PARTIR DU 1ER OCTOBRE.",
+    "question": "Quel est le but principal de ce document ?",
     "options": [
-      "un enseignement de qualité",
-      "une place à l'Opéra",
-      "un poste en Italie",
-      "une semaine de concerts"
+      "Informer sur des changements dans les horaires d'ouverture",
+      "Annoncer des rénovations dans la boutique",
+      "Annoncer la fermeture permanente du magasin",
+      "Annoncer l'ouverture d'une nouvelle succursale"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Il s’agit d’une annonce de cours de chant donnés par un professeur au Conservatoire, avec des techniques précises et une promesse de progrès. Cela met en avant un enseignement de qualité, pas une offre de travail ni des concerts."
+    "explanation": ""
   },
   {
     "question_no": 5,
     "group": 5,
-    "passage": "Vous souhaitez agir pour préserver notre climat, pour rendre notre société plus écologique et solidaire ?\n\nAu festival « Agir à Lyon », vous pourrez rencontrer une trentaine d’associations avec qui devenir bénévole. À travers une dizaine de mini-conférences, vous découvrirez des projets inspirants pour vous donner envie de mettre l’écologie au centre de votre mode de vie.\n\nNous vous inviterons, par des démonstrations simples, à découvrir des actions à faire chez soi ou autour de soi : compostage, cuisine anti-gaspillage, etc.",
-    "question": "Le but de l’événement est de :",
+    "passage": "À: JULIE.DURAND@TECGINNOVATIONS.COM, MARC.LEFEVRE@TECGINNOVATIONS.COM ET 18 AUTRES\n\nOBJET: RÉUNION D’ÉQUIPE DU 12\n\nCHER(E.S ÉQUIPIER(ÈRE.S)\n\nLA RÉUNION PRÉVUE POUR LE 12 SEPTEMBRE EST ANNULÉE. VEUILLEZ NOTER QUE LA NOUVELLE DATE EST LE 20 SEPTEMBRE. NOUS NOUS EXCUSONS POUR TOUT INCONVENIENT ET VOUS REMERCIONS DE VOTRE COMPRÉHENSION.\n\nCORDIALEMENT,\nSOPGIE MARTIN, DIRECTRICE AUX RESSOURCES HUMAINES",
+    "question": "Quel est le but principal de ce document ?",
     "options": [
-      "découvrir des activités écologiques",
-      "rencontrer des scientifiques",
-      "créer de nouvelles associations",
-      "ramasser les déchets d’un quartier"
+      "Confirmer la date de réunion",
+      "Annoncer le report d'une réunion",
+      "Déléguer la gestion de la réunion à un autre participant",
+      "Modifier l'ordre du jour de la réunion"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte insiste sur la découverte de projets écologiques, de gestes simples à faire soi-même, et sur l’envie d’agir pour l’environnement. Il s’agit donc de découvrir des activités écologiques."
+    "explanation": ""
   },
   {
     "question_no": 6,
     "group": 6,
-    "passage": "Madame, Monsieur,\n\nNous vous rappelons que certaines œuvres sont soumises au droit d’auteur. Pour pouvoir les reproduire ou les diffuser sur notre plateforme, nous vous demandons de bien vouloir effectuer une déclaration lors de chaque commande d’impression ou de mise en ligne.\n\nCette déclaration se fait en ligne, est anonyme et ne demandera aucune rétribution de votre part. Vous devrez néanmoins indiquer le numéro de votre commande.\n\nATTENTION ! Sans ces indications, vos demandes ne pourront être traitées.\n\nBien cordialement,\nDirection de la Communication, Université Sorbonne Nouvelle",
-    "question": "Ce mail rappelle :",
+    "passage": "Ouverture exceptionnelle\n\nNotre café sera ouvert ce dimanche de 10 h à 16 h pour une journée spéciale. Venez nombreux!",
+    "question": "Quel est l’objectif principal de l’annonce ?",
     "options": [
-      "l'interdiction de copier les œuvres",
-      "le délai de traitement des commandes",
-      "l'obligation de payer les droits d'auteur",
-      "les règles d'utilisation des œuvres"
+      "Offrir des réductions",
+      "Informer d'un évènement",
+      "Changer les heures d'ouverture régulières",
+      "Annoncer des changements de menu"
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le message explique qu’une déclaration est nécessaire pour reproduire ou diffuser des œuvres protégées par le droit d’auteur. Il ne parle pas d’interdiction, de délai, ni de paiement. Il rappelle donc les règles d’utilisation des œuvres."
+    "explanation": ""
   },
   {
     "question_no": 7,
     "group": 7,
-    "passage": "Service civique\n\nEn France, vous pouvez effectuer un service civique. Il s’agit d’un engagement volontaire de six à douze mois au service de l’intérêt général. D’une durée hebdomadaire de vingt-quatre heures minimum, il est indemnisé 580 € par mois.\n\nLe service civique est une expérience unique ouverte à tous les jeunes de 16 à 25 ans, et jusqu’à 30 ans en situation de handicap, sans condition de diplôme. Seule votre motivation compte !\n\nVous pouvez réaliser votre mission de service civique auprès d’une association, d’une collectivité territoriale, d’un établissement public, d’un bailleur de logement social ou des services de l’État.",
-    "question": "Le service civique permet aux jeunes :",
+    "passage": "Message Aujourd’hui 12:53\n\nAlerte covid 19: Le Président de la République a annoncé des règles strictes que vous devez impérativement respecter pour lutter contre la propagation du virus et sauver des vies. Les sorties sont autorisées avec attestation et uniquement pour votre travail, si vous ne pouvez pas télétravailler, votre santé ou vos courses essentielles. Toutes les informations\n\nsur www.gouvernement.fr",
+    "question": "Que représente ce document ?",
     "options": [
-      "de prouver leurs compétences à l'international",
-      "de participer au bon fonctionnement de la société",
-      "de bénéficier d'un emploi pendant 2 ans",
-      "d'obtenir un diplôme à l'issue de leur engagement"
+      "Une lettre",
+      "Une publicité",
+      "Un courriel",
+      "Un texte"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte insiste sur l'engagement volontaire au service de l'intérêt général, dans différents types de structures. Cela permet donc de participer au bon fonctionnement de la société, pas d'obtenir un diplôme ou un emploi formel."
+    "explanation": ""
   },
   {
     "question_no": 8,
     "group": 8,
     "passage": "",
-    "question": "Pour rester en bonne santé, ______ des fruits et des légumes.",
-    "options": ["achetez", "mangez", "vendez", "préparez"],
-    "right_option": "B",
+    "question": "Ce matin, je suis allé _______ le médecin pour un contrôle.",
+    "options": [
+      "consulter",
+      "prendre",
+      "rendre",
+      "visiter"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "La phrase encourage à adopter une bonne hygiène de vie pour rester en bonne santé. Le verbe \"mangez\" est donc le plus approprié, car il invite à consommer des fruits et des légumes."
+    "explanation": ""
   },
   {
     "question_no": 9,
     "group": 8,
     "passage": "",
-    "question": "Venez découvrir l’immensité des espaces blancs et l’accueil _____ de nos habitants !",
-    "options": ["chaleureux", "sensible", "intimiste", "contenu"],
-    "right_option": "A",
+    "question": "La voiture a freiné brusquement et s’est _______ contre le mur.",
+    "options": [
+      "bousculée",
+      "touchée",
+      "heurtée",
+      "abattue"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'expression \"l'accueil de nos habitants\" suggère une atmosphère positive et accueillante. L'adjectif \"chaleureux\" est donc le plus adapté, car il évoque un accueil amical et bienveillant."
+    "explanation": ""
   },
   {
     "question_no": 10,
     "group": 8,
     "passage": "",
-    "question": "En raison des vacances, la boulangerie sera ______ jusqu’à lundi prochain !",
-    "options": ["louée", "habitée", "occupée", "fermée"],
-    "right_option": "D",
+    "question": "Elle a les yeux _______ pour s’habituer à lumière trop forte.",
+    "options": [
+      "fermé",
+      "plissé",
+      "couvert",
+      "baissé"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le contexte indique que la boulangerie ne sera pas ouverte en raison des vacances. Le mot \"fermée\" est donc le plus approprié, car il signifie qu'elle sera fermée temporairement."
+    "explanation": ""
   },
   {
     "question_no": 11,
     "group": 8,
     "passage": "",
-    "question": "Pendant la réunion, nous avons parlé de _____ du prix de l’essence.",
-    "options": ["l'innovation", "l'augmentation", "l'ajout", "l'élévation"],
-    "right_option": "B",
+    "question": "Un _______ de fumée est visible au-dessus du bâtiment en raison de la pollution.",
+    "options": [
+      "fleuve",
+      "bloc",
+      "écran",
+      "voile"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le prix de l'essence peut augmenter, ce qui correspond à \"l'augmentation\". Les autres options ne sont pas adaptées au contexte de l'évolution du prix."
+    "explanation": ""
   },
   {
     "question_no": 12,
     "group": 8,
     "passage": "",
-    "question": "Salut Justine ! J’ai besoin d’un marteau pour _____ mes peintures, pourrais-tu me prêter le tien ?",
-    "options": ["attacher", "étendre", "retenir", "accrocher"],
-    "right_option": "D",
+    "question": "Le président a _______ un discours important ce matin.",
+    "options": [
+      "délivré",
+      "prononcé",
+      "exposé",
+      "partagé"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le contexte suggère que la personne veut suspendre ou fixer des peintures. Le verbe \"accrocher\" est donc le plus approprié, car il signifie suspendre quelque chose, comme des tableaux ou des peintures."
+    "explanation": ""
   },
   {
     "question_no": 13,
     "group": 8,
     "passage": "",
-    "question": "Pour continuer à défendre l’environnement, votre _____ nous est indispensable : sachez que les manières d’agir sont multiples !",
-    "options": ["service", "sécurité", "support", "soutien"],
-    "right_option": "D",
+    "question": "Elle a été _______ après avoir inhalé beaucoup de fumée.",
+    "options": [
+      "brûlée",
+      "intoxiquée",
+      "blessée",
+      "heurtée"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le mot \"soutien\" est celui qui convient le mieux dans ce contexte, car il évoque l'idée d'encouragement ou de soutien nécessaire pour défendre l'environnement. Le mot est répété, mais il s'agit du bon choix."
+    "explanation": ""
   },
   {
     "question_no": 14,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "Les Podcasts\n\nLes podcasts sont devenus très populaires ces dernières années. Ils peuvent être (1) ______ allant des interviews d’experts aux récits de voyage. Les (2) _______ disponibles sont variés, permettant à chacun de trouver quelque chose qui l’intéresse.",
     "question": "(1)",
-    "options": ["batterie", "bataille", "explosion", "tempête"],
-    "right_option": "D",
+    "options": [
+      "gratuits",
+      "plongeurs",
+      "innovants",
+      "nombreux"
+    ],
+    "right_option": null,
     "image_path": null,
     "explanation": ""
   },
   {
     "question_no": 15,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "Les Podcasts\n\nLes podcasts sont devenus très populaires ces dernières années. Ils peuvent être (1) ______ allant des interviews d’experts aux récits de voyage. Les (2) _______ disponibles sont variés, permettant à chacun de trouver quelque chose qui l’intéresse.",
     "question": "(2)",
-    "options": ["pratiques", "courbées", "réalisables", "ouvertes"],
-    "right_option": "D",
+    "options": [
+      "abonnements",
+      "épisodes",
+      "articles",
+      "annonces"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "- Tempête est le terme approprié pour décrire une forte perturbation climatique avec de la neige et des vents violents. - Ouvertes convient ici pour indiquer que les routes ne sont pas encore fermées malgré les conditions difficiles."
+    "explanation": ""
   },
   {
     "question_no": 16,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "L’alimentation équilibrée\n\nAdopter une alimentation équilibrée est essentiel pour maintenir une bonne santé. Il faut (1) ______ une grande variété d’aliments riches en nutriments. Les fruits sont une excellente source de vitamines et de fibres, mais il est important de les associer à d’autres groupes alimentaires comme les légumes et et les (2) ______ pour un régime équilibré.",
     "question": "(1)",
-    "options": ["remboursés", "ramassés", "regroupés", "collectés"],
-    "right_option": "D",
+    "options": [
+      "consommer",
+      "absorbeur",
+      "dévorer",
+      "ingurgiter"
+    ],
+    "right_option": null,
     "image_path": null,
     "explanation": ""
   },
   {
     "question_no": 17,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "L’alimentation équilibrée\n\nAdopter une alimentation équilibrée est essentiel pour maintenir une bonne santé. Il faut (1) ______ une grande variété d’aliments riches en nutriments. Les fruits sont une excellente source de vitamines et de fibres, mais il est important de les associer à d’autres groupes alimentaires comme les légumes et et les (2) ______ pour un régime équilibré.",
     "question": "(2)",
-    "options": ["initiative", "origine", "alliance", "utilité"],
-    "right_option": "D",
+    "options": [
+      "nutriments",
+      "aliments",
+      "ingrédients",
+      "sources"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "- Collectés est le terme le plus approprié, car il fait référence à des fonds recueillis pour une cause. - Utilité publique est une expression courante qui désigne une organisation reconnue d’intérêt général, ce qui correspond bien à SOS SAHEL."
+    "explanation": ""
   },
   {
     "question_no": 18,
     "group": 11,
-    "passage": "Film 1\nJohn a quitté les services secrets et vit maintenant en Jamaïque. Mais sa tranquillité se termine quand un ami lui demande de l’aide : il faut sauver un scientifique qui vient d’être kidnappé. L’épreuve commence dans la jungle…\n\nFilm 2\nPaul et Virginie viennent d’avoir un petit garçon. Heureux à l’idée de découvrir leur nouvelle vie de jeunes parents, ils n’imaginaient pas du tout que leur bébé allait devenir le centre d’une forte lutte entre les grands-parents…\n\nFilm 3\nHatidze est une des dernières personnes à récolter le miel de manière traditionnelle, dans les montagnes désertiques de Macédoine. Elle prélève uniquement le miel nécessaire pour gagner modestement sa vie et essayer de préserver la biodiversité.\n\nFilm 4\nLéa, Marc, Karine et Francis sont deux couples d’amis de longue date. Mais l’harmonie disparaît le jour où Léa leur annonce qu’elle a écrit un roman, qui deviendra un best-seller. La jalousie commence à apparaître avec ses conséquences!",
-    "question": "Quel film propose de l’aventure ?",
-    "options": ["Film 1", "Film 2", "Film 3", "Film 4"],
-    "right_option": "A",
+    "passage": "Café 1\nLe Café de Flore est un lieu emblématique à Paris, connu pour son atmosphère élégante et ses discussions littéraires. Les tables en terrasse offrent une vue charmante sur le boulevard Saint-Germain, idéal pour savourer un café en toute tranquillité.\n\nCafé 2\nLe Café des Deux Magots, situé dans le quartier de Saint-Germain-des-Prés, est célèbre pour son histoire littéraire. Autrefois fréquenté par des écrivains comme Simone de Beauvoir et Jean-Paul Sartre, il reste un symbole de la culture parisienne.\n\nCafé 3\nLe Café Le Procope est le plus vieux café de Paris, ouvert depuis 1686. Avec son décor ancien et ses murs chargés d’histoire, il propose des spécialités traditionnelles dans une ambiance d’époque unique, offrant un véritable voyage dans le temps.\n\nCafé 4\nLe Café du Musée d’Orsay, situé dans le musée du même nom, est parfait pour une pause après la visite des expositions. Sa décoration élégante rappelle l’époque des impressionnistes, créant un cadre artistique pour déguster un café.",
+    "question": "Quel texte décrit un café où des auteurs célèbres ont l’habitude de se retrouver ?",
+    "options": [
+      "Le café de Flore",
+      "Le café des Deux Magots",
+      "Le café Le Procope",
+      "Le café du Musée d'Orsay"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le Film 1 décrit une histoire avec du suspense, de l'action et de l'aventure, où le protagoniste se lance dans une mission pour sauver un scientifique, le tout dans un cadre exotique (la jungle). C'est donc le film qui propose le plus d'aventure."
+    "explanation": ""
   },
   {
     "question_no": 19,
     "group": 12,
-    "passage": "Activité 1\nLe GR 20 est réservé aux randonneurs confirmés. 200 km entre Calenzana et Conca. À voir en cours de route, outre les paysages de rêve : alpages, bergeries, mouflons, chèvres, cabris… Les excellents marcheurs peuvent le faire en 12 à 13 jours, mais prévoir 16 jours est plus raisonnable.\n\nActivité 2\nLa via ferrata, ce sont des itinéraires rocheux sécurisés par un câble et des marches métalliques. La première a été aménagée dans la vallée d’Asco. Longue de 350 m et réservée aux sportifs, on peut la faire seul ou avec un guide. Une bonne formule pour s’initier aux frissons de l’escalade.\n\nActivité 3\nBalisés en orange, les sentiers “Mare a Mare” permettent de traverser la Corse d’est en ouest, de “mer à mer”. Ce sont des itinéraires courts, de moyenne montagne, offrant un panorama sur les plus célèbres sommets de l’île. Les parcours sont tous très beaux, traversant des régions variées.\n\nActivité 4\nLa Corse compte près de 100 sites où le canyoning peut être pratiqué. Il s’agit de descendre un cours d’eau encaissé dans un canyon, à pied, à la nage, par des sauts en rappel, en glissant sur des “toboggans”. Un équipement spécial est nécessaire.",
-    "question": "Quelle activité semble la moins difficile physiquement ?",
-    "options": ["Activité 1", "Activité 2", "Activité 3", "Activité 4"],
-    "right_option": "C",
+    "passage": "Marché 1\nLe marché de Noël des Champs-Élysées se distingue par ses illuminations scintillantes et ses stands de produits artisanaux. Les visiteurs y découvrent des créations uniques et des gourmandises variées, tout en profitant d’une ambiance festive au cœur de Paris.\n\nMarché 2\nLe marché de Noël de Montmartre, avec ses chalets pittoresques et ses animations familiales, invite à une expérience authentique. Niché sous les toits parisiens, il offre une gamme éclectique de produits locaux et de décorations artisanales.\n\nMarché 3\nLe marché de Noël de Strasbourg, reconnu pour sa longévité historique, est un véritable écrin de traditions alsaciennes. Avec ses multiples chapiteaux, il propose une immersion dans l’artisanat local et des spécialités culinaires uniques en Europe.\n\nMarché 4\nLe marché de Noël de Lyon est réputé pour son authenticité et ses traditions. Il offre une atmosphère enchâssée dans des chapiteaux décorés, présentant des spécialités internationales adorées par les amateurs de culture et de gastronomie.",
+    "question": "Quel texte décrit un marché de Noël offrant une immersion dans les traditions et l’artisanat régional avec une histoire marquante ?",
+    "options": [
+      "Marché de Noël des Champs-Élysées",
+      "Marché de Noël de Montmartre",
+      "Marché de Noël de Strasbourg",
+      "Marché de Noël de Lyon"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'Activité 3, les sentiers \"Mare a Mare\", sont décrits comme des itinéraires courts de moyenne montagne, offrant un panorama, mais sans mentionner de difficulté majeure. Les autres activités (GR 20, via ferrata, canyoning) impliquent des défis physiques plus importants, comme des randonnées longues et difficiles, de l'escalade ou des descentes en rappel."
+    "explanation": ""
   },
   {
     "question_no": 20,
     "group": 13,
-    "passage": "Séjour 1\nTroglodyte, rien que le terme est déjà un voyage. Habiter une maison creusée dans la roche est devenu un mode de vie insolite et minimaliste. Ainsi, plusieurs grottes de pêcheurs nichées dans les falaises ont été transformées en chambres d’hôtes. Un lieu idéal pour une introspection face à l’océan, bercé par le bruit des vagues et hypnotisé par le coucher du soleil.\n\nSéjour 2\nConfiné dans une bulle, vous devenez l’incarnation de l’expression “être dans sa bulle”. Expérience idéale pour les loups solitaires qui souhaitent se retirer du monde pour vivre en forêt, protégés par une bulle en plastique recyclé. En harmonie avec la nature, l’être humain se laisse envoûter par la faune et la flore qui l’entourent. Attention toutefois à ne pas déranger l’ours qui hiberne…\n\nSéjour 3\nLes chasseurs d’hôtels insolites vont se réjouir de cette nouvelle façon de vivre. Plongé dans le quotidien des Bourbons, le château de Fontainebleau ouvre grand ses portes. Les amoureux des forteresses seront les bienvenus pour y découvrir des façons de vivre ancestrales, des coutumes traditionnelles et des costumes d’époque. Un séjour dans ce lieu singulier saura vous satisfaire.\n\nSéjour 4\nAu revoir les vacances à la mer, les coups de soleil et le sable qui s’infiltre partout ! Et bonjour les températures extrêmes! Amateurs de sport d’hiver et aventuriers qui n’ont pas froid aux yeux, cette destination unique est faite pour vous ! Dormir dans un igloo est devenu LA tendance écologique du moment: seul ou en couple, vous pouvez être sûrs de respirer un bon bol d’air frais!",
-    "question": "Quelle offre de séjour correspond le mieux aux passionnés d’Histoire ?",
-    "options": ["Séjour 1", "Séjour 2", "Séjour 3", "Séjour 4"],
-    "right_option": "C",
+    "passage": "Programme 1\nCe soir à 20h, ne manquez pas “L’Aventure Inattendue”, un film d’action palpitant où des héros doivent sauver le monde d’une catastrophe imminente. Avec des scènes époustouflantes et une intrigue captivante, ce film promet de vous tenir en haleine.\n\nProgramme 2\nÀ 22h, regardez “Les Étoiles de Paris”, une comédie romantique qui suit les péripéties d’un couple qui se rencontre par hasard dans la Ville Lumière. Avec des dialogues pleins d’esprit et des moments touchants, ce film est idéal pour une soirée détendue.\n\nProgramme 3\nÀ 18h retrouvez “Les Mystères du Passé”, un drame historique qui explore les secrets d’une famille aristocratique. Les performances des acteurs et la reconstitution d’époque sont remarquables et vous plongeront dans une autre époque mais le film reste monotone.\n\nProgramme 4\nÀ 21h, découvrez “L’Enquête du Siècle”, un thriller intense où un détective résout un crime complexe dans une ville moderne. Les rebondissements surprenants et l’atmosphère intrigante feront de ce film une expérience inoubliable pour les amateurs de suspense.",
+    "question": "Quel film est considéré comme un peu ennuyant ?",
+    "options": [
+      "L'aventure Inattendue",
+      "Les Étoiles de Paris",
+      "Les Mystères du passé",
+      "L'enquête du Siècle"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le Séjour 3 dans le château de Fontainebleau est clairement destiné aux passionnés d'Histoire. Il permet de découvrir des coutumes traditionnelles, des costumes d'époque et l'histoire des Bourbons, ce qui correspond parfaitement aux intérêts des passionnés d'Histoire."
+    "explanation": ""
   },
   {
     "question_no": 21,
     "group": 14,
-    "passage": "Appel 1\nL’émission de radio Vacarme RTS prépare un sujet sur le syndrome d’aliénation parentale. Vous êtes parent à l’origine d’aliénation parentale, ou vous-même en êtes victime ? Vous avez un adolescent ou un enfant qui en souffre et qui est en capacité de raconter son ressenti au long du conflit parental ? Vos témoignages (anonymat garanti) seraient très précieux.\nPrenez contact avec nous!\n\nAppel 2\nLe secteur de la puériculture connaît des difficultés importantes de recrutement, qui se posent avec acuité à chaque rentrée : fermeture d’établissements d’accueil, réduction de la capacité d’accueil. Racontez-nous les conséquences de ces difficultés sur votre foyer ! Avez-vous dû revoir votre organisation ? Renoncer au mode de garde que vous vouliez privilégier ? Faire appel à la solidarité familiale ?\n\nAppel 3\nEnfant de médecin, vous l’êtes devenu à votre tour. Médecin, vous avez un enfant qui l’est aussi aujourd’hui. Quel regard portez-vous sur le métier ? Avec des difficultés multiples (déserts médicaux, manque de moyens, etc.), le secteur en devient moins attractif pour les nouvelles générations. Votre témoignage nous intéresse pour un prochain article sur ce sujet.\n\nAppel 4\nBabilou, Les Petits Chaperons Rouges… Les poids lourds du secteur très lucratif des crèches privées ne sont plus à présenter ; mais comment la nouvelle logique de rentabilité induite par l’ouverture au marché affecte-t-elle votre quotidien ? Que vos enfants soient accueillis en crèche privée, ou que vous évoluiez dans ce secteur, Mediacités vous donne la parole dans sa nouvelle enquête participative.",
-    "question": "À quel appel répondra un professionnel de la petite enfance souhaitant parler de sa pratique ?",
-    "options": ["Appel 1", "Appel 2", "Appel 3", "Appel 4"],
-    "right_option": "D",
+    "passage": "Parc 1\nLe parc Monceau est un havre de paix en plein cœur de Paris. Avec ses allées bordées de statues et ses espaces verts luxuriants, il offre un cadre idyllique pour une promenade ou un pique-nique en famille.\n\nParc 2\nLe parc des Buttes-Chaumont est connu pour ses paysages escarpés et son lac pittoresque. Les sentiers sinueux et les vues panoramiques en font un lieu populaire pour les amateurs de nature et les randonneurs urbains.\n\nParc 3\nLe parc de la Villette se distingue par ses structures modernes et ses vastes espaces ouverts. Il abrite également des installations culturelles comme la Cité des Sciences et de l’Industrie, offrant une expérience culturelle enrichissante en plus de ses espaces verts.\n\nParc 4\nLe parc de Belleville, perché sur une colline, offre une vue imprenable sur Paris. Ses jardins en terrasses et ses aires de jeux font de cet espace un lieu de détente apprécié des familles et des promeneurs.",
+    "question": "Quel texte décrit le parc le plus approprié pour un sportif ?",
+    "options": [
+      "Le parc Monceau",
+      "Le parc des Buttes-Chaumont",
+      "Le parc de la Villette",
+      "Le parc de Belleville"
+    ],
+    "right_option": null,
     "image_path": null,
-    "explanation": "L’Appel 4 s’adresse aux personnes concernées par le secteur des crèches privées, que ce soit en tant que parent ou en tant que professionnel évoluant dans ce secteur. Un professionnel de la petite enfance souhaitant parler de sa pratique dans ce contexte répondra donc à cet appel."
+    "explanation": ""
   },
   {
     "question_no": 22,
     "group": 15,
-    "passage": "<< Selon une étude publiée récemment, on enregistre à partir de 2022 un recul du transport fluvial. Celui-ci est très faible mais constant, malgré la croissance des dernières années. >>",
+    "passage": "Les allocations budgétaires les plus conséquentes sont consacrées à l’alimentation, suivies par les postes relatifs au logement et aux frais de transport. Les dépenses dédiées aux loisirs constituent la fraction la plus modeste du budget.",
     "question": "Quel graphique correspond au commentaire suivant ?",
-    "options": ["Graphique 1", "Graphique 2", "Graphique 3", "Graphique 4"],
-    "right_option": "A",
-    "image_path": "assets/ce-111-1-min.png",
-    "explanation": "Le graphique 1 montre une croissance régulière du transport fluvial de 2018 à 2021, puis un léger recul constant à partir de 2022. Cela correspond bien au commentaire indiquant un recul faible mais continu après des années de croissance."
+    "options": [
+      "Graphique 1",
+      "Graphique 2",
+      "Graphique 3",
+      "Graphique 4"
+    ],
+    "right_option": null,
+    "image_path": "assets/ce-9-1-min.png",
+    "explanation": ""
   },
   {
     "question_no": 23,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Ce document est :",
+    "passage": "Depuis: atfmontrealmarketing@outlook.com\nSujet : Convocation à une Réunion d’Équipe de Marketing\n\nChère Équipe,\n\nJe vous informe que nous tiendrons une réunion importante de notre équipe de marketing le mardi 15 juillet à 10h00.\n\nCette réunion a pour but de discuter des stratégies pour le lancement de notre nouveau produit prévu pour le mois prochain. Nous ciblerons particulièrement les jeunes actifs et aborderons les canaux de diffusion les plus efficaces pour atteindre ce segment de marché.\n\nNous passerons en revue les objectifs spécifiques de la campagne, les messages clés, ainsi que les rôles et responsabilités de chacun afin de garantir le succès de ce lancement. Votre présence est indispensable afin que nous puissions coordonner nos efforts et assurer une communication fluide entre tous les membres de l’équipe.\n\nVeuillez confirmer votre présence au plus tard le vendredi 12 juillet. Je vous remercie par avance,\nJacques Bédard\nCoordonnateur de l’équipe de Marketing",
+    "question": "L’objectif de cette réunion est …",
     "options": [
-      "une invitation à un débat d'idées.",
-      "une publicité pour une école.",
-      "une présentation d'établissement.",
-      "un compte rendu de réunion."
+      "Déterminer le public cible d'un nouveau produit en développement",
+      "Déterminer des stratégies de marketing pour un nouveau produit",
+      "Discuter des statistiques liées aux ventes du mois précédent",
+      "Déterminer le rôle de chaque membre de l'équipe"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte présente les Beaux-Arts de Paris, leur mission, leur organisation, et leur ambition. Il s'agit donc d'une présentation d'établissement, et non d'une publicité ou d'un débat."
+    "explanation": ""
   },
   {
     "question_no": 24,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Dans ce document, il est question de :",
+    "passage": "Depuis: atfmontrealmarketing@outlook.com\nSujet : Convocation à une Réunion d’Équipe de Marketing\n\nChère Équipe,\n\nJe vous informe que nous tiendrons une réunion importante de notre équipe de marketing le mardi 15 juillet à 10h00.\n\nCette réunion a pour but de discuter des stratégies pour le lancement de notre nouveau produit prévu pour le mois prochain. Nous ciblerons particulièrement les jeunes actifs et aborderons les canaux de diffusion les plus efficaces pour atteindre ce segment de marché.\n\nNous passerons en revue les objectifs spécifiques de la campagne, les messages clés, ainsi que les rôles et responsabilités de chacun afin de garantir le succès de ce lancement. Votre présence est indispensable afin que nous puissions coordonner nos efforts et assurer une communication fluide entre tous les membres de l’équipe.\n\nVeuillez confirmer votre présence au plus tard le vendredi 12 juillet. Je vous remercie par avance,\nJacques Bédard\nCoordonnateur de l’équipe de Marketing",
+    "question": "Qui sont les clients cibles du nouveau produit ?",
     "options": [
-      "un lieu de rencontre d'artistes.",
-      "d'un lieu de formation.",
-      "d'une salle d'exposition.",
-      "d'un musée prestigieux."
+      "Les jeunes chômeurs",
+      "Les retraités",
+      "Les adolescents",
+      "Les travailleurs en début de carrière"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte décrit principalement les Beaux-Arts de Paris comme un lieu d'enseignement des arts plastiques, où les étudiants suivent leur formation pour devenir des artistes. Il est donc question d'un lieu de formation."
+    "explanation": ""
   },
   {
     "question_no": 25,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Ce document annonce :",
+    "passage": "ON RECRUTE ! – Assistant administratif\n\nNous recherchons un(e) Assistant(e) Administratif(ve) dynamique pour rejoindre notre équipe. Vous serez responsable de la gestion des appels, de la réception des produits, de la coordination des réunions, du traitement des courriers et de la gestion des dossiers. Une maîtrise des outils bureautiques (Word, Excel, etc.) est essentielle, ainsi qu’une excellente capacité d’organisation et de communication. Vous travaillerez en collaboration avec divers départements pour assurer un flux d’informations efficace. Une première expérience dans un poste similaire est un atout.\nSi vous êtes motivé(e) et aimez les environnements dynamiques, envoyez votre candidature à c.bellevue@courriel.com\n\nType de contrat: CDI\nLieu: Paris\nDisponibilité: Immédiate",
+    "question": "Quelle tâche fait partie des responsabilités du poste ?",
     "options": [
-      "l'ouverture de bureaux annexes.",
-      "une restructuration de l'entreprise.",
-      "la revalorisation du taux des prestations.",
-      "une hausse salariale selon l'ancienneté."
+      "Gérer le standard",
+      "Concevoir des produits",
+      "Réaliser des audits financiers",
+      "Gérer les réseaux sociaux"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte parle d'une augmentation des honoraires d'expertises et des forfaits liés aux déplacements extramuros, ce qui concerne directement la revalorisation des prestations fournies par l'entreprise."
+    "explanation": ""
   },
   {
     "question_no": 26,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Cette décision :",
+    "passage": "ON RECRUTE ! – Assistant administratif\n\nNous recherchons un(e) Assistant(e) Administratif(ve) dynamique pour rejoindre notre équipe. Vous serez responsable de la gestion des appels, de la réception des produits, de la coordination des réunions, du traitement des courriers et de la gestion des dossiers. Une maîtrise des outils bureautiques (Word, Excel, etc.) est essentielle, ainsi qu’une excellente capacité d’organisation et de communication. Vous travaillerez en collaboration avec divers départements pour assurer un flux d’informations efficace. Une première expérience dans un poste similaire est un atout.\nSi vous êtes motivé(e) et aimez les environnements dynamiques, envoyez votre candidature à c.bellevue@courriel.com\n\nType de contrat: CDI\nLieu: Paris\nDisponibilité: Immédiate",
+    "question": "Quelle qualité est recherchée pour ce poste ?",
     "options": [
-      "s'inscrit dans la redistribution des bénéfices.",
-      "fait suite à une revendication du personnel.",
-      "répond à une cohérence salariale de l'entreprise.",
-      "souscrit à la nouvelle législation en vigueur."
+      "Créativité",
+      "La communication",
+      "Compétences en design",
+      "Expertise juridique"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte évoque une augmentation progressive et régulière de la rémunération des agents, mais il ne mentionne pas spécifiquement une revendication du personnel ni une nouvelle législation. La décision semble plutôt s'inscrire dans une logique interne de l'entreprise, probablement pour répondre à une cohérence salariale, en garantissant des augmentations de manière organisée."
+    "explanation": ""
   },
   {
     "question_no": 27,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "Cette entreprise propose :",
+    "passage": "Contrat d’Embauche\n\nEntre les soussignés, Tech Services+, située au 45 rue des Entrepreneurs, 75010 Paris, représentée par Mme Claire Dupont, Directrice des Ressources Humaines, d’une part, et Mr Lison Barrios domicilié au 12 avenue des Tilleuls, 75015 Paris, d’autre part, il est convenu ce qui suit :\n\nLe salarié est embauché en qualité de Programmeur Java pour aider à piloter notre nouveau projet “Décode ton code” à compter du 1er octobre 2024. Le salaire mensuel brut pour ce CDI s’élève à 3000 euros, avec une période d’essai de 3 mois. Les horaires de travail sont fixés à 37.5 heures par semaine.\n\nFait à Paris, le 7 septembre 2024.\n\nSignatures :\nMme Claire Dupont – Mr Lison Barrios",
+    "question": "Quel est le poste du salarié dans ce contrat ?",
     "options": [
-      "de participer au développement durable de Madagascar.",
-      "de contribuer à l'industrialisation des fermes à Madagascar.",
-      "d'agir pour le repeuplement de zébus sur l'île.",
-      "de vivre une expérience unique auprès d'agriculteurs malgaches."
+      "Gestionnaire de projets",
+      "Comptable",
+      "Directeur des ressources humaines",
+      "Programmeur Java"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte met en avant un modèle de financement durable et solidaire pour aider les paysans de Madagascar tout en respectant l'agriculture biologique et l'élevage traditionnel. Cela correspond à l'idée de participer au développement durable de Madagascar."
+    "explanation": ""
   },
   {
     "question_no": 28,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "L’investisseur pourra :",
+    "passage": "Contrat d’Embauche\n\nEntre les soussignés, Tech Services+, située au 45 rue des Entrepreneurs, 75010 Paris, représentée par Mme Claire Dupont, Directrice des Ressources Humaines, d’une part, et Mr Lison Barrios domicilié au 12 avenue des Tilleuls, 75015 Paris, d’autre part, il est convenu ce qui suit :\n\nLe salarié est embauché en qualité de Programmeur Java pour aider à piloter notre nouveau projet “Décode ton code” à compter du 1er octobre 2024. Le salaire mensuel brut pour ce CDI s’élève à 3000 euros, avec une période d’essai de 3 mois. Les horaires de travail sont fixés à 37.5 heures par semaine.\n\nFait à Paris, le 7 septembre 2024.\n\nSignatures :\nMme Claire Dupont – Mr Lison Barrios",
+    "question": "Le contrat…",
     "options": [
-      "remplacer l'agriculteur sur certaines tâches à la ferme.",
-      "posséder une parcelle de terre agraire à Madagascar.",
-      "créer un lien unique avec le fermier et l'animal.",
-      "acquérir un savoir-faire dans le domaine agricole."
+      "à une durée de 3 mois",
+      "à une durée indéterminée",
+      "commencera le 7 septembre",
+      "dure du 7 septembre au 1er octobre"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte mentionne spécifiquement que l'investisseur est en relation avec l'utilisateur des fonds placés, et il est encouragé à rendre visite au Zébu et au fermier, suggérant ainsi qu'il pourra créer un lien unique avec le fermier et l'animal, plutôt que de prendre part directement aux tâches agricoles."
+    "explanation": ""
   },
   {
     "question_no": 29,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "L’objectif principal du texte est :",
+    "passage": "Nouveau message\n\nDepuis : atfmontreal-drh@outlook.com\nSujet : Promotion au poste de Chargé de Projet\n\nCher Alex Beaudry,\n\nJ’ai le plaisir de vous informer de votre promotion au poste de Chargé de Projet au sein de notre division des technologies médicales, à compter du 12 Janvier 2025.\n\nVotre expertise technique et votre rigueur ont considérablement contribué au bon déroulement nos projets. En plus de la gestion de production que vous exercez actuellement, cette évolution vous confiera la responsabilité de la gestion d’équipes et de la coordination des initiatives de développement, en lien avec nos partenaires stratégiques.\n\nNous vous félicitons pour cette progression méritée et avons toute confiance en votre capacité à mener nos projets vers de nouveaux succès.\n\nCordialement,\nM. Philippe Lemoine\nDirecteur des Ressources Humaines\nMediTech Solutions",
+    "question": "Quel rôle principal sera attribué à Monsieur Beaudry en tant que chargé de projet ?",
     "options": [
-      "de présenter les responsabilités pénales du consommateur.",
-      "de préciser les coûts des différents types de contestations.",
-      "de proposer aux professionnels des moyens pour éviter les litiges.",
-      "de présenter le processus de conciliation en cas de contentieux."
+      "Gestion de la production",
+      "Pilotage des initiatives de développement",
+      "Conception de nouveaux produits",
+      "Analyse des données"
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte se concentre sur la médiation entre consommateurs et professionnels, et comment celle-ci peut être utilisée pour résoudre des litiges de manière amiable. Il explique le rôle du médiateur, les démarches à suivre et les conditions de la médiation. L'objectif est donc de présenter le processus de conciliation en cas de contentieux."
+    "explanation": ""
   },
   {
     "question_no": 30,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "Il appartient au professionnel de :",
+    "passage": "Nouveau message\n\nDepuis : atfmontreal-drh@outlook.com\nSujet : Promotion au poste de Chargé de Projet\n\nCher Alex Beaudry,\n\nJ’ai le plaisir de vous informer de votre promotion au poste de Chargé de Projet au sein de notre division des technologies médicales, à compter du 12 Janvier 2025.\n\nVotre expertise technique et votre rigueur ont considérablement contribué au bon déroulement nos projets. En plus de la gestion de production que vous exercez actuellement, cette évolution vous confiera la responsabilité de la gestion d’équipes et de la coordination des initiatives de développement, en lien avec nos partenaires stratégiques.\n\nNous vous félicitons pour cette progression méritée et avons toute confiance en votre capacité à mener nos projets vers de nouveaux succès.\n\nCordialement,\nM. Philippe Lemoine\nDirecteur des Ressources Humaines\nMediTech Solutions",
+    "question": "Quelle est la principale qualité lui ayant permis d’obtenir cette promotion ?",
     "options": [
-      "appeler l'organisme de médiation approprié.",
-      "assumer la charge financière liée à la médiation.",
-      "appuyer financièrement le consommateur.",
-      "initier la démarche de médiation avant le consommateur."
+      "Sa capacité à diriger des équipes",
+      "Sa précision dans son travail",
+      "Son aptitude à la communication",
+      "Son expérience en marketing"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte précise que le professionnel doit assumer la charge financière liée à la médiation, puisque les coûts de la médiation sont supportés par lui, tandis que la médiation elle-même est gratuite pour le consommateur."
+    "explanation": ""
   },
   {
     "question_no": 31,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Par ce communiqué, l’entreprise s’attache à :",
+    "passage": "Université de BORDEAUX\n\nExtrait du Guide d’inscription à l’Université de Bordeaux (UB)\nPour être admis à l’Université de Bordeaux, les candidats doivent prouver leur maîtrise de la langue française, conformément aux exigences du programme choisi. Plusieurs filières sont ouvertes aux étudiants internationaux, notamment dans les domaines de la science et de la technologie. L’Université propose également des aides financières et des programmes de soutien pour faciliter l’intégration des étudiants étrangers. Des stages en entreprise sont souvent requis, mais ils ne sont pas obligatoires pour tous les programmes. L’Université met à disposition un centre de formation en langue pour ceux qui souhaitent renforcer leurs compétences linguistiques avant de débuter leurs études.",
+    "question": "Selon ce document, quel est le rôle du centre de formation en langue ?",
     "options": [
-      "montrer son engagement face au changement climatique.",
-      "encourager les initiatives en faveur des populations à risque.",
-      "informer de potentielles organisations partenaires.",
-      "trouver des investisseurs pour son nouveau fonds."
+      "Tous les programmes exigent un stage en entreprise",
+      "Seuls les étudiants français peuvent postuler à ces programmes",
+      "Des cours de langue sont proposés pour améliorer les compétences linguistiques",
+      "La maîtrise de l'anglais est obligatoire"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte présente un fonds spécifiquement destiné à aider les populations vulnérables face aux catastrophes climatiques, et souligne les objectifs de prévention et de reconstruction. Cela démontre un engagement concret de l'entreprise face aux enjeux du changement climatique."
+    "explanation": ""
   },
   {
     "question_no": 32,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Ce fonds servira à :",
+    "passage": "Université de BORDEAUX\n\nExtrait du Guide d’inscription à l’Université de Bordeaux (UB)\nPour être admis à l’Université de Bordeaux, les candidats doivent prouver leur maîtrise de la langue française, conformément aux exigences du programme choisi. Plusieurs filières sont ouvertes aux étudiants internationaux, notamment dans les domaines de la science et de la technologie. L’Université propose également des aides financières et des programmes de soutien pour faciliter l’intégration des étudiants étrangers. Des stages en entreprise sont souvent requis, mais ils ne sont pas obligatoires pour tous les programmes. L’Université met à disposition un centre de formation en langue pour ceux qui souhaitent renforcer leurs compétences linguistiques avant de débuter leurs études.",
+    "question": "Que précise ce document concernant l’intégration des étudiants étrangers ?",
     "options": [
-      "renforcer la résistance des populations fragiles.",
-      "optimiser les projets environnementaux existants.",
-      "stimuler la croissance économique locale.",
-      "encourager l'innovation technologique."
+      "L'Université propose des aides pour faciliter l'intégration des étudiants étrangers",
+      "Il n'y a pas de centre de formation pour les étudiants étrangers",
+      "Tous les étudiants doivent avoir une expérience professionnelle",
+      "Les programmes sont exclusivement réservés aux étudiants internationaux"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte met en avant que le fonds a pour objectif de renforcer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, ce qui correspond à l'idée de renforcer la résistance des populations fragiles."
+    "explanation": ""
   },
   {
     "question_no": 33,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "D’après l’article, les abeilles :",
+    "passage": "L’IA sait différencier le cerveau des hommes et des femmes!\n\nLe fonctionnement cérébral des hommes et des femmes connaît-il des différences notables? La question fait l’objet depuis des décennies d’un vaste débat dans la communauté neuroscientifique. De nouveaux éléments sur ce fascinant sujet viennent d’être apportés par des chercheurs de l’université de Stanford, qui ont développé un modèle d’intelligence artificielle capable d’identifier le sexe d’une personne en se basant sur le schéma d’activation de son cerveau avec une fiabilité de 90%. “Notre étude fournit des preuves irréfutables de l’existence de différences sexuelles reproductibles et généralisables dans l’organisation fonctionnelle du cerveau humain”, affirme le professeur en psychiatrie et sciences du comportement Vinod Menon, qui a dirigé ces travaux récemment publiés dans la revue PNAS. Une première qui pourrait se révéler utile dans le traitement de certains troubles neurologiques ou psychiatriques dont les caractéristiques diffèrent avec le sexe du patient. Par exemple, des maladies comme la schizophrénie ou le Parkinson se présentent différemment selon que le patient est une femme ou un homme.\n\nScience et cerveau, #22, Été 2024, p.10",
+    "question": "Qu’est-ce que l’étude a montré ?",
     "options": [
-      "représentent un défi écologique pour les villes.",
-      "apprécient la biodiversité des villes.",
-      "se dirigent davantage vers les milieux urbains.",
-      "produisent moins de miel dans les zones agricoles."
+      "Que les femmes sont plus intelligentes que les hommes",
+      "Que les hommes sont plus intelligents que les femmes",
+      "Que le cerveau fonctionne différemment en fonction du sexe",
+      "Qu'il n'existe pas de différence notable entre le fonctionnement du cerveau d'un homme et celui d'une femme"
     ],
-    "right_option": "B",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article met en évidence que les abeilles bénéficient de la diversité des espèces végétales présentes dans les villes, ce qui leur permet de butiner plus longtemps en raison des températures légèrement plus élevées. Cependant, l'augmentation rapide du nombre de ruches entraîne une diminution de la production de miel, car les ressources florales deviennent limitées. Ainsi, les abeilles apprécient la biodiversité des villes qui leur offre une grande variété de sources alimentaires."
+    "explanation": ""
   },
   {
     "question_no": 34,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "La mise en place des ruches en ville :",
+    "passage": "L’IA sait différencier le cerveau des hommes et des femmes!\n\nLe fonctionnement cérébral des hommes et des femmes connaît-il des différences notables? La question fait l’objet depuis des décennies d’un vaste débat dans la communauté neuroscientifique. De nouveaux éléments sur ce fascinant sujet viennent d’être apportés par des chercheurs de l’université de Stanford, qui ont développé un modèle d’intelligence artificielle capable d’identifier le sexe d’une personne en se basant sur le schéma d’activation de son cerveau avec une fiabilité de 90%. “Notre étude fournit des preuves irréfutables de l’existence de différences sexuelles reproductibles et généralisables dans l’organisation fonctionnelle du cerveau humain”, affirme le professeur en psychiatrie et sciences du comportement Vinod Menon, qui a dirigé ces travaux récemment publiés dans la revue PNAS. Une première qui pourrait se révéler utile dans le traitement de certains troubles neurologiques ou psychiatriques dont les caractéristiques diffèrent avec le sexe du patient. Par exemple, des maladies comme la schizophrénie ou le Parkinson se présentent différemment selon que le patient est une femme ou un homme.\n\nScience et cerveau, #22, Été 2024, p.10",
+    "question": "D’après cet article, quelle est la principale implication des résultats de cette étude ?",
     "options": [
-      "présente des avantages limités dans le temps.",
-      "est inefficace pour protéger l'écosystème.",
-      "a un effet dévastateur sur les campagnes.",
-      "permet à de nouvelles espèces végétales de prospérer."
+      "Elle permet de montrer la supériorité d'un sexe sur l'autre",
+      "Elle permet de faire avancer l'intelligence artificielle",
+      "Elle permettra d'améliorer les traitements pour les conditions médicales dont les symptômes varient selon le sexe",
+      "Elle permettra de mettre un frein au traitement différentiel de conditions médicales selon le sexe, puisqu'il n'y a pas vraiment de différence entre hommes et femmes"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article souligne que bien que les villes offrent des avantages initiaux pour les abeilles, comme une meilleure biodiversité et des températures plus élevées, ces avantages diminuent au fil du temps. Cela est dû à l'augmentation du nombre de ruches, qui entraîne une saturation des ressources florales disponibles. Ainsi, l'impact positif des villes sur la production de miel diminue au fil des années, ce qui rend les avantages limités dans le temps."
+    "explanation": ""
   },
   {
     "question_no": 35,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "L’auteur de cet article s’inquiète :",
+    "passage": "Samedi, une synagogue de La Grande-Motte a été ciblée par une attaque qualifiée d’<< acte terroriste >> par le président Emmanuel Macron. Un individu, arborant un drapeau palestinien, a incendié deux voitures, provoquant l’explosion d’une bouteille de gaz, qui a endommagé le bâtiment et blessé légèrement un policier. Cinq personnes, dont le rabbin, se trouvaient à l’intérieur, mais aucune n’a été blessée. Le RAID a arrêté le principal suspect après un échange de tirs, et deux autres personnes ont été placées en garde à vue. Le ministre démissionnaire Gérald Darmanin a annoncé le renforcement immédiat de la sécurité autour des lieux de culte et des établissements scolaires juifs. Cette attaque survient alors que la France connaît une recrudescence des actes antisémites, avec une nette augmentation des incidents depuis le début de l’année. Le président du CRIF et plusieurs figures politiques ont condamné avec force cet acte, soulignant la gravité de la situation actuelle en France.",
+    "question": "Quelles mesures ont été prises après l’attaque ?",
     "options": [
-      "de l'avenir du ministère en charge de l'environnement.",
-      "de la perte d'identité des populations du désert.",
-      "des pollutions créées par les chasseurs de météorites.",
-      "de la récupération du patrimoine par des groupes privés."
+      "La sécurité autour des lieux religieux juifs a été renforcée",
+      "La sécurité des lieux publics a été renforcée",
+      "Un couvre-feu a été mis en place dans la ville",
+      "Une manifestation a été organisée"
     ],
-    "right_option": "D",
+    "right_option": null,
     "image_path": null,
-    "explanation": "L'article met en lumière le risque que les spécimens de météorites marocaines, non protégées par des lois, se retrouvent dans des collections privées au lieu d'être conservés et préservés dans une structure dédiée, comme un musée national. L'auteur s'inquiète de cette récupération par des acteurs privés, comme la Meteorical Society, qui organise même des congrès pour attirer l'attention sur ce patrimoine."
+    "explanation": ""
   },
   {
     "question_no": 36,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "D’après ce texte, la présence de météorites a généré :",
+    "passage": "Samedi, une synagogue de La Grande-Motte a été ciblée par une attaque qualifiée d’<< acte terroriste >> par le président Emmanuel Macron. Un individu, arborant un drapeau palestinien, a incendié deux voitures, provoquant l’explosion d’une bouteille de gaz, qui a endommagé le bâtiment et blessé légèrement un policier. Cinq personnes, dont le rabbin, se trouvaient à l’intérieur, mais aucune n’a été blessée. Le RAID a arrêté le principal suspect après un échange de tirs, et deux autres personnes ont été placées en garde à vue. Le ministre démissionnaire Gérald Darmanin a annoncé le renforcement immédiat de la sécurité autour des lieux de culte et des établissements scolaires juifs. Cette attaque survient alors que la France connaît une recrudescence des actes antisémites, avec une nette augmentation des incidents depuis le début de l’année. Le président du CRIF et plusieurs figures politiques ont condamné avec force cet acte, soulignant la gravité de la situation actuelle en France.",
+    "question": "Pourquoi cette attaque est-elle particulièrement inquiétante ?",
     "options": [
-      "une nouvelle activité pour les populations du désert.",
-      "une mobilisation sans précédent des universitaires.",
-      "une exposition à destination du grand public.",
-      "un trafic important avec les pays voisins."
+      "Elle s'est produite pendant une fête nationale",
+      "Elle montre une montée de l'antisémitisme en France",
+      "Elle a causé de nombreux décès",
+      "Elle s'est produite dans une grande ville"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte explique que de nombreux nomades du désert ont fait de la chasse aux météorites leur métier, créant ainsi une nouvelle activité pour les populations locales. Cette activité est rendue possible grâce à la vente de météorites, un commerce qui s'est développé autour de ces fragments célestes."
+    "explanation": ""
   },
   {
     "question_no": 37,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, l’être humain :",
+    "passage": "Le Sénat a adopté hier soir le projet de loi C-16 interdisant la discrimination visant les personnes transgenres. Soixante-sept sénateurs ont voté en sa faveur, onze ont voté contre. Il ne reste plus à C-16 qu’à recevoir la sanction royale pour entrer en vigueur. Le texte de loi modifie la Loi canadienne sur les droits de la personne en ajoutant à la liste des motifs interdits de discrimination « l’identité ou l’expression de genre >>. Il modifie de la même manière les dispositions du Code criminel portant sur l’incitation à la haine. Une poignée de sénateurs avaient manifesté leur malaise avec ce projet de loi au motif qu’il pourrait, à leur avis, forcer l’utilisation d’un certain langage pour désigner les personnes transgenres, en particulier des pronoms inventés non sexués.",
+    "question": "Quelles modifications apporte le projet de loi C-16 à la législation existante ?",
     "options": [
-      "doit trouver son harmonie spirituelle.",
-      "se complait dans son anxiété.",
-      "s'épanouit dans ses relations humaines.",
-      "doit intérioriser ses tourments."
+      "Il ajoute l'identité de genre à la liste des motifs interdits de discrimination",
+      "Il criminalise l'utilisation de certains pronoms",
+      "Il change la définition de la haine dans le Code criminel",
+      "Il interdit la discrimination fondée sur l'âge"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte évoque l'idée que vivre, c'est être fondamentalement intranquille. Cependant, l'être humain doit trouver un équilibre en agissant avec empathie et vigilance, et en luttant contre ses représentations anxieuses. Ce processus implique de trouver une forme d'harmonie dans la gestion de son intranquillité. Ce n'est donc pas l'intériorisation passive ou le repli sur soi qui est encouragé, mais plutôt une quête active d'équilibre et de sérénité."
+    "explanation": ""
   },
   {
     "question_no": 38,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, la technologie :",
+    "passage": "Le Sénat a adopté hier soir le projet de loi C-16 interdisant la discrimination visant les personnes transgenres. Soixante-sept sénateurs ont voté en sa faveur, onze ont voté contre. Il ne reste plus à C-16 qu’à recevoir la sanction royale pour entrer en vigueur. Le texte de loi modifie la Loi canadienne sur les droits de la personne en ajoutant à la liste des motifs interdits de discrimination « l’identité ou l’expression de genre >>. Il modifie de la même manière les dispositions du Code criminel portant sur l’incitation à la haine. Une poignée de sénateurs avaient manifesté leur malaise avec ce projet de loi au motif qu’il pourrait, à leur avis, forcer l’utilisation d’un certain langage pour désigner les personnes transgenres, en particulier des pronoms inventés non sexués.",
+    "question": "Quel est le prochain processus nécessaire pour que le projet de loi C-16 entre en vigueur ?",
     "options": [
-      "favorise la paix intérieure.",
-      "représente un moyen de méditation.",
-      "incarne une extension de l'Homme.",
-      "symbolise un retour à la réalité."
+      "Une révision par la Chambre des communes",
+      "L'approbation du Premier ministre",
+      "La sanction royale",
+      "Un vote public"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte mentionne que les \"arpenteurs de déserts\" restent connectés à l'actualité via Internet, ce qui indique que la technologie, loin d'être un facteur de paix intérieure, fait plutôt partie d'un projet de vie autonome où les individus utilisent des outils technologiques pour rester informés, même dans des lieux isolés. Cela suggère que la technologie est perçue comme une extension de l'Homme, permettant une connexion au monde extérieur, même en dehors des sociétés traditionnelles."
+    "explanation": ""
   },
   {
     "question_no": 39,
     "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "Pour endiguer la crise écologique, il faut que :",
+    "passage": "Lors de fouilles archéologiques entreprises pour la construction de la station de métro Toots-Thielemans à Bruxelles, des archéologues ont fait une découverte rare: des ossements d’un mammouth vieux de plus de 11 000 ans. Non loin de la rue midi, à une profondeur de 8 à 9 mètres dans des couches sédimentaires datant de la dernière période glaciaire, ils ont trouvé deux fémurs d’un mètre de long, un fragment de défense, ainsi que des bois et une mandibule de cerf géant. Ces ossements sont actuellement analysés en laboratoire, puis seront envoyés à l’Institut royal des sciences naturelles de Belgique pour être préservés et éventuellement exposés au public dans des collections régionales ou au Muséum des sciences naturelles.\n\nBien que rare en milieu urbain, ce n’est pas la première fois que des restes de mammouth sont découverts dans la région; en 2018, un fragment de défense avait été trouvé à Schaerbeek lors de la construction d’un parking. Ces découvertes, bien que peu fréquentes, fournissent des informations précieuses sur la présence d’animaux préhistoriques en Europe, à une époque où ils étaient plus nombreux que les humains.",
+    "question": "Où seront envoyés les ossements pour être préservés jusqu’à leur exposition au public ?",
     "options": [
-      "la mise en retrait de l'homme est indispensable.",
-      "l'usage des nouvelles technologies est un leurre.",
-      "les pratiques numériques sont à reconsidérer.",
-      "l'intelligence artificielle est porteuse d'espoir."
+      "À l'Institut royal des sciences naturelles de Belgique",
+      "Au Musée d'histoire naturelle",
+      "Vers la rue midi",
+      "À la station de métro Toots-Thielemans à Bruxelles"
     ],
-    "right_option": "C",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte critique la dépendance excessive aux technologies numériques pour résoudre la crise climatique, en mettant en évidence l'impact environnemental généré par la prolifération des objets connectés et des systèmes autonomes. L’auteur souligne que se concentrer uniquement sur les comportements numériques des humains pourrait être vain, suggérant ainsi qu'une reconsidération des pratiques numériques est nécessaire pour véritablement maîtriser l'impact écologique."
+    "explanation": ""
   },
   {
     "question_no": 40,
     "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "L’auteur dénonce :",
+    "passage": "Lors de fouilles archéologiques entreprises pour la construction de la station de métro Toots-Thielemans à Bruxelles, des archéologues ont fait une découverte rare: des ossements d’un mammouth vieux de plus de 11 000 ans. Non loin de la rue midi, à une profondeur de 8 à 9 mètres dans des couches sédimentaires datant de la dernière période glaciaire, ils ont trouvé deux fémurs d’un mètre de long, un fragment de défense, ainsi que des bois et une mandibule de cerf géant. Ces ossements sont actuellement analysés en laboratoire, puis seront envoyés à l’Institut royal des sciences naturelles de Belgique pour être préservés et éventuellement exposés au public dans des collections régionales ou au Muséum des sciences naturelles.\n\nBien que rare en milieu urbain, ce n’est pas la première fois que des restes de mammouth sont découverts dans la région; en 2018, un fragment de défense avait été trouvé à Schaerbeek lors de la construction d’un parking. Ces découvertes, bien que peu fréquentes, fournissent des informations précieuses sur la présence d’animaux préhistoriques en Europe, à une époque où ils étaient plus nombreux que les humains.",
+    "question": "Quelle découverte similaire a été faite en 2018 ?",
     "options": [
-      "la pollution générée par les intelligences artificielles.",
-      "l'usage immoral fait des intelligences artificielles.",
-      "les contradictions dans les études sur les intelligences artificielles.",
-      "la pensée unique sur les intelligences artificielles."
+      "Une défense de mammouth",
+      "Un morceau de défense de mammouth",
+      "Des outils préhistoriques",
+      "Des os de dinosaures"
     ],
-    "right_option": "A",
+    "right_option": null,
     "image_path": null,
-    "explanation": "Le texte critique l’impact environnemental du numérique, en particulier des technologies autonomes comme les véhicules intelligents et les logiciels tournant en continu. Il remet en question l’idée que le numérique soit automatiquement bénéfique pour le climat, et alerte sur la pollution invisible et incontrôlée que pourraient engendrer ces systèmes, y compris l’IA."
+    "explanation": ""
   }
 ]

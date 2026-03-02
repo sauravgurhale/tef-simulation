@@ -2,526 +2,601 @@
   {
     "question_no": 1,
     "group": 1,
-    "passage": "Pour une ville propre !\n\nLa ville de Bruges ramasse chaque année 18 tonnes de cigarettes jetées au sol.\nUn mégot par terre : 68 euros d’amende !",
-    "question": "Ce document est :",
+    "passage": "Affranchir au tarif en vigueur",
+    "question": "On peut lire cette inscription",
     "options": [
-      "un règlement intérieur",
-      "un panneau d'information",
-      "un dépliant touristique",
-      "une offre d'emploi"
+      "sur une lettre.",
+      "sur un livre.",
+      "sur un vêtement.",
+      "sur une boîte de conserve."
     ],
-    "right_option": "B",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Ce document sert à informer et sensibiliser les citoyens sur les conséquences de jeter des mégots par terre. Il ne détaille pas des règles internes, ne fait pas la promotion touristique, et n'offre pas d'emploi. Il s'agit donc d’un panneau d'information."
+    "explanation": "Cette mention figure sur des enveloppes ou courriers pré-imprimés (comme les enveloppes T) pour indiquer qu’un affranchissement est requis selon les tarifs postaux actuels."
   },
   {
     "question_no": 2,
     "group": 2,
-    "passage": "JF 20 ans étudiante en formation « petite enfance », sérieuse avec beaucoup d’expérience, propose garde d’enfants (de 2 à 10 ans) les soirs, les mercredis et les dimanches.\n\nSi vous êtes intéressé(e), contactez-moi :\n232-21-18-14 ou adele@lilo.org",
-    "question": "L’auteure de cette annonce est disponible :",
+    "passage": "FERMÉ LES DIMANCHES ET LUNDIS",
+    "question": "On peut lire cette inscription",
     "options": [
-      "en début de journée",
-      "plusieurs fois par semaine",
-      "une fois par semaine",
-      "seulement le weekend"
+      "dans un magasin.",
+      "dans un bus.",
+      "dans un immeuble.",
+      "dans un train."
     ],
-    "right_option": "B",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Elle propose ses services les soirs, les mercredis et les dimanches, ce qui représente plusieurs moments répartis sur la semaine. Donc, elle est disponible plusieurs fois par semaine."
+    "explanation": "Cette inscription est typique d'un affichage dans les magasins, indiquant les jours où le service est fermé."
   },
   {
     "question_no": 3,
     "group": 3,
-    "passage": "L’Asie du Sud au cinéma !\n\nLe festival « Cinéasia » présente en Belgique des films de toute l’Asie du Sud.\n\nL’Inde et ses voisins seront parmi nous et une journée sera dédiée au Pakistan.\n\nL’an dernier, vous avez adoré notre nuit « Frissons ». Cette année, vous allez rire avec notre nuit « Comédies » ! Venez nombreux !",
-    "question": "Le programme du festival :",
+    "passage": "Je suis libre, veuf, grand aux yeux marron. Âgé de 57 ans, je me retrouve jeune retraité cadre supérieur. J’aime la vie de couple, l’humour, le bridge, les antiquités. Je réside dans une belle maison de la vallée de Montmorency. Je vous imagine jeune, gaie, féminine, intelligente.\n\nPhysique agréable, sensible, aimant soleil et voyages.\nPATRICK. Réf. pat@free.fr",
+    "question": "Dans quelle rubrique d’un journal pourrait-on lire cette petite annonce ?",
     "options": [
-      "est le même que l'an dernier",
-      "reste encore à définir",
-      "est renouvelé chaque année",
-      "est destiné aux plus jeunes"
+      "Rencontres.",
+      "Offres d'emploi.",
+      "Immobilier.",
+      "Loisirs."
     ],
-    "right_option": "C",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte compare le programme de cette année avec celui de l’année précédente (de « Frissons » à « Comédies »), ce qui montre que le contenu change d'une édition à l'autre. Le programme est donc renouvelé chaque année."
+    "explanation": "La description de Patrick, qui parle de sa situation personnelle et de ses attentes pour une rencontre, correspond à une annonce dans la rubrique \"Rencontres\" d'un journal."
   },
   {
     "question_no": 4,
-    "group": 4,
-    "passage": "Professeur au Conservatoire de Montréal donne des\nCOURS DE CHANT\n\nTechniques italienne et française\nOpéra – Chanson française – Opérette\nSessions d’une semaine à six mois\nProgrès rapides garantis !\nTel. : 514-873-4283",
-    "question": "Ce document propose :",
+    "group": 3,
+    "passage": "Je suis libre, veuf, grand aux yeux marron. Âgé de 57 ans, je me retrouve jeune retraité cadre supérieur. J’aime la vie de couple, l’humour, le bridge, les antiquités. Je réside dans une belle maison de la vallée de Montmorency. Je vous imagine jeune, gaie, féminine, intelligente.\n\nPhysique agréable, sensible, aimant soleil et voyages.\nPATRICK. Réf. pat@free.fr",
+    "question": "À qui s’adresse ce document ?",
     "options": [
-      "un enseignement de qualité",
-      "une place à l'Opéra",
-      "un poste en Italie",
-      "une semaine de concerts"
+      "À Patrick.",
+      "À un couple.",
+      "Aux femmes retraitées.",
+      "Aux jeunes lectrices."
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Il s’agit d’une annonce de cours de chant donnés par un professeur au Conservatoire, avec des techniques précises et une promesse de progrès. Cela met en avant un enseignement de qualité, pas une offre de travail ni des concerts."
+    "explanation": "Patrick s'adresse à une jeune femme, qu'il imagine comme étant jeune, gaie, féminine, et aimant les voyages et le soleil. Cela indique que l'annonce est destinée à des jeunes lectrices."
   },
   {
     "question_no": 5,
-    "group": 5,
-    "passage": "Vous souhaitez agir pour préserver notre climat, pour rendre notre société plus écologique et solidaire ?\n\nAu festival « Agir à Lyon », vous pourrez rencontrer une trentaine d’associations avec qui devenir bénévole. À travers une dizaine de mini-conférences, vous découvrirez des projets inspirants pour vous donner envie de mettre l’écologie au centre de votre mode de vie.\n\nNous vous inviterons, par des démonstrations simples, à découvrir des actions à faire chez soi ou autour de soi : compostage, cuisine anti-gaspillage, etc.",
-    "question": "Le but de l’événement est de :",
+    "group": 4,
+    "passage": "Les enfants nés aujourd’hui.\nCes enfants seront sociables et fidèles en amitié et en amour. Intelligents, travailleurs, ils auront une vie très dense. Ils auront des idées d’avant-garde et les mettront toujours en application. Ils auront beaucoup de talents, leur avenir sera des plus brillants. Ils n’auront pas de problèmes financiers.",
+    "question": "Quelle est la nature de cet article ?",
     "options": [
-      "découvrir des activités écologiques",
-      "rencontrer des scientifiques",
-      "créer de nouvelles associations",
-      "ramasser les déchets d’un quartier"
+      "Une petite annonce pour garder des enfants.",
+      "Une prévision extraite d'un horoscope.",
+      "Les conclusions d'une étude médicale.",
+      "Le portrait des enfants aujourd'hui."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte insiste sur la découverte de projets écologiques, de gestes simples à faire soi-même, et sur l’envie d’agir pour l’environnement. Il s’agit donc de découvrir des activités écologiques."
+    "explanation": "Le texte semble être une prévision très positive sur les enfants nés aujourd'hui, avec des éléments caractéristiques des horoscopes, comme la vision optimiste de l'avenir et des talents exceptionnels."
   },
   {
     "question_no": 6,
-    "group": 6,
-    "passage": "Madame, Monsieur,\n\nNous vous rappelons que certaines œuvres sont soumises au droit d’auteur. Pour pouvoir les reproduire ou les diffuser sur notre plateforme, nous vous demandons de bien vouloir effectuer une déclaration lors de chaque commande d’impression ou de mise en ligne.\n\nCette déclaration se fait en ligne, est anonyme et ne demandera aucune rétribution de votre part. Vous devrez néanmoins indiquer le numéro de votre commande.\n\nATTENTION ! Sans ces indications, vos demandes ne pourront être traitées.\n\nBien cordialement,\nDirection de la Communication, Université Sorbonne Nouvelle",
-    "question": "Ce mail rappelle :",
+    "group": 4,
+    "passage": "Les enfants nés aujourd’hui.\nCes enfants seront sociables et fidèles en amitié et en amour. Intelligents, travailleurs, ils auront une vie très dense. Ils auront des idées d’avant-garde et les mettront toujours en application. Ils auront beaucoup de talents, leur avenir sera des plus brillants. Ils n’auront pas de problèmes financiers.",
+    "question": "La description faite est",
     "options": [
-      "l'interdiction de copier les œuvres",
-      "le délai de traitement des commandes",
-      "l'obligation de payer les droits d'auteur",
-      "les règles d'utilisation des œuvres"
+      "très positive.",
+      "un peu négative.",
+      "très négative.",
+      "à la fois positive et négative."
     ],
-    "right_option": "D",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le message explique qu’une déclaration est nécessaire pour reproduire ou diffuser des œuvres protégées par le droit d’auteur. Il ne parle pas d’interdiction, de délai, ni de paiement. Il rappelle donc les règles d’utilisation des œuvres."
+    "explanation": "La description est très positive, mettant en avant les qualités exceptionnelles des enfants nés aujourd'hui, ainsi qu'un avenir brillant et sans problème financier."
   },
   {
     "question_no": 7,
-    "group": 7,
-    "passage": "Service civique\n\nEn France, vous pouvez effectuer un service civique. Il s’agit d’un engagement volontaire de six à douze mois au service de l’intérêt général. D’une durée hebdomadaire de vingt-quatre heures minimum, il est indemnisé 580 € par mois.\n\nLe service civique est une expérience unique ouverte à tous les jeunes de 16 à 25 ans, et jusqu’à 30 ans en situation de handicap, sans condition de diplôme. Seule votre motivation compte !\n\nVous pouvez réaliser votre mission de service civique auprès d’une association, d’une collectivité territoriale, d’un établissement public, d’un bailleur de logement social ou des services de l’État.",
-    "question": "Le service civique permet aux jeunes :",
+    "group": 4,
+    "passage": "Les enfants nés aujourd’hui.\nCes enfants seront sociables et fidèles en amitié et en amour. Intelligents, travailleurs, ils auront une vie très dense. Ils auront des idées d’avant-garde et les mettront toujours en application. Ils auront beaucoup de talents, leur avenir sera des plus brillants. Ils n’auront pas de problèmes financiers.",
+    "question": "Quel thème n’est pas évoqué ?",
     "options": [
-      "de prouver leurs compétences à l'international",
-      "de participer au bon fonctionnement de la société",
-      "de bénéficier d'un emploi pendant 2 ans",
-      "d'obtenir un diplôme à l'issue de leur engagement"
+      "Le travail.",
+      "L'amour.",
+      "La santé.",
+      "L'argent."
     ],
-    "right_option": "B",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte insiste sur l'engagement volontaire au service de l'intérêt général, dans différents types de structures. Cela permet donc de participer au bon fonctionnement de la société, pas d'obtenir un diplôme ou un emploi formel."
+    "explanation": "Bien que le texte parle de la sociabilité, de l'amour, du travail et de l'argent (problèmes financiers), il n'évoque pas la santé des enfants."
   },
   {
     "question_no": 8,
-    "group": 8,
-    "passage": "",
-    "question": "Pour rester en bonne santé, ______ des fruits et des légumes.",
-    "options": ["achetez", "mangez", "vendez", "préparez"],
-    "right_option": "B",
+    "group": 5,
+    "passage": "Il y a quelques années, j’ai légué par testament un appartement à mon frère. Depuis, des balcons ont été ajoutés à tous les appartements de l’immeuble. Dois-je modifier mon testament pour transmettre ce nouvel aménagement à mon frère ?\n\nEn vertu des dispositions de l’article 1019 alinéa 2 du code civil, le légataire bénéficie de plein droit des agrandissements, des embellissements, et des constructions nouvelles faites sur le bien transmis. Tout avenant à votre testament est donc inutile.",
+    "question": "Dans quelle rubrique pourrait-on lire ce document ?",
+    "options": [
+      "Immobilier.",
+      "Société.",
+      "Courrier du cœur",
+      "Questions juridiques."
+    ],
+    "right_option": "D",
     "image_path": null,
-    "explanation": "La phrase encourage à adopter une bonne hygiène de vie pour rester en bonne santé. Le verbe \"mangez\" est donc le plus approprié, car il invite à consommer des fruits et des légumes."
+    "explanation": "Ce document fait référence à une question juridique spécifique concernant un testament et la transmission de biens immobiliers. La rubrique \"Questions juridiques\" est donc la plus appropriée pour ce type d'information."
   },
   {
     "question_no": 9,
-    "group": 8,
-    "passage": "",
-    "question": "Venez découvrir l’immensité des espaces blancs et l’accueil _____ de nos habitants !",
-    "options": ["chaleureux", "sensible", "intimiste", "contenu"],
-    "right_option": "A",
+    "group": 5,
+    "passage": "Il y a quelques années, j’ai légué par testament un appartement à mon frère. Depuis, des balcons ont été ajoutés à tous les appartements de l’immeuble. Dois-je modifier mon testament pour transmettre ce nouvel aménagement à mon frère ?\n\nEn vertu des dispositions de l’article 1019 alinéa 2 du code civil, le légataire bénéficie de plein droit des agrandissements, des embellissements, et des constructions nouvelles faites sur le bien transmis. Tout avenant à votre testament est donc inutile.",
+    "question": "Que fait l’auteur de la première partie du document ?",
+    "options": [
+      "Il décrit un appartement.",
+      "Il écrit à son frère.",
+      "Il demande un conseil.",
+      "Il exprime son opinion."
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "L'expression \"l'accueil de nos habitants\" suggère une atmosphère positive et accueillante. L'adjectif \"chaleureux\" est donc le plus adapté, car il évoque un accueil amical et bienveillant."
+    "explanation": "L'auteur pose une question concernant un problème juridique lié à son testament. Il cherche à savoir s'il doit modifier son testament, ce qui implique qu'il demande un conseil."
   },
   {
     "question_no": 10,
-    "group": 8,
-    "passage": "",
-    "question": "En raison des vacances, la boulangerie sera ______ jusqu’à lundi prochain !",
-    "options": ["louée", "habitée", "occupée", "fermée"],
-    "right_option": "D",
+    "group": 5,
+    "passage": "Il y a quelques années, j’ai légué par testament un appartement à mon frère. Depuis, des balcons ont été ajoutés à tous les appartements de l’immeuble. Dois-je modifier mon testament pour transmettre ce nouvel aménagement à mon frère ?\n\nEn vertu des dispositions de l’article 1019 alinéa 2 du code civil, le légataire bénéficie de plein droit des agrandissements, des embellissements, et des constructions nouvelles faites sur le bien transmis. Tout avenant à votre testament est donc inutile.",
+    "question": "La réponse à la question posée dans le document est :",
+    "options": [
+      "oui",
+      "non",
+      "peut-être",
+      "on ne sait pas"
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le contexte indique que la boulangerie ne sera pas ouverte en raison des vacances. Le mot \"fermée\" est donc le plus approprié, car il signifie qu'elle sera fermée temporairement."
+    "explanation": "La réponse à la question posée dans le document est clairement \"non\", car selon l'article du code civil cité, le légataire bénéficie de plein droit des aménagements réalisés sur le bien, sans qu'il soit nécessaire de modifier le testament."
   },
   {
     "question_no": 11,
-    "group": 8,
-    "passage": "",
-    "question": "Pendant la réunion, nous avons parlé de _____ du prix de l’essence.",
-    "options": ["l'innovation", "l'augmentation", "l'ajout", "l'élévation"],
-    "right_option": "B",
+    "group": 6,
+    "passage": "Pour quelles raisons principales utilisez-vous votre voiture en ville ?\n(en %)\n• Vous gagnez du temps… 52\n• Votre commune est mal desservie en transports en commun… 27\n• Vous devez conduire d’autres personnes… 22\n• C’est agréable… 20\n• Vous n’aimez pas les transports en commun… 13\n• Vous craignez les grèves dans les transports en commun… 4\n• Sans avis… 9\n\nTotal supérieur à 100, les interviewés ayant pu donner trois réponses.",
+    "question": "Ce document présente",
+    "options": [
+      "une publicité pour une voiture.",
+      "un avis de la municipalité.",
+      "un emploi du temps de citadins.",
+      "les résultats d'une enquête."
+    ],
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le prix de l'essence peut augmenter, ce qui correspond à \"l'augmentation\". Les autres options ne sont pas adaptées au contexte de l'évolution du prix."
+    "explanation": "Le document présente les résultats d'une enquête menée auprès des citadins sur les raisons pour lesquelles ils utilisent leur voiture en ville, en précisant des pourcentages de réponses."
   },
   {
     "question_no": 12,
-    "group": 8,
-    "passage": "",
-    "question": "Salut Justine ! J’ai besoin d’un marteau pour _____ mes peintures, pourrais-tu me prêter le tien ?",
-    "options": ["attacher", "étendre", "retenir", "accrocher"],
-    "right_option": "D",
+    "group": 6,
+    "passage": "Pour quelles raisons principales utilisez-vous votre voiture en ville ?\n(en %)\n• Vous gagnez du temps… 52\n• Votre commune est mal desservie en transports en commun… 27\n• Vous devez conduire d’autres personnes… 22\n• C’est agréable… 20\n• Vous n’aimez pas les transports en commun… 13\n• Vous craignez les grèves dans les transports en commun… 4\n• Sans avis… 9\n\nTotal supérieur à 100, les interviewés ayant pu donner trois réponses.",
+    "question": "Ce document",
+    "options": [
+      "donne des informations sur les motivations des automobilistes.",
+      "mesure l'importance des déplacements en voiture.",
+      "propose le développement des transports en commun.",
+      "incite à la limitation de la circulation automobile."
+    ],
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le contexte suggère que la personne veut suspendre ou fixer des peintures. Le verbe \"accrocher\" est donc le plus approprié, car il signifie suspendre quelque chose, comme des tableaux ou des peintures."
+    "explanation": "Le document fournit des informations sur les motivations des automobilistes, en détaillant les raisons pour lesquelles ils utilisent leur voiture en ville, telles que le gain de temps ou la mauvaise desserte des transports en commun."
   },
   {
     "question_no": 13,
-    "group": 8,
-    "passage": "",
-    "question": "Pour continuer à défendre l’environnement, votre _____ nous est indispensable : sachez que les manières d’agir sont multiples !",
-    "options": ["service", "sécurité", "support", "soutien"],
-    "right_option": "D",
+    "group": 6,
+    "passage": "Pour quelles raisons principales utilisez-vous votre voiture en ville ?\n(en %)\n• Vous gagnez du temps… 52\n• Votre commune est mal desservie en transports en commun… 27\n• Vous devez conduire d’autres personnes… 22\n• C’est agréable… 20\n• Vous n’aimez pas les transports en commun… 13\n• Vous craignez les grèves dans les transports en commun… 4\n• Sans avis… 9\n\nTotal supérieur à 100, les interviewés ayant pu donner trois réponses.",
+    "question": "La plus grande partie des gens prennent leur voiture",
+    "options": [
+      "parce qu'ils aiment conduire",
+      "pour aller plus vite.",
+      "en raison des grèves.",
+      "à cause du manque de bus."
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le mot \"soutien\" est celui qui convient le mieux dans ce contexte, car il évoque l'idée d'encouragement ou de soutien nécessaire pour défendre l'environnement. Le mot est répété, mais il s'agit du bon choix."
+    "explanation": "La raison la plus citée par les interviewés (52%) pour utiliser leur voiture est le gain de temps, ce qui signifie qu'ils prennent leur voiture principalement pour aller plus vite."
   },
   {
     "question_no": 14,
-    "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
-    "question": "(1)",
-    "options": ["batterie", "bataille", "explosion", "tempête"],
+    "group": 7,
+    "passage": "Vivre mieux, ça se construit chaque jour.\nAu fond, à quoi ça sert d’acheter moins cher ?\nBien sûr, à faire des économies sur tous les produits dont on a besoin : pour se nourrir, s’habiller, s’équiper. Vivre, en fait…\nMais vivre, c’est aussi se détendre, se cultiver, réaliser ses passions, s’épanouir avec ceux qu’on aime. Vivre bien, en somme.\nEt acheter moins cher, ça aide aussi à faire tout ça.\nParce que chacun doit avoir accès à tout ce dont il a besoin pour vivre bien, Superprix s’engage à ce que les prix soient toujours plus bas sur l’ensemble de ses produits, et dans tous ses magasins.\n\nFinalement, consommer, ça sert aussi à construire sa vie.",
+    "question": "L’objectif de ce document est de",
+    "options": [
+      "défendre les consommateurs.",
+      "décrire une nouvelle mode.",
+      "lancer une gamme de produits.",
+      "attirer une nouvelle clientèle."
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": ""
+    "explanation": "Le document met l'accent sur l'engagement de Superprix à offrir des prix bas pour aider les gens à \"construire leur vie\" et vivre mieux, ce qui vise à attirer une nouvelle clientèle intéressée par des prix abordables."
   },
   {
     "question_no": 15,
-    "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
-    "question": "(2)",
-    "options": ["pratiques", "courbées", "réalisables", "ouvertes"],
-    "right_option": "D",
+    "group": 7,
+    "passage": "Vivre mieux, ça se construit chaque jour.\nAu fond, à quoi ça sert d’acheter moins cher ?\nBien sûr, à faire des économies sur tous les produits dont on a besoin : pour se nourrir, s’habiller, s’équiper. Vivre, en fait…\nMais vivre, c’est aussi se détendre, se cultiver, réaliser ses passions, s’épanouir avec ceux qu’on aime. Vivre bien, en somme.\nEt acheter moins cher, ça aide aussi à faire tout ça.\nParce que chacun doit avoir accès à tout ce dont il a besoin pour vivre bien, Superprix s’engage à ce que les prix soient toujours plus bas sur l’ensemble de ses produits, et dans tous ses magasins.\n\nFinalement, consommer, ça sert aussi à construire sa vie.",
+    "question": "Ce document cible principalement",
+    "options": [
+      "les sportifs de haut niveau.",
+      "les consommateurs aisés.",
+      "les personnes aux revenus modestes.",
+      "les clients fidèles."
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "- Tempête est le terme approprié pour décrire une forte perturbation climatique avec de la neige et des vents violents. - Ouvertes convient ici pour indiquer que les routes ne sont pas encore fermées malgré les conditions difficiles."
+    "explanation": "Le texte met l'accent sur la possibilité de \"vivre mieux\" en achetant des produits à prix bas, ce qui cible clairement les personnes aux revenus modestes, cherchant à faire des économies."
   },
   {
     "question_no": 16,
-    "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
-    "question": "(1)",
-    "options": ["remboursés", "ramassés", "regroupés", "collectés"],
-    "right_option": "D",
+    "group": 7,
+    "passage": "Vivre mieux, ça se construit chaque jour.\nAu fond, à quoi ça sert d’acheter moins cher ?\nBien sûr, à faire des économies sur tous les produits dont on a besoin : pour se nourrir, s’habiller, s’équiper. Vivre, en fait…\nMais vivre, c’est aussi se détendre, se cultiver, réaliser ses passions, s’épanouir avec ceux qu’on aime. Vivre bien, en somme.\nEt acheter moins cher, ça aide aussi à faire tout ça.\nParce que chacun doit avoir accès à tout ce dont il a besoin pour vivre bien, Superprix s’engage à ce que les prix soient toujours plus bas sur l’ensemble de ses produits, et dans tous ses magasins.\n\nFinalement, consommer, ça sert aussi à construire sa vie.",
+    "question": "L’argument principal donne de l’importance",
+    "options": [
+      "au confort.",
+      "aux loisirs.",
+      "à l'épargne.",
+      "au travail."
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": ""
+    "explanation": "L'argument principal du document repose sur l'idée que les économies réalisées en achetant moins cher permettent de mieux vivre, d’avoir plus de temps pour se détendre, se cultiver, et se réaliser. L'épargne, par les économies réalisées, est donc l'élément clé ici."
   },
   {
     "question_no": 17,
-    "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
-    "question": "(2)",
-    "options": ["initiative", "origine", "alliance", "utilité"],
-    "right_option": "D",
+    "group": 8,
+    "passage": "Comment voyager ?\nVoyager en train ou en avion à des prix raisonnables\n\nLe train\nPour voyager moins cher, prévoyez autant que possible vos voyages à l’avance. Discutez aussi avec les agents préposés à la vente des billets. Si vous passez par une agence de voyages, il est probable que vous aurez des frais en plus. Renseignez-vous. Pour ceux qui voyagent très régulièrement, des cartes d’abonnement à des prix variables permettent d’obtenir 50% de réduction sur le prix des trajets.\n\nL’avion\nToutes les compagnies nationales proposent des réductions significatives si on achète son billet 15 jours ou 8 jours avant le départ. N’hésitez pas à réserver très longtemps à l’avance, ces places sont contingentées. Elles sont également non modifiables.",
+    "question": "Ce document donne des informations sur",
+    "options": [
+      "tous les moyens de transport en France.",
+      "les points de vente des titres de transport.",
+      "les meilleurs tarifs pour voyager.",
+      "plusieurs systèmes d'abonnement."
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "- Collectés est le terme le plus approprié, car il fait référence à des fonds recueillis pour une cause. - Utilité publique est une expression courante qui désigne une organisation reconnue d’intérêt général, ce qui correspond bien à SOS SAHEL."
+    "explanation": "Le texte se concentre sur les conseils pour voyager à des prix réduits, que ce soit en train ou en avion. Il parle de la planification des voyages à l'avance et des réductions disponibles, ce qui concerne directement les meilleurs tarifs pour voyager."
   },
   {
     "question_no": 18,
-    "group": 11,
-    "passage": "Film 1\nJohn a quitté les services secrets et vit maintenant en Jamaïque. Mais sa tranquillité se termine quand un ami lui demande de l’aide : il faut sauver un scientifique qui vient d’être kidnappé. L’épreuve commence dans la jungle…\n\nFilm 2\nPaul et Virginie viennent d’avoir un petit garçon. Heureux à l’idée de découvrir leur nouvelle vie de jeunes parents, ils n’imaginaient pas du tout que leur bébé allait devenir le centre d’une forte lutte entre les grands-parents…\n\nFilm 3\nHatidze est une des dernières personnes à récolter le miel de manière traditionnelle, dans les montagnes désertiques de Macédoine. Elle prélève uniquement le miel nécessaire pour gagner modestement sa vie et essayer de préserver la biodiversité.\n\nFilm 4\nLéa, Marc, Karine et Francis sont deux couples d’amis de longue date. Mais l’harmonie disparaît le jour où Léa leur annonce qu’elle a écrit un roman, qui deviendra un best-seller. La jalousie commence à apparaître avec ses conséquences!",
-    "question": "Quel film propose de l’aventure ?",
-    "options": ["Film 1", "Film 2", "Film 3", "Film 4"],
-    "right_option": "A",
+    "group": 8,
+    "passage": "Comment voyager ?\nVoyager en train ou en avion à des prix raisonnables\n\nLe train\nPour voyager moins cher, prévoyez autant que possible vos voyages à l’avance. Discutez aussi avec les agents préposés à la vente des billets. Si vous passez par une agence de voyages, il est probable que vous aurez des frais en plus. Renseignez-vous. Pour ceux qui voyagent très régulièrement, des cartes d’abonnement à des prix variables permettent d’obtenir 50% de réduction sur le prix des trajets.\n\nL’avion\nToutes les compagnies nationales proposent des réductions significatives si on achète son billet 15 jours ou 8 jours avant le départ. N’hésitez pas à réserver très longtemps à l’avance, ces places sont contingentées. Elles sont également non modifiables.",
+    "question": "Grâce à ce document, les voyageurs",
+    "options": [
+      "sauront modifier leur titre de transport.",
+      "feront des économies sur leur transport.",
+      "achèteront davantage de billets dans les agences.",
+      "seront mis en garde contre les abus des sociétés de transport."
+    ],
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le Film 1 décrit une histoire avec du suspense, de l'action et de l'aventure, où le protagoniste se lance dans une mission pour sauver un scientifique, le tout dans un cadre exotique (la jungle). C'est donc le film qui propose le plus d'aventure."
+    "explanation": "Le document donne des conseils pour économiser sur les transports en train et en avion, comme acheter des billets à l'avance et profiter des réductions, ce qui permet aux voyageurs de faire des économies sur leur transport."
   },
   {
     "question_no": 19,
-    "group": 12,
-    "passage": "Activité 1\nLe GR 20 est réservé aux randonneurs confirmés. 200 km entre Calenzana et Conca. À voir en cours de route, outre les paysages de rêve : alpages, bergeries, mouflons, chèvres, cabris… Les excellents marcheurs peuvent le faire en 12 à 13 jours, mais prévoir 16 jours est plus raisonnable.\n\nActivité 2\nLa via ferrata, ce sont des itinéraires rocheux sécurisés par un câble et des marches métalliques. La première a été aménagée dans la vallée d’Asco. Longue de 350 m et réservée aux sportifs, on peut la faire seul ou avec un guide. Une bonne formule pour s’initier aux frissons de l’escalade.\n\nActivité 3\nBalisés en orange, les sentiers “Mare a Mare” permettent de traverser la Corse d’est en ouest, de “mer à mer”. Ce sont des itinéraires courts, de moyenne montagne, offrant un panorama sur les plus célèbres sommets de l’île. Les parcours sont tous très beaux, traversant des régions variées.\n\nActivité 4\nLa Corse compte près de 100 sites où le canyoning peut être pratiqué. Il s’agit de descendre un cours d’eau encaissé dans un canyon, à pied, à la nage, par des sauts en rappel, en glissant sur des “toboggans”. Un équipement spécial est nécessaire.",
-    "question": "Quelle activité semble la moins difficile physiquement ?",
-    "options": ["Activité 1", "Activité 2", "Activité 3", "Activité 4"],
+    "group": 8,
+    "passage": "Comment voyager ?\nVoyager en train ou en avion à des prix raisonnables\n\nLe train\nPour voyager moins cher, prévoyez autant que possible vos voyages à l’avance. Discutez aussi avec les agents préposés à la vente des billets. Si vous passez par une agence de voyages, il est probable que vous aurez des frais en plus. Renseignez-vous. Pour ceux qui voyagent très régulièrement, des cartes d’abonnement à des prix variables permettent d’obtenir 50% de réduction sur le prix des trajets.\n\nL’avion\nToutes les compagnies nationales proposent des réductions significatives si on achète son billet 15 jours ou 8 jours avant le départ. N’hésitez pas à réserver très longtemps à l’avance, ces places sont contingentées. Elles sont également non modifiables.",
+    "question": "Les titres de transport doivent être achetés",
+    "options": [
+      "au moment du départ pour obtenir une meilleure garantie.",
+      "en agence pour obtenir de meilleurs horaires.",
+      "à l'avance pour obtenir des réductions.",
+      "dans les gares ou les aéroports pour obtenir des rabais importants."
+    ],
     "right_option": "C",
     "image_path": null,
-    "explanation": "L'Activité 3, les sentiers \"Mare a Mare\", sont décrits comme des itinéraires courts de moyenne montagne, offrant un panorama, mais sans mentionner de difficulté majeure. Les autres activités (GR 20, via ferrata, canyoning) impliquent des défis physiques plus importants, comme des randonnées longues et difficiles, de l'escalade ou des descentes en rappel."
+    "explanation": "Le texte souligne l'importance d'acheter les billets à l'avance, que ce soit pour le train ou l'avion, afin de bénéficier de réductions sur les tarifs."
   },
   {
     "question_no": 20,
-    "group": 13,
-    "passage": "Séjour 1\nTroglodyte, rien que le terme est déjà un voyage. Habiter une maison creusée dans la roche est devenu un mode de vie insolite et minimaliste. Ainsi, plusieurs grottes de pêcheurs nichées dans les falaises ont été transformées en chambres d’hôtes. Un lieu idéal pour une introspection face à l’océan, bercé par le bruit des vagues et hypnotisé par le coucher du soleil.\n\nSéjour 2\nConfiné dans une bulle, vous devenez l’incarnation de l’expression “être dans sa bulle”. Expérience idéale pour les loups solitaires qui souhaitent se retirer du monde pour vivre en forêt, protégés par une bulle en plastique recyclé. En harmonie avec la nature, l’être humain se laisse envoûter par la faune et la flore qui l’entourent. Attention toutefois à ne pas déranger l’ours qui hiberne…\n\nSéjour 3\nLes chasseurs d’hôtels insolites vont se réjouir de cette nouvelle façon de vivre. Plongé dans le quotidien des Bourbons, le château de Fontainebleau ouvre grand ses portes. Les amoureux des forteresses seront les bienvenus pour y découvrir des façons de vivre ancestrales, des coutumes traditionnelles et des costumes d’époque. Un séjour dans ce lieu singulier saura vous satisfaire.\n\nSéjour 4\nAu revoir les vacances à la mer, les coups de soleil et le sable qui s’infiltre partout ! Et bonjour les températures extrêmes! Amateurs de sport d’hiver et aventuriers qui n’ont pas froid aux yeux, cette destination unique est faite pour vous ! Dormir dans un igloo est devenu LA tendance écologique du moment: seul ou en couple, vous pouvez être sûrs de respirer un bon bol d’air frais!",
-    "question": "Quelle offre de séjour correspond le mieux aux passionnés d’Histoire ?",
-    "options": ["Séjour 1", "Séjour 2", "Séjour 3", "Séjour 4"],
-    "right_option": "C",
+    "group": 9,
+    "passage": "Source de protéines bon marché pour des millions de personnes, les requins ont été de plus en plus exploités au cours des dernières décennies.\n\nAu niveau mondial, les captures sont passées de 272 000 tonnes en 1950 à un record de 760 000 tonnes en 1996, selon la F.A.O. (Organisation des Nations Unies pour l’alimentation et l’agriculture). Conséquence : les stocks de requins sont en forte baisse. Sur la centaine d’espèces capturées, une vingtaine est en péril. Il n’existe à ce jour aucun traité international ni aucun programme pour protéger les requins.\n\nAussi la F.A.O. vient-elle de proposer un plan d’action visant à maintenir chaque espèce. Les principaux pays qui pratiquent la pêche au requin sont l’Indonésie, l’Inde, les Etats-Unis, le Pakistan, le Mexique et Taiwan.*",
+    "question": "Les requins",
+    "options": [
+      "sont consommés par des millions de personnes.",
+      "se vendent mal depuis une dizaine d'années.",
+      "sont recherchés pour leur viande peu coûteuse.",
+      "sont en voie de disparition depuis plusieurs décennies."
+    ],
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le Séjour 3 dans le château de Fontainebleau est clairement destiné aux passionnés d'Histoire. Il permet de découvrir des coutumes traditionnelles, des costumes d'époque et l'histoire des Bourbons, ce qui correspond parfaitement aux intérêts des passionnés d'Histoire."
+    "explanation": "Le texte explique que les requins sont une source de protéines bon marché pour des millions de personnes, et qu'ils sont exploités pour leur viande."
   },
   {
     "question_no": 21,
-    "group": 14,
-    "passage": "Appel 1\nL’émission de radio Vacarme RTS prépare un sujet sur le syndrome d’aliénation parentale. Vous êtes parent à l’origine d’aliénation parentale, ou vous-même en êtes victime ? Vous avez un adolescent ou un enfant qui en souffre et qui est en capacité de raconter son ressenti au long du conflit parental ? Vos témoignages (anonymat garanti) seraient très précieux.\nPrenez contact avec nous!\n\nAppel 2\nLe secteur de la puériculture connaît des difficultés importantes de recrutement, qui se posent avec acuité à chaque rentrée : fermeture d’établissements d’accueil, réduction de la capacité d’accueil. Racontez-nous les conséquences de ces difficultés sur votre foyer ! Avez-vous dû revoir votre organisation ? Renoncer au mode de garde que vous vouliez privilégier ? Faire appel à la solidarité familiale ?\n\nAppel 3\nEnfant de médecin, vous l’êtes devenu à votre tour. Médecin, vous avez un enfant qui l’est aussi aujourd’hui. Quel regard portez-vous sur le métier ? Avec des difficultés multiples (déserts médicaux, manque de moyens, etc.), le secteur en devient moins attractif pour les nouvelles générations. Votre témoignage nous intéresse pour un prochain article sur ce sujet.\n\nAppel 4\nBabilou, Les Petits Chaperons Rouges… Les poids lourds du secteur très lucratif des crèches privées ne sont plus à présenter ; mais comment la nouvelle logique de rentabilité induite par l’ouverture au marché affecte-t-elle votre quotidien ? Que vos enfants soient accueillis en crèche privée, ou que vous évoluiez dans ce secteur, Mediacités vous donne la parole dans sa nouvelle enquête participative.",
-    "question": "À quel appel répondra un professionnel de la petite enfance souhaitant parler de sa pratique ?",
-    "options": ["Appel 1", "Appel 2", "Appel 3", "Appel 4"],
-    "right_option": "D",
+    "group": 9,
+    "passage": "Source de protéines bon marché pour des millions de personnes, les requins ont été de plus en plus exploités au cours des dernières décennies.\n\nAu niveau mondial, les captures sont passées de 272 000 tonnes en 1950 à un record de 760 000 tonnes en 1996, selon la F.A.O. (Organisation des Nations Unies pour l’alimentation et l’agriculture). Conséquence : les stocks de requins sont en forte baisse. Sur la centaine d’espèces capturées, une vingtaine est en péril. Il n’existe à ce jour aucun traité international ni aucun programme pour protéger les requins.\n\nAussi la F.A.O. vient-elle de proposer un plan d’action visant à maintenir chaque espèce. Les principaux pays qui pratiquent la pêche au requin sont l’Indonésie, l’Inde, les Etats-Unis, le Pakistan, le Mexique et Taiwan.*",
+    "question": "Les stocks de requins",
+    "options": [
+      "diminuent depuis 1950.",
+      "sont passés de 272 000 tonnes à 760 000 tonnes.",
+      "ont connu une pointe en 1996.",
+      "se sont maintenus jusqu'à présent."
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "L’Appel 4 s’adresse aux personnes concernées par le secteur des crèches privées, que ce soit en tant que parent ou en tant que professionnel évoluant dans ce secteur. Un professionnel de la petite enfance souhaitant parler de sa pratique dans ce contexte répondra donc à cet appel."
+    "explanation": "Le texte indique que les stocks de requins ont atteint un record de 760 000 tonnes en 1996, ce qui montre une augmentation des captures avant la baisse des stocks."
   },
   {
     "question_no": 22,
-    "group": 15,
-    "passage": "<< Selon une étude publiée récemment, on enregistre à partir de 2022 un recul du transport fluvial. Celui-ci est très faible mais constant, malgré la croissance des dernières années. >>",
-    "question": "Quel graphique correspond au commentaire suivant ?",
-    "options": ["Graphique 1", "Graphique 2", "Graphique 3", "Graphique 4"],
+    "group": 9,
+    "passage": "Source de protéines bon marché pour des millions de personnes, les requins ont été de plus en plus exploités au cours des dernières décennies.\n\nAu niveau mondial, les captures sont passées de 272 000 tonnes en 1950 à un record de 760 000 tonnes en 1996, selon la F.A.O. (Organisation des Nations Unies pour l’alimentation et l’agriculture). Conséquence : les stocks de requins sont en forte baisse. Sur la centaine d’espèces capturées, une vingtaine est en péril. Il n’existe à ce jour aucun traité international ni aucun programme pour protéger les requins.\n\nAussi la F.A.O. vient-elle de proposer un plan d’action visant à maintenir chaque espèce. Les principaux pays qui pratiquent la pêche au requin sont l’Indonésie, l’Inde, les Etats-Unis, le Pakistan, le Mexique et Taiwan.*",
+    "question": "La pêche au requin",
+    "options": [
+      "menace de disparition une vingtaine d'espèces de requins.",
+      "est en train d'éliminer toutes les espèces de requins.",
+      "concerne une centaine d'espèces de requins.",
+      "doit se limiter à une vingtaine d'espèces de requins."
+    ],
     "right_option": "A",
-    "image_path": "assets/ce-111-1-min.png",
-    "explanation": "Le graphique 1 montre une croissance régulière du transport fluvial de 2018 à 2021, puis un léger recul constant à partir de 2022. Cela correspond bien au commentaire indiquant un recul faible mais continu après des années de croissance."
+    "image_path": null,
+    "explanation": "Le texte précise que sur la centaine d'espèces capturées, une vingtaine est en péril, ce qui signifie que la pêche au requin menace principalement ces espèces."
   },
   {
     "question_no": 23,
-    "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Ce document est :",
+    "group": 9,
+    "passage": "Source de protéines bon marché pour des millions de personnes, les requins ont été de plus en plus exploités au cours des dernières décennies.\n\nAu niveau mondial, les captures sont passées de 272 000 tonnes en 1950 à un record de 760 000 tonnes en 1996, selon la F.A.O. (Organisation des Nations Unies pour l’alimentation et l’agriculture). Conséquence : les stocks de requins sont en forte baisse. Sur la centaine d’espèces capturées, une vingtaine est en péril. Il n’existe à ce jour aucun traité international ni aucun programme pour protéger les requins.\n\nAussi la F.A.O. vient-elle de proposer un plan d’action visant à maintenir chaque espèce. Les principaux pays qui pratiquent la pêche au requin sont l’Indonésie, l’Inde, les Etats-Unis, le Pakistan, le Mexique et Taiwan.*",
+    "question": "La F.A.O.",
     "options": [
-      "une invitation à un débat d'idées.",
-      "une publicité pour une école.",
-      "une présentation d'établissement.",
-      "un compte rendu de réunion."
+      "s'occupe de l'alimentation des requins.",
+      "a interdit à six pays de pratiquer la pêche aux requins.",
+      "a signé un accord sur la pêche au requin.",
+      "veut protéger les requins en voie de disparition."
     ],
-    "right_option": "C",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte présente les Beaux-Arts de Paris, leur mission, leur organisation, et leur ambition. Il s'agit donc d'une présentation d'établissement, et non d'une publicité ou d'un débat."
+    "explanation": "La F.A.O. a proposé un plan d'action visant à maintenir chaque espèce de requins, dans l'objectif de les protéger, ce qui implique qu'ils souhaitent protéger les requins en voie de disparition."
   },
   {
     "question_no": 24,
-    "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Dans ce document, il est question de :",
+    "group": 10,
+    "passage": "Pour la diététicienne Marie Fossier, responsable du Centre de recherches et d’informations nutritionnelles (Cerin), une mauvaise alimentation se ressent tant dans la santé des gens que dans leur équilibre psychique.\n\nLes foyers les moins favorisés consomment très peu de poisson, peu de fruits et de légumes. Avec quels risques ?\n\nParlons du poisson, d’abord: d’une manière générale, nos concitoyens en consomment peu. Or, il est facile à cuisiner, pas cher si l’on prend les limandes, les soles, le cabillaud, la sardine, le maquereau… Les graisses apportées par le poisson favorisent la prévention des maladies cardiovasculaires. Mais l’idée reçue selon laquelle le poisson est bon pour la mémoire est un leurre, la mémoire se maintient si on la travaille !\n\nLes fruits et légumes sont indispensables. L’idéal serait d’en consommer deux à trois types par jour, crus ou cuits. Crus, leur apport en vitamine C et en fibres est plus riche. Le problème est que les familles défavorisées mangent souvent un plat unique, vite préparé, donc surtout à base de féculents. Et les enfants habitués au rythme pâtes-riz, peu habitués aux légumes, n’en ont souvent plus tard ni le goût ni l’envie.\n\nToutes les couches sociales restent attachées à la consommation de viande. À juste titre ?\n\nCela relève d’un attachement culturel. La viande, rouge surtout, garde pour nos concitoyens une valeur symbolique liée à la croissance, la robustesse… La viande blanche est tout aussi intéressante en réalité ! Si on ne mange pas de viande, on rencontre inévitablement des problèmes pour couvrir ses besoins en protéines et en fer.\n\nLes repas jouent-ils un rôle important pour les liens familiaux ?\n\nAbsolument. On oublie malheureusement que les repas sont des repères. Ils structurent une famille, créent un lien social. De plus en plus d’employés stressés se contentent d’un sandwich qu’ils mangent seuls, au lieu de se poser à plusieurs, de se parler quelques instants. De plus en plus d’adolescents perdent l’habitude de la table familiale, grignotent et grossissent effectivement, et surtout risquent de ne pas savoir, parents à leur tour, réinventer ces moments de table indispensables.",
+    "question": "D’après Marie Fossier, une mauvaise alimentation affecte",
     "options": [
-      "un lieu de rencontre d'artistes.",
-      "d'un lieu de formation.",
-      "d'une salle d'exposition.",
-      "d'un musée prestigieux."
+      "plus la santé mentale que la santé physique.",
+      "la santé mentale ainsi que la santé physique.",
+      "plus la santé physique que la santé mentale.",
+      "de plus en plus la santé mentale et physique."
     ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte décrit principalement les Beaux-Arts de Paris comme un lieu d'enseignement des arts plastiques, où les étudiants suivent leur formation pour devenir des artistes. Il est donc question d'un lieu de formation."
+    "explanation": "Marie Fossier affirme que la mauvaise alimentation affecte à la fois la santé physique et mentale des individus, soulignant l'importance d'une alimentation équilibrée pour un bien-être global."
   },
   {
     "question_no": 25,
-    "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Ce document annonce :",
+    "group": 10,
+    "passage": "Pour la diététicienne Marie Fossier, responsable du Centre de recherches et d’informations nutritionnelles (Cerin), une mauvaise alimentation se ressent tant dans la santé des gens que dans leur équilibre psychique.\n\nLes foyers les moins favorisés consomment très peu de poisson, peu de fruits et de légumes. Avec quels risques ?\n\nParlons du poisson, d’abord: d’une manière générale, nos concitoyens en consomment peu. Or, il est facile à cuisiner, pas cher si l’on prend les limandes, les soles, le cabillaud, la sardine, le maquereau… Les graisses apportées par le poisson favorisent la prévention des maladies cardiovasculaires. Mais l’idée reçue selon laquelle le poisson est bon pour la mémoire est un leurre, la mémoire se maintient si on la travaille !\n\nLes fruits et légumes sont indispensables. L’idéal serait d’en consommer deux à trois types par jour, crus ou cuits. Crus, leur apport en vitamine C et en fibres est plus riche. Le problème est que les familles défavorisées mangent souvent un plat unique, vite préparé, donc surtout à base de féculents. Et les enfants habitués au rythme pâtes-riz, peu habitués aux légumes, n’en ont souvent plus tard ni le goût ni l’envie.\n\nToutes les couches sociales restent attachées à la consommation de viande. À juste titre ?\n\nCela relève d’un attachement culturel. La viande, rouge surtout, garde pour nos concitoyens une valeur symbolique liée à la croissance, la robustesse… La viande blanche est tout aussi intéressante en réalité ! Si on ne mange pas de viande, on rencontre inévitablement des problèmes pour couvrir ses besoins en protéines et en fer.\n\nLes repas jouent-ils un rôle important pour les liens familiaux ?\n\nAbsolument. On oublie malheureusement que les repas sont des repères. Ils structurent une famille, créent un lien social. De plus en plus d’employés stressés se contentent d’un sandwich qu’ils mangent seuls, au lieu de se poser à plusieurs, de se parler quelques instants. De plus en plus d’adolescents perdent l’habitude de la table familiale, grignotent et grossissent effectivement, et surtout risquent de ne pas savoir, parents à leur tour, réinventer ces moments de table indispensables.",
+    "question": "D’après ce texte, la consommation de fruits et légumes",
     "options": [
-      "l'ouverture de bureaux annexes.",
-      "une restructuration de l'entreprise.",
-      "la revalorisation du taux des prestations.",
-      "une hausse salariale selon l'ancienneté."
+      "est en hausse dans les familles défavorisées.",
+      "n'est en général pas assez diversifiée.",
+      "est plus forte chez les enfants que chez les adultes.",
+      "est plus élevée quand ceux-ci sont consommés crus."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte parle d'une augmentation des honoraires d'expertises et des forfaits liés aux déplacements extramuros, ce qui concerne directement la revalorisation des prestations fournies par l'entreprise."
+    "explanation": "Le texte indique que les familles défavorisées consomment peu de fruits et légumes et mangent souvent un plat unique, principalement à base de féculents. Les fruits et légumes sont peu diversifiés dans leur alimentation."
   },
   {
     "question_no": 26,
-    "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Cette décision :",
+    "group": 10,
+    "passage": "Pour la diététicienne Marie Fossier, responsable du Centre de recherches et d’informations nutritionnelles (Cerin), une mauvaise alimentation se ressent tant dans la santé des gens que dans leur équilibre psychique.\n\nLes foyers les moins favorisés consomment très peu de poisson, peu de fruits et de légumes. Avec quels risques ?\n\nParlons du poisson, d’abord: d’une manière générale, nos concitoyens en consomment peu. Or, il est facile à cuisiner, pas cher si l’on prend les limandes, les soles, le cabillaud, la sardine, le maquereau… Les graisses apportées par le poisson favorisent la prévention des maladies cardiovasculaires. Mais l’idée reçue selon laquelle le poisson est bon pour la mémoire est un leurre, la mémoire se maintient si on la travaille !\n\nLes fruits et légumes sont indispensables. L’idéal serait d’en consommer deux à trois types par jour, crus ou cuits. Crus, leur apport en vitamine C et en fibres est plus riche. Le problème est que les familles défavorisées mangent souvent un plat unique, vite préparé, donc surtout à base de féculents. Et les enfants habitués au rythme pâtes-riz, peu habitués aux légumes, n’en ont souvent plus tard ni le goût ni l’envie.\n\nToutes les couches sociales restent attachées à la consommation de viande. À juste titre ?\n\nCela relève d’un attachement culturel. La viande, rouge surtout, garde pour nos concitoyens une valeur symbolique liée à la croissance, la robustesse… La viande blanche est tout aussi intéressante en réalité ! Si on ne mange pas de viande, on rencontre inévitablement des problèmes pour couvrir ses besoins en protéines et en fer.\n\nLes repas jouent-ils un rôle important pour les liens familiaux ?\n\nAbsolument. On oublie malheureusement que les repas sont des repères. Ils structurent une famille, créent un lien social. De plus en plus d’employés stressés se contentent d’un sandwich qu’ils mangent seuls, au lieu de se poser à plusieurs, de se parler quelques instants. De plus en plus d’adolescents perdent l’habitude de la table familiale, grignotent et grossissent effectivement, et surtout risquent de ne pas savoir, parents à leur tour, réinventer ces moments de table indispensables.",
+    "question": "Marie Fossier affirme que",
     "options": [
-      "s'inscrit dans la redistribution des bénéfices.",
-      "fait suite à une revendication du personnel.",
-      "répond à une cohérence salariale de l'entreprise.",
-      "souscrit à la nouvelle législation en vigueur."
+      "toutes les viandes sont bonnes pour la santé.",
+      "pour une bonne croissance, il faut surtout consommer de la viande rouge.",
+      "les protéines et le fer sont contenus essentiellement dans la viande blanche.",
+      "les habitudes culturelles n'influencent pas la consommation de viande."
     ],
     "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte évoque une augmentation progressive et régulière de la rémunération des agents, mais il ne mentionne pas spécifiquement une revendication du personnel ni une nouvelle législation. La décision semble plutôt s'inscrire dans une logique interne de l'entreprise, probablement pour répondre à une cohérence salariale, en garantissant des augmentations de manière organisée."
+    "explanation": "Marie Fossier explique que la viande, surtout rouge, est souvent vue comme nécessaire pour la croissance en raison de valeurs culturelles, mais que la viande blanche est tout aussi bénéfique. Elle ne dit pas que les habitudes culturelles n'influencent pas, donc l'option \"D\" est incorrecte."
   },
   {
     "question_no": 27,
-    "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "Cette entreprise propose :",
+    "group": 10,
+    "passage": "Pour la diététicienne Marie Fossier, responsable du Centre de recherches et d’informations nutritionnelles (Cerin), une mauvaise alimentation se ressent tant dans la santé des gens que dans leur équilibre psychique.\n\nLes foyers les moins favorisés consomment très peu de poisson, peu de fruits et de légumes. Avec quels risques ?\n\nParlons du poisson, d’abord: d’une manière générale, nos concitoyens en consomment peu. Or, il est facile à cuisiner, pas cher si l’on prend les limandes, les soles, le cabillaud, la sardine, le maquereau… Les graisses apportées par le poisson favorisent la prévention des maladies cardiovasculaires. Mais l’idée reçue selon laquelle le poisson est bon pour la mémoire est un leurre, la mémoire se maintient si on la travaille !\n\nLes fruits et légumes sont indispensables. L’idéal serait d’en consommer deux à trois types par jour, crus ou cuits. Crus, leur apport en vitamine C et en fibres est plus riche. Le problème est que les familles défavorisées mangent souvent un plat unique, vite préparé, donc surtout à base de féculents. Et les enfants habitués au rythme pâtes-riz, peu habitués aux légumes, n’en ont souvent plus tard ni le goût ni l’envie.\n\nToutes les couches sociales restent attachées à la consommation de viande. À juste titre ?\n\nCela relève d’un attachement culturel. La viande, rouge surtout, garde pour nos concitoyens une valeur symbolique liée à la croissance, la robustesse… La viande blanche est tout aussi intéressante en réalité ! Si on ne mange pas de viande, on rencontre inévitablement des problèmes pour couvrir ses besoins en protéines et en fer.\n\nLes repas jouent-ils un rôle important pour les liens familiaux ?\n\nAbsolument. On oublie malheureusement que les repas sont des repères. Ils structurent une famille, créent un lien social. De plus en plus d’employés stressés se contentent d’un sandwich qu’ils mangent seuls, au lieu de se poser à plusieurs, de se parler quelques instants. De plus en plus d’adolescents perdent l’habitude de la table familiale, grignotent et grossissent effectivement, et surtout risquent de ne pas savoir, parents à leur tour, réinventer ces moments de table indispensables.",
+    "question": "Dans sa dernière réponse, Marie Fossier indique que",
     "options": [
-      "de participer au développement durable de Madagascar.",
-      "de contribuer à l'industrialisation des fermes à Madagascar.",
-      "d'agir pour le repeuplement de zébus sur l'île.",
-      "de vivre une expérience unique auprès d'agriculteurs malgaches."
+      "les repas pris en famille sont souvent une source de conflits.",
+      "les employés stressés sont contents de manger vite et seuls.",
+      "les adolescents perdent l'habitude du lien social créé à table autour du repas.",
+      "les adolescents qui grignotent sauront rendre indispensables les moments passés à table."
     ],
-    "right_option": "A",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte met en avant un modèle de financement durable et solidaire pour aider les paysans de Madagascar tout en respectant l'agriculture biologique et l'élevage traditionnel. Cela correspond à l'idée de participer au développement durable de Madagascar."
+    "explanation": "Marie Fossier explique que les repas familiaux jouent un rôle crucial pour le lien social, et qu’avec l'augmentation du stress, de plus en plus d'adolescents et d'adultes perdent cette habitude, grignotent et ne participent plus aux repas familiaux, ce qui diminue la possibilité de créer des liens sociaux."
   },
   {
     "question_no": 28,
-    "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "L’investisseur pourra :",
+    "group": 11,
+    "passage": "Il suffit généralement d’un fait divers pour que resurgisse le serpent de mer. Le spectacle de la violence à la télévision influence-t-il le comportement des enfants, renforce-t-il leur agressivité? Pas une semaine sans qu’un article, un sondage ou un colloque ne vienne rallumer les passions. Chacun y va de son sentiment. Cachez ces meurtres que l’on ne saurait voir. Ou au contraire, montrez, à bas la censure: un meurtre exhibé est un meurtre économisé.\n\nDepuis quelques années, pourtant, la méfiance envers la violence semble l’emporter. Dans les sondages, l’inquiétude monte. Fait nouveau, les politiques se sont emparés du dossier. À commencer, comme d’habitude, par les États-Unis, où les crimes des mineurs sont monnaie courante. Au Canada, la pression des très puissantes associations familiales en faveur de la << puce >> (qui permet de filtrer les programmes) va croissant. Avec un peu de retard, l’Europe suit. Le meurtre à Liverpool d’un bébé par deux gamins en février 1993 (qui avaient, paraît-il, visionné une vidéo très violente) a relancé la question. Deux chaînes suédoises ont décidé d’arrêter la diffusion de séries particulièrement violentes.\n\nLes recherches ont beau se multiplier depuis plus de 50 ans, on n’avance guère. On a tout de même établi une distinction entre violence << fictive mais réaliste », qui accroît les réactions violentes des jeunes téléspectateurs, et les spectacles de violence non réaliste (dessins animés ou science-fiction) pour lesquels aucune relation n'est établie. Mais il convient de relativiser ces résultats, en fonction du sexe des enfants, de leur milieu social... La télévision a envahi notre vie, elle transmet, à côté de la famille et de l'école, des valeurs culturelles, des modèles.... Comment ne pas y réfléchir ?",
+    "question": "L’article porte le titre “Violence à l’écran, histoire d’un serpent de mer” parce que",
     "options": [
-      "remplacer l'agriculteur sur certaines tâches à la ferme.",
-      "posséder une parcelle de terre agraire à Madagascar.",
-      "créer un lien unique avec le fermier et l'animal.",
-      "acquérir un savoir-faire dans le domaine agricole."
+      "les monstres marins symbolisent la violence.",
+      "l'agressivité des enfants ressemble à celle d'un serpent de mer.",
+      "la violence est un sujet qui soulève régulièrement les passions du public.",
+      "les films de science-fiction sont souvent violents."
     ],
     "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte mentionne spécifiquement que l'investisseur est en relation avec l'utilisateur des fonds placés, et il est encouragé à rendre visite au Zébu et au fermier, suggérant ainsi qu'il pourra créer un lien unique avec le fermier et l'animal, plutôt que de prendre part directement aux tâches agricoles."
+    "explanation": "Le titre \"histoire d'un serpent de mer\" fait référence à un sujet récurrent qui ressurgit périodiquement dans le débat public, tout comme un serpent de mer qui réapparaît sans cesse. Ici, cela représente le débat sur la violence à la télévision qui suscite constamment des passions."
   },
   {
     "question_no": 29,
-    "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "L’objectif principal du texte est :",
+    "group": 11,
+    "passage": "Il suffit généralement d’un fait divers pour que resurgisse le serpent de mer. Le spectacle de la violence à la télévision influence-t-il le comportement des enfants, renforce-t-il leur agressivité? Pas une semaine sans qu’un article, un sondage ou un colloque ne vienne rallumer les passions. Chacun y va de son sentiment. Cachez ces meurtres que l’on ne saurait voir. Ou au contraire, montrez, à bas la censure: un meurtre exhibé est un meurtre économisé.\n\nDepuis quelques années, pourtant, la méfiance envers la violence semble l’emporter. Dans les sondages, l’inquiétude monte. Fait nouveau, les politiques se sont emparés du dossier. À commencer, comme d’habitude, par les États-Unis, où les crimes des mineurs sont monnaie courante. Au Canada, la pression des très puissantes associations familiales en faveur de la << puce >> (qui permet de filtrer les programmes) va croissant. Avec un peu de retard, l’Europe suit. Le meurtre à Liverpool d’un bébé par deux gamins en février 1993 (qui avaient, paraît-il, visionné une vidéo très violente) a relancé la question. Deux chaînes suédoises ont décidé d’arrêter la diffusion de séries particulièrement violentes.\n\nLes recherches ont beau se multiplier depuis plus de 50 ans, on n’avance guère. On a tout de même établi une distinction entre violence << fictive mais réaliste », qui accroît les réactions violentes des jeunes téléspectateurs, et les spectacles de violence non réaliste (dessins animés ou science-fiction) pour lesquels aucune relation n'est établie. Mais il convient de relativiser ces résultats, en fonction du sexe des enfants, de leur milieu social... La télévision a envahi notre vie, elle transmet, à côté de la famille et de l'école, des valeurs culturelles, des modèles.... Comment ne pas y réfléchir ?",
+    "question": "À propos de l’influence de la télévision sur les enfants,",
     "options": [
-      "de présenter les responsabilités pénales du consommateur.",
-      "de préciser les coûts des différents types de contestations.",
-      "de proposer aux professionnels des moyens pour éviter les litiges.",
-      "de présenter le processus de conciliation en cas de contentieux."
+      "les passions sont fortes et le débat est confus.",
+      "les partisans d'une sélection des émissions sont minoritaires.",
+      "les opposants à la censure de la violence sont majoritaires.",
+      "il y a autant de partisans de la censure que d'opposants."
     ],
-    "right_option": "D",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte se concentre sur la médiation entre consommateurs et professionnels, et comment celle-ci peut être utilisée pour résoudre des litiges de manière amiable. Il explique le rôle du médiateur, les démarches à suivre et les conditions de la médiation. L'objectif est donc de présenter le processus de conciliation en cas de contentieux."
+    "explanation": "L'article mentionne que \"les passions montent\", que le débat est souvent ravivé par des sondages ou des colloques, ce qui montre une discussion vive et une certaine confusion."
   },
   {
     "question_no": 30,
-    "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "Il appartient au professionnel de :",
+    "group": 11,
+    "passage": "Il suffit généralement d’un fait divers pour que resurgisse le serpent de mer. Le spectacle de la violence à la télévision influence-t-il le comportement des enfants, renforce-t-il leur agressivité? Pas une semaine sans qu’un article, un sondage ou un colloque ne vienne rallumer les passions. Chacun y va de son sentiment. Cachez ces meurtres que l’on ne saurait voir. Ou au contraire, montrez, à bas la censure: un meurtre exhibé est un meurtre économisé.\n\nDepuis quelques années, pourtant, la méfiance envers la violence semble l’emporter. Dans les sondages, l’inquiétude monte. Fait nouveau, les politiques se sont emparés du dossier. À commencer, comme d’habitude, par les États-Unis, où les crimes des mineurs sont monnaie courante. Au Canada, la pression des très puissantes associations familiales en faveur de la << puce >> (qui permet de filtrer les programmes) va croissant. Avec un peu de retard, l’Europe suit. Le meurtre à Liverpool d’un bébé par deux gamins en février 1993 (qui avaient, paraît-il, visionné une vidéo très violente) a relancé la question. Deux chaînes suédoises ont décidé d’arrêter la diffusion de séries particulièrement violentes.\n\nLes recherches ont beau se multiplier depuis plus de 50 ans, on n’avance guère. On a tout de même établi une distinction entre violence << fictive mais réaliste », qui accroît les réactions violentes des jeunes téléspectateurs, et les spectacles de violence non réaliste (dessins animés ou science-fiction) pour lesquels aucune relation n'est établie. Mais il convient de relativiser ces résultats, en fonction du sexe des enfants, de leur milieu social... La télévision a envahi notre vie, elle transmet, à côté de la famille et de l'école, des valeurs culturelles, des modèles.... Comment ne pas y réfléchir ?",
+    "question": "Concernant la violence à la télévision,",
     "options": [
-      "appeler l'organisme de médiation approprié.",
-      "assumer la charge financière liée à la médiation.",
-      "appuyer financièrement le consommateur.",
-      "initier la démarche de médiation avant le consommateur."
-    ],
-    "right_option": "B",
-    "image_path": null,
-    "explanation": "Le texte précise que le professionnel doit assumer la charge financière liée à la médiation, puisque les coûts de la médiation sont supportés par lui, tandis que la médiation elle-même est gratuite pour le consommateur."
-  },
-  {
-    "question_no": 31,
-    "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Par ce communiqué, l’entreprise s’attache à :",
-    "options": [
-      "montrer son engagement face au changement climatique.",
-      "encourager les initiatives en faveur des populations à risque.",
-      "informer de potentielles organisations partenaires.",
-      "trouver des investisseurs pour son nouveau fonds."
-    ],
-    "right_option": "A",
-    "image_path": null,
-    "explanation": "Le texte présente un fonds spécifiquement destiné à aider les populations vulnérables face aux catastrophes climatiques, et souligne les objectifs de prévention et de reconstruction. Cela démontre un engagement concret de l'entreprise face aux enjeux du changement climatique."
-  },
-  {
-    "question_no": 32,
-    "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Ce fonds servira à :",
-    "options": [
-      "renforcer la résistance des populations fragiles.",
-      "optimiser les projets environnementaux existants.",
-      "stimuler la croissance économique locale.",
-      "encourager l'innovation technologique."
-    ],
-    "right_option": "A",
-    "image_path": null,
-    "explanation": "Le texte met en avant que le fonds a pour objectif de renforcer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, ce qui correspond à l'idée de renforcer la résistance des populations fragiles."
-  },
-  {
-    "question_no": 33,
-    "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "D’après l’article, les abeilles :",
-    "options": [
-      "représentent un défi écologique pour les villes.",
-      "apprécient la biodiversité des villes.",
-      "se dirigent davantage vers les milieux urbains.",
-      "produisent moins de miel dans les zones agricoles."
-    ],
-    "right_option": "B",
-    "image_path": null,
-    "explanation": "L'article met en évidence que les abeilles bénéficient de la diversité des espèces végétales présentes dans les villes, ce qui leur permet de butiner plus longtemps en raison des températures légèrement plus élevées. Cependant, l'augmentation rapide du nombre de ruches entraîne une diminution de la production de miel, car les ressources florales deviennent limitées. Ainsi, les abeilles apprécient la biodiversité des villes qui leur offre une grande variété de sources alimentaires."
-  },
-  {
-    "question_no": 34,
-    "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "La mise en place des ruches en ville :",
-    "options": [
-      "présente des avantages limités dans le temps.",
-      "est inefficace pour protéger l'écosystème.",
-      "a un effet dévastateur sur les campagnes.",
-      "permet à de nouvelles espèces végétales de prospérer."
-    ],
-    "right_option": "A",
-    "image_path": null,
-    "explanation": "L'article souligne que bien que les villes offrent des avantages initiaux pour les abeilles, comme une meilleure biodiversité et des températures plus élevées, ces avantages diminuent au fil du temps. Cela est dû à l'augmentation du nombre de ruches, qui entraîne une saturation des ressources florales disponibles. Ainsi, l'impact positif des villes sur la production de miel diminue au fil des années, ce qui rend les avantages limités dans le temps."
-  },
-  {
-    "question_no": 35,
-    "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "L’auteur de cet article s’inquiète :",
-    "options": [
-      "de l'avenir du ministère en charge de l'environnement.",
-      "de la perte d'identité des populations du désert.",
-      "des pollutions créées par les chasseurs de météorites.",
-      "de la récupération du patrimoine par des groupes privés."
+      "les Suédois ont été les premiers à prendre des mesures.",
+      "les Canadiens s'opposent au filtrage des émissions.",
+      "les Anglais ont commencé à prendre des mesures après le meurtre d'un bébé.",
+      "les Américains sont sensibilisés en raison de la criminalité chez les jeunes."
     ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "L'article met en lumière le risque que les spécimens de météorites marocaines, non protégées par des lois, se retrouvent dans des collections privées au lieu d'être conservés et préservés dans une structure dédiée, comme un musée national. L'auteur s'inquiète de cette récupération par des acteurs privés, comme la Meteorical Society, qui organise même des congrès pour attirer l'attention sur ce patrimoine."
+    "explanation": "L'article indique que les États-Unis, en raison des crimes impliquant des mineurs, ont été parmi les premiers à se saisir du problème de la violence à la télévision."
+  },
+  {
+    "question_no": 31,
+    "group": 11,
+    "passage": "Il suffit généralement d’un fait divers pour que resurgisse le serpent de mer. Le spectacle de la violence à la télévision influence-t-il le comportement des enfants, renforce-t-il leur agressivité? Pas une semaine sans qu’un article, un sondage ou un colloque ne vienne rallumer les passions. Chacun y va de son sentiment. Cachez ces meurtres que l’on ne saurait voir. Ou au contraire, montrez, à bas la censure: un meurtre exhibé est un meurtre économisé.\n\nDepuis quelques années, pourtant, la méfiance envers la violence semble l’emporter. Dans les sondages, l’inquiétude monte. Fait nouveau, les politiques se sont emparés du dossier. À commencer, comme d’habitude, par les États-Unis, où les crimes des mineurs sont monnaie courante. Au Canada, la pression des très puissantes associations familiales en faveur de la << puce >> (qui permet de filtrer les programmes) va croissant. Avec un peu de retard, l’Europe suit. Le meurtre à Liverpool d’un bébé par deux gamins en février 1993 (qui avaient, paraît-il, visionné une vidéo très violente) a relancé la question. Deux chaînes suédoises ont décidé d’arrêter la diffusion de séries particulièrement violentes.\n\nLes recherches ont beau se multiplier depuis plus de 50 ans, on n’avance guère. On a tout de même établi une distinction entre violence << fictive mais réaliste », qui accroît les réactions violentes des jeunes téléspectateurs, et les spectacles de violence non réaliste (dessins animés ou science-fiction) pour lesquels aucune relation n'est établie. Mais il convient de relativiser ces résultats, en fonction du sexe des enfants, de leur milieu social... La télévision a envahi notre vie, elle transmet, à côté de la famille et de l'école, des valeurs culturelles, des modèles.... Comment ne pas y réfléchir ?",
+    "question": "Les recherches sur ce sujet",
+    "options": [
+      "viennent d'être engagées et ne donnent pas beaucoup de résultats.",
+      "ont commencé il y a longtemps et ont donné des résultats très intéressants.",
+      "avancent lentement et les résultats sont difficiles à exploiter.",
+      "ont donné des résultats qui permettent de sélectionner les émissions."
+    ],
+    "right_option": "C",
+    "image_path": null,
+    "explanation": "Selon l'article, les recherches ont été menées depuis plus de 50 ans, mais les résultats restent difficiles à exploiter et n'ont pas permis de conclusions définitives."
+  },
+  {
+    "question_no": 32,
+    "group": 12,
+    "passage": "Trois questions à Olivier Salingue\n\nJournaliste – Directeur dans un centre de recherches, vous suivez de près l’évolution des mœurs. Que vous inspire la montée de la consommation de produits de beauté parmi les hommes ?\n\nO. Salingue – Nous sommes entrés dans une ère plus féminine de la société. Jouer au macho est devenu ridicule. Hier, il fallait être dominant. Aujourd’hui, il faut être rayonnant et respirer la vitalité, en donnant l’impression que votre bonne santé vient de l’intérieur. Il ne s’agit pas d’un repli sur soi, mais d’une redécouverte de soi-même, ouverte sur autrui.\n\nJ. Pourtant, les consommateurs assument difficilement cette nouvelle tendance.\n\nO. S. Effectivement, pour vendre des produits de beauté aux hommes, il faut user d’alibis multiples. Le principal est celui de la santé, qui cadre avec parfaitement le phénomène actuel de surinvestissement par rapport au corps. En fait, les industriels marchent sur des œufs car il leur faut éviter d’enfermer les consommateurs dans un ghetto tout en s’efforçant de plaire à des cibles bien spécifiques, dont les milieux homosexuels, notamment.",
+    "question": "Le sujet principal de cette interview est",
+    "options": [
+      "l'évolution des habitudes chez les hommes.",
+      "l'engouement pour les produits cosmétiques.",
+      "la féminisation de la société.",
+      "l'importance de la vie intérieure."
+    ],
+    "right_option": "A",
+    "image_path": null,
+    "explanation": "L'interview porte principalement sur l'évolution des comportements et des habitudes des hommes concernant la consommation de produits de beauté, en particulier comment cela s'inscrit dans un changement de société vers une approche plus féminine et orientée vers la santé et la vitalité."
+  },
+  {
+    "question_no": 33,
+    "group": 12,
+    "passage": "Trois questions à Olivier Salingue\n\nJournaliste – Directeur dans un centre de recherches, vous suivez de près l’évolution des mœurs. Que vous inspire la montée de la consommation de produits de beauté parmi les hommes ?\n\nO. Salingue – Nous sommes entrés dans une ère plus féminine de la société. Jouer au macho est devenu ridicule. Hier, il fallait être dominant. Aujourd’hui, il faut être rayonnant et respirer la vitalité, en donnant l’impression que votre bonne santé vient de l’intérieur. Il ne s’agit pas d’un repli sur soi, mais d’une redécouverte de soi-même, ouverte sur autrui.\n\nJ. Pourtant, les consommateurs assument difficilement cette nouvelle tendance.\n\nO. S. Effectivement, pour vendre des produits de beauté aux hommes, il faut user d’alibis multiples. Le principal est celui de la santé, qui cadre avec parfaitement le phénomène actuel de surinvestissement par rapport au corps. En fait, les industriels marchent sur des œufs car il leur faut éviter d’enfermer les consommateurs dans un ghetto tout en s’efforçant de plaire à des cibles bien spécifiques, dont les milieux homosexuels, notamment.",
+    "question": "D’après Olivier Salingue, les hommes d’aujourd’hui se doivent d’être",
+    "options": [
+      "machos",
+      "dominants",
+      "en forme",
+      "drôles"
+    ],
+    "right_option": "C",
+    "image_path": null,
+    "explanation": "Olivier Salingue explique que l'accent est mis sur la vitalité et la bonne santé, qui sont désormais des valeurs primordiales, et non plus sur la domination ou l'agressivité. Les hommes doivent être \"rayonnants\" et \"respirer la vitalité\", ce qui implique un souci de forme physique."
+  },
+  {
+    "question_no": 34,
+    "group": 12,
+    "passage": "Trois questions à Olivier Salingue\n\nJournaliste – Directeur dans un centre de recherches, vous suivez de près l’évolution des mœurs. Que vous inspire la montée de la consommation de produits de beauté parmi les hommes ?\n\nO. Salingue – Nous sommes entrés dans une ère plus féminine de la société. Jouer au macho est devenu ridicule. Hier, il fallait être dominant. Aujourd’hui, il faut être rayonnant et respirer la vitalité, en donnant l’impression que votre bonne santé vient de l’intérieur. Il ne s’agit pas d’un repli sur soi, mais d’une redécouverte de soi-même, ouverte sur autrui.\n\nJ. Pourtant, les consommateurs assument difficilement cette nouvelle tendance.\n\nO. S. Effectivement, pour vendre des produits de beauté aux hommes, il faut user d’alibis multiples. Le principal est celui de la santé, qui cadre avec parfaitement le phénomène actuel de surinvestissement par rapport au corps. En fait, les industriels marchent sur des œufs car il leur faut éviter d’enfermer les consommateurs dans un ghetto tout en s’efforçant de plaire à des cibles bien spécifiques, dont les milieux homosexuels, notamment.",
+    "question": "Les industriels des produits de beauté pour homme",
+    "options": [
+      "ciblent surtout les milieux homosexuels.",
+      "prennent la beauté physique pour alibi.",
+      "veulent toucher tous les types de public.",
+      "trouvent la majorité de leurs clients dans des ghettos."
+    ],
+    "right_option": "C",
+    "image_path": null,
+    "explanation": "Olivier Salingue explique que les industriels doivent éviter de limiter leur marché à un groupe restreint, comme les milieux homosexuels, tout en cherchant à toucher une audience plus large. Ils ne veulent pas enfermer les consommateurs dans un \"ghetto\", mais veulent plutôt élargir leur cible."
+  },
+  {
+    "question_no": 35,
+    "group": 12,
+    "passage": "Trois questions à Olivier Salingue\n\nJournaliste – Directeur dans un centre de recherches, vous suivez de près l’évolution des mœurs. Que vous inspire la montée de la consommation de produits de beauté parmi les hommes ?\n\nO. Salingue – Nous sommes entrés dans une ère plus féminine de la société. Jouer au macho est devenu ridicule. Hier, il fallait être dominant. Aujourd’hui, il faut être rayonnant et respirer la vitalité, en donnant l’impression que votre bonne santé vient de l’intérieur. Il ne s’agit pas d’un repli sur soi, mais d’une redécouverte de soi-même, ouverte sur autrui.\n\nJ. Pourtant, les consommateurs assument difficilement cette nouvelle tendance.\n\nO. S. Effectivement, pour vendre des produits de beauté aux hommes, il faut user d’alibis multiples. Le principal est celui de la santé, qui cadre avec parfaitement le phénomène actuel de surinvestissement par rapport au corps. En fait, les industriels marchent sur des œufs car il leur faut éviter d’enfermer les consommateurs dans un ghetto tout en s’efforçant de plaire à des cibles bien spécifiques, dont les milieux homosexuels, notamment.",
+    "question": "<< Les industriels marchent sur des œufs >> signifie",
+    "options": [
+      "qu'ils sont fortunés.",
+      "qu'ils sont prudents.",
+      "qu'ils sont confiants.",
+      "qu'ils sont pessimistes."
+    ],
+    "right_option": "B",
+    "image_path": null,
+    "explanation": "L'expression \"marcher sur des œufs\" signifie qu'ils doivent être prudents et agir avec précaution, car la manière de vendre des produits de beauté aux hommes implique de ne pas imposer de stéréotypes tout en étant suffisamment attractif pour différents groupes de consommateurs."
   },
   {
     "question_no": 36,
-    "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "D’après ce texte, la présence de météorites a généré :",
+    "group": 13,
+    "passage": "LES BERGERS CONTRE LE LOUP\n\nDans un grand cirque entouré de sommets escarpés, des moutons paissent en apparence paisiblement. Mais il ne faut pas s’y tromper. À 2 000 mètres d’altitude, l’alpage dans le massif de Belledonne (Isère) n’est pas aussi paradisiaque qu’il en a l’air. Jean-Pierre Jouffrey, un berger venu avec son troupeau de 2 300 bêtes, vit depuis le début de l’été un véritable enfer. Ses moutons sont attaqués presque quotidiennement, des attaques que les bergers et les paysans attribuent au loup.\n\nHier, trois membres de la Commission Parlementaire d’information sur le loup sont venus sur place constater la détresse de M. Jouffrey. Lorsqu’ils sont arrivés en hélicoptère, Jean-Pierre Jouffrey, dont le troupeau avait été une nouvelle fois attaqué deux jours avant, les a lui-même accueillis. « Cette brebis est blessée depuis quinze jours, dit-il, je vais être obligé de l’achever. Voilà ce qu’est devenu mon métier de berger, faire en sorte que mes bêtes ne souffrent plus après le passage du loup. »\n\nEt devant les députés horrifiés, M. Jouffrey achève l’animal avec son couteau. Le berger ne peut maîtriser sa colère. « Depuis l’âge de quatorze ans, je pouponne mes bêtes et voilà que le loup les massacre ! »\n\nSamedi, sa femme Anita et ses trois enfants sont venus en renfort pour l’aider à surveiller le troupeau, mais M. Jouffrey est à bout physiquement et nerveusement. « Je n’en peux plus de surveiller le troupeau nuit et jour. Le berger que j’avais embauché pour m’aider a craqué. »\n\nLa mort dans l’âme, Jean-Pierre Jouffrey envisage d’ailleurs de ne pas revenir sur l’alpage l’été prochain.",
+    "question": "Quel est le problème majeur rencontré par Jean-Pierre Jouffrey depuis le début de l’été ?",
     "options": [
-      "une nouvelle activité pour les populations du désert.",
-      "une mobilisation sans précédent des universitaires.",
-      "une exposition à destination du grand public.",
-      "un trafic important avec les pays voisins."
+      "Toute la saison, les animaux ont souffert de la chaleur.",
+      "Les récoltes ont été détruites par les animaux sauvages.",
+      "Son troupeau est attaqué presque quotidiennement par le loup.",
+      "Les paysans se plaignent de la sécheresse."
     ],
-    "right_option": "A",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte explique que de nombreux nomades du désert ont fait de la chasse aux météorites leur métier, créant ainsi une nouvelle activité pour les populations locales. Cette activité est rendue possible grâce à la vente de météorites, un commerce qui s'est développé autour de ces fragments célestes."
+    "explanation": "La r&eacute;ponse correcte est C. Le texte indique que Jean-Pierre Jouffrey et d'autres bergers subissent des attaques fr&eacute;quentes du loup depuis le d&eacute;but de l'&eacute;t&eacute; : <em data-start=\"374\" data-end=\"429\">&laquo; Ses moutons sont attaqu&eacute;s presque quotidiennement &raquo;</em>. Cela montre que le principal probl&egrave;me rencontr&eacute; par le berger est la pr&eacute;dation du loup sur son troupeau. Les autres options ne correspondent pas aux faits d&eacute;crits dans le texte."
   },
   {
     "question_no": 37,
-    "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, l’être humain :",
+    "group": 13,
+    "passage": "LES BERGERS CONTRE LE LOUP\n\nDans un grand cirque entouré de sommets escarpés, des moutons paissent en apparence paisiblement. Mais il ne faut pas s’y tromper. À 2 000 mètres d’altitude, l’alpage dans le massif de Belledonne (Isère) n’est pas aussi paradisiaque qu’il en a l’air. Jean-Pierre Jouffrey, un berger venu avec son troupeau de 2 300 bêtes, vit depuis le début de l’été un véritable enfer. Ses moutons sont attaqués presque quotidiennement, des attaques que les bergers et les paysans attribuent au loup.\n\nHier, trois membres de la Commission Parlementaire d’information sur le loup sont venus sur place constater la détresse de M. Jouffrey. Lorsqu’ils sont arrivés en hélicoptère, Jean-Pierre Jouffrey, dont le troupeau avait été une nouvelle fois attaqué deux jours avant, les a lui-même accueillis. « Cette brebis est blessée depuis quinze jours, dit-il, je vais être obligé de l’achever. Voilà ce qu’est devenu mon métier de berger, faire en sorte que mes bêtes ne souffrent plus après le passage du loup. »\n\nEt devant les députés horrifiés, M. Jouffrey achève l’animal avec son couteau. Le berger ne peut maîtriser sa colère. « Depuis l’âge de quatorze ans, je pouponne mes bêtes et voilà que le loup les massacre ! »\n\nSamedi, sa femme Anita et ses trois enfants sont venus en renfort pour l’aider à surveiller le troupeau, mais M. Jouffrey est à bout physiquement et nerveusement. « Je n’en peux plus de surveiller le troupeau nuit et jour. Le berger que j’avais embauché pour m’aider a craqué. »\n\nLa mort dans l’âme, Jean-Pierre Jouffrey envisage d’ailleurs de ne pas revenir sur l’alpage l’été prochain.",
+    "question": "Comment Jean-Pierre Jouffrey a-t-il accueilli les trois membres de la Commission Parlementaire d’information sur le loup ?",
     "options": [
-      "doit trouver son harmonie spirituelle.",
-      "se complait dans son anxiété.",
-      "s'épanouit dans ses relations humaines.",
-      "doit intérioriser ses tourments."
+      "Il s'est adressé, des sanglots dans la voix, aux trois élus.",
+      "Ceux-ci ont lu une lettre officielle à haute voix.",
+      "Les députés sont arrivés en voiture avec une heure de retard.",
+      "Il leur a parlé des dernières destructions agricoles."
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte évoque l'idée que vivre, c'est être fondamentalement intranquille. Cependant, l'être humain doit trouver un équilibre en agissant avec empathie et vigilance, et en luttant contre ses représentations anxieuses. Ce processus implique de trouver une forme d'harmonie dans la gestion de son intranquillité. Ce n'est donc pas l'intériorisation passive ou le repli sur soi qui est encouragé, mais plutôt une quête active d'équilibre et de sérénité."
+    "explanation": "La bonne réponse est D. Le texte mentionne que Jean-Pierre Jouffrey a accueilli les députés et leur a parlé de la situation de son troupeau, spécifiquement des attaques récurrentes du loup. Aucune mention n'est faite des sanglots ou d'une lettre officielle, ce qui écarte les autres options."
   },
   {
     "question_no": 38,
-    "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, la technologie :",
+    "group": 13,
+    "passage": "LES BERGERS CONTRE LE LOUP\n\nDans un grand cirque entouré de sommets escarpés, des moutons paissent en apparence paisiblement. Mais il ne faut pas s’y tromper. À 2 000 mètres d’altitude, l’alpage dans le massif de Belledonne (Isère) n’est pas aussi paradisiaque qu’il en a l’air. Jean-Pierre Jouffrey, un berger venu avec son troupeau de 2 300 bêtes, vit depuis le début de l’été un véritable enfer. Ses moutons sont attaqués presque quotidiennement, des attaques que les bergers et les paysans attribuent au loup.\n\nHier, trois membres de la Commission Parlementaire d’information sur le loup sont venus sur place constater la détresse de M. Jouffrey. Lorsqu’ils sont arrivés en hélicoptère, Jean-Pierre Jouffrey, dont le troupeau avait été une nouvelle fois attaqué deux jours avant, les a lui-même accueillis. « Cette brebis est blessée depuis quinze jours, dit-il, je vais être obligé de l’achever. Voilà ce qu’est devenu mon métier de berger, faire en sorte que mes bêtes ne souffrent plus après le passage du loup. »\n\nEt devant les députés horrifiés, M. Jouffrey achève l’animal avec son couteau. Le berger ne peut maîtriser sa colère. « Depuis l’âge de quatorze ans, je pouponne mes bêtes et voilà que le loup les massacre ! »\n\nSamedi, sa femme Anita et ses trois enfants sont venus en renfort pour l’aider à surveiller le troupeau, mais M. Jouffrey est à bout physiquement et nerveusement. « Je n’en peux plus de surveiller le troupeau nuit et jour. Le berger que j’avais embauché pour m’aider a craqué. »\n\nLa mort dans l’âme, Jean-Pierre Jouffrey envisage d’ailleurs de ne pas revenir sur l’alpage l’été prochain.",
+    "question": "Que fait Jean-Pierre Jouffrey lorsqu’il achève une de ses brebis blessées devant les députés ?",
     "options": [
-      "favorise la paix intérieure.",
-      "représente un moyen de méditation.",
-      "incarne une extension de l'Homme.",
-      "symbolise un retour à la réalité."
+      "Le berger le vendra au village.",
+      "Il ne souhaite pas abréger son agonie.",
+      "Ils en ont l'habitude.",
+      "Pas question de prolonger ses souffrances."
     ],
-    "right_option": "C",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte mentionne que les \"arpenteurs de déserts\" restent connectés à l'actualité via Internet, ce qui indique que la technologie, loin d'être un facteur de paix intérieure, fait plutôt partie d'un projet de vie autonome où les individus utilisent des outils technologiques pour rester informés, même dans des lieux isolés. Cela suggère que la technologie est perçue comme une extension de l'Homme, permettant une connexion au monde extérieur, même en dehors des sociétés traditionnelles."
+    "explanation": "La bonne réponse est D. Jean-Pierre Jouffrey explique qu'il doit achever l'animal pour éviter qu'il ne souffre davantage après l'attaque du loup. Cela montre son souci de la souffrance de ses bêtes, ce qui correspond à la réponse D. Les autres options ne correspondent pas au contexte du texte."
   },
   {
     "question_no": 39,
-    "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "Pour endiguer la crise écologique, il faut que :",
+    "group": 13,
+    "passage": "LES BERGERS CONTRE LE LOUP\n\nDans un grand cirque entouré de sommets escarpés, des moutons paissent en apparence paisiblement. Mais il ne faut pas s’y tromper. À 2 000 mètres d’altitude, l’alpage dans le massif de Belledonne (Isère) n’est pas aussi paradisiaque qu’il en a l’air. Jean-Pierre Jouffrey, un berger venu avec son troupeau de 2 300 bêtes, vit depuis le début de l’été un véritable enfer. Ses moutons sont attaqués presque quotidiennement, des attaques que les bergers et les paysans attribuent au loup.\n\nHier, trois membres de la Commission Parlementaire d’information sur le loup sont venus sur place constater la détresse de M. Jouffrey. Lorsqu’ils sont arrivés en hélicoptère, Jean-Pierre Jouffrey, dont le troupeau avait été une nouvelle fois attaqué deux jours avant, les a lui-même accueillis. « Cette brebis est blessée depuis quinze jours, dit-il, je vais être obligé de l’achever. Voilà ce qu’est devenu mon métier de berger, faire en sorte que mes bêtes ne souffrent plus après le passage du loup. »\n\nEt devant les députés horrifiés, M. Jouffrey achève l’animal avec son couteau. Le berger ne peut maîtriser sa colère. « Depuis l’âge de quatorze ans, je pouponne mes bêtes et voilà que le loup les massacre ! »\n\nSamedi, sa femme Anita et ses trois enfants sont venus en renfort pour l’aider à surveiller le troupeau, mais M. Jouffrey est à bout physiquement et nerveusement. « Je n’en peux plus de surveiller le troupeau nuit et jour. Le berger que j’avais embauché pour m’aider a craqué. »\n\nLa mort dans l’âme, Jean-Pierre Jouffrey envisage d’ailleurs de ne pas revenir sur l’alpage l’été prochain.",
+    "question": "Quelle est la décision de Jean-Pierre Jouffrey concernant l’avenir de son troupeau ?",
     "options": [
-      "la mise en retrait de l'homme est indispensable.",
-      "l'usage des nouvelles technologies est un leurre.",
-      "les pratiques numériques sont à reconsidérer.",
-      "l'intelligence artificielle est porteuse d'espoir."
+      "Les troupeaux resteront à l'alpage tard dans la saison.",
+      "Il envisage de ne pas revenir sur l’alpage l’été prochain.",
+      "Nous partirons tous le plus tôt possible.",
+      "Les bergers abandonneront leurs animaux."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte critique la dépendance excessive aux technologies numériques pour résoudre la crise climatique, en mettant en évidence l'impact environnemental généré par la prolifération des objets connectés et des systèmes autonomes. L’auteur souligne que se concentrer uniquement sur les comportements numériques des humains pourrait être vain, suggérant ainsi qu'une reconsidération des pratiques numériques est nécessaire pour véritablement maîtriser l'impact écologique."
+    "explanation": "La bonne réponse est B. Le texte mentionne que Jean-Pierre Jouffrey envisage de quitter l'alpage plus tôt que prévu, en raison de la souffrance qu'il endure et de la menace persistante des loups. Les autres options ne sont pas mentionnées dans le texte."
   },
   {
     "question_no": 40,
-    "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "L’auteur dénonce :",
+    "group": 13,
+    "passage": "LES BERGERS CONTRE LE LOUP\n\nDans un grand cirque entouré de sommets escarpés, des moutons paissent en apparence paisiblement. Mais il ne faut pas s’y tromper. À 2 000 mètres d’altitude, l’alpage dans le massif de Belledonne (Isère) n’est pas aussi paradisiaque qu’il en a l’air. Jean-Pierre Jouffrey, un berger venu avec son troupeau de 2 300 bêtes, vit depuis le début de l’été un véritable enfer. Ses moutons sont attaqués presque quotidiennement, des attaques que les bergers et les paysans attribuent au loup.\n\nHier, trois membres de la Commission Parlementaire d’information sur le loup sont venus sur place constater la détresse de M. Jouffrey. Lorsqu’ils sont arrivés en hélicoptère, Jean-Pierre Jouffrey, dont le troupeau avait été une nouvelle fois attaqué deux jours avant, les a lui-même accueillis. « Cette brebis est blessée depuis quinze jours, dit-il, je vais être obligé de l’achever. Voilà ce qu’est devenu mon métier de berger, faire en sorte que mes bêtes ne souffrent plus après le passage du loup. »\n\nEt devant les députés horrifiés, M. Jouffrey achève l’animal avec son couteau. Le berger ne peut maîtriser sa colère. « Depuis l’âge de quatorze ans, je pouponne mes bêtes et voilà que le loup les massacre ! »\n\nSamedi, sa femme Anita et ses trois enfants sont venus en renfort pour l’aider à surveiller le troupeau, mais M. Jouffrey est à bout physiquement et nerveusement. « Je n’en peux plus de surveiller le troupeau nuit et jour. Le berger que j’avais embauché pour m’aider a craqué. »\n\nLa mort dans l’âme, Jean-Pierre Jouffrey envisage d’ailleurs de ne pas revenir sur l’alpage l’été prochain.",
+    "question": "Que dit Jean-Pierre Jouffrey à propos de l’aide qu’il a reçue d’un berger qu’il avait embauché ?",
     "options": [
-      "la pollution générée par les intelligences artificielles.",
-      "l'usage immoral fait des intelligences artificielles.",
-      "les contradictions dans les études sur les intelligences artificielles.",
-      "la pensée unique sur les intelligences artificielles."
+      "Il est parti lui aussi.",
+      "Je lui avais déjà dit de ne pas venir.",
+      "Il a pris ma place courageusement.",
+      "Il sera fier de rester."
     ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte critique l’impact environnemental du numérique, en particulier des technologies autonomes comme les véhicules intelligents et les logiciels tournant en continu. Il remet en question l’idée que le numérique soit automatiquement bénéfique pour le climat, et alerte sur la pollution invisible et incontrôlée que pourraient engendrer ces systèmes, y compris l’IA."
+    "explanation": "The text mentions that the shepherd Jouffrey hired to help him cracked under the pressure, implying he left. Thus, the correct answer is A. Il est parti lui aussi."
   }
 ]

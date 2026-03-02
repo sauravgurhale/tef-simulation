@@ -2,526 +2,601 @@
   {
     "question_no": 1,
     "group": 1,
-    "passage": "Pour une ville propre !\n\nLa ville de Bruges ramasse chaque année 18 tonnes de cigarettes jetées au sol.\nUn mégot par terre : 68 euros d’amende !",
-    "question": "Ce document est :",
+    "passage": "Soirée\n\n18h02\nBigfoot Junior\nGrand public\nFILM\n\n19h44\nGrizzly et les lemmings\n6 à 8 ans\nÉMISSION\n\n20h02\nCette année-là\nGrand public\nÉMISSION\n\n21h02\nDe garde 24/7\nGrand public\nDOCUMENTAIRE",
+    "question": "Ce document est…",
     "options": [
-      "un règlement intérieur",
-      "un panneau d'information",
-      "un dépliant touristique",
-      "une offre d'emploi"
+      "un ticket de caisse.",
+      "une petite annonce.",
+      "un programme télé.",
+      "un courrier d'invitation."
     ],
-    "right_option": "B",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Ce document sert à informer et sensibiliser les citoyens sur les conséquences de jeter des mégots par terre. Il ne détaille pas des règles internes, ne fait pas la promotion touristique, et n'offre pas d'emploi. Il s'agit donc d’un panneau d'information."
+    "explanation": "Le texte présente un horaire détaillant plusieurs programmes télévisés avec leurs titres, publics cibles et types de contenu (film, émission, documentaire), ce qui correspond à un programme télé."
   },
   {
     "question_no": 2,
     "group": 2,
-    "passage": "JF 20 ans étudiante en formation « petite enfance », sérieuse avec beaucoup d’expérience, propose garde d’enfants (de 2 à 10 ans) les soirs, les mercredis et les dimanches.\n\nSi vous êtes intéressé(e), contactez-moi :\n232-21-18-14 ou adele@lilo.org",
-    "question": "L’auteure de cette annonce est disponible :",
+    "passage": "Confiture extra\nFruits tropicaux\nIngrédients: banane (20%), mangue (20%), maracudja (10%), sucre, pectine de fruits, acide citrique.\nPréparé en Guadeloupe par Exotic’food.\nÀ conserver au frais après ouverture.",
+    "question": "On peut lire cette information…",
     "options": [
-      "en début de journée",
-      "plusieurs fois par semaine",
-      "une fois par semaine",
-      "seulement le weekend"
+      "sur un livre pour enfants.",
+      "sur une porte de magasin.",
+      "sur un produit alimentaire.",
+      "sur une étiquette de vêtement."
     ],
-    "right_option": "B",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Elle propose ses services les soirs, les mercredis et les dimanches, ce qui représente plusieurs moments répartis sur la semaine. Donc, elle est disponible plusieurs fois par semaine."
+    "explanation": "This information is typically found on a food product label, as it lists ingredients, storage instructions, and origin, which are all standard details for food products like jam."
   },
   {
     "question_no": 3,
     "group": 3,
-    "passage": "L’Asie du Sud au cinéma !\n\nLe festival « Cinéasia » présente en Belgique des films de toute l’Asie du Sud.\n\nL’Inde et ses voisins seront parmi nous et une journée sera dédiée au Pakistan.\n\nL’an dernier, vous avez adoré notre nuit « Frissons ». Cette année, vous allez rire avec notre nuit « Comédies » ! Venez nombreux !",
-    "question": "Le programme du festival :",
+    "passage": "De: c.squillacci@esa-tech.com\nÀ: Moi, 6 autres\n\nÀ toute l’équipe marketing,\n\nJe vous informe que, malgré le contexte économique actuel, la Direction maintient les objectifs de notre service. À ce jour, aucune suppression de poste n’est donc envisagée. Encore merci pour votre implication quotidienne! Ensemble, nous réussirons à passer cette période difficile.\n\nBien à vous,\nCélia Squillacci\nResponsable Marketing",
+    "question": "L’auteur de ce courriel…",
     "options": [
-      "est le même que l'an dernier",
-      "reste encore à définir",
-      "est renouvelé chaque année",
-      "est destiné aux plus jeunes"
+      "critique une décision.",
+      "propose une réunion.",
+      "rassure ses collègues.",
+      "annonce des changements."
     ],
     "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte compare le programme de cette année avec celui de l’année précédente (de « Frissons » à « Comédies »), ce qui montre que le contenu change d'une édition à l'autre. Le programme est donc renouvelé chaque année."
+    "explanation": "The author reassures colleagues by confirming that no layoffs are planned despite the challenging economic situation, aiming to provide comfort and stability during uncertain times."
   },
   {
     "question_no": 4,
     "group": 4,
-    "passage": "Professeur au Conservatoire de Montréal donne des\nCOURS DE CHANT\n\nTechniques italienne et française\nOpéra – Chanson française – Opérette\nSessions d’une semaine à six mois\nProgrès rapides garantis !\nTel. : 514-873-4283",
-    "question": "Ce document propose :",
+    "passage": "Mercredi 3 mars, la mairie de Cotonou a organisé une journée de sensibilisation et d’échanges sur les Objectifs du Développement Durable (ODD). Une visite guidée de l’exposition « La recherche au service du développement » a permis au public de comprendre le rôle de la recherche dans l’atteinte des ODD. L’exposition restera visible pendant trois semaines.",
+    "question": "Ce document annonce…",
     "options": [
-      "un enseignement de qualité",
-      "une place à l'Opéra",
-      "un poste en Italie",
-      "une semaine de concerts"
+      "une performance artistique.",
+      "un changement de politique.",
+      "un bilan sur l'environnement.",
+      "une action de communication."
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Il s’agit d’une annonce de cours de chant donnés par un professeur au Conservatoire, avec des techniques précises et une promesse de progrès. Cela met en avant un enseignement de qualité, pas une offre de travail ni des concerts."
+    "explanation": "This document announces a communication action as it details an event organized to raise awareness and engage the public on the Sustainable Development Goals (SDGs), primarily through an exhibition."
   },
   {
     "question_no": 5,
     "group": 5,
-    "passage": "Vous souhaitez agir pour préserver notre climat, pour rendre notre société plus écologique et solidaire ?\n\nAu festival « Agir à Lyon », vous pourrez rencontrer une trentaine d’associations avec qui devenir bénévole. À travers une dizaine de mini-conférences, vous découvrirez des projets inspirants pour vous donner envie de mettre l’écologie au centre de votre mode de vie.\n\nNous vous inviterons, par des démonstrations simples, à découvrir des actions à faire chez soi ou autour de soi : compostage, cuisine anti-gaspillage, etc.",
-    "question": "Le but de l’événement est de :",
+    "passage": "Le Prix Santé Entrepreneurs valorise des actions originales pour la santé et le bien-être dans l’entreprise. Le dernier lauréat est l’entreprise familiale Natur’Aliments, qui réunit une fois par an ses salariés pour décider en commun de projets à mener, par exemple un jardin partagé sur le toit OU la construction d’une cantine autogérée.",
+    "question": "L’entreprise NaturʼAliments…",
     "options": [
-      "découvrir des activités écologiques",
-      "rencontrer des scientifiques",
-      "créer de nouvelles associations",
-      "ramasser les déchets d’un quartier"
+      "a été récompensée pour ses initiatives.",
+      "a financé la reconversion de ses salariés.",
+      "a reçu un label qualité pour ses produits.",
+      "a créé un espace santé pour le personnel."
     ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte insiste sur la découverte de projets écologiques, de gestes simples à faire soi-même, et sur l’envie d’agir pour l’environnement. Il s’agit donc de découvrir des activités écologiques."
+    "explanation": "The company Natur'Aliments was recognized for its original initiatives that promote health and well-being within the company, as indicated by it receiving the Prix Santé Entrepreneurs."
   },
   {
     "question_no": 6,
     "group": 6,
-    "passage": "Madame, Monsieur,\n\nNous vous rappelons que certaines œuvres sont soumises au droit d’auteur. Pour pouvoir les reproduire ou les diffuser sur notre plateforme, nous vous demandons de bien vouloir effectuer une déclaration lors de chaque commande d’impression ou de mise en ligne.\n\nCette déclaration se fait en ligne, est anonyme et ne demandera aucune rétribution de votre part. Vous devrez néanmoins indiquer le numéro de votre commande.\n\nATTENTION ! Sans ces indications, vos demandes ne pourront être traitées.\n\nBien cordialement,\nDirection de la Communication, Université Sorbonne Nouvelle",
-    "question": "Ce mail rappelle :",
+    "passage": "Les yeux rouges\nUne animatrice radio reçoit un message d’un admirateur sur Facebook. Elle ne répond pas, il insiste. C’est l’amorce d’un piège suffocant… Superbe récit sur les méfaits des réseaux sociaux. Myriam Leroy relate les discussions stériles, méchantes et agressives qui foisonnent sur Internet. Elle dénonce la misogynie, la violence, la haine que l’être humain est capable de développer.\nMyriam Leroy est journaliste et écrivain belge. Les yeux rouges est son deuxième roman.",
+    "question": "Dans ce roman, l’auteure décrit…",
     "options": [
-      "l'interdiction de copier les œuvres",
-      "le délai de traitement des commandes",
-      "l'obligation de payer les droits d'auteur",
-      "les règles d'utilisation des œuvres"
+      "une histoire d'amour qui finit mal.",
+      "le travail quotidien d'une journaliste.",
+      "le sexisme dans le monde de la radio.",
+      "une situation de harcèlement numérique."
     ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "Le message explique qu’une déclaration est nécessaire pour reproduire ou diffuser des œuvres protégées par le droit d’auteur. Il ne parle pas d’interdiction, de délai, ni de paiement. Il rappelle donc les règles d’utilisation des œuvres."
+    "explanation": "The novel focuses on the negative impact of social media, particularly highlighting harassment and aggression, which is why the correct answer is about digital harassment."
   },
   {
     "question_no": 7,
     "group": 7,
-    "passage": "Service civique\n\nEn France, vous pouvez effectuer un service civique. Il s’agit d’un engagement volontaire de six à douze mois au service de l’intérêt général. D’une durée hebdomadaire de vingt-quatre heures minimum, il est indemnisé 580 € par mois.\n\nLe service civique est une expérience unique ouverte à tous les jeunes de 16 à 25 ans, et jusqu’à 30 ans en situation de handicap, sans condition de diplôme. Seule votre motivation compte !\n\nVous pouvez réaliser votre mission de service civique auprès d’une association, d’une collectivité territoriale, d’un établissement public, d’un bailleur de logement social ou des services de l’État.",
-    "question": "Le service civique permet aux jeunes :",
+    "passage": "Qui sommes-nous ?\nL’association Bouqu’l propose un service gratuit de récupération de livres d’occasion qui seront valorisés par la revente sur Internet et le don aux bibliothèques associatives.\n\nNous employons des personnes hébergées en centre d’urgence. L’idée est de les aider à rebondir grâce à ce nouveau job et de les accompagner vers une solution de logement autonome.\n\nLes postes proposés sont de deux types :\n• collecte: chauffeur, livreur ;\n• logistique: préparation des commandes.\n\nVotre appui est précieux !",
+    "question": "Cette association…",
     "options": [
-      "de prouver leurs compétences à l'international",
-      "de participer au bon fonctionnement de la société",
-      "de bénéficier d'un emploi pendant 2 ans",
-      "d'obtenir un diplôme à l'issue de leur engagement"
+      "donne une seconde vie aux livres usagés.",
+      "héberge des personnes en situation précaire.",
+      "distribue des livres aux familles à faible revenu.",
+      "forme des chômeurs au métier de bibliothécaire."
     ],
-    "right_option": "B",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte insiste sur l'engagement volontaire au service de l'intérêt général, dans différents types de structures. Cela permet donc de participer au bon fonctionnement de la société, pas d'obtenir un diplôme ou un emploi formel."
+    "explanation": "The association's mission is to recover used books and either resell them or donate them to libraries. This directly aligns with giving a second life to used books."
   },
   {
     "question_no": 8,
     "group": 8,
     "passage": "",
-    "question": "Pour rester en bonne santé, ______ des fruits et des légumes.",
-    "options": ["achetez", "mangez", "vendez", "préparez"],
+    "question": "Vancouver et Toronto sont des ______ du Canada.",
+    "options": [
+      "paie",
+      "villes",
+      "origines",
+      "nationalités"
+    ],
     "right_option": "B",
     "image_path": null,
-    "explanation": "La phrase encourage à adopter une bonne hygiène de vie pour rester en bonne santé. Le verbe \"mangez\" est donc le plus approprié, car il invite à consommer des fruits et des légumes."
+    "explanation": "Vancouver and Toronto are both cities in Canada, so the correct answer is \"villes.\""
   },
   {
     "question_no": 9,
     "group": 8,
     "passage": "",
-    "question": "Venez découvrir l’immensité des espaces blancs et l’accueil _____ de nos habitants !",
-    "options": ["chaleureux", "sensible", "intimiste", "contenu"],
-    "right_option": "A",
+    "question": "Je suis très en retard, je vous demande ______",
+    "options": [
+      "merci",
+      "désolé",
+      "pardon",
+      "excuses"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "L'expression \"l'accueil de nos habitants\" suggère une atmosphère positive et accueillante. L'adjectif \"chaleureux\" est donc le plus adapté, car il évoque un accueil amical et bienveillant."
+    "explanation": "When apologizing for being late in French, the appropriate phrase is \"je vous demande pardon,\" which means \"I ask for your forgiveness.\""
   },
   {
     "question_no": 10,
     "group": 8,
     "passage": "",
-    "question": "En raison des vacances, la boulangerie sera ______ jusqu’à lundi prochain !",
-    "options": ["louée", "habitée", "occupée", "fermée"],
-    "right_option": "D",
+    "question": "Sorti en 1998, Déserts est le premier film ______ par Malcom J. Reilly.",
+    "options": [
+      "édité",
+      "publié",
+      "réalisé",
+      "procédé"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le contexte indique que la boulangerie ne sera pas ouverte en raison des vacances. Le mot \"fermée\" est donc le plus approprié, car il signifie qu'elle sera fermée temporairement."
+    "explanation": "In the context of film, the verb \"réalisé\" is used to mean \"directed.\" A filmmaker has described a film as \" réalisant, \" meaning they directed it."
   },
   {
     "question_no": 11,
     "group": 8,
     "passage": "",
-    "question": "Pendant la réunion, nous avons parlé de _____ du prix de l’essence.",
-    "options": ["l'innovation", "l'augmentation", "l'ajout", "l'élévation"],
-    "right_option": "B",
+    "question": "Bruder, le roman culte de Karlie Schwitz, ressort dans une nouvelle ______ en français.",
+    "options": [
+      "traduction",
+      "translation",
+      "conversion",
+      "interprétation"
+    ],
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le prix de l'essence peut augmenter, ce qui correspond à \"l'augmentation\". Les autres options ne sont pas adaptées au contexte de l'évolution du prix."
+    "explanation": "The correct answer is a. traduction, as \"traduction\" refers to the process of converting a text from one language to another."
   },
   {
     "question_no": 12,
     "group": 8,
     "passage": "",
-    "question": "Salut Justine ! J’ai besoin d’un marteau pour _____ mes peintures, pourrais-tu me prêter le tien ?",
-    "options": ["attacher", "étendre", "retenir", "accrocher"],
+    "question": "A quelle heure serais-tu ______ demain matin ?",
+    "options": [
+      "adapté",
+      "concerné",
+      "accessible",
+      "disponible"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "Le contexte suggère que la personne veut suspendre ou fixer des peintures. Le verbe \"accrocher\" est donc le plus approprié, car il signifie suspendre quelque chose, comme des tableaux ou des peintures."
+    "explanation": "The correct answer is d. disponible. The word \"disponible\" means \"available\" and fits the context of asking when someone will be free for a meeting."
   },
   {
     "question_no": 13,
     "group": 8,
     "passage": "",
-    "question": "Pour continuer à défendre l’environnement, votre _____ nous est indispensable : sachez que les manières d’agir sont multiples !",
-    "options": ["service", "sécurité", "support", "soutien"],
-    "right_option": "D",
+    "question": "Le Salon de l’hôtellerie est une formidable ______ de rencontrer des professionnels d’un secteur qui embauche.",
+    "options": [
+      "alternative",
+      "éventualité",
+      "opportunité",
+      "circonstance"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le mot \"soutien\" est celui qui convient le mieux dans ce contexte, car il évoque l'idée d'encouragement ou de soutien nécessaire pour défendre l'environnement. Le mot est répété, mais il s'agit du bon choix."
+    "explanation": "The correct answer is c. opportunité. \"Opportunité\" means an opportunity, which fits well in the context of a professional event where you can meet people and make connections."
   },
   {
     "question_no": 14,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "Bienvenue!\nEn poursuivant votre (1) _______ sur notre site Web, VOUS acceptez l’utilisation de fichiers témoins (‹‹ cookies »). Le musée d’art contemporain de Montréal, sa fondation et ses partenaires se servent de ceux-ci afin de bonifier votre expérience de visite et de VOUS recommander des services adaptés, (2) _______ nos conditions d’utilisation.",
     "question": "(1)",
-    "options": ["batterie", "bataille", "explosion", "tempête"],
+    "options": [
+      "voyage",
+      "conduite",
+      "direction",
+      "navigation"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": ""
+    "explanation": "The correct answer is d. navigation. In the context of browsing a website, \"navigation\" refers to the act of moving through or exploring the site, which aligns with the sentence describing the use of cookies on the website."
   },
   {
     "question_no": 15,
     "group": 9,
-    "passage": "Conditions climatiques difficiles\n\nUne (1) ________ de neige s’est déclarée samedi sur le nord-est du Québec avec des vents violents. La vie quotidienne de centaines de personnes est toujours perturbée. Pour l’instant, les routes restent (2) ________ mais cette météo a déjà provoqué la fermeture des écoles.",
+    "passage": "Bienvenue!\nEn poursuivant votre (1) _______ sur notre site Web, VOUS acceptez l’utilisation de fichiers témoins (‹‹ cookies »). Le musée d’art contemporain de Montréal, sa fondation et ses partenaires se servent de ceux-ci afin de bonifier votre expérience de visite et de VOUS recommander des services adaptés, (2) _______ nos conditions d’utilisation.",
     "question": "(2)",
-    "options": ["pratiques", "courbées", "réalisables", "ouvertes"],
+    "options": [
+      "suite à",
+      "permis par",
+      "au besoin de",
+      "conformément à"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "- Tempête est le terme approprié pour décrire une forte perturbation climatique avec de la neige et des vents violents. - Ouvertes convient ici pour indiquer que les routes ne sont pas encore fermées malgré les conditions difficiles."
+    "explanation": "The correct answer is d. conformément à. This phrase means \"in accordance with\" or \"as per,\" which fits the context of agreeing to terms and conditions when continuing to use the website."
   },
   {
     "question_no": 16,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "Les politiques en matière de visa reflètent les rapports de force. Les pays qui se regardent en chiens de faïence ont (1) ______ exiger un visa. Avec des résultats parfois paradoxaux. La frontière terrestre est fermée entre l’Algérie et le Maroc mais les (2) ______ des deux pays n’ont pas besoin de visa pour se rendre chez leur voisin…",
     "question": "(1)",
-    "options": ["remboursés", "ramassés", "regroupés", "collectés"],
-    "right_option": "D",
+    "options": [
+      "affaire à",
+      "vocation à",
+      "tendance à",
+      "autorisation à"
+    ],
+    "right_option": "C",
     "image_path": null,
-    "explanation": ""
+    "explanation": "The correct answer is c. tendance à. This phrase means \"tend to\" or \"are inclined to,\" which makes sense in this context, where countries tend to impose visa requirements based on their relations."
   },
   {
     "question_no": 17,
     "group": 10,
-    "passage": "Donnez en confiance\n\nSOS SAHEL est labellisée Don en confiance depuis 1997.\n\nL’essentiel de vos dons, soit 93% des fonds (1) _______, est alloué à des actions concrètes de soutien aux activités des populations du Sahel.\n\nNous sommes reconnus d'(2) _______ publique depuis 1984 et nous soutenons les communautés rurales du Sahel depuis 45 ans.",
+    "passage": "Les politiques en matière de visa reflètent les rapports de force. Les pays qui se regardent en chiens de faïence ont (1) ______ exiger un visa. Avec des résultats parfois paradoxaux. La frontière terrestre est fermée entre l’Algérie et le Maroc mais les (2) ______ des deux pays n’ont pas besoin de visa pour se rendre chez leur voisin…",
     "question": "(2)",
-    "options": ["initiative", "origine", "alliance", "utilité"],
+    "options": [
+      "visiteurs",
+      "détenteurs",
+      "immigrés",
+      "ressortissants"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "- Collectés est le terme le plus approprié, car il fait référence à des fonds recueillis pour une cause. - Utilité publique est une expression courante qui désigne une organisation reconnue d’intérêt général, ce qui correspond bien à SOS SAHEL."
+    "explanation": "The correct answer is d. ressortissants, which refers to nationals or citizens of a country. In this case, the nationals (or citizens) of Algeria and Morocco do not need a visa to travel to each other’s country despite the political tensions."
   },
   {
     "question_no": 18,
     "group": 11,
-    "passage": "Film 1\nJohn a quitté les services secrets et vit maintenant en Jamaïque. Mais sa tranquillité se termine quand un ami lui demande de l’aide : il faut sauver un scientifique qui vient d’être kidnappé. L’épreuve commence dans la jungle…\n\nFilm 2\nPaul et Virginie viennent d’avoir un petit garçon. Heureux à l’idée de découvrir leur nouvelle vie de jeunes parents, ils n’imaginaient pas du tout que leur bébé allait devenir le centre d’une forte lutte entre les grands-parents…\n\nFilm 3\nHatidze est une des dernières personnes à récolter le miel de manière traditionnelle, dans les montagnes désertiques de Macédoine. Elle prélève uniquement le miel nécessaire pour gagner modestement sa vie et essayer de préserver la biodiversité.\n\nFilm 4\nLéa, Marc, Karine et Francis sont deux couples d’amis de longue date. Mais l’harmonie disparaît le jour où Léa leur annonce qu’elle a écrit un roman, qui deviendra un best-seller. La jalousie commence à apparaître avec ses conséquences!",
-    "question": "Quel film propose de l’aventure ?",
-    "options": ["Film 1", "Film 2", "Film 3", "Film 4"],
-    "right_option": "A",
+    "passage": "Reportage 1\nDu 16 septembre au 16 octobre se tient la nouvelle édition de « Nourrir Bruxelles », le festival de la transition alimentaire, écologique et sociale en région bruxelloise. Plus d’une centaine d’activités sont proposées sur un mois !\n\nReportage 2\nLa voiture est encore et toujours notre mode de transport privilégié. Il y en a presque six millions en Belgique, ce qui représente plus d’une voiture pour deux habitants. Pourquoi ne pas la partager ?\n\nReportage 3\nLe 10 octobre dernier, la marche #ClimateBrussels a une fois de plus démontré l’engagement des jeunes. Car ils étaient présents en nombre et parlaient d’une même voix, qu’ils soient francophones ou flamands.\n\nReportage 4\nPollution, recyclage, sobriété énergétique, biodiversité… des sujets au cœur d’une expérimentation à Namur, où l’éducation au développement durable dans toutes les écoles a été mise en pratique.",
+    "question": "Quel reportage parle d’un projet avec des enfants ?",
+    "options": [
+      "Reportage 1",
+      "Reportage 2",
+      "Reportage 3",
+      "Reportage 4"
+    ],
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le Film 1 décrit une histoire avec du suspense, de l'action et de l'aventure, où le protagoniste se lance dans une mission pour sauver un scientifique, le tout dans un cadre exotique (la jungle). C'est donc le film qui propose le plus d'aventure."
+    "explanation": "The correct answer is d. Reportage 4. This report discusses an educational project in Namur related to sustainable development, which involves schools and children, making it the only report that explicitly mentions a project involving children."
   },
   {
     "question_no": 19,
     "group": 12,
-    "passage": "Activité 1\nLe GR 20 est réservé aux randonneurs confirmés. 200 km entre Calenzana et Conca. À voir en cours de route, outre les paysages de rêve : alpages, bergeries, mouflons, chèvres, cabris… Les excellents marcheurs peuvent le faire en 12 à 13 jours, mais prévoir 16 jours est plus raisonnable.\n\nActivité 2\nLa via ferrata, ce sont des itinéraires rocheux sécurisés par un câble et des marches métalliques. La première a été aménagée dans la vallée d’Asco. Longue de 350 m et réservée aux sportifs, on peut la faire seul ou avec un guide. Une bonne formule pour s’initier aux frissons de l’escalade.\n\nActivité 3\nBalisés en orange, les sentiers “Mare a Mare” permettent de traverser la Corse d’est en ouest, de “mer à mer”. Ce sont des itinéraires courts, de moyenne montagne, offrant un panorama sur les plus célèbres sommets de l’île. Les parcours sont tous très beaux, traversant des régions variées.\n\nActivité 4\nLa Corse compte près de 100 sites où le canyoning peut être pratiqué. Il s’agit de descendre un cours d’eau encaissé dans un canyon, à pied, à la nage, par des sauts en rappel, en glissant sur des “toboggans”. Un équipement spécial est nécessaire.",
-    "question": "Quelle activité semble la moins difficile physiquement ?",
-    "options": ["Activité 1", "Activité 2", "Activité 3", "Activité 4"],
+    "passage": "Compte bancaire 1\n• Pour qui: toute personne physique (sans condition d’âge, de nationalité ou de résidence)\n• Frais d’ouverture: 5 €. Pas de versement initial minimum.\n• Retrait d’argent possible à tout moment et sans frais.\n• Rémunération de 1% net garantie par l’État.\n\nCompte bancaire 2\n• Pour qui: toute personne physique ou morale.\n• Versements libres jusqu’à un plafond de 12 000 €.\n• Rémunération : 2% net exonérée d’impôts.\n• Possibilité de verser un ou plusieurs dons à l’une des 17 associations appartenant au domaine de l’économie sociale et solidaire.\n\nCompte bancaire 3\n• Pour qui: toute personne physique dont le revenu est inférieur à une limite fixée par l’État.\n• Aucun frais d’ouverture. Versement initial minimum de 30 €.\n• Rémunération fixée réglementairement et garantie.\n• Retraits possibles à tout moment et sans frais, au guichet uniquement.\n\nCompte bancaire 4\n• Pour qui: toute personne physique âgée de 12 à 25 ans.\n• Aucun frais d’ouverture. Versement initial minimum de 10 €.\n• Carte de retrait gratuite. Retraits possibles à tout moment et sans frais.\n• Durée: jusqu’au 31 décembre de l’année de votre 25e anniversaire.",
+    "question": "Quel compte bancaire est accessible sous conditions de ressources ?",
+    "options": [
+      "Compte bancaire 1",
+      "Compte bancaire 2",
+      "Compte bancaire 3",
+      "Compte bancaire 4"
+    ],
     "right_option": "C",
     "image_path": null,
-    "explanation": "L'Activité 3, les sentiers \"Mare a Mare\", sont décrits comme des itinéraires courts de moyenne montagne, offrant un panorama, mais sans mentionner de difficulté majeure. Les autres activités (GR 20, via ferrata, canyoning) impliquent des défis physiques plus importants, comme des randonnées longues et difficiles, de l'escalade ou des descentes en rappel."
+    "explanation": "The correct answer is c. Compte bancaire 3. This account is specifically for individuals whose income is below a certain limit set by the state, which means it is accessible under resource-based conditions."
   },
   {
     "question_no": 20,
     "group": 13,
-    "passage": "Séjour 1\nTroglodyte, rien que le terme est déjà un voyage. Habiter une maison creusée dans la roche est devenu un mode de vie insolite et minimaliste. Ainsi, plusieurs grottes de pêcheurs nichées dans les falaises ont été transformées en chambres d’hôtes. Un lieu idéal pour une introspection face à l’océan, bercé par le bruit des vagues et hypnotisé par le coucher du soleil.\n\nSéjour 2\nConfiné dans une bulle, vous devenez l’incarnation de l’expression “être dans sa bulle”. Expérience idéale pour les loups solitaires qui souhaitent se retirer du monde pour vivre en forêt, protégés par une bulle en plastique recyclé. En harmonie avec la nature, l’être humain se laisse envoûter par la faune et la flore qui l’entourent. Attention toutefois à ne pas déranger l’ours qui hiberne…\n\nSéjour 3\nLes chasseurs d’hôtels insolites vont se réjouir de cette nouvelle façon de vivre. Plongé dans le quotidien des Bourbons, le château de Fontainebleau ouvre grand ses portes. Les amoureux des forteresses seront les bienvenus pour y découvrir des façons de vivre ancestrales, des coutumes traditionnelles et des costumes d’époque. Un séjour dans ce lieu singulier saura vous satisfaire.\n\nSéjour 4\nAu revoir les vacances à la mer, les coups de soleil et le sable qui s’infiltre partout ! Et bonjour les températures extrêmes! Amateurs de sport d’hiver et aventuriers qui n’ont pas froid aux yeux, cette destination unique est faite pour vous ! Dormir dans un igloo est devenu LA tendance écologique du moment: seul ou en couple, vous pouvez être sûrs de respirer un bon bol d’air frais!",
-    "question": "Quelle offre de séjour correspond le mieux aux passionnés d’Histoire ?",
-    "options": ["Séjour 1", "Séjour 2", "Séjour 3", "Séjour 4"],
-    "right_option": "C",
+    "passage": "Parcours professionnel 1\nJ’ai commencé dans un tout autre métier puisque je viens du monde de la petite enfance. Puis un jour j’ai dû poser de la faïence dans ma salle de bains, ça m’a plu et je me suis dit « pourquoi pas ? » J’ai demandé à faire un apprentissage dans l’entreprise où je suis aujourd’hui, et j’ai obtenu mon diplôme.\n\nParcours professionnel 2\nJ’ai fait un apprentissage, c’est-à-dire qu’on varie entre école et entreprise. C’est vrai que je n’avais pas envie de faire des études longues, mais surtout le gros avantage c’est qu’on est payé comme un salarié normal. Ensuite, j’ai été embauché par les travaux publics, et depuis ce jour je ne regrette rien.\n\nParcours professionnel 3\nJ’ai commencé l’apprentissage de la maçonnerie à 14 ans, et c’est quelque chose de motivant, de valorisant puisqu’à la fin du mois on a un salaire alors qu’on se forme. Et puis quand on tombe sur les bonnes personnes et c’est souvent le cas on apprend très vite et dans de bonnes conditions.\n\nParcours professionnel 4\nJe faisais de l’escalade dans un club, et un jour j’ai observé des artisans couvreurs sur un toit, et je me suis dit que je pourrais allier ma passion à un métier. J’ai passé mon diplôme en alternance. Et je confirme, j’ai retrouvé certains gestes de l’escalade, et les notions de sécurité, de solidarité.",
+    "question": "Quel parcours correspond à une reconversion professionnelle ?",
+    "options": [
+      "Parcours professionnel 1",
+      "Parcours professionnel 2",
+      "Parcours professionnel 3",
+      "Parcours professionnel 4"
+    ],
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le Séjour 3 dans le château de Fontainebleau est clairement destiné aux passionnés d'Histoire. Il permet de découvrir des coutumes traditionnelles, des costumes d'époque et l'histoire des Bourbons, ce qui correspond parfaitement aux intérêts des passionnés d'Histoire."
+    "explanation": "The correct answer is Parcours professionnel 1. This individual started in a different field (childcare) and later transitioned into a new profession (tile setting), which is a clear example of a career change or reconversion."
   },
   {
     "question_no": 21,
     "group": 14,
-    "passage": "Appel 1\nL’émission de radio Vacarme RTS prépare un sujet sur le syndrome d’aliénation parentale. Vous êtes parent à l’origine d’aliénation parentale, ou vous-même en êtes victime ? Vous avez un adolescent ou un enfant qui en souffre et qui est en capacité de raconter son ressenti au long du conflit parental ? Vos témoignages (anonymat garanti) seraient très précieux.\nPrenez contact avec nous!\n\nAppel 2\nLe secteur de la puériculture connaît des difficultés importantes de recrutement, qui se posent avec acuité à chaque rentrée : fermeture d’établissements d’accueil, réduction de la capacité d’accueil. Racontez-nous les conséquences de ces difficultés sur votre foyer ! Avez-vous dû revoir votre organisation ? Renoncer au mode de garde que vous vouliez privilégier ? Faire appel à la solidarité familiale ?\n\nAppel 3\nEnfant de médecin, vous l’êtes devenu à votre tour. Médecin, vous avez un enfant qui l’est aussi aujourd’hui. Quel regard portez-vous sur le métier ? Avec des difficultés multiples (déserts médicaux, manque de moyens, etc.), le secteur en devient moins attractif pour les nouvelles générations. Votre témoignage nous intéresse pour un prochain article sur ce sujet.\n\nAppel 4\nBabilou, Les Petits Chaperons Rouges… Les poids lourds du secteur très lucratif des crèches privées ne sont plus à présenter ; mais comment la nouvelle logique de rentabilité induite par l’ouverture au marché affecte-t-elle votre quotidien ? Que vos enfants soient accueillis en crèche privée, ou que vous évoluiez dans ce secteur, Mediacités vous donne la parole dans sa nouvelle enquête participative.",
-    "question": "À quel appel répondra un professionnel de la petite enfance souhaitant parler de sa pratique ?",
-    "options": ["Appel 1", "Appel 2", "Appel 3", "Appel 4"],
+    "passage": "Critique 1\nEn renouant avec ses origines maliennes, Abderrahmane Sissako livre un beau film consacré à la force du lien, malgré l’exil. Entre documentaire et fiction, politique et poésie, chaque nouveau plan naît du précédent et enrichit le suivant. Le film, qui s’ouvre et se clôt sur l’envoi d’une lettre, mêle avec brio l’écrit et l’image.\n\nCritique 2\nPonctué par des citations d’Aimé Césaire, La Vie sur terre saisit dans une attention extrême la vie quotidienne du petit village, Sokolo, dans lequel Sissako se fond dès son arrivée en quittant ses vêtements d’Européen et en enfourchant un vélo. C’est d’ailleurs ainsi qu’il croisera le chemin de Nana, personnage féminin par qui la fiction s’introduit.\n\nCritique 3\nQue Sissako filme un arbre à l’horizon, un mur en torchis ocre ou évoque un soleil implacable, dévorant et désertfiant les terres, par les déplacements successifs d’hommes assis acculés contre une maison à mesure que l’ombre se consume, ses plans sont de toute beauté et riches de sens. La caméra interroge le passé, le présent, le futur du continent.\n\nCritique 4\nAbderrahmane Sissako livre ici un film sur le déplacement, qu’il soit intérieur, géographique ou cinématographique. Sissako a tourné sans scénario, mû par le désir de saisir les opportunités offertes par le hasard, en laissant l’Afrique s’imposer à lui et impressionner la pellicule de sa lumière, de ses gestes, et de son rapport au temps.",
+    "question": "Quelle critique évoque l’improvisation comme parti pris du réalisateur ?",
+    "options": [
+      "Critique 1",
+      "Critique 2",
+      "Critique 3",
+      "Critique 4"
+    ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "L’Appel 4 s’adresse aux personnes concernées par le secteur des crèches privées, que ce soit en tant que parent ou en tant que professionnel évoluant dans ce secteur. Un professionnel de la petite enfance souhaitant parler de sa pratique dans ce contexte répondra donc à cet appel."
+    "explanation": "Critique 4 explicitly mentions that Sissako filmed without a script, driven by the desire to seize the opportunities offered by chance, which clearly suggests improvisation as a filmmaking approach."
   },
   {
     "question_no": 22,
     "group": 15,
-    "passage": "<< Selon une étude publiée récemment, on enregistre à partir de 2022 un recul du transport fluvial. Celui-ci est très faible mais constant, malgré la croissance des dernières années. >>",
+    "passage": "Le climat dominant de Douala est de type tropical, avec une faible amplitude thermique : les températures moyennes varient de 2,5 degrés sur l’année. Février culmine à 26,9° C, tandis qu’août est le mois le plus frais avec 24,4° C.",
     "question": "Quel graphique correspond au commentaire suivant ?",
-    "options": ["Graphique 1", "Graphique 2", "Graphique 3", "Graphique 4"],
-    "right_option": "A",
-    "image_path": "assets/ce-111-1-min.png",
-    "explanation": "Le graphique 1 montre une croissance régulière du transport fluvial de 2018 à 2021, puis un léger recul constant à partir de 2022. Cela correspond bien au commentaire indiquant un recul faible mais continu après des années de croissance."
+    "options": [
+      "Graphique 1",
+      "Graphique 2",
+      "Graphique 3",
+      "Graphique 4"
+    ],
+    "right_option": "B",
+    "image_path": "assets/ce-2-1-min.png",
+    "explanation": "Le commentaire décrit un climat tropical avec une faible amplitude thermique, ce qui signifie que les températures restent relativement constantes tout au long de l'année, avec une légère variation. Février atteint son maximum à 26,9°C, tandis qu'août est le mois le plus frais avec 24,4°C. Un graphique qui montre une variation de température modérée (environ 2,5°C d'écart entre les mois les plus chauds et les plus frais) correspondrait à cette description, avec un pic en février et une température plus basse en août."
   },
   {
     "question_no": 23,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Ce document est :",
+    "passage": "Gouvernement du Canada\n\nImportant\nLe voyageur est responsable de sa propre sécurité. Ne vous attendez pas à ce que les services médicaux soient les mêmes que ceux offerts au Canada, en particulier si vous vous rendez dans des zones éloignées des grands centres urbains ou dans des pays en développement.\n\nEau/aliments\n\nLa diarrhée du voyageur, très fréquente, se transmet par la consommation d’eau ou d’aliments contaminés. Le traitement le plus important est la réhydratation : buvez beaucoup de liquides et apportez des sels spécifiques. N’ingérez rien qui n’ait été bouilli ou cuit !",
+    "question": "Ce document donne…",
     "options": [
-      "une invitation à un débat d'idées.",
-      "une publicité pour une école.",
-      "une présentation d'établissement.",
-      "un compte rendu de réunion."
+      "des conseils de santé aux futurs voyageurs.",
+      "le contact des hôpitaux canadiens à l'étranger.",
+      "des consignes aux voyageurs arrivant au Canada.",
+      "la liste des maladies tropicales les plus courantes."
     ],
-    "right_option": "C",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte présente les Beaux-Arts de Paris, leur mission, leur organisation, et leur ambition. Il s'agit donc d'une présentation d'établissement, et non d'une publicité ou d'un débat."
+    "explanation": "Le texte fournit des recommandations sanitaires pour les voyageurs, en particulier sur la prévention de la diarrhée du voyageur et les bonnes pratiques à adopter lors des voyages à l'étranger, ce qui en fait des conseils de santé pour les futurs voyageurs."
   },
   {
     "question_no": 24,
     "group": 16,
-    "passage": "Les Beaux-Arts\n\nLes Beaux-Arts de Paris ont pour mission d’assurer d’une part un enseignement des arts plastiques préparant à la création artistique. D’autre part, ils participent à la conservation du patrimoine et de ses collections. Établissement public doté d’un budget annuel de 13,5M€, les Beaux-Arts comptent un effectif de 209 personnes. L’institution est l’une des plus anciennes et prestigieuses écoles d’art françaises et internationales. Environ 650 élèves y suivent leurs études. Elle a pour ambition d’être un acteur de référence dans le milieu des arts plastiques, des idées et de la culture.",
-    "question": "Dans ce document, il est question de :",
+    "passage": "Gouvernement du Canada\n\nImportant\nLe voyageur est responsable de sa propre sécurité. Ne vous attendez pas à ce que les services médicaux soient les mêmes que ceux offerts au Canada, en particulier si vous vous rendez dans des zones éloignées des grands centres urbains ou dans des pays en développement.\n\nEau/aliments\n\nLa diarrhée du voyageur, très fréquente, se transmet par la consommation d’eau ou d’aliments contaminés. Le traitement le plus important est la réhydratation : buvez beaucoup de liquides et apportez des sels spécifiques. N’ingérez rien qui n’ait été bouilli ou cuit !",
+    "question": "Selon ce document,",
     "options": [
-      "un lieu de rencontre d'artistes.",
-      "d'un lieu de formation.",
-      "d'une salle d'exposition.",
-      "d'un musée prestigieux."
+      "l'eau est le meilleur des médicaments.",
+      "le sel limite les contaminations alimentaires.",
+      "la consommation d'aliments crus est à proscrire.",
+      "la déshydratation est fréquente après un long vol."
     ],
-    "right_option": "B",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte décrit principalement les Beaux-Arts de Paris comme un lieu d'enseignement des arts plastiques, où les étudiants suivent leur formation pour devenir des artistes. Il est donc question d'un lieu de formation."
+    "explanation": "Le document conseille de ne rien ingérer qui n'ait été bouilli ou cuit, ce qui implique que la consommation d'aliments crus est déconseillée afin d'éviter les risques de contamination."
   },
   {
     "question_no": 25,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Ce document annonce :",
+    "passage": "Extrait du Guide d’admission à l’Université de Montréal (UdeM)\n\nCertains programmes exigent la réussite de cours préalables OU de l’expérience pertinente dans le domaine. D’autres ne sont pas offerts aux candidates ou candidats étrangers, c’est le cas de plusieurs formations du domaine de la santé.\n\nPour être admissible, le candidat ou la candidate doit prouver que sa connaissance du français correspond aux exigences des études convoitées. L’UdeM a lancé un programme intensif de francisation universitaire.\n\nAfin de permettre aux talents de tous les pays de concrétiser leur projet, l’UdeM propose plusieurs avantages, dont des bourses et des aides pour trouver un emploi étudiant.",
+    "question": "Selon ce document,",
     "options": [
-      "l'ouverture de bureaux annexes.",
-      "une restructuration de l'entreprise.",
-      "la revalorisation du taux des prestations.",
-      "une hausse salariale selon l'ancienneté."
+      "certains programmes sont réservés aux étrangers.",
+      "l'expérience professionnelle est toujours nécessaire.",
+      "les critères de sélection varient selon les programmes.",
+      "les professionnels de la santé sont dispensés des formalités."
     ],
     "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte parle d'une augmentation des honoraires d'expertises et des forfaits liés aux déplacements extramuros, ce qui concerne directement la revalorisation des prestations fournies par l'entreprise."
+    "explanation": "Le texte mentionne que certains programmes exigent de l'expérience pertinente dans le domaine, d'autres non, et certains programmes ne sont pas offerts aux candidats étrangers. Cela montre que les critères de sélection peuvent varier d'un programme à l'autre."
   },
   {
     "question_no": 26,
     "group": 17,
-    "passage": "Chers collègues,\n\nJe reviens vers vous pour vous informer que, comme annoncé il y a un an, notre société d’assurance s’engage dans une logique vertueuse d’augmentation progressive et régulière de la rémunération de tous ses agents. Ainsi, les honoraires d’expertises seront augmentés en moyenne de 10 % (de 9,5 à 10,5% selon les catégories d’interventions). Les forfaits liés aux déplacements extramuros sont également revus à la hausse (de 15 à 30%). Le détail de cette grille tarifaire vous sera envoyé très prochainement avec les nouveaux contrats valables pour cette année.",
-    "question": "Cette décision :",
+    "passage": "Extrait du Guide d’admission à l’Université de Montréal (UdeM)\n\nCertains programmes exigent la réussite de cours préalables OU de l’expérience pertinente dans le domaine. D’autres ne sont pas offerts aux candidates ou candidats étrangers, c’est le cas de plusieurs formations du domaine de la santé.\n\nPour être admissible, le candidat ou la candidate doit prouver que sa connaissance du français correspond aux exigences des études convoitées. L’UdeM a lancé un programme intensif de francisation universitaire.\n\nAfin de permettre aux talents de tous les pays de concrétiser leur projet, l’UdeM propose plusieurs avantages, dont des bourses et des aides pour trouver un emploi étudiant.",
+    "question": "Ce document précise…",
     "options": [
-      "s'inscrit dans la redistribution des bénéfices.",
-      "fait suite à une revendication du personnel.",
-      "répond à une cohérence salariale de l'entreprise.",
-      "souscrit à la nouvelle législation en vigueur."
+      "que les candidatures doivent être rédigées en français.",
+      "que la maîtrise de la langue française est un prérequis.",
+      "que les étudiants étrangers ne peuvent travailler au Québec.",
+      "que l'université propose des bourses pour étudier à l'étranger."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte évoque une augmentation progressive et régulière de la rémunération des agents, mais il ne mentionne pas spécifiquement une revendication du personnel ni une nouvelle législation. La décision semble plutôt s'inscrire dans une logique interne de l'entreprise, probablement pour répondre à une cohérence salariale, en garantissant des augmentations de manière organisée."
+    "explanation": "Le document indique que pour être admissible, les candidats doivent prouver que leur connaissance du français correspond aux exigences des études qu'ils souhaitent poursuivre, ce qui fait de la maîtrise du français un prérequis."
   },
   {
     "question_no": 27,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "Cette entreprise propose :",
+    "passage": "TRANSPARENCE – SANTÉ\n\nPour développer leurs produits, les entreprises de santé sont amenées à nouer des relations avec des experts, des journalistes et des acteurs publics. Cette complémentarité permet le progrès scientifique et thérapeutique, mais il faut que ces liens soient connus de tous et disponibles aisément. Pilotée par le ministère de la Santé, la base de données Transparence – Santé permet à chaque citoyen d’apprécier en toute objectivité la nature de ces relations, leur objet et les montants exacts concernés. Trois types sont distingués :\n\n• les conventions impliquent des obligations réciproques, par exemple l’intervention lors d’un congrès moyennant la prise en charge des frais de déplacement ;\n• les avantages recouvrent tout ce qui est alloué ou versé sans contrepartie ;\n• les rémunérations sont les sommes versées en contrepartie d’un travail ou d’une prestation.\n\nLes informations sont mises à jour deux fois par an par les entreprises. Leur déclaration fait foi.",
+    "question": "L’initiative du ministère de la Santé a pour objectif…",
     "options": [
-      "de participer au développement durable de Madagascar.",
-      "de contribuer à l'industrialisation des fermes à Madagascar.",
-      "d'agir pour le repeuplement de zébus sur l'île.",
-      "de vivre une expérience unique auprès d'agriculteurs malgaches."
+      "de poursuivre en justice les auteurs de corruption.",
+      "de rendre publics les liens entre les acteurs de la santé.",
+      "de mettre un terme aux pratiques tarifaires abusives.",
+      "de clarifier ses relations avec les entreprises de santé."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte met en avant un modèle de financement durable et solidaire pour aider les paysans de Madagascar tout en respectant l'agriculture biologique et l'élevage traditionnel. Cela correspond à l'idée de participer au développement durable de Madagascar."
+    "explanation": "Le texte indique que la base de données Transparence - Santé permet à chaque citoyen d'apprécier objectivement les liens entre les acteurs de la santé, leur nature et les montants exacts concernés, ce qui vise à rendre publics ces liens."
   },
   {
     "question_no": 28,
     "group": 18,
-    "passage": "Chez Plan Zébu, nous vous invitons à investir dans un Zébu à Madagascar. Il sera cédé en location aux paysans les plus démunis qui n’ont accès à aucune autre source de financement. Ils pourront l’utiliser pour produire du lait, labourer la terre et faire naître des petits.\n\nTout en favorisant l’agriculture biologique et l’élevage traditionnel, Plan Zébu met en place un système de financement original où l’investisseur est en relation avec l’utilisateur des fonds placés. Nous espérons que vous lui rendrez visite pour lui caresser le nez et vous enquérir de sa bonne santé !",
-    "question": "L’investisseur pourra :",
+    "passage": "TRANSPARENCE – SANTÉ\n\nPour développer leurs produits, les entreprises de santé sont amenées à nouer des relations avec des experts, des journalistes et des acteurs publics. Cette complémentarité permet le progrès scientifique et thérapeutique, mais il faut que ces liens soient connus de tous et disponibles aisément. Pilotée par le ministère de la Santé, la base de données Transparence – Santé permet à chaque citoyen d’apprécier en toute objectivité la nature de ces relations, leur objet et les montants exacts concernés. Trois types sont distingués :\n\n• les conventions impliquent des obligations réciproques, par exemple l’intervention lors d’un congrès moyennant la prise en charge des frais de déplacement ;\n• les avantages recouvrent tout ce qui est alloué ou versé sans contrepartie ;\n• les rémunérations sont les sommes versées en contrepartie d’un travail ou d’une prestation.\n\nLes informations sont mises à jour deux fois par an par les entreprises. Leur déclaration fait foi.",
+    "question": "D’après ce document, les entreprises de santé…",
     "options": [
-      "remplacer l'agriculteur sur certaines tâches à la ferme.",
-      "posséder une parcelle de terre agraire à Madagascar.",
-      "créer un lien unique avec le fermier et l'animal.",
-      "acquérir un savoir-faire dans le domaine agricole."
+      "recourent abusivement à des compétences externes.",
+      "rechignent à publier les coûts réels de leurs produits.",
+      "ont une obligation de transparence sur leur situation financière.",
+      "alimentent à leur discrétion la base de données du ministère."
     ],
     "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte mentionne spécifiquement que l'investisseur est en relation avec l'utilisateur des fonds placés, et il est encouragé à rendre visite au Zébu et au fermier, suggérant ainsi qu'il pourra créer un lien unique avec le fermier et l'animal, plutôt que de prendre part directement aux tâches agricoles."
+    "explanation": "Le texte précise que les entreprises de santé doivent déclarer les informations relatives aux relations avec des experts, journalistes, et acteurs publics, et que ces informations sont mises à jour deux fois par an. Cela implique une obligation de transparence de leur part."
   },
   {
     "question_no": 29,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "L’objectif principal du texte est :",
+    "passage": "Séminaire de restitution du projet AREC\n\nCe projet de l’École supérieure des agricultures visait à accompagner les agriculteurs de la région Pays-de-la-Loire vers des pratiques plus respectueuses de l’environnement et à les communiquer auprès des consommateurs. Les équipes de recherche ont mené plusieurs actions :\n– intégration d’indicateurs de la biodiversité dans l’évaluation des impacts environnementaux ;\n– analyses sociologiques de la perception de la qualité des produits et des attentes des consommateurs ;\n– identification des modalités de communication pour valoriser les pratiques environnementales ;\n– étude de l’évolution agroécologique dans le cadre du changement climatique et impact sur la qualité des produits.",
+    "question": "Le projet AREC avait pour objectif…",
     "options": [
-      "de présenter les responsabilités pénales du consommateur.",
-      "de préciser les coûts des différents types de contestations.",
-      "de proposer aux professionnels des moyens pour éviter les litiges.",
-      "de présenter le processus de conciliation en cas de contentieux."
+      "de certifier << bio >> les agriculteurs les plus vertueux.",
+      "de mesurer les effets du dérèglement climatique.",
+      "de fédérer les acteurs du secteur agroécologique.",
+      "de fournir des outils pour la transition écologique."
     ],
     "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte se concentre sur la médiation entre consommateurs et professionnels, et comment celle-ci peut être utilisée pour résoudre des litiges de manière amiable. Il explique le rôle du médiateur, les démarches à suivre et les conditions de la médiation. L'objectif est donc de présenter le processus de conciliation en cas de contentieux."
+    "explanation": "Le projet AREC visait à accompagner les agriculteurs vers des pratiques plus respectueuses de l'environnement, ce qui implique la fourniture d'outils pour les aider dans la transition écologique."
   },
   {
     "question_no": 30,
     "group": 19,
-    "passage": "La médiation entre consommateurs et professionnels constitue une alternative efficiente et préférable aux procédures judiciaires, favorisant une résolution amiable des litiges. Le professionnel doit informer le consommateur des coordonnées du médiateur compétent, via son site web, conditions de vente, bons de commande, ou autres supports appropriés. Si un litige survient sans résolution directe, cette information reste essentielle. Si un médiateur couvre un domaine économique entier, ses coordonnées doivent également être fournies. La médiation est gratuite pour le consommateur, les coûts étant supportés par le professionnel. Seul le consommateur peut lancer cette médiation, qui doit être résolue dans les 90 jours suivant sa notification. Pour les litiges complexes, ce délai peut s’étendre. Les parties en sont informées.",
-    "question": "Il appartient au professionnel de :",
+    "passage": "Séminaire de restitution du projet AREC\n\nCe projet de l’École supérieure des agricultures visait à accompagner les agriculteurs de la région Pays-de-la-Loire vers des pratiques plus respectueuses de l’environnement et à les communiquer auprès des consommateurs. Les équipes de recherche ont mené plusieurs actions :\n– intégration d’indicateurs de la biodiversité dans l’évaluation des impacts environnementaux ;\n– analyses sociologiques de la perception de la qualité des produits et des attentes des consommateurs ;\n– identification des modalités de communication pour valoriser les pratiques environnementales ;\n– étude de l’évolution agroécologique dans le cadre du changement climatique et impact sur la qualité des produits.",
+    "question": "Il a notamment permis…",
     "options": [
-      "appeler l'organisme de médiation approprié.",
-      "assumer la charge financière liée à la médiation.",
-      "appuyer financièrement le consommateur.",
-      "initier la démarche de médiation avant le consommateur."
+      "de développer des produits éco-responsables.",
+      "de définir les régions les plus exposées à la crise.",
+      "de comprendre le point de vue des consommateurs.",
+      "de renforcer la biodiversité dans les zones agricoles."
     ],
-    "right_option": "B",
+    "right_option": "C",
     "image_path": null,
-    "explanation": "Le texte précise que le professionnel doit assumer la charge financière liée à la médiation, puisque les coûts de la médiation sont supportés par lui, tandis que la médiation elle-même est gratuite pour le consommateur."
+    "explanation": "Le texte mentionne que l'une des actions menées dans le cadre du projet a été l'analyse sociologique de la perception des produits et des attentes des consommateurs, ce qui a permis de mieux comprendre leur point de vue."
   },
   {
     "question_no": 31,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Par ce communiqué, l’entreprise s’attache à :",
+    "passage": "Partout en France les actions locales se multiplient, démontrant la vigueur de la mobilisation pour l’abrogation des réformes lancées par le ministre Galtier depuis sa nomination :\n\n• refonte du lycée et du baccalauréat ;\n• loi relative à la réussite scolaire et à l’information sur l’orientation scolaire.\n\nPuis vint la refonte de la voie professionnelle, diminuant les horaires des enseignements généraux. Ainsi s’empilent des réformes qui poursuivent la casse du service public d’éducation.\n\nLes personnels de l’éducation, les familles et de nombreux(ses) élu(e)s refusent ces transformations radicales de notre école.\n\nNous refusons aussi la remise en question de la liberté d’expression des personnels comme le prévoit l’article 1 de la loi Galtier. La CSE et le SNP Éducation considèrent qu’il faut tout mettre en œuvre pour empêcher le gouvernement de poursuivre sa politique, et appellent tous les personnels de l’Éducation nationale à se mettre en grève le jeudi 21 mai.",
+    "question": "Les auteurs de ce document…",
     "options": [
-      "montrer son engagement face au changement climatique.",
-      "encourager les initiatives en faveur des populations à risque.",
-      "informer de potentielles organisations partenaires.",
-      "trouver des investisseurs pour son nouveau fonds."
+      "appellent à la grève générale en France.",
+      "invitent les autres syndicats à les rejoindre.",
+      "annoncent leurs revendications pour l'école.",
+      "alertent sur la destruction de l'Éducation nationale."
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte présente un fonds spécifiquement destiné à aider les populations vulnérables face aux catastrophes climatiques, et souligne les objectifs de prévention et de reconstruction. Cela démontre un engagement concret de l'entreprise face aux enjeux du changement climatique."
+    "explanation": "Les auteurs dénoncent plusieurs réformes de l'Éducation nationale qu'ils considèrent comme destructrices du service public d'éducation, ce qui correspond à l'alerte sur la \"destruction\" de l'Éducation nationale."
   },
   {
     "question_no": 32,
     "group": 20,
-    "passage": "Nous avons le plaisir d’annoncer la création d’un nouveau fonds, doté de 15 millions d’euros, destiné à développer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, en partenariat avec des organisations spécialisées.\n\nLes catastrophes liées au climat ont quintuplé au cours des 50 dernières années. Aujourd’hui, près de trois milliards de personnes vivent dans des zones à risques.\n\nLe fonds sera orienté vers la << prévention », pour contribuer à minimiser l'impact des catastrophes climatiques avant qu'elles ne surviennent grâce à des systèmes de planification et d'alerte précoce; et la « reconstruction », afin de restaurer après de telles catastrophes les infrastructures essentielles et les services vitaux tels que les soins de santé, le logement...",
-    "question": "Ce fonds servira à :",
+    "passage": "Partout en France les actions locales se multiplient, démontrant la vigueur de la mobilisation pour l’abrogation des réformes lancées par le ministre Galtier depuis sa nomination :\n\n• refonte du lycée et du baccalauréat ;\n• loi relative à la réussite scolaire et à l’information sur l’orientation scolaire.\n\nPuis vint la refonte de la voie professionnelle, diminuant les horaires des enseignements généraux. Ainsi s’empilent des réformes qui poursuivent la casse du service public d’éducation.\n\nLes personnels de l’éducation, les familles et de nombreux(ses) élu(e)s refusent ces transformations radicales de notre école.\n\nNous refusons aussi la remise en question de la liberté d’expression des personnels comme le prévoit l’article 1 de la loi Galtier. La CSE et le SNP Éducation considèrent qu’il faut tout mettre en œuvre pour empêcher le gouvernement de poursuivre sa politique, et appellent tous les personnels de l’Éducation nationale à se mettre en grève le jeudi 21 mai.",
+    "question": "Ils dénoncent notamment…",
     "options": [
-      "renforcer la résistance des populations fragiles.",
-      "optimiser les projets environnementaux existants.",
-      "stimuler la croissance économique locale.",
-      "encourager l'innovation technologique."
+      "la mise au pas de la profession.",
+      "la vision court-termiste du ministre.",
+      "la dégradation des conditions de travail.",
+      "l'absence de concertation sur les réformes."
     ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte met en avant que le fonds a pour objectif de renforcer la capacité de résilience des populations vulnérables face aux catastrophes climatiques, ce qui correspond à l'idée de renforcer la résistance des populations fragiles."
+    "explanation": "Les auteurs s'opposent notamment à la remise en question de la liberté d'expression des personnels, ce qui reflète l'idée de \"mise au pas\" de la profession, en particulier à travers l'article 1 de la loi Galtier."
   },
   {
     "question_no": 33,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "D’après l’article, les abeilles :",
+    "passage": "En Côte d’Ivoire, des opérations << coup de poing >> dans les services publics\n\n“Le message, c’est attention à la fraude, attention au racket, l’État vous voit”, a déclaré la ministre en charge de la fonction publique.\n\nSelon l’ONG Transparency International, la Côte d’Ivoire a amélioré sa performance ces dernières années. Mais “la perception des Ivoiriens en matière de corruption s’est peu améliorée”, a reconnu la ministre. Propos étayés par une récente enquête réalisée par Afrobaromètre, selon laquelle un Ivoirien sur trois déclarait y avoir recours pour éviter des problèmes ou se faire délivrer des documents; et deux tiers avouaient craindre des représailles en cas de dénonciation.\n\nPlusieurs secteurs ont déjà été visés par des opérations visant à recueillir des preuves de corruption. La police et la gendarmerie sont dans le collimateur, notamment pour les pots-de-vin prélevés aux vendeurs de produits vivriers sur les routes de Côte d’Ivoire.\n\n“Ces pratiques ont un lien direct avec la vie chère !”, a martelé la ministre, alors que la population se plaint des prix des denrées alimentaires. L’éducation, la santé et la justice sont également suivies de près. À la suite de ces opérations, le commissaire du gouvernement a été saisi.",
+    "question": "Selon cet article, la corruption…",
     "options": [
-      "représentent un défi écologique pour les villes.",
-      "apprécient la biodiversité des villes.",
-      "se dirigent davantage vers les milieux urbains.",
-      "produisent moins de miel dans les zones agricoles."
+      "a dramatiquement augmenté depuis 10 ans.",
+      "fait chuter le prix des produits de consommation.",
+      "est systématiquement dénoncée par la population.",
+      "est notamment présente dans les forces de l'ordre."
     ],
-    "right_option": "B",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "L'article met en évidence que les abeilles bénéficient de la diversité des espèces végétales présentes dans les villes, ce qui leur permet de butiner plus longtemps en raison des températures légèrement plus élevées. Cependant, l'augmentation rapide du nombre de ruches entraîne une diminution de la production de miel, car les ressources florales deviennent limitées. Ainsi, les abeilles apprécient la biodiversité des villes qui leur offre une grande variété de sources alimentaires."
+    "explanation": "L'article mentionne spécifiquement la présence de corruption dans les forces de l'ordre, notamment la police et la gendarmerie, pour les pots-de-vin prélevés sur les vendeurs de produits vivriers."
   },
   {
     "question_no": 34,
     "group": 21,
-    "passage": "Installer des ruches dans les grandes villes, une bonne idée ?\n\nC’est une question qui fait débat dans le milieu de l’apiculture urbaine. Il est couramment admis que les villes offrent plusieurs avantages notables par rapport aux campagnes. D’abord, on ne trouve que très peu de pesticides, puis il y a une variété d’espèces végétales plus importante qu’en zone rurale. Et finalement, il y fait un peu plus chaud : 1 ou 2 degrés de plus, ce qui permet aux colonies d’abeilles de butiner plus longtemps. On se rend compte que la ville est un environnement qui convient bien aux abeilles.\n\nLe nombre de ruches dans les villes grandit chaque année et pourtant le nombre d’espaces verts, lui, n’augmente que très peu. Des études ont montré que l’effondrement général de la production de miel urbain est en lien direct avec la multiplication rapide du nombre de ruches. Cela s’explique par un seuil de densité trop vite atteint menant à une baisse de la production des abeilles, notamment en raison de ressources florales arrivées à leurs limites. L’effet positif des villes sur la production de miel tend à décroître au fil des années.",
-    "question": "La mise en place des ruches en ville :",
+    "passage": "En Côte d’Ivoire, des opérations << coup de poing >> dans les services publics\n\n“Le message, c’est attention à la fraude, attention au racket, l’État vous voit”, a déclaré la ministre en charge de la fonction publique.\n\nSelon l’ONG Transparency International, la Côte d’Ivoire a amélioré sa performance ces dernières années. Mais “la perception des Ivoiriens en matière de corruption s’est peu améliorée”, a reconnu la ministre. Propos étayés par une récente enquête réalisée par Afrobaromètre, selon laquelle un Ivoirien sur trois déclarait y avoir recours pour éviter des problèmes ou se faire délivrer des documents; et deux tiers avouaient craindre des représailles en cas de dénonciation.\n\nPlusieurs secteurs ont déjà été visés par des opérations visant à recueillir des preuves de corruption. La police et la gendarmerie sont dans le collimateur, notamment pour les pots-de-vin prélevés aux vendeurs de produits vivriers sur les routes de Côte d’Ivoire.\n\n“Ces pratiques ont un lien direct avec la vie chère !”, a martelé la ministre, alors que la population se plaint des prix des denrées alimentaires. L’éducation, la santé et la justice sont également suivies de près. À la suite de ces opérations, le commissaire du gouvernement a été saisi.",
+    "question": "Les résultats des investigations…",
     "options": [
-      "présente des avantages limités dans le temps.",
-      "est inefficace pour protéger l'écosystème.",
-      "a un effet dévastateur sur les campagnes.",
-      "permet à de nouvelles espèces végétales de prospérer."
+      "ont entraîné des représailles.",
+      "ont été transmis aux autorités.",
+      "ont donné lieu à des arrestations.",
+      "sont en cours d'analyse par des ONG."
     ],
-    "right_option": "A",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "L'article souligne que bien que les villes offrent des avantages initiaux pour les abeilles, comme une meilleure biodiversité et des températures plus élevées, ces avantages diminuent au fil du temps. Cela est dû à l'augmentation du nombre de ruches, qui entraîne une saturation des ressources florales disponibles. Ainsi, l'impact positif des villes sur la production de miel diminue au fil des années, ce qui rend les avantages limités dans le temps."
+    "explanation": "Les résultats des investigations ont conduit à ce que le commissaire du gouvernement soit saisi, ce qui signifie que les résultats ont été transmis aux autorités compétentes."
   },
   {
     "question_no": 35,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "L’auteur de cet article s’inquiète :",
+    "passage": "Avouez que, ces dernières années, les envies de tout raser à la tractopelle ou de servir une descente du coude à certaines têtes à claques se sont multipliées. Ces émotions teintées de haine, parfois cultivées à l’échelle collective, devraient-elles nous inquiéter ? Pas nécessairement, répond la Dre Garibian, psychologue à Montréal, pour qui « les conditions de vie modernes font que nous sommes en situation de stress chronique, ce qui nous rend beaucoup plus intolérants et irritables ». À ses yeux, il faut tout d’abord accepter ce ressenti, car l’émotion réprimée pourrait provoquer d’autres ennuis de santé. Il faut cependant veiller aux conditions et aux conséquences de cette expression, qui peut causer des torts irréversibles en se tournant vers quelqu’un qui ne le mérite pas : « l’hostilité ouvre la porte au clivage et à la radicalisation ».\n\nL’énergie négative peut être évacuée grâce à la dépense sportive, très efficace, mais aussi l’écriture ou encore le dialogue avec des gens en qui on a confiance. Et se défouler sur les réseaux sociaux ? Mauvaise idée.\n\n<< Il y a un risque de déshumanisation, et on s'expose aussi à l'effet d'entraînement », prévient la psychologue.",
+    "question": "D’après cet article,",
     "options": [
-      "de l'avenir du ministère en charge de l'environnement.",
-      "de la perte d'identité des populations du désert.",
-      "des pollutions créées par les chasseurs de météorites.",
-      "de la récupération du patrimoine par des groupes privés."
+      "les émotions négatives sont liées au mode de vie.",
+      "l'humanité s'est construite dans la peur de l'autre.",
+      "les réseaux sociaux exacerbent les tensions sociales.",
+      "la société est de plus en plus intolérante à la différence."
     ],
-    "right_option": "D",
+    "right_option": "A",
     "image_path": null,
-    "explanation": "L'article met en lumière le risque que les spécimens de météorites marocaines, non protégées par des lois, se retrouvent dans des collections privées au lieu d'être conservés et préservés dans une structure dédiée, comme un musée national. L'auteur s'inquiète de cette récupération par des acteurs privés, comme la Meteorical Society, qui organise même des congrès pour attirer l'attention sur ce patrimoine."
+    "explanation": "La psychologue explique que les conditions de vie modernes créent un stress chronique, ce qui rend les individus plus intolérants et irritables, donc les émotions négatives sont directement liées au mode de vie actuel."
   },
   {
     "question_no": 36,
     "group": 22,
-    "passage": "Les perles noires du désert\n\nUn véritable commerce s’est développé autour de ces fragments célestes arrivés sur Terre après une chute fracassante et faisant du Maroc un des premiers pays exportateurs au monde. De nombreux nomades ont fait de la chasse aux météorites leur métier puisqu’aucune loi ne protège le patrimoine géologique du Maroc. Un projet a tout de même été déposé auprès du ministère des Mines et de l’Environnement, mais il est resté lettre morte. En Algérie par exemple, la collecte de météorites est interdite. Mais au lieu d’interdire, il faudrait réglementer la collecte, les exports, et se doter de structures comme un musée national des météorites. Car, si les spécimens marocains ne sont pas regroupés au sein d’une structure dédiée, ils risquent de se perdre dans des collections privées. Et si le Maroc ne voit pas encore l’intérêt de collecter et préserver ces perles noires du désert, d’autres acteurs moins scrupuleux le devanceront, comme la Meteorical Society qui a décidé d’organiser son prochain congrès, pour la première fois, dans un pays arabe.",
-    "question": "D’après ce texte, la présence de météorites a généré :",
+    "passage": "Avouez que, ces dernières années, les envies de tout raser à la tractopelle ou de servir une descente du coude à certaines têtes à claques se sont multipliées. Ces émotions teintées de haine, parfois cultivées à l’échelle collective, devraient-elles nous inquiéter ? Pas nécessairement, répond la Dre Garibian, psychologue à Montréal, pour qui « les conditions de vie modernes font que nous sommes en situation de stress chronique, ce qui nous rend beaucoup plus intolérants et irritables ». À ses yeux, il faut tout d’abord accepter ce ressenti, car l’émotion réprimée pourrait provoquer d’autres ennuis de santé. Il faut cependant veiller aux conditions et aux conséquences de cette expression, qui peut causer des torts irréversibles en se tournant vers quelqu’un qui ne le mérite pas : « l’hostilité ouvre la porte au clivage et à la radicalisation ».\n\nL’énergie négative peut être évacuée grâce à la dépense sportive, très efficace, mais aussi l’écriture ou encore le dialogue avec des gens en qui on a confiance. Et se défouler sur les réseaux sociaux ? Mauvaise idée.\n\n<< Il y a un risque de déshumanisation, et on s'expose aussi à l'effet d'entraînement », prévient la psychologue.",
+    "question": "Selon la psychologue,",
     "options": [
-      "une nouvelle activité pour les populations du désert.",
-      "une mobilisation sans précédent des universitaires.",
-      "une exposition à destination du grand public.",
-      "un trafic important avec les pays voisins."
+      "déverser sa colère sur ses proches est naturel.",
+      "refouler nos émotions protège notre entourage.",
+      "identifier les personnalités toxiques est essentiel.",
+      "s'exprimer sans filtre peut nuire à autrui."
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte explique que de nombreux nomades du désert ont fait de la chasse aux météorites leur métier, créant ainsi une nouvelle activité pour les populations locales. Cette activité est rendue possible grâce à la vente de météorites, un commerce qui s'est développé autour de ces fragments célestes."
+    "explanation": "La psychologue avertit que l'expression d'une émotion négative sans contrôle (par exemple, de manière excessive ou inappropriée) peut entraîner des torts irréversibles envers des personnes qui ne le méritent pas."
   },
   {
     "question_no": 37,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, l’être humain :",
+    "passage": "Pays du sourire, le Cambodge est un pays attachant, généreux et les Cambodgiens un peuple dont on ne peut qu’admirer l’optimisme et la résilience.\nQuand on évoque son nom, c’est l’image d’Angkor qui s’impose à nous, ses ruines monumentales qui ont inspiré tant de voyageurs, d’archéologues et d’artistes, ses danseuses suspendues, majestueuses.\n\nCôté face, la période des Khmers rouges (1975-1979) fut celle d’une horreur mortifère, d’une négation humaine qu’on ne sait pas comment dire ni guérir.\nEntre ces extrêmes d’histoire simplifiée, quelles grilles de lecture seraient à même de nous aider à déceler la complexité du pays, sans l’enfermer dans des boîtes conceptuelles ? Comment un peuple qui a pu produire des œuvres aussi sublimes en est-il venu à produire un tel cauchemar ? Et pourquoi a-t-il tant de difficultés à affronter son passé ?\n\nIl est, en effet, frappant de constater que les Cambodgiens se réfèrent en permanence au mythe prestigieux de l’Empire khmer disparu depuis 600 ans et occultent complètement l’histoire récente plus troublée, par peur ou gêne : protectorat français, occupation vietnamienne, présence des casques bleus…\n\nQuant à la réalité du Cambodge aujourd’hui, c’est celle d’un État assisté : la moitié du budget national est financée par l’aide internationale ; ce sont des écarts de richesse d’autant plus choquants qu’ils sont le résultat de passe-droits abusivement décernés à des milieux d’affaires débridés ; c’est un espace de concurrence entre d’encombrants voisins. C’est enfin une société obligée de fonctionner sur de nouvelles bases peu conformes à ses aspirations.",
+    "question": "Selon cet article,",
     "options": [
-      "doit trouver son harmonie spirituelle.",
-      "se complait dans son anxiété.",
-      "s'épanouit dans ses relations humaines.",
-      "doit intérioriser ses tourments."
+      "les Cambodgiens cultivent sciemment leur propre légende.",
+      "les historiens du Cambodge manquent de sources récentes.",
+      "les traditions cambodgiennes disparaissent inexorablement.",
+      "la documentation sur le Cambodge est empreinte d'idéologie."
     ],
     "right_option": "A",
     "image_path": null,
-    "explanation": "Le texte évoque l'idée que vivre, c'est être fondamentalement intranquille. Cependant, l'être humain doit trouver un équilibre en agissant avec empathie et vigilance, et en luttant contre ses représentations anxieuses. Ce processus implique de trouver une forme d'harmonie dans la gestion de son intranquillité. Ce n'est donc pas l'intériorisation passive ou le repli sur soi qui est encouragé, mais plutôt une quête active d'équilibre et de sérénité."
+    "explanation": "L'article souligne que les Cambodgiens se réfèrent en permanence au mythe prestigieux de l'Empire khmer tout en occultant l'histoire récente plus troublée. Cela suggère que, pour diverses raisons, il y a une sorte de cultivation du passé glorieux de l'Empire khmer, tout en négligeant les événements plus récents et douloureux de leur histoire."
   },
   {
     "question_no": 38,
     "group": 23,
-    "passage": "Avoir l’esprit tranquille est-il un pur fantasme ?\n\nLe niveau zéro stress est-il atteignable ou est-ce une publicité mensongère ? Les turpitudes de l’existence que nous ressentons à l’intérieur peuvent-elles disparaître un jour ? Cela paraît largement utopique.\n\nAujourd’hui, chacun a en tête son éden, mais pour beaucoup, bien plus qu’un lieu de liberté, celui-ci ressemble davantage à un cocon de calme et de sérénité. Et, pour atteindre ce paradis, toutes sortes de moyens sont proposés : les bien nommés tranquillisants, mais aussi la méditation, le jogging qui libère des endorphines bienvenues pour s’apaiser.\n\nDans cette course à la paix, certains sont plus radicaux, cherchant carrément à disparaître de la carte sociétale.\n\nCes arpenteurs de déserts qui souvent ont construit une vie au milieu de nulle part ne sont en rien des vagabonds ou des fuyards mais bien plutôt les porteurs d’un réel projet d’autonomie. Un grand nombre d’entre eux recréent une communauté, et restent connectés à l’actualité via Internet! Leur intranquillité, qu’ils ont finalement emmenée avec eux, se transforme même parfois en une forme de légère paranoïa vis-à-vis de ce qui se passe dans le monde.\n\nCependant, vivre, c’est être fondamentalement intranquille. Soit. Mais entre anxiété et acceptation passive de notre essentielle insécurité psychologique, comment s’en sortir ? En agissant aussi souvent que possible dans une forme d’empathie et de vigilance aux mouvements de la vie. Tout sauf l’inaction et le grand calme donc.\n\nC’est un équilibre à trouver, d’une certaine manière, nous devons à la fois lutter contre ce qui provoque de l’intranquillité en nous – nos représentations anxieuses, nos illusions tout en restant vivants.",
-    "question": "D’après le texte, la technologie :",
+    "passage": "Pays du sourire, le Cambodge est un pays attachant, généreux et les Cambodgiens un peuple dont on ne peut qu’admirer l’optimisme et la résilience.\nQuand on évoque son nom, c’est l’image d’Angkor qui s’impose à nous, ses ruines monumentales qui ont inspiré tant de voyageurs, d’archéologues et d’artistes, ses danseuses suspendues, majestueuses.\n\nCôté face, la période des Khmers rouges (1975-1979) fut celle d’une horreur mortifère, d’une négation humaine qu’on ne sait pas comment dire ni guérir.\nEntre ces extrêmes d’histoire simplifiée, quelles grilles de lecture seraient à même de nous aider à déceler la complexité du pays, sans l’enfermer dans des boîtes conceptuelles ? Comment un peuple qui a pu produire des œuvres aussi sublimes en est-il venu à produire un tel cauchemar ? Et pourquoi a-t-il tant de difficultés à affronter son passé ?\n\nIl est, en effet, frappant de constater que les Cambodgiens se réfèrent en permanence au mythe prestigieux de l’Empire khmer disparu depuis 600 ans et occultent complètement l’histoire récente plus troublée, par peur ou gêne : protectorat français, occupation vietnamienne, présence des casques bleus…\n\nQuant à la réalité du Cambodge aujourd’hui, c’est celle d’un État assisté : la moitié du budget national est financée par l’aide internationale ; ce sont des écarts de richesse d’autant plus choquants qu’ils sont le résultat de passe-droits abusivement décernés à des milieux d’affaires débridés ; c’est un espace de concurrence entre d’encombrants voisins. C’est enfin une société obligée de fonctionner sur de nouvelles bases peu conformes à ses aspirations.",
+    "question": "L’auteur met en lumière…",
     "options": [
-      "favorise la paix intérieure.",
-      "représente un moyen de méditation.",
-      "incarne une extension de l'Homme.",
-      "symbolise un retour à la réalité."
+      "l'influence culturelle des puissances voisines.",
+      "les paradoxes qui rendent le pays insaisissable.",
+      "la prédation de l'aide internationale par les élites.",
+      "la perte du capital sympathie dont jouissait le pays."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte mentionne que les \"arpenteurs de déserts\" restent connectés à l'actualité via Internet, ce qui indique que la technologie, loin d'être un facteur de paix intérieure, fait plutôt partie d'un projet de vie autonome où les individus utilisent des outils technologiques pour rester informés, même dans des lieux isolés. Cela suggère que la technologie est perçue comme une extension de l'Homme, permettant une connexion au monde extérieur, même en dehors des sociétés traditionnelles."
+    "explanation": "L'auteur souligne les paradoxes du Cambodge, tels que l'écart entre la grandeur historique et la réalité actuelle du pays, entre l'image d'Angkor et les horreurs des Khmers rouges, ainsi que la difficulté à affronter son passé. Ces paradoxes rendent le pays difficile à comprendre ou à définir, ce qui en fait un \"pays insaisissable.\""
   },
   {
     "question_no": 39,
     "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "Pour endiguer la crise écologique, il faut que :",
+    "passage": "On aura beau actionner tous les recyclages, la société québécoise est et sera aux prises avec une pénurie de main-d’œuvre chronique aussi loin que l’on puisse voir dans l’avenir.\nLa plupart des entreprises québécoises y font face présentement, et la situation n’est pas meilleure dans le secteur public. Il est inexact de prétendre que la situation est identique dans toutes les provinces du Canada.\n\nLa différence se situe dans la croissance démographique attendue d’ici 2050 :\npar exemple, la population de l’Ontario, notre voisin et principal partenaire économique, totalisera 20 millions de personnes (+35 %), la nôtre, un peu moins de 10 millions. La proportion des 65 ans et plus croîtra progressivement pour totaliser 2,6 millions de Québécois.\n\nDe quelle main-d’œuvre aurons-nous besoin alors pour offrir à ces aînés les services à domicile ou institutionnels exigés par leur situation ?\nQuelles sont les masses critiques de citoyens requises d’ici 2050 pour que chaque région demeure viable, dynamique et attrayante ? Comment retenir nos jeunes attirés par les promesses de nos puissants voisins ?\n\nFaisons aussi l’examen honnête des causes du départ massif des immigrants venus au Québec après les dix-huit premiers mois de leur arrivée,\net la révision de nos systèmes d’accueil, y compris l’offre de francisation qui doit devenir, en quantité et en qualité, l’une de nos politiques les plus avancées.\n\nLe Québec doit conforter sa première richesse, sa richesse humaine.\nLe temps est donc venu de créer une commission d’enquête comme on l’a fait dans le passé, et avec succès, quand il nous a fallu éclairer notre avenir en matière d’éducation, de santé et de bien-être social, de politique linguistique, de relation entre les autochtones et certains services publics, de liberté syndicale, etc.\n\nCar si rien n’est entrepris, il faut craindre l’affadissement d’une société et l’effondrement de son modèle social.",
+    "question": "Selon cet article, le Québec…",
     "options": [
-      "la mise en retrait de l'homme est indispensable.",
-      "l'usage des nouvelles technologies est un leurre.",
-      "les pratiques numériques sont à reconsidérer.",
-      "l'intelligence artificielle est porteuse d'espoir."
+      "connaît sa première véritable crise d'identité.",
+      "peine à retenir à long terme sa population immigrée.",
+      "possède la main-d'œuvre la plus vieillissante du Canada.",
+      "voit sa jeunesse enlisée dans les emplois précaires."
     ],
-    "right_option": "C",
+    "right_option": "B",
     "image_path": null,
-    "explanation": "Le texte critique la dépendance excessive aux technologies numériques pour résoudre la crise climatique, en mettant en évidence l'impact environnemental généré par la prolifération des objets connectés et des systèmes autonomes. L’auteur souligne que se concentrer uniquement sur les comportements numériques des humains pourrait être vain, suggérant ainsi qu'une reconsidération des pratiques numériques est nécessaire pour véritablement maîtriser l'impact écologique."
+    "explanation": "L'article évoque le départ massif des immigrants après leur arrivée au Québec, ce qui montre que le Québec peine à retenir sa population immigrée."
   },
   {
     "question_no": 40,
     "group": 24,
-    "passage": "Face à l’urgence climatique, une sainte alliance mondiale s’est nouée autour d’une conviction. Celle d’un grand basculement du monde en ligne pour le bien de la planète. “À tel point que l’on considère de plus en plus qu’il ne sera pas possible de maîtriser le changement climatique sans un recours massif au numérique”, souligne l’association The Shift Project, qui ne partage pas ce point de vue. Une nouvelle doctrine promeut le salut par les villes “intelligentes”, bourrées de capteurs et de véhicules électriques autonomes. Cette croyance peut compter sur d’efficaces partisans pour qui « les émissions évitées via l’utilisation des technologies de l’information et de la communication sont près de dix fois plus importantes que celles générées par le déploiement de ces technologies ».\n\nInternet modèle un monde où l’activité humaine stricto sensu n’est plus la seule à animer l’univers numérique. « Les ordinateurs et objets communiquent entre eux sans intervention humaine. La production de données n’est plus cantonnée à une action de notre part », confirme Mike Hazas, professeur à l’université de Lancaster. Ce phénomène génère bien entendu un impact environnemental… sans que nous soyons capables de le calculer, voire de le contrôler. Une question dérangeante se pose : en fait d’activité numérique, les robots pourraient-ils laisser un jour une trace écologique plus profonde encore que celle des humains ?\n\nQuels seront les impacts écologiques d’un monde dans lequel des essaims de véhicules autonomes marauderont, vides, à travers des cités endormies, et où des armadas de logiciels en découdront sur le Web, vingt-quatre heures par jour, tandis que nous vaquerons à nos loisirs ? Ils seront colossaux – probablement plus considérables que l’ensemble de la pollution numérique d’origine humaine. Aussi, se concentrer sur les répercussions de nos comportements numériques risque de s’avérer vain et illusoire.",
-    "question": "L’auteur dénonce :",
+    "passage": "On aura beau actionner tous les recyclages, la société québécoise est et sera aux prises avec une pénurie de main-d’œuvre chronique aussi loin que l’on puisse voir dans l’avenir.\nLa plupart des entreprises québécoises y font face présentement, et la situation n’est pas meilleure dans le secteur public. Il est inexact de prétendre que la situation est identique dans toutes les provinces du Canada.\n\nLa différence se situe dans la croissance démographique attendue d’ici 2050 :\npar exemple, la population de l’Ontario, notre voisin et principal partenaire économique, totalisera 20 millions de personnes (+35 %), la nôtre, un peu moins de 10 millions. La proportion des 65 ans et plus croîtra progressivement pour totaliser 2,6 millions de Québécois.\n\nDe quelle main-d’œuvre aurons-nous besoin alors pour offrir à ces aînés les services à domicile ou institutionnels exigés par leur situation ?\nQuelles sont les masses critiques de citoyens requises d’ici 2050 pour que chaque région demeure viable, dynamique et attrayante ? Comment retenir nos jeunes attirés par les promesses de nos puissants voisins ?\n\nFaisons aussi l’examen honnête des causes du départ massif des immigrants venus au Québec après les dix-huit premiers mois de leur arrivée,\net la révision de nos systèmes d’accueil, y compris l’offre de francisation qui doit devenir, en quantité et en qualité, l’une de nos politiques les plus avancées.\n\nLe Québec doit conforter sa première richesse, sa richesse humaine.\nLe temps est donc venu de créer une commission d’enquête comme on l’a fait dans le passé, et avec succès, quand il nous a fallu éclairer notre avenir en matière d’éducation, de santé et de bien-être social, de politique linguistique, de relation entre les autochtones et certains services publics, de liberté syndicale, etc.\n\nCar si rien n’est entrepris, il faut craindre l’affadissement d’une société et l’effondrement de son modèle social.",
+    "question": "L’auteur de cet article préconise…",
     "options": [
-      "la pollution générée par les intelligences artificielles.",
-      "l'usage immoral fait des intelligences artificielles.",
-      "les contradictions dans les études sur les intelligences artificielles.",
-      "la pensée unique sur les intelligences artificielles."
+      "de simplifier les procédures d'immigration.",
+      "de revaloriser l'emploi dans le service public.",
+      "de réduire la dépendance stratégique à l'Ontario.",
+      "de définir d'urgence une politique démographique."
     ],
-    "right_option": "A",
+    "right_option": "D",
     "image_path": null,
-    "explanation": "Le texte critique l’impact environnemental du numérique, en particulier des technologies autonomes comme les véhicules intelligents et les logiciels tournant en continu. Il remet en question l’idée que le numérique soit automatiquement bénéfique pour le climat, et alerte sur la pollution invisible et incontrôlée que pourraient engendrer ces systèmes, y compris l’IA."
+    "explanation": "L'auteur souligne les défis démographiques du Québec, comme la pénurie de main-d'œuvre et le vieillissement de la population, et appelle à des actions concrètes. Il propose la création d'une commission d'enquête pour orienter les politiques démographiques et des ressources humaines, soulignant l'urgence d'une approche stratégique."
   }
 ]
