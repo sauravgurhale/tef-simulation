@@ -51,15 +51,19 @@ def main_home(request):
 
 def home(request):
     practices = discover_practices()
+    for p in practices:
+        p['audio_mode'], _ = get_audio_mode(p['slug'])
     return render(request, 'co_practice/home.html', {'practices': practices})
 
 
 def practice_index(request, practice_slug):
     if not get_practice_folder(practice_slug).exists():
         raise Http404
+    audio_mode, _ = get_audio_mode(practice_slug)
     return render(request, 'co_practice/index.html', {
         'groups': GROUPS,
         'practice_slug': practice_slug,
+        'audio_mode': audio_mode,
     })
 
 

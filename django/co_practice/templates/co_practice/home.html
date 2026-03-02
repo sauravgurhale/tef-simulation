@@ -24,7 +24,12 @@
            }
          }">
       <div>
-        <p class="text-sm font-bold text-gray-900">{{ practice.label }}</p>
+        <div class="flex items-center gap-2">
+          <p class="text-sm font-bold text-gray-900">{{ practice.label }}</p>
+          {% if practice.audio_mode == 'full' %}
+          <span class="text-xs px-1.5 py-0.5 rounded bg-amber-100 text-amber-600 font-medium">raw</span>
+          {% endif %}
+        </div>
         <p class="text-xs text-gray-400 mt-0.5">
           <span x-text="attempted"></span> / 40
         </p>
